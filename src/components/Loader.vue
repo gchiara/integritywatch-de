@@ -6,7 +6,7 @@
       </div>
       <div class="loader"></div>
       <div class="loader-text below">
-        Please wait a moment for the data to load ...
+        Bitte warten Sie einen Moment, bis die Daten geladen sind ...
       </div>
     </div>
   </div>

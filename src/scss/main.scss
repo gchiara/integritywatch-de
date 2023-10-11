@@ -75,7 +75,9 @@ $color_lobby: #e51f5c;
       margin-bottom: 10px;
       font-family: Oswald;
       font-weight: 600;
-      //letter-spacing: 1px;
+      @media only screen and (max-width: 768px) {
+        font-size: 32px;
+      }
     }
     h2 {
       font-size: 23px;
@@ -303,64 +305,16 @@ $color_lobby: #e51f5c;
     height: 630px;
   }
   &.organizations_1 {
-    height: 530px;
+    height: 600px;
   }
   &.organizations_2 {
-    height: 530px;
+    height: 600px;
   }
   &.organizations_3 {
-    height: 530px;
+    height: 550px;
   }
   &.organizations_4 {
-    height: 580px;
-    .chart-inner {
-      padding-top: 40px;
-    }
-  }
-  &.organizations_5 {
-    height: 580px;
-    .chart-inner {
-      padding-top: 40px;
-    }
-  }
-  &.organizations_6 {
-    height: 580px;
-    .chart-inner {
-      padding-top: 40px;
-    }
-  }
-  &.organizations_7 {
-    height: 580px;
-  }
-  &.meps_1 {
-    height: 650px;
-  }
-  &.meps_2 {
-    height: 650px;
-  }
-  &.meps_3 {
-    height: 650px;
-  }
-  &.meps_4 {
-    height: 540px;
-  }
-  &.meps_5 {
-    height: 540px;
-  }
-  &.meps_6 {
-    height: 540px;
-  }
-  &.mepmeetings_1 {
-    height: 650px;
-  }
-  &.mepmeetings_2 {
-    height: 650px;
-  }
-  &.mepmeetings_3 {
-    height: 650px;
-  }
-  &.mepmeetings_4 {
-    height: 650px;
+    height: 550px;
   }
   @media only screen and (max-width: 767px) {
     height: auto !important;
@@ -1008,4 +962,14 @@ table.dataTable tbody tr:hover {
 .lobbyists-expenses-message {
   padding: 30px 30px;
   text-align: left;
+}
+
+.footer-link {
+  text-align: right;
+  position: relative;
+  padding: 10px 15px;
+  a {
+    text-decoration: underline;
+    color: $color_TI_darker;
+  }
 }

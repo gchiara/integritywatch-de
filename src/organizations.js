@@ -32,26 +32,26 @@ var vuedata = {
   chartMargin: 40,
   charts: {
     legalForm: {
-      title: 'Legal form',
-      info: 'Lorem ipsum'
+      title: 'Rechtsform',
+      info: 'Im Lobbyregister muss jede Interessengruppe angeben, welche Rechtsform sie hat. Dies ist eine Spezifizierung der „Art der Interessengruppe“. Dafür gibt es eine Reihe vorgegebener Auswahlmöglichkeiten. Transparency Deutschland zum Beispiel hat die Rechtsform „Eingetragener Verein.“'
     },
     activity: {
-      title: 'Activity',
-      info: 'Lorem ipsum'
+      title: 'Art der Interessengruppe',
+      info: 'Im Lobbyregister muss jede Interessengruppe angeben, welche Organisationsform sie hat. Dafür gibt es eine Reihe vorgegebener Auswahlmöglichkeiten. Zum Beispiel sind wir von Transparency Deutschland als „Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen)“ eingetragen.'
     },
     fieldsOfInterest: {
-      title: 'Fields of Interest',
-      info: 'Lorem ipsum'
+      title: 'Interessenbereiche',
+      info: 'Im Lobbyregister muss jede Interessengruppe angeben, welche Interessen- und Vorhabenbereiche sie bearbeitet. Dafür gibt es eine Reihe vorgegebener Auswahlmöglichkeiten, wobei eine Mehrfachauswahl möglich ist. Wir von Transparency Deutschland haben zu unserem Thema Korruptionsbekämpfung aktuell 32 Interessenbereiche angegeben, da es ein gesellschaftliches Querschnittsthema darstellt.'
     },
     financialExpense: {
-      title: 'Financial expense',
-      info: 'Lorem ipsum'
+      title: 'Finanzielle Aufwendung der Interessenvertretung',
+      info: 'Im Lobbyregister muss jede Interessengruppe angeben, wie hoch die finanziellen Aufwendungen im Bereich der Interessenvertretung innerhalb eines Jahres sind. Dies wird in 10.000-Euro-Schritten veröffentlicht. Geregelt ist dies im Lobbyregistergesetz §3, Abs 1 (6). Wir von Transparency Deutschland haben im Jahr 2022 für die Interessenvertretung 60261,32 € ausgegeben, damit fallen wir in die Kategorie 60.001 – 70.000 Euro.'
     },
     table: {
       chart: null,
       type: 'table',
-      title: 'Organisations',
-      info: 'Lorem ipsum'
+      title: 'Übersicht über alle eingetragenen Interessengruppen',
+      info: 'Hier finden Sie eine Liste aller eingetragenen Interessengruppen. Diese können Sie nach den unterschiedlichen Variablen sortieren. Sollten Sie oben bereits eine Auswahl als Filter ausgewählt haben, werden Ihnen hier nur die zutreffenden Interessengruppen angezeigt'
     }
   },
   selectedOrg: {"Name": ""},
@@ -82,7 +82,7 @@ new Vue({
     share: function (platform) {
       if(platform == 'twitter'){
         var thisPage = window.location.href.split('?')[0];
-        var shareText = 'Integrity Watch DE ' + thisPage;
+        var shareText = 'Wer lobbyiert auf Bundesebene und wie viel geben die Interessengruppen aus? Bei #integritywatch von @transparency_de finden Sie alle Informationen https://www.integritywatch.transparency.de';
         var shareURL = 'https://twitter.com/intent/tweet?text=' + encodeURIComponent(shareText);
         window.open(shareURL, '_blank');
         return;
@@ -324,12 +324,12 @@ json('./data/lobbyregister.json?' + randomPar, (err, jsonData) => {
       d.name = d.registerEntryDetail.lobbyistIdentity.commonFirstName + " " + d.registerEntryDetail.lobbyistIdentity.lastName;
     }
     //Legal form
-    d.legalForm = "/";
+    d.legalForm = "keine Angabe";
     if(d.registerEntryDetail.lobbyistIdentity.legalForm) {
       d.legalForm = d.registerEntryDetail.lobbyistIdentity.legalForm.code_de;
     }
     //Activity
-    d.activityString = "/";
+    d.activityString = "keine Angabe";
     if(d.registerEntryDetail.activity && d.registerEntryDetail.activity.de) {
       d.activityString = d.registerEntryDetail.activity.de;
     }
@@ -357,12 +357,12 @@ json('./data/lobbyregister.json?' + randomPar, (err, jsonData) => {
     }
     //Table info
     //Country
-    d.country = "/";
+    d.country = "keine Angabe";
     if(d.registerEntryDetail.lobbyistIdentity.address) {
       d.country  = d.registerEntryDetail.lobbyistIdentity.address.country.code;
     }
     //Employees
-    d.employees = "/";
+    d.employees = "keine Angabe";
     if(d.registerEntryDetail.employeeCount) {
       d.employees = d.registerEntryDetail.employeeCount.from + " - " + d.registerEntryDetail.employeeCount.to;
       if(d.registerEntryDetail.employeeCount.from == d.registerEntryDetail.employeeCount.to) {
@@ -370,14 +370,14 @@ json('./data/lobbyregister.json?' + randomPar, (err, jsonData) => {
       }
     }
     //Memberships
-    d.memberships = "/";
+    d.memberships = "keine Angabe";
     if(d.registerEntryDetail.lobbyistIdentity.membershipEntries) {
       d.memberships = d.registerEntryDetail.lobbyistIdentity.membershipEntries.length;
     }
     //Code violation
-    d.codeViolation = "No";
+    d.codeViolation = "Nein";
     if(d.registerEntryDetail.codexViolation && d.registerEntryDetail.codexViolation == true) {
-      d.codeViolation = "Yes";
+      d.codeViolation = "Ja";
     }
   });
 
@@ -388,7 +388,50 @@ json('./data/lobbyregister.json?' + randomPar, (err, jsonData) => {
       return entryString.toLowerCase();
   });
 
-  //CHART 1 - Legal Form
+  //CHART 1 - Fields of Interest
+  var createFoisChart = function() {
+    var chart = charts.fieldsOfInterest.chart;
+    var dimension = ndx.dimension(function (d) {
+      return d.fois;
+    }, true);
+    var group = dimension.group().reduceSum(function (d) {
+      return 1;
+    });
+    var filteredGroup = (function(source_group) {
+      return {
+        all: function() {
+          return source_group.top(20).filter(function(d) {
+            return (d.value != 0);
+          });
+        }
+      };
+    })(group);
+    var width = recalcWidth(charts.fieldsOfInterest.divId);
+    var charsLength = recalcCharsLength(width);
+    chart
+      .width(width)
+      .height(520)
+      .margins({top: 0, left: 0, right: 0, bottom: 20})
+      .group(filteredGroup)
+      .dimension(dimension)
+      .colorCalculator(function(d, i) {
+        return vuedata.colors.default;
+      })
+      .label(function (d) {
+          if(d.key.length > charsLength){
+            return d.key.substring(0,charsLength) + '...';
+          }
+          return d.key;
+      })
+      .title(function (d) {
+          return d.key + ': ' + d.value;
+      })
+      .elasticX(true)
+      .xAxis().ticks(4);
+    chart.render();
+  }
+
+  //CHART 2 - Legal Form
   var createLegalFormChart = function() {
     var chart = charts.legalForm.chart;
     var dimension = ndx.dimension(function (d) {
@@ -425,7 +468,7 @@ json('./data/lobbyregister.json?' + randomPar, (err, jsonData) => {
     chart.render();
   }
 
-  //CHART 2 - Activity
+  //CHART 3 - Activity
   var createActivityChart = function() {
     var chart = charts.activity.chart;
     var dimension = ndx.dimension(function (d) {
@@ -447,50 +490,7 @@ json('./data/lobbyregister.json?' + randomPar, (err, jsonData) => {
     var charsLength = recalcCharsLength(width);
     chart
       .width(width)
-      .height(450)
-      .margins({top: 0, left: 0, right: 0, bottom: 20})
-      .group(filteredGroup)
-      .dimension(dimension)
-      .colorCalculator(function(d, i) {
-        return vuedata.colors.default;
-      })
-      .label(function (d) {
-          if(d.key.length > charsLength){
-            return d.key.substring(0,charsLength) + '...';
-          }
-          return d.key;
-      })
-      .title(function (d) {
-          return d.key + ': ' + d.value;
-      })
-      .elasticX(true)
-      .xAxis().ticks(4);
-    chart.render();
-  }
-
-  //CHART 3 - Fields of Interest
-  var createFoisChart = function() {
-    var chart = charts.fieldsOfInterest.chart;
-    var dimension = ndx.dimension(function (d) {
-      return d.fois;
-    }, true);
-    var group = dimension.group().reduceSum(function (d) {
-      return 1;
-    });
-    var filteredGroup = (function(source_group) {
-      return {
-        all: function() {
-          return source_group.top(20).filter(function(d) {
-            return (d.value != 0);
-          });
-        }
-      };
-    })(group);
-    var width = recalcWidth(charts.fieldsOfInterest.divId);
-    var charsLength = recalcCharsLength(width);
-    chart
-      .width(width)
-      .height(450)
+      .height(470)
       .margins({top: 0, left: 0, right: 0, bottom: 20})
       .group(filteredGroup)
       .dimension(dimension)
@@ -524,7 +524,7 @@ json('./data/lobbyregister.json?' + randomPar, (err, jsonData) => {
     var order = ["N/A", "0", "1 - 10K", "10K - 30K", "30K - 50K", "50K - 70K", "70K - 100K", "100K - 200K", "200K - 500K", "500K - 1M", "1M - 5M", "> 5M"];
     chart
       .width(width)
-      .height(460)
+      .height(470)
       .group(group)
       .dimension(dimension)
       .on("preRender",(function(chart,filter){
@@ -546,6 +546,16 @@ json('./data/lobbyregister.json?' + randomPar, (err, jsonData) => {
   var createTable = function() {
     var count=0;
     charts.table.chart = $("#dc-data-table").dataTable({
+      "language": {
+        "info": "Zeigt _START_ bis _END_ von _TOTAL_ Einträgen",
+        "lengthMenu": "Zeige _MENU_ Einträge ",
+        "paginate": {
+          "first":      "First",
+          "last":       "Last",
+          "next":       "Nächste ",
+          "previous":   "Vorherige"
+        }
+      },
       "columnDefs": [
         {
           "searchable": false,
@@ -578,15 +588,6 @@ json('./data/lobbyregister.json?' + randomPar, (err, jsonData) => {
           "orderable": true,
           "targets": 3,
           "defaultContent":"N/A",
-          "data": function(d) {
-            return d.country;
-          }
-        },
-        {
-          "searchable": false,
-          "orderable": true,
-          "targets": 4,
-          "defaultContent":"N/A",
           "type": "amt-range",
           "data": function(d) {
             return d.employees;
@@ -595,7 +596,7 @@ json('./data/lobbyregister.json?' + randomPar, (err, jsonData) => {
         {
           "searchable": false,
           "orderable": true,
-          "targets": 5,
+          "targets": 4,
           "defaultContent":"N/A",
           "type": "num",
           "data": function(d) {
@@ -605,11 +606,20 @@ json('./data/lobbyregister.json?' + randomPar, (err, jsonData) => {
         {
           "searchable": false,
           "orderable": true,
-          "targets": 6,
+          "targets": 5,
           "defaultContent":"N/A",
           "type": "amt-range",
           "data": function(d) {
             return d.finExpCategoryFull;
+          }
+        },
+        {
+          "searchable": false,
+          "orderable": true,
+          "targets": 6,
+          "defaultContent":"N/A",
+          "data": function(d) {
+            return d.country;
           }
         },
         {
