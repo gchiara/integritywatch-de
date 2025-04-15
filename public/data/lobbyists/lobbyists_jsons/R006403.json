@@ -1,0 +1,633 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-12-20T16:00:08.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2023-12-20T16:00:08.000+01:00",
+        "lastUpdateDate": "2024-06-28T11:46:15.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37093,
+                "validFromDate": "2024-06-28T11:46:15.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21784,
+                "validFromDate": "2023-12-20T16:00:08.000+01:00",
+                "validUntilDate": "2024-06-28T11:46:15.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Der Bund f\u00fcr Umwelt und Naturschutz Deutschland e.V. (BUND) ist mit 650.000 Mitgliedern und Unterst\u00fctzer*innen einer der gr\u00f6\u00dften Umweltverb\u00e4nde Deutschlands. Im BUND Landesverband Niedersachsen engagieren sich zahlreiche Menschen im Ehren- und Hauptamt f\u00fcr den Schutz von Natur und Umwelt. Wir sind in der politischen Lobbyarbeit aktiv, f\u00fchren Naturschutz- und Umweltprojekte durch, leisten praktische Naturschutzarbeit vor Ort und sensibilisieren Menschen f\u00fcr Umweltbelange. Der BUND betreibt in Niedersachsen mehrere Nationalparkh\u00e4user, Besucherzentren, \u00d6kologische Stationen und Landschaftspflegebetriebe.\r\nDer BUND Landesverband Niedersachsen thematisiert Verbesserungspotentiale in der Umwelt- und Naturschutzpolitik und f\u00f6rdert den Dialog zwischen den B\u00fcrgerinnen und B\u00fcrgern und Politik. Dazu veranstaltet er Fachkongresse, Diskussionsrunden und \u00e4hnliche dem Austausch dienende\r\nFormate. Sein Ziel ist es, die Interessen der Menschen und der Allgemeinheit in den Mittelpunkt von Gesetzgebung und anderen politischen Entscheidungen der Umwelt- und Naturschutzpolitik zu stellen. Um entsprechende Rahmenbedingungen zu schaffen, steht der BUND Landesverband Niedersachsen\r\nim st\u00e4ndigen Austausch mit B\u00fcrgerinnen und B\u00fcrgern sowie den Vertreterinnen und Vertretern von Wissenschaft, Medien und Politik.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_SP_OTHER",
+                "de": "Sonstiges im Bereich \"Gesellschaftspolitik und soziale Gruppen\"",
+                "en": "Other in the field of \"Social politics and social groups\""
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_RP_CITY",
+                "de": "Stadtentwicklung",
+                "en": "Urban development"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_RP_OTHER",
+                "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                "en": "Other in the field of \"Spatial planning, construction and housing\""
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_ENERGY_NUCLEAR",
+                "de": "Atomenergie",
+                "en": "Nuclear power"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/2b/d9/323211/Gewinn-und-Verlustrechnung_2022.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "Zweckgebundene Spende f\u00fcr politische Arbeit",
+                "donationEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "name": "Privatperson"
+            },
+            {
+                "description": "zweckgebunden Spende f\u00fcr den Erhalt und die Renaturierung der Diepholzer Moorniederung",
+                "donationEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "name": "Privatperson"
+            },
+            {
+                "description": "Moorland Fond",
+                "donationEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "name": "Hannover R\u00fcck SE"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01",
+        "totalDonationsEuro": {
+            "from": 60001,
+            "to": 70000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.0,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 0,
+            "to": 0
+        },
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Hannover",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "postBox": "1106",
+            "type": "POSTBOX",
+            "zipCode": "30011"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "bund.nds@bund.net"
+                }
+            ],
+            "phoneNumber": "+49511965690",
+            "websites": [
+                {
+                    "website": "https://www.bund-niedersachsen.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Susanne",
+                "lastName": "Gerstner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Carl-Wilhelm",
+                "lastName": "Bodenstein-Dresler",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": false,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Susanne",
+                "function": "Landesvorsitzende",
+                "lastName": "Gerstner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": false,
+                "firstName": "Tonja",
+                "function": "Gesch\u00e4ftsf\u00fchrerin Politik & Kommunikation",
+                "lastName": "Mannstedt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Carl-Wilhelm",
+                "function": "Schatzmeister",
+                "lastName": "Bodenstein-Dresler",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-05-31",
+            "naturalPersons": 28125,
+            "organizations": 0,
+            "totalCount": 28125
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "BUND Bundesverband e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Bund f\u00fcr Umwelt- und Naturschutz Deutschland Landesverband Niedersachsen e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01",
+        "totalMembershipFees": {
+            "from": 940001,
+            "to": 950000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Verbundvorhaben Gartenschl\u00e4fer in Deutschland\r\nTeilprojekt \"Landesverband NI\"",
+                "location": "Bonn / Hannover",
+                "name": "BFN / DLR / Nieders\u00e4chsische Bingo-Umweltstiftung",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Eigene Vielfalt - Gemeinsam zum Biotopverbund mit Naturschutz & Landwirtschaft",
+                "location": "Hannover",
+                "name": "Nieders\u00e4chsische Bingo-Umweltstiftung",
+                "publicAllowanceEuro": {
+                    "from": 70001,
+                    "to": 80000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "ID-Pilze: Ein intuitiv zu bedienender digitaler Bestimmungsschl\u00fcssel",
+                "location": "Hannover",
+                "name": "Nieders\u00e4chsische Bingo-Umweltstiftung",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Natur- und Moorschutz durch Beweidung: Umweltbildung der BUND-Sch\u00e4ferei",
+                "location": "Hannover",
+                "name": "Nieders\u00e4chsische Bingo-Umweltstiftung",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Vorstudie - Kurs auf Blau-Gr\u00fcn - Gew\u00e4sserr\u00e4nder gemeinsam gestalten",
+                "location": "Osnabr\u00fcck",
+                "name": "Deutsche Bundesstiftung Umwelt",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Zusammenarbeit zur Erhaltung von Streuobstwiesen in Niedersachsen",
+                "location": "Betreibsstelle Braunschweig",
+                "name": "Nieders\u00e4schischer Landesbetrieb Wasserwirtschaft, K\u00fcsten- und Naturschutz",
+                "publicAllowanceEuro": {
+                    "from": 150001,
+                    "to": 160000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Naturschutzfachliche Vor-Ort-Betreuung von Schutzgebieten in den Landkreisen L\u00fcchow-Dannenberg und Uelzen durch die Kooperation Naturschutzstation Wendland/Drawehn",
+                "location": "Betriebsstelle Brake-Oldenburg",
+                "name": "Nieders\u00e4chsischer Landesbetrieb Wasserwirtschaft, K\u00fcsten- und Naturschutz",
+                "publicAllowanceEuro": {
+                    "from": 50001,
+                    "to": 60000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Naturschutzfachliche Vor-Ort-Betreuung von Schutzgebieten in den Landkreisen Uelzen, L\u00fcneburg, Harburg und Celle durch die \u00d6kologische Station Flusslandschaft Ilmenau, Luhe und Neetze",
+                "location": "Betriebsstelle Brake-Oldenburg",
+                "name": "Nieders\u00e4chsischer Landesbetrieb Wasserwirtschaft, K\u00fcsten- und Naturschutz",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Klimaschutz durch Moorentwicklung\r\nF\u00f6rderung des Klimaschutzes durch Verringerung der Freisetzung von Treibhausgasen aus B\u00f6den mit hohem Kohlenstoffgehalt",
+                "location": "Hannover",
+                "name": "Land Niedersachsen",
+                "publicAllowanceEuro": {
+                    "from": 80001,
+                    "to": 90000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Wildkatzenerfassung 2022",
+                "location": "Hannover",
+                "name": "Nieders\u00e4chsischer Landesbetrieb Wasserwirtschaft, K\u00fcsten- und Naturschutz",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Mehr Natur an der Schwaneweder Beeke",
+                "location": "Hannover, Schwanewede und Osterholz",
+                "name": "Nieders\u00e4chsische Bingo-Umweltstiftung, Hermsen Stiftung, Gemeinde Schwanwede, Landkreis Osterholz",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_MUNICIPALITY",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Kommune",
+                    "en": "German Public Sector \u2013 Municipality"
+                }
+            },
+            {
+                "description": "K\u00f6pfchen statt Kunststoff",
+                "location": "Hannover",
+                "name": "Nieders\u00e4chsische Bingo-Umweltstiftung",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "We are ocean Waddensea",
+                "location": "Hannover",
+                "name": "Nieders\u00e4chsische Bingo-Umweltstiftung",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Optimierung des Wiesenweihenschutz durch den Einsatz unbemannter Flugobjekte der neuen Generation",
+                "location": "Hannover",
+                "name": "Nieders\u00e4chsische Bingo-Umweltstiftung",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Entwicklung sektoren- und akteurs\u00fcbergreifender Konzepte f\u00fcr eine zukunftsf\u00e4hige Schifffahrt im trilateralen Wattenmeer",
+                "location": "Osnabr\u00fcck",
+                "name": "Deutsche Nundesstiftung Umwelt",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R006403/37093",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-28T11:46:15.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/73/d5/323212/Lobbyregister-Detailansicht-R006403-2024-06-28_11-46-15.pdf",
+        "validFromDate": "2024-06-28T11:46:15.000+02:00",
+        "version": 2
+    },
+    "registerEntryId": 37093,
+    "registerNumber": "R006403",
+    "regulatoryProjects": {
+        "regulatoryProjects": [],
+        "regulatoryProjectsPresent": false
+    },
+    "statements": {}
+}

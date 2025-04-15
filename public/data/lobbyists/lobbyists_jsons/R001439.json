@@ -1,0 +1,677 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-03-10T13:31:13.000+01:00",
+                "untilDate": "2024-07-02T00:04:45.000+02:00"
+            },
+            {
+                "fromDate": "2024-08-05T12:15:12.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-24T19:14:31.000+01:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-07-02T00:04:45.000+02:00",
+                "untilDate": "2024-08-05T12:15:12.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2024-08-08T11:59:52.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42664,
+                "validFromDate": "2024-08-08T11:59:52.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 40648,
+                "validFromDate": "2024-08-05T12:15:12.000+02:00",
+                "validUntilDate": "2024-08-08T11:59:52.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 42500,
+                "validFromDate": "2024-07-02T00:04:45.000+02:00",
+                "validUntilDate": "2024-08-05T12:15:12.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 40123,
+                "validFromDate": "2024-06-28T15:15:19.000+02:00",
+                "validUntilDate": "2024-07-02T00:04:45.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 39969,
+                "validFromDate": "2024-06-28T12:48:13.000+02:00",
+                "validUntilDate": "2024-06-28T15:15:19.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 18312,
+                "validFromDate": "2023-05-31T16:52:36.000+02:00",
+                "validUntilDate": "2024-06-28T12:48:13.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 6096,
+                "validFromDate": "2022-03-10T13:31:13.000+01:00",
+                "validUntilDate": "2023-05-31T16:52:36.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION_V2",
+            "de": "Sonstiges Unternehmen",
+            "en": "Other company"
+        },
+        "activityDescription": "Unsere politische Interessensvertretung zielt darauf ab, den Zugang zu innovativen digitalen Technologien zu verbessern sowie eine sozial verantwortungsvolle, umweltschonende und ethische Nutzung von Technologien zu f\u00f6rdern. Zu diesem Zweck f\u00fchren wir Gespr\u00e4che mit Mitgliedern des Deutschen Bundestags, mit Vertreterinnen und Vertretern des Bundeskanzleramtes, der Bundesministerien und Bundes\u00e4mter und organisieren gelegentlich Informationsveranstaltungen wie politische Fr\u00fchst\u00fccke, zu denen auch politische Entscheidungstr\u00e4ger und Entscheidungstr\u00e4gerinnen eingeladen werden, um uns in unternehmensrelevante Themenfelder l\u00f6sungsorientiert einzubringen und ggf. auf \u00c4nderungsbedarf aufmerksam zu machen. Auch \u00fcber unsere Verbandsarbeit bringen wir uns in die Debatten zu relevanten Themen ein. Teilweise greifen wir auch auf die Unterst\u00fctzung externer Politikberaterinnen und Politikberater zur\u00fcck. Zu den relevanten Themen geh\u00f6ren z. B. IT-Standards, Datenschutz, Cybersicherheit, digitale Souver\u00e4nit\u00e4t, digitale Bildung, Umwelt und Sozialstandards, sowie Patent- und Urheberrecht. Zweck der Interessenvertretung ist es, die Sicht der Praxis zu vermitteln und Impulse zur Verbesserung der gesamtwirtschaftlichen Lage zu geben. ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_IS_CYBER",
+                "de": "Cybersicherheit",
+                "en": "Cyber security"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_MEDIA_COPYRIGHT",
+                "de": "Urheberrecht",
+                "en": "Copyright"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_SA_PUBLIC_SERVICE",
+                "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                "en": "Public service"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_ECONOMY_ECOMMERCE",
+                "de": "E-Commerce",
+                "en": "E-commerce"
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            },
+            {
+                "code": "CONTRACTS_OPERATED_BY_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird in eigenem Interesse durch die Beauftragung Dritter wahrgenommen",
+                "en": "Contracts are awarded to third parties to represent own interests of the company"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/db/eb/341883/Dell-GmbH_-Testat-JAP-_2023.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2023-01-31",
+        "relatedFiscalYearStart": "2022-02-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2024-01-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-02-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.39,
+        "relatedFiscalYearEnd": "2024-01-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-02-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 270001,
+            "to": 280000
+        },
+        "relatedFiscalYearEnd": "2024-01-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-02-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Frankfurt am Main",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Unterschweinstiege",
+            "streetNumber": "10",
+            "type": "NATIONAL",
+            "zipCode": "60549"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "DE.CustomerSupport@dell.com"
+                }
+            ],
+            "phoneNumber": "+496997927350",
+            "websites": [
+                {
+                    "website": "www.dell.com/de-de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Kathrin",
+                "lastName": "Bremer",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Tim",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "van Wasen",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Claudia",
+                "function": "Gesch\u00e4ftsf\u00fchrerin",
+                "lastName": "Kreis",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Bitkom"
+            },
+            {
+                "membership": "Initiative D21"
+            },
+            {
+                "membership": "AmCham Deutschland"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Dell GmbH"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2024-01-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-02-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2024-01-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-02-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2024-01-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-02-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001439/42664",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-08-05T12:15:12.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d8/d3/341884/Lobbyregister-Detailansicht-R001439-2024-08-08_11-59-52.pdf",
+        "validFromDate": "2024-08-08T11:59:52.000+02:00",
+        "version": 9
+    },
+    "registerEntryId": 42664,
+    "registerNumber": "R001439",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Hinsichtlich des Vorschlags der EU-Kommission zu standardessentiellen Patenten (SEPs) unterst\u00fctzt die Dell GmbH eine ausgewogene Ausgestaltung der Regulierung, die f\u00fcr mehr Transparenz und Vorhersehbarkeit und damit mehr Sicherheit im Lizenzierungssystem von SEPs sorgt.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_OTHER",
+                        "de": "Sonstiges im Bereich \"Recht\"",
+                        "en": "Other in the field of \"Law\""
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COPYRIGHT",
+                        "de": "Urheberrecht",
+                        "en": "Copyright"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011442",
+                "statements": [],
+                "title": "Lizenzbedingungen f\u00fcr standardessentielle Patente"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die Dell GmbH setzt sich im Austausch mit der Bundesregierung und Bundestagsmitgliedern daf\u00fcr ein, den DigitalPakt Schule in einen erweiterten F\u00f6rderrahmen zu \u00fcberf\u00fchren (DigitalPakt 2.0), um die Digitalisierung der deutschen Bildungslandschaft fl\u00e4chendeckend und nachhaltig zu gew\u00e4hrleisten. In diesem Rahmen tauscht sich das Unternehmen \u00fcber den Sachstand des existierenden DigitalPakt Schule und dessen praktische Umsetzung in Bildungseinrichtungen aus.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EDUCATION_PARENTING",
+                        "de": "Bildung und Erziehung",
+                        "en": "Education and parenting"
+                    },
+                    {
+                        "code": "FOI_EP_SCHOOL",
+                        "de": "Schulische Bildung",
+                        "en": "School education"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_MEDIA_INTERNET_POLICY",
+                        "de": "Internetpolitik",
+                        "en": "Internet policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011443",
+                "statements": [],
+                "title": "Fortf\u00fchrung des DigitalPakt Schule"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Im Sinne einer nachhaltigen Wirtschaftstransformation f\u00fchrt die Dell GmbH Gespr\u00e4che mit der Politik, wie durch die Entwicklung und Nutzung moderner IT-Hardware, -infrastruktur, -l\u00f6sungen sowie Rechenzentren eine ressourcenschonende Digitalisierung vorangetrieben werden kann.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011444",
+                "statements": [],
+                "title": "Entwicklung eines nachhaltigen ICT-Sektors"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die Dell GmbH f\u00fchrt Gespr\u00e4che mit den relevanten Stakeholdern zur Schaffung praxistauglicher Rahmenbedingungen f\u00fcr Deutschland als sicheren Investitionsstandort f\u00fcr KI-Technologien und pl\u00e4diert f\u00fcr die verantwortungsvolle und ethisch vertretbare Nutzung und Fortentwicklung K\u00fcnstlicher Intelligenz, um die Sicherheit, digitale Souver\u00e4nit\u00e4t und Wettbewerbsf\u00e4higkeit Deutschlands zu st\u00e4rken.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_MEDIA_INTERNET_POLICY",
+                        "de": "Internetpolitik",
+                        "en": "Internet policy"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COPYRIGHT",
+                        "de": "Urheberrecht",
+                        "en": "Copyright"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011445",
+                "statements": [],
+                "title": "Innovationsfreundliche Rahmenbedingungen f\u00fcr den KI-Standort Deutschland"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die Dell GmbH setzt sich daf\u00fcr ein, dass die urheberrechtlichen Rahmenbedingungen und vor allem das System der Urheberrechtsabgaben an die Anforderungen der digitalen Gegebenheiten angepasst werden.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COPYRIGHT",
+                        "de": "Urheberrecht",
+                        "en": "Copyright"
+                    },
+                    {
+                        "code": "FOI_MEDIA_INTERNET_POLICY",
+                        "de": "Internetpolitik",
+                        "en": "Internet policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011446",
+                "statements": [],
+                "title": "Schaffung moderner urheberrechtlicher Rahmenbedingungen"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

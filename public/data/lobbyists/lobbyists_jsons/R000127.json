@@ -1,0 +1,772 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-01T10:31:07.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-01-21T12:49:34.000+01:00",
+        "lastUpdateDate": "2024-07-10T12:55:30.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 41323,
+                "validFromDate": "2024-07-10T12:55:30.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 33587,
+                "validFromDate": "2024-06-24T11:08:34.000+02:00",
+                "validUntilDate": "2024-07-10T12:55:30.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26413,
+                "validFromDate": "2023-10-25T12:52:15.000+02:00",
+                "validUntilDate": "2024-06-24T11:08:34.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22323,
+                "validFromDate": "2023-06-27T08:19:44.000+02:00",
+                "validUntilDate": "2023-10-25T12:52:15.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 15325,
+                "validFromDate": "2023-02-01T10:31:07.000+01:00",
+                "validUntilDate": "2023-06-27T08:19:44.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PROFESSION_ASSOC",
+            "de": "Berufsverband",
+            "en": "Professional association"
+        },
+        "activityDescription": "Der Verband der Di\u00e4tassistenten - Deutscher Bundesverband e.V. vertritt die beruflichen, berufspolitischen und sozialen Interessen der Di\u00e4tassistentinnen und Di\u00e4tassistenten national und international. Er setzt sich f\u00fcr die qualifizierte Berufsausbildung, eine bedarfsgerechte Weiterbildung, Evidenzgenerierung im Bereich der Ern\u00e4hrung und Di\u00e4tetik, arbeitet eng zusammen mit wissenschaftlichen Institutionen und Gesellschaften und f\u00f6rdert den Erfahrungsaustausch und die Kooperation mit politischen Einrichtungen. Etablierung von evidenzbasierter, f\u00fcr den Nutzer niederschwellig erreichbare Ern\u00e4hrungstherapie in allen Settings.  Weitere Ziele des VDD sind die Sicherung der Arbeitspl\u00e4tze sowie Arbeitsbedingungen und die Erweiterung des Berufsfeldes im klinischen und au\u00dferklinischen Bereich. Daf\u00fcr werden Stellungnahmen und offene Briefe formuliert, Podiumsdiskussionen organisiert und pers\u00f6nliche Kontakte zu der Politik gepflegt. Diese Aktivit\u00e4ten werden alleine oder auch in Zusammenarbeit mit kooperierenden Netzwerkpartnern durchgef\u00fchrt.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_SS_HEALTH",
+                "de": "Krankenversicherung",
+                "en": "Health insurance"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/87/83/332979/VDD-Einnahmen-Ausgaben-2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.25,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Essen",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "postBox": "104062",
+            "type": "POSTBOX",
+            "zipCode": "45040"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "vdd@vdd.de"
+                }
+            ],
+            "phoneNumber": "+4920194685370",
+            "websites": [
+                {
+                    "website": "www.vdd.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeAfter": "Dipl. - P\u00e4d.",
+                "firstName": "Uta",
+                "lastName": "K\u00f6pcke",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": false,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Gabriela",
+                "function": "Gesch\u00e4ftsf\u00fchrung",
+                "lastName": "van Vlodrop",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "Dipl. - P\u00e4d.",
+                "entrustedPerson": true,
+                "firstName": "Uta",
+                "function": "Pr\u00e4sidentin",
+                "lastName": "K\u00f6pcke",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Matthias",
+                "function": "Vizepr\u00e4sident",
+                "lastName": "Z\u00f6pke",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "Dipl. - oec. troph.",
+                "entrustedPerson": false,
+                "firstName": "Iris",
+                "function": "Vizepr\u00e4sidentin",
+                "lastName": "Fl\u00f6hrmann",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-12-31",
+            "naturalPersons": 4429,
+            "organizations": 1,
+            "totalCount": 4430
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "DGE e. V. "
+            },
+            {
+                "membership": "BVPG e. V."
+            },
+            {
+                "membership": "NGBR e. V."
+            },
+            {
+                "membership": "EFAD"
+            },
+            {
+                "membership": "ICDA"
+            },
+            {
+                "membership": "PEB e. V. "
+            },
+            {
+                "membership": "ZePG e. V."
+            },
+            {
+                "membership": "HVG e. V."
+            },
+            {
+                "membership": "BBGM e. V."
+            },
+            {
+                "membership": "GEK e. V."
+            },
+            {
+                "membership": " Im Puls. Think Tank Herz-Kreislauf e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Verband der Di\u00e4tassistenten - Deutscher Bundesverband e. V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 460001,
+            "to": 470000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000127/41323",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-24T11:08:34.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/e7/2b/332982/Lobbyregister-Detailansicht-R000127-2024-07-10_12-55-30.pdf",
+        "validFromDate": "2024-07-10T12:55:30.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 41323,
+    "registerNumber": "R000127",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "Di\u00e4tAssG",
+                        "title": "Gesetz \u00fcber den Beruf der Di\u00e4tassistentin und des Di\u00e4tassistenten (Artikel 1 des Gesetzes \u00fcber den Beruf der Di\u00e4tassistentin und des Di\u00e4tassistenten und zur \u00c4nderung verschiedener Gesetze \u00fcber den Zugang zu anderen Heilberufen)",
+                        "url": "https://www.gesetze-im-internet.de/di_tassg_1994"
+                    },
+                    {
+                        "shortTitle": "Di\u00e4tAss-APrV",
+                        "title": "Ausbildungs- und Pr\u00fcfungsverordnung f\u00fcr Di\u00e4tassistentinnen und Di\u00e4tassistenten",
+                        "url": "https://www.gesetze-im-internet.de/di_tass-aprv"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Ziele der Novellierung: Therapievorbehalt f\u00fcr ern\u00e4hrungstherapeutische T\u00e4tigkeiten durch Di\u00e4tassistenten und klare Regelungen f\u00fcr Quereinsteiger aus vergleichbaren Studieng\u00e4ngen. Dies mindert Risiken f\u00fcr Patienten, verringert rechtliche Unsicherheiten bei Delegation und Verordnung und schafft Klarheit f\u00fcr Angeh\u00f6rige nicht reglementierter Studienabschl\u00fcsse, insbesondere beim \u00dcbergang von Pr\u00e4vention zur Therapie. \u00c4nderung der Berufsbezeichnung z.B. in Ern\u00e4hrungstherapeut. Grundst\u00e4ndige, praxisorientierte hochschulische Ausbildung: Dies entspricht internationalen Standards, steigert die Attraktivit\u00e4t des Berufs durch bessere Aufstiegschancen, Zugang zum EU-weiten Arbeitsmarkt und f\u00f6rdert die Entwicklung der Forschungsgebiete Di\u00e4tetik und Versorgung.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_WORK",
+                        "de": "Arbeit und Besch\u00e4ftigung",
+                        "en": "Work and employment"
+                    },
+                    {
+                        "code": "FOI_WORK_POLICY",
+                        "de": "Arbeitsmarkt",
+                        "en": "Job market"
+                    },
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    },
+                    {
+                        "code": "FOI_EDUCATION_PARENTING",
+                        "de": "Bildung und Erziehung",
+                        "en": "Education and parenting"
+                    },
+                    {
+                        "code": "FOI_EP_WORK",
+                        "de": "Berufliche Bildung",
+                        "en": "Job education"
+                    },
+                    {
+                        "code": "FOI_BUNDESTAG",
+                        "de": "Bundestag",
+                        "en": "Bundestag"
+                    },
+                    {
+                        "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                        "de": "Parlamentarisches Verfahren",
+                        "en": "Parliamentary procedure"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_EP_ACADEMIC",
+                        "de": "Hochschulbildung",
+                        "en": "Academic education"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004469",
+                "statements": [],
+                "title": "Novellierung des Di\u00e4tassistentengesetzes von 1994 "
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "SGB 5",
+                        "title": "Sozialgesetzbuch (SGB) F\u00fcnftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)",
+                        "url": "https://www.gesetze-im-internet.de/sgb_5"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Artikel 1 \u00c4nderung des F\u00fcnften Buches Sozialgesetzbuch\r\n1.\u00a7 135e Abs.1 (Leistungsgruppen): Zur Gew\u00e4hrleistung der hochwertigen Versorgungsqualit\u00e4t sind die Therapieberufe inklusiv der Di\u00e4tassistent*innen und die Medizinisch-Technologischen Beruf in die Planung und in der Umsetzung einzubeziehen und darzustellen.\r\n2. \u00a7 135 Abs. 3 (Ausschluss): Hieraus folgt zwingend, dass die ma\u00dfgeblichen Berufsorganisationen der besagten Berufsgruppen auch in den Ausschuss gem\u00e4\u00df \u00a7135e Abs. 3 der Entwurfsfassung aufzunehmen sind.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/brd/2024/0235-24.pdf",
+                        "issuer": "BR",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMG",
+                                "title": "Bundesministerium f\u00fcr Gesundheit",
+                                "url": "https://www.bundesgesundheitsministerium.de/"
+                            }
+                        ],
+                        "printingNumber": "235/24",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-verbesserung-der-versorgungsqualit%C3%A4t-im-krankenhaus-und-zur-reform/312313",
+                        "title": "Entwurf eines Gesetzes zur Verbesserung der Versorgungsqualit\u00e4t im Krankenhaus und zur Reform der Verg\u00fctungsstrukturen (Krankenhausversorgungsverbesserungsgesetz - KHVVG)"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0004470",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d9/c4/306155/Stellungnahme-Gutachten-SG2406200014.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                        "de": "Gremien",
+                                        "en": "Committees"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                        "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                        "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-30"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0004470",
+                        "regulatoryProjectTitle": "KHVVG",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Stellungnahme des Netzwerk Berufe im Gesundheitswesen (BiG)\r\nzum Referentenentwurf eines Gesetzes zur Verbesserung der Versorgungsqualit\u00e4t im Krankenhaus und zur Reform der Verg\u00fctungsstrukturen (Krankenhausversorgungsverbesserungsgesetz - KHVVG)\r\nSehr geehrte Frau,\r\ndas Netzwerk Berufe im Gesundheitswesen vereint die Verb\u00e4nde der Therapieberufe und Technologen im Gesundheitswesen. Folgende Verb\u00e4nde sind Mitglied im Netzwerk BiG:\r\nBerufsverband Orthoptik Deutschland e. V. (BOD)\r\nDachverband f\u00fcr Technologen/-innen und Analytiker/-innen in der Medizin Deutschland e.V. (DVTA)\r\nDeutscher Bundesverband f\u00fcr Logop\u00e4die e.V. (dbl)\r\nDeutscher Verband Ergotherapie e.V. (DVE)\r\nDeutscher Verband f\u00fcr Physiotherapie e.V. (PHYSIO-DEUTSCHLAND)\r\nVerband der Di\u00e4tassistenten e. V. (VDD)\r\nDie von uns vertretenen Berufsgruppen spielen eine zentrale Rolle in der (station\u00e4ren) Versorgung. Nur gemeinsam mit ihnen ist eine effektive und effiziente Gesundheitsversorgung m\u00f6glich - das gilt f\u00fcr das Krankenhaus ebenso wie f\u00fcr den ambulanten Sektor Das Netzwerk BiG besch\u00e4ftigt sich vorrangig mit den gemeinsamen Themen, die die Berufszugeh\u00f6rigen in Einrichtungen, wie Krankenh\u00e4usern/Kliniken, Rehabilitationseinrichtungen und Pflegeeinrichtungen betreffen. Dies immer vor dem Hintergrund zeitgem\u00e4\u00dfer, leitliniengerechter und kostengerechter Versorgung im Sinne der Patientinnen und Patienten. Qualit\u00e4t und Zukunft im Gesundheitswesen stehen f\u00fcr uns im Mittelpunkt.\r\nKontakt:\r\n\u2022\r\nHeidemarie B\u00fcchner, Sprecherin Netzwerk BiG: Buechner@dbl-ev.de\r\n\u2022\r\nUta K\u00f6pcke, stellvertretende Sprecherin Netzwerk BiG: uta.koepcke@vdd.de\r\n\u2022\r\nNetzwerk BiG - Berufe im Gesundheitswesen (netzwerk-big.de)\r\nDer Referentenentwurf des KHVVG gibt erstmals Einblick in die konkrete Planung der Umsetzung der Krankenhausreform und Krankenhausfinanzierung. Ziel ist - unbestreitbar und dringend notwendig - die station\u00e4re Versorgung der Patientinnen und Patienten zu sichern und zu verbessern.\r\nDie Erreichung dieses Ziels kann jedoch nur gelingen, wenn auch alle an der station\u00e4ren Gesundheitsversorgung beteiligten Berufsgruppen einbezogen und abgebildet werden. Der vorliegende Referentenentwurf gew\u00e4hrleistet dies jedoch nicht.\r\nAnbei die Stellungnahme des Netzwerkes BiG zu den einzelnen Abschnitten, die aus unserer Perspektive zu \u00fcberarbeiten sind:\r\nArtikel 1 \u00c4nderung des F\u00fcnften Buches Sozialgesetzbuch \r\n1.\r\n\u00a7 135e Abs. 1 (Leistungsgruppen)\r\nDie gem\u00e4\u00df \u00a7 135e Abs. 1 SGB V in Leistungsgruppen einzuteilenden Leistungen der Krankenhausbehandlung ber\u00fccksichtigen weder Therapieberufe (insbesondere Heilmittelerbringer) noch die Berufe der Medizinischen Technologinnen und Technologen im Gesundheitswesen. Aufgef\u00fchrt sind nur (Fach-) \u00c4rztinnen und \u00c4rzte sowie Pflegeberufe. Dies zeigt, dass die therapeutischen und medizinisch- diagnostischen Berufe, die in der Krankenhausversorgung einen unverzichtbaren Beitrag leisten, nicht mitbedacht werden.\r\nDies ist vor dem Hintergrund von \u00a7 135e Abs. 1 letzter Satz des Referentenentwurfes (\u201eDie Qualit\u00e4tskriterien sollen den aktuellen Stand der medizinisch wissenschaftlichen Erkenntnisse ber\u00fccksichtigen und zu einer leitliniengerechten, qualitativ hochwertigen und f\u00fcr Patienten sicheren medizinischen Versorgung beitragen.\u201c) nicht schl\u00fcssig.\r\nDie in \u00a7 135e Abs. 1 Nummern 2 und 3 formulierte sachliche und personelle Ausstattung, spiegelt sich in den in \u00a7 135e Absatz 4 genannten Leistungsgruppen nur unzureichend wider, da in der personellen Ausstattung relevante Gesundheitsberufe nicht ber\u00fccksichtigt sind.\r\na.)\r\nSo sind in entsprechenden medizinischen Leitlinien zur Versorgung, therapeutische und diagnostische Leistungen verankert, welche in den entsprechenden Leistungsgruppen nicht abgebildet sind, z. B.:\r\n\u2022\r\nAkutversorgung nach Schlaganfall (AWMF Reg 030 \u2013 046) und Schlaganfall (AWMF-Reg. 053-011) / Leistungsgruppe 46, Anlage 1 zu \u00a7 135d SGB V bzw. Leistungsgruppe 26.2 gem. Krankenhausplan Nordrhein-Westfalen 2022, Anhang 1\r\n\u2022\r\nWeaning (AWMF Reg 020-015/ Leistungsgruppe 6, Anlage 1 zu \u00a7 135d SGB V bzw. Leistungsgruppe 5.1, komplexe Pneumologie, Krankenhausplan Nordrhein-Westfalen 2022, Anhang 1\r\n\u2022\r\nNationale Versorgungsleitlinie Typ-2-Diabetes (AWMF Reg nvl-001) / Leistungsgruppe 2, Anlage 1 zu \u00a7 135d SGB V bzw. Leistungsgruppe 5.1, komplexe Pneumologie, Krankenhausplan Nordrhein-Westfalen 2022, Anhang 1\r\nb.)\r\nIm Fall der MT-Berufe (MTL, MTR, MTF) erfordert die aufgef\u00fchrte sachliche Ausstattung gem\u00e4\u00df den Vorgaben zu Vorbehaltst\u00e4tigkeiten des \u00a7 5 MTBG die Durchf\u00fchrung durch die MT-Berufe, um eine qualitative und patientensichere Leistungserbringung zu gew\u00e4hrleisten. Die ausnahmsweise Durchf\u00fchrung der Vorbehaltst\u00e4tigkeiten durch andere Gesundheitsberufe (mit Ausnahme solcher mit abgeschlossener Hochschulausbildung) erfordern die Aufsicht und Verantwortung einer \u00e4rztlichen Person. Dies ist vor dem bestehenden Fachkr\u00e4ftemangel auch in der \u00c4rzteschaft zu bedenken. Auch besteht in anderen Gesundheitsberufen Fachkr\u00e4ftemangel (z. B. im Beruf der MFA), so dass der Einsatz von anderen Gesundheitsberufen zur Leistungserbringung in den Vorbehaltst\u00e4tigkeiten unter Aufsicht und Verantwortung einer \u00e4rztlichen Person nicht zielf\u00fchrend ist. Aus diesem Grund sind auch die MT-Berufe gem\u00e4\u00df ihren Vorbehaltst\u00e4tigkeiten in der personellen Ausstattung zu ber\u00fccksichtigen. Die Existenz der geforderten sachlichen Ausstattung f\u00fcr z. B. Laboranalysen (MTL), bildgebende Diagnostik (MTR) und neurologische Funktionsdiagnostik (MTF) zieht nicht automatisch das Vorhandensein der MT-Berufe nach sich. Diese sind jedoch aus Gr\u00fcnden der Patientensicherheit und zur Sicherung der Qualit\u00e4t der Leistungserbringung erforderlich.\r\nEntsprechend sind zur Gew\u00e4hrleistung der hochwertigen Versorgungsqualit\u00e4t auch diese Berufsgruppen sowohl in die Planung und als auch in der Umsetzung einzubeziehen und darzustellen.\r\n2.\r\n\u00a7 135 Abs. 3 (Ausschuss)\r\nHieraus folgt zwingend, dass die ma\u00dfgeblichen Berufsorganisationen der besagten Berufsgruppen auch in den Ausschuss gem\u00e4\u00df \u00a7 135e Abs. 3 der Entwurfsfassung aufzunehmen sind. Die -sehr zu begr\u00fc\u00dfende- Ber\u00fccksichtigung der Berufsorganisationen der Pflegeberufe greift mit Blick auf die Bedeutung der Therapieberufe und Technologen im Gesundheitswesen f\u00fcr die Versorgung zu kurz. Deren Nichtber\u00fccksichtigung gef\u00e4hrdet eine qualitativ hochwertige und leitliniengerechte Versorgung, da ein wichtiger Bereich der Patientenversorgung schlicht \u00fcbersehen wird und deren Fachexpertise ungenutzt bleibt.\r\nDie Ber\u00fccksichtigung aller in der Krankenhausversorgung relevanten Gesundheitsberufe, gebietet \u00fcberdies auch der Gleichbehandlungsgrundsatz. So d\u00fcrfen andere betroffene Gesundheitsberufe nicht vom demokratischen Prozessgeschehen des Ausschusses ausgeschlossen werden.\r\nIm Anhang dieser Stellungnahme befindet sich die tabellarische Leistungsgruppenaufstellung des Ministeriums f\u00fcr Gesundheit, Arbeit und Soziales NRW. Diese wurde von den Berufsgruppen des Netzwerkes BiG hinsichtlich der tats\u00e4chlich erforderlichen personellen Ausstattung von therapeutischen und medizinisch- diagnostischen Leistungen erg\u00e4nzt, um die Relevanz dieser Berufsgruppen im Rahmen der Vorhaltekosten bei der Krankenhausplanung und ihrer Leistungen sichtbar zu machen. Die \u00dcbersicht zeigt deutlich, dass f\u00fcr eine qualitativ hochwertige und leitliniengerechte Patientenversorgung eine Erg\u00e4nzung der Tabelle notwendig ist."
+                        }
+                    }
+                ],
+                "title": "KHVVG"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Das Regelungsvorhaben zielt auf die St\u00e4rkung der Herz-Kreislaufgesundheit durch Fr\u00fcherkennung und Einsatz von Statinen. Die Einflussnahme zielt darauf etablierte und evaluierte Pr\u00e4ventionsma\u00dfnahmen (Individualberatung und Gruppenschulung) sowie Ma\u00dfnahmen der Gesundheitsf\u00f6rderung beizubehalten und zu st\u00e4rken. Zus\u00e4tzlich sollten Ern\u00e4hrungstherapie durch qualifizierte Ern\u00e4hrungsfachkr\u00e4fte in der Versorgungsstruktur etabliert werden. Dazu geh\u00f6rt die Ausweitung der DMPs hinsichtlich ern\u00e4hrungstherapeutischer Leistungen und die Begleitung von Risikopatienten vor und w\u00e4hrend einer Statin-Therapie durch Ern\u00e4hrungsfachkr\u00e4fte. Patient*innen sollten von Apotheken f\u00fcr eine kompetente, produktneutrale und nicht verkaufsorientierte Beratung an Ern\u00e4hrungsfachkr\u00e4fte weitergeleitet werden. ",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/G/GHG_RefE_bf.pdf",
+                            "draftBillProjectUrl": "https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/ghg.html",
+                            "shortTitle": "BMG",
+                            "title": "Bundesministerium f\u00fcr Gesundheit",
+                            "url": "https://www.bundesgesundheitsministerium.de/"
+                        }
+                    ],
+                    "publicationDate": "2024-06-19",
+                    "title": "Gesetz zur St\u00e4rkung der Herzgesundheit (Gesundes-Herz-Gesetz)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_SECURITY",
+                        "de": "Soziale Sicherung",
+                        "en": "Social security"
+                    },
+                    {
+                        "code": "FOI_SS_HEALTH",
+                        "de": "Krankenversicherung",
+                        "en": "Health insurance"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010974",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/93/62/332980/Stellungnahme-Gutachten-SG2407100015.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                        "de": "Gremien",
+                                        "en": "Committees"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                        "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                        "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                                    }
+                                ],
+                                "sendingDate": "2024-07-09"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0010974",
+                        "regulatoryProjectTitle": "Entwurf eines Gesetzes zur St\u00e4rkung der Herzgesundheit",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "S t e l l u n g n a h m e\r\nder ma\u00dfgeblichen Verb\u00e4nde Ern\u00e4hrungstherapie QUETHEB, VDD und VDOE\r\nzum Referentenentwurf des Bundesministeriums f\u00fcr Gesundheit (BMG):\r\nEntwurf eines Gesetzes zur St\u00e4rkung der Herzgesundheit\r\n(Gesundes-Herz-Gesetz \u2013 GHG)\r\nWir begr\u00fc\u00dfen es, dass die Herz-Kreislauf-Gesundheit der Bev\u00f6lkerung gest\u00e4rkt wer-den soll und nehmen hiermit als ma\u00dfgebliche Verb\u00e4nde Ern\u00e4hrungstherapie zu dem am 19. Juni 2024 ver\u00f6ffentlichten Referentenentwurf f\u00fcr ein GHG Stellung.\r\n\u201e(\u2026) bis zu 70 Prozent der Herz-Kreislauf-Erkrankungen [werden] durch modifizier-bare Lebensstilfaktoren verursacht, insbesondere durch ungesunde Ern\u00e4hrung (\u2026). Der Verminderung dieser Risikofaktoren und damit zusammenh\u00e4ngender Risikoerkrankungen wie Diabetes mellitus und Bluthochdruck durch Unterst\u00fctzung eines gesunden Lebensstils kommt daher eine Schl\u00fcsselrolle zu.\u201c So steht es auf der ersten Seite des Referentenentwurfs im Absatz Problem und Ziel. Und so w\u00e4re es aus unserer Sicht zweifellos zu erwarten, dass dem Thema Ern\u00e4hrung bzw. der Modifikation des Lebensstilfaktors Ern\u00e4hrung auch bei den L\u00f6sungsvorschl\u00e4gen im Gesundes-Herz-Gesetz eine entsprechende Bedeutung zuerkannt w\u00fcrde.\r\nDies ist jedoch in dem Referentenentwurf nicht ber\u00fccksichtigt! Ganz im Gegenteil, es muss davon ausgegangen werden, dass die gesetzlichen Krankenkassen etablierte Ma\u00dfnahmen zur Gesundheitsf\u00f6rderung und Pr\u00e4vention, insbesondere zur Verbesserung des Ern\u00e4hrungsverhaltens im Zusammenhang mit der Herzgesundheit nicht ausreichend oder \u00fcberhaupt nicht weiter anbieten werden. Die Schl\u00fcsselrolle \u201eUnterst\u00fctzung eines gesunden Lebensstils\u201c wird somit v\u00f6llig ignoriert.\r\nIm vorgeschlagenen Finanzierungskonzept werden die Ausgaben f\u00fcr die erweiterten Leistungen im Rahmen der Gesundheitsuntersuchungen zur Fr\u00fcherkennung und Versorgung von Herz-Kreislauf-Erkrankungen zulasten der Ausgaben der Krankenkassen f\u00fcr Leistungen im Bereich Gesundheitsf\u00f6rderung und Prim\u00e4rpr\u00e4vention nach \u00a7 20 Abs. 6 SGB V angerechnet. Somit fehlen die Mittel f\u00fcr Letztere.\r\nMa\u00dfnahmen zur Gesundheitsf\u00f6rderung und Pr\u00e4vention, wie Ern\u00e4hrungsberatung und Gruppenschulungsprogramme, betriebliche Gesundheitsf\u00f6rderung sowie weitere Angebote zur Beeinflussung modifizierbarer Lebensstilfaktoren werden im Katalog der vorgesehenen Ma\u00dfnahmen im Referentenentwurf \u00fcberhaupt nicht erw\u00e4hnt. Dies ist besonders verwunderlich, da viele der in \u00a7 25 c vorgeschlagenen erweiterten Leistungen pr\u00e4destiniert sind, den \u201elebensstilbezogenen Risikofaktor ungesunde Ern\u00e4hrung\u201c durch geeignete Ma\u00dfnahmen zu beeinflussen. Dieser Risikofaktor wird im Referentenentwurf besonders unter B. L\u00f6sungen und in der Begr\u00fcndung mehrfach her-vorgehoben.\r\nHinzu kommt, dass mit den Ma\u00dfnahmen der Gesundheitsf\u00f6rderung und Pr\u00e4vention insbesondere schwer zu erreichende Bev\u00f6lkerungsgruppen gezielt angesprochen werden k\u00f6nnen.\r\n1. Verbesserung der Fr\u00fcherkennung bei Kindern und Jugendlichen\r\nGesundheitsf\u00f6rderungsma\u00dfnahmen in den Lebenswelten wie in Kita und Schule zielen selbstverst\u00e4ndlich auf ein Ern\u00e4hrungsverhalten, welches das Risiko f\u00fcr Herz-Kreislauf-Erkrankungen reduziert. Diese m\u00fcssen weiter stattfinden und finanziert werden, da Kinder, Jugendliche sowie Erziehende und Lehrende dort durch qualifizierte Anbieter*innen erreicht werden. Es handelt sich dabei um dringend notwendige Ma\u00dfnahmen, die den Regelungsschwerpunkt \u201eVerbesserung der Fr\u00fcherkennung bei Kindern und Jugendlichen\u201c mit einer Einladung zur Teilnahme an der J1-Untersuchung ideal flankieren.\r\n2. Verbesserung der Fr\u00fcherkennung bei Erwachsenen\r\nDie vorgeschlagenen Check-ups sollten nicht nur die Erfassung von lebensstilbezogenen Risikofaktoren wie ungesunder Ern\u00e4hrung zum Ziel haben. Patient*innen sollten vielmehr unbedingt auch Wege zur Verbesserung des Lebensstils auf-gezeigt bekommen und dazu motiviert und bef\u00e4higt werden, das eigene Verhalten zu ver\u00e4ndern. Denkbar w\u00e4re auch, einen pr\u00e4ventiven Ern\u00e4hrungs-Check durch eine qualifizierte Ern\u00e4hrungsfachkraft in den Check-up zu integrieren, und dies nicht erst bei Auff\u00e4lligkeiten.\r\nSowohl das vielseitige und evaluierte Kursangebot im Handlungsfeld Ern\u00e4hrung, das auch die Pr\u00e4vention von Herz-Kreislauferkrankungen umfasst, betriebliche Gesundheitsf\u00f6rderungsma\u00dfnahmen, als auch die individuelle Beratung zur Ern\u00e4hrung zur Vermeidung von Fehl- und Mangelern\u00e4hrung m\u00fcssen genutzt und honoriert werden, um Menschen mit praxisorientierten Programmen nachhaltig zu erreichen.\r\nBei Auff\u00e4lligkeiten in Check-Ups oder bei Messungen in Apotheken muss die Ern\u00e4hrungstherapie durch daf\u00fcr qualifizierte Ern\u00e4hrungsfachkr\u00e4fte1 als Ma\u00dfnahme im System fest verankert werden.\r\n1 Di\u00e4tassistent*innen sowie Oecotropholog*innen, Ern\u00e4hrungswissenschaftler*innen und Absolvent*innen fachverwandter Studieng\u00e4nge mit einem Zertifikat eines Berufsverbands bzw. einer Fachgesellschaft (VDD, VDOE, VFED, QUETHEB, DGE).\r\nSeite 3 (von 4)\r\n3. St\u00e4rkung von Disease-Management-Programmen\r\nStrukturierte Behandlungsprogramme f\u00fcr Menschen mit Herz-Kreislauf-Erkrankungen m\u00fcssen standardm\u00e4\u00dfig eine individuelle Ern\u00e4hrungstherapie durch entsprechend qualifizierte Ern\u00e4hrungsfachkr\u00e4fte umfassen bzw. diese zumindest bei Bedarf anbieten. Beim DMP sollte die Qualifikation der Leistungserbringer*innen f\u00fcr Ern\u00e4hrungstherapie definiert werden, analog zu den Zulassungsvoraussetzungen f\u00fcr Heilmittelerbringer*innen im Bereich Ern\u00e4hrungstherapie.\r\n4. Vorbeugung kardiovaskul\u00e4rer Ereignisse\r\nIn jedem Fall muss vor und begleitend zum Einsatz von Medikamenten/Statinen eine Ern\u00e4hrungstherapeutische Beratung durch qualifizierte Ern\u00e4hrungsfachkr\u00e4fte initiiert und fest im System verankert werden. \u00c4hnlich wie im Bereich der Bariatrie sollten Statine erst zum Einsatz kommen, wenn der konservative Weg ausgesch\u00f6pft ist.\r\n5. Vordruck \u201ePr\u00e4ventionsempfehlung\u201c im Zusammenhang mit Reduzierung des Nikotinkonsums\r\nDie Pr\u00e4ventionsempfehlung, die von Vertrags\u00e4rztinnen und Vertrags\u00e4rzten erteilt und abgerechnet werden soll, eignet sich neben der Flankierung der (medikament\u00f6sen) Tabakentw\u00f6hnung, hervorragend f\u00fcr die Motivation Pr\u00e4ventionsangebote im Handlungsfeld Ern\u00e4hrung wahrzunehmen und sollte unbedingt auch daf\u00fcr genutzt werden.\r\nNicht nur der infolge der Reduzierung des Nikotinkonsums von vielen Menschen bef\u00fcrchteten oder sogar wahrgenommenen Gewichtszunahme, welche ein weiterer Risikofaktor f\u00fcr Herz-Kreislauf-Erkrankungen ist, kann so entgegengewirkt werden.\r\n6. Beratung zur Pr\u00e4vention und Fr\u00fcherkennung von Erkrankungen und Erkrankungsrisiken in Apotheken\r\nDa der Erwerb von umfassenden ern\u00e4hrungswissenschaftlichen Kenntnissen nicht zur spezifischen Ausbildung von Apotheker*innen und Pharmazeutisch-technischen Assistent*innen geh\u00f6rt, sind deren ern\u00e4hrungsbezogene Pr\u00e4ventionshin-weise m\u00f6glicherweise nicht immer umfassend und aktuell. Ratsuchende sollten in Apotheken nicht mit unzureichenden Ern\u00e4hrungshinweisen abgespeist werden, sondern eine enge Zusammenarbeit mit ern\u00e4hrungstherapeutischen Fachkr\u00e4ften sollte gew\u00e4hrleistet sein. Bei Beratungen zur Pr\u00e4vention in Apotheken ist zudem das m\u00f6gliche Verkaufsinteresse zu bedenken. Im Gegensatz dazu beinhalten die Berufsrichtlinien und Zertifizierungsbedingungen von zertifizierten Ern\u00e4hrungsfachkr\u00e4ften eine strikte Produktneutralit\u00e4t.\r\n\r\nAls Berufsverb\u00e4nde und zugleich ma\u00dfgebliche Verb\u00e4nde der Heilmittelerbringer*innen f\u00fcr das Heilmittel Ern\u00e4hrungstherapie machen wir dar\u00fcber hinaus darauf aufmerksam, dass eine Fokussierung auf die medizinische und pharmakologische Pr\u00e4vention f\u00fcr viele unserer insgesamt knapp 10.000 Mitglieder gravierende Folgen h\u00e4tte und u. U. existenzgef\u00e4hrdend w\u00e4re.\r\nAnbieter*innen von Gesundheitsf\u00f6rderungs- und Pr\u00e4ventionsma\u00dfnahmen im Handlungsfeld Ern\u00e4hrung, haben zus\u00e4tzlich zu ihrer staatlich anerkannten Ausbildung zur Di\u00e4tassistent*in oder zu ihrem Hochschulstudium der Oecotrophologie/Ern\u00e4hrungswissenschaft viel Zeit und Geld in entsprechende Weiterbildungen investiert, um die erforderliche Qualifikation f\u00fcr Leistungen in Gesundheitsf\u00f6rderung und Pr\u00e4vention zu erf\u00fcllen und um in diesem Bereich qualifiziert und erfolgreich t\u00e4tig sein zu k\u00f6nnen.\r\nZum Thema Gesundes Herz muss Ern\u00e4hrung unbedingt mitgedacht werden!\r\nMotto: Pr\u00e4vention vor Therapie, und wenn Therapie notwendig ist, dann interdisziplin\u00e4r, unabh\u00e4ngig und qualifiziert! Wir warnen ganz ausdr\u00fccklich davor, den insbesondere nach Inkrafttreten des Pr\u00e4ventionsgesetzes erfolgreichen Strukturaufbau der vergangenen Jahrzehnte im Bereich der Gesundheitsf\u00f6rderung und Prim\u00e4rpr\u00e4vention zu gef\u00e4hrden. Mit den geplanten Ma\u00dfnahmen w\u00fcrde dieser konterkariert.\r\n9. Juli 2024\r\nQUETHEB - Deutsche Gesellschaft der qualifizierten Ern\u00e4hrungstherapeuten und Ern\u00e4hrungsberater e. V.\r\nAn der Schie\u00dfmauer 8, 89547 Gerstetten\r\nSandra Strehle 07323 96 88 472 | info@quetheb.de | www.quetheb.de\r\nVerband der Di\u00e4tassistenten \u2013 Deutscher Bundesverband e. V. (VDD)\r\nSusannastra\u00dfe 13, 45136 Essen\r\nUta K\u00f6pcke 0152 31803383 | uta.koepcke@vdd.de | www.vdd.de\r\nBerufsVerband Oecotrophologie e. V. (VDOE)\r\nAgricolastra\u00dfe 25, 10555 Berlin\r\nDr. Andrea Lambeck 0175 2640669 | a.lambeck@vdoe.de | www.vdoe.de"
+                        }
+                    }
+                ],
+                "title": "Entwurf eines Gesetzes zur St\u00e4rkung der Herzgesundheit"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d9/c4/306155/Stellungnahme-Gutachten-SG2406200014.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                "de": "Gremien",
+                                "en": "Committees"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-30"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0004470",
+                "regulatoryProjectTitle": "KHVVG",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Stellungnahme des Netzwerk Berufe im Gesundheitswesen (BiG)\r\nzum Referentenentwurf eines Gesetzes zur Verbesserung der Versorgungsqualit\u00e4t im Krankenhaus und zur Reform der Verg\u00fctungsstrukturen (Krankenhausversorgungsverbesserungsgesetz - KHVVG)\r\nSehr geehrte Frau,\r\ndas Netzwerk Berufe im Gesundheitswesen vereint die Verb\u00e4nde der Therapieberufe und Technologen im Gesundheitswesen. Folgende Verb\u00e4nde sind Mitglied im Netzwerk BiG:\r\nBerufsverband Orthoptik Deutschland e. V. (BOD)\r\nDachverband f\u00fcr Technologen/-innen und Analytiker/-innen in der Medizin Deutschland e.V. (DVTA)\r\nDeutscher Bundesverband f\u00fcr Logop\u00e4die e.V. (dbl)\r\nDeutscher Verband Ergotherapie e.V. (DVE)\r\nDeutscher Verband f\u00fcr Physiotherapie e.V. (PHYSIO-DEUTSCHLAND)\r\nVerband der Di\u00e4tassistenten e. V. (VDD)\r\nDie von uns vertretenen Berufsgruppen spielen eine zentrale Rolle in der (station\u00e4ren) Versorgung. Nur gemeinsam mit ihnen ist eine effektive und effiziente Gesundheitsversorgung m\u00f6glich - das gilt f\u00fcr das Krankenhaus ebenso wie f\u00fcr den ambulanten Sektor Das Netzwerk BiG besch\u00e4ftigt sich vorrangig mit den gemeinsamen Themen, die die Berufszugeh\u00f6rigen in Einrichtungen, wie Krankenh\u00e4usern/Kliniken, Rehabilitationseinrichtungen und Pflegeeinrichtungen betreffen. Dies immer vor dem Hintergrund zeitgem\u00e4\u00dfer, leitliniengerechter und kostengerechter Versorgung im Sinne der Patientinnen und Patienten. Qualit\u00e4t und Zukunft im Gesundheitswesen stehen f\u00fcr uns im Mittelpunkt.\r\nKontakt:\r\n\u2022\r\nHeidemarie B\u00fcchner, Sprecherin Netzwerk BiG: Buechner@dbl-ev.de\r\n\u2022\r\nUta K\u00f6pcke, stellvertretende Sprecherin Netzwerk BiG: uta.koepcke@vdd.de\r\n\u2022\r\nNetzwerk BiG - Berufe im Gesundheitswesen (netzwerk-big.de)\r\nDer Referentenentwurf des KHVVG gibt erstmals Einblick in die konkrete Planung der Umsetzung der Krankenhausreform und Krankenhausfinanzierung. Ziel ist - unbestreitbar und dringend notwendig - die station\u00e4re Versorgung der Patientinnen und Patienten zu sichern und zu verbessern.\r\nDie Erreichung dieses Ziels kann jedoch nur gelingen, wenn auch alle an der station\u00e4ren Gesundheitsversorgung beteiligten Berufsgruppen einbezogen und abgebildet werden. Der vorliegende Referentenentwurf gew\u00e4hrleistet dies jedoch nicht.\r\nAnbei die Stellungnahme des Netzwerkes BiG zu den einzelnen Abschnitten, die aus unserer Perspektive zu \u00fcberarbeiten sind:\r\nArtikel 1 \u00c4nderung des F\u00fcnften Buches Sozialgesetzbuch \r\n1.\r\n\u00a7 135e Abs. 1 (Leistungsgruppen)\r\nDie gem\u00e4\u00df \u00a7 135e Abs. 1 SGB V in Leistungsgruppen einzuteilenden Leistungen der Krankenhausbehandlung ber\u00fccksichtigen weder Therapieberufe (insbesondere Heilmittelerbringer) noch die Berufe der Medizinischen Technologinnen und Technologen im Gesundheitswesen. Aufgef\u00fchrt sind nur (Fach-) \u00c4rztinnen und \u00c4rzte sowie Pflegeberufe. Dies zeigt, dass die therapeutischen und medizinisch- diagnostischen Berufe, die in der Krankenhausversorgung einen unverzichtbaren Beitrag leisten, nicht mitbedacht werden.\r\nDies ist vor dem Hintergrund von \u00a7 135e Abs. 1 letzter Satz des Referentenentwurfes (\u201eDie Qualit\u00e4tskriterien sollen den aktuellen Stand der medizinisch wissenschaftlichen Erkenntnisse ber\u00fccksichtigen und zu einer leitliniengerechten, qualitativ hochwertigen und f\u00fcr Patienten sicheren medizinischen Versorgung beitragen.\u201c) nicht schl\u00fcssig.\r\nDie in \u00a7 135e Abs. 1 Nummern 2 und 3 formulierte sachliche und personelle Ausstattung, spiegelt sich in den in \u00a7 135e Absatz 4 genannten Leistungsgruppen nur unzureichend wider, da in der personellen Ausstattung relevante Gesundheitsberufe nicht ber\u00fccksichtigt sind.\r\na.)\r\nSo sind in entsprechenden medizinischen Leitlinien zur Versorgung, therapeutische und diagnostische Leistungen verankert, welche in den entsprechenden Leistungsgruppen nicht abgebildet sind, z. B.:\r\n\u2022\r\nAkutversorgung nach Schlaganfall (AWMF Reg 030 \u2013 046) und Schlaganfall (AWMF-Reg. 053-011) / Leistungsgruppe 46, Anlage 1 zu \u00a7 135d SGB V bzw. Leistungsgruppe 26.2 gem. Krankenhausplan Nordrhein-Westfalen 2022, Anhang 1\r\n\u2022\r\nWeaning (AWMF Reg 020-015/ Leistungsgruppe 6, Anlage 1 zu \u00a7 135d SGB V bzw. Leistungsgruppe 5.1, komplexe Pneumologie, Krankenhausplan Nordrhein-Westfalen 2022, Anhang 1\r\n\u2022\r\nNationale Versorgungsleitlinie Typ-2-Diabetes (AWMF Reg nvl-001) / Leistungsgruppe 2, Anlage 1 zu \u00a7 135d SGB V bzw. Leistungsgruppe 5.1, komplexe Pneumologie, Krankenhausplan Nordrhein-Westfalen 2022, Anhang 1\r\nb.)\r\nIm Fall der MT-Berufe (MTL, MTR, MTF) erfordert die aufgef\u00fchrte sachliche Ausstattung gem\u00e4\u00df den Vorgaben zu Vorbehaltst\u00e4tigkeiten des \u00a7 5 MTBG die Durchf\u00fchrung durch die MT-Berufe, um eine qualitative und patientensichere Leistungserbringung zu gew\u00e4hrleisten. Die ausnahmsweise Durchf\u00fchrung der Vorbehaltst\u00e4tigkeiten durch andere Gesundheitsberufe (mit Ausnahme solcher mit abgeschlossener Hochschulausbildung) erfordern die Aufsicht und Verantwortung einer \u00e4rztlichen Person. Dies ist vor dem bestehenden Fachkr\u00e4ftemangel auch in der \u00c4rzteschaft zu bedenken. Auch besteht in anderen Gesundheitsberufen Fachkr\u00e4ftemangel (z. B. im Beruf der MFA), so dass der Einsatz von anderen Gesundheitsberufen zur Leistungserbringung in den Vorbehaltst\u00e4tigkeiten unter Aufsicht und Verantwortung einer \u00e4rztlichen Person nicht zielf\u00fchrend ist. Aus diesem Grund sind auch die MT-Berufe gem\u00e4\u00df ihren Vorbehaltst\u00e4tigkeiten in der personellen Ausstattung zu ber\u00fccksichtigen. Die Existenz der geforderten sachlichen Ausstattung f\u00fcr z. B. Laboranalysen (MTL), bildgebende Diagnostik (MTR) und neurologische Funktionsdiagnostik (MTF) zieht nicht automatisch das Vorhandensein der MT-Berufe nach sich. Diese sind jedoch aus Gr\u00fcnden der Patientensicherheit und zur Sicherung der Qualit\u00e4t der Leistungserbringung erforderlich.\r\nEntsprechend sind zur Gew\u00e4hrleistung der hochwertigen Versorgungsqualit\u00e4t auch diese Berufsgruppen sowohl in die Planung und als auch in der Umsetzung einzubeziehen und darzustellen.\r\n2.\r\n\u00a7 135 Abs. 3 (Ausschuss)\r\nHieraus folgt zwingend, dass die ma\u00dfgeblichen Berufsorganisationen der besagten Berufsgruppen auch in den Ausschuss gem\u00e4\u00df \u00a7 135e Abs. 3 der Entwurfsfassung aufzunehmen sind. Die -sehr zu begr\u00fc\u00dfende- Ber\u00fccksichtigung der Berufsorganisationen der Pflegeberufe greift mit Blick auf die Bedeutung der Therapieberufe und Technologen im Gesundheitswesen f\u00fcr die Versorgung zu kurz. Deren Nichtber\u00fccksichtigung gef\u00e4hrdet eine qualitativ hochwertige und leitliniengerechte Versorgung, da ein wichtiger Bereich der Patientenversorgung schlicht \u00fcbersehen wird und deren Fachexpertise ungenutzt bleibt.\r\nDie Ber\u00fccksichtigung aller in der Krankenhausversorgung relevanten Gesundheitsberufe, gebietet \u00fcberdies auch der Gleichbehandlungsgrundsatz. So d\u00fcrfen andere betroffene Gesundheitsberufe nicht vom demokratischen Prozessgeschehen des Ausschusses ausgeschlossen werden.\r\nIm Anhang dieser Stellungnahme befindet sich die tabellarische Leistungsgruppenaufstellung des Ministeriums f\u00fcr Gesundheit, Arbeit und Soziales NRW. Diese wurde von den Berufsgruppen des Netzwerkes BiG hinsichtlich der tats\u00e4chlich erforderlichen personellen Ausstattung von therapeutischen und medizinisch- diagnostischen Leistungen erg\u00e4nzt, um die Relevanz dieser Berufsgruppen im Rahmen der Vorhaltekosten bei der Krankenhausplanung und ihrer Leistungen sichtbar zu machen. Die \u00dcbersicht zeigt deutlich, dass f\u00fcr eine qualitativ hochwertige und leitliniengerechte Patientenversorgung eine Erg\u00e4nzung der Tabelle notwendig ist."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/93/62/332980/Stellungnahme-Gutachten-SG2407100015.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                "de": "Gremien",
+                                "en": "Committees"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                            }
+                        ],
+                        "sendingDate": "2024-07-09"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0010974",
+                "regulatoryProjectTitle": "Entwurf eines Gesetzes zur St\u00e4rkung der Herzgesundheit",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "S t e l l u n g n a h m e\r\nder ma\u00dfgeblichen Verb\u00e4nde Ern\u00e4hrungstherapie QUETHEB, VDD und VDOE\r\nzum Referentenentwurf des Bundesministeriums f\u00fcr Gesundheit (BMG):\r\nEntwurf eines Gesetzes zur St\u00e4rkung der Herzgesundheit\r\n(Gesundes-Herz-Gesetz \u2013 GHG)\r\nWir begr\u00fc\u00dfen es, dass die Herz-Kreislauf-Gesundheit der Bev\u00f6lkerung gest\u00e4rkt wer-den soll und nehmen hiermit als ma\u00dfgebliche Verb\u00e4nde Ern\u00e4hrungstherapie zu dem am 19. Juni 2024 ver\u00f6ffentlichten Referentenentwurf f\u00fcr ein GHG Stellung.\r\n\u201e(\u2026) bis zu 70 Prozent der Herz-Kreislauf-Erkrankungen [werden] durch modifizier-bare Lebensstilfaktoren verursacht, insbesondere durch ungesunde Ern\u00e4hrung (\u2026). Der Verminderung dieser Risikofaktoren und damit zusammenh\u00e4ngender Risikoerkrankungen wie Diabetes mellitus und Bluthochdruck durch Unterst\u00fctzung eines gesunden Lebensstils kommt daher eine Schl\u00fcsselrolle zu.\u201c So steht es auf der ersten Seite des Referentenentwurfs im Absatz Problem und Ziel. Und so w\u00e4re es aus unserer Sicht zweifellos zu erwarten, dass dem Thema Ern\u00e4hrung bzw. der Modifikation des Lebensstilfaktors Ern\u00e4hrung auch bei den L\u00f6sungsvorschl\u00e4gen im Gesundes-Herz-Gesetz eine entsprechende Bedeutung zuerkannt w\u00fcrde.\r\nDies ist jedoch in dem Referentenentwurf nicht ber\u00fccksichtigt! Ganz im Gegenteil, es muss davon ausgegangen werden, dass die gesetzlichen Krankenkassen etablierte Ma\u00dfnahmen zur Gesundheitsf\u00f6rderung und Pr\u00e4vention, insbesondere zur Verbesserung des Ern\u00e4hrungsverhaltens im Zusammenhang mit der Herzgesundheit nicht ausreichend oder \u00fcberhaupt nicht weiter anbieten werden. Die Schl\u00fcsselrolle \u201eUnterst\u00fctzung eines gesunden Lebensstils\u201c wird somit v\u00f6llig ignoriert.\r\nIm vorgeschlagenen Finanzierungskonzept werden die Ausgaben f\u00fcr die erweiterten Leistungen im Rahmen der Gesundheitsuntersuchungen zur Fr\u00fcherkennung und Versorgung von Herz-Kreislauf-Erkrankungen zulasten der Ausgaben der Krankenkassen f\u00fcr Leistungen im Bereich Gesundheitsf\u00f6rderung und Prim\u00e4rpr\u00e4vention nach \u00a7 20 Abs. 6 SGB V angerechnet. Somit fehlen die Mittel f\u00fcr Letztere.\r\nMa\u00dfnahmen zur Gesundheitsf\u00f6rderung und Pr\u00e4vention, wie Ern\u00e4hrungsberatung und Gruppenschulungsprogramme, betriebliche Gesundheitsf\u00f6rderung sowie weitere Angebote zur Beeinflussung modifizierbarer Lebensstilfaktoren werden im Katalog der vorgesehenen Ma\u00dfnahmen im Referentenentwurf \u00fcberhaupt nicht erw\u00e4hnt. Dies ist besonders verwunderlich, da viele der in \u00a7 25 c vorgeschlagenen erweiterten Leistungen pr\u00e4destiniert sind, den \u201elebensstilbezogenen Risikofaktor ungesunde Ern\u00e4hrung\u201c durch geeignete Ma\u00dfnahmen zu beeinflussen. Dieser Risikofaktor wird im Referentenentwurf besonders unter B. L\u00f6sungen und in der Begr\u00fcndung mehrfach her-vorgehoben.\r\nHinzu kommt, dass mit den Ma\u00dfnahmen der Gesundheitsf\u00f6rderung und Pr\u00e4vention insbesondere schwer zu erreichende Bev\u00f6lkerungsgruppen gezielt angesprochen werden k\u00f6nnen.\r\n1. Verbesserung der Fr\u00fcherkennung bei Kindern und Jugendlichen\r\nGesundheitsf\u00f6rderungsma\u00dfnahmen in den Lebenswelten wie in Kita und Schule zielen selbstverst\u00e4ndlich auf ein Ern\u00e4hrungsverhalten, welches das Risiko f\u00fcr Herz-Kreislauf-Erkrankungen reduziert. Diese m\u00fcssen weiter stattfinden und finanziert werden, da Kinder, Jugendliche sowie Erziehende und Lehrende dort durch qualifizierte Anbieter*innen erreicht werden. Es handelt sich dabei um dringend notwendige Ma\u00dfnahmen, die den Regelungsschwerpunkt \u201eVerbesserung der Fr\u00fcherkennung bei Kindern und Jugendlichen\u201c mit einer Einladung zur Teilnahme an der J1-Untersuchung ideal flankieren.\r\n2. Verbesserung der Fr\u00fcherkennung bei Erwachsenen\r\nDie vorgeschlagenen Check-ups sollten nicht nur die Erfassung von lebensstilbezogenen Risikofaktoren wie ungesunder Ern\u00e4hrung zum Ziel haben. Patient*innen sollten vielmehr unbedingt auch Wege zur Verbesserung des Lebensstils auf-gezeigt bekommen und dazu motiviert und bef\u00e4higt werden, das eigene Verhalten zu ver\u00e4ndern. Denkbar w\u00e4re auch, einen pr\u00e4ventiven Ern\u00e4hrungs-Check durch eine qualifizierte Ern\u00e4hrungsfachkraft in den Check-up zu integrieren, und dies nicht erst bei Auff\u00e4lligkeiten.\r\nSowohl das vielseitige und evaluierte Kursangebot im Handlungsfeld Ern\u00e4hrung, das auch die Pr\u00e4vention von Herz-Kreislauferkrankungen umfasst, betriebliche Gesundheitsf\u00f6rderungsma\u00dfnahmen, als auch die individuelle Beratung zur Ern\u00e4hrung zur Vermeidung von Fehl- und Mangelern\u00e4hrung m\u00fcssen genutzt und honoriert werden, um Menschen mit praxisorientierten Programmen nachhaltig zu erreichen.\r\nBei Auff\u00e4lligkeiten in Check-Ups oder bei Messungen in Apotheken muss die Ern\u00e4hrungstherapie durch daf\u00fcr qualifizierte Ern\u00e4hrungsfachkr\u00e4fte1 als Ma\u00dfnahme im System fest verankert werden.\r\n1 Di\u00e4tassistent*innen sowie Oecotropholog*innen, Ern\u00e4hrungswissenschaftler*innen und Absolvent*innen fachverwandter Studieng\u00e4nge mit einem Zertifikat eines Berufsverbands bzw. einer Fachgesellschaft (VDD, VDOE, VFED, QUETHEB, DGE).\r\nSeite 3 (von 4)\r\n3. St\u00e4rkung von Disease-Management-Programmen\r\nStrukturierte Behandlungsprogramme f\u00fcr Menschen mit Herz-Kreislauf-Erkrankungen m\u00fcssen standardm\u00e4\u00dfig eine individuelle Ern\u00e4hrungstherapie durch entsprechend qualifizierte Ern\u00e4hrungsfachkr\u00e4fte umfassen bzw. diese zumindest bei Bedarf anbieten. Beim DMP sollte die Qualifikation der Leistungserbringer*innen f\u00fcr Ern\u00e4hrungstherapie definiert werden, analog zu den Zulassungsvoraussetzungen f\u00fcr Heilmittelerbringer*innen im Bereich Ern\u00e4hrungstherapie.\r\n4. Vorbeugung kardiovaskul\u00e4rer Ereignisse\r\nIn jedem Fall muss vor und begleitend zum Einsatz von Medikamenten/Statinen eine Ern\u00e4hrungstherapeutische Beratung durch qualifizierte Ern\u00e4hrungsfachkr\u00e4fte initiiert und fest im System verankert werden. \u00c4hnlich wie im Bereich der Bariatrie sollten Statine erst zum Einsatz kommen, wenn der konservative Weg ausgesch\u00f6pft ist.\r\n5. Vordruck \u201ePr\u00e4ventionsempfehlung\u201c im Zusammenhang mit Reduzierung des Nikotinkonsums\r\nDie Pr\u00e4ventionsempfehlung, die von Vertrags\u00e4rztinnen und Vertrags\u00e4rzten erteilt und abgerechnet werden soll, eignet sich neben der Flankierung der (medikament\u00f6sen) Tabakentw\u00f6hnung, hervorragend f\u00fcr die Motivation Pr\u00e4ventionsangebote im Handlungsfeld Ern\u00e4hrung wahrzunehmen und sollte unbedingt auch daf\u00fcr genutzt werden.\r\nNicht nur der infolge der Reduzierung des Nikotinkonsums von vielen Menschen bef\u00fcrchteten oder sogar wahrgenommenen Gewichtszunahme, welche ein weiterer Risikofaktor f\u00fcr Herz-Kreislauf-Erkrankungen ist, kann so entgegengewirkt werden.\r\n6. Beratung zur Pr\u00e4vention und Fr\u00fcherkennung von Erkrankungen und Erkrankungsrisiken in Apotheken\r\nDa der Erwerb von umfassenden ern\u00e4hrungswissenschaftlichen Kenntnissen nicht zur spezifischen Ausbildung von Apotheker*innen und Pharmazeutisch-technischen Assistent*innen geh\u00f6rt, sind deren ern\u00e4hrungsbezogene Pr\u00e4ventionshin-weise m\u00f6glicherweise nicht immer umfassend und aktuell. Ratsuchende sollten in Apotheken nicht mit unzureichenden Ern\u00e4hrungshinweisen abgespeist werden, sondern eine enge Zusammenarbeit mit ern\u00e4hrungstherapeutischen Fachkr\u00e4ften sollte gew\u00e4hrleistet sein. Bei Beratungen zur Pr\u00e4vention in Apotheken ist zudem das m\u00f6gliche Verkaufsinteresse zu bedenken. Im Gegensatz dazu beinhalten die Berufsrichtlinien und Zertifizierungsbedingungen von zertifizierten Ern\u00e4hrungsfachkr\u00e4ften eine strikte Produktneutralit\u00e4t.\r\n\r\nAls Berufsverb\u00e4nde und zugleich ma\u00dfgebliche Verb\u00e4nde der Heilmittelerbringer*innen f\u00fcr das Heilmittel Ern\u00e4hrungstherapie machen wir dar\u00fcber hinaus darauf aufmerksam, dass eine Fokussierung auf die medizinische und pharmakologische Pr\u00e4vention f\u00fcr viele unserer insgesamt knapp 10.000 Mitglieder gravierende Folgen h\u00e4tte und u. U. existenzgef\u00e4hrdend w\u00e4re.\r\nAnbieter*innen von Gesundheitsf\u00f6rderungs- und Pr\u00e4ventionsma\u00dfnahmen im Handlungsfeld Ern\u00e4hrung, haben zus\u00e4tzlich zu ihrer staatlich anerkannten Ausbildung zur Di\u00e4tassistent*in oder zu ihrem Hochschulstudium der Oecotrophologie/Ern\u00e4hrungswissenschaft viel Zeit und Geld in entsprechende Weiterbildungen investiert, um die erforderliche Qualifikation f\u00fcr Leistungen in Gesundheitsf\u00f6rderung und Pr\u00e4vention zu erf\u00fcllen und um in diesem Bereich qualifiziert und erfolgreich t\u00e4tig sein zu k\u00f6nnen.\r\nZum Thema Gesundes Herz muss Ern\u00e4hrung unbedingt mitgedacht werden!\r\nMotto: Pr\u00e4vention vor Therapie, und wenn Therapie notwendig ist, dann interdisziplin\u00e4r, unabh\u00e4ngig und qualifiziert! Wir warnen ganz ausdr\u00fccklich davor, den insbesondere nach Inkrafttreten des Pr\u00e4ventionsgesetzes erfolgreichen Strukturaufbau der vergangenen Jahrzehnte im Bereich der Gesundheitsf\u00f6rderung und Prim\u00e4rpr\u00e4vention zu gef\u00e4hrden. Mit den geplanten Ma\u00dfnahmen w\u00fcrde dieser konterkariert.\r\n9. Juli 2024\r\nQUETHEB - Deutsche Gesellschaft der qualifizierten Ern\u00e4hrungstherapeuten und Ern\u00e4hrungsberater e. V.\r\nAn der Schie\u00dfmauer 8, 89547 Gerstetten\r\nSandra Strehle 07323 96 88 472 | info@quetheb.de | www.quetheb.de\r\nVerband der Di\u00e4tassistenten \u2013 Deutscher Bundesverband e. V. (VDD)\r\nSusannastra\u00dfe 13, 45136 Essen\r\nUta K\u00f6pcke 0152 31803383 | uta.koepcke@vdd.de | www.vdd.de\r\nBerufsVerband Oecotrophologie e. V. (VDOE)\r\nAgricolastra\u00dfe 25, 10555 Berlin\r\nDr. Andrea Lambeck 0175 2640669 | a.lambeck@vdoe.de | www.vdoe.de"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

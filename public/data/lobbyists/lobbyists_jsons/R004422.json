@@ -1,0 +1,749 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-06-29T18:17:41.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-05-03T16:06:08.000+02:00",
+        "lastUpdateDate": "2024-06-20T09:06:07.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 35155,
+                "validFromDate": "2024-06-20T09:06:07.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 18130,
+                "validFromDate": "2023-03-31T11:35:02.000+02:00",
+                "validUntilDate": "2024-06-20T09:06:07.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 8828,
+                "validFromDate": "2022-06-29T18:17:41.000+02:00",
+                "validUntilDate": "2023-03-31T11:35:02.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION_V2",
+            "de": "Sonstiges Unternehmen",
+            "en": "Other company"
+        },
+        "activityDescription": "F\u00fcr Menschen mit eingeschr\u00e4nkter Mobilit\u00e4t entwickelt Ottobock innovative Versorgungsl\u00f6sungen in den Bereichen Prothetik, (Neuro-)Orthetik, Exoskelette und Rollst\u00fchle und Patient Care, um die Selbstbestimmtheit und Lebensqualit\u00e4t von Menschen weltweit zu verbessern. Vor diesem Hintergrund setzt sich Ottobock f\u00fcr einen leichteren Zugang zu Behandlungsl\u00f6sungen und eine ganzheitliche Gesundheitsversorgung als Menschenrecht ein. \r\n\r\nIm Fokus der Interessenvertretung stehen daher vor allem die regulatorischen Rahmenbedingungen bei der Herstellung innovativer medizinischer Hilfsmittel und bei der Umsetzung von PatientInnenenversorgung mit orthop\u00e4dietechnischen Hilfsmitteln. Dabei geht es beispielsweise um Datenverf\u00fcgbarkeit in der Forschung, den Abbau von B\u00fcrokratie im Versorgungsprozess, die Sicherung des orthop\u00e4dietechnischen Ausbildungsstand sowie die beschleunigte Erstattung innovativer Technologien.\r\n\r\nZum Zwecke der Interessenvertretung werden Gespr\u00e4che mit Mitgliedern des Deutschen Bundestages sowie VertreterInnen der Bundesministerien gef\u00fchrt, um aktuelle Herausforderungen in den genannten Themenbereichen zu erl\u00e4utern und Impulse zur Verbesserung der gesamtwirtschaftlichen Lage einzubringen. Im Zuge dessen werden vereinzelt auch Diskussionsveranstaltungen organisiert, zu denen Regierungsmitglieder, Abgeordnete sowie VertreterInnen der Ministerien eingeladen werden. Dar\u00fcber hinaus werden in Einzelf\u00e4llen auch Stellungnahmen und Gutachten zu konkreten Regelungsvorhaben erarbeitet und \u00fcbermittelt.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_SS_HEALTH",
+                "de": "Krankenversicherung",
+                "en": "Health insurance"
+            },
+            {
+                "code": "FOI_SP_DISABILITY",
+                "de": "Rechte von Menschen mit Behinderung",
+                "en": "Rights of people with disabilities"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_LAS_POPULAR_SPORT",
+                "de": "Breitensport",
+                "en": "Popular sports"
+            },
+            {
+                "code": "FOI_ECONOMY_HANDCRAFT",
+                "de": "Handwerk",
+                "en": "Handcraft"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            },
+            {
+                "code": "CONTRACTS_OPERATED_BY_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird in eigenem Interesse durch die Beauftragung Dritter wahrgenommen",
+                "en": "Contracts are awarded to third parties to represent own interests of the company"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/26/c3/299954/Ottobock-SE-Co-KGaA_2022.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/aa/18/299953/Erlauternde-Erklarung-zum-CoC-Politisches-Engagement_v2-0_Januar-2023.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.55,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 110001,
+            "to": 120000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Duderstadt",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Max-N\u00e4der-Str.",
+            "streetNumber": "15",
+            "type": "NATIONAL",
+            "zipCode": "37115"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@ottobock.com"
+                }
+            ],
+            "phoneNumber": "+4955278480",
+            "websites": [
+                {
+                    "website": "corporate.ottobock.com"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Oliver",
+                "lastName": "Jakobi",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Lukas",
+                "lastName": "Eckermann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Philipp",
+                "lastName": "Hoefer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Karlotta",
+                "lastName": "Koperski",
+                "recentGovernmentFunction": {
+                    "endDate": "2022-10",
+                    "ended": true,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_MEMBER",
+                            "de": "Funktion f\u00fcr ein Mitglied des Deutschen Bundestages",
+                            "en": "Function for a member of the German Bundestag"
+                        },
+                        "functionPosition": "Praktikantin"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "firstName": "Merle",
+                "lastName": "Florstedt",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_KGAA",
+            "de": "Kommanditgesellschaft auf Aktien (KGaA)",
+            "en": "Partnership limited by shares (KGaA)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Oliver",
+                "function": "CEO / CSO",
+                "lastName": "Jakobi",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": false,
+                "firstName": "Arne",
+                "function": "CFO",
+                "lastName": "Kreitz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Arne",
+                "function": "COO/ CTO",
+                "lastName": "J\u00f6rn",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Martin",
+                "function": "CXO",
+                "lastName": "B\u00f6hm",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "BVmed - Bundesverband Medizintechnologie e.V."
+            },
+            {
+                "membership": "SPECTARIS. Deutscher Industrieverband f\u00fcr Optik, Photonik, Analysen- und Medizintechnik e.V."
+            },
+            {
+                "membership": "German Health Alliance GHA (Industrie-F\u00f6rderungsgesellschaft mbH)"
+            },
+            {
+                "membership": "Ghorfa - Arab-German Chamber of Commerce and Industry e.V."
+            },
+            {
+                "membership": "Ost-Ausschuss der Deutschen Wirtschaft e.V."
+            },
+            {
+                "membership": "Deutsche Gesellschaft f\u00fcr interprofessionelle Hilfsmittelversorgung e.V."
+            },
+            {
+                "membership": "Deutsche Vereinigung f\u00fcr Rehabilitation e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Ottobock SE & Co. KGaA"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "F\u00f6rderprojekt InoPro",
+                "location": "VD/VDE Innovation + Technik GmbH, Steinplatz 1, 10623 Berlin",
+                "name": "Deutsches Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "F\u00f6rderprojekt FGL SensoPro",
+                "location": "Forschungszentrum J\u00fclich GmbH (FZJ), Postfach 61 02 47, 10923 Berlin",
+                "name": "Deutsches Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "F\u00f6rderprojekt Patch2Patient",
+                "location": "Projekttr\u00e4ger Karlsruhe - Au\u00dfenstelle Dresden, Karlsruher Institut f\u00fcr Technologie (KIT), Hallwachsstr. 3, 01069 Dresden",
+                "name": "Deutsches Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "F\u00f6rderprojekt PROMPT",
+                "location": "VDI Technologiezentrum GmbH, VDI-Platz 1, 40468 D\u00fcsseldorf",
+                "name": "Deutsches Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "F\u00f6rderprojekt QHMI",
+                "location": "Forschungszentrum J\u00fclich GmbH (FZJ), 10923 Berlin",
+                "name": "Deutsches Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "F\u00f6rderprojekt SyProLei",
+                "location": "Forschungszentrum J\u00fclich GmbH (FZJ), 52425 J\u00fclich",
+                "name": "Deutsches Bundesministerium f\u00fcr Wirtschaft",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "F\u00f6rderprojekt HARIA",
+                "location": "Br\u00fcssel, Beligien",
+                "name": "Europ\u00e4ische Kommission",
+                "publicAllowanceEuro": {
+                    "from": 70001,
+                    "to": 80000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "F\u00f6rderprojekt SimBionics",
+                "location": "Br\u00fcssel, Belgien",
+                "name": "Europ\u00e4ische Kommission",
+                "publicAllowanceEuro": {
+                    "from": 170001,
+                    "to": 180000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "F\u00f6rderprojekt HapticScan",
+                "location": "VDI Technologiezentrum GmbH, VDI-Platz 1, 40468 D\u00fcsseldorf",
+                "name": "Deutsches Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "F\u00f6rderprojekt OrthoSuper",
+                "location": "VDI Technologiezentrum GmbH, VDI-Platz 1, 40468 D\u00fcsseldorf",
+                "name": "Deutsches Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R004422/35155",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-20T09:06:07.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/1b/6a/299957/Lobbyregister-Detailansicht-R004422-2024-06-20_09-06-07.pdf",
+        "validFromDate": "2024-06-20T09:06:07.000+02:00",
+        "version": 4
+    },
+    "registerEntryId": 35155,
+    "registerNumber": "R004422",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Zur Beschleunigung der Genehmigungsverfahren f\u00fcr innovative Hilfsmittel wird mit Bezug zu \u00a7127 SGB V und \u00a7137e SGB V eine befristete Erstattungsgrundlage f\u00fcr neue Hilfsmittel oder neue Anwendungsfelder bestehender Hilfsmittel angestrebt, in dessen Zeitraum Untersuchungen zur Mehrnutzenbewertungen durchgef\u00fchrt und anschlie\u00dfend eine entsprechend langfristige Erstattungsgrundlage festgelegt werden kann. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_SECURITY",
+                        "de": "Soziale Sicherung",
+                        "en": "Social security"
+                    },
+                    {
+                        "code": "FOI_SS_HEALTH",
+                        "de": "Krankenversicherung",
+                        "en": "Health insurance"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_DISABILITY",
+                        "de": "Rechte von Menschen mit Behinderung",
+                        "en": "Rights of people with disabilities"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_HEALTH_OTHER",
+                        "de": "Sonstiges im Bereich \"Gesundheit\"",
+                        "en": "Other in the field of \"Health\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003291",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/16/a9/299955/Stellungnahme-Gutachten-SG2406100018.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-13"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0003291",
+                        "regulatoryProjectTitle": "Beschleunigte Erstattungsm\u00f6glichkeiten f\u00fcr innovative Hilfsmittel",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Vorschlag zur Hilfsmittelversorgung\r\n\u00c4nderung des SGB V analog zum AMNOG\r\n\r\nVorschlag zur Anpassung des SGB V im Sinne der schnelleren Versorgung von betroffenen \r\nPatient*innen durch innovative Hilfsmittel mit nachweisbarem Zusatznutzen.\r\n\r\nStatus Quo\r\nZur Zeit ist es Herstellern im Bereich der Hilfsmittel nicht m\u00f6glich, neue Entwicklungen in \r\nder Hilfsmittelversorgung in Form von innovativen Medizinprodukten \u201enach dem neusten \r\nStand der Technik\u201c zeitnah einer m\u00f6glichst breiten Zahl von betroffenen Patient*innen zur \r\nVerf\u00fcgung zu stellen. Durch die bestehenden Versorgungsvertr\u00e4ge nach \u00a7127 SGB V werden \r\nvon den Kostentr\u00e4gern in der Regel nur solche Versorgungen genehmigt, die im \r\nHilfsmittelverzeichnis gelistet und in den Versorgungsvertr\u00e4gen vereinbart sind. Neue \r\nVersorgungsm\u00f6glichkeiten durch innovative Medizinprodukte oder neue Anwendungsfelder \r\nbestehender Medizinprodukte bleiben hier unber\u00fccksichtigt. Genehmigungen in Einzelf\u00e4llen \r\nbei Nachweis des Zusatznutzens dauern bis zu zwei Jahren und mehr. Selbst bei positivem \r\nEntscheid bedeutet ein langwieriges Genehmigungsverfahrens f\u00fcr Patient*innen oft den \r\nfortschreitenden Verlust an Mobilit\u00e4t und Lebensqualit\u00e4t. Ein Beispielfall ist die begleitende \r\nVersorgung mit einer elektronischen Gelenkorthese bei inkompletten Querschnitten, die die \r\nVertikalisierung von Patient*innen erm\u00f6glicht, anstelle einer ausschlie\u00dflichen \r\nRollstuhlversorgung. Daher sollte eine M\u00f6glichkeit geschaffen werden, innovative \r\nVersorgungsl\u00f6sungen betroffenen Patient*innen grunds\u00e4tzlich und fr\u00fchestm\u00f6glich zur \r\nVerf\u00fcgung zu stellen. \r\n\r\nVorschlag \r\nAnalog zum Vorgehen im AMNOG und den entsprechenden Anpassungen des SGB V sollte ein \r\nVerfahren implementiert werden, nach dem Hersteller neuartige Hilfsmittel oder neuartige \r\nBestandteile von Hilfsmittels beim G-BA zur Bewertung des nachweisbaren Zusatznutzens \r\nund befristeter Freigabe vorlegen k\u00f6nnen:\r\nBei befristeter Freigabe w\u00fcrde in Erweiterung des \u00a7137e SGB V eine grunds\u00e4tzliche \r\n\u00dcbernahme der Kosten bei vorliegenden versicherungsrechtlichen Anspr\u00fcchen durch den \r\nKostentr\u00e4ger in einem festzulegenden Zeitraum (z. B. zwei bis drei Jahre) gesichert sein. Der \r\nG-BA k\u00f6nnte gem\u00e4\u00df seiner Verfahrensordnungen die Voraussetzungen der Beantragung \r\nsowie Abl\u00e4ufe und Fristen analog zum \u00a735a SGB V regeln. Ebenso k\u00f6nnte die Art und H\u00f6he \r\nder Kostenerstattung vom G-BA gem\u00e4\u00df den Grunds\u00e4tzen der Kostenerstattung von \r\nHilfsmittel nach \u00a7127 geregelt werden. Die Kosten f\u00fcr das Medizinprodukt w\u00e4ren vom \r\nHersteller transparent und nachvollziehbar anzugeben und w\u00fcrden die Grundlage der \r\nKostenerstattung f\u00fcr den festgelegten Zeitraum bilden. Nach Ablauf dieses Zeitraums \r\nm\u00fcsste nach den Vorgaben des G-BA eine erneute Einstufung stattfinden und die Versorgung \r\ngegebenenfalls in die bestehenden Vertr\u00e4ge nach \u00a7127/1 SGB V integriert werden.\r\nZur Pr\u00fcfung einer befristeten Freigabe h\u00e4tte der G-BA die M\u00f6glichkeit, durch die \r\nBeauftragung des IQWIG Anwenderbeobachtungen, Bewertungen und Studien durchf\u00fchren \r\nzu lassen. K\u00e4me der G-BA dabei zu dem Ergebnis, dass die betrachtete Versorgungsl\u00f6sung \r\nkeinen nachweisbaren Zusatznutzen hat, entfiele das Verfahren zur befristeten Freigabe.\r\nDer G-BA k\u00f6nnte mit den Erfahrungen des AMNOG aus den letzten 12 Jahre die notwendigen \r\nDetails erarbeiten und die Regelungen und Verfahrenswege selbst\u00e4ndig bestimmen. Daraus \r\nk\u00f6nnten die notwendigen Gesetzesanpassungen entwickelt werden.\r\n\r\nFazit\r\nMittels des beschriebenen Vorgehens k\u00f6nnten die Chancen auf eine Versorgung betroffener \r\nPatient*innen mit Hilfsmitteln \u201enach dem Stand der Technik\u201c signifikant erh\u00f6ht werden. \r\nBegleitend w\u00fcrden die durch den G-BA festzulegenden Beantragungs- und \r\nErstattungsvorg\u00e4nge neue Potenziale in Bezug auf eine patient*innenorientiertere und \r\nentb\u00fcrokratisierte Versorgung bieten. Begleitende Beobachtungen w\u00e4hrend der befristeten \r\nFreigabe k\u00f6nnten den sozio\u00f6konomischen Nutzen neuer Versorgungen aufzeigen und eine \r\nvalidierte Kosten-Nutzen-Bewertung neuer Technologien erm\u00f6glichen. Der Beispielfall einer \r\nPatient*innenversorgung mit einerv elektronischen Gelenkorthese, die begleitend anstelle \r\neiner ausschlie\u00dflichen Rollstuhlversorgung eingesetzt wird, zeigt bereits, dass durch neue \r\nVersorgungsl\u00f6sungen zum Teil wesentlich weniger kostenintensive Nachsorge in Form von \r\nPflege und medikament\u00f6ser Begleitung notwendig ist. K\u00f6rperliche Einschr\u00e4nkungen einzelner \r\nPatient*innen k\u00f6nnen soweit reduziert werden, dass eine vollst\u00e4ndige Reintegration ins \r\nBerufsleben m\u00f6glich ist und dadurch sowohl Teilhabe und Inklusion gef\u00f6rdert als auch \r\nKostentr\u00e4ger entlastet werden. Wird die Wahrscheinlichkeit einer Erstattung neuartiger \r\nMedizinprodukte erh\u00f6ht, entstehen zudem neue Anreize f\u00fcr Hersteller, in zukunftsorientierte \r\nTechnologien zu investieren. Neben technologischem Fortschritt in \r\nVersorgungsm\u00f6glichkeiten unterst\u00fctzt dies schlie\u00dflich die medizintechnische Expertise und \r\ndamit den Wirtschaftsstandort Deutschland."
+                        }
+                    }
+                ],
+                "title": "Beschleunigte Erstattungsm\u00f6glichkeiten f\u00fcr innovative Hilfsmittel"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Um Menschen mit Behinderung die M\u00f6glichkeit auf breitensportliche Aktivit\u00e4ten zu erm\u00f6glichen, wird mit Bezugnahme auf \u00a733 SGB V und \u00a7127 SGB V die Einf\u00fchrung einer Erstattungsoption f\u00fcr sportbezogene Hilfsmittel auf Basis neuer Finanzierungssystematiken vorgeschlagen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_DISABILITY",
+                        "de": "Rechte von Menschen mit Behinderung",
+                        "en": "Rights of people with disabilities"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_SECURITY",
+                        "de": "Soziale Sicherung",
+                        "en": "Social security"
+                    },
+                    {
+                        "code": "FOI_SS_HEALTH",
+                        "de": "Krankenversicherung",
+                        "en": "Health insurance"
+                    },
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    },
+                    {
+                        "code": "FOI_HEALTH_OTHER",
+                        "de": "Sonstiges im Bereich \"Gesundheit\"",
+                        "en": "Other in the field of \"Health\""
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    },
+                    {
+                        "code": "FOI_LEISURE_AND_SPORT",
+                        "de": "Sport, Freizeit und Tourismus",
+                        "en": "Sports, leisure and tourism"
+                    },
+                    {
+                        "code": "FOI_LAS_POPULAR_SPORT",
+                        "de": "Breitensport",
+                        "en": "Popular sports"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003292",
+                "statements": [],
+                "title": "Erstattungsoptionen f\u00fcr sportbezogene Hilfsmittel"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Zur Sicherung einer langfristig wettbewerbsf\u00e4higen und qualitativ hochwertigen Versorgung in Europa wird mit Bezugnahme auf (EG) 1907/2006 (REACH) eine Weiterf\u00fchrung des risikobasierten Ansatz im Rahmen der Bestrebungen zur Beschr\u00e4nkung gesundheits- und umweltsch\u00e4dlicher PFAS angestrebt. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_OTHER",
+                        "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                        "en": "Other in the field of \"European politics and the EU\""
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003293",
+                "statements": [],
+                "title": "Fortf\u00fchrung des risikobasierten Beschr\u00e4nkungsansatzes f\u00fcr PFAS"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/16/a9/299955/Stellungnahme-Gutachten-SG2406100018.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-03-13"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0003291",
+                "regulatoryProjectTitle": "Beschleunigte Erstattungsm\u00f6glichkeiten f\u00fcr innovative Hilfsmittel",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Vorschlag zur Hilfsmittelversorgung\r\n\u00c4nderung des SGB V analog zum AMNOG\r\n\r\nVorschlag zur Anpassung des SGB V im Sinne der schnelleren Versorgung von betroffenen \r\nPatient*innen durch innovative Hilfsmittel mit nachweisbarem Zusatznutzen.\r\n\r\nStatus Quo\r\nZur Zeit ist es Herstellern im Bereich der Hilfsmittel nicht m\u00f6glich, neue Entwicklungen in \r\nder Hilfsmittelversorgung in Form von innovativen Medizinprodukten \u201enach dem neusten \r\nStand der Technik\u201c zeitnah einer m\u00f6glichst breiten Zahl von betroffenen Patient*innen zur \r\nVerf\u00fcgung zu stellen. Durch die bestehenden Versorgungsvertr\u00e4ge nach \u00a7127 SGB V werden \r\nvon den Kostentr\u00e4gern in der Regel nur solche Versorgungen genehmigt, die im \r\nHilfsmittelverzeichnis gelistet und in den Versorgungsvertr\u00e4gen vereinbart sind. Neue \r\nVersorgungsm\u00f6glichkeiten durch innovative Medizinprodukte oder neue Anwendungsfelder \r\nbestehender Medizinprodukte bleiben hier unber\u00fccksichtigt. Genehmigungen in Einzelf\u00e4llen \r\nbei Nachweis des Zusatznutzens dauern bis zu zwei Jahren und mehr. Selbst bei positivem \r\nEntscheid bedeutet ein langwieriges Genehmigungsverfahrens f\u00fcr Patient*innen oft den \r\nfortschreitenden Verlust an Mobilit\u00e4t und Lebensqualit\u00e4t. Ein Beispielfall ist die begleitende \r\nVersorgung mit einer elektronischen Gelenkorthese bei inkompletten Querschnitten, die die \r\nVertikalisierung von Patient*innen erm\u00f6glicht, anstelle einer ausschlie\u00dflichen \r\nRollstuhlversorgung. Daher sollte eine M\u00f6glichkeit geschaffen werden, innovative \r\nVersorgungsl\u00f6sungen betroffenen Patient*innen grunds\u00e4tzlich und fr\u00fchestm\u00f6glich zur \r\nVerf\u00fcgung zu stellen. \r\n\r\nVorschlag \r\nAnalog zum Vorgehen im AMNOG und den entsprechenden Anpassungen des SGB V sollte ein \r\nVerfahren implementiert werden, nach dem Hersteller neuartige Hilfsmittel oder neuartige \r\nBestandteile von Hilfsmittels beim G-BA zur Bewertung des nachweisbaren Zusatznutzens \r\nund befristeter Freigabe vorlegen k\u00f6nnen:\r\nBei befristeter Freigabe w\u00fcrde in Erweiterung des \u00a7137e SGB V eine grunds\u00e4tzliche \r\n\u00dcbernahme der Kosten bei vorliegenden versicherungsrechtlichen Anspr\u00fcchen durch den \r\nKostentr\u00e4ger in einem festzulegenden Zeitraum (z. B. zwei bis drei Jahre) gesichert sein. Der \r\nG-BA k\u00f6nnte gem\u00e4\u00df seiner Verfahrensordnungen die Voraussetzungen der Beantragung \r\nsowie Abl\u00e4ufe und Fristen analog zum \u00a735a SGB V regeln. Ebenso k\u00f6nnte die Art und H\u00f6he \r\nder Kostenerstattung vom G-BA gem\u00e4\u00df den Grunds\u00e4tzen der Kostenerstattung von \r\nHilfsmittel nach \u00a7127 geregelt werden. Die Kosten f\u00fcr das Medizinprodukt w\u00e4ren vom \r\nHersteller transparent und nachvollziehbar anzugeben und w\u00fcrden die Grundlage der \r\nKostenerstattung f\u00fcr den festgelegten Zeitraum bilden. Nach Ablauf dieses Zeitraums \r\nm\u00fcsste nach den Vorgaben des G-BA eine erneute Einstufung stattfinden und die Versorgung \r\ngegebenenfalls in die bestehenden Vertr\u00e4ge nach \u00a7127/1 SGB V integriert werden.\r\nZur Pr\u00fcfung einer befristeten Freigabe h\u00e4tte der G-BA die M\u00f6glichkeit, durch die \r\nBeauftragung des IQWIG Anwenderbeobachtungen, Bewertungen und Studien durchf\u00fchren \r\nzu lassen. K\u00e4me der G-BA dabei zu dem Ergebnis, dass die betrachtete Versorgungsl\u00f6sung \r\nkeinen nachweisbaren Zusatznutzen hat, entfiele das Verfahren zur befristeten Freigabe.\r\nDer G-BA k\u00f6nnte mit den Erfahrungen des AMNOG aus den letzten 12 Jahre die notwendigen \r\nDetails erarbeiten und die Regelungen und Verfahrenswege selbst\u00e4ndig bestimmen. Daraus \r\nk\u00f6nnten die notwendigen Gesetzesanpassungen entwickelt werden.\r\n\r\nFazit\r\nMittels des beschriebenen Vorgehens k\u00f6nnten die Chancen auf eine Versorgung betroffener \r\nPatient*innen mit Hilfsmitteln \u201enach dem Stand der Technik\u201c signifikant erh\u00f6ht werden. \r\nBegleitend w\u00fcrden die durch den G-BA festzulegenden Beantragungs- und \r\nErstattungsvorg\u00e4nge neue Potenziale in Bezug auf eine patient*innenorientiertere und \r\nentb\u00fcrokratisierte Versorgung bieten. Begleitende Beobachtungen w\u00e4hrend der befristeten \r\nFreigabe k\u00f6nnten den sozio\u00f6konomischen Nutzen neuer Versorgungen aufzeigen und eine \r\nvalidierte Kosten-Nutzen-Bewertung neuer Technologien erm\u00f6glichen. Der Beispielfall einer \r\nPatient*innenversorgung mit einerv elektronischen Gelenkorthese, die begleitend anstelle \r\neiner ausschlie\u00dflichen Rollstuhlversorgung eingesetzt wird, zeigt bereits, dass durch neue \r\nVersorgungsl\u00f6sungen zum Teil wesentlich weniger kostenintensive Nachsorge in Form von \r\nPflege und medikament\u00f6ser Begleitung notwendig ist. K\u00f6rperliche Einschr\u00e4nkungen einzelner \r\nPatient*innen k\u00f6nnen soweit reduziert werden, dass eine vollst\u00e4ndige Reintegration ins \r\nBerufsleben m\u00f6glich ist und dadurch sowohl Teilhabe und Inklusion gef\u00f6rdert als auch \r\nKostentr\u00e4ger entlastet werden. Wird die Wahrscheinlichkeit einer Erstattung neuartiger \r\nMedizinprodukte erh\u00f6ht, entstehen zudem neue Anreize f\u00fcr Hersteller, in zukunftsorientierte \r\nTechnologien zu investieren. Neben technologischem Fortschritt in \r\nVersorgungsm\u00f6glichkeiten unterst\u00fctzt dies schlie\u00dflich die medizintechnische Expertise und \r\ndamit den Wirtschaftsstandort Deutschland."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

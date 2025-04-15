@@ -1,0 +1,348 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-05-23T20:24:50.000+02:00",
+                "untilDate": "2023-12-30T06:01:08.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-05-23T20:24:50.000+02:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2023-12-30T06:01:08.000+01:00"
+            }
+        ],
+        "lastUpdateDate": "2023-10-22T21:29:59.000+02:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2023-12-30T06:01:08.000+01:00",
+                "legislation": "GL2022",
+                "registerEntryId": 26331,
+                "validFromDate": "2023-10-22T21:29:59.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26330,
+                "validFromDate": "2023-10-22T21:18:33.000+02:00",
+                "validUntilDate": "2023-10-22T21:29:59.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 5388,
+                "validFromDate": "2022-05-23T20:24:50.000+02:00",
+                "validUntilDate": "2023-10-22T21:18:33.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION",
+            "de": "Unternehmen",
+            "en": "Company"
+        },
+        "activityDescription": "Information \u00fcber Anliegen Unterst\u00fctzung bei der L\u00f6sungsfindung",
+        "activityOperationType": "SELF_OPERATED",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_ENERGY_NUCLEAR",
+                "de": "Atomenergie",
+                "en": "Nuclear power"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_AF_AQUACULTURE",
+                "de": "Fischerei/Aquakultur",
+                "en": "Fishery/aquaculture"
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "clientIdentity": {
+        "clientOrganizations": [
+            {
+                "address": {
+                    "city": "Karlsruhe",
+                    "country": {
+                        "code": "DE",
+                        "de": "Deutschland",
+                        "en": "Germany"
+                    },
+                    "street": "Durlacher Allee ",
+                    "streetNumber": "93",
+                    "type": "NATIONAL",
+                    "zipCode": "76131"
+                },
+                "contactDetails": {
+                    "emails": [
+                        {
+                            "email": "kontakt@enbw.com"
+                        }
+                    ],
+                    "phoneNumber": "+497216300",
+                    "websites": [
+                        {
+                            "website": "enbw.com"
+                        }
+                    ]
+                },
+                "legalForm": {
+                    "code": "LF_AG",
+                    "de": "Aktiengesellschaft (AG)",
+                    "en": "Stock company (AG)"
+                },
+                "legalFormType": {
+                    "code": "JURISTIC_PERSON",
+                    "de": "Juristische Person",
+                    "en": "Legal person"
+                },
+                "legalRepresentatives": [
+                    {
+                        "commonFirstName": "Andreas ",
+                        "emails": [
+                            {
+                                "email": "kontakt@enbw.com"
+                            }
+                        ],
+                        "function": "Vorsitzenders Vorstands",
+                        "lastName": "Schell",
+                        "phoneNumber": "+497216300"
+                    }
+                ],
+                "name": "EnBW AG"
+            },
+            {
+                "address": {
+                    "city": "Essen",
+                    "country": {
+                        "code": "DE",
+                        "de": "Deutschland",
+                        "en": "Germany"
+                    },
+                    "street": "Rellinghauser Stra\u00dfe ",
+                    "streetNumber": "1-11",
+                    "type": "NATIONAL",
+                    "zipCode": "45128"
+                },
+                "contactDetails": {
+                    "emails": [
+                        {
+                            "email": "info@evonik.com"
+                        }
+                    ],
+                    "phoneNumber": "+4920117701",
+                    "websites": [
+                        {
+                            "website": "corporate.evonik.de"
+                        }
+                    ]
+                },
+                "legalForm": {
+                    "code": "LF_AG",
+                    "de": "Aktiengesellschaft (AG)",
+                    "en": "Stock company (AG)"
+                },
+                "legalFormType": {
+                    "code": "JURISTIC_PERSON",
+                    "de": "Juristische Person",
+                    "en": "Legal person"
+                },
+                "legalRepresentatives": [
+                    {
+                        "commonFirstName": "Christian ",
+                        "emails": [
+                            {
+                                "email": "info@evonik.com"
+                            }
+                        ],
+                        "function": "Vorstandsvorsitzender",
+                        "lastName": "Kullmann ",
+                        "phoneNumber": "+4920117701"
+                    }
+                ],
+                "name": "Evonik Industries AG"
+            }
+        ],
+        "clientsPresent": true
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2021-12",
+        "fiscalYearStart": "2021-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 0,
+            "to": 0
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2021-12",
+        "fiscalYearStart": "2021-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Bochum",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Kawaters Kommunikationberatung",
+            "street": "Bismarckplatz",
+            "streetNumber": "1A",
+            "type": "NATIONAL",
+            "zipCode": "44866"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "mm@michaelmerkel.eu"
+                }
+            ],
+            "phoneNumber": "+491743218556",
+            "websites": [
+                {
+                    "website": "Keine"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_OTHER_LA",
+            "de": "Sonstige Personengesellschaft",
+            "en": "Other legal association",
+            "legalFormText": "Selbstst\u00e4ndig"
+        },
+        "legalFormType": {
+            "code": "LEGAL_ASSOCIATION",
+            "de": "Rechtsf\u00e4hige Personengesellschaft",
+            "en": "Partnership with legal capacity"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Corinna",
+                "emails": [
+                    {
+                        "email": "erbse09@yahoo.de"
+                    }
+                ],
+                "function": "Unternehmerin",
+                "lastName": "Kawaters",
+                "phoneNumber": "+491708664084"
+            }
+        ],
+        "membersPresent": false,
+        "membershipsPresent": false,
+        "name": "Corinna Kawaters Kommunikationsberatung",
+        "namedEmployees": [
+            {
+                "commonFirstName": "Michael",
+                "lastName": "Merkel"
+            }
+        ],
+        "namedEmployeesPresent": true
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2021-12",
+        "fiscalYearStart": "2021-01",
+        "publicAllowancesPresent": false,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R004643/26331",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/0b/29/241885/Lobbyregister-Detailansicht-R004643-2023-10-22_21-29-59.pdf",
+        "refusedAnything": false,
+        "validFromDate": "2023-10-22T21:29:59.000+02:00",
+        "version": 3
+    },
+    "registerEntryId": 26331,
+    "registerNumber": "R004643"
+}

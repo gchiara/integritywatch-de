@@ -1,0 +1,592 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-23T09:19:44.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-28T17:28:58.000+01:00",
+        "lastUpdateDate": "2024-08-20T16:37:57.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 43122,
+                "validFromDate": "2024-08-20T16:37:57.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 36189,
+                "validFromDate": "2024-06-10T16:26:45.000+02:00",
+                "validUntilDate": "2024-08-20T16:37:57.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 34055,
+                "validFromDate": "2024-05-24T10:23:16.000+02:00",
+                "validUntilDate": "2024-06-10T16:26:45.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 30538,
+                "validFromDate": "2024-05-02T15:33:38.000+02:00",
+                "validUntilDate": "2024-05-24T10:23:16.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16875,
+                "validFromDate": "2023-02-23T09:19:44.000+01:00",
+                "validUntilDate": "2024-05-02T15:33:38.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Durch direkte Anschreiben, Positionspapiere, regelm\u00e4\u00dfige Austauschtreffen sowie Begegnungen bei Empf\u00e4ngen und Parlamentarischen Abenden werden Kontakte mit Politikerinnen und Politikern gesucht und gepflegt. Der Austausch \u00fcber notleidende Menschen weltweit sowie Briefings zur Verfolgung religi\u00f6ser Minderheiten in Einzelgespr\u00e4chen oder \u00fcberkonfessionellen Gespr\u00e4chsforen zielen darauf ab, Abgeordnete f\u00fcr Verletzungen von Menschenrechten und Religionsfreiheit in betroffenen L\u00e4ndern zu sensibilisieren und sie f\u00fcr diplomatische L\u00f6sungsans\u00e4tze sowie die Unterst\u00fctzung von Interventionen zu gewinnen. Ein weiterer Schwerpunkt der Interessensvertretung liegt auf der F\u00f6rderung von Freiwilligendiensten im In- und Ausland sowie der generellen St\u00e4rkung des ehrenamtlichen Engagements und der kirchlichen Arbeit in der Bundesrepublik und in Europa. Als freikirchlicher Verband umfasst unsere Beziehungsarbeit im Bundestag ebenso die Seelsorge mit Abgeordneten.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_RPI_MIGRATION",
+                "de": "Migration",
+                "en": "Migration and residence"
+            },
+            {
+                "code": "FOI_RPI_REFUGEE",
+                "de": "Asyl und Fl\u00fcchtlingsschutz",
+                "en": "Asylum and refugee protection"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_SP_RELIGION",
+                "de": "Religion/Weltanschauung",
+                "en": "Religion/Belief"
+            },
+            {
+                "code": "FOI_CULTURE",
+                "de": "Kultur",
+                "en": "Culture"
+            },
+            {
+                "code": "FOI_SS_BASIC",
+                "de": "Grundsicherung",
+                "en": "Basic security"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_RPI_INTEGRATION",
+                "de": "Integration",
+                "en": "Integration"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_SS_OLD_AGE",
+                "de": "Rente/Alterssicherung",
+                "en": "Old-age insurance"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_SP_FAMILY",
+                "de": "Familienpolitik",
+                "en": "Family policy"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_RPI_LAWS",
+                "de": "Ausl\u00e4nder- und Aufenthaltsrecht",
+                "en": "Foreign laws"
+            },
+            {
+                "code": "FOI_SS_HEALTH",
+                "de": "Krankenversicherung",
+                "en": "Health insurance"
+            },
+            {
+                "code": "FOI_SS_LONGTERM",
+                "de": "Pflegeversicherung",
+                "en": "Long term care"
+            },
+            {
+                "code": "FOI_LAS_POPULAR_SPORT",
+                "de": "Breitensport",
+                "en": "Popular sports"
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_SP_CHILDREN",
+                "de": "Kinder- und Jugendpolitik",
+                "en": "Child and youth policy"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_SS_UNEMPLOYMENT",
+                "de": "Arbeitslosenversicherung",
+                "en": "Unemployment insurance"
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            },
+            {
+                "code": "FOI_EP_CHILDHOOD",
+                "de": "Vorschulische Bildung",
+                "en": "Early childhood education"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/d2/47/345494/JA-Jahresabschluss-Mandanten-Exemplar-2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "Spende",
+                "donationEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "name": "Gemeinn\u00fctzige Stiftung Friedhelm Loh"
+            },
+            {
+                "description": "Spende",
+                "donationEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "name": "JobRad GmbH"
+            },
+            {
+                "description": "Spende",
+                "donationEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "name": "Rentrop Stiftung gGmbH"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 50001,
+            "to": 60000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.1,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 40001,
+            "to": 50000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Kassel",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Druseltalstr. ",
+            "streetNumber": "125",
+            "type": "NATIONAL",
+            "zipCode": "34131"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "groy@netzwerk-m.de",
+            "nationalAdditional1": "c/o Samaritan\u00b4s Purse",
+            "phoneNumber": "+493076883300",
+            "street": "Trachenbergring",
+            "streetNumber": "93",
+            "type": "NATIONAL",
+            "zipCode": "12249"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@netzwerk-m.de"
+                }
+            ],
+            "phoneNumber": "+49561938750",
+            "websites": [
+                {
+                    "website": "www.netzwerk-m.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Gaetan",
+                "lastName": "Roy",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": false,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Gaetan",
+                "function": "1. Vorsitzender",
+                "lastName": "Roy",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Thomas",
+                "function": "Generalsekret\u00e4r",
+                "lastName": "Weigel",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Markus",
+                "function": "2. Vorsitzender",
+                "lastName": "Liebold",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Br.",
+                "entrustedPerson": false,
+                "firstName": "Stefan",
+                "function": "Schatzmeister",
+                "lastName": "Heidorn",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-02-29",
+            "naturalPersons": 6,
+            "organizations": 83,
+            "totalCount": 89
+        },
+        "membersPresent": true,
+        "membershipsPresent": false,
+        "name": "netzwerk-m e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 70001,
+            "to": 80000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Bundes- und L\u00e4nderzusch\u00fcsse f\u00fcr Freiwilligendienste (Freiwilliges Soziales Jahr, Bundesfreiwilligendienst, Internationaler Jugendfreiwilligendienst)\r\n\r\n",
+                "location": "Bund und Bundesl\u00e4nder",
+                "name": "Bund- und L\u00e4nderzusch\u00fcsse Freiwillige Dienste",
+                "publicAllowanceEuro": {
+                    "from": 1550001,
+                    "to": 1560000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Zuschuss aus dem Kinder- und Jugendplan des Bundes f\u00fcr entsprechende Aktivit\u00e4ten",
+                "location": "Hannover",
+                "name": "Arbeitsgemeinschaft der Evangelischen Jugend",
+                "publicAllowanceEuro": {
+                    "from": 110001,
+                    "to": 120000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002298/43122",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-05-02T15:33:38.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/1e/8f/345495/Lobbyregister-Detailansicht-R002298-2024-08-20_16-37-57.pdf",
+        "validFromDate": "2024-08-20T16:37:57.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 43122,
+    "registerNumber": "R002298",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "JFDG",
+                        "title": "Gesetz zur F\u00f6rderung von Jugendfreiwilligendiensten",
+                        "url": "https://www.gesetze-im-internet.de/jfdg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Erhalt der Bundeszusch\u00fcsse, keine K\u00fcrzungen, Verstetigung der Mittel",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_CHILDREN",
+                        "de": "Kinder- und Jugendpolitik",
+                        "en": "Child and youth policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0000544",
+                "statements": [],
+                "title": "Bewilligung weiterer Bundeszusch\u00fcsse f\u00fcr Freiwilligendienste"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "FamFG",
+                        "title": "Gesetz \u00fcber das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit",
+                        "url": "https://www.gesetze-im-internet.de/famfg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Frauenh\u00e4user in privater Tr\u00e4gerschaft sehen sich seit L\u00e4ngerem mit der Problematik konfrontiert, dass Ehem\u00e4nner durch die Gerichte die Aufenthaltsregion ihrer Frauen erfahren, wenn diese wegen Ehrgewalt von zuhause flohen. Als L\u00f6sung schlagen wir daher die Schaffung eines Wahlgerichtsstands zum Schutz der Frauen vor, damit ihre Ehem\u00e4nner durch gerichtliche Schreiben keine R\u00fcckschl\u00fcsse zur Region ihres Verbleibs ziehen k\u00f6nnen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_FAMILY",
+                        "de": "Familienpolitik",
+                        "en": "Family policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0000546",
+                "statements": [],
+                "title": "Schaffung eines Wahlgerichtsstands f\u00fcr gewaltbetroffene Frauen in Schutzeinrichtungen"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Private Frauenh\u00e4user erhalten nach bisherigen Regelungen mitunter keine staatlichen Zusch\u00fcsse. 2024 soll ein Gesetzentwurf f\u00fcr die Schaffung eines bundesweit einheitlichen Rechtsrahmens zur Finanzierung von Frauenh\u00e4usern vorgelegt werden. Hierbei sollten Frauenh\u00e4user und Beratungsstellen, die Mitglieder oder untergeordnete Mitglieder von Wohlfahrtsverb\u00e4nden sind, ohne weitere Einschr\u00e4nkungen als f\u00f6rderberechtigt gelten \u2013 insbesondere unabh\u00e4ngig davon, ob sie bundesweit t\u00e4tig sind, ob sich der Sitz ihres Tr\u00e4gervereins im selben Bundesland befindet wie der Standort des Schutzhauses, ob sie auf eine bestimmte Zielgruppe spezialisiert sind, sowie ohne zus\u00e4tzlich geforderte Bedarfsbest\u00e4tigung der Kommune oder des Landes.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_FAMILY",
+                        "de": "Familienpolitik",
+                        "en": "Family policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0000547",
+                "statements": [],
+                "title": "Ber\u00fccksichtigung privater Frauenh\u00e4user bei der geplanten Regelfinanzierung des Bundes"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EStG",
+                        "title": "Einkommensteuergesetz",
+                        "url": "https://www.gesetze-im-internet.de/estg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Der Staat \u00fcbernimmt zum gr\u00f6\u00dften Teil die Schul- und Internatskosten von Entwicklungshelfern als steuerfreie Unterhaltsleistung. Nach \u00a7 3 Nr. 64 EStG sind diese nicht zu besteuern und bewirken zugleich eine Befreiung der Verbeitragung in \u00a7 1 Abs. 1 Nr. 1 SvEV. Da Mitarbeiter entwicklungsrelevanter NGOs im EStG unerw\u00e4hnt bleiben, sind die Schulkosten, die von ihren Spenden beglichen werden, in der Sozialversicherung zu verbeitragen. Um ihre Gleichbehandlung zu erzielen, sollte die Steuerbefreiung im \u00a7 3 Nr. 64 EStG um den Beg\u00fcnstigtenkreis im \u00a7 1 Abs. 1 Nr. 2 BKGG ausgedehnt werden.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EDUCATION_PARENTING",
+                        "de": "Bildung und Erziehung",
+                        "en": "Education and parenting"
+                    },
+                    {
+                        "code": "FOI_EP_SCHOOL",
+                        "de": "Schulische Bildung",
+                        "en": "School education"
+                    },
+                    {
+                        "code": "FOI_DEVELOPMENT_POLICY",
+                        "de": "Entwicklungspolitik",
+                        "en": "Development policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0000548",
+                "statements": [],
+                "title": "Steuerbefreiung f\u00fcr Mitarbeiter in der humanit\u00e4ren Hilfe hinsichtlich Schul- und Internatskosten"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

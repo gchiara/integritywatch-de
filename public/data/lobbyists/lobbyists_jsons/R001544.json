@@ -1,0 +1,699 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-02-25T11:11:55.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-25T11:11:55.000+01:00",
+        "lastUpdateDate": "2024-06-25T09:33:09.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 34647,
+                "validFromDate": "2024-06-25T09:33:09.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26005,
+                "validFromDate": "2023-10-17T11:08:45.000+02:00",
+                "validUntilDate": "2024-06-25T09:33:09.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17764,
+                "validFromDate": "2023-03-23T13:30:04.000+01:00",
+                "validUntilDate": "2023-10-17T11:08:45.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 908,
+                "validFromDate": "2022-02-25T11:11:55.000+01:00",
+                "validUntilDate": "2023-03-23T13:30:04.000+01:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Zur Vertretung der gemeinsamen fachlichen und gewerblichen Interessen der Mitglieder auf technischem, wirtschaftlichem und rechtlichem Gebiet wird ein Austausch mit Abgeordneten des Deutschen Bundestages und den jeweils zust\u00e4ndigen Bundesministerien gepflegt. Dies erfolgt durch Gespr\u00e4che, Positionspapiere, parl. Veranstaltungen und \u00f6ffentlichen Fachveranstaltungen.\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_RP_CITY",
+                "de": "Stadtentwicklung",
+                "en": "Urban development"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_ECONOMY_ECOMMERCE",
+                "de": "E-Commerce",
+                "en": "E-commerce"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_BUNDESTAG_OTHER",
+                "de": "Sonstiges im Bereich \"Bundestag\"",
+                "en": "Other in the field of \"Bundestag\""
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION_OTHER",
+                "de": "Sonstiges im Bereich \"Verkehr\"",
+                "en": "Other in the field of \"Transportation\""
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_ECONOMY_HANDCRAFT",
+                "de": "Handwerk",
+                "en": "Handcraft"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_MEDIA_OTHER",
+                "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                "en": "Other in the field of \"Media, communication and information technology\""
+            },
+            {
+                "code": "FOI_RP_RESIDE",
+                "de": "Wohnen",
+                "en": "Reside"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_RP_OTHER",
+                "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                "en": "Other in the field of \"Spatial planning, construction and housing\""
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/a6/d7/309196/Jahresabschluss-BDH-2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 3.0,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 660001,
+            "to": 670000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "K\u00f6ln",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "BDH e. V.",
+            "street": "Frankfurter Stra\u00dfe",
+            "streetNumber": "720-726",
+            "type": "NATIONAL",
+            "zipCode": "51145"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "info@bdh-industrie.de",
+            "nationalAdditional1": "BDH e. V.",
+            "nationalAdditional2": "B\u00fcro Berlin",
+            "phoneNumber": "+4930318732530",
+            "street": "Reinhardstra\u00dfe",
+            "streetNumber": "25",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@bdh-industrie.de"
+                }
+            ],
+            "phoneNumber": "+492203935930",
+            "websites": [
+                {
+                    "website": "www.bdh-industrie.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Markus",
+                "lastName": "Staudt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Lothar",
+                "lastName": "Breidenbach",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Torben",
+                "lastName": "Niemann",
+                "recentGovernmentFunction": {
+                    "endDate": "2019-06",
+                    "ended": true,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_MEMBER",
+                            "de": "Funktion f\u00fcr ein Mitglied des Deutschen Bundestages",
+                            "en": "Function for a member of the German Bundestag"
+                        },
+                        "functionPosition": "Wissenschaftlicher Mitarbeiter"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "firstName": "Markus",
+                "lastName": "Staudt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Lothar",
+                "lastName": "Breidenbach",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Norbert",
+                "lastName": "Azuma-Dicke",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Philip",
+                "lastName": "Hellmund",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Dieter",
+                "lastName": "Kehren",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Jan Uwe",
+                "lastName": "Brockmann",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Markus",
+                "function": "Hauptgesch\u00e4ftsf\u00fchrer",
+                "lastName": "Staudt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Lothar",
+                "function": "Gesch\u00e4ftsf\u00fchrer Technik",
+                "lastName": "Breidenbach",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-05-14",
+            "naturalPersons": 0,
+            "organizations": 120,
+            "totalCount": 120
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "FGK Fachverband Geb\u00e4ude-Klima e. V."
+            },
+            {
+                "membership": "DIN e. V."
+            },
+            {
+                "membership": "Forum f\u00fcr Zukunftsenergien e. V."
+            },
+            {
+                "membership": "Wirtschaftsrat der CDU e. V."
+            },
+            {
+                "membership": "FNN Forum Netztechnik/Netzbetriebe im VDE"
+            },
+            {
+                "membership": "vbw Vereinigung der Bayerischen Wirtschaft"
+            },
+            {
+                "membership": "EEBus Initiative e. V."
+            },
+            {
+                "membership": "ETIM Deutschland e. V."
+            },
+            {
+                "membership": "building SMART e. V."
+            },
+            {
+                "membership": "Wirtschaftsforum der SPD e. V."
+            },
+            {
+                "membership": "VdZ Wirtschaftsvereinigung Geb\u00e4ude und Energie e. V."
+            },
+            {
+                "membership": "ECA European Chimneys Association"
+            },
+            {
+                "membership": "EHI Association of the European Heating Industry"
+            },
+            {
+                "membership": "IH Initiative Holzw\u00e4rme"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Bundesverband der Deutschen Heizungsindustrie e. V. - BDH"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 1580001,
+            "to": 1590000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001544/34647",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-25T09:33:09.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/6e/04/309199/Lobbyregister-Detailansicht-R001544-2024-06-25_09-33-09.pdf",
+        "validFromDate": "2024-06-25T09:33:09.000+02:00",
+        "version": 4
+    },
+    "registerEntryId": 34647,
+    "registerNumber": "R001544",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Nach Inkrafttreten des Geb\u00e4udeenergiegesetzes (GEG) zum 1.1.2024 soll die bereits bestehende F\u00f6rderung, die in der Richtline f\u00fcr die Bundesf\u00f6rderung f\u00fcr effiziente Geb\u00e4ude -Klimafreundlicher Neubau KFN- geregelt wird, an die Vorgaben und Erf\u00fcllungsoptionen des GEG anzupassen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004976",
+                "statements": [],
+                "title": "Anpassung der Richtlinie f\u00fcr die Bundesf\u00f6rderung f\u00fcr effiziente Geb\u00e4ude an das Geb\u00e4udeenergiegesetz"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Durch Anpassung der BEG-EM bzw. die Konkretisierung der dazugeh\u00f6rigen FAQ soll die F\u00f6rderf\u00e4higkeit von Brennstoffzellenheizungen erreicht werden. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004977",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d8/e2/309197/Stellungnahme-Gutachten-SG2406240146.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-16"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0004977",
+                        "regulatoryProjectTitle": "Aufnahme von Brennstoffzellenheizger\u00e4ten in die Bundesf\u00f6rderung f\u00fcr effiziente Geb\u00e4ude",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Sehr geehrter Herr Acker,\r\nwir m\u00f6chten das gelungene BEG-F\u00f6rderprogramm im Rahmen des GEG anerkennen, welches - wie der Bundesminister f\u00fcr Wirtschaft und Klimapolitik es in seiner Pressemitteilung vom 15. M\u00e4rz ausf\u00fchrte - einen wesentlichen Beitrag zur THG-Minderung im Geb\u00e4udesektor leistet. Herr Habeck betont in derselben Pressemitteilung aber auch, dass damit die Erreichung der Sektor-ziele im Geb\u00e4udebereich noch nicht gesichert und weitere Anstrengungen erforderlich sind.\r\nDaher m\u00f6chten wir auf eine Produktgruppe hinweisen, bei der die BEG bisher noch nicht zur Realisierung des brachliegenden THG-Minderungspotentials gef\u00fchrt hat: Brennstoffzellenheiz-ger\u00e4te. F\u00f6rderf\u00e4hig nach BEG \u2013 und GEG konform - sind diese Produkte gem\u00e4\u00df DIN 18599 Beiblatt 2 beim Betrieb mit ca. 65% GEG-konformem Biomethan, was ausreicht, um im Ge-b\u00e4ude den kompletten W\u00e4rmebedarf erneuerbar bereitzustellen. Die restlichen ca. 35% des Be-triebsmittels w\u00e4ren dann Erdgas, welches f\u00fcr die Stromerzeugung genutzt w\u00fcrde. Der Haken dabei ist, dass entsprechende \u00d6kogastarife kaum verf\u00fcgbar und f\u00fcr den Nutzer unwirtschaftlich sind, so dass sie f\u00fcr die meisten Kunden keine reelle Option darstellen und der Markt f\u00fcr Brenn-stoffzellenheizger\u00e4te im Jahr 2023 um - 82 % ann\u00e4hernd komplett eingebrochen ist.\r\nUm das mit Brennstoffzellenheizungen verbundene THG-Einsparpotential zu realisieren, m\u00fcs-sen wir die BEG auch bei Brennstoffzellenheizger\u00e4ten zum Erfolg f\u00fchren. Hierzu sehen wir eine einfache Stellschraube, \u00fcber die mit geringem Aufwand \u2013 und ohne \u00c4nderungen an GEG oder BEG \u2013 sogar erheblich h\u00f6here CO2-Einsparungen als im GEG vorgesehen realisiert werden k\u00f6nnten. Tarife mit 100% \u201enormalem\u201c Biomethan sind auf dem Markt zu vertretbaren Preisen verf\u00fcgbar und h\u00e4tten den Vorteil, dass das komplette Betriebsmittel - und damit nicht nur die W\u00e4rmeerzeugung, sondern auch die Stromerzeugung - dann zu 100% aus gr\u00fcnen Ga-sen stammt. Der marginale Nachteil, der bei der Herstellung im Vergleich zu GEG-konformem Biomethan entsteht, w\u00fcrde im Betrieb durch die sofortigen CO2-Einsparungen gegen\u00fcber dem Mischbetrieb mit Erdgas um ein Vielfaches kompensiert/\u00fcbertroffen werden. So ergibt sich eine L\u00f6sung mit wesentlich h\u00f6herer CO2-Einsparung, die im Rahmen der BEG tats\u00e4chlich vom End-kunden nachgefragt werden w\u00fcrde und ihren Beitrag zu den Zielen des GEG leisten k\u00f6nnte. Diese Option k\u00f6nnte man durch eine einfache Klarstellung in den FAQ zum BEG legitimieren, ohne dass ein \u00c4nderungsbedarf in GEG oder BEG entsteht.\r\nDiese Vorgehensweise w\u00fcrde auch an die sehr erfolgreiche F\u00f6rderung dieser hocheffizienten Technologie in Deutschland in den Vorl\u00e4ufern der BEG ankn\u00fcpfen. Erst mit dem Ausbruch der Ukraine-Krise im Jahr 2022 und mit den oben beschriebenen Randbedingungen im BEG wurde das Brennstoffzellenheizger\u00e4t f\u00fcr viele Kunden unattraktiv. Dieses ge\u00e4nderte Marktumfeld hat zu ersten Insolvenzen gef\u00fchrt, wie beispielsweise bei SolydEra. Zuk\u00fcnftig ist zu bef\u00fcrchten, dass weitere Hersteller den Vertrieb von Brennstoffzellen einstellen werden, da die aktuelle Marktlage ein profitables Gesch\u00e4ft bei solch geringen Abs\u00e4tzen nicht m\u00f6glich macht. Dabei bie-ten Brennstoffzellenheizger\u00e4te, beim Betrieb mit 100% \u201enormalem\u201c Biomethan ein maximales CO2-Einsparpotenziale im Geb\u00e4udebestand und sind mit Blick auf einen zuk\u00fcnftigen Betrieb mit gr\u00fcnem Wasserstoff (s. Nationale Wasserstoffstrategie) zudem eine wichtige Technologie-br\u00fccke f\u00fcr deutsche Hersteller.\r\nWir w\u00fcrden Ihnen diese M\u00f6glichkeit zur sofortigen THG-Einsparung kombiniert mit den langfris-tigen systemdienlichen Vorteilen f\u00fcr das Energiesystem gerne im Gespr\u00e4ch weiter erl\u00e4utern.\r\nMit freundlichen Gr\u00fc\u00dfen\r\nDieter Kehren"
+                        }
+                    }
+                ],
+                "title": "Aufnahme von Brennstoffzellenheizger\u00e4ten in die Bundesf\u00f6rderung f\u00fcr effiziente Geb\u00e4ude"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d8/e2/309197/Stellungnahme-Gutachten-SG2406240146.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-16"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0004977",
+                "regulatoryProjectTitle": "Aufnahme von Brennstoffzellenheizger\u00e4ten in die Bundesf\u00f6rderung f\u00fcr effiziente Geb\u00e4ude",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Sehr geehrter Herr Acker,\r\nwir m\u00f6chten das gelungene BEG-F\u00f6rderprogramm im Rahmen des GEG anerkennen, welches - wie der Bundesminister f\u00fcr Wirtschaft und Klimapolitik es in seiner Pressemitteilung vom 15. M\u00e4rz ausf\u00fchrte - einen wesentlichen Beitrag zur THG-Minderung im Geb\u00e4udesektor leistet. Herr Habeck betont in derselben Pressemitteilung aber auch, dass damit die Erreichung der Sektor-ziele im Geb\u00e4udebereich noch nicht gesichert und weitere Anstrengungen erforderlich sind.\r\nDaher m\u00f6chten wir auf eine Produktgruppe hinweisen, bei der die BEG bisher noch nicht zur Realisierung des brachliegenden THG-Minderungspotentials gef\u00fchrt hat: Brennstoffzellenheiz-ger\u00e4te. F\u00f6rderf\u00e4hig nach BEG \u2013 und GEG konform - sind diese Produkte gem\u00e4\u00df DIN 18599 Beiblatt 2 beim Betrieb mit ca. 65% GEG-konformem Biomethan, was ausreicht, um im Ge-b\u00e4ude den kompletten W\u00e4rmebedarf erneuerbar bereitzustellen. Die restlichen ca. 35% des Be-triebsmittels w\u00e4ren dann Erdgas, welches f\u00fcr die Stromerzeugung genutzt w\u00fcrde. Der Haken dabei ist, dass entsprechende \u00d6kogastarife kaum verf\u00fcgbar und f\u00fcr den Nutzer unwirtschaftlich sind, so dass sie f\u00fcr die meisten Kunden keine reelle Option darstellen und der Markt f\u00fcr Brenn-stoffzellenheizger\u00e4te im Jahr 2023 um - 82 % ann\u00e4hernd komplett eingebrochen ist.\r\nUm das mit Brennstoffzellenheizungen verbundene THG-Einsparpotential zu realisieren, m\u00fcs-sen wir die BEG auch bei Brennstoffzellenheizger\u00e4ten zum Erfolg f\u00fchren. Hierzu sehen wir eine einfache Stellschraube, \u00fcber die mit geringem Aufwand \u2013 und ohne \u00c4nderungen an GEG oder BEG \u2013 sogar erheblich h\u00f6here CO2-Einsparungen als im GEG vorgesehen realisiert werden k\u00f6nnten. Tarife mit 100% \u201enormalem\u201c Biomethan sind auf dem Markt zu vertretbaren Preisen verf\u00fcgbar und h\u00e4tten den Vorteil, dass das komplette Betriebsmittel - und damit nicht nur die W\u00e4rmeerzeugung, sondern auch die Stromerzeugung - dann zu 100% aus gr\u00fcnen Ga-sen stammt. Der marginale Nachteil, der bei der Herstellung im Vergleich zu GEG-konformem Biomethan entsteht, w\u00fcrde im Betrieb durch die sofortigen CO2-Einsparungen gegen\u00fcber dem Mischbetrieb mit Erdgas um ein Vielfaches kompensiert/\u00fcbertroffen werden. So ergibt sich eine L\u00f6sung mit wesentlich h\u00f6herer CO2-Einsparung, die im Rahmen der BEG tats\u00e4chlich vom End-kunden nachgefragt werden w\u00fcrde und ihren Beitrag zu den Zielen des GEG leisten k\u00f6nnte. Diese Option k\u00f6nnte man durch eine einfache Klarstellung in den FAQ zum BEG legitimieren, ohne dass ein \u00c4nderungsbedarf in GEG oder BEG entsteht.\r\nDiese Vorgehensweise w\u00fcrde auch an die sehr erfolgreiche F\u00f6rderung dieser hocheffizienten Technologie in Deutschland in den Vorl\u00e4ufern der BEG ankn\u00fcpfen. Erst mit dem Ausbruch der Ukraine-Krise im Jahr 2022 und mit den oben beschriebenen Randbedingungen im BEG wurde das Brennstoffzellenheizger\u00e4t f\u00fcr viele Kunden unattraktiv. Dieses ge\u00e4nderte Marktumfeld hat zu ersten Insolvenzen gef\u00fchrt, wie beispielsweise bei SolydEra. Zuk\u00fcnftig ist zu bef\u00fcrchten, dass weitere Hersteller den Vertrieb von Brennstoffzellen einstellen werden, da die aktuelle Marktlage ein profitables Gesch\u00e4ft bei solch geringen Abs\u00e4tzen nicht m\u00f6glich macht. Dabei bie-ten Brennstoffzellenheizger\u00e4te, beim Betrieb mit 100% \u201enormalem\u201c Biomethan ein maximales CO2-Einsparpotenziale im Geb\u00e4udebestand und sind mit Blick auf einen zuk\u00fcnftigen Betrieb mit gr\u00fcnem Wasserstoff (s. Nationale Wasserstoffstrategie) zudem eine wichtige Technologie-br\u00fccke f\u00fcr deutsche Hersteller.\r\nWir w\u00fcrden Ihnen diese M\u00f6glichkeit zur sofortigen THG-Einsparung kombiniert mit den langfris-tigen systemdienlichen Vorteilen f\u00fcr das Energiesystem gerne im Gespr\u00e4ch weiter erl\u00e4utern.\r\nMit freundlichen Gr\u00fc\u00dfen\r\nDieter Kehren"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

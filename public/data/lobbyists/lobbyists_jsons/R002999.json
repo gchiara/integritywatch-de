@@ -1,0 +1,723 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-07-19T15:30:31.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-07T08:32:32.000+01:00",
+        "lastUpdateDate": "2024-08-02T15:00:33.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42448,
+                "validFromDate": "2024-08-02T15:00:33.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 38799,
+                "validFromDate": "2024-06-26T10:51:46.000+02:00",
+                "validUntilDate": "2024-08-02T15:00:33.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27081,
+                "validFromDate": "2023-11-23T16:53:37.000+01:00",
+                "validUntilDate": "2024-06-26T10:51:46.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21212,
+                "validFromDate": "2023-06-13T09:55:07.000+02:00",
+                "validUntilDate": "2023-11-23T16:53:37.000+01:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 9085,
+                "validFromDate": "2022-07-19T15:30:31.000+02:00",
+                "validUntilDate": "2023-06-13T09:55:07.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Der Genossenschaftsverband Bayern e. V. (GVB) \u00fcbernimmt als Interessenvertreter seiner Mitglieder die Aufgabe, den Anliegen der genossenschaftlichen Unternehmen in Bayern gegen\u00fcber der Politik, Aufsicht und \u00d6ffentlichkeit Geh\u00f6r zu verschaffen. Unser Ziel ist die St\u00e4rkung und Weiterentwicklung des Genossenschaftswesens in Bayern und Deutschland.\r\n\r\nDer GVB kooperiert mit den genossenschaftlichen Dach- und Bundesverb\u00e4nden und verst\u00e4rkt die Positionen durch regionale Arbeit. Der GVB ist zudem Mitglied in der Finanzplatz M\u00fcnchen Initiative (fpmi). Mit den Industrie- und Handelskammern sowie den Handwerkskammern im Freistaat sind wir im regelm\u00e4\u00dfigen und engen Austausch.\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_MEDIA_OTHER",
+                "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                "en": "Other in the field of \"Media, communication and information technology\""
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_AF_FOOD_SAFETY",
+                "de": "Lebensmittelsicherheit",
+                "en": "Food safety"
+            },
+            {
+                "code": "FOI_SA_OTHER",
+                "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                "en": "Other in the field of \"Government and administration\""
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_IS_CYBER",
+                "de": "Cybersicherheit",
+                "en": "Cyber security"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_IS_CRIME",
+                "de": "Kriminalit\u00e4tsbek\u00e4mpfung",
+                "en": "Fight against crime"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_SP_OTHER",
+                "de": "Sonstiges im Bereich \"Gesellschaftspolitik und soziale Gruppen\"",
+                "en": "Other in the field of \"Social politics and social groups\""
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_EU_POLITICS",
+                "de": "Institutionelle Fragen der EU",
+                "en": "Institutional questions of European politics"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_SS_OLD_AGE",
+                "de": "Rente/Alterssicherung",
+                "en": "Old-age insurance"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_RP_RESIDE",
+                "de": "Wohnen",
+                "en": "Reside"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_ECONOMY_FINANCE",
+                "de": "Bank- und Finanzwesen",
+                "en": "Banking and finance"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/b7/48/340231/Bilanz-GuV-GVB-2023-digitale-Kopie.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 1,
+            "to": 10000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.46,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 260001,
+            "to": 270000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "M\u00fcnchen",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Genossenschaftsverband Bayern",
+            "street": "T\u00fcrkenstra\u00dfe",
+            "streetNumber": "22-24",
+            "type": "NATIONAL",
+            "zipCode": "80333"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "vorstandsstab@gv-bayern.de"
+                }
+            ],
+            "phoneNumber": "+4989286830",
+            "websites": [
+                {
+                    "website": "https://www.gv-bayern.de/"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Ludwig",
+                "lastName": "Huber",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "M.A.",
+                "firstName": "Simon",
+                "lastName": "Linder",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Stefan",
+                "lastName": "M\u00fcller",
+                "recentGovernmentFunction": {
+                    "endDate": "2024-05",
+                    "ended": true,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "MEMBER",
+                            "de": "Mitglied des Deutschen Bundestages",
+                            "en": "Member of the German Bundestag"
+                        }
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeAfter": "WP",
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": false,
+                "firstName": "Alexander",
+                "function": "Vorstandsmitglied",
+                "lastName": "Lei\u00dfl",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Stefan",
+                "function": "Pr\u00e4sident und Vorstandsvorsitzender",
+                "lastName": "M\u00fcller",
+                "recentGovernmentFunction": {
+                    "endDate": "2024-05",
+                    "ended": true,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "MEMBER",
+                            "de": "Mitglied des Deutschen Bundestages",
+                            "en": "Member of the German Bundestag"
+                        }
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-12-31",
+            "naturalPersons": 0,
+            "organizations": 1186,
+            "totalCount": 1186
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Deutscher Genossenschafts- und Raiffeisenverband e.V."
+            },
+            {
+                "membership": "Deutscher Raiffeisenverband e.V."
+            },
+            {
+                "membership": "Finanzplatz M\u00fcnchen Initiative"
+            },
+            {
+                "membership": "Der Mittelstandsverbund - ZGV e.V."
+            },
+            {
+                "membership": "Bundesverband der Deutschen Volksbanken und Raiffeisenbanken e.V."
+            },
+            {
+                "membership": "Bundesverband Windenergie e.V."
+            },
+            {
+                "membership": "Bayerischer Handwerkstag e.V."
+            },
+            {
+                "membership": "Fr\u00e4nkischer Weinbauverband e.V."
+            },
+            {
+                "membership": "Milchwirtschaftlicher Verein Allg\u00e4u-Schwaben e.V."
+            },
+            {
+                "membership": "Verband der Sparda-Banken e.V."
+            },
+            {
+                "membership": "Verband Freier Berufe in Bayern e.V."
+            },
+            {
+                "membership": "Wirtschaftsbeirat der Union e.V."
+            },
+            {
+                "membership": "Bundesverband der Personalmanager e.V."
+            },
+            {
+                "membership": "C.A.R.M.E.N. e.V. "
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Genossenschaftsverband Bayern e. V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 15960001,
+            "to": 15970000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002999/42448",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-26T10:51:46.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b2/c5/340232/Lobbyregister-Detailansicht-R002999-2024-08-02_15-00-33.pdf",
+        "validFromDate": "2024-08-02T15:00:33.000+02:00",
+        "version": 6
+    },
+    "registerEntryId": 42448,
+    "registerNumber": "R002999",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BGB",
+                        "title": "B\u00fcrgerliches Gesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Seit dem Urteil des BGH (Az. XI ZR 26/20) vom April 2021 m\u00fcssen Banken bei jeder AGB-\u00c4nderung die aktive Zustimmung der Kunden einholen. Ziel der Interessenvertretung ist die m\u00f6glichst b\u00fcrokratiearme und verbraucherfreundliche R\u00fcckkehr zur Widerspruchsl\u00f6sung durch Anpassung des BGB, wonach \u00c4nderungen an den Allgemeinen Gesch\u00e4ftsbedingungen auch ohne ausdr\u00fcckliche Zustimmung wieder m\u00f6glich w\u00e4ren, wenn das Vertragsverh\u00e4ltnis durch die \u00c4nderung nicht erheblich umgestaltet werden kann.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_CIVIL_RIGHT",
+                        "de": "Zivilrecht",
+                        "en": "Civil rights"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_FINANCE",
+                        "de": "Bank- und Finanzwesen",
+                        "en": "Banking and finance"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/brd/2023/0362-23.pdf",
+                        "issuer": "BR",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMF",
+                                "title": "Bundesministerium der Finanzen",
+                                "url": "https://www.bundesfinanzministerium.de/Web/DE/Home/home.html"
+                            },
+                            {
+                                "shortTitle": "BMJ",
+                                "title": "Bundesministerium der Justiz",
+                                "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                            }
+                        ],
+                        "printingNumber": "362/23",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-finanzierung-von-zukunftssichernden-investitionen-zukunftsfinanzierungsgesetz-zufing/302805",
+                        "title": "Entwurf eines Gesetzes zur Finanzierung von zukunftssichernden Investitionen (Zukunftsfinanzierungsgesetz - ZuFinG)"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0006139",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/6a/af/313842/Stellungnahme-Gutachten-SG2406250130.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-01"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0006139",
+                        "regulatoryProjectTitle": "Wiedereinf\u00fchrung der AGB-Widerspruchsl\u00f6sung",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Vorschlag zur AGB-Widerspruchsl\u00f6sung \r\n\r\n \r\n\r\nNegative Folgen des BGH-Urteils aus Verbrauchersicht \r\nDer derzeitige Zustand stellt Verbraucherinnen und Verbraucher \r\nschlechter als zuvor. Die entstandene B\u00fcrokratie belastet Kunden und \r\nBanken, ohne einen Nutzen zu stiften. Ein verbraucherfreundlicher und \r\nunb\u00fcrokratischer Zustand ist aus folgenden vier Erw\u00e4gungsgr\u00fcnden \r\nzwingend herzustellen. \r\n\r\n \r\n\r\n1. Die angebliche Benachteiligung durch die fr\u00fchere Regelung, die Ver-\r\nbraucherverb\u00e4nde durch ihre Klage beseitigt haben wollten, existierte nie und wird zudem durch die ho-\r\nhen Zustimmungsquoten widerlegt.  \r\nDie \u201ePreismacht\u201c der Banken hat es nie gegeben. Eine einseitige Vertrags\u00e4nderung, wie oftmals behaup-\r\ntet, war und ist gesetzlich nicht m\u00f6glich. Der Kunde hatte jederzeit volle Kontrolle und konnte bei der \r\nWiderspruchsl\u00f6sung schnell und problemlos die Bank wechseln. Gerade im Girokontensegment herrscht \r\nein starker Wettbewerb unter den Finanzinstituten und damit ein erheblicher Preisdruck, was \u00fcberm\u00e4-\r\n\u00dfige Preisanpassungen ausschlie\u00dft. Kontenwechsel sind einfach durchzuf\u00fchren und es gibt keine langen \r\nVertragslaufzeiten wie in anderen Branchen. Kunden bleiben ihrer VR-Bank in den allermeisten F\u00e4llen \r\ntreu, da sie das Serviceangebot der Bank sch\u00e4tzen und ihr hohes Vertrauen entgegenbringen. Der Preis \r\nist dabei nur ein Aspekt unter vielen. \r\nWas sich durch den Urteilsspruch vom 27. April 2021 ge\u00e4ndert hat, ist, dass der Kunde zu einer Reaktion \r\ngezwungen wird, wenn er den Service der Bank weiternutzen m\u00f6chte. \r\n\r\n \r\n\r\n2. Das bedeutet, die jetzige Praxis hat f\u00fcr die Verbraucher nur zu einem ungewollten, b\u00fcrokratischen \r\nMehraufwand gef\u00fchrt. Denn die \u00fcberw\u00e4ltigende Mehrheit der Kunden stimmt AGB-\u00c4nderungen zu, aber \r\noft erst nach mehreren Hinweisschreiben, da diese gewohnheitsgem\u00e4\u00df erst einmal beiseitegelegt wer-\r\nden. \r\nDie allermeisten Kunden w\u00fcnschen eine unkomplizierte Gesch\u00e4ftsbeziehung mit ihrer Bank und wol-\r\nlen sich nicht mit Details von AGBs herum\u00e4rgern. Eine wiederholte Aufforderung zur Zustimmung l\u00f6st \r\nbeim Kunden nicht selten Unbehagen und Unsicherheit aus und f\u00fchrt oft zu einem \u201eAufschiebereflex\u201c, der \r\naber aufgrund der geringf\u00fcgigen Anpassung unbegr\u00fcndet ist. Der Verbraucher assoziiert jedoch die Auf-\r\nforderung zur Zustimmung mit einer \u201ebedeutungsschweren\u201c Entscheidung, vor allem, wenn diese per \r\nBrief kommt. \r\nDie Einholung der schriftlichen Zustimmung per Brief ist nicht nur \u00e4u\u00dferst b\u00fcrokratisch, sie steht auch im \r\nGegensatz zu den Nachhaltigkeits- und Digitalisierungsbestrebungen.  \r\n\r\n \r\n\r\nDem entgegnen Verbraucherverb\u00e4nde gerne, dass eine Zustimmung per Klick im Online-Banking oder \r\nper App einfach, unb\u00fcrokratisch und ohne Papierverschwendung einzuholen sei und den Kunden nicht \r\nweiter belaste. Dass an dieser Stelle ausgerechnet die \u201eVerbrauchersch\u00fctzer\u201c die weniger digitalaffine \r\nBev\u00f6lkerung vergessen, also \u00fcberwiegend \u00e4ltere Menschen, ist bedenklich.  \r\n\r\n\r\n3. Die Einholung der Zustimmung verursacht bei den Kreditinstituten hohe Kosten, die sich nachteilig auf \r\nden Kunden auswirken. \r\nNicht nur der Verwaltungsaufwand f\u00fcr die Einholung der Zustimmung verursacht die Kosten. Laufende \r\nKosten im Massengesch\u00e4ft m\u00fcssen von den Banken uniform und gleichm\u00e4\u00dfig per Preisanpassung kom-\r\npensiert werden k\u00f6nnen. Auch das F\u00fchren einer Vielzahl unterschiedlicher Vertr\u00e4ge macht das Massen-\r\ngesch\u00e4ft unwirtschaftlich. Es drohen deshalb K\u00fcndigungen von unwirtschaftlichen Altvertr\u00e4gen (siehe 4.). \r\nDiese Kostenlogik gilt f\u00fcr alle Branchen, die mit Widerspruchsl\u00f6sung agieren. Im Prinzip sind das alle \r\nVertragsverh\u00e4ltnisse, die auf Dauer angelegt sind. Eine Ausweitung der Rechtsprechung auf andere \r\nBranchen h\u00e4tte daher dramatische volkswirtschaftliche Auswirkungen: \r\n\r\n \r\n\r\nK\u00f6nnen Banken die allgemein steigenden Kosten nicht \u00fcber eine AGB-Anpassung kompensieren, m\u00fcs-\r\nsen sie das an anderer Stelle tun, beispielweise mit Einsparungen, die wiederum zulasten der Verbrau-\r\ncherinnen und Verbraucher gehen. Das von Verbraucherverb\u00e4nden reklamierte \u201eFilialsterben\u201c ist bereits \r\nErgebnis einer Politik, die den Kostendruck auf die Banken seit Jahren stark erh\u00f6ht. In ihrem Bestreben, \r\nper Regulierung zahlreiche Bankdienstleistungen kostenlos zu machen, gef\u00e4hrden Verbraucherver-\r\nb\u00e4nde und Politik die Grundversorgung der Bev\u00f6lkerung mit Bankdienstleistungen, die ihnen nach ei-\r\ngener Aussage so wichtig sind. \r\n\r\n \r\n\r\n4. Faktisch hat der Urteilsspruch des BGH die Lage der Kunden gravierend verschlechtert. \r\nUm wirtschaftlich und rechtssicher arbeiten zu k\u00f6nnen, bleibt Banken nach wiederholtem Ausbleiben der \r\nZustimmung nur die K\u00fcndigung des Vertragsverh\u00e4ltnisses.  Medienberichte \u00fcber tausendfache K\u00fcndi-\r\ngungen allein bei einzelnen Banken und Sparkassen zeigen dies deutlich. Die Verbraucherverb\u00e4nde \r\nhaben somit ihren \u201eKlienten\u201c einen B\u00e4rendienst erwiesen. Sie suggerieren den Verbrauchern eine neue \r\nSelbstbestimmung, obwohl sich in Wirklichkeit nichts ge\u00e4ndert hat. Tats\u00e4chlich zwingt das Urteil Kun-\r\nden nun zu einer Handlung und dr\u00e4ngt viele unbedarfte Kunden in die Beendigung ihres Vertrags-\r\nverh\u00e4ltnisses, mit dem sie bis dahin vollumf\u00e4nglich zufrieden waren. \r\n  \r\nIm Ergebnis haben Kunden keinen Mehrwert (1), erh\u00f6hten Aufwand (2), erh\u00f6hte Kosten (3) und im \r\nschlimmsten Fall mit K\u00fcndigungen (4) zu rechnen. \r\nIm Folgenden m\u00f6chten wir deshalb auf einen L\u00f6sungsvorschlag hinweisen, der Verbraucherinteressen \r\nwahrt und gleichzeitig eine Widerspruchsl\u00f6sung wieder erm\u00f6glicht. \r\n \r\n\r\n\r\n3/3 \r\n\r\nL\u00f6sungsvorschlag \r\n\r\n \r\n\r\nIm Rahmen des Ende 2023 beschlossenen Zukunftsfinanzierungsgesetzes hat der Wirtschaftsaus-\r\nschuss des Bundesrates einen Antrag zur Einf\u00fchrung eines neuen Absatzes in \u00a7 675g (2a) BGB ge-\r\nstellt. Formulierung und Antragsbegr\u00fcndung entsprechen der Ansicht des GVB. Dem Antrag wurde \r\nleider nicht entsprochen. Eine Umsetzung im B\u00fcrokratieentlastungsgesetz w\u00e4re deshalb erstrebens-\r\nwert, wonach es nach aktuellem Stand leider ebenfalls nicht aussieht. Eine Integration in den allgemei-\r\nnen AGB-Teil des BGB (\u00a7\u00a7 305ff BGB) w\u00e4re sinnvoll, um der Ausweitung der Rechtsprechung entge-\r\ngenzuwirken. \r\n\r\nAGB-Anpassungen verbraucherfreundlich und\r\nunb\u00fcrokratisch umsetzen\r\n\r\nHintergrund\r\nBis zum Fr\u00fchjahr 2021 konnten\r\nBanken ihre Allgemeinen\r\nGesch\u00e4ftsbedingungen (AGBs) im\r\nWege der Widerspruchsl\u00f6sung\r\n\u00e4ndern. Dabei wurde der Kunde\r\n\u00fcber die Anpassung informiert und\r\nkonnte innerhalb einer Frist von\r\nzwei Monaten widersprechen oder\r\nkostenfrei k\u00fcndigen. Wenn kein\r\nWiderspruch erfolgte, trat die\r\nAnpassung nach zwei Monaten in\r\nKraft. Am 27.04.2021 (XI ZR\r\n26/20) entschied der\r\nBundesgerichtshof (BGH) jedoch,\r\ndass diese Widerspruchsl\u00f6sung\r\neiner AGB-Pr\u00fcfung nach \u00a7\u00a7 305 ff\r\nBGB nicht standh\u00e4lt. Demnach\r\nerfordert jede Vertrags\u00e4nderung\r\ndie aktive Zustimmung des\r\nKunden. Da viele Kunden l\u00e4ngere\r\nZeit nicht reagieren, befinden sich\r\nviele Vertr\u00e4ge in der \u201eSchwebe\u201c.\r\nDie Widerspruchsl\u00f6sung ist in\r\nvielen Branchen g\u00e4ngige Praxis\r\n(wie zum Beispiel Streaming- oder\r\nClouddienste, Fitnessstudios), da\r\ndas Mengengesch\u00e4ft nur so\r\nwirtschaftlich gef\u00fchrt werden\r\nkann. Aus diesem Grund ist eine\r\nzu erwartende Ausweitung der\r\nRechtsprechung f\u00fcr den\r\nWirtschaftsstandort Deutschland\r\n\u00e4u\u00dferst bedenklich.\r\n\r\nAusgangslage: Das Urteil hat die Situation der Verbraucher in der\r\nPraxis verschlechtert. Denn eine angeblich einseitige\r\nPreisgestaltungsmacht, wie es die Verbraucherverb\u00e4nde\r\nsuggerieren, gab es auch vor dem Urteil nicht. Das Urteil hat den\r\nKundinnen und Kunden lediglich eine Reaktionslast aufgeb\u00fcrdet.\r\nGerade bei Kunden, die nicht besonders digitalaffin sind, bedeutet\r\ndas viel Papier und hohe Kosten. Dabei m\u00f6chten nahezu alle\r\nKunden bei ihrer Bank bleiben. Dies zeigen die hohen\r\nZustimmungsquoten von bis zu 98 Prozent bei unseren Volks- und\r\nRaiffeisenbanken. Die Kunden, die einer \u00c4nderung nicht zustimmen\r\nwollen, waren auch bei der fr\u00fcheren Widerspruchsl\u00f6sung in\r\nausreichender Weise ber\u00fccksichtigt. Faktisch haben Kunden seit\r\ndem Urteil keinen Mehrwert, gr\u00f6\u00dferen Aufwand, erh\u00f6hte Kosten und\r\nm\u00fcssen bei ausbleibender Reaktion letztlich mit K\u00fcndigungen\r\nrechnen.\r\nProblem: Das Ende der Zustimmungsfiktion hat Banken wie\r\nVerbraucher einer Mehrbelastung ohne Nutzen ausgesetzt, die das\r\nbreite Privatkundengesch\u00e4ft teuer und b\u00fcrokratisch macht. Allein f\u00fcr\r\ndie bayerischen Volks- und Raiffeisenbanken umfasst der\r\ngesch\u00e4tzte Verwaltungsaufwand inzwischen einen zweistelligen\r\nMillionenbetrag. Eine Ausweitung des Urteils \u00fcber den\r\nBankenbereich hinaus w\u00fcrde somit schwere konjunkturelle Sch\u00e4den\r\nverursachen. Den Schaden haben aber am Ende vor allem die\r\nVerbraucherinnen und Verbraucher durch ein eingeschr\u00e4nktes\r\nLeistungs- und Serviceangebot.\r\nL\u00f6sung: Eine Neuregelung, welche die Widerspruchsl\u00f6sung explizit\r\nerlaubt, ist dringend gefordert. Leider hat es der Gesetzgeber bisher\r\nvers\u00e4umt, eine verbraucherfreundliche L\u00f6sung gesetzlich zu\r\nimplementieren. Aus Sicht des GVB gibt es zwei M\u00f6glichkeiten, den\r\nnegativen Zustand zu beseitigen. Einerseits bietet sich die\r\nsogenannte \u201egro\u00dfe L\u00f6sung\u201c im allgemeinen AGB-Teil des BGB an,\r\ndie f\u00fcr alle Unternehmen gelten w\u00fcrde. Andererseits kommt die\r\nAnpassung des \u00a7 675g BGB infrage, die einer branchenspezifischen\r\nRegelung entspr\u00e4che."
+                        }
+                    }
+                ],
+                "title": "Wiedereinf\u00fchrung der AGB-Widerspruchsl\u00f6sung"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/6a/af/313842/Stellungnahme-Gutachten-SG2406250130.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-03-01"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0006139",
+                "regulatoryProjectTitle": "Wiedereinf\u00fchrung der AGB-Widerspruchsl\u00f6sung",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Vorschlag zur AGB-Widerspruchsl\u00f6sung \r\n\r\n \r\n\r\nNegative Folgen des BGH-Urteils aus Verbrauchersicht \r\nDer derzeitige Zustand stellt Verbraucherinnen und Verbraucher \r\nschlechter als zuvor. Die entstandene B\u00fcrokratie belastet Kunden und \r\nBanken, ohne einen Nutzen zu stiften. Ein verbraucherfreundlicher und \r\nunb\u00fcrokratischer Zustand ist aus folgenden vier Erw\u00e4gungsgr\u00fcnden \r\nzwingend herzustellen. \r\n\r\n \r\n\r\n1. Die angebliche Benachteiligung durch die fr\u00fchere Regelung, die Ver-\r\nbraucherverb\u00e4nde durch ihre Klage beseitigt haben wollten, existierte nie und wird zudem durch die ho-\r\nhen Zustimmungsquoten widerlegt.  \r\nDie \u201ePreismacht\u201c der Banken hat es nie gegeben. Eine einseitige Vertrags\u00e4nderung, wie oftmals behaup-\r\ntet, war und ist gesetzlich nicht m\u00f6glich. Der Kunde hatte jederzeit volle Kontrolle und konnte bei der \r\nWiderspruchsl\u00f6sung schnell und problemlos die Bank wechseln. Gerade im Girokontensegment herrscht \r\nein starker Wettbewerb unter den Finanzinstituten und damit ein erheblicher Preisdruck, was \u00fcberm\u00e4-\r\n\u00dfige Preisanpassungen ausschlie\u00dft. Kontenwechsel sind einfach durchzuf\u00fchren und es gibt keine langen \r\nVertragslaufzeiten wie in anderen Branchen. Kunden bleiben ihrer VR-Bank in den allermeisten F\u00e4llen \r\ntreu, da sie das Serviceangebot der Bank sch\u00e4tzen und ihr hohes Vertrauen entgegenbringen. Der Preis \r\nist dabei nur ein Aspekt unter vielen. \r\nWas sich durch den Urteilsspruch vom 27. April 2021 ge\u00e4ndert hat, ist, dass der Kunde zu einer Reaktion \r\ngezwungen wird, wenn er den Service der Bank weiternutzen m\u00f6chte. \r\n\r\n \r\n\r\n2. Das bedeutet, die jetzige Praxis hat f\u00fcr die Verbraucher nur zu einem ungewollten, b\u00fcrokratischen \r\nMehraufwand gef\u00fchrt. Denn die \u00fcberw\u00e4ltigende Mehrheit der Kunden stimmt AGB-\u00c4nderungen zu, aber \r\noft erst nach mehreren Hinweisschreiben, da diese gewohnheitsgem\u00e4\u00df erst einmal beiseitegelegt wer-\r\nden. \r\nDie allermeisten Kunden w\u00fcnschen eine unkomplizierte Gesch\u00e4ftsbeziehung mit ihrer Bank und wol-\r\nlen sich nicht mit Details von AGBs herum\u00e4rgern. Eine wiederholte Aufforderung zur Zustimmung l\u00f6st \r\nbeim Kunden nicht selten Unbehagen und Unsicherheit aus und f\u00fchrt oft zu einem \u201eAufschiebereflex\u201c, der \r\naber aufgrund der geringf\u00fcgigen Anpassung unbegr\u00fcndet ist. Der Verbraucher assoziiert jedoch die Auf-\r\nforderung zur Zustimmung mit einer \u201ebedeutungsschweren\u201c Entscheidung, vor allem, wenn diese per \r\nBrief kommt. \r\nDie Einholung der schriftlichen Zustimmung per Brief ist nicht nur \u00e4u\u00dferst b\u00fcrokratisch, sie steht auch im \r\nGegensatz zu den Nachhaltigkeits- und Digitalisierungsbestrebungen.  \r\n\r\n \r\n\r\nDem entgegnen Verbraucherverb\u00e4nde gerne, dass eine Zustimmung per Klick im Online-Banking oder \r\nper App einfach, unb\u00fcrokratisch und ohne Papierverschwendung einzuholen sei und den Kunden nicht \r\nweiter belaste. Dass an dieser Stelle ausgerechnet die \u201eVerbrauchersch\u00fctzer\u201c die weniger digitalaffine \r\nBev\u00f6lkerung vergessen, also \u00fcberwiegend \u00e4ltere Menschen, ist bedenklich.  \r\n\r\n\r\n3. Die Einholung der Zustimmung verursacht bei den Kreditinstituten hohe Kosten, die sich nachteilig auf \r\nden Kunden auswirken. \r\nNicht nur der Verwaltungsaufwand f\u00fcr die Einholung der Zustimmung verursacht die Kosten. Laufende \r\nKosten im Massengesch\u00e4ft m\u00fcssen von den Banken uniform und gleichm\u00e4\u00dfig per Preisanpassung kom-\r\npensiert werden k\u00f6nnen. Auch das F\u00fchren einer Vielzahl unterschiedlicher Vertr\u00e4ge macht das Massen-\r\ngesch\u00e4ft unwirtschaftlich. Es drohen deshalb K\u00fcndigungen von unwirtschaftlichen Altvertr\u00e4gen (siehe 4.). \r\nDiese Kostenlogik gilt f\u00fcr alle Branchen, die mit Widerspruchsl\u00f6sung agieren. Im Prinzip sind das alle \r\nVertragsverh\u00e4ltnisse, die auf Dauer angelegt sind. Eine Ausweitung der Rechtsprechung auf andere \r\nBranchen h\u00e4tte daher dramatische volkswirtschaftliche Auswirkungen: \r\n\r\n \r\n\r\nK\u00f6nnen Banken die allgemein steigenden Kosten nicht \u00fcber eine AGB-Anpassung kompensieren, m\u00fcs-\r\nsen sie das an anderer Stelle tun, beispielweise mit Einsparungen, die wiederum zulasten der Verbrau-\r\ncherinnen und Verbraucher gehen. Das von Verbraucherverb\u00e4nden reklamierte \u201eFilialsterben\u201c ist bereits \r\nErgebnis einer Politik, die den Kostendruck auf die Banken seit Jahren stark erh\u00f6ht. In ihrem Bestreben, \r\nper Regulierung zahlreiche Bankdienstleistungen kostenlos zu machen, gef\u00e4hrden Verbraucherver-\r\nb\u00e4nde und Politik die Grundversorgung der Bev\u00f6lkerung mit Bankdienstleistungen, die ihnen nach ei-\r\ngener Aussage so wichtig sind. \r\n\r\n \r\n\r\n4. Faktisch hat der Urteilsspruch des BGH die Lage der Kunden gravierend verschlechtert. \r\nUm wirtschaftlich und rechtssicher arbeiten zu k\u00f6nnen, bleibt Banken nach wiederholtem Ausbleiben der \r\nZustimmung nur die K\u00fcndigung des Vertragsverh\u00e4ltnisses.  Medienberichte \u00fcber tausendfache K\u00fcndi-\r\ngungen allein bei einzelnen Banken und Sparkassen zeigen dies deutlich. Die Verbraucherverb\u00e4nde \r\nhaben somit ihren \u201eKlienten\u201c einen B\u00e4rendienst erwiesen. Sie suggerieren den Verbrauchern eine neue \r\nSelbstbestimmung, obwohl sich in Wirklichkeit nichts ge\u00e4ndert hat. Tats\u00e4chlich zwingt das Urteil Kun-\r\nden nun zu einer Handlung und dr\u00e4ngt viele unbedarfte Kunden in die Beendigung ihres Vertrags-\r\nverh\u00e4ltnisses, mit dem sie bis dahin vollumf\u00e4nglich zufrieden waren. \r\n  \r\nIm Ergebnis haben Kunden keinen Mehrwert (1), erh\u00f6hten Aufwand (2), erh\u00f6hte Kosten (3) und im \r\nschlimmsten Fall mit K\u00fcndigungen (4) zu rechnen. \r\nIm Folgenden m\u00f6chten wir deshalb auf einen L\u00f6sungsvorschlag hinweisen, der Verbraucherinteressen \r\nwahrt und gleichzeitig eine Widerspruchsl\u00f6sung wieder erm\u00f6glicht. \r\n \r\n\r\n\r\n3/3 \r\n\r\nL\u00f6sungsvorschlag \r\n\r\n \r\n\r\nIm Rahmen des Ende 2023 beschlossenen Zukunftsfinanzierungsgesetzes hat der Wirtschaftsaus-\r\nschuss des Bundesrates einen Antrag zur Einf\u00fchrung eines neuen Absatzes in \u00a7 675g (2a) BGB ge-\r\nstellt. Formulierung und Antragsbegr\u00fcndung entsprechen der Ansicht des GVB. Dem Antrag wurde \r\nleider nicht entsprochen. Eine Umsetzung im B\u00fcrokratieentlastungsgesetz w\u00e4re deshalb erstrebens-\r\nwert, wonach es nach aktuellem Stand leider ebenfalls nicht aussieht. Eine Integration in den allgemei-\r\nnen AGB-Teil des BGB (\u00a7\u00a7 305ff BGB) w\u00e4re sinnvoll, um der Ausweitung der Rechtsprechung entge-\r\ngenzuwirken. \r\n\r\nAGB-Anpassungen verbraucherfreundlich und\r\nunb\u00fcrokratisch umsetzen\r\n\r\nHintergrund\r\nBis zum Fr\u00fchjahr 2021 konnten\r\nBanken ihre Allgemeinen\r\nGesch\u00e4ftsbedingungen (AGBs) im\r\nWege der Widerspruchsl\u00f6sung\r\n\u00e4ndern. Dabei wurde der Kunde\r\n\u00fcber die Anpassung informiert und\r\nkonnte innerhalb einer Frist von\r\nzwei Monaten widersprechen oder\r\nkostenfrei k\u00fcndigen. Wenn kein\r\nWiderspruch erfolgte, trat die\r\nAnpassung nach zwei Monaten in\r\nKraft. Am 27.04.2021 (XI ZR\r\n26/20) entschied der\r\nBundesgerichtshof (BGH) jedoch,\r\ndass diese Widerspruchsl\u00f6sung\r\neiner AGB-Pr\u00fcfung nach \u00a7\u00a7 305 ff\r\nBGB nicht standh\u00e4lt. Demnach\r\nerfordert jede Vertrags\u00e4nderung\r\ndie aktive Zustimmung des\r\nKunden. Da viele Kunden l\u00e4ngere\r\nZeit nicht reagieren, befinden sich\r\nviele Vertr\u00e4ge in der \u201eSchwebe\u201c.\r\nDie Widerspruchsl\u00f6sung ist in\r\nvielen Branchen g\u00e4ngige Praxis\r\n(wie zum Beispiel Streaming- oder\r\nClouddienste, Fitnessstudios), da\r\ndas Mengengesch\u00e4ft nur so\r\nwirtschaftlich gef\u00fchrt werden\r\nkann. Aus diesem Grund ist eine\r\nzu erwartende Ausweitung der\r\nRechtsprechung f\u00fcr den\r\nWirtschaftsstandort Deutschland\r\n\u00e4u\u00dferst bedenklich.\r\n\r\nAusgangslage: Das Urteil hat die Situation der Verbraucher in der\r\nPraxis verschlechtert. Denn eine angeblich einseitige\r\nPreisgestaltungsmacht, wie es die Verbraucherverb\u00e4nde\r\nsuggerieren, gab es auch vor dem Urteil nicht. Das Urteil hat den\r\nKundinnen und Kunden lediglich eine Reaktionslast aufgeb\u00fcrdet.\r\nGerade bei Kunden, die nicht besonders digitalaffin sind, bedeutet\r\ndas viel Papier und hohe Kosten. Dabei m\u00f6chten nahezu alle\r\nKunden bei ihrer Bank bleiben. Dies zeigen die hohen\r\nZustimmungsquoten von bis zu 98 Prozent bei unseren Volks- und\r\nRaiffeisenbanken. Die Kunden, die einer \u00c4nderung nicht zustimmen\r\nwollen, waren auch bei der fr\u00fcheren Widerspruchsl\u00f6sung in\r\nausreichender Weise ber\u00fccksichtigt. Faktisch haben Kunden seit\r\ndem Urteil keinen Mehrwert, gr\u00f6\u00dferen Aufwand, erh\u00f6hte Kosten und\r\nm\u00fcssen bei ausbleibender Reaktion letztlich mit K\u00fcndigungen\r\nrechnen.\r\nProblem: Das Ende der Zustimmungsfiktion hat Banken wie\r\nVerbraucher einer Mehrbelastung ohne Nutzen ausgesetzt, die das\r\nbreite Privatkundengesch\u00e4ft teuer und b\u00fcrokratisch macht. Allein f\u00fcr\r\ndie bayerischen Volks- und Raiffeisenbanken umfasst der\r\ngesch\u00e4tzte Verwaltungsaufwand inzwischen einen zweistelligen\r\nMillionenbetrag. Eine Ausweitung des Urteils \u00fcber den\r\nBankenbereich hinaus w\u00fcrde somit schwere konjunkturelle Sch\u00e4den\r\nverursachen. Den Schaden haben aber am Ende vor allem die\r\nVerbraucherinnen und Verbraucher durch ein eingeschr\u00e4nktes\r\nLeistungs- und Serviceangebot.\r\nL\u00f6sung: Eine Neuregelung, welche die Widerspruchsl\u00f6sung explizit\r\nerlaubt, ist dringend gefordert. Leider hat es der Gesetzgeber bisher\r\nvers\u00e4umt, eine verbraucherfreundliche L\u00f6sung gesetzlich zu\r\nimplementieren. Aus Sicht des GVB gibt es zwei M\u00f6glichkeiten, den\r\nnegativen Zustand zu beseitigen. Einerseits bietet sich die\r\nsogenannte \u201egro\u00dfe L\u00f6sung\u201c im allgemeinen AGB-Teil des BGB an,\r\ndie f\u00fcr alle Unternehmen gelten w\u00fcrde. Andererseits kommt die\r\nAnpassung des \u00a7 675g BGB infrage, die einer branchenspezifischen\r\nRegelung entspr\u00e4che."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

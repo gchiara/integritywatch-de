@@ -1,0 +1,601 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-12T10:52:22.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-07T12:39:13.000+01:00",
+        "lastUpdateDate": "2024-06-29T12:22:21.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 36124,
+                "validFromDate": "2024-06-29T12:22:21.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 33030,
+                "validFromDate": "2024-05-07T10:13:26.000+02:00",
+                "validUntilDate": "2024-06-29T12:22:21.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 24825,
+                "validFromDate": "2023-08-07T06:05:19.000+02:00",
+                "validUntilDate": "2024-05-07T10:13:26.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 24501,
+                "validFromDate": "2023-07-28T07:17:49.000+02:00",
+                "validUntilDate": "2023-08-07T06:05:19.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 24259,
+                "validFromDate": "2023-07-23T10:34:28.000+02:00",
+                "validUntilDate": "2023-07-28T07:17:49.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 24258,
+                "validFromDate": "2023-07-23T10:00:38.000+02:00",
+                "validUntilDate": "2023-07-23T10:34:28.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16284,
+                "validFromDate": "2023-02-12T10:52:22.000+01:00",
+                "validUntilDate": "2023-07-23T10:00:38.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PROFESSION_ASSOC",
+            "de": "Berufsverband",
+            "en": "Professional association"
+        },
+        "activityDescription": "Der BED e.V. nimmt als ma\u00dfgeblicher Spitzenverband auf Bundesebene f\u00fcr den Bereich der Ergotherapie die Interessen seiner Mitglieder und der mit Heilmitteln zu versorgenden Gesellschaft im Rahmen der Selbstverwaltung wahr, durch:\r\n\r\n1. Beratung von politischen Entscheidungstr\u00e4gern zur Heilmittelversorgung, \r\n2. Stellungnahmen zu Gesetzesvorhaben, \r\n3. Entwicklung von Rahmenbedingungen & Richtlinien \r\n4. Ansprechpartner f\u00fcr Politik, Krankenkassen und anderen Institutionen \r\n5. Verhandlungen mit Entscheidungstr\u00e4gern ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_SS_HEALTH",
+                "de": "Krankenversicherung",
+                "en": "Health insurance"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_ADMINISTRATION",
+                "de": "Verwaltungstransparenz/Open Government",
+                "en": "Public administration"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_SERVICE",
+                "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                "en": "Public service"
+            },
+            {
+                "code": "FOI_RP_OTHER",
+                "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                "en": "Other in the field of \"Spatial planning, construction and housing\""
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_SS_OLD_AGE",
+                "de": "Rente/Alterssicherung",
+                "en": "Old-age insurance"
+            },
+            {
+                "code": "FOI_SP_DISABILITY",
+                "de": "Rechte von Menschen mit Behinderung",
+                "en": "Rights of people with disabilities"
+            },
+            {
+                "code": "FOI_SS_OTHER",
+                "de": "Sonstiges im Bereich \"Soziale Sicherung\"",
+                "en": "Other in the field of \"Social security\""
+            },
+            {
+                "code": "FOI_MEDIA_FREEDOM_OF_SPEECH",
+                "de": "Meinungs- und Pressefreiheit",
+                "en": "Freedom of speech and freedom of the press"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_OTHER",
+                "de": "Sonstige Interessenbereiche",
+                "en": "Other areas",
+                "fieldOfInterestText": "Fachkr\u00e4fteanwerbung aus dem Ausland"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_SA_OTHER",
+                "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                "en": "Other in the field of \"Government and administration\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_SA_ORGANIZATION",
+                "de": "Staatsorganisation",
+                "en": "State organization"
+            },
+            {
+                "code": "FOI_SS_ACCIDENT",
+                "de": "Unfallversicherung",
+                "en": "Accident insurance"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_HEALTH_CARE",
+                "de": "Pflege",
+                "en": "Health care"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            },
+            {
+                "code": "CONTRACTS_OPERATED_BY_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird in eigenem Interesse durch die Beauftragung Dritter wahrgenommen",
+                "en": "Contracts are awarded to third parties to represent own interests of the company"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/03/a9/326455/G-V-BED-2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "Spende zur Unterst\u00fctzung des Vereinszwecks gem\u00e4\u00df Satzung",
+                "donationEuro": {
+                    "from": 140001,
+                    "to": 150000
+                },
+                "name": "TherapieFix Verwaltungs UG"
+            },
+            {
+                "description": "Unterst\u00fctzung des Vereinszwecks laut Satzung",
+                "donationEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "name": "HASOMED GmbH"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 190001,
+            "to": 200000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 5.95,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 70001,
+            "to": 80000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Mettlach",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "BED e.V. Verwaltung",
+            "street": "Nohner Stra\u00dfe ",
+            "streetNumber": "10",
+            "type": "NATIONAL",
+            "zipCode": "66693"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@bed-ev.de"
+                },
+                {
+                    "email": "c.donner@bed-ev.de"
+                }
+            ],
+            "phoneNumber": "+4964389279000",
+            "websites": [
+                {
+                    "website": "https://www.bed-ev.de/"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Christine",
+                "lastName": "Donner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Volker",
+                "lastName": "Br\u00fcnger",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": false,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Christine",
+                "function": "Gesch\u00e4ftsf\u00fchrender Vorstand",
+                "lastName": "Donner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Volker",
+                "function": "Politikreferent",
+                "lastName": "Br\u00fcnger",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-05-06",
+            "naturalPersons": 931,
+            "organizations": 1596,
+            "totalCount": 2527
+        },
+        "membersPresent": true,
+        "membershipsPresent": false,
+        "name": "Bundesverband f\u00fcr Ergotherapeut:innen in Deutschland e.V. (BED)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 380001,
+            "to": 390000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Ausstattung der BED-Mitglieder in Niedersachsen mit Hard- und Software f\u00fcr die Erbringung telemedizinischer Leistungen sowie Grundlagenschaffung f\u00fcr die TI. ",
+                "location": "Niedersachsen",
+                "name": "Land Niedersachsen",
+                "publicAllowanceEuro": {
+                    "from": 190001,
+                    "to": 200000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Schaffung einer zentralen Terminvermittlungsplattform im Heilmittelbereich f\u00fcr s\u00e4mtliche Heilmittelbehandlungen bzw. Behandlungsserien.",
+                "location": "Niedersachsen",
+                "name": "Land Niedersachsen",
+                "publicAllowanceEuro": {
+                    "from": 190001,
+                    "to": 200000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R003044/36124",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-29T12:22:21.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/1f/45/326456/Lobbyregister-Detailansicht-R003044-2024-06-29_12-22-21.pdf",
+        "validFromDate": "2024-06-29T12:22:21.000+02:00",
+        "version": 8
+    },
+    "registerEntryId": 36124,
+    "registerNumber": "R003044",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "SGB 5",
+                        "title": "Sozialgesetzbuch (SGB) F\u00fcnftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)",
+                        "url": "https://www.gesetze-im-internet.de/sgb_5"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Abschaffung bzw. Anpassung der Zuzahlungsbetr\u00e4ge im Heilmittelbereich zur Abschaffung dadurch bedingter sozialer Benachteiligungen",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_SECURITY",
+                        "de": "Soziale Sicherung",
+                        "en": "Social security"
+                    },
+                    {
+                        "code": "FOI_SS_HEALTH",
+                        "de": "Krankenversicherung",
+                        "en": "Health insurance"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/070/2007090.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [],
+                        "printingNumber": "20/7090",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/abfrage-zu-legalwaffenbesitzern-unter-den-beschuldigten-von-bundesweiten-durchsuchungsma%C3%9Fnahmen-des/300715",
+                        "title": "Schriftliche Fragen mit den in der Woche vom 30. Mai 2023 eingegangenen Antworten der Bundesregierung"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0000574",
+                "statements": [],
+                "title": "Abschaffung bzw. Anpassung der Zuzahlungsbetr\u00e4ge im Heilmittelbereich"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "SGB 5",
+                        "title": "Sozialgesetzbuch (SGB) F\u00fcnftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)",
+                        "url": "https://www.gesetze-im-internet.de/sgb_5"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die Verantwortung f\u00fcr die TI-Finanzierungsvereinbarung f\u00fcr Heilmittelerbringer muss den ma\u00dfgeblichen Berufsverb\u00e4nden obliegen. Derzeit besteht ein Vertrag zu Lasten Dritter!\r\n\r\nDer Spitzenverband der Krankenkassen GKV-SV vereinbart die relevanten Rahmenbedingungen bislang mit der Kassen\u00e4rztlichen Bundesvereinigung. Das gilt insbesondere f\u00fcr die TI-Erstattungen, aber auch z.B. f\u00fcr die ambulante Leistungserbringung in Form von Hausbesuchen. Heilmittelerbringer ben\u00f6tigen unbedingt mobile TI-Anwendungen und damit auch entsprechende Erstattungen.\r\nDie ma\u00dfgeblichen Berufsverb\u00e4nde auf Bundesebene im Heilmittelbereich obliegt die jeweilige Interessensvertretung von Heilmittelerbringengenden, in unserem Fall von Ergotherapierenden. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_SECURITY",
+                        "de": "Soziale Sicherung",
+                        "en": "Social security"
+                    },
+                    {
+                        "code": "FOI_SS_HEALTH",
+                        "de": "Krankenversicherung",
+                        "en": "Health insurance"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/097/2009788.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [],
+                        "printingNumber": "20/9788",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/medizinb%C3%BCrokratismus-stoppen-behandeln-statt-verwalten/294021",
+                        "title": "a) zu dem Gesetzentwurf der Bundesregierung - Drucksache 20/9048 - Entwurf eines Gesetzes zur Beschleunigung der Digitalisierung des Gesundheitswesens - (Digital-Gesetz - DigiG) - b) zu dem Antrag der Abgeordneten Martin Sichert, J\u00f6rg Schneider, Dr. Christina Baum, weiterer Abgeordneter und der Fraktion der AfD - Drucksache 20/4670 - Medizinb\u00fcrokratismus stoppen - Behandeln statt verwalten"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0000575",
+                "statements": [],
+                "title": "TI-Finanzierungsvereinbarung f\u00fcr Heilmittelerbringer"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

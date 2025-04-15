@@ -1,0 +1,924 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-02-25T15:53:19.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-25T15:53:19.000+01:00",
+        "lastUpdateDate": "2024-08-21T17:42:12.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 43187,
+                "validFromDate": "2024-08-21T17:42:12.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 29982,
+                "validFromDate": "2024-06-14T14:28:17.000+02:00",
+                "validUntilDate": "2024-08-21T17:42:12.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27206,
+                "validFromDate": "2023-11-28T16:31:47.000+01:00",
+                "validUntilDate": "2024-06-14T14:28:17.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17474,
+                "validFromDate": "2023-03-07T16:31:33.000+01:00",
+                "validUntilDate": "2023-11-28T16:31:47.000+01:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 2522,
+                "validFromDate": "2022-02-25T15:53:19.000+01:00",
+                "validUntilDate": "2023-03-07T16:31:33.000+01:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Die Repr\u00e4sentanz Transparente Geb\u00e4udeh\u00fclle GbR ist die gemeinschaftlich betriebene Interessenvertretung der Verb\u00e4nde und Unternehmen aus den Branchen Glas, Fenster, Fassade, Geb\u00e4udeautomation und Sonnenschutz. Wir setzen uns f\u00fcr eine ambitionierte Energie- und Klimapolitik im Geb\u00e4udesektor ein, die auf die international und in Deutschland verbindlich vereinbarten Klimaschutzziele ausgerichtet ist. Wir sind Dialogpartner f\u00fcr alle Repr\u00e4sentanten/innen der Parlamente und Regierungen in Bund und L\u00e4ndern sowie f\u00fcr weitere an der Meinungs- und Willensbildung beteiligte Organisationen. Durch Beteiligung an wissenschaftlichen Studien und eine transparente, fachlich kompetente, faktenbasierte Kommunikation wollen wir einen L\u00f6sungsbeitrag zu den Herausforderungen des Klimaschutzes und einer bezahlbaren Geb\u00e4udenutzung leisten. Ma\u00dfgeblich kommunizieren wir \u00fcber \u00f6ffentliche Dialogrunden und Gespr\u00e4che, schriftliche Stellungnahmen und Positionspapiere, soziale Medien und die Presse. Besonders wichtig ist uns dabei, die Potenziale der dynamischen Geb\u00e4udeh\u00fclle f\u00fcr Klimaschutz, Klimafolgenanpassung und gesundes Wohnen realisierbar zu machen.  ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_RP_OTHER",
+                "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                "en": "Other in the field of \"Spatial planning, construction and housing\""
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_RP_RESIDE",
+                "de": "Wohnen",
+                "en": "Reside"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/c7/cd/345890/Rechnungsabschluss-RTG-2023-Scan-des-Originals.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/33/4c/345891/degepol-Verhaltenskodex-2.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 2.0,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 150001,
+            "to": 160000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Unter den Linden",
+            "streetNumber": "10",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "drinkuth@transparente-gebaeudehuelle.de"
+                },
+                {
+                    "email": "politik@transparente-gebaeudehuelle.de"
+                }
+            ],
+            "phoneNumber": "+4930700140243",
+            "websites": [
+                {
+                    "website": "www.transparente-gebaeudehuelle.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Thomas",
+                "lastName": "Drinkuth",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Claudia",
+                "lastName": "Buggenhagen",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GBR",
+            "de": "Gesellschaft des b\u00fcrgerlichen Rechts (GbR; BGB-Gesellschaft)",
+            "en": "Civil law association (GbR; BGB-Gesellschaft)"
+        },
+        "legalFormType": {
+            "code": "LEGAL_ASSOCIATION",
+            "de": "Rechtsf\u00e4hige Personengesellschaft",
+            "en": "Partnership with legal capacity"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Thomas",
+                "function": "Leiter der Repr\u00e4sentanz",
+                "lastName": "Drinkuth",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Frank",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Lange",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Jochen",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Gr\u00f6negr\u00e4s",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Lars",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Rippstein",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-03-04",
+            "naturalPersons": 0,
+            "organizations": 9,
+            "totalCount": 9
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Wirtschaftsrat der CDU e.V."
+            },
+            {
+                "membership": "Wirtschaftsvereinigung der Gr\u00fcnen e.V."
+            },
+            {
+                "membership": "Wirtschaftsforum der SPD e.V."
+            },
+            {
+                "membership": "\"Impulse f\u00fcr den Wohnungsbau\" koordiniert vom Bundesverband Baustoffe - Steine und Erden e. V."
+            },
+            {
+                "membership": "Geb\u00e4ude-Allianz koordiniert vom NABU (Naturschutzbund Deutschland) e. V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Repr\u00e4sentanz Transparente Geb\u00e4udeh\u00fclle GbR"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "Somfy GmbH"
+            },
+            {
+                "name": "Velux Deutschland GmbH"
+            },
+            {
+                "name": "Warema Renkhoff SE"
+            },
+            {
+                "name": "VEKA AG"
+            },
+            {
+                "name": "ROMA KG"
+            },
+            {
+                "name": "Hunter Douglas GmbH"
+            },
+            {
+                "name": "BF Bundesverband Flachglas e.V."
+            },
+            {
+                "name": "Verband Fenster + Fassade e.V."
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 370001,
+            "to": 380000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001708/43187",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-14T14:28:17.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/3b/eb/345894/Lobbyregister-Detailansicht-R001708-2024-08-21_17-42-12.pdf",
+        "validFromDate": "2024-08-21T17:42:12.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 43187,
+    "registerNumber": "R001708",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GEG",
+                        "title": "Gesetz zur Einsparung von Energie und zur Nutzung erneuerbarer Energien zur W\u00e4rme- und K\u00e4lteerzeugung in Geb\u00e4uden",
+                        "url": "https://www.gesetze-im-internet.de/geg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Bauphysikalisch korrekte und energie-/klimapolitisch sinnvolle Anforderungen an Neubauten und Sanierungen",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_RP_OTHER",
+                        "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                        "en": "Other in the field of \"Spatial planning, construction and housing\""
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002339",
+                "statements": [],
+                "title": "Geb\u00e4udeenergiegesetz"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Wirksamkeit des Klimaschutzgesetzes f\u00fcr den Geb\u00e4udesektor sicherstellen ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/082/2008290.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMWK",
+                                "title": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                                "url": "https://www.bmwk.de/Navigation/DE/Home/home.html"
+                            }
+                        ],
+                        "printingNumber": "20/8290",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/zweites-gesetz-zur-%C3%A4nderung-des-bundes-klimaschutzgesetzes/302817",
+                        "title": "Entwurf eines Zweiten Gesetzes zur \u00c4nderung des Bundes-Klimaschutzgesetzes"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0002340",
+                "statements": [],
+                "title": "Klimaschutzgesetz"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Korrekte und sinnvolle Anforderungen an gef\u00f6rderte Sanierungsma\u00dfnahmen sowie wirksame F\u00f6rderh\u00f6he",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OTHER",
+                        "de": "Sonstiges im Bereich \"Energie\"",
+                        "en": "Other in the field of \"Energy\""
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002341",
+                "statements": [],
+                "title": "BEG F\u00f6rderrichtlinie"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "KAnG",
+                        "title": "Bundes-Klimaanpassungsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/kang"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Wirksame Ma\u00dfnahmen zur Klimaanpassung im Geb\u00e4udesektor",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_RP_OTHER",
+                        "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                        "en": "Other in the field of \"Spatial planning, construction and housing\""
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OTHER",
+                        "de": "Sonstiges im Bereich \"Energie\"",
+                        "en": "Other in the field of \"Energy\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002342",
+                "statements": [],
+                "title": "Klimaanpassungsgesetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EStG",
+                        "title": "Einkommensteuergesetz",
+                        "url": "https://www.gesetze-im-internet.de/estg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Korrekte und sinnvolle Anforderungen an gef\u00f6rderte Sanierungen und wirksame F\u00f6rderh\u00f6he",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OTHER",
+                        "de": "Sonstiges im Bereich \"Energie\"",
+                        "en": "Other in the field of \"Energy\""
+                    },
+                    {
+                        "code": "FOI_RP_OTHER",
+                        "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                        "en": "Other in the field of \"Spatial planning, construction and housing\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002343",
+                "statements": [],
+                "title": "Steuerliche F\u00f6rderung der energetischen Sanierung (EStG \u00a735c)"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BauGB",
+                        "title": "Baugesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bbaug"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Sicherstellung sinnvoller und wirksamer Rahmenbedingungen f\u00fcr einfachere, beschleunigte Bauprozesse ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OTHER",
+                        "de": "Sonstiges im Bereich \"Energie\"",
+                        "en": "Other in the field of \"Energy\""
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_RESIDE",
+                        "de": "Wohnen",
+                        "en": "Reside"
+                    },
+                    {
+                        "code": "FOI_RP_OTHER",
+                        "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                        "en": "Other in the field of \"Spatial planning, construction and housing\""
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002344",
+                "statements": [],
+                "title": "Baugesetzbuch"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Sicherstellung sinnvoller Anforderungen an klimafreundliche Neubauten und wirksamer F\u00f6rderh\u00f6hen",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OTHER",
+                        "de": "Sonstiges im Bereich \"Energie\"",
+                        "en": "Other in the field of \"Energy\""
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_RP_OTHER",
+                        "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                        "en": "Other in the field of \"Spatial planning, construction and housing\""
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002345",
+                "statements": [],
+                "title": "Bundesf\u00f6rderung Klimafreundlicher Neubau"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Sicherstellung sinnvoller Anforderungen an gef\u00f6rderte Neubauten und einer wirksamen F\u00f6rderh\u00f6he",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OTHER",
+                        "de": "Sonstiges im Bereich \"Energie\"",
+                        "en": "Other in the field of \"Energy\""
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_RP_OTHER",
+                        "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                        "en": "Other in the field of \"Spatial planning, construction and housing\""
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002346",
+                "statements": [],
+                "title": "Bundesf\u00f6rderung Klimaneutraler Neubau im Niedrigpreissegment "
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BGB",
+                        "title": "B\u00fcrgerliches Gesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Referentenentwurf Geb\u00e4udetyp E - Erg\u00e4nzung des Entwurfs im Hinblick auf Artikel 1 Nr. 2, Artikel 1 Nr. 4 sowie Stellungnahme zum Erf\u00fcllungsaufwand.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmj.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/RefE_GebaudetypE.pdf?__blob=publicationFile&v=2",
+                            "draftBillProjectUrl": "https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2024_Gebaeudetyp_E.html?nn=110518",
+                            "shortTitle": "BMJ",
+                            "title": "Bundesministerium der Justiz",
+                            "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                        }
+                    ],
+                    "publicationDate": "2024-07-29",
+                    "title": "Gesetz zur zivilrechtlichen Erleichterung des Geb\u00e4udebaus (Geb\u00e4udetyp-E-Gesetz)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011703",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/33/85/345892/Stellungnahme-Gutachten-SG2408210020.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                        "de": "Bundesministerium der Justiz (BMJ)",
+                                        "en": "Bundesministerium der Justiz (BMJ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-08-21"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0011703",
+                        "regulatoryProjectTitle": "Stellungnahme Referentenentwurf Geb\u00e4udetyp E",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Geb\u00e4udetyp E - Referentenentwurf vom 21.6.24\r\nhier: Stellungnahme im Rahmen des Konsultationsverfahrens\r\n\r\nDie Verb\u00e4nde und Unternehmen der RTG begr\u00fc\u00dfen die Bestrebungen der Bundesregierung, Bauprozes-se zu entb\u00fcrokratisieren und zu vereinfachen. Folgende Erg\u00e4nzungen sind aus Sicht der RTG jedoch unbedingt zu beachten:\r\n\r\n1.\t\u00a7 650a Abs. 3 Nr. 1 BGB\r\n\r\nNeufassung\r\n\u201eEs wird vermutet, dass \r\n1.\tbautechnische Normungen, die sicherheitstechnische, gesundheitsrelevante und die Funkti-onstauglichkeit sichernde Festlegungen enthalten, anerkannte Regelungen der Technik sind und\u2026\u201c\r\n\r\nBegr\u00fcndung\r\nBautechnische Normungen umfassen als unbestimmter Rechtsbegriff alle Normen und standardisierte Regeln, die die Bereiche (1) Sicherheit, (2) Gesundheit, (3) Funktionsf\u00e4higkeit sowie (4) Komfort und Ausstattung von Geb\u00e4uden behandeln.\r\n\r\nW\u00e4hrend die Vermutungsregelung des Referentenentwurfes zum Geb\u00e4udetyp E Gesetz Aussagen f\u00fcr die Bereiche Sicherheit und Komfort/Ausstattung trifft, bleiben nicht weniger relevante Aspekte wie bspw. Gesundheit und Funktionalit\u00e4t im Text der Vorschrift g\u00e4nzlich unbeachtet. Nach hiesiger Sicht geh\u00f6ren gesundheitsrelevante Normen sowie Vorgaben, die die Funktionstauglichkeit und Dauer-haftigkeit von Geb\u00e4uden und deren Teile sicherstellen, zwar nicht zu den auf den ersten Blick zu den sicherheitsrelevanten Aspekten, jedoch z\u00e4hlen sie ebenso wenig zum Bereich Komfort/Ausstattung. Dieser Bereich ist im Text des gegenw\u00e4rtigen Referentenentwurfs nicht geregelt. Hierzu z\u00e4hlen Aspekte wie Tageslichtnutzung, Schimmel- und Schadstofffreiheit, Innenraumklima/L\u00fcftung, bis hin zu barrie-refreien Ma\u00dfnahmen f\u00fcr Menschen mit Beeintr\u00e4chtigungen, die anerkannterma\u00dfen unabdingbarer Bestandteil einer modernen Geb\u00e4udenutzung sind. Unzureichende Funktionstauglichkeit und Dauer-haftigkeit f\u00fchrt zu vorzeitigem Versagen von Bestandteilen des Geb\u00e4udes.\r\n\r\nW\u00fcrden die vorbezeichneten Themen nicht unter den Anwendungsbereich der anerkannten Regeln der Technik fallen, w\u00fcrde dies in der Konsequenz dem Willen des Gesetzgebers zuwiderlaufen: Die Neu-fassung des privaten Baurechts will dem Bauherrn die M\u00f6glichkeit er\u00f6ffnen, Kosten dort zu reduzieren, wo erzwungene Bauma\u00dfnahmen lediglich einem unter Umst\u00e4nden gar nicht gewollten Komfort Rech-nung tragen w\u00fcrden. Im Hinblick auf gerichtliche Auseinandersetzungen, Nachtrags- bzw. Folgekosten und die optimale Nutzbarkeit von R\u00e4umen kann es jedoch nicht im Interesse des Gesetzgebers liegen, Gesundheitsaspekte und die Funktionalit\u00e4t von R\u00e4umen nicht zu regeln. Auch wenn der Gesetzesent-wurf bewusst auf eine gesetzliche Definition des Begriffs der anerkannten Regeln verzichtet, um der Rechtsprechung insofern die M\u00f6glichkeit zu er\u00f6ffnen, den Begriff weiterzuentwickeln, sollte es vermie-den werden, dass jedenfalls die Aspekte des Gesundheitsschutzes und der Funktionstauglichkeit erst durch eine obergerichtliche Rechtsprechung (deren Entwicklung viele Jahre in Anspruch nehmen kann) dem Begriff der Anerkannten Regeln der Technik zugeordnet werden. Dementsprechend sind die As-pekte \u201eGesundheit\u201c sowie \u201eFunktionstauglichkeit\u201c unmittelbar in den Gesetzestext aufzunehmen, da-mit der Ausgangspunkt einer entsprechenden Rechtsprechung praxisn\u00e4her bestimmt wird.\r\n\r\nWir regen daher an, diese Rechtsl\u00fccke durch die vorbezeichnete Formulierung zu schlie\u00dfen.\r\n\r\n\r\n\r\n\r\n2.\t\u00a7 650o Abs. 3 Nr. 2 BGB\r\n\r\nNeufassung \r\n(3) Ist keine Beschaffenheit vereinbart, begr\u00fcndet ein Abweichen von den anerkannten Regeln der Technik dann keinen Sachmangel im Sinne des \u00a7 633 Absatz 2 Satz 2, wenn \r\n1. (\u2026)\r\n2. der Unternehmer dem Besteller diese Abweichung vor Ausf\u00fchrung der Bauleistung anzeigt und der Besteller dieser nicht unverz\u00fcglich widerspricht. Diese Anzeigepflicht entf\u00e4llt, wenn der Besteller die Abweichung bereits in der von ihm dem Unternehmer bereitgestellten Leistungsbeschreibung vorgegeben hat.\u201c\r\nBegr\u00fcndung\r\nDie geplante Gesetzes\u00e4nderung ist nach hiesiger Sicht zu begr\u00fc\u00dfen, da sie den erfahrungsgem\u00e4\u00df be-stehenden, von der Rechtsprechung oftmals titulierten ausufernden Aufkl\u00e4rungs- und Hinweispflich-ten des Auftragnehmers bei Abweichungen vom Vertragssoll entgegengewirkt. \r\n\r\nAllerdings sollte mit der angedachten Gesetzes\u00e4nderung der fachkundige Auftraggeber bzw. Besteller nicht aus seiner Planungs- und Ausschreibungsverantwortung entlassen werden, die von der einschl\u00e4-gigen Rechtsprechung immer wieder best\u00e4tigt wird und beispielsweise in der Vorschrift des \u00a7 7 Abs. 1 VOB/A ausdr\u00fccklich geregelt ist. Ungenaue oder gar fehlende Vorgaben der Beschaffenheit f\u00fchren zu Verz\u00f6gerungen und Mehrkosten auf der Seite der anbietenden Unternehmen und schlie\u00dflich beim Bauherrn, was der Zielsetzung der Gesetzes\u00e4nderung widerspricht. Daher schlagen wir vor, den \u00a7 650o Abs. 3 Nr. 2 BGB ganz zu streichen, hilfsweise die dargelegte Pr\u00e4zisierung vorzunehmen.\r\n\r\n\r\n3.\tErf\u00fcllungsaufwand\r\n\r\nStimmen Sie den Angaben zum Erf\u00fcllungsaufwand in der Begr\u00fcndung zum Referentenentwurf zu?\r\n\uf0e8\tAntwort: Nein\r\n\r\nBegr\u00fcndung:\r\n\u201eEin erh\u00f6htes finanzielles Risiko f\u00fcr die Wirtschaft besteht im Hinblick auf erwartbare gerichtliche Aus-einandersetzungen der Vertragsparteien, der in der Sch\u00e4tzung aus unserer Sicht gar nicht eingeflossen ist. Die Kosten und der Zeitaufwand, die durch die Befolgung der neu gefassten Norm entstehen, d\u00fcrften nicht unerheblich sein. Das wird insbesondere dann der Fall sein, sollte der Gesetzgeber die Frage nach der Abgrenzung Sicherheit/Komfort im Hinblick auf gesundheitsrelevante bzw. funktions-taugliche Aspekte nicht ber\u00fccksichtigen.\r\nIm Ergebnis werden es bei einem Streit die Gerichte bzw. die gerichtlichen Sachverst\u00e4ndigen sein, die im Einzelfall f\u00fcr eine technische Norm feststellen, ob es sich um eine anerkannte Regelung der Technik handelt oder nicht. Gerade ein Bauprozess kann sich sowohl zeitaufwendig (mehrere Instanzen sind m\u00f6glich; ein Bauprozess kann durchaus 5 \u2013 10 Jahre bis zu einer abschlie\u00dfenden Entscheidung dauern) als auch kostenintensiv (je nach Streitwert; viele Bauprozesse haben hohe Streitwerte) gestalten.\r\n\r\nZus\u00e4tzlich besteht das Risiko eines indirekten Erf\u00fcllungsaufwands (Mehrkosten) f\u00fcr alle Bauherren, also sowohl f\u00fcr E.1 \u201eErf\u00fcllungsaufwand f\u00fcr B\u00fcrgerinnen und B\u00fcrger\u201c als auch f\u00fcr E.3 \u201eErf\u00fcllungsauf-wand der Verwaltung\u201c, bzw. die \u00f6ffentliche Hand, wenn gesundheitsrelevante und die Funktionstaug-lichkeit sichernde Festlegungen nicht unter \u00a7 650a Abs. 3 Nr. 1 BGB aufgef\u00fchrt werden. Dies wird sich z.B. in kostentr\u00e4chtigen Nachtr\u00e4gen bei fehlender Funktionalit\u00e4t, h\u00e4ufigere Reparaturen und Nachbes-serungen aufgrund reduzierter Dauerhaftigkeit der Bauteile und auch durch zus\u00e4tzliche Belastungen des Gesundheitssystems wegen des ungesunderen Innenraumklimas \u00e4u\u00dfern\u201c.\r\n\r\n"
+                        }
+                    }
+                ],
+                "title": "Stellungnahme Referentenentwurf Geb\u00e4udetyp E"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/33/85/345892/Stellungnahme-Gutachten-SG2408210020.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                "de": "Bundesministerium der Justiz (BMJ)",
+                                "en": "Bundesministerium der Justiz (BMJ)"
+                            }
+                        ],
+                        "sendingDate": "2024-08-21"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0011703",
+                "regulatoryProjectTitle": "Stellungnahme Referentenentwurf Geb\u00e4udetyp E",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Geb\u00e4udetyp E - Referentenentwurf vom 21.6.24\r\nhier: Stellungnahme im Rahmen des Konsultationsverfahrens\r\n\r\nDie Verb\u00e4nde und Unternehmen der RTG begr\u00fc\u00dfen die Bestrebungen der Bundesregierung, Bauprozes-se zu entb\u00fcrokratisieren und zu vereinfachen. Folgende Erg\u00e4nzungen sind aus Sicht der RTG jedoch unbedingt zu beachten:\r\n\r\n1.\t\u00a7 650a Abs. 3 Nr. 1 BGB\r\n\r\nNeufassung\r\n\u201eEs wird vermutet, dass \r\n1.\tbautechnische Normungen, die sicherheitstechnische, gesundheitsrelevante und die Funkti-onstauglichkeit sichernde Festlegungen enthalten, anerkannte Regelungen der Technik sind und\u2026\u201c\r\n\r\nBegr\u00fcndung\r\nBautechnische Normungen umfassen als unbestimmter Rechtsbegriff alle Normen und standardisierte Regeln, die die Bereiche (1) Sicherheit, (2) Gesundheit, (3) Funktionsf\u00e4higkeit sowie (4) Komfort und Ausstattung von Geb\u00e4uden behandeln.\r\n\r\nW\u00e4hrend die Vermutungsregelung des Referentenentwurfes zum Geb\u00e4udetyp E Gesetz Aussagen f\u00fcr die Bereiche Sicherheit und Komfort/Ausstattung trifft, bleiben nicht weniger relevante Aspekte wie bspw. Gesundheit und Funktionalit\u00e4t im Text der Vorschrift g\u00e4nzlich unbeachtet. Nach hiesiger Sicht geh\u00f6ren gesundheitsrelevante Normen sowie Vorgaben, die die Funktionstauglichkeit und Dauer-haftigkeit von Geb\u00e4uden und deren Teile sicherstellen, zwar nicht zu den auf den ersten Blick zu den sicherheitsrelevanten Aspekten, jedoch z\u00e4hlen sie ebenso wenig zum Bereich Komfort/Ausstattung. Dieser Bereich ist im Text des gegenw\u00e4rtigen Referentenentwurfs nicht geregelt. Hierzu z\u00e4hlen Aspekte wie Tageslichtnutzung, Schimmel- und Schadstofffreiheit, Innenraumklima/L\u00fcftung, bis hin zu barrie-refreien Ma\u00dfnahmen f\u00fcr Menschen mit Beeintr\u00e4chtigungen, die anerkannterma\u00dfen unabdingbarer Bestandteil einer modernen Geb\u00e4udenutzung sind. Unzureichende Funktionstauglichkeit und Dauer-haftigkeit f\u00fchrt zu vorzeitigem Versagen von Bestandteilen des Geb\u00e4udes.\r\n\r\nW\u00fcrden die vorbezeichneten Themen nicht unter den Anwendungsbereich der anerkannten Regeln der Technik fallen, w\u00fcrde dies in der Konsequenz dem Willen des Gesetzgebers zuwiderlaufen: Die Neu-fassung des privaten Baurechts will dem Bauherrn die M\u00f6glichkeit er\u00f6ffnen, Kosten dort zu reduzieren, wo erzwungene Bauma\u00dfnahmen lediglich einem unter Umst\u00e4nden gar nicht gewollten Komfort Rech-nung tragen w\u00fcrden. Im Hinblick auf gerichtliche Auseinandersetzungen, Nachtrags- bzw. Folgekosten und die optimale Nutzbarkeit von R\u00e4umen kann es jedoch nicht im Interesse des Gesetzgebers liegen, Gesundheitsaspekte und die Funktionalit\u00e4t von R\u00e4umen nicht zu regeln. Auch wenn der Gesetzesent-wurf bewusst auf eine gesetzliche Definition des Begriffs der anerkannten Regeln verzichtet, um der Rechtsprechung insofern die M\u00f6glichkeit zu er\u00f6ffnen, den Begriff weiterzuentwickeln, sollte es vermie-den werden, dass jedenfalls die Aspekte des Gesundheitsschutzes und der Funktionstauglichkeit erst durch eine obergerichtliche Rechtsprechung (deren Entwicklung viele Jahre in Anspruch nehmen kann) dem Begriff der Anerkannten Regeln der Technik zugeordnet werden. Dementsprechend sind die As-pekte \u201eGesundheit\u201c sowie \u201eFunktionstauglichkeit\u201c unmittelbar in den Gesetzestext aufzunehmen, da-mit der Ausgangspunkt einer entsprechenden Rechtsprechung praxisn\u00e4her bestimmt wird.\r\n\r\nWir regen daher an, diese Rechtsl\u00fccke durch die vorbezeichnete Formulierung zu schlie\u00dfen.\r\n\r\n\r\n\r\n\r\n2.\t\u00a7 650o Abs. 3 Nr. 2 BGB\r\n\r\nNeufassung \r\n(3) Ist keine Beschaffenheit vereinbart, begr\u00fcndet ein Abweichen von den anerkannten Regeln der Technik dann keinen Sachmangel im Sinne des \u00a7 633 Absatz 2 Satz 2, wenn \r\n1. (\u2026)\r\n2. der Unternehmer dem Besteller diese Abweichung vor Ausf\u00fchrung der Bauleistung anzeigt und der Besteller dieser nicht unverz\u00fcglich widerspricht. Diese Anzeigepflicht entf\u00e4llt, wenn der Besteller die Abweichung bereits in der von ihm dem Unternehmer bereitgestellten Leistungsbeschreibung vorgegeben hat.\u201c\r\nBegr\u00fcndung\r\nDie geplante Gesetzes\u00e4nderung ist nach hiesiger Sicht zu begr\u00fc\u00dfen, da sie den erfahrungsgem\u00e4\u00df be-stehenden, von der Rechtsprechung oftmals titulierten ausufernden Aufkl\u00e4rungs- und Hinweispflich-ten des Auftragnehmers bei Abweichungen vom Vertragssoll entgegengewirkt. \r\n\r\nAllerdings sollte mit der angedachten Gesetzes\u00e4nderung der fachkundige Auftraggeber bzw. Besteller nicht aus seiner Planungs- und Ausschreibungsverantwortung entlassen werden, die von der einschl\u00e4-gigen Rechtsprechung immer wieder best\u00e4tigt wird und beispielsweise in der Vorschrift des \u00a7 7 Abs. 1 VOB/A ausdr\u00fccklich geregelt ist. Ungenaue oder gar fehlende Vorgaben der Beschaffenheit f\u00fchren zu Verz\u00f6gerungen und Mehrkosten auf der Seite der anbietenden Unternehmen und schlie\u00dflich beim Bauherrn, was der Zielsetzung der Gesetzes\u00e4nderung widerspricht. Daher schlagen wir vor, den \u00a7 650o Abs. 3 Nr. 2 BGB ganz zu streichen, hilfsweise die dargelegte Pr\u00e4zisierung vorzunehmen.\r\n\r\n\r\n3.\tErf\u00fcllungsaufwand\r\n\r\nStimmen Sie den Angaben zum Erf\u00fcllungsaufwand in der Begr\u00fcndung zum Referentenentwurf zu?\r\n\uf0e8\tAntwort: Nein\r\n\r\nBegr\u00fcndung:\r\n\u201eEin erh\u00f6htes finanzielles Risiko f\u00fcr die Wirtschaft besteht im Hinblick auf erwartbare gerichtliche Aus-einandersetzungen der Vertragsparteien, der in der Sch\u00e4tzung aus unserer Sicht gar nicht eingeflossen ist. Die Kosten und der Zeitaufwand, die durch die Befolgung der neu gefassten Norm entstehen, d\u00fcrften nicht unerheblich sein. Das wird insbesondere dann der Fall sein, sollte der Gesetzgeber die Frage nach der Abgrenzung Sicherheit/Komfort im Hinblick auf gesundheitsrelevante bzw. funktions-taugliche Aspekte nicht ber\u00fccksichtigen.\r\nIm Ergebnis werden es bei einem Streit die Gerichte bzw. die gerichtlichen Sachverst\u00e4ndigen sein, die im Einzelfall f\u00fcr eine technische Norm feststellen, ob es sich um eine anerkannte Regelung der Technik handelt oder nicht. Gerade ein Bauprozess kann sich sowohl zeitaufwendig (mehrere Instanzen sind m\u00f6glich; ein Bauprozess kann durchaus 5 \u2013 10 Jahre bis zu einer abschlie\u00dfenden Entscheidung dauern) als auch kostenintensiv (je nach Streitwert; viele Bauprozesse haben hohe Streitwerte) gestalten.\r\n\r\nZus\u00e4tzlich besteht das Risiko eines indirekten Erf\u00fcllungsaufwands (Mehrkosten) f\u00fcr alle Bauherren, also sowohl f\u00fcr E.1 \u201eErf\u00fcllungsaufwand f\u00fcr B\u00fcrgerinnen und B\u00fcrger\u201c als auch f\u00fcr E.3 \u201eErf\u00fcllungsauf-wand der Verwaltung\u201c, bzw. die \u00f6ffentliche Hand, wenn gesundheitsrelevante und die Funktionstaug-lichkeit sichernde Festlegungen nicht unter \u00a7 650a Abs. 3 Nr. 1 BGB aufgef\u00fchrt werden. Dies wird sich z.B. in kostentr\u00e4chtigen Nachtr\u00e4gen bei fehlender Funktionalit\u00e4t, h\u00e4ufigere Reparaturen und Nachbes-serungen aufgrund reduzierter Dauerhaftigkeit der Bauteile und auch durch zus\u00e4tzliche Belastungen des Gesundheitssystems wegen des ungesunderen Innenraumklimas \u00e4u\u00dfern\u201c.\r\n\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

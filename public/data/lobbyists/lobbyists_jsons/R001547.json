@@ -1,0 +1,319 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-03-03T09:53:50.000+01:00",
+                "untilDate": "2023-09-08T12:14:29.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-25T11:15:55.000+01:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2023-09-08T12:14:29.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2023-07-08T09:13:42.000+02:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2023-09-08T12:14:29.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 23280,
+                "validFromDate": "2023-07-08T09:13:42.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17202,
+                "validFromDate": "2023-02-26T17:42:34.000+01:00",
+                "validUntilDate": "2023-07-08T09:13:42.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 11458,
+                "validFromDate": "2022-09-05T21:00:03.000+02:00",
+                "validUntilDate": "2023-02-26T17:42:34.000+01:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 7657,
+                "validFromDate": "2022-04-20T20:58:39.000+02:00",
+                "validUntilDate": "2022-09-05T21:00:03.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 5666,
+                "validFromDate": "2022-03-03T09:53:50.000+01:00",
+                "validUntilDate": "2022-04-20T20:58:39.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_CONSULTING",
+            "de": "Beratungsunternehmen, selbst\u00e4ndige Beraterin oder selbst\u00e4ndiger Berater",
+            "en": "Consulting company, independent consultant"
+        },
+        "activityDescription": "strategische Beratung und Kommunikation im Bereich Klimapolitik und Energiepolitik",
+        "activityOperationType": "BOTH",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "clientIdentity": {
+        "clientOrganizations": [
+            {
+                "address": {
+                    "city": "Berlin",
+                    "country": {
+                        "code": "DE",
+                        "de": "Deutschland",
+                        "en": "Germany"
+                    },
+                    "street": "Reinhardsstrasse",
+                    "streetNumber": "12",
+                    "type": "NATIONAL",
+                    "zipCode": "10117"
+                },
+                "contactDetails": {
+                    "emails": [
+                        {
+                            "email": "schweda@netzwerk-public-affairs.de"
+                        }
+                    ],
+                    "phoneNumber": "+493055121183",
+                    "websites": [
+                        {
+                            "website": "www.netzwerk-public-affairs.de"
+                        }
+                    ]
+                },
+                "legalForm": {
+                    "code": "LF_EV",
+                    "de": "Eingetragener Verein (e. V.)",
+                    "en": "Registered association"
+                },
+                "legalFormType": {
+                    "code": "JURISTIC_PERSON",
+                    "de": "Juristische Person",
+                    "en": "Legal person"
+                },
+                "legalRepresentatives": [
+                    {
+                        "commonFirstName": "Kathrin",
+                        "emails": [
+                            {
+                                "email": "zabel@netzwerk-public-affairs.de"
+                            }
+                        ],
+                        "function": "Vorsitzende",
+                        "lastName": "Zabel",
+                        "phoneNumber": "+493055121183"
+                    }
+                ],
+                "name": "Netzwerk Public Affairs e.V."
+            },
+            {
+                "address": {
+                    "city": "D\u00fcsseldorf",
+                    "country": {
+                        "code": "DE",
+                        "de": "Deutschland",
+                        "en": "Germany"
+                    },
+                    "street": "Peter-M\u00fcller-Str. ",
+                    "streetNumber": "14",
+                    "type": "NATIONAL",
+                    "zipCode": "40468"
+                },
+                "contactDetails": {
+                    "emails": [
+                        {
+                            "email": "Daniel.Moelk@eavor.com"
+                        }
+                    ],
+                    "phoneNumber": "+4921116975911",
+                    "websites": [
+                        {
+                            "website": "www.eavor.de"
+                        }
+                    ]
+                },
+                "legalForm": {
+                    "code": "LF_GMBH",
+                    "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+                    "en": "Limited liability company (GmbH)"
+                },
+                "legalFormType": {
+                    "code": "JURISTIC_PERSON",
+                    "de": "Juristische Person",
+                    "en": "Legal person"
+                },
+                "legalRepresentatives": [
+                    {
+                        "commonFirstName": "Daniel",
+                        "emails": [
+                            {
+                                "email": "Daniel.moelk@eavor.com"
+                            }
+                        ],
+                        "function": "Managing Director",
+                        "lastName": "M\u00f6lk",
+                        "phoneNumber": "+4921116975911"
+                    }
+                ],
+                "name": "Eavor GmbH"
+            },
+            {
+                "address": {
+                    "city": "Frankfurt ",
+                    "country": {
+                        "code": "DE",
+                        "de": "Deutschland",
+                        "en": "Germany"
+                    },
+                    "street": "Hanauaser Landstrasse ",
+                    "streetNumber": "204",
+                    "type": "NATIONAL",
+                    "zipCode": "60314"
+                },
+                "contactDetails": {
+                    "emails": [
+                        {
+                            "email": "harnisch@shimsupa.de"
+                        }
+                    ],
+                    "phoneNumber": "+4969870039129",
+                    "websites": [
+                        {
+                            "website": "www.shimsupa.de"
+                        }
+                    ]
+                },
+                "legalForm": {
+                    "code": "LF_GMBH",
+                    "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+                    "en": "Limited liability company (GmbH)"
+                },
+                "legalFormType": {
+                    "code": "JURISTIC_PERSON",
+                    "de": "Juristische Person",
+                    "en": "Legal person"
+                },
+                "legalRepresentatives": [
+                    {
+                        "commonFirstName": "J\u00f6rg-Andr\u00e9",
+                        "emails": [
+                            {
+                                "email": "harnisch@shimsupa.de"
+                            }
+                        ],
+                        "function": "Gesch\u00e4ftsf\u00fchrer",
+                        "lastName": "Harnisch",
+                        "phoneNumber": "+4969870039129"
+                    }
+                ],
+                "name": "Shimsupa GmbH"
+            }
+        ],
+        "clientsPresent": true
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "academicDegreeBefore": "Dr.",
+        "commonFirstName": "Christoph",
+        "identity": "NATURAL",
+        "lastName": "L\u00f6wer"
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "publicAllowancesPresent": false,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-07-08T09:13:42.000+02:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001547/23280",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/59/cb/220331/Lobbyregister-Detailansicht-R001547-2023-07-08_09-13-42.pdf",
+        "refusedAnything": false,
+        "validFromDate": "2023-07-08T09:13:42.000+02:00",
+        "version": 6
+    },
+    "registerEntryId": 23280,
+    "registerNumber": "R001547"
+}

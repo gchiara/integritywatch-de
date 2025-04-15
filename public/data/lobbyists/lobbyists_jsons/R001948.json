@@ -1,0 +1,828 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-07-22T17:01:35.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-28T10:29:53.000+01:00",
+        "lastUpdateDate": "2024-06-24T17:05:23.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 31121,
+                "validFromDate": "2024-06-24T17:05:23.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21185,
+                "validFromDate": "2023-07-18T14:11:40.000+02:00",
+                "validUntilDate": "2024-06-24T17:05:23.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21184,
+                "validFromDate": "2023-06-07T13:47:08.000+02:00",
+                "validUntilDate": "2023-07-18T14:11:40.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21182,
+                "validFromDate": "2023-06-07T13:43:30.000+02:00",
+                "validUntilDate": "2023-06-07T13:47:08.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 20839,
+                "validFromDate": "2023-06-02T17:26:03.000+02:00",
+                "validUntilDate": "2023-06-07T13:43:30.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 10522,
+                "validFromDate": "2023-05-12T13:50:47.000+02:00",
+                "validUntilDate": "2023-06-02T17:26:03.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 10521,
+                "validFromDate": "2022-07-22T17:01:35.000+02:00",
+                "validUntilDate": "2023-05-12T13:50:47.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_NONPROFIT_ORGA_V2",
+            "de": "Nichtregierungsorganisation (NGO)",
+            "en": "Non-governmental organization (NGO)"
+        },
+        "activityDescription": "AlgorithmWatch ist eine gemeinn\u00fctzige Organisation mit dem Ziel, Prozesse algorithmischer Entscheidungsfindung zu betrachten und einzuordnen, die eine gesellschaftliche Relevanz haben - die also entweder menschliche Entscheidungen vorhersagen oder vorbestimmen, oder Entscheidungen automatisiert treffen. AlgorithmWatch analysiert die Auswirkungen algorithmischer Entscheidungsfindungsprozesse auf menschliches Verhalten und zeigt ethische Konflikte auf. Als Forschungs- und Advocacy-Organisation setzt AlgorithmWatch journalistische und wissenschaftliche Recherchemethoden ein, um unter anderem die Auswirkungen von Systemen der automatisierten Entscheidungsfindung (ADM) auf Gesellschaften einer breiten \u00d6ffentlichkeit zug\u00e4nglich zu machen. Ziel der Organisation ist es, den Nutzen algorithmischer Entscheidungsfindung f\u00fcr das Gemeinwohl \u00a0zu maximieren. Zu diesem Zweck ver\u00f6ffentlicht sie Analysen, Positionspapiere, kommentiert Gesetzesvorhaben, organisiert Veranstaltungen, kooperiert mit anderen zivilgesellschaftlichen Organisationen sowie mit Akteuren aus Forschung und Wissenschaft und tauscht sich mit der Politik aus.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_SERVICE",
+                "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                "en": "Public service"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_MEDIA_MASS",
+                "de": "Massenmedien",
+                "en": "Mass media"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_ADMINISTRATION",
+                "de": "Verwaltungstransparenz/Open Government",
+                "en": "Public administration"
+            },
+            {
+                "code": "FOI_MEDIA_OTHER",
+                "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                "en": "Other in the field of \"Media, communication and information technology\""
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_SP_DIVERSITY",
+                "de": "Diversit\u00e4tspolitik",
+                "en": "Diversity policy"
+            },
+            {
+                "code": "FOI_MEDIA_FREEDOM_OF_SPEECH",
+                "de": "Meinungs- und Pressefreiheit",
+                "en": "Freedom of speech and freedom of the press"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/34/e5/308376/AW-Jahresabschluss-2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "F\u00f6rdermittel",
+                "donationEuro": {
+                    "from": 180001,
+                    "to": 190000
+                },
+                "name": "Alfred Landecker Foundation"
+            },
+            {
+                "description": "F\u00f6rdermittel",
+                "donationEuro": {
+                    "from": 280001,
+                    "to": 290000
+                },
+                "name": "Stiftung Mercator"
+            },
+            {
+                "description": "F\u00f6rdermittel",
+                "donationEuro": {
+                    "from": 210001,
+                    "to": 220000
+                },
+                "name": "Sch\u00f6pflin Stiftung"
+            },
+            {
+                "description": "F\u00f6rdermittel",
+                "donationEuro": {
+                    "from": 140001,
+                    "to": 150000
+                },
+                "name": "Robert Bosch Stiftung"
+            },
+            {
+                "description": "F\u00f6rdermittel",
+                "donationEuro": {
+                    "from": 270001,
+                    "to": 280000
+                },
+                "name": "Luminate"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 1270001,
+            "to": 1280000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.51,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 30001,
+            "to": 40000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "AW AlgorithmWatch gGmbH",
+            "street": "Linienstr.",
+            "streetNumber": "13",
+            "type": "NATIONAL",
+            "zipCode": "10178"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "register@algorithmwatch.org"
+                }
+            ],
+            "phoneNumber": "+4930994049000",
+            "websites": [
+                {
+                    "website": "https://algorithmwatch.org"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Matthias",
+                "lastName": "Spielkamp",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "PhD/Dr.des.",
+                "firstName": "Angela",
+                "lastName": "M\u00fcller",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Pia",
+                "lastName": "Sombetzki",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Nikolett",
+                "lastName": "Asz\u00f3di",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Clara",
+                "lastName": "Helming",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Kilian",
+                "lastName": "Vieth-Ditlmann",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Matthias",
+                "function": "Gesch\u00e4ftsf\u00fchrer, Gesellschafter",
+                "lastName": "Spielkamp",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Kristina",
+                "function": "Prokuristin",
+                "lastName": "H\u00fcbner",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "AlgorithmWatch ist Mitglied des Netzwerks F5."
+            },
+            {
+                "membership": "AlgorithmWatch ist Mitglied des Netzwerks Forum Medien und Entwicklung (fome)."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "AW AlgorithmWatch gGmbH"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "DataSkop \r\nIn vielf\u00e4ltiger Weise durchdringen algorithmische Entscheidungssysteme unseren Alltag, ohne dass die Funktionsweise solcher Prozesse transparent ist. Im Fokus des Teilvorhabens DataSkop - was passiert mit unseren Daten? steht daher die Entwicklung einer Datenspendeplattform zur Analyse komplexer algorithmischen Systeme.\r\n\r\nNetzwerk - Digitale Souver\u00e4nit\u00e4t\r\nDie zehn Verbundprojekte, u.a. DataSkop, werden im Rahmen des Netzwerks Digitale Souver\u00e4nit\u00e4t zusammengebracht, um die gesamtgesellschaftliche Dimension des Themas Digitale Souver\u00e4nit\u00e4t sichtbar zu machen. Im Fokus steht der Wissenstransfer von der Forschung in die Gesellschaft. Weiter soll mit Hilfe neuer Interaktionsformen zwischen Mensch und Technik sollen die Generierung und die Verwendung von Daten f\u00fcr Nutzer*innen besser nachvollziehbar gemacht werden.",
+                "location": "Kapelle-Ufer 1, 10117 Berlin",
+                "name": "Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 180001,
+                    "to": 190000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Im Rahmen des SustAIn-Projekts entwickelt AlgorithmWatch Instrumente, mit denen sich die Nachhaltigkeit von KI-Systemen in der Praxis bewerten l\u00e4sst. Wir zeigen auf, wie KI nachhaltiger gestaltet werden kann und sprechen Politikempfehlungen aus. Grundlage f\u00fcr diese Arbeit ist ein von uns entwickeltes Kriterien- und Indikatorenset, mit dem wir die Nachhaltigkeit von KI bewerten. Unser Ziel ist es, Organisationen f\u00fcr die Nachhaltigkeit ihrer KI-Systeme zu sensibilisieren und ihnen Tools an die Hand zu geben, mit denen sie Bericht erstatten und ihre KI-Systeme nachhaltiger gestalten k\u00f6nnen.",
+                "location": "Stresemannstra\u00dfe 128 - 130,10117 Berlin",
+                "name": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                "publicAllowanceEuro": {
+                    "from": 190001,
+                    "to": 200000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001948/31121",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-24T17:05:23.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/51/13/308383/Lobbyregister-Detailansicht-R001948-2024-06-24_17-05-23.pdf",
+        "validFromDate": "2024-06-24T17:05:23.000+02:00",
+        "version": 9
+    },
+    "registerEntryId": 31121,
+    "registerNumber": "R001948",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die BuReg ist gefordert, die EU Verordnung \u00fcber K\u00fcnstliche Intelligenz in das Deutsche Recht zu \u00fcberf\u00fchren. AlgorithmWatch setzt sich in diesem Kontext f\u00fcr eine KI-Aufsicht ein, die f\u00fcr Menschen in Deutschland niedrigschwellig erreichbar ist sowie f\u00fcr ein nationales Verbot f\u00fcr den Einsatz biometrischer Fernidentifizierungssysteme im \u00f6ffentlichen Raum. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004861",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a3/51/308377/Stellungnahme-Gutachten-SG2406180146.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-13"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0004861",
+                        "regulatoryProjectTitle": "KI-Verordnung Durchf\u00fchrungsgesetz",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Stellungnahme zur \u00f6ffentlichen Anh\u00f6rung des Ausschuss f\u00fcr Digitales am 15. Mai 2024 zur nationalen Umsetzung der KI-Verordnung\r\n13. Mai 2024\r\nKo-Autor*innen: Kilian Vieth-Ditlmann, stv. Teamleiter Policy & Advocacy, AlgorithmWatch,\r\nPia Sombetzki, Policy & Advocacy Managerin, AlgorithmWatch\r\nUnsere Empfehlungen in K\u00fcrze\r\n\u25cf Die nationale Aufsicht z\u00fcgig koordinieren und aufbauen sowie unabh\u00e4ngig und\r\nschlank aufstellen; dabei vielf\u00e4ltige Expertise einbeziehen, einen KI-Beirat\r\nschaffen und ein effektives Beschwerdesystem aufsetzen.\r\n\u25cf Verbote f\u00fcr den Einsatz biometrischer Fernidentifikationssysteme im \u00f6ffentlich\r\nzug\u00e4nglichen Raum ohne Einschr\u00e4nkungen beibehalten und im\r\nDurchf\u00fchrungsgesetz konkretisierend ausformulieren.\r\n\u25cf Ein nationales KI-Transparenzregister f\u00fcr die \u00f6ffentliche Hand aufbauen, das die\r\nbegrenzten Informationen in der EU-Datenbank der Hochrisiko-KI-Systeme\r\numfassend erg\u00e4nzt.\r\n\r\nKontext\r\nDer Rat der Europ\u00e4ischen Union beschlie\u00dft die KI-Verordnung (KI-VO) voraussichtlich am\r\n21. Mai 2024. Die Umsetzungsfristen sind knapp, die Anforderungen 1 komplex. Daher\r\nbereiten die EU-Mitgliedsstaaten bereits jetzt die Umsetzung der KI-Verordnung ins\r\nnationale Recht vor \u2013 so auch die deutsche Bundesregierung.\r\nAlgorithmWatch hat die Entstehung der KI-Verordnung von Beginn an aktiv begleitet und\r\nzu dem Gesetzgebungsprozess Stellung genommen:\r\n- Positionspapier nach Ver\u00f6ffentlichung des Kommissionsentwurfs (August 2021):\r\nhttps://algorithmwatch.org/en/eu-ai-act-consultation-submission-2021/\r\n- Zivilgesellschaftliches Statement von \u00fcber 120 Organisationen (November 2021):\r\nhttps://algorithmwatch.org/de/grundrechte-ins-zentrum-der-ki-verordnung/\r\n- Begleitung des Verhandlungsprozesses (April 2022):\r\nhttps://algorithmwatch.org/de/forderungen-artificial-intelligence-act-eu/ &\r\n- Reaktion auf den Entwurfbericht (Mai 2022):\r\nhttps://algorithmwatch.org/de/entwurfsbericht-zum-ai-act/\r\n- Stellungnahme im Auschuss f\u00fcr Digitales des Bundestags (September 2022):\r\nhttps://algorithmwatch.org/de/stellungnahme-digitalausschuss-bundestag-aiact-2\r\n022/\r\n- Empfehlungen zur Regulierung von GPAI in der KI-VO (September 2023):\r\nhttps://algorithmwatch.org/de/der-ai-act-und-general-purpose-ai/\r\n\r\nMit der Verabschiedung der KI-VO erkennt die EU an, dass der Einsatz von K\u00fcnstlicher\r\nIntelligenz (KI) unsere Grundrechte, Rechtsstaatlichkeit und demokratische Prozesse\r\ngef\u00e4hrden kann. Und dass es Regulierung braucht, um sie zu sch\u00fctzen. Dazu geh\u00f6rt,\r\ndass besonders sch\u00e4dliche KI-Systeme, die mit unseren demokratischen Gesellschaften\r\nunvereinbar sind, verboten werden m\u00fcssen.\r\nViele Aspekte sind am finalen Kompromiss dennoch nicht zufriedenstellend. Vor allem\r\nmit Blick auf den wirksamen Schutz von Grundrechten, bestehen eine Reihe von\r\ngravierenden Defiziten.\r\nDie kommende Um- und Durchsetzung der KI-VO auf EU-Ebene und in den\r\nMitgliedsstaaten bietet die Chance, einige L\u00fccken und Unklarheiten zu beseitigen und\r\nf\u00fcr mehr Grundrechtsschutz zu sorgen. Im Folgenden gehen wir auf die aus unserer\r\nSicht wichtigsten Fragen zur nationalen Ausgestaltung der KI-VO ein.\r\n\r\nFragen 1 und 8 werden zusammengefasst beantwortet:\r\n1 Wie muss die nationale Aufsicht aufgestellt sein, um eine m\u00f6glichst koh\u00e4rente,\r\nschlanke Governance zu gew\u00e4hrleisten? Wie gelingt uns trotz sektoraler\r\nZust\u00e4ndigkeiten und f\u00f6deraler Aufteilung der vielzitierte One-Stop-Shop? Welche\r\ngenauen Aufgaben sollte die Aufsicht \u00fcbernehmen?\r\n8 Welche gesetzlichen und politischen Ma\u00dfnahmen sind notwendig, um die\r\nZusammenarbeit zwischen den zust\u00e4ndigen Beh\u00f6rden in Deutschland und den\r\nEinrichtungen auf EU-Ebene (insbesondere AI Office, AI Board, Advisory Forum und\r\nScientific Panel) schlagkr\u00e4ftig und effizient aufzustellen und wie l\u00e4sst sich\r\ngew\u00e4hrleisten, dass zivilgesellschaftliche und interdisziplin\u00e4re wissenschaftliche\r\nExpertise bei der Auslegung, Konkretisierung, Umsetzung und Weiterentwicklung\r\ndes AI Acts substantiell Ber\u00fccksichtigung finden?\r\nNach Inkrafttreten der KI-Verordnung hat die Bundesregierung 12 Monate Zeit, die\r\nnationale Aufsicht in Deutschland aufzustellen. Es bleibt der Bundesregierung also nicht\r\nviel Zeit, diese komplexe Aufgabe zu erf\u00fcllen. Die Kommission hat au\u00dferdem bereits den\r\nWunsch ge\u00e4u\u00dfert, dass die Mitgliedstaaten bis Ende dieses Jahres zust\u00e4ndige Stellen\r\nbenennen, um die EU-weite Umsetzung der KI-Verordnung z\u00fcgig und koordiniert\r\nvoranzubringen. Die geregelten Verbote gelten bereits nach sechs Monaten. Damit\r\nbeispielsweise Beschwerden bearbeitet werden k\u00f6nnen, wenn die neuen Regeln nicht\r\neingehalten werden, braucht es daher auch m\u00f6glichst fr\u00fch auf nationaler Ebene ein\r\nkoordiniertes und abgestimmtes Vorgehen.\r\nDie Ressorts und die Beh\u00f6rden, die zentrale und insbesondere koordinierende\r\nAufgaben \u00fcbernehmen sollen, m\u00fcssen sich daher dringend abstimmen. Ebenso sollten\r\nVertreter*innen aus zivilgesellschaftlichen Organisationen und\r\nVerbrauchersch\u00fctzer*innen bereits jetzt in die aktuellen politischen Erw\u00e4gungen\r\neinbezogen werden, damit konkrete Vorschl\u00e4ge dazu, wie nationale Aufsichtsstrukturen\r\naussehen sollten, nicht erst sp\u00e4t im Prozess Geh\u00f6r finden und potenziell weniger\r\nWirkung entfalten k\u00f6nnen, als die von Unternehmen.\r\nZu den Aufsichtsstrukturen gibt die KI-Verordnung, insbesondere Artikel 70 der\r\nKI-Verordnung, lediglich grobe Leitlinien vor. Die Liste der Aufgaben und Befugnisse im\r\nKontext der nationalen Aufsicht ist umfassend. Eine koh\u00e4rente und klare Governance\r\nmuss dabei dennoch das Ziel sein. Die zuk\u00fcnftige Aufsicht muss auf den Kompetenzen\r\nund Erfahrungen der bestehenden Markt\u00fcberwachung aufbauen; es darf keine\r\nDoppelstrukturen geben.\r\nWie bei der nationalen Digitale-Dienste-Koordinierungsstelle, sollte allerdings\r\nsichergestellt werden, dass insbesondere auch Einzelpersonen, die eine\r\nBeschwerde einreichen wollen, eine zentrale Kontaktstelle aufsuchen k\u00f6nnen, die\r\n\u00fcber das gesamte Verfahren ansprechbar bleibt. Die Anforderungen daran, wie ein\r\nsolches Verfahren ausgestaltet wird, sollten bereits im Gesetz grunds\u00e4tzlich geregelt\r\nwerden. Insbesondere sollten Kriterien und Indikatoren festgelegt werden, die in\r\nVerwaltungsvorschriften n\u00e4her definieren, woran sich ein effizientes und\r\nzug\u00e4ngliches Beschwerdeverfahren messen l\u00e4sst. Beispielsweise sollten\r\nBearbeitungs- und Beantwortungsfristen festgelegt werden. Wir empfehlen, dass\r\nBeschwerdef\u00fchrer*innen innerhalb von zehn Tagen \u00fcber den Verfahrensablauf\r\numfassend informiert werden, u.a. auch dar\u00fcber, welche weiteren Beh\u00f6rden in ihr\r\nBeschwerdeverfahren einbezogen wurden und von welcher Bearbeitungsdauer sie\r\nausgehen k\u00f6nnen.\r\nDie KI-Verordnung sieht vor, dass die nationalen Regierungen drei Monate nach\r\nInkrafttreten eine Liste von nationalen Beh\u00f6rden und \u00f6ffentlichen Stellen\r\nver\u00f6ffentlichen, deren Arbeit darauf zielt, die Grundrechte zu sch\u00fctzen, und diese der\r\nEurop\u00e4ischen Kommission mitteilt (Artikel 77 Abs. 1-2 KI-VO). Bei Beschwerden zu\r\nGrundrechts- und Verbraucherschutzfragen muss sichergestellt sein, dass in den\r\nBeschwerdeverfahren die Expertise der Stellen einbezogen wird, die f\u00fcr die\r\nBeratung in solchen F\u00e4llen zust\u00e4ndig sind, wie etwa der Antidiskriminierungsstelle\r\ndes Bundes. Grunds\u00e4tzlich sollte der Begriff der \u00f6ffentlichen Stellen in Artikel 77 KI-VO\r\nweit ausgelegt werden, sodass er z.B. auch Menschenrechts-, Verbraucherschutz- und\r\nUmweltschutzorganisationen umfasst. Denn durch den Einsatz von\r\nHochrisiko-KI-Systemen kann eine Vielfalt an Grundrechtsfragen entstehen, wof\u00fcr\r\nwiederum eine Vielfalt an Grundrechts-Expertise aus so vielen Themenfeldern und\r\nBetroffenengruppen wie m\u00f6glich verf\u00fcgbar sein sollte.\r\nDar\u00fcber hinaus haben diese Stellen konkrete Auskunftsrechte gegen\u00fcber\r\nKI-Entwickler*innen und KI-Anbietern. Auch wenn die Mandate unterschiedlich\r\nausfallen: Koordinierungsstelle, Markt\u00fcberwachungsbeh\u00f6rden und die Beh\u00f6rden,\r\ndie f\u00fcr die Einhaltung der Grundrechte zust\u00e4ndig sind, m\u00fcssen wirksam\r\nzusammenarbeiten, um wichtige Informationen zu bekommen.\r\nUm zu \u00fcberpr\u00fcfen, ob dieses komplexe Zusammenspiel zwischen Koordinierungsstelle,\r\nverschiedenen Beh\u00f6rden und Stellen angemessen funktioniert und die\r\nKoordinierungsstelle unabh\u00e4ngig agiert, sollte in einem Durchf\u00fchrungsgesetz\r\nfestgeschrieben werden, dass eine regelm\u00e4\u00dfige Evaluierung erfolgt. Es sollte\r\nau\u00dferdem evaluiert werden, wie teuer und wirksam eine Koordinierungsstelle im\r\nVergleich mit einer zentralen Aufsichtsbeh\u00f6rde w\u00e4re. Mittelfristig empfehlen wir,\r\ndie Kompetenzen in einer Digitalagentur zusammenzuf\u00fchren.\r\nZudem sollte ein KI-Beirat eingerichtet werden. Er w\u00fcrde daf\u00fcr sorgen, dass\r\nzivilgesellschaftliche und interdisziplin\u00e4re wissenschaftliche Expertise sowie die\r\nPerspektive Betroffener in die Arbeit der Koordinierungsstelle einflie\u00dft, um die\r\nKI-Verordnung auszulegen, zu pr\u00e4zisieren und weiterzuentwickeln.\r\nSolch ein KI-Beirat sollte die Koordinierungsstelle bei grunds\u00e4tzlichen Fragen der\r\nAnwendung und Durchsetzung der KI-Verordnung beraten, allgemeine Empfehlungen\r\nzur effektiven und einheitlichen Durchf\u00fchrung der Verordnung vorschlagen und\r\nwissenschaftliche, technische und gesellschaftspolitische Fragestellungen an die\r\nKoordinierungsstelle herantragen.\r\nMitglieder eines KI-Beirats sollten das Recht haben, Fragen an die Koordinierungsstelle\r\nund zust\u00e4ndige Beh\u00f6rden zu stellen. Nur dann kann der Beirat gut informierte\r\nEinsch\u00e4tzungen abgeben. Dar\u00fcber hinaus sollte die Unabh\u00e4ngigkeit des Beirats\r\nsichergestellt werden. Er muss sich eine eigene Gesch\u00e4ftsordnung geben k\u00f6nnen, die keiner Zustimmung eines Ministeriums oder einer Beh\u00f6rde bedarf. Er sollte dar\u00fcber\r\nhinaus eigenst\u00e4ndig Studien und Gutachten erstellen und beauftragen k\u00f6nnen. Die\r\nArbeit des Beirats sollte auch finanziell unterst\u00fctzt werden: Es br\u00e4uchte eine\r\nangemessen ausgestattete Gesch\u00e4ftsstelle sowie Aufwandsentsch\u00e4digungen f\u00fcr\r\nBeirats-Mitglieder, die im Haushalt eingeplant werden. Die Sitzungen eines solchen\r\nBeirats sollten grunds\u00e4tzlich \u00f6ffentlich stattfinden und offen sein f\u00fcr die Einbeziehung\r\nweiterer zivilgesellschaftlicher Akteure und Verbrauchersch\u00fctzer, die nicht selbst als\r\nMitglieder im Beirat vertreten sind.\r\nWie beim Digitale-Dienste-Gesetz sollte ein Forschungsetat eingef\u00fchrt werden, der\r\nunabh\u00e4ngige Forschung durch Wissenschaft und Zivilgesellschaft unterst\u00fctzt. Damit ein\r\nsolcher Forschungsetat seine beabsichtigte Wirkung entfalten k\u00f6nnte, m\u00fcsste er\r\nangemessen hoch ausfallen.\r\n\r\nFragen 3 und 17 werden zusammengefasst beantwortet:\r\n3 Bei der biometrischen Fernidentifizierung im \u00f6ffentlichen Raum er\u00f6ffnet der AI\r\nAct die M\u00f6glichkeit des Nachsch\u00e4rfens der EU-weiten Mindeststandards. Sowohl\r\nf\u00fcr Echtzeit-Fernidentifizierungssysteme als auch f\u00fcr nachtr\u00e4gliche biometrische\r\nFernidentifizierung im \u00f6ffentlichen Raum k\u00f6nnen die Mitgliedstaaten in\r\nnationalen Rechtsgrundlagen auch strengere Regeln erlassen. Wie l\u00e4sst sich diese\r\nM\u00f6glichkeit f\u00fcr einen umfassenderen Grundrechtsschutz nutzen, wo k\u00f6nnten\r\nentsprechende Vorschriften im nationalen Recht verankert werden und wie\r\nsollten diese \u2013 etwa im Hinblick auf ein ausnahmsloses Verbot \u2013 inhaltlich\r\nausgestaltet sein?\r\n17 Welche konkrete Regelung empfehlen Sie f\u00fcr die nationale Umsetzung des\r\nAI-Acts, um die im Koalitionsvertrag enthaltene Position eines Verbots\r\nbiometrischer Fernidentifikationssysteme im \u00f6ffentlichen Raum umzusetzen f\u00fcr\r\ndie Sicherung der Grundrechte auf Privatsph\u00e4re sowie Datenschutz, auf\r\nNichtdiskriminierung, Meinungs- und Informationsfreiheit, auf Versammlungsund\r\nVereinigungsfreiheit sowie auf Rechtsstaatlichkeit und inwiefern ergibt es mit\r\nBlick auf die genannten Grundrechte Sinn, dabei hinsichtlich Echtzeit und\r\nretrograder Fernidentifikation zu unterscheiden, insbesondere da die\r\nUnterscheidung zwischen Echtzeit und retrograd unklar ist?\r\nNotwendigkeit eines Verbots biometrischer Fernidentifizierungssysteme\r\nDie automatisierte Fernidentifizierung von Personen anhand von biometrischen Daten\r\nwie dem Gesicht, dem Gang oder der Stimme im \u00f6ffentlich zug\u00e4nglichen Raum\r\nerm\u00f6glicht eine biometrische Massen\u00fcberwachung. Sie steht im Kern mit\r\nGrundrechten wie der Privatsph\u00e4re, der informationellen Selbstbestimmung und der\r\nVersammlungsfreiheit sowie grundlegenden rechtsstaatlichen Prinzipien in Konflikt.\r\nDas anlasslose, unterschiedslose oder stichprobenartige Beobachten, Verfolgen und\r\nAnalysieren von Menschen anhand ihrer biometrischen Merkmale, insbesondere dem\r\nGesicht, mit automatisierter Gesichtserkennung, schafft \u00dcberwachungsm\u00f6glichkeiten,\r\ndie sonst zwar theoretisch, nicht aber praktisch realisierbar waren. Der Eingriff in Grundrechte bekommt eine neue Qualit\u00e4t und ist mit einer herk\u00f6mmlichen\r\nVideo\u00fcberwachung nicht zu vergleichen. Video- und Fotoaufnahmen k\u00f6nnen\r\nautomatisiert mit Bilddatenbanken abgeglichen, Personen \u00fcber mehrere Videokameras\r\nhinweg automatisiert verfolgt und Verhaltens- und Bewegungsprofile erstellt werden.5\r\nWo bisher einzelne Personenkontrollen m\u00f6glich sind, k\u00f6nnen mit KI zehntausende oder\r\nhunderttausende Menschen erfasst werden.\r\nVon einer automatisierten Gesichtserkennung werden wir alle wie wandelnde QR-Codes\r\nbehandelt, k\u00f6nnen erkannt, gespeichert und abgeglichen werden, ohne es zu merken\r\noder einen Einfluss darauf zu haben. Die Anonymit\u00e4t im \u00f6ffentlichen Raum wird\r\ndadurch ausgehebelt. Die Erwartung, sich unerkannt zu bewegen, ist aber ein wichtiges\r\nVorfeld-Grundrecht, \u00e4hnlich dem Datenschutz, um viele andere Grundrechte aus\u00fcben\r\nzu k\u00f6nnen. Wenn Menschen im \u00f6ffentlichen Raum jederzeit identifiziert und \u00fcberwacht\r\nwerden k\u00f6nnen, verletzt dies nicht nur ihr Recht auf Privatsph\u00e4re, sondern hat auch eine\r\nabschreckende Wirkung (sog. \u201echilling effect\u201c). Die Angst, erkannt und gespeichert zu\r\nwerden, h\u00e4lt sie vom Wahrnehmen anderer Grundrechte wie der Meinungs\u00e4u\u00dferungsoder\r\nVersammlungsfreiheit ab, zum Beispiel auf dem Weg zu einer gewerkschaftlichen\r\nKundgebung oder einer Demonstration, zu Lokalen, die Hinweise auf ihre Religion,\r\npolitische Gesinnung oder sexuelle Orientierung geben k\u00f6nnten oder zu einem\r\nGespr\u00e4ch mit einer Journalist*in. All diese Grundrechte sind somit auch f\u00fcr die freie\r\nMeinungsbildung in einer demokratischen Gesellschaft zentral.\r\nBiometrische \u00dcberwachung betrifft auch das Recht auf Gleichbehandlung.\r\nGrunds\u00e4tzlich gilt zwar: Je besser die biometrische Fernidentifizierung funktioniert, desto\r\ngef\u00e4hrlicher wird sie. Dennoch besteht auch eine Gefahr der Diskriminierung in der\r\nbestehenden hohen Fehleranf\u00e4lligkeit der Erkennungssysteme, insbesondere bei\r\nPersonengruppen mit bestimmten Eigenschaften, die in Datens\u00e4tzen unterrepr\u00e4sentiert\r\nsind. Hinzu kommt die Gefahr der gezielten Diskriminierung, die genau den Zweck\r\nverfolgt, bestimmte Personen oder Gruppen anhand biometrischer Merkmale\r\nherauszufiltern. F\u00fcr bereits benachteiligte oder von Diskriminierung betroffene\r\nPersonen und Gruppen sowie f\u00fcr politische Aktivist*innen zeigen sich die Auswirkungen\r\nvon biometrischer Massen\u00fcberwachung oft in verst\u00e4rkter Form.\r\nVerbot biometrischer Echtzeit-Fernidentifizierung f\u00fcr Strafverfolgung und Polizei\r\nAngesichts des enormen Sch\u00e4digungspotenzials f\u00fcr Grundrechte und Demokratie\r\nverbietet die KI-Verordnung die biometrische Echtzeit-Fernidentifizierung in \u00f6ffentlich\r\nzug\u00e4nglichen R\u00e4umen durch Polizei und Strafverfolgungsbeh\u00f6rden grunds\u00e4tzlich. Artikel\r\n5 Absatz 1 Buchstabe h untersagt \u201edie Verwendung biometrischer\r\nEchtzeit-Fernidentifizierungssysteme in \u00f6ffentlich zug\u00e4nglichen R\u00e4umen zu\r\nStrafverfolgungszwecken\u201c (vgl. auch Erw\u00e4gungsgrund 32f). Die KI-VO stellt also klar:\r\nVideo\u00fcberwachung ist in der Bundesrepublik weit verbreitet, sei es im \u00d6PNV, in Superm\u00e4rkten\r\noder in Innenst\u00e4dten. \r\nOhne explizite gesetzliche Grundlage im nationalen Recht liegt keine Erlaubnis f\u00fcr\r\nden Einsatz biometrischer Erkennungssysteme im \u00f6ffentlichen Raum f\u00fcr Zwecke\r\nder Strafverfolgung und Gefahrenabwehr vor.\r\nWenn nun \u00fcber strengere Regeln oder Einschr\u00e4nkungen diskutiert wird, KI-basierte\r\nGesichtserkennungssystem im \u00f6ffentlichen Raum einzusetzen, impliziert das, dass sie\r\ngrunds\u00e4tzlich f\u00fcr Zwecke der Strafverfolgung und Gefahrenabwehr eingesetzt werden\r\nsollen. Das sollte auf Grund der ausgef\u00fchrten Gefahren f\u00fcr Grundrechte und\r\nRechtsstaatlichkeit aber ausnahmslos verhindert werden. Denn die Technologie ist in\r\neiner demokratischen Gesellschaft weder erforderlich noch verh\u00e4ltnism\u00e4\u00dfig. Daran\r\n\u00e4ndern auch \u00d6ffnungsklauseln nichts. Allein das Vorhandensein einer\r\nentsprechenden Infrastruktur im \u00f6ffentlichen Raum bringt die erw\u00e4hnten Chilling\r\nEffects mit sich, da Betroffene nie wissen k\u00f6nnen, ob und wann die biometrische\r\n\u00dcberwachung stattfindet. Das spricht gegen ein Verbot mit Ausnahmen, denn es\r\nerm\u00f6glicht die grundlegende Infrastruktur und diese Ausnahmen, ob und wann\r\nbiometrische Fernidentifizierung eingesetzt wird, sind f\u00fcr Menschen nicht\r\nnachvollziehbar.\r\nDiese Gefahren hat die aktuelle Bundesregierung bereits anerkannt und in ihrem\r\nKoalitionsvertrag festgelegt, dass biometrische Erkennung im \u00f6ffentlichen Raum\r\neuroparechtlich auszuschlie\u00dfen und der Einsatz von biometrischer Erfassung zu\r\n\u00dcberwachungszwecken abzulehnen ist. Die in der KI-Verordnung formulierten\r\nVerbote sollten daher absolut ausgelegt werden und keine gesetzlichen\r\nGrundlagen geschaffen werden, die selbst mit Einschr\u00e4nkungen leicht dazu f\u00fchren\r\nk\u00f6nnten, eine geschaffene Infrastruktur schleichend auszuweiten.\r\nGegenw\u00e4rtig existiert im deutschen Recht keine Gesetzesgrundlage f\u00fcr den Einsatz\r\nbiometrischer Fernidentifizierungssysteme durch Strafverfolgungsbeh\u00f6rden. Es l\u00e4sst\r\nsich derzeit allerdings beobachten, wie bestehende Befugnisse zweckentfremdet und als\r\nLegitimation f\u00fcr solche Eins\u00e4tze herangezogen werden.\r\nDazu geh\u00f6rt unter anderem die Rasterfahndung (\u00a7 98a Strafprozessordnung), die\r\ngegenw\u00e4rtig zumindest von einigen Strafverfolgungsbeh\u00f6rden als rechtliche Grundlage\r\nf\u00fcr den Einsatz biometrischer \u00dcberwachungssysteme herangezogen wird.\r\nRasterfahndung wurde auf Bundesebene 1992 gesetzlich geregelt. Die Rasterfahndung\r\nkonnte biometrische Gesichtserkennungssysteme noch gar nicht umfasst haben, da die\r\nKI-basierte Gesichtserkennungstechnik zum Zeitpunkt der Einf\u00fchrung der\r\nRechtsgrundlage noch gar nicht in der heutigen Funktionsweise existierte. Die Menge an\r\nbiometrischen Daten, die heute durch KI-Systeme automatisiert verarbeitet werden,\r\nh\u00e4tte sich der Gesetzgeber damals nicht tr\u00e4umen lassen. Auch der verfassungsrechtliche Wesentlichkeitsvorbehalt verbietet eine Auslegung bestehender\r\nGesetzesgrundlagen f\u00fcr derart grundrechtsinvasive und gef\u00e4hrliche Befugnisse.\r\nEine bestehende gesetzliche Grundlage f\u00fcr ein bestimmtes Ermittlungsinstrument kann\r\ndemnach nicht f\u00fcr neue biometrische \u00dcberwachungssysteme herangezogen bzw.\r\numgedeutet werden. Erst recht nicht, wenn neuere Datenverarbeitungsmethoden viel\r\ntiefer in unsere Grundrechte eingreifen und das Potenzial haben, unsere demokratische\r\nGesellschaft als Ganzes zu ver\u00e4ndern. Das Bundesverfassungsgericht hat bereits f\u00fcr die\r\ngro\u00dffl\u00e4chige, automatisierte Verarbeitung von Kfz-Kennzeichen durch Polizei und\r\nStrafverfolgungsbeh\u00f6rden hohe verfassungsrechtliche Anforderungen aufgestellt. Und\r\ndort ging es nicht um besonders sensible biometrische Daten wie Gesichter, sondern\r\num Kfz-Kennzeichen. Die automatisierte Erhebung und Auswertung von \u00f6ffentlich\r\nzug\u00e4nglichen personenbezogenen Daten stellt nach Rechtsprechung des\r\nBundesverfassungsgerichts immer einen Eingriff in das Grundrecht auf informationelle\r\nSelbstbestimmung dar.\r\nAuch ein j\u00fcngeres Verfassungsurteil \u00fcber die automatisierte Datenanalyse f\u00fcr die\r\nvorbeugende Bek\u00e4mpfung von Straftaten stellt mit Verweis auf das Grundrecht auf\r\ninformationelle Selbstbestimmung klar, dass automatische Abgleiche biometrischer\r\nDaten besonders voraussetzungsvoll sind. Die Mindestanforderungen f\u00fcr biometrische\r\nFernidentifizierung, wie sie in der KI-VO beschrieben werden, sind demnach zu\r\nunspezifisch. Die Einsatzzwecke und die Abgrenzung zwischen Echtzeit-Verarbeitung\r\nund nachtr\u00e4glicher Verarbeitung sind zu unbestimmt. Und weder die\r\nReferenzdatenbanken gesuchter Personen, noch die zu durchsuchenden Bild- oder\r\nVideodaten (etwa hinsichtlich zeitlicher und r\u00e4umlicher Beschr\u00e4nkung) sind hinreichend\r\nkonkretisiert.\r\nEs l\u00e4sst sich zusammenfassen: Selbst wenn der Gesetzgeber eine Rechtsgrundlage f\u00fcr\r\nden Einsatz biometrischer Fernidentifizierungssysteme in Echtzeit im \u00f6ffentlich\r\nzug\u00e4nglichen Raum zu Strafverfolgungszwecken schaffen wollte, entspr\u00e4chen die\r\nVerfahrensanforderungen nach KI-Verordnung nicht den in Deutschland geltenden\r\nverfassungsrechtlichen Mindeststandards.\r\nEine explizites Verbot, biometrische Fernidentifizierungssysteme im \u00f6ffentlichen Raum\r\neinzusetzen, w\u00fcrde die gegenw\u00e4rtigen Rechtsunklarheiten beseitigen.\r\nVerbot nachtr\u00e4glicher biometrischer Fernidentifizierung\r\nDer Einsatz s\u00e4mtlicher nicht ausdr\u00fccklich verbotener biometrischer\r\nFernidentifizierungssysteme, unabh\u00e4ngig davon wer sie verwendet, f\u00e4llt nach KI-VO\r\nunter die Hochrisiko-Anwendungen (Art. 26 Abs. 10 in Verbindung mit Anhang III, Absatz\r\n1, Buchstabe a KI-VO). Das schlie\u00dft auch solche Systeme mit ein, die nicht in Echtzeit,\r\nsondern nachtr\u00e4glich Gesichter in Videodaten oder Fotomaterial identifizieren.\r\nEine Unterscheidung zwischen Echtzeit-Systemen und Systemen zur\r\nnachtr\u00e4glichen Fernidentifizierung ist jedoch mit Blick auf die\r\nGrundrechtsauswirkungen unlogisch. Erstens ist im Gesetzestext nicht klar definiert,\r\nab welchem Zeitversatz Echtzeit-Identifizierung zu nachtr\u00e4glicher Identifizierung wird.\r\nZweitens bergen beide Formen der biometrischen Erkennung dasselbe\r\nMissbrauchspotenzial, dieselben Abschreckungseffekte, und dasselbe Risiko f\u00fcr\r\ndiskriminierende \u00dcberwachung (siehe oben). Warum allein wegen einer Zeitverz\u00f6gerung\r\nvon einem geringeren Eingriff in Grundrechte ausgegangen werden sollte, bleibt unklar.\r\nIm Gegenteil schafft die nachtr\u00e4gliche Fernidentifizierung zus\u00e4tzliche Gefahren: Die\r\nZeitverz\u00f6gerung erm\u00f6glicht komplexere und damit tiefergehende Auswertungen und\r\ner\u00f6ffnet das Risiko, dass Daten f\u00fcr neue Zwecke ausgewertet werden, die urspr\u00fcnglich\r\nnoch gar nicht der Erhebungsgrund waren. Es entsteht ggf. ein Anreiz, Videoaufnahmen\r\nlange zu speichern. Das schafft zus\u00e4tzliche Einsch\u00fcchterungseffekte, wenn wir nicht\r\nwissen, ob und wann Videoaufnahmen oder anderes Datenmaterial in Zukunft mit\r\nKI-Systemen ausgewertet werden k\u00f6nnen. Die KI-basierte Analyse von biometrischen\r\nDaten ist ein elaboriertes technisches Verarbeitungsverfahren und keine technische\r\nArbeitshilfe f\u00fcr ein manuelles Verfahren.\r\nEin umfassendes nationales Verbot biometrischer Fernidentifizierung im\r\n\u00f6ffentlich zug\u00e4nglichen Raum f\u00fcr Strafverfolgungszwecke muss daher im Sinne\r\neines wirksamen Grundrechtsschutzes s\u00e4mtliche biometrischen\r\nErkennungssysteme unabh\u00e4ngig vom Zeitpunkt der Verwendung umschlie\u00dfen.\r\nDiese M\u00f6glichkeit bietet die KI-VO ausdr\u00fccklich (Artikel 26, Absatz 10, Unterabsatz 7\r\nKI-VO). Erw\u00e4gungsgrund 95 KI-VO betont zudem, dass nachtr\u00e4gliche Gesichtserkennung\r\nkeinesfalls das Verbot von Echtzeit-Fernidentifizierung unterlaufen darf. Gem\u00e4\u00df Artikel\r\n10 der Richtlinie \u00fcber Datenschutz in der Strafverfolgung (EU Richtlinie 2016/680)\r\nk\u00f6nnen alle EU Mitgliedstaaten weiterf\u00fchrende Regelungen bei der Verarbeitung\r\nbiometrischer Daten durch Polizei und Strafverfolgung erlassen.\r\nEs gilt aber auch hier die gleiche rechtliche Ausgangslage: Jede Form der biometrischen\r\nFernidentifizierung bedarf einer eindeutigen gesetzlichen Grundlage. Solange diese nicht\r\ngeschaffen wird, herrscht keine Erlaubnis. Bestehende Rechtsgrundlagen f\u00fcr\r\nautomatisierte Gesichtserkennung heranzuziehen ist unzul\u00e4ssig und missachtet das\r\nBestimmtheitsgebot (siehe oben). Polizei und Strafverfolgung ben\u00f6tigen f\u00fcr ein solch\r\neingriffsintensives Instruments immer einer hinreichend bestimmten gesetzlichen\r\nRegelung. Sie kann nicht auf bereits vorhandenen, allgemeineren Normen basieren.\r\n\r\nVerbot f\u00fcr Private\r\nDie KI-VO erkennt die Nutzung von biometrischen Fernidentifikationsystemen durch\r\nprivate Akteure in \u00f6ffentlich zug\u00e4nglichen R\u00e4umen, sei es in Echtzeit oder nachtr\u00e4glich,\r\nlaut Erw\u00e4gungsgrund 39 als unzul\u00e4ssig an. Die KI-VO beinhaltet allerdings kein\r\nausdr\u00fcckliches Verbot von automatisierter Fernidentifizierung in \u00f6ffentlich zug\u00e4nglichen\r\nR\u00e4umen durch private Stellen (z.B. Betreiber von Einkaufszentren oder Sportanlagen)\r\nund \u00f6ffentliche Stellen au\u00dferhalb der Polizei (z.B. kommunale Beh\u00f6rden, Schulen oder\r\nUniversit\u00e4ten), sei es in Echtzeit oder nachtr\u00e4glich, da die EU\r\nDatenschutzgrundverordnung 2016/679 dies schon untersagt.\r\nEine informierte Einwilligung oder ein berechtigtes Interesse kann bei biometrischer\r\nFernidentifizierung durch Private im \u00f6ffentlichen Raum nicht gegeben sein. Und es kann\r\nstrukturell aufgrund der Vielzahl an potenziell betroffenen Personen bei biometrischer\r\nFernidentifizierung nie angenommen werden. Keine private Stelle kann aus der\r\nAnwesenheit in einem \u00f6ffentlichen Raum ein Einverst\u00e4ndnis in die Datenerhebung\r\nherleiten.\r\nZusammenfassend l\u00e4sst sich Folgendes festhalten:\r\n\u2794 Gem\u00e4\u00df der EU KI-Verordnung, insbesondere Erw\u00e4gungsgrund 37, ist die\r\nVerwendung von biometrischen Echtzeit-Fernidentifizierungssystemen in\r\n\u00f6ffentlich zug\u00e4nglichen R\u00e4umen zu Zwecken der Strafverfolgung und der\r\nGefahrenabwehr verboten.\r\n\u2794 Im Einklang mit Artikel 10 der Richtlinie \u00fcber Datenschutz in der Strafverfolgung\r\n(EU Richtlinie 2016/680) ist der Einsatz von Systemen zur nachtr\u00e4glichen\r\nbiometrischen Fernidentifizierung in \u00f6ffentlich zug\u00e4nglichen R\u00e4umen durch\r\nPolizei und Strafverfolgung verboten.\r\n\u2794 Basierend auf Artikel 9 der Datenschutz-Grundverordnung ist der Einsatz von\r\nbiometrischen Fernidentifizierungssystemen in \u00f6ffentlich zug\u00e4nglichen R\u00e4umen,\r\nsowohl in Echtzeit als auch nachtr\u00e4glich, durch private und \u00f6ffentliche Stellen\r\nverboten.\r\nDennoch bestehen Rechtsunklarheiten und Umsetzungsdefizite in der Praxis. Ein\r\nDurchf\u00fchrungsgesetz sollte diese ausr\u00e4umen, indem darin die geltenden Verbote noch\r\neinmal konkretisierend ausformuliert werden.\r\n\r\nWie muss die Umsetzung des AI Acts in Deutschland gestaltet werden, um\r\neinerseits die Sicherheit und B\u00fcrgerrechte zu wahren und andererseits ein\r\ninnovationsfreundliches Umfeld zu schaffen, das Innovationskraft und\r\nprivatwirtschaftlichen Wettbewerb auf dem deutschen Markt ideal unterst\u00fctzt?\r\n\r\nSicherheit und B\u00fcrgerrechte stehen nicht im Widerspruch zu einem\r\ninnovationsfreundlichen Umfeld, sondern sind seine Grundlage. Entwicklungen, die\r\nunserer Sicherheit und unseren B\u00fcrgerrechten entgegenstehen, sind keine\r\nInnovationen, sondern Gefahren. Die Frage, die sich stellt, ist: Wie kann es Unternehmen\r\nso leicht wie m\u00f6glich gemacht werden, die Auflagen aus der KI-Verordnung einzuhalten?\r\nDie Antwort sind klare und verst\u00e4ndliche Vorgaben, eine effiziente Aufsichtsstruktur und\r\nBeratungsangebote durch die Koordinierungsstelle.\r\nAuch Unternehmen sollten, ebenso wie Individuen, klare Ansprechpartner*innen haben\r\nund nicht mit einem Zust\u00e4ndigkeitswirrwarr konfrontiert sein. Das schafft\r\nRechtssicherheit, was wiederum dazu f\u00fchrt, dass Unternehmen schneller\r\nEntscheidungen dar\u00fcber treffen k\u00f6nnen, welche Produkte sie entwickeln und anbieten\r\nm\u00f6chten, und minimiert ihre Kosten.\r\nKlare und verst\u00e4ndliche Vorgaben, die auch eingehalten werden k\u00f6nnen, f\u00fchren zu\r\neinem \u201elevel playing field\u201c der Unternehmen untereinander und belohnen nicht die \u201ebad\r\nactors\u201c.\r\nZudem sollte die Aufsichtsbeh\u00f6rde eine Beratung f\u00fcr Unternehmen anbieten, die es\r\nihnen erleichtert, gesetzeskonforme Produkte zu entwickeln und anzubieten.\r\n\r\n18) Wie sollte und k\u00f6nnte ein nationales KI-Transparenzregister \u00fcber den Bereich\r\nder Hoch Risiko Systeme hinausgehen, um wirksame Transparenz im Sinne des\r\nVerbraucherschutzes (Nachvollziehbarkeit, Beschwerdebasis etc.) herzustellen\r\nund insbesondere beim Einsatz von KI-Systemen durch die \u00f6ffentliche Hand dem\r\nerh\u00f6hten Anspruch an Grundrechtsschutz und bestehende Abh\u00e4ngigkeiten\r\ngerecht zu werden und wie sollte generell ein solches Transparenzregister\r\norganisiert sein, hinsichtlich:\r\n\u00b7 wer sollte es aufbauen und wen dabei einbeziehen\r\n\u00b7 wie sollte es aufgebaut werden\r\n\u00b7 wer sollte es verwalten\r\n\u00b7 welche Informationen sollte es enthalten?\r\nTransparenz und Nachvollziehbarkeit ist nicht nur im Hochrisikobereich gem\u00e4\u00df KI-VO\r\nvon Nutzen, sondern sollte f\u00fcr alle automatisierten Entscheidungssysteme von\r\n\u00f6ffentlichen Stellen gelten. Die geplante EU-Datenbank (Art. 71 KI-VO), in der die\r\nNutzung von Hochrisiko-KI-Systemen von \u00f6ffentlichen Stellen gelistet werden sollen,\r\nwird nur wenige der insgesamt eingesetzten Systeme auff\u00fchren. Auf nationaler Ebene\r\nsollte daher nachgebessert und ein nationales KI-Transparenzregister f\u00fcr die gesamte\r\n\u00f6ffentliche Hand eingef\u00fchrt werden. Da die KI-VO ein generelles KI-Register nicht regelt,\r\nkann sie in diesem Bereich auch keine harmonisierende Wirkung haben. Die\r\nNiederlande haben bereits ein nationales KI-Register f\u00fcr die \u00f6ffentliche Verwaltung\r\neingef\u00fchrt.\r\nEin nationales KI-Transparenzregister sollte zentral koordiniert und standardisiert\r\nsein. Um eine Doppelstruktur zu vermeiden, sollte es \u00fcber eine Schnittstelle zur EU\r\nDatenbank der Hochrisiko-Systeme verf\u00fcgen. Damit steht es nicht im Konflikt mit der\r\nEU-Datenbank, sondern erg\u00e4nzt und vervollst\u00e4ndigt den \u00dcberblick \u00fcber staatliche\r\nKI-Eins\u00e4tze.\r\nEin nationales KI-Register f\u00fcr die \u00f6ffentliche Verwaltung kann nicht nur Transparenz f\u00fcr\r\nBetroffene herstellen und Verantwortlichkeit erzeugen, sondern auch positive Anreize\r\nf\u00fcr Beh\u00f6rden schaffen: vorhandene Anwendungen werden sichtbar und auffindbar,\r\nineffizienten Parallelentwicklungen lassen sich viel leichter vermeiden. Aktuell wird\r\nbereits durch das Beratungszentrum f\u00fcr K\u00fcnstliche Intelligenz (BeKI) des BMI ein\r\n\u201eMarktplatz der KI-M\u00f6glichkeiten\u201c entwickelt. Er soll Ministerien 15 und Beh\u00f6rden die\r\nPotenziale von KI-Anwendungen aufzeigen und \u201eTransparenz \u00fcber die\r\nKI-Anwendungslandschaft und Erfahrungswerte in den Ressorts\u201c liefern.\r\nWichtig ist, dass die Angaben \u00fcber KI-Anwendungen in Beh\u00f6rden \u00fcber den in der KI-VO\r\ngeforderten Datenkranz (vgl. Anhang VIII der KI-VO) hinausgehen. Denn wirksame\r\nTransparenz wird durch die dort geforderten sp\u00e4rlichen Informationen noch nicht\r\nhinreichend sichergestellt. Ziel sollte sein, Nachvollziehbarkeit f\u00fcr alle Menschen und\r\neine effektive Grundlage f\u00fcr Nachfragen und Beschwerden sicherzustellen.\r\nEin umfassender Transparenzbericht sollte alle ethisch relevante Auswirkungen und\r\ndie ergriffenen Gegenma\u00dfnahmen detailliert auff\u00fchren. Dazu z\u00e4hlt u.a.:\r\n- Definition des Problems, das das KI-System l\u00f6sen soll\r\n- Konkrete Zieldefinition (z.B. Effizienz- oder Leistungsverbesserungen,\r\nEntscheidungsunterst\u00fctzung, Automatisierung von Aufgaben, Kostensenkung\r\nusw.)\r\n- Ethische und rechtliche Anforderungen an das System (Datenschutz,\r\nIT-Sicherheit, Fairness, Erkl\u00e4rbarkeit, etc.)\r\n- Transparenz \u00fcber s\u00e4mtliche Grundrechtsauswirkungen\r\n- Transparenz \u00fcber die Umweltvertr\u00e4glichkeit (Energieverbrauch,\r\nTreibhausgasemissionen, indirekter Ressourcenverbrauch, etc.)\r\n- Benennung der Verantwortlichen f\u00fcr Konzeption und Implementierung.\r\nDie Listung von KI-Anwendungen in einem nationalen KI-Transparenzregister sollte\r\nzudem verpflichtend sein. So wird Verbindlichkeit bez\u00fcglich der einzutragenden Daten\r\ngeschaffen. Freiwillige Eintr\u00e4ge in das Register werden zwangsl\u00e4ufig l\u00fcckenhaft bleiben.\r\nDamit w\u00e4re das Ziel, Synergien zu nutzen und vertrauensbildende Transparenz f\u00fcr\r\nBetroffene zu gew\u00e4hrleisten, verfehlt.\r\n\r\nAlle Ressorts sollten in die Entwicklung und Umsetzung des KI-Transparenzregisters\r\neinbezogen werden. Bei der Entwicklung ist ein strukturierter Stakeholderdialog, der\r\nfr\u00fchzeitig alle relevanten Interessengruppen einbezieht, von gro\u00dfem Nutzen.\r\nAlgorithmWatch ist eine Menschenrechtsorganisation mit Sitz in Berlin und Z\u00fcrich, die\r\nsich mit den gesellschaftlichen Auswirkungen von algorithmischen\r\nEntscheidungssystemen (ADM) und K\u00fcnstlicher Intelligenz (KI) befasst. Wir setzen uns\r\ndaf\u00fcr ein, dass solche Technologien Menschenrechte, Demokratie und Nachhaltigkeit\r\nst\u00e4rken, statt sie zu schw\u00e4chen. Dazu tragen wir mit politischen Kampagnen,\r\nLobbyarbeit, journalistischen Recherchen, Forschung und Technikentwicklung bei.\r\n\r\nUnsere Webseite: https://algorithmwatch.org/\r\nKontakt zu den Autor*innen:\r\nKilian Vieth-Ditlmann, vieth-ditlmann@algorithmwatch.org\r\nPia Sombetzki, sombetzki@algorithmwatch.org\r\n"
+                        }
+                    },
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/3c/70/308379/Stellungnahme-Gutachten-SG2406190057.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-13"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0004861",
+                        "regulatoryProjectTitle": "KI-Verordnung Durchf\u00fchrungsgesetz",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Offener Brief: Menschenrechte sch\u00fctzen \u2013 Biometrische\r\nFernidentifizierung verbieten Berlin, 13. M\u00e4rz 2024\r\nSehr geehrte Abgeordnete des Deutschen Bundestages,\r\nheute, am 13. M\u00e4rz 2024, beschlie\u00dft das Europ\u00e4ische Parlament den Artificial Intelligence (AI) Act. Als\r\nerstes umfassendes Gesetz zur Regulierung K\u00fcnstlicher Intelligenz (KI) weltweit schafft der AI Act in\r\nder gesamten Europ\u00e4ischen Union einheitliche Regeln f\u00fcr die Entwicklung und den Einsatz von KI.\r\nDie finale Fassung des AI Acts verbietet biometrische \u00dcberwachung im \u00f6ffentlichen Raum zwar\r\ngrunds\u00e4tzlich, l\u00e4sst jedoch eine Vielzahl an Ausnahmen zu. Diese weitreichenden Ausnahmen f\u00fcr\r\nStrafverfolgung und Sicherheitsbeh\u00f6rden laden europaweit zum Ausbau \u00f6ffentlicher \u00dcberwachung\r\nein. Eine solche \u00dcberwachungsinfrastruktur f\u00fchrt dazu, dass Menschen unter dem st\u00e4ndigen Gef\u00fchl\r\nder Kontrolle ihre Freiheitsrechte nicht mehr ungehindert aus\u00fcben. Der Schutz von Menschenrechten\r\ndarf jedoch nicht unter Vorbehalt stehen. Insbesondere im aktuellen politischen Klima m\u00fcssen die\r\ndemokratischen Kr\u00e4fte gemeinsam die M\u00f6glichkeit des institutionellen Machtmissbrauchs\r\nminimieren. Deshalb gilt es nun, die im AI Act explizit vorgesehene M\u00f6glichkeit der nationalen\r\nVersch\u00e4rfung europ\u00e4ischer Regeln sowohl f\u00fcr Echtzeit- als auch f\u00fcr nachtr\u00e4gliche biometrische\r\nFernidentifizierung zu nutzen.\r\nWir fordern Sie als Abgeordnete des Deutschen Bundestages daher auf, jede Form der biometrischen\r\nFernidentifizierung in Deutschland zu verbieten!\r\nIm Koalitionsvertrag verpflichten sich die Regierungsparteien gleich an zwei Stellen, biometrische\r\n\u00dcberwachung in Deutschland zu verhindern. So hei\u00dft es, dass \u201e[b]iometrische Erkennung im\r\n\u00f6ffentlichen Raum\u201c europarechtlich auszuschlie\u00dfen sei, auch der \u201eEinsatz von biometrischer\r\nErfassung zu \u00dcberwachungszwecken\u201c wird explizit abgelehnt. Nachdem das europarechtliche Verbot\r\nbiometrischer \u00dcberwachung nun nicht vollst\u00e4ndig umzusetzen war, muss ein nationales Verbot das\r\nMittel der Wahl sein.\r\nDie Durchf\u00fchrung biometrischer Echtzeit-Fernidentifikation im \u00f6ffentlichen Raum \u00f6ffnet die T\u00fcr in\r\ndystopische Verh\u00e4ltnisse, in denen jeder Mensch bei jeder Bewegung im \u00f6ffentlichen Raum\r\npermanent identifizierbar und \u00fcberwachbar wird. \u00c4hnliches gilt auch f\u00fcr nachtr\u00e4gliche biometrische\r\nFernidentifikation, die ebenfalls die Bildung umfassender Personenprofile erm\u00f6glicht. Anonymit\u00e4t im\r\n\u00f6ffentlichen Raum ist eine der Grundvoraussetzungen f\u00fcr freie Meinungs\u00e4u\u00dferung und\r\ndemokratischen Protest. Insbesondere Angeh\u00f6rige marginalisierter Gruppen werden von der\r\nAus\u00fcbung ihrer Meinungs- und Demonstrationsfreiheit abgehalten, wenn sie Repressalien bef\u00fcrchten\r\nm\u00fcssen. Auch der Ampel-Koalitionsvertrag betont: \u201eDas Recht auf Anonymit\u00e4t sowohl im \u00f6ffentlichen\r\nRaum als auch im Internet ist zu gew\u00e4hrleisten.\u201c\r\nWir fordern Sie deshalb auf, sich f\u00fcr den Schutz der Menschen in Deutschland und das Recht auf ein\r\nLeben frei von Massen\u00fcberwachung und Kontrolle einzusetzen.\r\nMit freundlichen Gr\u00fc\u00dfen\r\nListe der Unterzeichnenden (alphabetisch sortiert):\r\nAlgorithmWatch\r\nAmnesty International\r\nAntidiskriminierungsverband Deutschland e.V.\r\nChaos Computer Club\r\nD64 \u2013 Zentrum f\u00fcr digitalen Fortschritt\r\nDachverband der Fanhilfen e.V.\r\nDeutscher Caritasverband e.V.\r\nDigitale Freiheit e.V.\r\nDigitale Gesellschaft e.V.\r\nForum InformatikerInnen f\u00fcr Frieden und gesellschaftliche Verantwortung (FIfF) e. V.\r\nHumanistische Union e.V.\r\nLOAD e.V. - Verein f\u00fcr liberale Netzpolitik\r\nnetzforma* e.V. - Verein f\u00fcr feministische Netzpolitik\r\nOpen Knowledge Foundation Deutschland e.V.\r\nSUPERRR Lab\r\nTopio e.V.\r\nWikimedia Deutschland e. V."
+                        }
+                    }
+                ],
+                "title": "KI-Verordnung Durchf\u00fchrungsgesetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "AGG",
+                        "title": "Allgemeines Gleichbehandlungsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/agg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "AlgorithmWatch setzt sich daf\u00fcr ein, Schutzl\u00fccken in Hinblick auf algorithmische Diskriminierung im Kontext der vorgesehenen Novellierung des Allgemeinen Gleichbehandlungsgesetz zu schlie\u00dfen. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004862",
+                "statements": [],
+                "title": "Novellierung des Allgemeinen Gleichbehandlungsgesetzes (AGG)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "AlgorithmWatch setzt sich daf\u00fcr ein, konkrete Regelungen zum verbesserten Schutz von Besch\u00e4ftigten zu schaffen, die sich auf verschiedene spezifische Verarbeitungssituationen beziehen und den Einzug algorithmischer Systeme in der Arbeitswelt konkret aufgreifen. \r\n",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    },
+                    {
+                        "code": "FOI_WORK",
+                        "de": "Arbeit und Besch\u00e4ftigung",
+                        "en": "Work and employment"
+                    },
+                    {
+                        "code": "FOI_WORK_RIGHT",
+                        "de": "Arbeitsrecht/Arbeitsbedingungen",
+                        "en": "Work right"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004863",
+                "statements": [],
+                "title": "Besch\u00e4ftigtendatenschutz"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "AlgorithmWatch setzt sich f\u00fcr die Einf\u00fchrung eines nationalen KI-Transparenzregisters ein, in dem KI-Anwendungen der \u00f6ffentlichen Hand in Deutschland aufgelistet, Risikoabsch\u00e4tzungen nachvollziehbar gemacht und verantwortliche Personen vermerkt werden.  ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_STATE_ADMIN",
+                        "de": "Staat und Verwaltung",
+                        "en": "Government and administration"
+                    },
+                    {
+                        "code": "FOI_SA_PUBLIC_ADMINISTRATION",
+                        "de": "Verwaltungstransparenz/Open Government",
+                        "en": "Public administration"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004864",
+                "statements": [],
+                "title": "Einf\u00fchrung eines KI-Transparenzregisters"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "AlgorithmWatch wirkt auf einen Global Digital Compact der UN hin, der ein offenes, freies und sicheres Internet im Sinne der Menschenrechte weltweit f\u00f6rdert.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_INTERNET_POLICY",
+                        "de": "Internetpolitik",
+                        "en": "Internet policy"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004865",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/6f/41/308381/Stellungnahme-Gutachten-SG2406190064.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-02"
+                            },
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_AA",
+                                        "de": "Ausw\u00e4rtiges Amt (AA)",
+                                        "en": "Ausw\u00e4rtiges Amt (AA)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                        "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                        "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-02"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0004865",
+                        "regulatoryProjectTitle": "Global Digital Compact",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Positionspapier deutscher, digitaler, zivilgesellschaftlicher Organisationen zum VN Global\r\nDigital Compact und Pakt f\u00fcr die Zukunft\r\n1 Vision\r\nUnsere Vision eines zukunftsf\u00e4higen Internets umfasst die Verwirklichung der universellen\r\nMenschenrechte und den umfassenden Schutz der planetaren Ressourcen f\u00fcr das Wohl der\r\nWeltgemeinschaft. Alle Menschen sollen sich gleicherma\u00dfen frei und sicher in einem\r\npluralistischen Netz bewegen und es uneingeschr\u00e4nkt nutzen k\u00f6nnen. Die digitale\r\nTransformation muss im Sinne einer globalen Gerechtigkeit umgesetzt werden. Das\r\ngelingt nur, wenn Menschenrechte, Nachhaltigkeit und Digitalisierung\r\nzusammengebracht und mit konkreten Ma\u00dfnahmen gest\u00fctzt werden.\r\nWir begr\u00fc\u00dfen daher die Initiative des UNSG, das Zusammenleben der Menschen und die\r\nEntwicklung des Planeten mit gemeinsamen Prinzipien f\u00fcr eine offene, freie und sichere\r\ndigitale Zukunft f\u00fcr alle Menschen zu adressieren. Die gemeinsame Entwicklung der\r\nMenschheit braucht eine offene, sichere, freie, resiliente und gemeinsame\r\nNetzinfrastruktur, inklusive digitale R\u00e4ume und eine robuste Umsetzung der universellen\r\nMenschenrechte. Das Internet ist der globale Ort, in dem alle Menschenrechte von der\r\ninternationalen Staatengemeinschaft, aber auch von zunehmend global vernetzten\r\nWirtschaftsakteuren und Unternehmen respektiert, gesch\u00fctzt und realisiert werden\r\nm\u00fcssen. Wir appellieren an die Staaten, ihre menschenrechtlichen Verpflichtungen entlang\r\ndes \u201erespect, protect, fulfil\u201c-Frameworks auch im digitalen Raum vollumf\u00e4nglich gerecht zu\r\nwerden. Gleichzeitig fordern wir, dass Unternehmen und Wirtschaftsakteure verbindlicher\r\nund durchsetzungsst\u00e4rker ihren menschenrechtlichen Sorgfaltspflichten im gesamten\r\nUnternehmenshandeln effektiv nachkommen. Die Umsetzung dieser Vision muss in die\r\n2030-Agenda eingebettet sein, deren Ziele wirkungsvoll umgesetzt und von gut\r\ndurchdachten netzpolitischen Entscheidungen unterst\u00fctzt werden m\u00fcssen. Grundsteine\r\ndieser Vision sind \u00f6ffentliche digitale R\u00e4ume und freies Wissen.\r\nNationale Regulierungen allein sind nicht ausreichend, um den globalen\r\nHerausforderungen angemessen zu begegnen. Daher sind die Vereinten Nationen eine\r\nsinnvolle und geeignete Instanz, um gemeinsame Ziele, Handlungsempfehlungen und\r\nGovernance festzulegen. Wir unterst\u00fctzen den Multi-Stakeholder-Ansatz und freuen uns\r\n\u00fcber den erkennbaren Wunsch, die Beteiligung von zivilgesellschaftlichen Akteur*innen zu\r\nerm\u00f6glichen.\r\nMit Blick auf den Global Digital Compact und den Pakt f\u00fcr die Zukunft wollen wir die\r\nfolgenden Aspekte betonen, die gemeinschaftlich erarbeitet und zusammengetragen\r\nwurden. Die Ausf\u00fchrungen beschr\u00e4nken sich auf die dringendsten Aspekte und haben\r\nkeinen Anspruch auf Vollst\u00e4ndigkeit.\r\n2 Verpflichtungen und Ma\u00dfnahmen\r\n1. Die digitale Transformation muss f\u00fcr globale Gerechtigkeit eingesetzt werden.\r\nDas gelingt nur, wenn Nachhaltigkeit und Digitalisierung zusammengebracht\r\nund mit konkreten Ma\u00dfnahmen unterst\u00fctzt werden.\r\na. Nachhaltigkeit und die Umsetzung der Agenda 2030 sollten im gesamten GDC\r\nsichtbares Leitmotiv sein, nicht nur in einzelnen Unterkapiteln. Insbesondere\r\ndie Chancen und Risiken der digitalen Transformation f\u00fcr Biodiversit\u00e4t,\r\nUmwelt- und Klimaschutz m\u00fcssen in allen Aspekten st\u00e4rker ber\u00fccksichtigt\r\nwerden.\r\nb. Nachhaltigkeitsaspekte m\u00fcssen \u201eby design\u201c und insbesondere bei der\r\ndigitalen Infrastruktur beachtet werden. Dazu geh\u00f6ren neben sparsamem\r\nCode auch weltweite Standards f\u00fcr Nachhaltigkeitssiegel f\u00fcr Rechenzentren,\r\ntransparente Produktions- und Entsorgungsketten von Hardware und ein\r\n\u201eRight to Repair\u201c.\r\nc. Institutionen der VN sollten mit gutem Beispiel vorangehen und f\u00fcr ihre\r\nServices entsprechende Standards einhalten.\r\n2. Menschen- und B\u00fcrger*innenrechten im Digitalen sch\u00fctzen, st\u00e4rken und\r\nentwickeln\r\na. Staatliche Menschenrechtsverpflichtungen entlang des \u201erespect, protect,\r\nfulfil\u201c-Frameworks m\u00fcssen ganzheitlich auch im digitalen Raum Anwendung\r\nfinden. Menschenrechtsprinzipien in technischen und politischen L\u00f6sungen\r\nm\u00fcssen \u201eby design\u201c und \u201eby default\u201c gewahrt werden.\r\nb. Privatsph\u00e4re ist ein Menschenrecht, das sich auf andere Menschenrechte wie\r\ndie Versammlungsfreiheit und Meinungsfreiheit auswirkt. Das Recht auf\r\nVerschl\u00fcsselung und Anonymit\u00e4t st\u00e4rkt die Privatsph\u00e4re und garantiert\r\neine sichere, verl\u00e4ssliche und freie Kommunikation. Entsprechend sollten die\r\nVN darauf abzielen, dass Staaten Gesetze und Strategien verabschieden, die\r\neinen umfassenden Schutz f\u00fcr Verschl\u00fcsselungstechnologien bieten und\r\nderen Einsatz als \u201edefault\u201c unterst\u00fctzen. Dazu geh\u00f6ren auch\r\nVerschl\u00fcsselungswerkzeuge zum Schutz der Anonymit\u00e4t. Das Recht auf\r\nVerschl\u00fcsselung und Anonymit\u00e4t muss im GDC aufgef\u00fchrt und konsequent\r\nin nationale Regelsetzung \u00fcberf\u00fchrt werden (vgl. A/HRC/29/32,\r\nUN-Sonderbeauftragter f\u00fcr Meinungsfreiheit; Encryption and Anonymity\r\nFollow-Up Report).\r\nc. Umsetzung eines globalen, sofortigen Moratoriums \u00fcber den Verkauf,\r\nHandel und die Nutzung von \u00dcberwachungssoftware wie Pegasus und\r\nPredator. Der GDC und die VN d\u00fcrfen nicht hinter bisher formulierten\r\nForderungen zur\u00fcckbleiben (vgl. A/HRC/52/39, UN-Sonderberichterstatter f\u00fcr\r\ndie F\u00f6rderung und den Schutz der Menschenrechte und Grundfreiheiten bei\r\nder Bek\u00e4mpfung des Terrorismus; EU Bericht von 2023 im Kontext der\r\nPegasus Ver\u00f6ffentlichungen; A/HRC/51/17, UN-Jahresbericht von 2022 zum\r\nRecht auf Privatsph\u00e4re im digitalen Zeitalter).\r\nd. Alle \u00dcberwachungsma\u00dfnahmen m\u00fcssen den Standards und Prinzipien\r\ndes internationalen Menschenrechts gen\u00fcgen, insbesondere den Kriterien\r\n\u00fcber Rechtm\u00e4\u00dfigkeit, Notwendigkeit und Verh\u00e4ltnism\u00e4\u00dfigkeit. Zudem\r\nm\u00fcssen Schutzgarantien gesetzlich verankert sein. Gezielte, nur in\r\nbegr\u00fcndeten Ausnahmef\u00e4llen erlaubte \u00dcberwachung muss mit robusten\r\nDatenschutzregeln einhergehen. \u00dcberwachte Personen m\u00fcssen nach Ende\r\nder \u00dcberwachungsma\u00dfnahme proaktiv informiert werden, dass ihre Daten\r\nund ihre Kommunikation gesammelt wurden. Sie m\u00fcssen die M\u00f6glichkeit\r\nhaben, ihre Rechte vor einem unabh\u00e4ngigen Gericht einzuklagen.\r\nJournalist*innen als Berufsgeheimnistr\u00e4ger*innen muss ein besonderer\r\nSchutz vor \u00dcberwachung gew\u00e4hrt werden, insbesondere vor\r\nSpionageprogrammen wie Predator und Pegasus.\r\ne. Personenbezogene Datensammlungen, -verarbeitungen, -nutzungen und\r\n-weitergaben m\u00fcssen den Regelungen des Datenschutzes unterliegen.\r\nDieses Recht muss in allen Staaten national verankert werden. Der Global\r\nDigital Compact sollte Datensparsamkeit als Leitprinzip st\u00e4rken.\r\nf. Netzsperren, Online-Zensur und die digitale staatliche Repression gegen\r\netwa Menschenrechtsverteidiger*innen, Journalist*innen und Anw\u00e4lt*innen\r\n\u00fcber L\u00e4ndergrenzen hinweg m\u00fcssen vonseiten der VN schlagkr\u00e4ftiger,\r\nnachhaltiger und zielgerichteter angegangen werden.\r\ng. Der Schutz vor Online-Gewalt braucht eine internationale Meldestelle,\r\neinheitliche Standards und ausgebildete Jurisdiktion. Die VN sollten\r\nbestehende Institutionen wie etwa den UNHCR entsprechend ausstatten.\r\nh. Der GDC sollte konkrete Kriterien daf\u00fcr festlegen, was \u201evertrauliches Nutzen\r\ndes Internets\u201c bedeutet (Verantwortlichkeiten, Multi-Stakeholder, Label f\u00fcr\r\nVertrauen) und den Begriff \u201eInklusion\u201c genauer differenzieren.\r\n3. \u00d6ffentliche digitale Infrastruktur mit freiem Zugang\r\na. Ein Internet, das der genannten Vision dient, ben\u00f6tigt gemeinsame\r\nInfrastrukturen und \u00f6ffentliche R\u00e4ume. Eine Priorit\u00e4t der VN muss sein, einer\r\nFragmentierung des Internets durch gemeinsame Standards und\r\nInteroperabilit\u00e4tsanforderungen entgegen zu wirken Die VN m\u00fcssen\r\nnationale Abschottungsversuche gegen den globalen Austausch von Wissen\r\nund Information auf Infrastrukturebene \u00e4chten \u2013 ob durch Staaten oder\r\nInternetprovider.\r\nb. Ein gemeinsam nutzbares Internet muss durch eine globale\r\nInternetverwaltung (Global Governance) gesichert werden, die auf\r\nbestehende Strukturen und bew\u00e4hrte Multistakeholder-Ans\u00e4tze zur\u00fcckgreift.\r\nc. Die VN sollten sich daf\u00fcr einsetzen, die Wahlm\u00f6glichkeiten und Chancen der\r\nMenschen beim Zugang zum Internet, seinen Informationen und Diensten zu\r\nerh\u00f6hen, indem Regierungen Ma\u00dfnahmen zur Verringerung von\r\nMarktkonzentration ergreifen und sicherstellen, dass digitale Innovation dem\r\nGemeinwohl dient.\r\nd. Im GDC muss die Zielsetzung verankert sein, globale \u00f6ffentliche Rechen- und\r\nDateninfrastrukturen aufzubauen, die dem \u00f6ffentlichen Interesse dienen und\r\ndie Kraft und Kreativit\u00e4t der Menschheit zusammenf\u00fchren.\r\ne. Alternative Infrastrukturen wie Community Networks, offene Frequenzen,\r\nCommunity Hubs, B\u00fcchereien als Public-Access-Infrastruktur und vieles mehr\r\nm\u00fcssen im GDC positiv herausgestellt und mit F\u00f6rderprogrammen bedacht\r\nwerden.\r\n4. \u00d6ffentliche digitale R\u00e4ume und globale digitale Gemeing\u00fcter als Grundpfeiler\r\nund nat\u00fcrliches Ergebnis dieser Zielvision\r\na. Digitale Commons m\u00fcssen als globales \u00f6ffentliches Gut anerkannt werden.\r\nDie Verteilung und gemeinschaftliche Nutzung von digitalen\r\nInformationsressourcen und Technologien muss von Regierungen weltweit\r\ngef\u00f6rdert und unterst\u00fctzt werden, etwa indem sie sich selbst zu Open Source\r\nverpflichten und \u00f6ffentlich finanziertes Wissen unter offenen Lizenzen\r\nm\u00f6glichst nach CC-0-Standards der Creative Commons bereitstellen.\r\nb. Ein globaler Fond zur F\u00f6rderung von Open-Source-Software sollte\r\neingerichtet und entlang etablierter Ausgewogenheitskriterien verteilt\r\nwerden. Dazu geh\u00f6rt auch die Investition in Konzepte, wie der Wert digitaler\r\nCommons an die Kreativen und die Gemeinschaft zur\u00fcckgef\u00fchrt werden\r\nk\u00f6nnen.\r\nc. Offene Technologien, Standards und Code (FLOSS) sowie die m\u00f6glichst offene\r\nLizenzierung von Daten nach Standards der Creative Commons m\u00fcssen\r\nerm\u00f6glicht und gef\u00f6rdert werden. F\u00fcr mit \u00f6ffentlichen Geldern erstellte G\u00fcter\r\nwie Wissensdatenbanken, Gutachten oder Daten m\u00fcssen offene Lizenzen\r\ngew\u00e4hlt werden, damit Freies Wissen f\u00fcr technischen und gesellschaftlichen\r\nFortschritt effektiv und weitreichend genutzt werden kann (\u00d6ffentliches Geld,\r\n\u00f6ffentliches Gut).\r\nd. Freies Wissen, basierend auf verl\u00e4sslichen und nachpr\u00fcfbaren Informationen,\r\nkann der Verbreitung von Desinformation und Misinformation\r\nentgegenwirken. Globale Wissensressourcen sollten daher offen, m\u00f6glichst\r\nunter CC-0, zur Verf\u00fcgung gestellt und global vernetzt werden.\r\ne. Der GDC sollte die Initiative beinhalten, weltweite Standards f\u00fcr Fair Use zu\r\netablieren, insbesondere f\u00fcr Informationszwecke und im Bildungsbereich.\r\nf. Digitale M\u00fcndigkeit muss in allen Altersstufen gef\u00f6rdert werden. Daf\u00fcr sollten\r\nauch staatliche F\u00f6rderprogramme mit Hilfe zur Selbsthilfe eingef\u00fchrt werden.\r\ng. Zus\u00e4tzlich zu Ma\u00dfnahmen zur Einschr\u00e4nkung der Verbreitung von\r\nDesinformationen und St\u00e4rkung des Rechts auf Informationen, sollten\r\ndigitalen Dienste in ihren Newsfeeds zuverl\u00e4ssige Nachrichten- und\r\nInformationsquellen f\u00f6rdern, die auf anerkannte Standards zur\r\nKennzeichnung zur\u00fcckgreifen, wie die Journalism Trust Initiative.\r\n5. Menschenrechtliche und unternehmerische Sorgfaltspflichten im Bereich der\r\nWirtschaft konsequent durchsetzen\r\na. Digitale Dienste und Online-Plattformen m\u00fcssen verbindlich, l\u00fcckenlos und\r\nglobal ihrer menschenrechtlichen Verpflichtungen nachkommen. Eine von\r\nStaat und Wirtschaft unabh\u00e4ngige Aufsichtsstruktur und -mechanismen\r\nm\u00fcssen auf nationaler Ebene etabliert werden, um die Einhaltung tats\u00e4chlich\r\nzu gew\u00e4hrleisten.\r\nb. F\u00fcr Auswirkungen ihrer Gesch\u00e4ftsmodelle, dem Design ihrer Produkte und\r\nihrer Regulierungsentscheidungen m\u00fcssen Unternehmen, die digitale\r\nPlattformen und Dienste anbieten, dazu verpflichtet werden, gegen\u00fcber der\r\nGesellschaft Rechenschaft abzulegen und transparent zu handeln.\r\nc. F\u00fcr Internet-Nutzer*innen m\u00fcssen rechtskr\u00e4ftige und effektive Wege\r\nbereitgestellt werden, um ihre Rechte gegen\u00fcber den Unternehmen\r\ndurchsetzen zu k\u00f6nnen. Die Einrichtung von effektiven, unabh\u00e4ngigen\r\nBeschwerdemechanismen f\u00fcr Nutzer*innen ist unabdingbar.\r\nd. Unternehmen m\u00fcssen dazu verpflichtet werden, Risikoanalysen und\r\nMechanismen zur Behebung identifizierter Risiken in Bezug auf\r\nMenschenrechte in ihrem Handeln und in ihren Lieferketten umzusetzen.\r\ne. Unternehmen, die mit ihren \u00dcberwachungsprodukten und -dienstleistungen\r\netwa im Bereich der Exportkontrolle Menschenrechtsverletzungen begangen\r\nhaben, m\u00fcssen zur Rechenschaft gezogen werden und den Verkauf, die\r\nEntwicklung und Nutzung ihrer Produkte unverz\u00fcglich einstellen. Gegen sie\r\nsind staatliche Sanktionen zu verh\u00e4ngen.\r\nf. Plattformen m\u00fcssen dazu verpflichtet werden, effektive Strategien und\r\nMa\u00dfnahmen gegen die Verbreitung von Desinformationen und Versuchen\r\nder Wahlmanipulationen zu entwickeln und umzusetzen.\r\n6. Digitalisierung ist weit mehr als der isolierte Blick auf K\u00fcnstliche Intelligenz\r\na. Bei allen Technologien und Innovationen m\u00fcssen unternehmerische\r\nSorgfaltspflichten und menschenrechtliche Standards verbindlich und global\r\neingehalten und st\u00e4rker als bisher durchgesetzt werden.\r\nb. Beim Einsatz von KI m\u00fcssen Transparenz- und Rechenschaftspflichten\r\neingehalten werden, Risikoanalysen und Behebungsmechanismen\r\nimplementiert sowie regelm\u00e4\u00dfige, unabh\u00e4ngige Audits durchgef\u00fchrt werden.\r\nBeim Design, der Entwicklung und der Nutzung von KI-Systemen sind\r\nGrundrechte und Datenschutz zu beachten.\r\nc. KI-basierte Systeme sollten nicht ohne Beteiligung und Bewertung von\r\nfachkundigen Personen automatisierte Entscheidungen \u00fcber einzelne\r\nMenschen treffen \u2013 dies gilt insbesondere f\u00fcr sensible Hochrisiko-\r\nAnwendungsbereiche wie etwa im Bereich der Grundrechte und des\r\nDiskriminierungsschutzes.\r\nd. Anwendungen und Inhalte, die KI-basiert sind, m\u00fcssen sichtbar als solche\r\ngekennzeichnet werden. Alternative Kontaktwege m\u00fcssen aufgezeigt werden,\r\nbeispielsweise zu Beh\u00f6rden im Falle von Verwaltungsvorg\u00e4ngen. Die\r\nDatengrundlage und -quellen m\u00fcssen f\u00fcr die \u00d6ffentlichkeit transparent und\r\nnachvollziehbar sein. Dazu geh\u00f6rt es auch, die Vertrauensw\u00fcrdigkeit der\r\nverwendeten Informationen \u00fcberpr\u00fcfen zu k\u00f6nnen. Die UN sollte sich f\u00fcr\r\neine demokratische Kontrolle von KI-Systemen einsetzen, wie sie\r\nbeispielsweise im j\u00fcngsten Bericht des Forums f\u00fcr Information und\r\nDemokratie \u00fcber KI vorgeschlagen wird.\r\ne. Regierungen sollten geeignete Ma\u00dfnahmen ergreifen, um sicherzustellen,\r\ndass digitale Innovation dem Gemeinwohl dient, und Risiken der\r\nMarktkonzentration zu verringern. Die Abh\u00e4ngigkeit von privaten Ressourcen,\r\ndie f\u00fcr KI-Entwicklung kritisch sind, umfassen Rechenkapazit\u00e4ten,\r\nDatenspeicherung, Datens\u00e4tze sowie Produkte und Dienste, in die KI\r\nintegriert werden kann. Ohne Zugang zu diesen Ressourcen wird eine\r\ngemeinwohlorientierte Perspektive auf KI-Entwicklung, -Anwendung und\r\n-Nutzung erschwert. Das Ziel der VN sollte sein, eine Anbieterpluralit\u00e4t auf\r\nallen Ebenen zu erm\u00f6glichen.\r\nf. Die VN sollten darauf hinwirken, dass \u00f6ffentlich bereitgestellte Infrastruktur\r\nin Bezug auf Daten oder Rechenkapazit\u00e4t, etwa die EuroHPC supercomputing\r\nfacilities oder Initiativen wie die Alliance for Language Technologies European\r\nDigital Infrastructure Consortium, global vernetzt wird.\r\ng. Staatlich gef\u00f6rderte nationale und regionale Initiativen sollten in Form von\r\nDatens\u00e4tzen umgesetzt werden, die als Digital Commons verwaltet werden,\r\nwas bedeutet, dass sie im \u00f6ffentlichen Interesse und unter demokratischer\r\nund kollektiver Kontrolle gemeinsam genutzt werden sollten.\r\nh. In jedem Fall sollten diese Datens\u00e4tze nach einem international anerkannten,\r\ninteroperablen Datenstandard zug\u00e4nglich und austauschbar sein.\r\ni. Es m\u00fcssen Mechanismen entwickelt werden, die eine faire \u201eR\u00fcckgabe\u201c an die\r\nUrheber*innen, Rechteinhaber*innen und Gemeinschaften gew\u00e4hrleisten,\r\ndie an der Erstellung dieser Ressourcen beteiligt sind.\r\nj. Die VN sollten als Institution selbst darauf hinwirken, dass ihre Dokumente\r\nund Daten \u00fcber die offiziellen Sprachen der VN hinaus \u00f6ffentlich zur\r\nVerf\u00fcgung stehen.\r\n3 Internationale Zusammenarbeit st\u00e4rken\r\nIn der internationalen Zusammenarbeit zivilgesellschaftliche Expertise und\r\nMulti-Stakeholder-Ans\u00e4tze verankern\r\na. Die urspr\u00fcngliche Vision eines offenen, f\u00fcr alle zug\u00e4nglichen Internets ist von einem\r\nSystem \u00fcberbaut worden, das aufgeteilt ist in geschlossene Netzwerke, die von\r\nkommerziellen Akteuren dominiert werden. Zivile, nicht-kommerzielle R\u00e4ume sind\r\ndagegen kleiner geworden, \u00f6ffentlich erh\u00e4ltliche Information wird von\r\nwirtschaftlichen Nutzungsinteressen verwertet und in geschlossene R\u00e4ume\r\n\u00fcberf\u00fchrt. Die Beteiligung von zivilgesellschaftlichen Akteuren als Stakeholder eines\r\nglobalen, offenen und sicheren Internets, das den Menschen dient, ist daher\r\nunerl\u00e4sslich.\r\nb. Internationale Gremien und Prozesse m\u00fcssen den Prinzipien von Transparenz,\r\nErreichbarkeit und der koh\u00e4renten \u00f6ffentlichen Dokumentation folgen, um von\r\nau\u00dfen nachvollziehbar zu sein und eine Beteiligung verschiedener Stakeholder zu\r\nerm\u00f6glichen.\r\nc. IGF-Strukturen m\u00fcssen international und auf nationaler Ebene gest\u00e4rkt und\r\nausgebaut werden. Sie profitieren von einer aktiven, breiten und vernetzten\r\nBeteiligung aller Stakeholdergruppen. Diese Beteiligung sollte durch verantwortliche\r\nnationale Institutionen gest\u00e4rkt werden, indem erweiterte F\u00f6rderstrukturen (z. B.\r\ndurch einen gesonderten F\u00f6rdertopf \u201eFreedom Fund for Future\u201c) etabliert werden\r\nund eine feste Verankerung diverser Beteiligungsformate in der staatlichen\r\nGovernance stattfindet. So kann die Expertise aus Zivilgesellschaft und Wissenschaft\r\nwirkungsvoll, faktenbasiert und an menschlichen Bed\u00fcrfnissen orientiert\r\neingebunden werden.\r\nd. Die UN sollen sich auf die bestehende Internationale Partnerschaft f\u00fcr Information\r\nund Demokratie als eines der wichtigsten Instrumente der internationalen\r\nZusammenarbeit bei der Regulierung des globalen Informations- und\r\nKommunikationsraums beziehen, der 52 Unterzeichnerstaaten (darunter\r\nDeutschland) angeh\u00f6ren.\r\ne. Staaten sollten selbst aktiver Teil von internationalen Foren sein und sich dort f\u00fcr\r\nMenschenrechte sowie f\u00fcr die Einbeziehung von lokalen Akteur*innen und\r\nZivilgesellschaft (v.a. im Globalen S\u00fcden) einsetzen.\r\nf. Lebendige Multi-Stakeholder-Formate leben von einer existierenden und pluralen\r\nZivilgesellschaft. Eine solche Zivilgesellschaft besteht einerseits in zentral\r\nerreichbaren Institutionen, lebt und erneuert sich andererseits ma\u00dfgeblich \u00fcber\r\nehrenamtliches, projektbezogenes Engagement. Eine F\u00f6rderung weiter Teile der\r\nZivilgesellschaft ist f\u00fcr deren Mitwirkung in der internationalen Zusammenarbeit\r\nunabdingbar, etwa durch informationelle, finanzielle und materielle Unterst\u00fctzung in\r\nForm von zeitnahen, verst\u00e4ndlichen, zentral verteilten und leicht zug\u00e4nglichen\r\nInformationen, Reisekostenunterst\u00fctzung, Unterst\u00fctzung in der Raumfindung sowie\r\nTeilnahme an und F\u00f6rderung von regelm\u00e4\u00dfigen Community-Treffen in Form von\r\nKonferenzen oder anderen Arten des Dialogs.\r\ng. Neutrales, globales Monitoring der Fortschritte des GDC auf VN-Ebene sollte zeitnah,\r\ntransparent und nachvollziehbar einer globalen \u00d6ffentlichkeit \u00fcber die offiziellen\r\nSprachen der VN hinaus zur Verf\u00fcgung gestellt werden.\r\nMitwirkende Organisationen\r\n\u25cf Matthias Spielkamp, Algorithm Watch\r\n\u25cf Dr. Marcel Dorsch, CODES Coalition for Digital Environmental Sustainability\r\n\u25cf Tom Jennissen, Digitale Gesellschaft\r\n\u25cf Geraldine de Bastion, GIG Global Innovation Gathering\r\n\u25cf Caroline Krohn, Teresa Widlok, LOAD e.V\r\n\u25cf Helene Hahn, Reporter ohne Grenzen I Reporters Without Borders\r\n\u25cf Elisa Lindinger, SUPERRR Lab\r\n\u25cf Dr. Friederike von Franqu\u00e9, Wikimedia Deutschland e. V."
+                        }
+                    }
+                ],
+                "title": "Global Digital Compact"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a3/51/308377/Stellungnahme-Gutachten-SG2406180146.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-05-13"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0004861",
+                "regulatoryProjectTitle": "KI-Verordnung Durchf\u00fchrungsgesetz",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Stellungnahme zur \u00f6ffentlichen Anh\u00f6rung des Ausschuss f\u00fcr Digitales am 15. Mai 2024 zur nationalen Umsetzung der KI-Verordnung\r\n13. Mai 2024\r\nKo-Autor*innen: Kilian Vieth-Ditlmann, stv. Teamleiter Policy & Advocacy, AlgorithmWatch,\r\nPia Sombetzki, Policy & Advocacy Managerin, AlgorithmWatch\r\nUnsere Empfehlungen in K\u00fcrze\r\n\u25cf Die nationale Aufsicht z\u00fcgig koordinieren und aufbauen sowie unabh\u00e4ngig und\r\nschlank aufstellen; dabei vielf\u00e4ltige Expertise einbeziehen, einen KI-Beirat\r\nschaffen und ein effektives Beschwerdesystem aufsetzen.\r\n\u25cf Verbote f\u00fcr den Einsatz biometrischer Fernidentifikationssysteme im \u00f6ffentlich\r\nzug\u00e4nglichen Raum ohne Einschr\u00e4nkungen beibehalten und im\r\nDurchf\u00fchrungsgesetz konkretisierend ausformulieren.\r\n\u25cf Ein nationales KI-Transparenzregister f\u00fcr die \u00f6ffentliche Hand aufbauen, das die\r\nbegrenzten Informationen in der EU-Datenbank der Hochrisiko-KI-Systeme\r\numfassend erg\u00e4nzt.\r\n\r\nKontext\r\nDer Rat der Europ\u00e4ischen Union beschlie\u00dft die KI-Verordnung (KI-VO) voraussichtlich am\r\n21. Mai 2024. Die Umsetzungsfristen sind knapp, die Anforderungen 1 komplex. Daher\r\nbereiten die EU-Mitgliedsstaaten bereits jetzt die Umsetzung der KI-Verordnung ins\r\nnationale Recht vor \u2013 so auch die deutsche Bundesregierung.\r\nAlgorithmWatch hat die Entstehung der KI-Verordnung von Beginn an aktiv begleitet und\r\nzu dem Gesetzgebungsprozess Stellung genommen:\r\n- Positionspapier nach Ver\u00f6ffentlichung des Kommissionsentwurfs (August 2021):\r\nhttps://algorithmwatch.org/en/eu-ai-act-consultation-submission-2021/\r\n- Zivilgesellschaftliches Statement von \u00fcber 120 Organisationen (November 2021):\r\nhttps://algorithmwatch.org/de/grundrechte-ins-zentrum-der-ki-verordnung/\r\n- Begleitung des Verhandlungsprozesses (April 2022):\r\nhttps://algorithmwatch.org/de/forderungen-artificial-intelligence-act-eu/ &\r\n- Reaktion auf den Entwurfbericht (Mai 2022):\r\nhttps://algorithmwatch.org/de/entwurfsbericht-zum-ai-act/\r\n- Stellungnahme im Auschuss f\u00fcr Digitales des Bundestags (September 2022):\r\nhttps://algorithmwatch.org/de/stellungnahme-digitalausschuss-bundestag-aiact-2\r\n022/\r\n- Empfehlungen zur Regulierung von GPAI in der KI-VO (September 2023):\r\nhttps://algorithmwatch.org/de/der-ai-act-und-general-purpose-ai/\r\n\r\nMit der Verabschiedung der KI-VO erkennt die EU an, dass der Einsatz von K\u00fcnstlicher\r\nIntelligenz (KI) unsere Grundrechte, Rechtsstaatlichkeit und demokratische Prozesse\r\ngef\u00e4hrden kann. Und dass es Regulierung braucht, um sie zu sch\u00fctzen. Dazu geh\u00f6rt,\r\ndass besonders sch\u00e4dliche KI-Systeme, die mit unseren demokratischen Gesellschaften\r\nunvereinbar sind, verboten werden m\u00fcssen.\r\nViele Aspekte sind am finalen Kompromiss dennoch nicht zufriedenstellend. Vor allem\r\nmit Blick auf den wirksamen Schutz von Grundrechten, bestehen eine Reihe von\r\ngravierenden Defiziten.\r\nDie kommende Um- und Durchsetzung der KI-VO auf EU-Ebene und in den\r\nMitgliedsstaaten bietet die Chance, einige L\u00fccken und Unklarheiten zu beseitigen und\r\nf\u00fcr mehr Grundrechtsschutz zu sorgen. Im Folgenden gehen wir auf die aus unserer\r\nSicht wichtigsten Fragen zur nationalen Ausgestaltung der KI-VO ein.\r\n\r\nFragen 1 und 8 werden zusammengefasst beantwortet:\r\n1 Wie muss die nationale Aufsicht aufgestellt sein, um eine m\u00f6glichst koh\u00e4rente,\r\nschlanke Governance zu gew\u00e4hrleisten? Wie gelingt uns trotz sektoraler\r\nZust\u00e4ndigkeiten und f\u00f6deraler Aufteilung der vielzitierte One-Stop-Shop? Welche\r\ngenauen Aufgaben sollte die Aufsicht \u00fcbernehmen?\r\n8 Welche gesetzlichen und politischen Ma\u00dfnahmen sind notwendig, um die\r\nZusammenarbeit zwischen den zust\u00e4ndigen Beh\u00f6rden in Deutschland und den\r\nEinrichtungen auf EU-Ebene (insbesondere AI Office, AI Board, Advisory Forum und\r\nScientific Panel) schlagkr\u00e4ftig und effizient aufzustellen und wie l\u00e4sst sich\r\ngew\u00e4hrleisten, dass zivilgesellschaftliche und interdisziplin\u00e4re wissenschaftliche\r\nExpertise bei der Auslegung, Konkretisierung, Umsetzung und Weiterentwicklung\r\ndes AI Acts substantiell Ber\u00fccksichtigung finden?\r\nNach Inkrafttreten der KI-Verordnung hat die Bundesregierung 12 Monate Zeit, die\r\nnationale Aufsicht in Deutschland aufzustellen. Es bleibt der Bundesregierung also nicht\r\nviel Zeit, diese komplexe Aufgabe zu erf\u00fcllen. Die Kommission hat au\u00dferdem bereits den\r\nWunsch ge\u00e4u\u00dfert, dass die Mitgliedstaaten bis Ende dieses Jahres zust\u00e4ndige Stellen\r\nbenennen, um die EU-weite Umsetzung der KI-Verordnung z\u00fcgig und koordiniert\r\nvoranzubringen. Die geregelten Verbote gelten bereits nach sechs Monaten. Damit\r\nbeispielsweise Beschwerden bearbeitet werden k\u00f6nnen, wenn die neuen Regeln nicht\r\neingehalten werden, braucht es daher auch m\u00f6glichst fr\u00fch auf nationaler Ebene ein\r\nkoordiniertes und abgestimmtes Vorgehen.\r\nDie Ressorts und die Beh\u00f6rden, die zentrale und insbesondere koordinierende\r\nAufgaben \u00fcbernehmen sollen, m\u00fcssen sich daher dringend abstimmen. Ebenso sollten\r\nVertreter*innen aus zivilgesellschaftlichen Organisationen und\r\nVerbrauchersch\u00fctzer*innen bereits jetzt in die aktuellen politischen Erw\u00e4gungen\r\neinbezogen werden, damit konkrete Vorschl\u00e4ge dazu, wie nationale Aufsichtsstrukturen\r\naussehen sollten, nicht erst sp\u00e4t im Prozess Geh\u00f6r finden und potenziell weniger\r\nWirkung entfalten k\u00f6nnen, als die von Unternehmen.\r\nZu den Aufsichtsstrukturen gibt die KI-Verordnung, insbesondere Artikel 70 der\r\nKI-Verordnung, lediglich grobe Leitlinien vor. Die Liste der Aufgaben und Befugnisse im\r\nKontext der nationalen Aufsicht ist umfassend. Eine koh\u00e4rente und klare Governance\r\nmuss dabei dennoch das Ziel sein. Die zuk\u00fcnftige Aufsicht muss auf den Kompetenzen\r\nund Erfahrungen der bestehenden Markt\u00fcberwachung aufbauen; es darf keine\r\nDoppelstrukturen geben.\r\nWie bei der nationalen Digitale-Dienste-Koordinierungsstelle, sollte allerdings\r\nsichergestellt werden, dass insbesondere auch Einzelpersonen, die eine\r\nBeschwerde einreichen wollen, eine zentrale Kontaktstelle aufsuchen k\u00f6nnen, die\r\n\u00fcber das gesamte Verfahren ansprechbar bleibt. Die Anforderungen daran, wie ein\r\nsolches Verfahren ausgestaltet wird, sollten bereits im Gesetz grunds\u00e4tzlich geregelt\r\nwerden. Insbesondere sollten Kriterien und Indikatoren festgelegt werden, die in\r\nVerwaltungsvorschriften n\u00e4her definieren, woran sich ein effizientes und\r\nzug\u00e4ngliches Beschwerdeverfahren messen l\u00e4sst. Beispielsweise sollten\r\nBearbeitungs- und Beantwortungsfristen festgelegt werden. Wir empfehlen, dass\r\nBeschwerdef\u00fchrer*innen innerhalb von zehn Tagen \u00fcber den Verfahrensablauf\r\numfassend informiert werden, u.a. auch dar\u00fcber, welche weiteren Beh\u00f6rden in ihr\r\nBeschwerdeverfahren einbezogen wurden und von welcher Bearbeitungsdauer sie\r\nausgehen k\u00f6nnen.\r\nDie KI-Verordnung sieht vor, dass die nationalen Regierungen drei Monate nach\r\nInkrafttreten eine Liste von nationalen Beh\u00f6rden und \u00f6ffentlichen Stellen\r\nver\u00f6ffentlichen, deren Arbeit darauf zielt, die Grundrechte zu sch\u00fctzen, und diese der\r\nEurop\u00e4ischen Kommission mitteilt (Artikel 77 Abs. 1-2 KI-VO). Bei Beschwerden zu\r\nGrundrechts- und Verbraucherschutzfragen muss sichergestellt sein, dass in den\r\nBeschwerdeverfahren die Expertise der Stellen einbezogen wird, die f\u00fcr die\r\nBeratung in solchen F\u00e4llen zust\u00e4ndig sind, wie etwa der Antidiskriminierungsstelle\r\ndes Bundes. Grunds\u00e4tzlich sollte der Begriff der \u00f6ffentlichen Stellen in Artikel 77 KI-VO\r\nweit ausgelegt werden, sodass er z.B. auch Menschenrechts-, Verbraucherschutz- und\r\nUmweltschutzorganisationen umfasst. Denn durch den Einsatz von\r\nHochrisiko-KI-Systemen kann eine Vielfalt an Grundrechtsfragen entstehen, wof\u00fcr\r\nwiederum eine Vielfalt an Grundrechts-Expertise aus so vielen Themenfeldern und\r\nBetroffenengruppen wie m\u00f6glich verf\u00fcgbar sein sollte.\r\nDar\u00fcber hinaus haben diese Stellen konkrete Auskunftsrechte gegen\u00fcber\r\nKI-Entwickler*innen und KI-Anbietern. Auch wenn die Mandate unterschiedlich\r\nausfallen: Koordinierungsstelle, Markt\u00fcberwachungsbeh\u00f6rden und die Beh\u00f6rden,\r\ndie f\u00fcr die Einhaltung der Grundrechte zust\u00e4ndig sind, m\u00fcssen wirksam\r\nzusammenarbeiten, um wichtige Informationen zu bekommen.\r\nUm zu \u00fcberpr\u00fcfen, ob dieses komplexe Zusammenspiel zwischen Koordinierungsstelle,\r\nverschiedenen Beh\u00f6rden und Stellen angemessen funktioniert und die\r\nKoordinierungsstelle unabh\u00e4ngig agiert, sollte in einem Durchf\u00fchrungsgesetz\r\nfestgeschrieben werden, dass eine regelm\u00e4\u00dfige Evaluierung erfolgt. Es sollte\r\nau\u00dferdem evaluiert werden, wie teuer und wirksam eine Koordinierungsstelle im\r\nVergleich mit einer zentralen Aufsichtsbeh\u00f6rde w\u00e4re. Mittelfristig empfehlen wir,\r\ndie Kompetenzen in einer Digitalagentur zusammenzuf\u00fchren.\r\nZudem sollte ein KI-Beirat eingerichtet werden. Er w\u00fcrde daf\u00fcr sorgen, dass\r\nzivilgesellschaftliche und interdisziplin\u00e4re wissenschaftliche Expertise sowie die\r\nPerspektive Betroffener in die Arbeit der Koordinierungsstelle einflie\u00dft, um die\r\nKI-Verordnung auszulegen, zu pr\u00e4zisieren und weiterzuentwickeln.\r\nSolch ein KI-Beirat sollte die Koordinierungsstelle bei grunds\u00e4tzlichen Fragen der\r\nAnwendung und Durchsetzung der KI-Verordnung beraten, allgemeine Empfehlungen\r\nzur effektiven und einheitlichen Durchf\u00fchrung der Verordnung vorschlagen und\r\nwissenschaftliche, technische und gesellschaftspolitische Fragestellungen an die\r\nKoordinierungsstelle herantragen.\r\nMitglieder eines KI-Beirats sollten das Recht haben, Fragen an die Koordinierungsstelle\r\nund zust\u00e4ndige Beh\u00f6rden zu stellen. Nur dann kann der Beirat gut informierte\r\nEinsch\u00e4tzungen abgeben. Dar\u00fcber hinaus sollte die Unabh\u00e4ngigkeit des Beirats\r\nsichergestellt werden. Er muss sich eine eigene Gesch\u00e4ftsordnung geben k\u00f6nnen, die keiner Zustimmung eines Ministeriums oder einer Beh\u00f6rde bedarf. Er sollte dar\u00fcber\r\nhinaus eigenst\u00e4ndig Studien und Gutachten erstellen und beauftragen k\u00f6nnen. Die\r\nArbeit des Beirats sollte auch finanziell unterst\u00fctzt werden: Es br\u00e4uchte eine\r\nangemessen ausgestattete Gesch\u00e4ftsstelle sowie Aufwandsentsch\u00e4digungen f\u00fcr\r\nBeirats-Mitglieder, die im Haushalt eingeplant werden. Die Sitzungen eines solchen\r\nBeirats sollten grunds\u00e4tzlich \u00f6ffentlich stattfinden und offen sein f\u00fcr die Einbeziehung\r\nweiterer zivilgesellschaftlicher Akteure und Verbrauchersch\u00fctzer, die nicht selbst als\r\nMitglieder im Beirat vertreten sind.\r\nWie beim Digitale-Dienste-Gesetz sollte ein Forschungsetat eingef\u00fchrt werden, der\r\nunabh\u00e4ngige Forschung durch Wissenschaft und Zivilgesellschaft unterst\u00fctzt. Damit ein\r\nsolcher Forschungsetat seine beabsichtigte Wirkung entfalten k\u00f6nnte, m\u00fcsste er\r\nangemessen hoch ausfallen.\r\n\r\nFragen 3 und 17 werden zusammengefasst beantwortet:\r\n3 Bei der biometrischen Fernidentifizierung im \u00f6ffentlichen Raum er\u00f6ffnet der AI\r\nAct die M\u00f6glichkeit des Nachsch\u00e4rfens der EU-weiten Mindeststandards. Sowohl\r\nf\u00fcr Echtzeit-Fernidentifizierungssysteme als auch f\u00fcr nachtr\u00e4gliche biometrische\r\nFernidentifizierung im \u00f6ffentlichen Raum k\u00f6nnen die Mitgliedstaaten in\r\nnationalen Rechtsgrundlagen auch strengere Regeln erlassen. Wie l\u00e4sst sich diese\r\nM\u00f6glichkeit f\u00fcr einen umfassenderen Grundrechtsschutz nutzen, wo k\u00f6nnten\r\nentsprechende Vorschriften im nationalen Recht verankert werden und wie\r\nsollten diese \u2013 etwa im Hinblick auf ein ausnahmsloses Verbot \u2013 inhaltlich\r\nausgestaltet sein?\r\n17 Welche konkrete Regelung empfehlen Sie f\u00fcr die nationale Umsetzung des\r\nAI-Acts, um die im Koalitionsvertrag enthaltene Position eines Verbots\r\nbiometrischer Fernidentifikationssysteme im \u00f6ffentlichen Raum umzusetzen f\u00fcr\r\ndie Sicherung der Grundrechte auf Privatsph\u00e4re sowie Datenschutz, auf\r\nNichtdiskriminierung, Meinungs- und Informationsfreiheit, auf Versammlungsund\r\nVereinigungsfreiheit sowie auf Rechtsstaatlichkeit und inwiefern ergibt es mit\r\nBlick auf die genannten Grundrechte Sinn, dabei hinsichtlich Echtzeit und\r\nretrograder Fernidentifikation zu unterscheiden, insbesondere da die\r\nUnterscheidung zwischen Echtzeit und retrograd unklar ist?\r\nNotwendigkeit eines Verbots biometrischer Fernidentifizierungssysteme\r\nDie automatisierte Fernidentifizierung von Personen anhand von biometrischen Daten\r\nwie dem Gesicht, dem Gang oder der Stimme im \u00f6ffentlich zug\u00e4nglichen Raum\r\nerm\u00f6glicht eine biometrische Massen\u00fcberwachung. Sie steht im Kern mit\r\nGrundrechten wie der Privatsph\u00e4re, der informationellen Selbstbestimmung und der\r\nVersammlungsfreiheit sowie grundlegenden rechtsstaatlichen Prinzipien in Konflikt.\r\nDas anlasslose, unterschiedslose oder stichprobenartige Beobachten, Verfolgen und\r\nAnalysieren von Menschen anhand ihrer biometrischen Merkmale, insbesondere dem\r\nGesicht, mit automatisierter Gesichtserkennung, schafft \u00dcberwachungsm\u00f6glichkeiten,\r\ndie sonst zwar theoretisch, nicht aber praktisch realisierbar waren. Der Eingriff in Grundrechte bekommt eine neue Qualit\u00e4t und ist mit einer herk\u00f6mmlichen\r\nVideo\u00fcberwachung nicht zu vergleichen. Video- und Fotoaufnahmen k\u00f6nnen\r\nautomatisiert mit Bilddatenbanken abgeglichen, Personen \u00fcber mehrere Videokameras\r\nhinweg automatisiert verfolgt und Verhaltens- und Bewegungsprofile erstellt werden.5\r\nWo bisher einzelne Personenkontrollen m\u00f6glich sind, k\u00f6nnen mit KI zehntausende oder\r\nhunderttausende Menschen erfasst werden.\r\nVon einer automatisierten Gesichtserkennung werden wir alle wie wandelnde QR-Codes\r\nbehandelt, k\u00f6nnen erkannt, gespeichert und abgeglichen werden, ohne es zu merken\r\noder einen Einfluss darauf zu haben. Die Anonymit\u00e4t im \u00f6ffentlichen Raum wird\r\ndadurch ausgehebelt. Die Erwartung, sich unerkannt zu bewegen, ist aber ein wichtiges\r\nVorfeld-Grundrecht, \u00e4hnlich dem Datenschutz, um viele andere Grundrechte aus\u00fcben\r\nzu k\u00f6nnen. Wenn Menschen im \u00f6ffentlichen Raum jederzeit identifiziert und \u00fcberwacht\r\nwerden k\u00f6nnen, verletzt dies nicht nur ihr Recht auf Privatsph\u00e4re, sondern hat auch eine\r\nabschreckende Wirkung (sog. \u201echilling effect\u201c). Die Angst, erkannt und gespeichert zu\r\nwerden, h\u00e4lt sie vom Wahrnehmen anderer Grundrechte wie der Meinungs\u00e4u\u00dferungsoder\r\nVersammlungsfreiheit ab, zum Beispiel auf dem Weg zu einer gewerkschaftlichen\r\nKundgebung oder einer Demonstration, zu Lokalen, die Hinweise auf ihre Religion,\r\npolitische Gesinnung oder sexuelle Orientierung geben k\u00f6nnten oder zu einem\r\nGespr\u00e4ch mit einer Journalist*in. All diese Grundrechte sind somit auch f\u00fcr die freie\r\nMeinungsbildung in einer demokratischen Gesellschaft zentral.\r\nBiometrische \u00dcberwachung betrifft auch das Recht auf Gleichbehandlung.\r\nGrunds\u00e4tzlich gilt zwar: Je besser die biometrische Fernidentifizierung funktioniert, desto\r\ngef\u00e4hrlicher wird sie. Dennoch besteht auch eine Gefahr der Diskriminierung in der\r\nbestehenden hohen Fehleranf\u00e4lligkeit der Erkennungssysteme, insbesondere bei\r\nPersonengruppen mit bestimmten Eigenschaften, die in Datens\u00e4tzen unterrepr\u00e4sentiert\r\nsind. Hinzu kommt die Gefahr der gezielten Diskriminierung, die genau den Zweck\r\nverfolgt, bestimmte Personen oder Gruppen anhand biometrischer Merkmale\r\nherauszufiltern. F\u00fcr bereits benachteiligte oder von Diskriminierung betroffene\r\nPersonen und Gruppen sowie f\u00fcr politische Aktivist*innen zeigen sich die Auswirkungen\r\nvon biometrischer Massen\u00fcberwachung oft in verst\u00e4rkter Form.\r\nVerbot biometrischer Echtzeit-Fernidentifizierung f\u00fcr Strafverfolgung und Polizei\r\nAngesichts des enormen Sch\u00e4digungspotenzials f\u00fcr Grundrechte und Demokratie\r\nverbietet die KI-Verordnung die biometrische Echtzeit-Fernidentifizierung in \u00f6ffentlich\r\nzug\u00e4nglichen R\u00e4umen durch Polizei und Strafverfolgungsbeh\u00f6rden grunds\u00e4tzlich. Artikel\r\n5 Absatz 1 Buchstabe h untersagt \u201edie Verwendung biometrischer\r\nEchtzeit-Fernidentifizierungssysteme in \u00f6ffentlich zug\u00e4nglichen R\u00e4umen zu\r\nStrafverfolgungszwecken\u201c (vgl. auch Erw\u00e4gungsgrund 32f). Die KI-VO stellt also klar:\r\nVideo\u00fcberwachung ist in der Bundesrepublik weit verbreitet, sei es im \u00d6PNV, in Superm\u00e4rkten\r\noder in Innenst\u00e4dten. \r\nOhne explizite gesetzliche Grundlage im nationalen Recht liegt keine Erlaubnis f\u00fcr\r\nden Einsatz biometrischer Erkennungssysteme im \u00f6ffentlichen Raum f\u00fcr Zwecke\r\nder Strafverfolgung und Gefahrenabwehr vor.\r\nWenn nun \u00fcber strengere Regeln oder Einschr\u00e4nkungen diskutiert wird, KI-basierte\r\nGesichtserkennungssystem im \u00f6ffentlichen Raum einzusetzen, impliziert das, dass sie\r\ngrunds\u00e4tzlich f\u00fcr Zwecke der Strafverfolgung und Gefahrenabwehr eingesetzt werden\r\nsollen. Das sollte auf Grund der ausgef\u00fchrten Gefahren f\u00fcr Grundrechte und\r\nRechtsstaatlichkeit aber ausnahmslos verhindert werden. Denn die Technologie ist in\r\neiner demokratischen Gesellschaft weder erforderlich noch verh\u00e4ltnism\u00e4\u00dfig. Daran\r\n\u00e4ndern auch \u00d6ffnungsklauseln nichts. Allein das Vorhandensein einer\r\nentsprechenden Infrastruktur im \u00f6ffentlichen Raum bringt die erw\u00e4hnten Chilling\r\nEffects mit sich, da Betroffene nie wissen k\u00f6nnen, ob und wann die biometrische\r\n\u00dcberwachung stattfindet. Das spricht gegen ein Verbot mit Ausnahmen, denn es\r\nerm\u00f6glicht die grundlegende Infrastruktur und diese Ausnahmen, ob und wann\r\nbiometrische Fernidentifizierung eingesetzt wird, sind f\u00fcr Menschen nicht\r\nnachvollziehbar.\r\nDiese Gefahren hat die aktuelle Bundesregierung bereits anerkannt und in ihrem\r\nKoalitionsvertrag festgelegt, dass biometrische Erkennung im \u00f6ffentlichen Raum\r\neuroparechtlich auszuschlie\u00dfen und der Einsatz von biometrischer Erfassung zu\r\n\u00dcberwachungszwecken abzulehnen ist. Die in der KI-Verordnung formulierten\r\nVerbote sollten daher absolut ausgelegt werden und keine gesetzlichen\r\nGrundlagen geschaffen werden, die selbst mit Einschr\u00e4nkungen leicht dazu f\u00fchren\r\nk\u00f6nnten, eine geschaffene Infrastruktur schleichend auszuweiten.\r\nGegenw\u00e4rtig existiert im deutschen Recht keine Gesetzesgrundlage f\u00fcr den Einsatz\r\nbiometrischer Fernidentifizierungssysteme durch Strafverfolgungsbeh\u00f6rden. Es l\u00e4sst\r\nsich derzeit allerdings beobachten, wie bestehende Befugnisse zweckentfremdet und als\r\nLegitimation f\u00fcr solche Eins\u00e4tze herangezogen werden.\r\nDazu geh\u00f6rt unter anderem die Rasterfahndung (\u00a7 98a Strafprozessordnung), die\r\ngegenw\u00e4rtig zumindest von einigen Strafverfolgungsbeh\u00f6rden als rechtliche Grundlage\r\nf\u00fcr den Einsatz biometrischer \u00dcberwachungssysteme herangezogen wird.\r\nRasterfahndung wurde auf Bundesebene 1992 gesetzlich geregelt. Die Rasterfahndung\r\nkonnte biometrische Gesichtserkennungssysteme noch gar nicht umfasst haben, da die\r\nKI-basierte Gesichtserkennungstechnik zum Zeitpunkt der Einf\u00fchrung der\r\nRechtsgrundlage noch gar nicht in der heutigen Funktionsweise existierte. Die Menge an\r\nbiometrischen Daten, die heute durch KI-Systeme automatisiert verarbeitet werden,\r\nh\u00e4tte sich der Gesetzgeber damals nicht tr\u00e4umen lassen. Auch der verfassungsrechtliche Wesentlichkeitsvorbehalt verbietet eine Auslegung bestehender\r\nGesetzesgrundlagen f\u00fcr derart grundrechtsinvasive und gef\u00e4hrliche Befugnisse.\r\nEine bestehende gesetzliche Grundlage f\u00fcr ein bestimmtes Ermittlungsinstrument kann\r\ndemnach nicht f\u00fcr neue biometrische \u00dcberwachungssysteme herangezogen bzw.\r\numgedeutet werden. Erst recht nicht, wenn neuere Datenverarbeitungsmethoden viel\r\ntiefer in unsere Grundrechte eingreifen und das Potenzial haben, unsere demokratische\r\nGesellschaft als Ganzes zu ver\u00e4ndern. Das Bundesverfassungsgericht hat bereits f\u00fcr die\r\ngro\u00dffl\u00e4chige, automatisierte Verarbeitung von Kfz-Kennzeichen durch Polizei und\r\nStrafverfolgungsbeh\u00f6rden hohe verfassungsrechtliche Anforderungen aufgestellt. Und\r\ndort ging es nicht um besonders sensible biometrische Daten wie Gesichter, sondern\r\num Kfz-Kennzeichen. Die automatisierte Erhebung und Auswertung von \u00f6ffentlich\r\nzug\u00e4nglichen personenbezogenen Daten stellt nach Rechtsprechung des\r\nBundesverfassungsgerichts immer einen Eingriff in das Grundrecht auf informationelle\r\nSelbstbestimmung dar.\r\nAuch ein j\u00fcngeres Verfassungsurteil \u00fcber die automatisierte Datenanalyse f\u00fcr die\r\nvorbeugende Bek\u00e4mpfung von Straftaten stellt mit Verweis auf das Grundrecht auf\r\ninformationelle Selbstbestimmung klar, dass automatische Abgleiche biometrischer\r\nDaten besonders voraussetzungsvoll sind. Die Mindestanforderungen f\u00fcr biometrische\r\nFernidentifizierung, wie sie in der KI-VO beschrieben werden, sind demnach zu\r\nunspezifisch. Die Einsatzzwecke und die Abgrenzung zwischen Echtzeit-Verarbeitung\r\nund nachtr\u00e4glicher Verarbeitung sind zu unbestimmt. Und weder die\r\nReferenzdatenbanken gesuchter Personen, noch die zu durchsuchenden Bild- oder\r\nVideodaten (etwa hinsichtlich zeitlicher und r\u00e4umlicher Beschr\u00e4nkung) sind hinreichend\r\nkonkretisiert.\r\nEs l\u00e4sst sich zusammenfassen: Selbst wenn der Gesetzgeber eine Rechtsgrundlage f\u00fcr\r\nden Einsatz biometrischer Fernidentifizierungssysteme in Echtzeit im \u00f6ffentlich\r\nzug\u00e4nglichen Raum zu Strafverfolgungszwecken schaffen wollte, entspr\u00e4chen die\r\nVerfahrensanforderungen nach KI-Verordnung nicht den in Deutschland geltenden\r\nverfassungsrechtlichen Mindeststandards.\r\nEine explizites Verbot, biometrische Fernidentifizierungssysteme im \u00f6ffentlichen Raum\r\neinzusetzen, w\u00fcrde die gegenw\u00e4rtigen Rechtsunklarheiten beseitigen.\r\nVerbot nachtr\u00e4glicher biometrischer Fernidentifizierung\r\nDer Einsatz s\u00e4mtlicher nicht ausdr\u00fccklich verbotener biometrischer\r\nFernidentifizierungssysteme, unabh\u00e4ngig davon wer sie verwendet, f\u00e4llt nach KI-VO\r\nunter die Hochrisiko-Anwendungen (Art. 26 Abs. 10 in Verbindung mit Anhang III, Absatz\r\n1, Buchstabe a KI-VO). Das schlie\u00dft auch solche Systeme mit ein, die nicht in Echtzeit,\r\nsondern nachtr\u00e4glich Gesichter in Videodaten oder Fotomaterial identifizieren.\r\nEine Unterscheidung zwischen Echtzeit-Systemen und Systemen zur\r\nnachtr\u00e4glichen Fernidentifizierung ist jedoch mit Blick auf die\r\nGrundrechtsauswirkungen unlogisch. Erstens ist im Gesetzestext nicht klar definiert,\r\nab welchem Zeitversatz Echtzeit-Identifizierung zu nachtr\u00e4glicher Identifizierung wird.\r\nZweitens bergen beide Formen der biometrischen Erkennung dasselbe\r\nMissbrauchspotenzial, dieselben Abschreckungseffekte, und dasselbe Risiko f\u00fcr\r\ndiskriminierende \u00dcberwachung (siehe oben). Warum allein wegen einer Zeitverz\u00f6gerung\r\nvon einem geringeren Eingriff in Grundrechte ausgegangen werden sollte, bleibt unklar.\r\nIm Gegenteil schafft die nachtr\u00e4gliche Fernidentifizierung zus\u00e4tzliche Gefahren: Die\r\nZeitverz\u00f6gerung erm\u00f6glicht komplexere und damit tiefergehende Auswertungen und\r\ner\u00f6ffnet das Risiko, dass Daten f\u00fcr neue Zwecke ausgewertet werden, die urspr\u00fcnglich\r\nnoch gar nicht der Erhebungsgrund waren. Es entsteht ggf. ein Anreiz, Videoaufnahmen\r\nlange zu speichern. Das schafft zus\u00e4tzliche Einsch\u00fcchterungseffekte, wenn wir nicht\r\nwissen, ob und wann Videoaufnahmen oder anderes Datenmaterial in Zukunft mit\r\nKI-Systemen ausgewertet werden k\u00f6nnen. Die KI-basierte Analyse von biometrischen\r\nDaten ist ein elaboriertes technisches Verarbeitungsverfahren und keine technische\r\nArbeitshilfe f\u00fcr ein manuelles Verfahren.\r\nEin umfassendes nationales Verbot biometrischer Fernidentifizierung im\r\n\u00f6ffentlich zug\u00e4nglichen Raum f\u00fcr Strafverfolgungszwecke muss daher im Sinne\r\neines wirksamen Grundrechtsschutzes s\u00e4mtliche biometrischen\r\nErkennungssysteme unabh\u00e4ngig vom Zeitpunkt der Verwendung umschlie\u00dfen.\r\nDiese M\u00f6glichkeit bietet die KI-VO ausdr\u00fccklich (Artikel 26, Absatz 10, Unterabsatz 7\r\nKI-VO). Erw\u00e4gungsgrund 95 KI-VO betont zudem, dass nachtr\u00e4gliche Gesichtserkennung\r\nkeinesfalls das Verbot von Echtzeit-Fernidentifizierung unterlaufen darf. Gem\u00e4\u00df Artikel\r\n10 der Richtlinie \u00fcber Datenschutz in der Strafverfolgung (EU Richtlinie 2016/680)\r\nk\u00f6nnen alle EU Mitgliedstaaten weiterf\u00fchrende Regelungen bei der Verarbeitung\r\nbiometrischer Daten durch Polizei und Strafverfolgung erlassen.\r\nEs gilt aber auch hier die gleiche rechtliche Ausgangslage: Jede Form der biometrischen\r\nFernidentifizierung bedarf einer eindeutigen gesetzlichen Grundlage. Solange diese nicht\r\ngeschaffen wird, herrscht keine Erlaubnis. Bestehende Rechtsgrundlagen f\u00fcr\r\nautomatisierte Gesichtserkennung heranzuziehen ist unzul\u00e4ssig und missachtet das\r\nBestimmtheitsgebot (siehe oben). Polizei und Strafverfolgung ben\u00f6tigen f\u00fcr ein solch\r\neingriffsintensives Instruments immer einer hinreichend bestimmten gesetzlichen\r\nRegelung. Sie kann nicht auf bereits vorhandenen, allgemeineren Normen basieren.\r\n\r\nVerbot f\u00fcr Private\r\nDie KI-VO erkennt die Nutzung von biometrischen Fernidentifikationsystemen durch\r\nprivate Akteure in \u00f6ffentlich zug\u00e4nglichen R\u00e4umen, sei es in Echtzeit oder nachtr\u00e4glich,\r\nlaut Erw\u00e4gungsgrund 39 als unzul\u00e4ssig an. Die KI-VO beinhaltet allerdings kein\r\nausdr\u00fcckliches Verbot von automatisierter Fernidentifizierung in \u00f6ffentlich zug\u00e4nglichen\r\nR\u00e4umen durch private Stellen (z.B. Betreiber von Einkaufszentren oder Sportanlagen)\r\nund \u00f6ffentliche Stellen au\u00dferhalb der Polizei (z.B. kommunale Beh\u00f6rden, Schulen oder\r\nUniversit\u00e4ten), sei es in Echtzeit oder nachtr\u00e4glich, da die EU\r\nDatenschutzgrundverordnung 2016/679 dies schon untersagt.\r\nEine informierte Einwilligung oder ein berechtigtes Interesse kann bei biometrischer\r\nFernidentifizierung durch Private im \u00f6ffentlichen Raum nicht gegeben sein. Und es kann\r\nstrukturell aufgrund der Vielzahl an potenziell betroffenen Personen bei biometrischer\r\nFernidentifizierung nie angenommen werden. Keine private Stelle kann aus der\r\nAnwesenheit in einem \u00f6ffentlichen Raum ein Einverst\u00e4ndnis in die Datenerhebung\r\nherleiten.\r\nZusammenfassend l\u00e4sst sich Folgendes festhalten:\r\n\u2794 Gem\u00e4\u00df der EU KI-Verordnung, insbesondere Erw\u00e4gungsgrund 37, ist die\r\nVerwendung von biometrischen Echtzeit-Fernidentifizierungssystemen in\r\n\u00f6ffentlich zug\u00e4nglichen R\u00e4umen zu Zwecken der Strafverfolgung und der\r\nGefahrenabwehr verboten.\r\n\u2794 Im Einklang mit Artikel 10 der Richtlinie \u00fcber Datenschutz in der Strafverfolgung\r\n(EU Richtlinie 2016/680) ist der Einsatz von Systemen zur nachtr\u00e4glichen\r\nbiometrischen Fernidentifizierung in \u00f6ffentlich zug\u00e4nglichen R\u00e4umen durch\r\nPolizei und Strafverfolgung verboten.\r\n\u2794 Basierend auf Artikel 9 der Datenschutz-Grundverordnung ist der Einsatz von\r\nbiometrischen Fernidentifizierungssystemen in \u00f6ffentlich zug\u00e4nglichen R\u00e4umen,\r\nsowohl in Echtzeit als auch nachtr\u00e4glich, durch private und \u00f6ffentliche Stellen\r\nverboten.\r\nDennoch bestehen Rechtsunklarheiten und Umsetzungsdefizite in der Praxis. Ein\r\nDurchf\u00fchrungsgesetz sollte diese ausr\u00e4umen, indem darin die geltenden Verbote noch\r\neinmal konkretisierend ausformuliert werden.\r\n\r\nWie muss die Umsetzung des AI Acts in Deutschland gestaltet werden, um\r\neinerseits die Sicherheit und B\u00fcrgerrechte zu wahren und andererseits ein\r\ninnovationsfreundliches Umfeld zu schaffen, das Innovationskraft und\r\nprivatwirtschaftlichen Wettbewerb auf dem deutschen Markt ideal unterst\u00fctzt?\r\n\r\nSicherheit und B\u00fcrgerrechte stehen nicht im Widerspruch zu einem\r\ninnovationsfreundlichen Umfeld, sondern sind seine Grundlage. Entwicklungen, die\r\nunserer Sicherheit und unseren B\u00fcrgerrechten entgegenstehen, sind keine\r\nInnovationen, sondern Gefahren. Die Frage, die sich stellt, ist: Wie kann es Unternehmen\r\nso leicht wie m\u00f6glich gemacht werden, die Auflagen aus der KI-Verordnung einzuhalten?\r\nDie Antwort sind klare und verst\u00e4ndliche Vorgaben, eine effiziente Aufsichtsstruktur und\r\nBeratungsangebote durch die Koordinierungsstelle.\r\nAuch Unternehmen sollten, ebenso wie Individuen, klare Ansprechpartner*innen haben\r\nund nicht mit einem Zust\u00e4ndigkeitswirrwarr konfrontiert sein. Das schafft\r\nRechtssicherheit, was wiederum dazu f\u00fchrt, dass Unternehmen schneller\r\nEntscheidungen dar\u00fcber treffen k\u00f6nnen, welche Produkte sie entwickeln und anbieten\r\nm\u00f6chten, und minimiert ihre Kosten.\r\nKlare und verst\u00e4ndliche Vorgaben, die auch eingehalten werden k\u00f6nnen, f\u00fchren zu\r\neinem \u201elevel playing field\u201c der Unternehmen untereinander und belohnen nicht die \u201ebad\r\nactors\u201c.\r\nZudem sollte die Aufsichtsbeh\u00f6rde eine Beratung f\u00fcr Unternehmen anbieten, die es\r\nihnen erleichtert, gesetzeskonforme Produkte zu entwickeln und anzubieten.\r\n\r\n18) Wie sollte und k\u00f6nnte ein nationales KI-Transparenzregister \u00fcber den Bereich\r\nder Hoch Risiko Systeme hinausgehen, um wirksame Transparenz im Sinne des\r\nVerbraucherschutzes (Nachvollziehbarkeit, Beschwerdebasis etc.) herzustellen\r\nund insbesondere beim Einsatz von KI-Systemen durch die \u00f6ffentliche Hand dem\r\nerh\u00f6hten Anspruch an Grundrechtsschutz und bestehende Abh\u00e4ngigkeiten\r\ngerecht zu werden und wie sollte generell ein solches Transparenzregister\r\norganisiert sein, hinsichtlich:\r\n\u00b7 wer sollte es aufbauen und wen dabei einbeziehen\r\n\u00b7 wie sollte es aufgebaut werden\r\n\u00b7 wer sollte es verwalten\r\n\u00b7 welche Informationen sollte es enthalten?\r\nTransparenz und Nachvollziehbarkeit ist nicht nur im Hochrisikobereich gem\u00e4\u00df KI-VO\r\nvon Nutzen, sondern sollte f\u00fcr alle automatisierten Entscheidungssysteme von\r\n\u00f6ffentlichen Stellen gelten. Die geplante EU-Datenbank (Art. 71 KI-VO), in der die\r\nNutzung von Hochrisiko-KI-Systemen von \u00f6ffentlichen Stellen gelistet werden sollen,\r\nwird nur wenige der insgesamt eingesetzten Systeme auff\u00fchren. Auf nationaler Ebene\r\nsollte daher nachgebessert und ein nationales KI-Transparenzregister f\u00fcr die gesamte\r\n\u00f6ffentliche Hand eingef\u00fchrt werden. Da die KI-VO ein generelles KI-Register nicht regelt,\r\nkann sie in diesem Bereich auch keine harmonisierende Wirkung haben. Die\r\nNiederlande haben bereits ein nationales KI-Register f\u00fcr die \u00f6ffentliche Verwaltung\r\neingef\u00fchrt.\r\nEin nationales KI-Transparenzregister sollte zentral koordiniert und standardisiert\r\nsein. Um eine Doppelstruktur zu vermeiden, sollte es \u00fcber eine Schnittstelle zur EU\r\nDatenbank der Hochrisiko-Systeme verf\u00fcgen. Damit steht es nicht im Konflikt mit der\r\nEU-Datenbank, sondern erg\u00e4nzt und vervollst\u00e4ndigt den \u00dcberblick \u00fcber staatliche\r\nKI-Eins\u00e4tze.\r\nEin nationales KI-Register f\u00fcr die \u00f6ffentliche Verwaltung kann nicht nur Transparenz f\u00fcr\r\nBetroffene herstellen und Verantwortlichkeit erzeugen, sondern auch positive Anreize\r\nf\u00fcr Beh\u00f6rden schaffen: vorhandene Anwendungen werden sichtbar und auffindbar,\r\nineffizienten Parallelentwicklungen lassen sich viel leichter vermeiden. Aktuell wird\r\nbereits durch das Beratungszentrum f\u00fcr K\u00fcnstliche Intelligenz (BeKI) des BMI ein\r\n\u201eMarktplatz der KI-M\u00f6glichkeiten\u201c entwickelt. Er soll Ministerien 15 und Beh\u00f6rden die\r\nPotenziale von KI-Anwendungen aufzeigen und \u201eTransparenz \u00fcber die\r\nKI-Anwendungslandschaft und Erfahrungswerte in den Ressorts\u201c liefern.\r\nWichtig ist, dass die Angaben \u00fcber KI-Anwendungen in Beh\u00f6rden \u00fcber den in der KI-VO\r\ngeforderten Datenkranz (vgl. Anhang VIII der KI-VO) hinausgehen. Denn wirksame\r\nTransparenz wird durch die dort geforderten sp\u00e4rlichen Informationen noch nicht\r\nhinreichend sichergestellt. Ziel sollte sein, Nachvollziehbarkeit f\u00fcr alle Menschen und\r\neine effektive Grundlage f\u00fcr Nachfragen und Beschwerden sicherzustellen.\r\nEin umfassender Transparenzbericht sollte alle ethisch relevante Auswirkungen und\r\ndie ergriffenen Gegenma\u00dfnahmen detailliert auff\u00fchren. Dazu z\u00e4hlt u.a.:\r\n- Definition des Problems, das das KI-System l\u00f6sen soll\r\n- Konkrete Zieldefinition (z.B. Effizienz- oder Leistungsverbesserungen,\r\nEntscheidungsunterst\u00fctzung, Automatisierung von Aufgaben, Kostensenkung\r\nusw.)\r\n- Ethische und rechtliche Anforderungen an das System (Datenschutz,\r\nIT-Sicherheit, Fairness, Erkl\u00e4rbarkeit, etc.)\r\n- Transparenz \u00fcber s\u00e4mtliche Grundrechtsauswirkungen\r\n- Transparenz \u00fcber die Umweltvertr\u00e4glichkeit (Energieverbrauch,\r\nTreibhausgasemissionen, indirekter Ressourcenverbrauch, etc.)\r\n- Benennung der Verantwortlichen f\u00fcr Konzeption und Implementierung.\r\nDie Listung von KI-Anwendungen in einem nationalen KI-Transparenzregister sollte\r\nzudem verpflichtend sein. So wird Verbindlichkeit bez\u00fcglich der einzutragenden Daten\r\ngeschaffen. Freiwillige Eintr\u00e4ge in das Register werden zwangsl\u00e4ufig l\u00fcckenhaft bleiben.\r\nDamit w\u00e4re das Ziel, Synergien zu nutzen und vertrauensbildende Transparenz f\u00fcr\r\nBetroffene zu gew\u00e4hrleisten, verfehlt.\r\n\r\nAlle Ressorts sollten in die Entwicklung und Umsetzung des KI-Transparenzregisters\r\neinbezogen werden. Bei der Entwicklung ist ein strukturierter Stakeholderdialog, der\r\nfr\u00fchzeitig alle relevanten Interessengruppen einbezieht, von gro\u00dfem Nutzen.\r\nAlgorithmWatch ist eine Menschenrechtsorganisation mit Sitz in Berlin und Z\u00fcrich, die\r\nsich mit den gesellschaftlichen Auswirkungen von algorithmischen\r\nEntscheidungssystemen (ADM) und K\u00fcnstlicher Intelligenz (KI) befasst. Wir setzen uns\r\ndaf\u00fcr ein, dass solche Technologien Menschenrechte, Demokratie und Nachhaltigkeit\r\nst\u00e4rken, statt sie zu schw\u00e4chen. Dazu tragen wir mit politischen Kampagnen,\r\nLobbyarbeit, journalistischen Recherchen, Forschung und Technikentwicklung bei.\r\n\r\nUnsere Webseite: https://algorithmwatch.org/\r\nKontakt zu den Autor*innen:\r\nKilian Vieth-Ditlmann, vieth-ditlmann@algorithmwatch.org\r\nPia Sombetzki, sombetzki@algorithmwatch.org\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/3c/70/308379/Stellungnahme-Gutachten-SG2406190057.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-03-13"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0004861",
+                "regulatoryProjectTitle": "KI-Verordnung Durchf\u00fchrungsgesetz",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Offener Brief: Menschenrechte sch\u00fctzen \u2013 Biometrische\r\nFernidentifizierung verbieten Berlin, 13. M\u00e4rz 2024\r\nSehr geehrte Abgeordnete des Deutschen Bundestages,\r\nheute, am 13. M\u00e4rz 2024, beschlie\u00dft das Europ\u00e4ische Parlament den Artificial Intelligence (AI) Act. Als\r\nerstes umfassendes Gesetz zur Regulierung K\u00fcnstlicher Intelligenz (KI) weltweit schafft der AI Act in\r\nder gesamten Europ\u00e4ischen Union einheitliche Regeln f\u00fcr die Entwicklung und den Einsatz von KI.\r\nDie finale Fassung des AI Acts verbietet biometrische \u00dcberwachung im \u00f6ffentlichen Raum zwar\r\ngrunds\u00e4tzlich, l\u00e4sst jedoch eine Vielzahl an Ausnahmen zu. Diese weitreichenden Ausnahmen f\u00fcr\r\nStrafverfolgung und Sicherheitsbeh\u00f6rden laden europaweit zum Ausbau \u00f6ffentlicher \u00dcberwachung\r\nein. Eine solche \u00dcberwachungsinfrastruktur f\u00fchrt dazu, dass Menschen unter dem st\u00e4ndigen Gef\u00fchl\r\nder Kontrolle ihre Freiheitsrechte nicht mehr ungehindert aus\u00fcben. Der Schutz von Menschenrechten\r\ndarf jedoch nicht unter Vorbehalt stehen. Insbesondere im aktuellen politischen Klima m\u00fcssen die\r\ndemokratischen Kr\u00e4fte gemeinsam die M\u00f6glichkeit des institutionellen Machtmissbrauchs\r\nminimieren. Deshalb gilt es nun, die im AI Act explizit vorgesehene M\u00f6glichkeit der nationalen\r\nVersch\u00e4rfung europ\u00e4ischer Regeln sowohl f\u00fcr Echtzeit- als auch f\u00fcr nachtr\u00e4gliche biometrische\r\nFernidentifizierung zu nutzen.\r\nWir fordern Sie als Abgeordnete des Deutschen Bundestages daher auf, jede Form der biometrischen\r\nFernidentifizierung in Deutschland zu verbieten!\r\nIm Koalitionsvertrag verpflichten sich die Regierungsparteien gleich an zwei Stellen, biometrische\r\n\u00dcberwachung in Deutschland zu verhindern. So hei\u00dft es, dass \u201e[b]iometrische Erkennung im\r\n\u00f6ffentlichen Raum\u201c europarechtlich auszuschlie\u00dfen sei, auch der \u201eEinsatz von biometrischer\r\nErfassung zu \u00dcberwachungszwecken\u201c wird explizit abgelehnt. Nachdem das europarechtliche Verbot\r\nbiometrischer \u00dcberwachung nun nicht vollst\u00e4ndig umzusetzen war, muss ein nationales Verbot das\r\nMittel der Wahl sein.\r\nDie Durchf\u00fchrung biometrischer Echtzeit-Fernidentifikation im \u00f6ffentlichen Raum \u00f6ffnet die T\u00fcr in\r\ndystopische Verh\u00e4ltnisse, in denen jeder Mensch bei jeder Bewegung im \u00f6ffentlichen Raum\r\npermanent identifizierbar und \u00fcberwachbar wird. \u00c4hnliches gilt auch f\u00fcr nachtr\u00e4gliche biometrische\r\nFernidentifikation, die ebenfalls die Bildung umfassender Personenprofile erm\u00f6glicht. Anonymit\u00e4t im\r\n\u00f6ffentlichen Raum ist eine der Grundvoraussetzungen f\u00fcr freie Meinungs\u00e4u\u00dferung und\r\ndemokratischen Protest. Insbesondere Angeh\u00f6rige marginalisierter Gruppen werden von der\r\nAus\u00fcbung ihrer Meinungs- und Demonstrationsfreiheit abgehalten, wenn sie Repressalien bef\u00fcrchten\r\nm\u00fcssen. Auch der Ampel-Koalitionsvertrag betont: \u201eDas Recht auf Anonymit\u00e4t sowohl im \u00f6ffentlichen\r\nRaum als auch im Internet ist zu gew\u00e4hrleisten.\u201c\r\nWir fordern Sie deshalb auf, sich f\u00fcr den Schutz der Menschen in Deutschland und das Recht auf ein\r\nLeben frei von Massen\u00fcberwachung und Kontrolle einzusetzen.\r\nMit freundlichen Gr\u00fc\u00dfen\r\nListe der Unterzeichnenden (alphabetisch sortiert):\r\nAlgorithmWatch\r\nAmnesty International\r\nAntidiskriminierungsverband Deutschland e.V.\r\nChaos Computer Club\r\nD64 \u2013 Zentrum f\u00fcr digitalen Fortschritt\r\nDachverband der Fanhilfen e.V.\r\nDeutscher Caritasverband e.V.\r\nDigitale Freiheit e.V.\r\nDigitale Gesellschaft e.V.\r\nForum InformatikerInnen f\u00fcr Frieden und gesellschaftliche Verantwortung (FIfF) e. V.\r\nHumanistische Union e.V.\r\nLOAD e.V. - Verein f\u00fcr liberale Netzpolitik\r\nnetzforma* e.V. - Verein f\u00fcr feministische Netzpolitik\r\nOpen Knowledge Foundation Deutschland e.V.\r\nSUPERRR Lab\r\nTopio e.V.\r\nWikimedia Deutschland e. V."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/6f/41/308381/Stellungnahme-Gutachten-SG2406190064.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-04-02"
+                    },
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_AA",
+                                "de": "Ausw\u00e4rtiges Amt (AA)",
+                                "en": "Ausw\u00e4rtiges Amt (AA)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-02"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0004865",
+                "regulatoryProjectTitle": "Global Digital Compact",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Positionspapier deutscher, digitaler, zivilgesellschaftlicher Organisationen zum VN Global\r\nDigital Compact und Pakt f\u00fcr die Zukunft\r\n1 Vision\r\nUnsere Vision eines zukunftsf\u00e4higen Internets umfasst die Verwirklichung der universellen\r\nMenschenrechte und den umfassenden Schutz der planetaren Ressourcen f\u00fcr das Wohl der\r\nWeltgemeinschaft. Alle Menschen sollen sich gleicherma\u00dfen frei und sicher in einem\r\npluralistischen Netz bewegen und es uneingeschr\u00e4nkt nutzen k\u00f6nnen. Die digitale\r\nTransformation muss im Sinne einer globalen Gerechtigkeit umgesetzt werden. Das\r\ngelingt nur, wenn Menschenrechte, Nachhaltigkeit und Digitalisierung\r\nzusammengebracht und mit konkreten Ma\u00dfnahmen gest\u00fctzt werden.\r\nWir begr\u00fc\u00dfen daher die Initiative des UNSG, das Zusammenleben der Menschen und die\r\nEntwicklung des Planeten mit gemeinsamen Prinzipien f\u00fcr eine offene, freie und sichere\r\ndigitale Zukunft f\u00fcr alle Menschen zu adressieren. Die gemeinsame Entwicklung der\r\nMenschheit braucht eine offene, sichere, freie, resiliente und gemeinsame\r\nNetzinfrastruktur, inklusive digitale R\u00e4ume und eine robuste Umsetzung der universellen\r\nMenschenrechte. Das Internet ist der globale Ort, in dem alle Menschenrechte von der\r\ninternationalen Staatengemeinschaft, aber auch von zunehmend global vernetzten\r\nWirtschaftsakteuren und Unternehmen respektiert, gesch\u00fctzt und realisiert werden\r\nm\u00fcssen. Wir appellieren an die Staaten, ihre menschenrechtlichen Verpflichtungen entlang\r\ndes \u201erespect, protect, fulfil\u201c-Frameworks auch im digitalen Raum vollumf\u00e4nglich gerecht zu\r\nwerden. Gleichzeitig fordern wir, dass Unternehmen und Wirtschaftsakteure verbindlicher\r\nund durchsetzungsst\u00e4rker ihren menschenrechtlichen Sorgfaltspflichten im gesamten\r\nUnternehmenshandeln effektiv nachkommen. Die Umsetzung dieser Vision muss in die\r\n2030-Agenda eingebettet sein, deren Ziele wirkungsvoll umgesetzt und von gut\r\ndurchdachten netzpolitischen Entscheidungen unterst\u00fctzt werden m\u00fcssen. Grundsteine\r\ndieser Vision sind \u00f6ffentliche digitale R\u00e4ume und freies Wissen.\r\nNationale Regulierungen allein sind nicht ausreichend, um den globalen\r\nHerausforderungen angemessen zu begegnen. Daher sind die Vereinten Nationen eine\r\nsinnvolle und geeignete Instanz, um gemeinsame Ziele, Handlungsempfehlungen und\r\nGovernance festzulegen. Wir unterst\u00fctzen den Multi-Stakeholder-Ansatz und freuen uns\r\n\u00fcber den erkennbaren Wunsch, die Beteiligung von zivilgesellschaftlichen Akteur*innen zu\r\nerm\u00f6glichen.\r\nMit Blick auf den Global Digital Compact und den Pakt f\u00fcr die Zukunft wollen wir die\r\nfolgenden Aspekte betonen, die gemeinschaftlich erarbeitet und zusammengetragen\r\nwurden. Die Ausf\u00fchrungen beschr\u00e4nken sich auf die dringendsten Aspekte und haben\r\nkeinen Anspruch auf Vollst\u00e4ndigkeit.\r\n2 Verpflichtungen und Ma\u00dfnahmen\r\n1. Die digitale Transformation muss f\u00fcr globale Gerechtigkeit eingesetzt werden.\r\nDas gelingt nur, wenn Nachhaltigkeit und Digitalisierung zusammengebracht\r\nund mit konkreten Ma\u00dfnahmen unterst\u00fctzt werden.\r\na. Nachhaltigkeit und die Umsetzung der Agenda 2030 sollten im gesamten GDC\r\nsichtbares Leitmotiv sein, nicht nur in einzelnen Unterkapiteln. Insbesondere\r\ndie Chancen und Risiken der digitalen Transformation f\u00fcr Biodiversit\u00e4t,\r\nUmwelt- und Klimaschutz m\u00fcssen in allen Aspekten st\u00e4rker ber\u00fccksichtigt\r\nwerden.\r\nb. Nachhaltigkeitsaspekte m\u00fcssen \u201eby design\u201c und insbesondere bei der\r\ndigitalen Infrastruktur beachtet werden. Dazu geh\u00f6ren neben sparsamem\r\nCode auch weltweite Standards f\u00fcr Nachhaltigkeitssiegel f\u00fcr Rechenzentren,\r\ntransparente Produktions- und Entsorgungsketten von Hardware und ein\r\n\u201eRight to Repair\u201c.\r\nc. Institutionen der VN sollten mit gutem Beispiel vorangehen und f\u00fcr ihre\r\nServices entsprechende Standards einhalten.\r\n2. Menschen- und B\u00fcrger*innenrechten im Digitalen sch\u00fctzen, st\u00e4rken und\r\nentwickeln\r\na. Staatliche Menschenrechtsverpflichtungen entlang des \u201erespect, protect,\r\nfulfil\u201c-Frameworks m\u00fcssen ganzheitlich auch im digitalen Raum Anwendung\r\nfinden. Menschenrechtsprinzipien in technischen und politischen L\u00f6sungen\r\nm\u00fcssen \u201eby design\u201c und \u201eby default\u201c gewahrt werden.\r\nb. Privatsph\u00e4re ist ein Menschenrecht, das sich auf andere Menschenrechte wie\r\ndie Versammlungsfreiheit und Meinungsfreiheit auswirkt. Das Recht auf\r\nVerschl\u00fcsselung und Anonymit\u00e4t st\u00e4rkt die Privatsph\u00e4re und garantiert\r\neine sichere, verl\u00e4ssliche und freie Kommunikation. Entsprechend sollten die\r\nVN darauf abzielen, dass Staaten Gesetze und Strategien verabschieden, die\r\neinen umfassenden Schutz f\u00fcr Verschl\u00fcsselungstechnologien bieten und\r\nderen Einsatz als \u201edefault\u201c unterst\u00fctzen. Dazu geh\u00f6ren auch\r\nVerschl\u00fcsselungswerkzeuge zum Schutz der Anonymit\u00e4t. Das Recht auf\r\nVerschl\u00fcsselung und Anonymit\u00e4t muss im GDC aufgef\u00fchrt und konsequent\r\nin nationale Regelsetzung \u00fcberf\u00fchrt werden (vgl. A/HRC/29/32,\r\nUN-Sonderbeauftragter f\u00fcr Meinungsfreiheit; Encryption and Anonymity\r\nFollow-Up Report).\r\nc. Umsetzung eines globalen, sofortigen Moratoriums \u00fcber den Verkauf,\r\nHandel und die Nutzung von \u00dcberwachungssoftware wie Pegasus und\r\nPredator. Der GDC und die VN d\u00fcrfen nicht hinter bisher formulierten\r\nForderungen zur\u00fcckbleiben (vgl. A/HRC/52/39, UN-Sonderberichterstatter f\u00fcr\r\ndie F\u00f6rderung und den Schutz der Menschenrechte und Grundfreiheiten bei\r\nder Bek\u00e4mpfung des Terrorismus; EU Bericht von 2023 im Kontext der\r\nPegasus Ver\u00f6ffentlichungen; A/HRC/51/17, UN-Jahresbericht von 2022 zum\r\nRecht auf Privatsph\u00e4re im digitalen Zeitalter).\r\nd. Alle \u00dcberwachungsma\u00dfnahmen m\u00fcssen den Standards und Prinzipien\r\ndes internationalen Menschenrechts gen\u00fcgen, insbesondere den Kriterien\r\n\u00fcber Rechtm\u00e4\u00dfigkeit, Notwendigkeit und Verh\u00e4ltnism\u00e4\u00dfigkeit. Zudem\r\nm\u00fcssen Schutzgarantien gesetzlich verankert sein. Gezielte, nur in\r\nbegr\u00fcndeten Ausnahmef\u00e4llen erlaubte \u00dcberwachung muss mit robusten\r\nDatenschutzregeln einhergehen. \u00dcberwachte Personen m\u00fcssen nach Ende\r\nder \u00dcberwachungsma\u00dfnahme proaktiv informiert werden, dass ihre Daten\r\nund ihre Kommunikation gesammelt wurden. Sie m\u00fcssen die M\u00f6glichkeit\r\nhaben, ihre Rechte vor einem unabh\u00e4ngigen Gericht einzuklagen.\r\nJournalist*innen als Berufsgeheimnistr\u00e4ger*innen muss ein besonderer\r\nSchutz vor \u00dcberwachung gew\u00e4hrt werden, insbesondere vor\r\nSpionageprogrammen wie Predator und Pegasus.\r\ne. Personenbezogene Datensammlungen, -verarbeitungen, -nutzungen und\r\n-weitergaben m\u00fcssen den Regelungen des Datenschutzes unterliegen.\r\nDieses Recht muss in allen Staaten national verankert werden. Der Global\r\nDigital Compact sollte Datensparsamkeit als Leitprinzip st\u00e4rken.\r\nf. Netzsperren, Online-Zensur und die digitale staatliche Repression gegen\r\netwa Menschenrechtsverteidiger*innen, Journalist*innen und Anw\u00e4lt*innen\r\n\u00fcber L\u00e4ndergrenzen hinweg m\u00fcssen vonseiten der VN schlagkr\u00e4ftiger,\r\nnachhaltiger und zielgerichteter angegangen werden.\r\ng. Der Schutz vor Online-Gewalt braucht eine internationale Meldestelle,\r\neinheitliche Standards und ausgebildete Jurisdiktion. Die VN sollten\r\nbestehende Institutionen wie etwa den UNHCR entsprechend ausstatten.\r\nh. Der GDC sollte konkrete Kriterien daf\u00fcr festlegen, was \u201evertrauliches Nutzen\r\ndes Internets\u201c bedeutet (Verantwortlichkeiten, Multi-Stakeholder, Label f\u00fcr\r\nVertrauen) und den Begriff \u201eInklusion\u201c genauer differenzieren.\r\n3. \u00d6ffentliche digitale Infrastruktur mit freiem Zugang\r\na. Ein Internet, das der genannten Vision dient, ben\u00f6tigt gemeinsame\r\nInfrastrukturen und \u00f6ffentliche R\u00e4ume. Eine Priorit\u00e4t der VN muss sein, einer\r\nFragmentierung des Internets durch gemeinsame Standards und\r\nInteroperabilit\u00e4tsanforderungen entgegen zu wirken Die VN m\u00fcssen\r\nnationale Abschottungsversuche gegen den globalen Austausch von Wissen\r\nund Information auf Infrastrukturebene \u00e4chten \u2013 ob durch Staaten oder\r\nInternetprovider.\r\nb. Ein gemeinsam nutzbares Internet muss durch eine globale\r\nInternetverwaltung (Global Governance) gesichert werden, die auf\r\nbestehende Strukturen und bew\u00e4hrte Multistakeholder-Ans\u00e4tze zur\u00fcckgreift.\r\nc. Die VN sollten sich daf\u00fcr einsetzen, die Wahlm\u00f6glichkeiten und Chancen der\r\nMenschen beim Zugang zum Internet, seinen Informationen und Diensten zu\r\nerh\u00f6hen, indem Regierungen Ma\u00dfnahmen zur Verringerung von\r\nMarktkonzentration ergreifen und sicherstellen, dass digitale Innovation dem\r\nGemeinwohl dient.\r\nd. Im GDC muss die Zielsetzung verankert sein, globale \u00f6ffentliche Rechen- und\r\nDateninfrastrukturen aufzubauen, die dem \u00f6ffentlichen Interesse dienen und\r\ndie Kraft und Kreativit\u00e4t der Menschheit zusammenf\u00fchren.\r\ne. Alternative Infrastrukturen wie Community Networks, offene Frequenzen,\r\nCommunity Hubs, B\u00fcchereien als Public-Access-Infrastruktur und vieles mehr\r\nm\u00fcssen im GDC positiv herausgestellt und mit F\u00f6rderprogrammen bedacht\r\nwerden.\r\n4. \u00d6ffentliche digitale R\u00e4ume und globale digitale Gemeing\u00fcter als Grundpfeiler\r\nund nat\u00fcrliches Ergebnis dieser Zielvision\r\na. Digitale Commons m\u00fcssen als globales \u00f6ffentliches Gut anerkannt werden.\r\nDie Verteilung und gemeinschaftliche Nutzung von digitalen\r\nInformationsressourcen und Technologien muss von Regierungen weltweit\r\ngef\u00f6rdert und unterst\u00fctzt werden, etwa indem sie sich selbst zu Open Source\r\nverpflichten und \u00f6ffentlich finanziertes Wissen unter offenen Lizenzen\r\nm\u00f6glichst nach CC-0-Standards der Creative Commons bereitstellen.\r\nb. Ein globaler Fond zur F\u00f6rderung von Open-Source-Software sollte\r\neingerichtet und entlang etablierter Ausgewogenheitskriterien verteilt\r\nwerden. Dazu geh\u00f6rt auch die Investition in Konzepte, wie der Wert digitaler\r\nCommons an die Kreativen und die Gemeinschaft zur\u00fcckgef\u00fchrt werden\r\nk\u00f6nnen.\r\nc. Offene Technologien, Standards und Code (FLOSS) sowie die m\u00f6glichst offene\r\nLizenzierung von Daten nach Standards der Creative Commons m\u00fcssen\r\nerm\u00f6glicht und gef\u00f6rdert werden. F\u00fcr mit \u00f6ffentlichen Geldern erstellte G\u00fcter\r\nwie Wissensdatenbanken, Gutachten oder Daten m\u00fcssen offene Lizenzen\r\ngew\u00e4hlt werden, damit Freies Wissen f\u00fcr technischen und gesellschaftlichen\r\nFortschritt effektiv und weitreichend genutzt werden kann (\u00d6ffentliches Geld,\r\n\u00f6ffentliches Gut).\r\nd. Freies Wissen, basierend auf verl\u00e4sslichen und nachpr\u00fcfbaren Informationen,\r\nkann der Verbreitung von Desinformation und Misinformation\r\nentgegenwirken. Globale Wissensressourcen sollten daher offen, m\u00f6glichst\r\nunter CC-0, zur Verf\u00fcgung gestellt und global vernetzt werden.\r\ne. Der GDC sollte die Initiative beinhalten, weltweite Standards f\u00fcr Fair Use zu\r\netablieren, insbesondere f\u00fcr Informationszwecke und im Bildungsbereich.\r\nf. Digitale M\u00fcndigkeit muss in allen Altersstufen gef\u00f6rdert werden. Daf\u00fcr sollten\r\nauch staatliche F\u00f6rderprogramme mit Hilfe zur Selbsthilfe eingef\u00fchrt werden.\r\ng. Zus\u00e4tzlich zu Ma\u00dfnahmen zur Einschr\u00e4nkung der Verbreitung von\r\nDesinformationen und St\u00e4rkung des Rechts auf Informationen, sollten\r\ndigitalen Dienste in ihren Newsfeeds zuverl\u00e4ssige Nachrichten- und\r\nInformationsquellen f\u00f6rdern, die auf anerkannte Standards zur\r\nKennzeichnung zur\u00fcckgreifen, wie die Journalism Trust Initiative.\r\n5. Menschenrechtliche und unternehmerische Sorgfaltspflichten im Bereich der\r\nWirtschaft konsequent durchsetzen\r\na. Digitale Dienste und Online-Plattformen m\u00fcssen verbindlich, l\u00fcckenlos und\r\nglobal ihrer menschenrechtlichen Verpflichtungen nachkommen. Eine von\r\nStaat und Wirtschaft unabh\u00e4ngige Aufsichtsstruktur und -mechanismen\r\nm\u00fcssen auf nationaler Ebene etabliert werden, um die Einhaltung tats\u00e4chlich\r\nzu gew\u00e4hrleisten.\r\nb. F\u00fcr Auswirkungen ihrer Gesch\u00e4ftsmodelle, dem Design ihrer Produkte und\r\nihrer Regulierungsentscheidungen m\u00fcssen Unternehmen, die digitale\r\nPlattformen und Dienste anbieten, dazu verpflichtet werden, gegen\u00fcber der\r\nGesellschaft Rechenschaft abzulegen und transparent zu handeln.\r\nc. F\u00fcr Internet-Nutzer*innen m\u00fcssen rechtskr\u00e4ftige und effektive Wege\r\nbereitgestellt werden, um ihre Rechte gegen\u00fcber den Unternehmen\r\ndurchsetzen zu k\u00f6nnen. Die Einrichtung von effektiven, unabh\u00e4ngigen\r\nBeschwerdemechanismen f\u00fcr Nutzer*innen ist unabdingbar.\r\nd. Unternehmen m\u00fcssen dazu verpflichtet werden, Risikoanalysen und\r\nMechanismen zur Behebung identifizierter Risiken in Bezug auf\r\nMenschenrechte in ihrem Handeln und in ihren Lieferketten umzusetzen.\r\ne. Unternehmen, die mit ihren \u00dcberwachungsprodukten und -dienstleistungen\r\netwa im Bereich der Exportkontrolle Menschenrechtsverletzungen begangen\r\nhaben, m\u00fcssen zur Rechenschaft gezogen werden und den Verkauf, die\r\nEntwicklung und Nutzung ihrer Produkte unverz\u00fcglich einstellen. Gegen sie\r\nsind staatliche Sanktionen zu verh\u00e4ngen.\r\nf. Plattformen m\u00fcssen dazu verpflichtet werden, effektive Strategien und\r\nMa\u00dfnahmen gegen die Verbreitung von Desinformationen und Versuchen\r\nder Wahlmanipulationen zu entwickeln und umzusetzen.\r\n6. Digitalisierung ist weit mehr als der isolierte Blick auf K\u00fcnstliche Intelligenz\r\na. Bei allen Technologien und Innovationen m\u00fcssen unternehmerische\r\nSorgfaltspflichten und menschenrechtliche Standards verbindlich und global\r\neingehalten und st\u00e4rker als bisher durchgesetzt werden.\r\nb. Beim Einsatz von KI m\u00fcssen Transparenz- und Rechenschaftspflichten\r\neingehalten werden, Risikoanalysen und Behebungsmechanismen\r\nimplementiert sowie regelm\u00e4\u00dfige, unabh\u00e4ngige Audits durchgef\u00fchrt werden.\r\nBeim Design, der Entwicklung und der Nutzung von KI-Systemen sind\r\nGrundrechte und Datenschutz zu beachten.\r\nc. KI-basierte Systeme sollten nicht ohne Beteiligung und Bewertung von\r\nfachkundigen Personen automatisierte Entscheidungen \u00fcber einzelne\r\nMenschen treffen \u2013 dies gilt insbesondere f\u00fcr sensible Hochrisiko-\r\nAnwendungsbereiche wie etwa im Bereich der Grundrechte und des\r\nDiskriminierungsschutzes.\r\nd. Anwendungen und Inhalte, die KI-basiert sind, m\u00fcssen sichtbar als solche\r\ngekennzeichnet werden. Alternative Kontaktwege m\u00fcssen aufgezeigt werden,\r\nbeispielsweise zu Beh\u00f6rden im Falle von Verwaltungsvorg\u00e4ngen. Die\r\nDatengrundlage und -quellen m\u00fcssen f\u00fcr die \u00d6ffentlichkeit transparent und\r\nnachvollziehbar sein. Dazu geh\u00f6rt es auch, die Vertrauensw\u00fcrdigkeit der\r\nverwendeten Informationen \u00fcberpr\u00fcfen zu k\u00f6nnen. Die UN sollte sich f\u00fcr\r\neine demokratische Kontrolle von KI-Systemen einsetzen, wie sie\r\nbeispielsweise im j\u00fcngsten Bericht des Forums f\u00fcr Information und\r\nDemokratie \u00fcber KI vorgeschlagen wird.\r\ne. Regierungen sollten geeignete Ma\u00dfnahmen ergreifen, um sicherzustellen,\r\ndass digitale Innovation dem Gemeinwohl dient, und Risiken der\r\nMarktkonzentration zu verringern. Die Abh\u00e4ngigkeit von privaten Ressourcen,\r\ndie f\u00fcr KI-Entwicklung kritisch sind, umfassen Rechenkapazit\u00e4ten,\r\nDatenspeicherung, Datens\u00e4tze sowie Produkte und Dienste, in die KI\r\nintegriert werden kann. Ohne Zugang zu diesen Ressourcen wird eine\r\ngemeinwohlorientierte Perspektive auf KI-Entwicklung, -Anwendung und\r\n-Nutzung erschwert. Das Ziel der VN sollte sein, eine Anbieterpluralit\u00e4t auf\r\nallen Ebenen zu erm\u00f6glichen.\r\nf. Die VN sollten darauf hinwirken, dass \u00f6ffentlich bereitgestellte Infrastruktur\r\nin Bezug auf Daten oder Rechenkapazit\u00e4t, etwa die EuroHPC supercomputing\r\nfacilities oder Initiativen wie die Alliance for Language Technologies European\r\nDigital Infrastructure Consortium, global vernetzt wird.\r\ng. Staatlich gef\u00f6rderte nationale und regionale Initiativen sollten in Form von\r\nDatens\u00e4tzen umgesetzt werden, die als Digital Commons verwaltet werden,\r\nwas bedeutet, dass sie im \u00f6ffentlichen Interesse und unter demokratischer\r\nund kollektiver Kontrolle gemeinsam genutzt werden sollten.\r\nh. In jedem Fall sollten diese Datens\u00e4tze nach einem international anerkannten,\r\ninteroperablen Datenstandard zug\u00e4nglich und austauschbar sein.\r\ni. Es m\u00fcssen Mechanismen entwickelt werden, die eine faire \u201eR\u00fcckgabe\u201c an die\r\nUrheber*innen, Rechteinhaber*innen und Gemeinschaften gew\u00e4hrleisten,\r\ndie an der Erstellung dieser Ressourcen beteiligt sind.\r\nj. Die VN sollten als Institution selbst darauf hinwirken, dass ihre Dokumente\r\nund Daten \u00fcber die offiziellen Sprachen der VN hinaus \u00f6ffentlich zur\r\nVerf\u00fcgung stehen.\r\n3 Internationale Zusammenarbeit st\u00e4rken\r\nIn der internationalen Zusammenarbeit zivilgesellschaftliche Expertise und\r\nMulti-Stakeholder-Ans\u00e4tze verankern\r\na. Die urspr\u00fcngliche Vision eines offenen, f\u00fcr alle zug\u00e4nglichen Internets ist von einem\r\nSystem \u00fcberbaut worden, das aufgeteilt ist in geschlossene Netzwerke, die von\r\nkommerziellen Akteuren dominiert werden. Zivile, nicht-kommerzielle R\u00e4ume sind\r\ndagegen kleiner geworden, \u00f6ffentlich erh\u00e4ltliche Information wird von\r\nwirtschaftlichen Nutzungsinteressen verwertet und in geschlossene R\u00e4ume\r\n\u00fcberf\u00fchrt. Die Beteiligung von zivilgesellschaftlichen Akteuren als Stakeholder eines\r\nglobalen, offenen und sicheren Internets, das den Menschen dient, ist daher\r\nunerl\u00e4sslich.\r\nb. Internationale Gremien und Prozesse m\u00fcssen den Prinzipien von Transparenz,\r\nErreichbarkeit und der koh\u00e4renten \u00f6ffentlichen Dokumentation folgen, um von\r\nau\u00dfen nachvollziehbar zu sein und eine Beteiligung verschiedener Stakeholder zu\r\nerm\u00f6glichen.\r\nc. IGF-Strukturen m\u00fcssen international und auf nationaler Ebene gest\u00e4rkt und\r\nausgebaut werden. Sie profitieren von einer aktiven, breiten und vernetzten\r\nBeteiligung aller Stakeholdergruppen. Diese Beteiligung sollte durch verantwortliche\r\nnationale Institutionen gest\u00e4rkt werden, indem erweiterte F\u00f6rderstrukturen (z. B.\r\ndurch einen gesonderten F\u00f6rdertopf \u201eFreedom Fund for Future\u201c) etabliert werden\r\nund eine feste Verankerung diverser Beteiligungsformate in der staatlichen\r\nGovernance stattfindet. So kann die Expertise aus Zivilgesellschaft und Wissenschaft\r\nwirkungsvoll, faktenbasiert und an menschlichen Bed\u00fcrfnissen orientiert\r\neingebunden werden.\r\nd. Die UN sollen sich auf die bestehende Internationale Partnerschaft f\u00fcr Information\r\nund Demokratie als eines der wichtigsten Instrumente der internationalen\r\nZusammenarbeit bei der Regulierung des globalen Informations- und\r\nKommunikationsraums beziehen, der 52 Unterzeichnerstaaten (darunter\r\nDeutschland) angeh\u00f6ren.\r\ne. Staaten sollten selbst aktiver Teil von internationalen Foren sein und sich dort f\u00fcr\r\nMenschenrechte sowie f\u00fcr die Einbeziehung von lokalen Akteur*innen und\r\nZivilgesellschaft (v.a. im Globalen S\u00fcden) einsetzen.\r\nf. Lebendige Multi-Stakeholder-Formate leben von einer existierenden und pluralen\r\nZivilgesellschaft. Eine solche Zivilgesellschaft besteht einerseits in zentral\r\nerreichbaren Institutionen, lebt und erneuert sich andererseits ma\u00dfgeblich \u00fcber\r\nehrenamtliches, projektbezogenes Engagement. Eine F\u00f6rderung weiter Teile der\r\nZivilgesellschaft ist f\u00fcr deren Mitwirkung in der internationalen Zusammenarbeit\r\nunabdingbar, etwa durch informationelle, finanzielle und materielle Unterst\u00fctzung in\r\nForm von zeitnahen, verst\u00e4ndlichen, zentral verteilten und leicht zug\u00e4nglichen\r\nInformationen, Reisekostenunterst\u00fctzung, Unterst\u00fctzung in der Raumfindung sowie\r\nTeilnahme an und F\u00f6rderung von regelm\u00e4\u00dfigen Community-Treffen in Form von\r\nKonferenzen oder anderen Arten des Dialogs.\r\ng. Neutrales, globales Monitoring der Fortschritte des GDC auf VN-Ebene sollte zeitnah,\r\ntransparent und nachvollziehbar einer globalen \u00d6ffentlichkeit \u00fcber die offiziellen\r\nSprachen der VN hinaus zur Verf\u00fcgung gestellt werden.\r\nMitwirkende Organisationen\r\n\u25cf Matthias Spielkamp, Algorithm Watch\r\n\u25cf Dr. Marcel Dorsch, CODES Coalition for Digital Environmental Sustainability\r\n\u25cf Tom Jennissen, Digitale Gesellschaft\r\n\u25cf Geraldine de Bastion, GIG Global Innovation Gathering\r\n\u25cf Caroline Krohn, Teresa Widlok, LOAD e.V\r\n\u25cf Helene Hahn, Reporter ohne Grenzen I Reporters Without Borders\r\n\u25cf Elisa Lindinger, SUPERRR Lab\r\n\u25cf Dr. Friederike von Franqu\u00e9, Wikimedia Deutschland e. V."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

@@ -1,0 +1,641 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2024-01-08T13:42:46.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2024-01-08T13:42:46.000+01:00",
+        "lastUpdateDate": "2024-07-12T09:28:09.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 40545,
+                "validFromDate": "2024-07-12T09:28:09.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 33731,
+                "validFromDate": "2024-06-10T10:09:21.000+02:00",
+                "validUntilDate": "2024-07-12T09:28:09.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26700,
+                "validFromDate": "2024-01-08T13:42:46.000+01:00",
+                "validUntilDate": "2024-06-10T10:09:21.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION_V2",
+            "de": "Sonstiges Unternehmen",
+            "en": "Other company"
+        },
+        "activityDescription": "Holcim Deutschland ist eines der f\u00fchrenden Unternehmen in Deutschland f\u00fcr innovative, nachhaltige und digitale Bau-Produkte und -L\u00f6sungen. Als Vorreiter beim nachhaltigen Bauen entwickeln die Mitarbeiter:innen von Holcim passgenaue L\u00f6sungen f\u00fcr Bauherren, Bauunternehmen, Architekt:innen und Ingenieur:innen - verbunden mit einem klaren Fokus auf Klimaschutz und Kreislaufwirtschaft. Unsere Mission: Mit weniger Material mehr bauen.\r\n\r\nMit unseren Leistungen bauen wir als zuverl\u00e4ssiger Partner gemeinsam mit unseren Kunden und Partnern an einer klimaneutralen Zukunft und damit eine lebenswerte Welt f\u00fcr alle Generationen. Wer bei Holcim arbeitet, wirkt mit am klimafreundlichen Umbau der Industrie, der nachhaltigen Gestaltung von R\u00e4umen zum Leben, Lernen und Arbeiten, dem Aufbau von langlebiger Infrastruktur sowie der Zukunft von Mobilit\u00e4t und Energieversorgung.\r\n\r\nHolcim lebt Vielfalt: Die Unternehmensgruppe besch\u00e4ftigt rund 1.800 Mitarbeiter:innen 36 verschiedener Nationalit\u00e4ten an rund 130 Standorten in Deutschland sowie in den Niederlanden. Holcim Deutschland ist eine Tochtergesellschaft des weltweit f\u00fchrenden Baustoffkonzerns Holcim Ltd.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_RP_RESIDE",
+                "de": "Wohnen",
+                "en": "Reside"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            },
+            {
+                "code": "CONTRACTS_OPERATED_BY_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird in eigenem Interesse durch die Beauftragung Dritter wahrgenommen",
+                "en": "Contracts are awarded to third parties to represent own interests of the company"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/a5/83/333874/Holcim-Deutschland-GmbH_JAP_31-12-23_TE_Final.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/4d/6a/333873/buliding_with_integrity_our_code_of_business_conduct_2021.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.5,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 180001,
+            "to": 190000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Hamburg",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Troplowitzstra\u00dfe ",
+            "streetNumber": "5",
+            "type": "NATIONAL",
+            "zipCode": "22529"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "kommunikation-deu@holcim.com"
+                }
+            ],
+            "phoneNumber": "+4940360020",
+            "websites": [
+                {
+                    "website": "holcim.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Thorsten",
+                "lastName": "Hahn",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Stephan",
+                "lastName": "Hinrichs",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Annika",
+                "lastName": "Steinmetz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Florian",
+                "lastName": "Trela",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Jan",
+                "lastName": "Peters",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Torsten",
+                "lastName": "Krohn",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Florian",
+                "lastName": "Kleinw\u00e4chter",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Markus",
+                "lastName": "Ruschke",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Thorsten",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Hahn",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Matthias",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "von der Brelje",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "VDZ e.V."
+            },
+            {
+                "membership": "Bundesverband Transportbeton e.V."
+            },
+            {
+                "membership": "DIN e.V."
+            },
+            {
+                "membership": "Deutsche Ausschuss f\u00fcr Stahlbeton e.V"
+            },
+            {
+                "membership": "Cembureau"
+            },
+            {
+                "membership": "Bundesverband Porenbeton"
+            },
+            {
+                "membership": "DGNB"
+            },
+            {
+                "membership": "Bundesverband der Deutschen Kalkindustrie e.V."
+            },
+            {
+                "membership": "Industrieverband Steine und Erden e.V. (ISTE)"
+            },
+            {
+                "membership": "Fachvereinigung Deutscher Betonfertigteilbau (FDB) e.V."
+            },
+            {
+                "membership": "Bund der Ingenieure f\u00fcr Wasserwirtschaft, Abfallwirtschaft und Kulturbau - (BWK) e.V"
+            },
+            {
+                "membership": "Deutsche Verein des Gas- und Wasserfaches e.V."
+            },
+            {
+                "membership": "Wirtschaftsvereinigung der Gr\u00fcnen e.V."
+            },
+            {
+                "membership": "Wirtschaftsrat der CDU e.V."
+            },
+            {
+                "membership": "Industrieverband Hamburg e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Holcim (Deutschland) GmbH"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Reallabor Westk\u00fcste100: Gesamtziel des Reallabors Westk\u00fcste 100 ist die Errichtung einer gro\u00df-technischen Elektrolyseanlage mit einer Leistung von 30 MW zur Produktion von Wasserstoff und dessen Verwendung zur Produktion von chemischen Grundstoffen als auch gr\u00fcnem Methanol in der Raffinerie Heide. Auch Beiprodukte der Elektrolyse sollen genutzt werden, so wird die entstehende W\u00e4rme bspw. in das Netz der Stadt Heide eingespeist und der reine Sauerstoff im Rahmen des Oxyfuel-Verfahrens in der Zementindustrie genutzt. Bei letzterem wird zudem reines CO2 ab-geschieden, welches wiederum in der Herstellung von Methanol und Kraftstoffen genutzt werden kann. Infrastrukturseitig wird eine Kaverne (Salzstock) mit einem Speichervolumen von 20.000 m\u00b3 Wasserstoff, ein eigenes Wasserstoffnetz zwischen der Raffinerie, den Stadtwerken Heide und der Kaverne als auch das Erdgasnetzt der Stadt Heide in das betrachtete Gesamtsystem einbezogen",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft & Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 190001,
+                    "to": 200000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "ReMin - Verbundvorhaben: FaBeR - Faser- und Beton-Recycling von Carbon- und Textilbeton unter Ber\u00fccksichtigung der Auswirkungen von St\u00f6rstoffen auf etablierte mineralische Rohstoffkreisl\u00e4ufe - TP 2: CO2-reduzierter Recyclingzement ",
+                "location": "Berlin",
+                "name": "BMBF",
+                "publicAllowanceEuro": {
+                    "from": 70001,
+                    "to": 80000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Verbundvorhaben: CemRoCap - Innovatives CO2-Abscheideverfahren (Aminw\u00e4sche) mittels rotierender Packungsabsorber (RPB); Teilvorhaben: Testung eines CO2-Abscheideverfahrens mittels rotierender Packungsabsorber am Beispiel des Zementwerkes Beckum ",
+                "location": "Berlin",
+                "name": "BMWK",
+                "publicAllowanceEuro": {
+                    "from": 280001,
+                    "to": 290000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Verbundvorhaben DRI-EOS: Energierahmenprogramm-Verbundvorhaben - DRI-EOS: Nutzung von auf DRI-Basis erzeugter EAF-Schlacke in der Zementindustrie - Teilprojekt 4 - Zement- und Betontechnik ",
+                "location": "Berlin",
+                "name": "BMBF",
+                "publicAllowanceEuro": {
+                    "from": 100001,
+                    "to": 110000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Verbundvorhaben: URBAN - CO2-reduzierter Beton durch Upcycling von Reststoffen aus der Betonaufbereitung und CCU; Teilvorhaben: Entwicklung CO2-reduzierter Recyclingzemente aus RC-Belitklinker ",
+                "location": "Berlin",
+                "name": "BMWK",
+                "publicAllowanceEuro": {
+                    "from": 100001,
+                    "to": 110000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "DDI: Industrielle Erforschung zur membranbasierten CO2-Abtrennung f\u00fcr die Dekarbonisierung von Zementwerken (ErfMemDekZem) ",
+                "location": "Berlin",
+                "name": "BMWK",
+                "publicAllowanceEuro": {
+                    "from": 1320001,
+                    "to": 1330000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R006423/40545",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-10T10:09:21.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/4d/13/333875/Lobbyregister-Detailansicht-R006423-2024-07-12_09-28-09.pdf",
+        "validFromDate": "2024-07-12T09:28:09.000+02:00",
+        "version": 3
+    },
+    "registerEntryId": 40545,
+    "registerNumber": "R006423",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "KSpG",
+                        "title": "Gesetz zur Demonstration der dauerhaften Speicherung von Kohlendioxid",
+                        "url": "https://www.gesetze-im-internet.de/kspg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "- Integration von CCU innerhalb der Transportkette als M\u00f6glichkeit\r\n- Ratifizierung des London Protokolls \r\n- Planungsbeschleunigung",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmwk.de/Redaktion/DE/Downloads/Gesetz/20240226-referentenentwurf-cms.pdf?__blob=publicationFile&v=10",
+                            "shortTitle": "BMWK",
+                            "title": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                            "url": "https://www.bmwk.de/Navigation/DE/Home/home.html"
+                        }
+                    ],
+                    "publicationDate": "2024-02-26",
+                    "title": "Entwurf eines Ersten Gesetzes zur \u00c4nderung des Kohlendioxid Speicherungsgesetzes"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001665",
+                "statements": [],
+                "title": "Kohlenstoff-Speicher und Transportgesetz"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Gr\u00fcne Leitm\u00e4rkte sollen die Nachfrage nach klimafreundlich hergestellten Grundstoffen wie Stahl und Zement st\u00e4rken und unterst\u00fctzen so Investitionen in neue Industrietechnologien und -prozesse. Das Ziel ist, dass gr\u00fcne Produkte und Prozesse zunehmend wettbewerbsf\u00e4hig werden und sich die M\u00e4rkte mittel- bis langfristig selbst tragen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011013",
+                "statements": [],
+                "title": "Leitm\u00e4rkte f\u00fcr klimafreundliche Grundstoffe"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "KrWG",
+                        "title": "Gesetz zur F\u00f6rderung der Kreislaufwirtschaft und Sicherung der umweltvertr\u00e4glichen Bewirtschaftung von Abf\u00e4llen",
+                        "url": "https://www.gesetze-im-internet.de/krwg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Nationale Kreislaufwirtschaftsstrategie (NKWS): Diese Strategie soll Ziele und Ma\u00dfnahmen zum zirkul\u00e4ren Wirtschaften und zur Ressourcenschonung aus allen relevanten Strategien zusammenf\u00fchren.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011014",
+                "statements": [],
+                "title": "Nationale Kreislaufwirtschaftsstrategie (NKWS)"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

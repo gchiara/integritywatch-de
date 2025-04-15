@@ -1,0 +1,881 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-10-12T14:52:28.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-03T15:30:18.000+01:00",
+        "lastUpdateDate": "2024-07-26T14:10:49.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37767,
+                "validFromDate": "2024-07-26T14:10:49.000+02:00",
+                "version": 10,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 33365,
+                "validFromDate": "2024-06-18T15:16:45.000+02:00",
+                "validUntilDate": "2024-07-26T14:10:49.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 29692,
+                "validFromDate": "2024-05-10T11:58:13.000+02:00",
+                "validUntilDate": "2024-06-18T15:16:45.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22275,
+                "validFromDate": "2023-06-26T15:04:35.000+02:00",
+                "validUntilDate": "2024-05-10T11:58:13.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22264,
+                "validFromDate": "2023-06-26T14:55:06.000+02:00",
+                "validUntilDate": "2023-06-26T15:04:35.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 19326,
+                "validFromDate": "2023-04-25T09:22:36.000+02:00",
+                "validUntilDate": "2023-06-26T14:55:06.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 18543,
+                "validFromDate": "2023-04-18T14:59:47.000+02:00",
+                "validUntilDate": "2023-04-25T09:22:36.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17035,
+                "validFromDate": "2023-03-08T11:47:18.000+01:00",
+                "validUntilDate": "2023-04-18T14:59:47.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 12408,
+                "validFromDate": "2022-10-12T14:52:28.000+02:00",
+                "validUntilDate": "2023-03-08T11:47:18.000+01:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Briefe an Bundestagsabgeordnete bzw. an Aussch\u00fcsse oder Gespr\u00e4che mit denselben zu unsere Arbeit betreffenden Themenbereichen.\r\nKontaktpflege mit Personen aus Bundesministerien zu unsere Arbeit betreffenden Themenbereichen.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ECONOMY_FINANCE",
+                "de": "Bank- und Finanzwesen",
+                "en": "Banking and finance"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/de/d5/338422/JA-OroVerde-2022-mit-Bestaetigungsvermerk.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/c2/6b/338421/2024-04-Verhaltenskodex_OroVerde_mitLinks.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 1460001,
+            "to": 1470000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.62,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 40001,
+            "to": 50000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Bonn",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "OroVerde - Tropenwaldstiftung",
+            "street": "Burbacher Str.",
+            "streetNumber": "81",
+            "type": "NATIONAL",
+            "zipCode": "53129"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "vorstand@oroverde.de"
+                }
+            ],
+            "phoneNumber": "+49228242900",
+            "websites": [
+                {
+                    "website": "https://www.regenwald-schuetzen.org"
+                },
+                {
+                    "website": "https://www.oroverde.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Martina",
+                "lastName": "Schaub",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Lioba",
+                "lastName": "Schwarzer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Ulrich",
+                "lastName": "Malessa",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_RSBR",
+            "de": "Rechtsf\u00e4hige Stiftung b\u00fcrgerlichen Rechts",
+            "en": "Legal foundation under civil law"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Martina",
+                "function": "hauptamtlicher Vorstand",
+                "lastName": "Schaub",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "VENRO, Verband Entwicklungspolitik und humanit\u00e4re Hilfe "
+            },
+            {
+                "membership": "Deutscher Naturschutzring"
+            },
+            {
+                "membership": "Forum Umwelt und Entwicklung"
+            },
+            {
+                "membership": "Arbeitsgemeinschaft Natur- und Umweltbildung Bundesverband e.V."
+            },
+            {
+                "membership": "Forest Stewardship Council (FSC) Deutschland"
+            },
+            {
+                "membership": "Climate Action Network Europe"
+            },
+            {
+                "membership": "Initiative Lieferkettengesetz"
+            },
+            {
+                "membership": "Netzwerk Gerechter Welthandel"
+            },
+            {
+                "membership": "ILO 169 Koordinationskreis"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "OroVerde - Die Tropenwaldstiftung"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Projekt zur F\u00f6rderung entwaldungsfreier Lieferketten, Laufzeit April 2021 bis M\u00e4rz 2024 ",
+                "location": "Bonn/Berlin",
+                "name": "BMU/ Nationale Klimainitiative",
+                "publicAllowanceEuro": {
+                    "from": 70001,
+                    "to": 80000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Investments f\u00fcr Wald- und Biodiversit\u00e4tsschutz, Laufzeit April 2021 bis M\u00e4rz 2023",
+                "location": "Bonn",
+                "name": "Bundesamt f\u00fcr Naturschutz",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Gesch\u00e4ftsmodelle f\u00fcr Waldwiederaufbau in Guatemala, Laufzeit 2015 bis 2023 ",
+                "location": "Bonn/Berlin",
+                "name": "BMU/ Internationale Klimainitiative",
+                "publicAllowanceEuro": {
+                    "from": 1270001,
+                    "to": 1280000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Impulso EcoDesarrollo II, nachhaltige l\u00e4ndliche Entwicklung und Verbesserung der Lebensbedingungen, Guatemala, Laufzeit Januar 2023 bis Dezember 2025",
+                "location": "Bonn/Berlin",
+                "name": "BMZ",
+                "publicAllowanceEuro": {
+                    "from": 160001,
+                    "to": 170000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Amatitl\u00e1n: Wiederherstellung von Waldlandschaften im Wassereinzugsgebiet des Amatitl\u00e1n Sees, Laufzeit Nov. 2021 bis Dez. 2024, Guatemala ",
+                "location": "Bonn/Berlin",
+                "name": "BMZ",
+                "publicAllowanceEuro": {
+                    "from": 250001,
+                    "to": 260000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Jugendbildungsprojekt in Sierra del Lacand\u00f3n, Laufzeit Mai 2021 bis Dez. 2024, Guatemala ",
+                "location": "Bonn/Berlin",
+                "name": "BMZ",
+                "publicAllowanceEuro": {
+                    "from": 100001,
+                    "to": 110000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "\u00dcberregionales Projekt zu \u00d6kobasierter Anpassung in Wasserscheideregionen Mittelamerikas, Laufzeit 2018 bis 2023 ",
+                "location": "Berlin",
+                "name": "BMU/ Internationale Klimainitiative",
+                "publicAllowanceEuro": {
+                    "from": 1300001,
+                    "to": 1310000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Biodiversit\u00e4t im Karibischen Biologischen Korridor, Laufzeit Nov. 2019 bis Dez 2027, \u00fcberregionale Zusammenarbeit ",
+                "location": "Berlin",
+                "name": "BMU/ Internationale Klimainitiative",
+                "publicAllowanceEuro": {
+                    "from": 270001,
+                    "to": 280000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "\u00dcberregionales Projekt mit indigenen Jugendlichen in Ecuador-Peru, Laufzeit Juli 2021 bis Dez. 2024 ",
+                "location": "Bonn/Berlin",
+                "name": "BMZ",
+                "publicAllowanceEuro": {
+                    "from": 80001,
+                    "to": 90000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Mangroven-Wiederaufforstung und Ressourcenschutz im Golf von Fonseca, Honduras, Laufzeit Sept 2021 bis Aug 2024",
+                "location": "Bonn/Berlin",
+                "name": "BMZ",
+                "publicAllowanceEuro": {
+                    "from": 140001,
+                    "to": 150000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Aufbau eines integrativen Vermarktungsnetzes f\u00fcr Produkte aus biodiversen Agroforstsystemen im Biosph\u00e4renreservat Sierra de las Minas, Guatemala, Laufzeit 11/22-12/25",
+                "location": "Berlin/Bonn",
+                "name": "BMZ",
+                "publicAllowanceEuro": {
+                    "from": 100001,
+                    "to": 110000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Risk finance solutions for large-scale implementation of biodiversity-friendly agriculture, Laufzeit 08/23 - 07/31",
+                "location": "Berlin",
+                "name": "BMU/ Internationale Klimainitiative",
+                "publicAllowanceEuro": {
+                    "from": 260001,
+                    "to": 270000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Verl\u00e4ngerung: Inklusionsprojekt \"Ich und meine Umwelt\", Laufzeit 01/21-09/23",
+                "location": "Berlin/Bonn",
+                "name": "SUE / FEB",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Aufbau eines integrativen Vermarktungsnetzes f\u00fcr Produkte aus biodiversen Agroforstsystemen in der Dominikanischen Republik Laufzeit 12/2021 - 12/2025",
+                "location": "Bonn/Berlin",
+                "name": "BMZ",
+                "publicAllowanceEuro": {
+                    "from": 110001,
+                    "to": 120000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Das Projekt analysiert den freiwilligen Kohlenstoffmarkt f\u00fcr Waldprojekte (Vermiedene Entwaldung und Aufforstung), die dabei bestehenden Risiken und L\u00f6sungsans\u00e4tze, sowie die verschiedenen Berechnungsmethoden, um vermeidbare von unvermeidbaren Emissionen im Unternehmenskontext zu unterscheiden. Laufzeit: Mai 2023 bis M\u00e4rz 2025",
+                "location": "Dessau-Ro\u00dflau",
+                "name": "Umweltbundesamt",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Gobalprogramm Entwicklung von Bleibeperspektiven f\u00fcr Familien in l\u00e4ndlichen R\u00e4umen in Mexiko, Guatemala und Honduras, Laufzeit 12/2023 - 12/2027",
+                "location": "Bonn/Berlin",
+                "name": "BMZ",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Regenwald entdecken / Digitale Lernwelt f\u00fcr Kinder, Laufzeit Juni 2023 - Februar 2026",
+                "location": "Bonn",
+                "name": "SUE/FEB (mit Postcode-Lotterie)",
+                "publicAllowanceEuro": {
+                    "from": 90001,
+                    "to": 100000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002823/37767",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-05-10T11:58:13.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/eb/19/338423/Lobbyregister-Detailansicht-R002823-2024-07-26_14-10-49.pdf",
+        "validFromDate": "2024-07-26T14:10:49.000+02:00",
+        "version": 10
+    },
+    "registerEntryId": 37767,
+    "registerNumber": "R002823",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Umsetzung der Verordnung (EU) 2023/1115 des europ\u00e4ischen Parlaments und des Rates \u00fcber die Bereitstellung bestimmter Rohstoffe und Erzeugnisse, die mit Entwaldung und Waldsch\u00e4digung in Verbindung stehen, auf dem Unionsmarkt und ihre Ausfuhr aus der Union sowie zur Aufhebung der Verordnung (EU) Nr. 995/2010",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0000609",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/15/1f/272131/Stellungnahme-Gutachten-SG2405070002.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                        "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                        "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-28"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0000609",
+                        "regulatoryProjectTitle": "Implementierung der EU-Verordnung f\u00fcr entwaldungsfreie Produkte",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Die bahnbrechende EU-Verordnung zur Entwaldung wird nur funktionieren, wenn die \r\nMitgliedstaaten jetzt mit der Umsetzung beginnen \r\n\r\n \r\n\r\nSehr geehrte...,  \r\n\r\n \r\n\r\nals die EU-Verordnung \u00fcber entwaldungsfreie Produkte (EUDR) im Jahr 2023 erlassen wurde, hatte sie \r\neine \u00fcberw\u00e4ltigende \u00f6ffentliche Unterst\u00fctzung und wurde von Nichtregierungsorganisationen, \r\nUnternehmen und der Mehrheit der EU-Mitgliedstaaten und der Mitglieder des Europ\u00e4ischen \r\nParlaments (MdEP) nachdr\u00fccklich bef\u00fcrwortet. Es gibt jedoch beunruhigende Signale, dass einige \r\nMitgliedstaaten die Umsetzung verz\u00f6gern. \r\nWir m\u00f6chten Sie daher mit diesem Schreiben dringend bitten, angesichts der Dringlichkeit der Klima- \r\nund Biodiversit\u00e4tskrise Mittel f\u00fcr die rechtzeitige Umsetzung der EUDR bereitzustellen.  \r\nDie EUDR ist insofern innovativ, als sie gegen die gegen die zus\u00e4tzliche Entwaldung f\u00fcr die \r\nlandwirtschaftliche Expansion vorgeht, die nach Sch\u00e4tzungen der Zeitschrift Science f\u00fcr 90-99 % der \r\nAbholzung der Tropenw\u00e4lder verantwortlich ist. Sie wurde in langwierigen und komplexen \r\nVerhandlungen unter Einbeziehung zahlreicher Interessengruppen entwickelt, um zu verhindern, dass \r\ndie EU durch Abholzung gef\u00e4hrdete Produkte wie Rinder, Kakao, Kaffee, Palm\u00f6l, Naturkautschuk, Holz \r\noder Soja konsumiert und exportiert. Die EUDR wird auch von entscheidender Bedeutung sein, um \r\ndie Verschlechterung der europ\u00e4ischen W\u00e4lder zu verhindern, die durch die Klimakrise, den Raubbau \r\nund die schlechte Bewirtschaftung der Plantagen bereits stark beeintr\u00e4chtigt sind.  \r\nEs liegt nun an den Mitgliedstaaten, daf\u00fcr zu sorgen, dass diese \"bahnbrechende\" Verordnung ihr \r\nVersprechen einl\u00f6st und den Fu\u00dfabdruck der EU bei der Entwaldung verringert, der nach China der \r\nzweitgr\u00f6\u00dfte der Welt ist. \r\nWir sind daher sehr besorgt \u00fcber die j\u00fcngste Untersuchung des International Consortium of \r\nInvestigative Journalists (ICCJ), die ergab, dass Mitgliedstaaten wie \u00d6sterreich, Deutschland, die \r\nNiederlande und Rum\u00e4nien zu wenig Ressourcen f\u00fcr die Umsetzung der EUDR bereitgestellt haben. \r\nWir sind auch best\u00fcrzt \u00fcber die in letzter Minute unternommenen Anstrengungen der Agrarminister \r\nvon 20 Mitgliedstaaten, die Verordnung zu reduzieren und zu verz\u00f6gern, wie nach der Sitzung des \r\nRats \u201eLandwirtschaft und Fischerei\u201c am 26. M\u00e4rz 2024 berichtet wurde. In \u00e4hnlicher Weise fordern \r\neinige Industriezweige eine Verschiebung der EUDR-Verpflichtungen - und ignorieren dabei v\u00f6llig die \r\nUmweltkrisen, zu deren Bew\u00e4ltigung die EUDR beitragen soll.  \r\nWir unterst\u00fctzen die Unternehmen und Sektoren, die sich um die Einhaltung der Vorschriften \r\nbem\u00fchen. Der Kautschuk- und der Kakaosektor befassen sich bereits mit der R\u00fcckverfolgbarkeit und \r\nder Einhaltung der Legalit\u00e4t in ihren Lieferketten sowie mit der Frage, wie kleinb\u00e4uerliche Lieferanten \r\neinbezogen werden k\u00f6nnen. \r\n\r\n\r\nWir fordern alle Mitgliedstaaten auf, sich an vorderster Linie f\u00fcr eine rasche und wirksame \r\nUmsetzung der EUDR einzusetzen, anstatt auf die Lobbybem\u00fchungen der Industrie hereinzufallen. \r\nJede Verz\u00f6gerung bei der Umsetzung w\u00fcrde die Position der EU als globaler Vorreiter bei der \r\nEinf\u00fchrung sinnvoller Gesetze zur Bek\u00e4mpfung der Entwaldung untergraben und ihre \r\nGlaubw\u00fcrdigkeit beeintr\u00e4chtigen. \r\nWir stehen zu unserer Erkl\u00e4rung vom Juni 2023 und verpflichten uns, mit der Europ\u00e4ischen \r\nKommission und den Mitgliedstaaten zusammenzuarbeiten, um sicherzustellen, dass: \r\n\u2022 die Umsetzung der EUDR nicht verz\u00f6gert oder abgeschw\u00e4cht wird, um diejenigen, die sich um \r\ndie Einhaltung bem\u00fchen, nicht zu \"bestrafen\" oder den globalen M\u00e4rkten und ihren \r\nf\u00fchrenden Akteuren ein Signal der Schw\u00e4che zu geben.  \r\n\u2022 die Mitgliedstaaten die zust\u00e4ndigen Beh\u00f6rden ernennen und sie mit ausreichend Personal \r\nund Haushaltsmitteln ausstatten, um die erforderliche Anzahl von Inspektionen \r\ndurchzuf\u00fchren.  \r\n\u2022 Unterst\u00fctzungsma\u00dfnahmen beschlossen werden, um Kleinb\u00e4uer:innen und Waldbesitzenden \r\nbei der Einhaltung der Verordnung zu helfen. \r\nW\u00e4hrend dieses \u00dcbergangszeitraums haben wir gezeigt, dass es bereits Sorgfaltspflichtsysteme, \r\nDaten und Instrumente zur Bek\u00e4mpfung der Entwaldung gibt. Es gibt keine Hindernisse f\u00fcr die \r\nUmsetzung der EUDR, abgesehen von der R\u00fcckverfolgung durch die Mitgliedstaaten und \r\nUnternehmen. Die Zeit f\u00fcr die Umsetzung ist jetzt gekommen. Die EU muss weiter vorankommen, \r\ndamit wir die Entwaldung und die Sch\u00e4digung der W\u00e4lder zum Wohle der Menschen, der Natur und \r\ndes Planeten stoppen k\u00f6nnen. \r\n\r\n \r\n\r\n \r\n\r\nUnterzeichnet von \r\n\r\n \r\n\r\nBiofuelwatch, Europa/USA \r\n\r\n\r\nBirdLife, Schweden \r\nBruno Manser Fonds, Schweiz \r\nCanop\u00e9e For\u00eats Vivantes, Frankreich \r\nClientEarth \r\nComit\u00e9 Schone Lucht, Niederlande \r\nDeutsche Umwelthilfe, Deutschland \r\nEarth Thrive, GB/ Serbien \r\nEarthsight \r\nEcologistas en Acci\u00f3n, Spanien  \r\nEi polteta tulevaisuutta, Finnland \r\nEkumenick\u00e1 akademie, Tschechische Republik \r\nEnvol Vert, Frankreich \r\nEuropean Civic Forum, Frankreich \r\nFern, Belgien \r\nFinnish Association for Nature Conservation, Finnland \r\nForests of the World, D\u00e4nemark \r\nFriends of Fert\u0151 Lake Association, Ungarn \r\nGermanwatch, Deutschland \r\nGreat Lakes and Wetlands Association, Ungarn \r\nKoalice pro \u0159eky, Tschechische Republik \r\nLeefmilieu, Niederlande \r\nMighty Earth \r\nMilieudefensie, Niederlande \r\nMobilisation for the Environment, Niederlande \r\nNeuer Weg Association, Rum\u00e4nien \r\nOroVerde, Deutschland \r\nPolish Ecological Club, Polen \r\nRainforest Foundation Norway, Norwegen \r\nROBIN WOOD e.V., Deutschland \r\nSociety for Threatened Peoples, Schweiz \r\nS\u00fcdwind, \u00d6sterreich \r\nSwedish Society for Nature Conservation, Schweden \r\n\r\n\r\nUkrainian Nature Conservation Group, Ukraine \r\nWild Europe Foundation, Niederlande \r\n\r\n "
+                        }
+                    },
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/aa/d6/272133/Stellungnahme-Gutachten-SG2405070003.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                        "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                        "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-17"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0000609",
+                        "regulatoryProjectTitle": "Implementierung der EU-Verordnung f\u00fcr entwaldungsfreie Produkte",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Die EU-Verordnung gegen Entwaldung ist angemessen, umsetzbar und unverzichtbar f\u00fcr\r\nKlimaschutz und Biodiversit\u00e4t\r\n\r\nSehr geehrter Herr Bundesminister,\r\n\r\nder Erhalt der W\u00e4lder auf der Erde ist eine der wichtigsten Ma\u00dfnahmen im Kampf gegen die\r\nKlimakrise und das Artensterben. Das BMEL hat sich beim Gesetzgebungsprozess zur\r\nEU-Verordnung f\u00fcr entwaldungsfreie Produkte (EUDR) und im Austausch mit der Kommission und\r\nden beteiligten Akteuren als progressive Kraft innerhalb der EU gezeigt, was wir als Zivilgesellschaft\r\nsehr begr\u00fc\u00dft haben.\r\n\r\nAls Umweltverb\u00e4nde und entwicklungspolitische Organisationen bekennen wir uns zur\r\nnachhaltigen Nutzung von W\u00e4ldern und anderen wertvollen \u00d6kosystemen, dem klimafreundlichen\r\nRohstoff Holz und seiner Bedeutung auch f\u00fcr die Wirtschaft in Deutschland und der EU. Deswegen\r\nist es uns wichtig, dass im Zuge der aktuellen Debatte rund um die EUDR keine falschen Annahmen\r\nund ungerechtfertigte Argumente vorgebracht werden, die die Umsetzung dieser ungemein\r\nwichtigen Verordnung verhindern.\r\n\r\nErf\u00fcllungsaufwand\r\nF\u00fcr die EU-B\u00e4uer:innen und Waldbesitzende ist der tats\u00e4chliche Aufwand zur Erf\u00fcllung der\r\nPflichten nicht viel gr\u00f6\u00dfer als das, was schon heute gilt. Die geforderten Geo-Lokalisationsdaten\r\nliegen ihnen durch forstliche Vereinigungen oder die EU-Fl\u00e4chenpr\u00e4mie der GAP bereits meist vor.\r\nWo sie fehlen, dauert die Ermittlung online oder \u00fcber das Smartphone nur wenige Minuten. Diese\r\nDaten m\u00fcssen nur einmal erhoben werden und keineswegs f\u00fcr jeden einzelnen Baum, wie\r\nteilweise behauptet wird.\r\n\r\nBenchmarking\r\nDie EU-Kommission hat bisher kein L\u00e4nder-Benchmarking vorgelegt. Gem\u00e4\u00df Artikel 29 (2) sind bis\r\ndahin alle L\u00e4nder dem Standard-Risiko zugeordnet und die Liste der L\u00e4nder oder Landesteile, die\r\n\r\n\r\nmit einem geringen oder hohem Risiko bewertet werden, kann noch bis zum 30.12. ver\u00f6ffentlicht\r\nwerden. Der Aufwand f\u00fcr Waldbesitzende und Forstbetriebe ist nahezu gleich, da bei niedrigem\r\nund mittlerem Risiko die Informationspflichten und die Geo-Lokalisationsdaten angegeben werden\r\nm\u00fcssen. Wo bewirtschaftete Wald- oder Landwirtschaftsfl\u00e4chen schon vor 2020 im Besitz waren,\r\nkann unabh\u00e4ngig von der EU-Risikobewertung einfach nachgewiesen werden, dass es seitdem\r\nnicht zu Entwaldung gekommen ist.\r\n\r\nAusnahmeregelung\r\nDie Forderung nach einer Ausnahme f\u00fcr EU-Mitgliedstaaten von der EUDR mit der Begr\u00fcndung,\r\nhier g\u00e4be es keine Entwaldung, greift ohnehin viel zu kurz, da die Verordnung richtigerweise auch\r\nWalddegradierung und Illegalit\u00e4t verhindern soll. Es gibt innerhalb der EU aber sowohl illegalen\r\nHolzeinschlag als auch massive \u00dcbernutzung von W\u00e4ldern. Eine Ausnahme f\u00fcr die Mitgliedstaaten\r\nist daher im globalen Kampf gegen Entwaldung nicht sinnvoll.\r\n\r\nInvestitionssicherheit\r\nDar\u00fcber hinaus haben viele Unternehmen erhebliche Anstrengungen unternommen, um ihre\r\nLieferketten in Vorbereitung auf das Gesetz transparent zu machen. Dies zeigt sich beispielsweise\r\nim Kakaosektor. Die Regierungen der wichtigsten Anbaul\u00e4nder, insbesondere die der C\u00f4te d\u2019Ivoire\r\nund Ghanas, haben ebenfalls wesentliche Bem\u00fchungen unternommen. Ein Aussetzen der\r\nRegulierung w\u00fcrde daher bedeuten, dass diejenigen belohnt werden, die sich nicht auf die EUDR\r\nvorbereitet haben, w\u00e4hrend Unternehmen und Regierungen, die sich vorbereitet haben, ihre\r\nInvestitionen umsonst get\u00e4tigt h\u00e4tten.\r\nIm Kakaoanbau wie auch in den anderen betroffenen Sektoren f\u00fchren Diskussion \u00fcber einen\r\nAufschub der Umsetzung des EUDR somit zu gro\u00dfer Verunsicherung bei den\r\nFrontrunner-Unternehmen und diesen drohen preisliche Nachteile im Wettbewerb. Eine solche\r\nRechtsunsicherheit sollte verhindert werden.\r\n\r\nSehr geehrter Herr Bundesminister, die EUDR ist von allen Akteuren umsetzbar, mit Augenma\u00df\r\nentwickelt und f\u00fcr den Klimaschutz und den Erhalt der Biodiversit\u00e4t unverzichtbar. Unsachliche\r\nArgumente d\u00fcrfen nicht den Ausschlag geben f\u00fcr politische Entscheidungen. Wir bitten Sie\r\ndeshalb, sich weiterhin f\u00fcr die wegweisende EU-Verordnung gegen Entwaldung auf nationaler und\r\nEU-Ebene starkzumachen.\r\nF\u00fcr weiterf\u00fchrende Gespr\u00e4che stehen wir Ihnen gerne zur Verf\u00fcgung.\r\n\r\nDie unterzeichnenden Organisationen\r\n\r\nArndt von Massenbach, Politischer Gesch\u00e4ftsf\u00fchrer, INKOTA-Netzwerk e.V.\r\n\r\nHeike Vesper, Vorst\u00e4ndin Transformation Politik & Wirtschaft, WWF Deutschland\r\n\r\nMartina Schaub, Vorst\u00e4ndin, OroVerde - Die Tropenwaldstiftung\r\n\r\nSascha M\u00fcller-Kraenner, Bundesgesch\u00e4ftsf\u00fchrer, Deutsche Umwelthilfe e.V.\r\n\r\nStefan H\u00f6rmann, Gesch\u00e4ftsf\u00fchrer, Global Nature Fund"
+                        }
+                    },
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/87/3c/272135/Stellungnahme-Gutachten-SG2405070004.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMZ",
+                                        "de": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                                        "en": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-22"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0000609",
+                        "regulatoryProjectTitle": "Implementierung der EU-Verordnung f\u00fcr entwaldungsfreie Produkte",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": " \r\n\r\nDie EU-Verordnung gegen Entwaldung ist angemessen, umsetzbar und unverzichtbar f\u00fcr \r\nKlimaschutz und Biodiversit\u00e4t \r\n\r\n \r\nSehr geehrte Frau Bundesministerin , \r\n\r\n\r\ndie EU-Verordnung f\u00fcr entwaldungsfreie Produkte (EUDR) ist ein zentraler Baustein zur \r\nBek\u00e4mpfung der globalen Biodiversit\u00e4ts- und Klimakrise. Weltweit gibt es damit erstmals ein \r\nGesetz, welches das auf den Markt bringen von Rohstoffen und Produkten aus illegaler oder \r\nlegaler Waldzerst\u00f6rung oder Walddegradierung unterbinden soll.  \r\n\r\n\r\nDie Relevanz der fristgerechten Umsetzung  \r\nDie EUDR ist im Juni 2023 in Kraft getreten, nachdem sie auf EU-Ebene mit breiter \r\nUnterst\u00fctzung von Rat und Parlament angenommen wurde. Die Mitgliedstaaten und die \r\nKommission m\u00fcssen dieses Gesetz nun, wie in der Verordnung festgeschrieben, zum 31. \r\nDezember 2024 in Anwendung bringen. Mit sehr gro\u00dfer Sorge nehmen wir wahr, dass einige \r\nMitgliedstaaten und Interessengruppen die Anwendung verz\u00f6gern wollen. Ein Aufschub w\u00e4re aber \r\nnur mit einem Aufschn\u00fcren der Verordnung m\u00f6glich und mit einem darauffolgenden zeitintensiven \r\nLegislativprozess verbunden. Das \u00d6ffnen gef\u00e4hrdet den m\u00fchsam erarbeiteten, sehr guten \r\nKompromiss und verz\u00f6gert die Wirksamwerdung auf unbestimmte Zeit. Zeit, die wir angesichts der \r\nsich versch\u00e4rfenden Klima- und Biodiversit\u00e4tskrise nicht haben. Die Zerst\u00f6rung der W\u00e4lder und \r\n\u00d6kosysteme geht aktuell unvermindert weiter, was sich unter anderem in der Amazonasregion \r\nbereits durch zunehmende Wetterextreme bemerkbar macht. \r\n\r\n\r\nGleiche Bedingungen f\u00fcr alle - Die Einhaltung der Klima- und Biodiversit\u00e4tsziele \r\nDie EUDR hat das Ziel, endlich gleiche Wettbewerbsbedingungen auf dem Markt zu schaffen, \r\nnachdem freiwillige Zusagen des Privatsektors zur Bek\u00e4mpfung der Entwaldung in ihren \r\nLieferketten jahrelang gescheitert waren. Sie wird entscheidend dazu beitragen, dass die EU \r\nund Deutschland die Verpflichtungen des UN-Klimaschutzabkommens der COP28 und die des \r\nBiodiversit\u00e4tsabkommens der COP15 erf\u00fcllen.  \r\n\r\n \r\nDIe Relevanz f\u00fcr Produktionsl\u00e4nder und unser Einfluss \r\nDie EUDR hat zudem Auswirkungen auf die Rechte und die Lebensgrundlage von indigenen \r\nund traditionellen Gemeinschaften, die auf die W\u00e4lder und andere \u00d6kosysteme angewiesen \r\nsind, denn sie reduziert den Druck zur Entwaldung und fordert die Einhaltung lokaler \r\nGesetzgebungen, etwa in Bezug auf Landrechte, Kinderarbeit und Umweltgesetze. Auch \r\nregierungsseitig sind in einigen L\u00e4ndern schon erhebliche Anstrengungen unternommen \r\nworden; so haben beispielsweise Ghana und die Elfenbeink\u00fcste als zwei der wichtigsten \r\nAnbaul\u00e4nder f\u00fcr Kakao bereits wichtige Schritte zur Erf\u00fcllung der Vorgaben unternommen. Die \r\nEU muss sich dringend von einem Produktions- und Konsummodell verabschieden, das die \r\nNaturzerst\u00f6rung vorantreibt und die Menschenrechte sowie die Lebensgrundlagen von \r\nKleinb\u00e4uer:innen bedroht. Die EUDR ist in diesem Zusammenhang ein wichtiger Baustein, um \r\ndie Nachhaltigkeit in globalen Lieferketten voranzutreiben. \r\n\r\n \r\n\r\nDer Aufwand f\u00fcr Unternehmen und die Folgen einer Verschiebung \r\nDie EUDR wird von einigen Industrieverb\u00e4nden, Drittl\u00e4ndern und EU-Mitgliedstaaten derzeit \r\nmassiv kritisiert. Hierbei sind auch viele Falschinformationen in Umlauf. Beispielsweise zum \r\nL\u00e4nderbenchmarking gem\u00e4\u00df Artikel 29 (2), welches die EU-Kommission m\u00f6glicherweise nicht \r\nbis Ende des Jahres fertigstellen wird. Bis zur Klassifizierung durch die EU-Kommission sind \r\nalle L\u00e4nder dem Standard-Risiko zugeordnet. Der nun h\u00e4ufig diskutierte Aufwand f\u00fcr EU-Agrar- \r\nund Forstbetriebe ist dabei nahezu gleich, da der Aufwand vor allem durch die erstmals zu \r\nerhebenden Informationspflichten und die daf\u00fcr notwendigen Geo-Lokalisationsdaten entsteht. \r\nDie Absch\u00e4tzung der in der Verordnung gelisteten Risikofaktoren kann in der Regel, \r\nunabh\u00e4ngig von der Einstufung beim Benchmarking, aufgrund eines sehr geringen praktischen \r\nRisikos sehr z\u00fcgig vorgenommen werden. Eine Verschiebung der Umsetzung der EUDR w\u00fcrde \r\neinen monatelangen erneuten Gesetzgebungsprozess notwendig machen, der bei den \r\nWirtschaftsakteuren zu zus\u00e4tzlicher Unsicherheit f\u00fchren w\u00fcrde.  \r\n\r\n \r\n\r\nWir bitten Sie eindringlich, die Integrit\u00e4t des demokratischen Entscheidungsprozesses in der EU \r\nzu sch\u00fctzen und sicherzustellen, dass die Bundesregierung bei der Verfolgung der in der EUDR \r\nfestgelegten Ziele standhaft bleibt und sich bei der EU-Kommission und im EU-Rat f\u00fcr die \r\ngeplante Umsetzung einsetzt. Bitte stellen Sie sicher, dass diese Verordnung ihr Versprechen \r\neinl\u00f6sen und die Zerst\u00f6rung der unersetzlichen W\u00e4lder in den verschiedensten Erdteilen f\u00fcr den EU-\r\nKonsum entscheidend verringern kann. \r\n\r\n \r\n\r\nWir w\u00e4ren dankbar f\u00fcr die Gelegenheit, die Einzelheiten dieser wichtigen Angelegenheit mit \r\nIhnen weiter zu er\u00f6rtern, und freuen uns darauf, von Ihnen zu h\u00f6ren und einen geeigneten \r\nTermin f\u00fcr ein Treffen zu vereinbaren. \r\n\r\n\r\nDie unterzeichnenden Organisationen \r\n\r\n \r\n\r\n \r\n\r\nArndt von Massenbach, Politischer Gesch\u00e4ftsf\u00fchrer, INKOTA-netzwerk e.V.  \r\n\r\n \r\n\r\nHeike Vesper, Vorst\u00e4ndin Transformation Politik & Wirtschaft, WWF Deutschland \r\n\r\n \r\n\r\nMartina Schaub, Vorst\u00e4ndin, OroVerde - Die Tropenwaldstiftung \r\n\r\n \r\n\r\nSascha M\u00fcller-Kraenner, Bundesgesch\u00e4ftsf\u00fchrer, Deutsche Umwelthilfe e.V \r\n\r\n \r\n\r\nStefan H\u00f6rmann, Gesch\u00e4ftsf\u00fchrer, Global Nature Fund "
+                        }
+                    }
+                ],
+                "title": "Implementierung der EU-Verordnung f\u00fcr entwaldungsfreie Produkte"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Schaffung eines st\u00e4rkeren europ\u00e4ischen gesetzlichen Rahmens zur menschenrechtlichen Sorgfaltspflicht f\u00fcr Unternehmen und Finanzakteure. Umsetzung der verabschiedeten Richtlinie (EU) 2024/1760 des europ\u00e4ischen Parlaments und des Rates \u00fcber die Sorgfaltspflichten von Unternehmen im Hinblick auf Nachhaltigkeit und zur \u00c4nderung der Richtlinie (EU) 2019/1937 und der Verordnung (EU) 2023/2859.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0000610",
+                "statements": [],
+                "title": "Verabschiedung und Implementierung der EU-Lieferketten Richtlinie"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Ziel ist die Neuverhandlung des noch nicht ratifizierten EU-Mercosur Handelsabkommens, damit die Widerspr\u00fcche zwischen Handelspolitik und Umwelt- u. Klimaschutz aufgel\u00f6st werden. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0000611",
+                "statements": [],
+                "title": "Neuverhandlung des EU-Mercosur-Freihandelsabkommen"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/15/1f/272131/Stellungnahme-Gutachten-SG2405070002.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-28"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0000609",
+                "regulatoryProjectTitle": "Implementierung der EU-Verordnung f\u00fcr entwaldungsfreie Produkte",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Die bahnbrechende EU-Verordnung zur Entwaldung wird nur funktionieren, wenn die \r\nMitgliedstaaten jetzt mit der Umsetzung beginnen \r\n\r\n \r\n\r\nSehr geehrte...,  \r\n\r\n \r\n\r\nals die EU-Verordnung \u00fcber entwaldungsfreie Produkte (EUDR) im Jahr 2023 erlassen wurde, hatte sie \r\neine \u00fcberw\u00e4ltigende \u00f6ffentliche Unterst\u00fctzung und wurde von Nichtregierungsorganisationen, \r\nUnternehmen und der Mehrheit der EU-Mitgliedstaaten und der Mitglieder des Europ\u00e4ischen \r\nParlaments (MdEP) nachdr\u00fccklich bef\u00fcrwortet. Es gibt jedoch beunruhigende Signale, dass einige \r\nMitgliedstaaten die Umsetzung verz\u00f6gern. \r\nWir m\u00f6chten Sie daher mit diesem Schreiben dringend bitten, angesichts der Dringlichkeit der Klima- \r\nund Biodiversit\u00e4tskrise Mittel f\u00fcr die rechtzeitige Umsetzung der EUDR bereitzustellen.  \r\nDie EUDR ist insofern innovativ, als sie gegen die gegen die zus\u00e4tzliche Entwaldung f\u00fcr die \r\nlandwirtschaftliche Expansion vorgeht, die nach Sch\u00e4tzungen der Zeitschrift Science f\u00fcr 90-99 % der \r\nAbholzung der Tropenw\u00e4lder verantwortlich ist. Sie wurde in langwierigen und komplexen \r\nVerhandlungen unter Einbeziehung zahlreicher Interessengruppen entwickelt, um zu verhindern, dass \r\ndie EU durch Abholzung gef\u00e4hrdete Produkte wie Rinder, Kakao, Kaffee, Palm\u00f6l, Naturkautschuk, Holz \r\noder Soja konsumiert und exportiert. Die EUDR wird auch von entscheidender Bedeutung sein, um \r\ndie Verschlechterung der europ\u00e4ischen W\u00e4lder zu verhindern, die durch die Klimakrise, den Raubbau \r\nund die schlechte Bewirtschaftung der Plantagen bereits stark beeintr\u00e4chtigt sind.  \r\nEs liegt nun an den Mitgliedstaaten, daf\u00fcr zu sorgen, dass diese \"bahnbrechende\" Verordnung ihr \r\nVersprechen einl\u00f6st und den Fu\u00dfabdruck der EU bei der Entwaldung verringert, der nach China der \r\nzweitgr\u00f6\u00dfte der Welt ist. \r\nWir sind daher sehr besorgt \u00fcber die j\u00fcngste Untersuchung des International Consortium of \r\nInvestigative Journalists (ICCJ), die ergab, dass Mitgliedstaaten wie \u00d6sterreich, Deutschland, die \r\nNiederlande und Rum\u00e4nien zu wenig Ressourcen f\u00fcr die Umsetzung der EUDR bereitgestellt haben. \r\nWir sind auch best\u00fcrzt \u00fcber die in letzter Minute unternommenen Anstrengungen der Agrarminister \r\nvon 20 Mitgliedstaaten, die Verordnung zu reduzieren und zu verz\u00f6gern, wie nach der Sitzung des \r\nRats \u201eLandwirtschaft und Fischerei\u201c am 26. M\u00e4rz 2024 berichtet wurde. In \u00e4hnlicher Weise fordern \r\neinige Industriezweige eine Verschiebung der EUDR-Verpflichtungen - und ignorieren dabei v\u00f6llig die \r\nUmweltkrisen, zu deren Bew\u00e4ltigung die EUDR beitragen soll.  \r\nWir unterst\u00fctzen die Unternehmen und Sektoren, die sich um die Einhaltung der Vorschriften \r\nbem\u00fchen. Der Kautschuk- und der Kakaosektor befassen sich bereits mit der R\u00fcckverfolgbarkeit und \r\nder Einhaltung der Legalit\u00e4t in ihren Lieferketten sowie mit der Frage, wie kleinb\u00e4uerliche Lieferanten \r\neinbezogen werden k\u00f6nnen. \r\n\r\n\r\nWir fordern alle Mitgliedstaaten auf, sich an vorderster Linie f\u00fcr eine rasche und wirksame \r\nUmsetzung der EUDR einzusetzen, anstatt auf die Lobbybem\u00fchungen der Industrie hereinzufallen. \r\nJede Verz\u00f6gerung bei der Umsetzung w\u00fcrde die Position der EU als globaler Vorreiter bei der \r\nEinf\u00fchrung sinnvoller Gesetze zur Bek\u00e4mpfung der Entwaldung untergraben und ihre \r\nGlaubw\u00fcrdigkeit beeintr\u00e4chtigen. \r\nWir stehen zu unserer Erkl\u00e4rung vom Juni 2023 und verpflichten uns, mit der Europ\u00e4ischen \r\nKommission und den Mitgliedstaaten zusammenzuarbeiten, um sicherzustellen, dass: \r\n\u2022 die Umsetzung der EUDR nicht verz\u00f6gert oder abgeschw\u00e4cht wird, um diejenigen, die sich um \r\ndie Einhaltung bem\u00fchen, nicht zu \"bestrafen\" oder den globalen M\u00e4rkten und ihren \r\nf\u00fchrenden Akteuren ein Signal der Schw\u00e4che zu geben.  \r\n\u2022 die Mitgliedstaaten die zust\u00e4ndigen Beh\u00f6rden ernennen und sie mit ausreichend Personal \r\nund Haushaltsmitteln ausstatten, um die erforderliche Anzahl von Inspektionen \r\ndurchzuf\u00fchren.  \r\n\u2022 Unterst\u00fctzungsma\u00dfnahmen beschlossen werden, um Kleinb\u00e4uer:innen und Waldbesitzenden \r\nbei der Einhaltung der Verordnung zu helfen. \r\nW\u00e4hrend dieses \u00dcbergangszeitraums haben wir gezeigt, dass es bereits Sorgfaltspflichtsysteme, \r\nDaten und Instrumente zur Bek\u00e4mpfung der Entwaldung gibt. Es gibt keine Hindernisse f\u00fcr die \r\nUmsetzung der EUDR, abgesehen von der R\u00fcckverfolgung durch die Mitgliedstaaten und \r\nUnternehmen. Die Zeit f\u00fcr die Umsetzung ist jetzt gekommen. Die EU muss weiter vorankommen, \r\ndamit wir die Entwaldung und die Sch\u00e4digung der W\u00e4lder zum Wohle der Menschen, der Natur und \r\ndes Planeten stoppen k\u00f6nnen. \r\n\r\n \r\n\r\n \r\n\r\nUnterzeichnet von \r\n\r\n \r\n\r\nBiofuelwatch, Europa/USA \r\n\r\n\r\nBirdLife, Schweden \r\nBruno Manser Fonds, Schweiz \r\nCanop\u00e9e For\u00eats Vivantes, Frankreich \r\nClientEarth \r\nComit\u00e9 Schone Lucht, Niederlande \r\nDeutsche Umwelthilfe, Deutschland \r\nEarth Thrive, GB/ Serbien \r\nEarthsight \r\nEcologistas en Acci\u00f3n, Spanien  \r\nEi polteta tulevaisuutta, Finnland \r\nEkumenick\u00e1 akademie, Tschechische Republik \r\nEnvol Vert, Frankreich \r\nEuropean Civic Forum, Frankreich \r\nFern, Belgien \r\nFinnish Association for Nature Conservation, Finnland \r\nForests of the World, D\u00e4nemark \r\nFriends of Fert\u0151 Lake Association, Ungarn \r\nGermanwatch, Deutschland \r\nGreat Lakes and Wetlands Association, Ungarn \r\nKoalice pro \u0159eky, Tschechische Republik \r\nLeefmilieu, Niederlande \r\nMighty Earth \r\nMilieudefensie, Niederlande \r\nMobilisation for the Environment, Niederlande \r\nNeuer Weg Association, Rum\u00e4nien \r\nOroVerde, Deutschland \r\nPolish Ecological Club, Polen \r\nRainforest Foundation Norway, Norwegen \r\nROBIN WOOD e.V., Deutschland \r\nSociety for Threatened Peoples, Schweiz \r\nS\u00fcdwind, \u00d6sterreich \r\nSwedish Society for Nature Conservation, Schweden \r\n\r\n\r\nUkrainian Nature Conservation Group, Ukraine \r\nWild Europe Foundation, Niederlande \r\n\r\n "
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/aa/d6/272133/Stellungnahme-Gutachten-SG2405070003.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-17"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0000609",
+                "regulatoryProjectTitle": "Implementierung der EU-Verordnung f\u00fcr entwaldungsfreie Produkte",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Die EU-Verordnung gegen Entwaldung ist angemessen, umsetzbar und unverzichtbar f\u00fcr\r\nKlimaschutz und Biodiversit\u00e4t\r\n\r\nSehr geehrter Herr Bundesminister,\r\n\r\nder Erhalt der W\u00e4lder auf der Erde ist eine der wichtigsten Ma\u00dfnahmen im Kampf gegen die\r\nKlimakrise und das Artensterben. Das BMEL hat sich beim Gesetzgebungsprozess zur\r\nEU-Verordnung f\u00fcr entwaldungsfreie Produkte (EUDR) und im Austausch mit der Kommission und\r\nden beteiligten Akteuren als progressive Kraft innerhalb der EU gezeigt, was wir als Zivilgesellschaft\r\nsehr begr\u00fc\u00dft haben.\r\n\r\nAls Umweltverb\u00e4nde und entwicklungspolitische Organisationen bekennen wir uns zur\r\nnachhaltigen Nutzung von W\u00e4ldern und anderen wertvollen \u00d6kosystemen, dem klimafreundlichen\r\nRohstoff Holz und seiner Bedeutung auch f\u00fcr die Wirtschaft in Deutschland und der EU. Deswegen\r\nist es uns wichtig, dass im Zuge der aktuellen Debatte rund um die EUDR keine falschen Annahmen\r\nund ungerechtfertigte Argumente vorgebracht werden, die die Umsetzung dieser ungemein\r\nwichtigen Verordnung verhindern.\r\n\r\nErf\u00fcllungsaufwand\r\nF\u00fcr die EU-B\u00e4uer:innen und Waldbesitzende ist der tats\u00e4chliche Aufwand zur Erf\u00fcllung der\r\nPflichten nicht viel gr\u00f6\u00dfer als das, was schon heute gilt. Die geforderten Geo-Lokalisationsdaten\r\nliegen ihnen durch forstliche Vereinigungen oder die EU-Fl\u00e4chenpr\u00e4mie der GAP bereits meist vor.\r\nWo sie fehlen, dauert die Ermittlung online oder \u00fcber das Smartphone nur wenige Minuten. Diese\r\nDaten m\u00fcssen nur einmal erhoben werden und keineswegs f\u00fcr jeden einzelnen Baum, wie\r\nteilweise behauptet wird.\r\n\r\nBenchmarking\r\nDie EU-Kommission hat bisher kein L\u00e4nder-Benchmarking vorgelegt. Gem\u00e4\u00df Artikel 29 (2) sind bis\r\ndahin alle L\u00e4nder dem Standard-Risiko zugeordnet und die Liste der L\u00e4nder oder Landesteile, die\r\n\r\n\r\nmit einem geringen oder hohem Risiko bewertet werden, kann noch bis zum 30.12. ver\u00f6ffentlicht\r\nwerden. Der Aufwand f\u00fcr Waldbesitzende und Forstbetriebe ist nahezu gleich, da bei niedrigem\r\nund mittlerem Risiko die Informationspflichten und die Geo-Lokalisationsdaten angegeben werden\r\nm\u00fcssen. Wo bewirtschaftete Wald- oder Landwirtschaftsfl\u00e4chen schon vor 2020 im Besitz waren,\r\nkann unabh\u00e4ngig von der EU-Risikobewertung einfach nachgewiesen werden, dass es seitdem\r\nnicht zu Entwaldung gekommen ist.\r\n\r\nAusnahmeregelung\r\nDie Forderung nach einer Ausnahme f\u00fcr EU-Mitgliedstaaten von der EUDR mit der Begr\u00fcndung,\r\nhier g\u00e4be es keine Entwaldung, greift ohnehin viel zu kurz, da die Verordnung richtigerweise auch\r\nWalddegradierung und Illegalit\u00e4t verhindern soll. Es gibt innerhalb der EU aber sowohl illegalen\r\nHolzeinschlag als auch massive \u00dcbernutzung von W\u00e4ldern. Eine Ausnahme f\u00fcr die Mitgliedstaaten\r\nist daher im globalen Kampf gegen Entwaldung nicht sinnvoll.\r\n\r\nInvestitionssicherheit\r\nDar\u00fcber hinaus haben viele Unternehmen erhebliche Anstrengungen unternommen, um ihre\r\nLieferketten in Vorbereitung auf das Gesetz transparent zu machen. Dies zeigt sich beispielsweise\r\nim Kakaosektor. Die Regierungen der wichtigsten Anbaul\u00e4nder, insbesondere die der C\u00f4te d\u2019Ivoire\r\nund Ghanas, haben ebenfalls wesentliche Bem\u00fchungen unternommen. Ein Aussetzen der\r\nRegulierung w\u00fcrde daher bedeuten, dass diejenigen belohnt werden, die sich nicht auf die EUDR\r\nvorbereitet haben, w\u00e4hrend Unternehmen und Regierungen, die sich vorbereitet haben, ihre\r\nInvestitionen umsonst get\u00e4tigt h\u00e4tten.\r\nIm Kakaoanbau wie auch in den anderen betroffenen Sektoren f\u00fchren Diskussion \u00fcber einen\r\nAufschub der Umsetzung des EUDR somit zu gro\u00dfer Verunsicherung bei den\r\nFrontrunner-Unternehmen und diesen drohen preisliche Nachteile im Wettbewerb. Eine solche\r\nRechtsunsicherheit sollte verhindert werden.\r\n\r\nSehr geehrter Herr Bundesminister, die EUDR ist von allen Akteuren umsetzbar, mit Augenma\u00df\r\nentwickelt und f\u00fcr den Klimaschutz und den Erhalt der Biodiversit\u00e4t unverzichtbar. Unsachliche\r\nArgumente d\u00fcrfen nicht den Ausschlag geben f\u00fcr politische Entscheidungen. Wir bitten Sie\r\ndeshalb, sich weiterhin f\u00fcr die wegweisende EU-Verordnung gegen Entwaldung auf nationaler und\r\nEU-Ebene starkzumachen.\r\nF\u00fcr weiterf\u00fchrende Gespr\u00e4che stehen wir Ihnen gerne zur Verf\u00fcgung.\r\n\r\nDie unterzeichnenden Organisationen\r\n\r\nArndt von Massenbach, Politischer Gesch\u00e4ftsf\u00fchrer, INKOTA-Netzwerk e.V.\r\n\r\nHeike Vesper, Vorst\u00e4ndin Transformation Politik & Wirtschaft, WWF Deutschland\r\n\r\nMartina Schaub, Vorst\u00e4ndin, OroVerde - Die Tropenwaldstiftung\r\n\r\nSascha M\u00fcller-Kraenner, Bundesgesch\u00e4ftsf\u00fchrer, Deutsche Umwelthilfe e.V.\r\n\r\nStefan H\u00f6rmann, Gesch\u00e4ftsf\u00fchrer, Global Nature Fund"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/87/3c/272135/Stellungnahme-Gutachten-SG2405070004.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMZ",
+                                "de": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                                "en": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-22"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0000609",
+                "regulatoryProjectTitle": "Implementierung der EU-Verordnung f\u00fcr entwaldungsfreie Produkte",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": " \r\n\r\nDie EU-Verordnung gegen Entwaldung ist angemessen, umsetzbar und unverzichtbar f\u00fcr \r\nKlimaschutz und Biodiversit\u00e4t \r\n\r\n \r\nSehr geehrte Frau Bundesministerin , \r\n\r\n\r\ndie EU-Verordnung f\u00fcr entwaldungsfreie Produkte (EUDR) ist ein zentraler Baustein zur \r\nBek\u00e4mpfung der globalen Biodiversit\u00e4ts- und Klimakrise. Weltweit gibt es damit erstmals ein \r\nGesetz, welches das auf den Markt bringen von Rohstoffen und Produkten aus illegaler oder \r\nlegaler Waldzerst\u00f6rung oder Walddegradierung unterbinden soll.  \r\n\r\n\r\nDie Relevanz der fristgerechten Umsetzung  \r\nDie EUDR ist im Juni 2023 in Kraft getreten, nachdem sie auf EU-Ebene mit breiter \r\nUnterst\u00fctzung von Rat und Parlament angenommen wurde. Die Mitgliedstaaten und die \r\nKommission m\u00fcssen dieses Gesetz nun, wie in der Verordnung festgeschrieben, zum 31. \r\nDezember 2024 in Anwendung bringen. Mit sehr gro\u00dfer Sorge nehmen wir wahr, dass einige \r\nMitgliedstaaten und Interessengruppen die Anwendung verz\u00f6gern wollen. Ein Aufschub w\u00e4re aber \r\nnur mit einem Aufschn\u00fcren der Verordnung m\u00f6glich und mit einem darauffolgenden zeitintensiven \r\nLegislativprozess verbunden. Das \u00d6ffnen gef\u00e4hrdet den m\u00fchsam erarbeiteten, sehr guten \r\nKompromiss und verz\u00f6gert die Wirksamwerdung auf unbestimmte Zeit. Zeit, die wir angesichts der \r\nsich versch\u00e4rfenden Klima- und Biodiversit\u00e4tskrise nicht haben. Die Zerst\u00f6rung der W\u00e4lder und \r\n\u00d6kosysteme geht aktuell unvermindert weiter, was sich unter anderem in der Amazonasregion \r\nbereits durch zunehmende Wetterextreme bemerkbar macht. \r\n\r\n\r\nGleiche Bedingungen f\u00fcr alle - Die Einhaltung der Klima- und Biodiversit\u00e4tsziele \r\nDie EUDR hat das Ziel, endlich gleiche Wettbewerbsbedingungen auf dem Markt zu schaffen, \r\nnachdem freiwillige Zusagen des Privatsektors zur Bek\u00e4mpfung der Entwaldung in ihren \r\nLieferketten jahrelang gescheitert waren. Sie wird entscheidend dazu beitragen, dass die EU \r\nund Deutschland die Verpflichtungen des UN-Klimaschutzabkommens der COP28 und die des \r\nBiodiversit\u00e4tsabkommens der COP15 erf\u00fcllen.  \r\n\r\n \r\nDIe Relevanz f\u00fcr Produktionsl\u00e4nder und unser Einfluss \r\nDie EUDR hat zudem Auswirkungen auf die Rechte und die Lebensgrundlage von indigenen \r\nund traditionellen Gemeinschaften, die auf die W\u00e4lder und andere \u00d6kosysteme angewiesen \r\nsind, denn sie reduziert den Druck zur Entwaldung und fordert die Einhaltung lokaler \r\nGesetzgebungen, etwa in Bezug auf Landrechte, Kinderarbeit und Umweltgesetze. Auch \r\nregierungsseitig sind in einigen L\u00e4ndern schon erhebliche Anstrengungen unternommen \r\nworden; so haben beispielsweise Ghana und die Elfenbeink\u00fcste als zwei der wichtigsten \r\nAnbaul\u00e4nder f\u00fcr Kakao bereits wichtige Schritte zur Erf\u00fcllung der Vorgaben unternommen. Die \r\nEU muss sich dringend von einem Produktions- und Konsummodell verabschieden, das die \r\nNaturzerst\u00f6rung vorantreibt und die Menschenrechte sowie die Lebensgrundlagen von \r\nKleinb\u00e4uer:innen bedroht. Die EUDR ist in diesem Zusammenhang ein wichtiger Baustein, um \r\ndie Nachhaltigkeit in globalen Lieferketten voranzutreiben. \r\n\r\n \r\n\r\nDer Aufwand f\u00fcr Unternehmen und die Folgen einer Verschiebung \r\nDie EUDR wird von einigen Industrieverb\u00e4nden, Drittl\u00e4ndern und EU-Mitgliedstaaten derzeit \r\nmassiv kritisiert. Hierbei sind auch viele Falschinformationen in Umlauf. Beispielsweise zum \r\nL\u00e4nderbenchmarking gem\u00e4\u00df Artikel 29 (2), welches die EU-Kommission m\u00f6glicherweise nicht \r\nbis Ende des Jahres fertigstellen wird. Bis zur Klassifizierung durch die EU-Kommission sind \r\nalle L\u00e4nder dem Standard-Risiko zugeordnet. Der nun h\u00e4ufig diskutierte Aufwand f\u00fcr EU-Agrar- \r\nund Forstbetriebe ist dabei nahezu gleich, da der Aufwand vor allem durch die erstmals zu \r\nerhebenden Informationspflichten und die daf\u00fcr notwendigen Geo-Lokalisationsdaten entsteht. \r\nDie Absch\u00e4tzung der in der Verordnung gelisteten Risikofaktoren kann in der Regel, \r\nunabh\u00e4ngig von der Einstufung beim Benchmarking, aufgrund eines sehr geringen praktischen \r\nRisikos sehr z\u00fcgig vorgenommen werden. Eine Verschiebung der Umsetzung der EUDR w\u00fcrde \r\neinen monatelangen erneuten Gesetzgebungsprozess notwendig machen, der bei den \r\nWirtschaftsakteuren zu zus\u00e4tzlicher Unsicherheit f\u00fchren w\u00fcrde.  \r\n\r\n \r\n\r\nWir bitten Sie eindringlich, die Integrit\u00e4t des demokratischen Entscheidungsprozesses in der EU \r\nzu sch\u00fctzen und sicherzustellen, dass die Bundesregierung bei der Verfolgung der in der EUDR \r\nfestgelegten Ziele standhaft bleibt und sich bei der EU-Kommission und im EU-Rat f\u00fcr die \r\ngeplante Umsetzung einsetzt. Bitte stellen Sie sicher, dass diese Verordnung ihr Versprechen \r\neinl\u00f6sen und die Zerst\u00f6rung der unersetzlichen W\u00e4lder in den verschiedensten Erdteilen f\u00fcr den EU-\r\nKonsum entscheidend verringern kann. \r\n\r\n \r\n\r\nWir w\u00e4ren dankbar f\u00fcr die Gelegenheit, die Einzelheiten dieser wichtigen Angelegenheit mit \r\nIhnen weiter zu er\u00f6rtern, und freuen uns darauf, von Ihnen zu h\u00f6ren und einen geeigneten \r\nTermin f\u00fcr ein Treffen zu vereinbaren. \r\n\r\n\r\nDie unterzeichnenden Organisationen \r\n\r\n \r\n\r\n \r\n\r\nArndt von Massenbach, Politischer Gesch\u00e4ftsf\u00fchrer, INKOTA-netzwerk e.V.  \r\n\r\n \r\n\r\nHeike Vesper, Vorst\u00e4ndin Transformation Politik & Wirtschaft, WWF Deutschland \r\n\r\n \r\n\r\nMartina Schaub, Vorst\u00e4ndin, OroVerde - Die Tropenwaldstiftung \r\n\r\n \r\n\r\nSascha M\u00fcller-Kraenner, Bundesgesch\u00e4ftsf\u00fchrer, Deutsche Umwelthilfe e.V \r\n\r\n \r\n\r\nStefan H\u00f6rmann, Gesch\u00e4ftsf\u00fchrer, Global Nature Fund "
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

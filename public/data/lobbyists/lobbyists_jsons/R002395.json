@@ -1,0 +1,632 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-22T09:51:52.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-01T09:22:44.000+01:00",
+        "lastUpdateDate": "2024-07-23T15:13:27.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42003,
+                "validFromDate": "2024-07-23T15:13:27.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37628,
+                "validFromDate": "2024-06-27T09:46:58.000+02:00",
+                "validUntilDate": "2024-07-23T15:13:27.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21889,
+                "validFromDate": "2023-06-19T15:23:30.000+02:00",
+                "validUntilDate": "2024-06-27T09:46:58.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 13688,
+                "validFromDate": "2023-02-22T09:51:52.000+01:00",
+                "validUntilDate": "2023-06-19T15:23:30.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PROFESSION_ASSOC",
+            "de": "Berufsverband",
+            "en": "Professional association"
+        },
+        "activityDescription": "Der Verein ist ein Zusammenschluss von in der Bundesrepublik Deutschland ans\u00e4ssigen\r\nFirmen, die sich im Gro\u00df- und Au\u00dfenhandel in Drogen- und Chemikalien sowie sonstigen\r\nartverwandten Produkten als H\u00e4ndler oder Makler bet\u00e4tigen und/oder diese Produkte bearbeiten und verarbeiten oder Dienstleistungen erbringen, die mit den vorgenannten Bereichen in Zusammenhang stehen.\r\nDer Verein hat die Aufgabe, die allgemeinen ideellen, wirtschaftlichen und fachlichen Interessen seiner Mitglieder zu wahren und zu f\u00f6rdern. Er vertritt die Interessen der Mitglieder\r\ngegen\u00fcber den Einrichtungen der gesetzgebenden und vollziehenden Gewalt und wo erforderlich auch vor den Einrichtungen der Europ\u00e4ischen Union und sonstigen Gremien nationaler und internationaler Art.\r\nDer Verein stellt sich zur Aufgabe, den Austausch wirtschaftlicher, technischer und sonstiger f\u00fcr den Berufsstand wichtiger Erkenntnisse und Erfahrungen innerhalb des Mitgliederkreises zu f\u00f6rdern.\r\nDer Zweck des Vereins ist nicht auf einen wirtschaftlichen Gesch\u00e4ftsbetrieb gerichtet. Er\r\nverfolgt weder parteipolitische noch religi\u00f6se Zielsetzungen.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_AF_FOOD_SAFETY",
+                "de": "Lebensmittelsicherheit",
+                "en": "Food safety"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_HEALTH_MEDICINE",
+                "de": "Arzneimittel",
+                "en": "Medicine"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_IS_CRIME",
+                "de": "Kriminalit\u00e4tsbek\u00e4mpfung",
+                "en": "Fight against crime"
+            },
+            {
+                "code": "FOI_FA_BRD",
+                "de": "Au\u00dfenpolitik",
+                "en": "Foreign policy of the federal republic of Germany"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/30/ac/337515/2023_Jahresabschluss_Lobbyregister.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.5,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 40001,
+            "to": 50000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Hamburg",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Sonninstra\u00dfe ",
+            "streetNumber": "28",
+            "type": "NATIONAL",
+            "zipCode": "20097"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "vdc@wga-hh.de"
+                }
+            ],
+            "phoneNumber": "+494023601613",
+            "websites": [
+                {
+                    "website": "www-v-d-c.org"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Lutz",
+                "lastName": "D\u00fcshop",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Gregor",
+                "lastName": "Wolf",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Darjusch",
+                "lastName": "Buchmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Marina",
+                "lastName": "Panten",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Moritz",
+                "function": "Vorsitzender",
+                "lastName": "Engelhard",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-13",
+            "naturalPersons": 0,
+            "organizations": 108,
+            "totalCount": 108
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Wirtschaftsvereinigung Gro\u00df- und Au\u00dfenhandel Hamburg e.V. "
+            },
+            {
+                "membership": "DIN Deutsches Institut f\u00fcr Normung e. V."
+            },
+            {
+                "membership": "European Herb Growers Association.(EUROPAM)"
+            },
+            {
+                "membership": "European Federation of Essential Oils (EFEO)"
+            },
+            {
+                "membership": "Lebensmittelverband Deutschland e. V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Vereinigung der am Drogen- und Chemikalien-Gross und Aussenhandel beteiligten Firmen e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 320001,
+            "to": 330000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002395/42003",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-27T09:46:58.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/9a/ea/337516/Lobbyregister-Detailansicht-R002395-2024-07-23_15-13-27.pdf",
+        "validFromDate": "2024-07-23T15:13:27.000+02:00",
+        "version": 6
+    },
+    "registerEntryId": 42003,
+    "registerNumber": "R002395",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Es geht um die spezifischen Anforderungen an Beprobungsr\u00e4ume f\u00fcr gewerbliche Lagerhalter gem\u00e4\u00df der Durchf\u00fchrungsverordnung (EU) 2019/1014. Unser Anliegen ist es, differenzierte Anforderungen f\u00fcr Beprobungsr\u00e4ume zu empfehlen, je nachdem, ob es sich um Waren tierischen oder nicht-tierischen Ursprungs handelt.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006855",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/6d/83/317220/Stellungnahme-Gutachten-SG2406190080.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                        "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                        "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-17"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0006855",
+                        "regulatoryProjectTitle": "Europ\u00e4ische Anforderungen an gewerbliche Lagerhalter",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Requirements for Inspection rooms for physical controls in commercial storage facilities under \r\nImplementing Regulation (EU) 2019/1014, necessary exemptions in case of inspection facilities for \r\nproducts of non-animal origin \r\n\r\nDear Mr. ,\r\n\r\nWith a view to the ongoing discussions at the EU level, we would like to once again draw your attention to our previous letter, dated January 17th, 2024, regarding the requirements for inspection rooms for physical controls in commercial storage facilities as outlined in Implementing Regulation (EU) 2019/1014, Article 3 (1) (b), applicable to commercial facilities via Article 3(11).\r\n\r\nI.\r\nIn contrast to inspection rooms used for the testing of materials of animal origin, in case of products of plant origin there is no compelling reason why commercial storage facilities should be equipped with hot and cold running water and drainage systems. As already pointed out earlier:\r\n\r\n\u2022\tIn case of dried plant material, hot and cold running water is not required to maintain food hygiene and to prevent from cross contamination.\r\n\u2022\tFlushing and cleaning with water can be detrimental to raw plant materials, considering that humid environments promote growth of pathogen microorganisms.\r\n\u2022\tDrainage systems are counter productive particularly in terms of rodent infestation and thus create a non-justified risk of adverse effects to food hygiene. \r\n\r\nIt is evident that the objectives of maintaining food safety, upholding hygienic standards, and mitigating health risks can be achieved through various means, particularly concerning the equipment of storage facil-ities used for physical inspections. While it is mandatory to have running water, proper drainage pipes, and other infrastructure for food and feed of animal origin, such high levels of infrastructure are not essential for food and feed of non-animal origin. Regular dry cleaning as practiced in the commercial storage facilities is completely sufficient to ensure an acceptable level of food hygiene.\r\n\r\nWe assume that these arguments are also widely shared by the local government inspection practitioners at the harbour site. \r\n \r\n\r\nII.\r\nThe majority of relevant raw materials imported into the Union are cleared through the harbours of Ham-burg, Rotterdam and Amsterdam. Therefore, the need for sufficient inspection room capacities is of para-mount importance, as well as  the prudent use of resources to ensure a comprehensive, risk-based control system. \r\n\r\nHamburg, as a major EU import hub for goods of animal and non -animal origin, provides a wide variety of well-equipped inspection rooms within storage facilities. These facilities are equipped with running water, drainage systems, and other necessary infrastructure, where required by the nature of the products test-ed, and companies have consistently invested in maintaining these high standards. \r\n\r\nOn the other hand, SME storage companies would not be able to maintain their services in case of plant material, as any retrofitting of inspection facilities for non-animal materials would impose a disproportion-ate burden to the companies not justified by the needs of the products tested. In effect, this would lead to a gap, detrimental to a smooth import practice of the product group concerned, particularly with a view to the importation of plant material subjected to increased control frequencies under Implementing Regula-tion (EU)1793/2019.\r\n\r\nIII.\r\nWith this in mind, we reiterate our request and propose amending Article 3(11) of Regulation (EU) 2019/1014 to include exemptions for commercial storage facilities, as previously outlined in our communica-tion to the Commission, i.e.:\r\n\r\n\u201c11. The competent authorities of the border control post may permit, under their control, the use of commercial storage facilities for the goods referred to in Article 47 (1) of Regulation (EU) 2017/625, provided that those facilities are within the close vicinity of the border control post and are under the competence of the same customs authority.  \r\nSuch commercial storage facilities may be used to perform identity checks and physical checks on   products of non-animal origin, provided that these facilities comply with the minimum require-ments, laid down in this Regulation, except for the requirements laid down in Article 3 (1) b and (2).\u201d \r\n\r\nFor the reasons outlined above, we would greatly appreciate the EU Commission to consider our approach in the ongoing discussion process, bearing in mind that most storage companies, especially those at the Hamburg seaport, may no longer qualify to conduct inspection activities. This could jeopardize their crucial role in import control practices at this vital EU harbour for plant raw material consignments\r\n\r\n"
+                        }
+                    }
+                ],
+                "title": "Europ\u00e4ische Anforderungen an gewerbliche Lagerhalter"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Lanolin ist ein weiterverarbeitetes Erzeugnis aus Wolle, die ihrerseits ein Folgeprodukt tierischen Ursprungs der Kategorie 3 des Artikel 10 Buchst. h der Verordnung (EU) 1169/2009 ist und f\u00fcr die in Artikel 3 der Verordnung (EU) 142/2011 ein Endpunkt in der Produktionskette festgelegt wurde. \r\nEin Endpunkt f\u00fcr Lanolin aus Wollwachs besteht derzeit nicht. Die importierende Wirtschaft sieht jedoch ein erhebliches praktisches Bed\u00fcrfnis, dieses Erzeugnis den in Artikel 3 der Verordnung (EU) 142/2011 genannten Produkten gleichzustellen, sodass das Inverkehrbringen nach der Einfuhr gem\u00e4\u00df Artikel 5 Absatz 2 der Verordnung (EG) Nr. 1069/2009 keinen weiteren Beschr\u00e4nkungen mehr unterliegt. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006856",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/6f/f1/317222/Stellungnahme-Gutachten-SG2406190074.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                        "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                        "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-08"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0006856",
+                        "regulatoryProjectTitle": "Europ\u00e4ische Festlegung des Endpunkts f\u00fcr Lanolin gem. Verordnung (EC) Nr. 1069/2009 und Verordnung (EU) Nr. 142/2011",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Request to determine an end point for Lanolin under Regulation (EC) No 1069/2009 and (EU) No 142/2011 \r\nDear Mr. , \r\nwe are a trade association representing companies engaged in various activities, including the importation of Lanolin from third countries into the European Union. These companies are major suppliers to pro-cessing industries within the EU. Lanolin, derived from the wool wax or sebaceous gland fat of sheep, holds significant importance as an excipient (ointment base) in the production of pharmaceutical products. Addi-tionally, it serves as a widely utilized raw material in the cosmetics industry.\r\nThe rules governing the import and placing on the market of products of animal origin are outlined in Regu-lation (EC) No 1069/2009 on the health rules for animal by-products not intended for human consumption, and in Regulation (EU) No 142/2011 implementing Regulation (EC) No 1069/2009. \r\nLanolin is a processed product obtained from sheep wool, the latter being a derived product from animals classified under category 3 of Article 10 (h) of Regulation (EC) No 1069/2009. The manufacturing chain for sheep wool as such is concluded at a specified endpoint referred to in Article 3 lit. (e) of Regulation (EU) No 142/2011. \r\nGiven its nature as a further processed product derived of sheep wool, Lanolin should be considered a product not posing any risk in terms of the transmission of animal diseases. Currently there is no specified end point for Lanolin /wool wax derived from sheep wool.\r\nHowever, the importing companies see a substantial practical need to align this product with those men-tioned in Article 3 of Regulation (EU) No 142/2011 and to determine an end point which would allow Lano-lin to be relieved from restrictions upon market placement after import as laid down Article 5(2) of Regula-tion (EC) No 1069/2009.\r\nTo facilitate this objective, we kindly request the European Commission to consider initiating a proposal to amend Regulation (EU) No 142/2011. This proposal should encompass the incorporation of a distinct def-inition for Lanolin in Annex I, designating it as an end point product in Article 3, and outlining specific pro-cessing requirements. An amendment to a.m. Regulation might be worded as presented in the annex to this letter. \r\nWe would highly appreciate to be given the opportunity to further explain and discuss our approach with members of the staff of the Commission, personally in Brussels or through a video conference.\r\nYours faithfully,\r\nLutz D\u00fcshop \t\t\t\t \t\t\t\t                       \tGregor Wolf\r\nSecretary General\t               Secretary General\r\n                                                     \r\n\r\n\r\n\r\n\r\n                                                                                   Annex \r\n                                                            to VDC letter of 11th January 2024\r\nProposed wording for an amendment to Regulation (EU) No 142/2011, concerning the determination of an end point for Lanolin.\r\n1. Amendment of Article 3, new lit.(l) to be added \r\nEnd point in the manufacturing chain for certain derived products\r\nThe following derived products may be placed on the market, other than imported, without restrictions, as provided in Article 5(2) of Regulation (EC) No 1069/2009:\r\n\r\n(....)\r\n\r\n\u201c(l) Lanolin for the manufacture of medicinal and cosmetic products that fulfil the specific requirements set out in Chapter XIV of Annex XIII for the end points of these products\u201d. \r\n2. Amendment of Annex I by adding a new ciph. 62 \r\nDefinitions as referred to in Article 2 \r\nFor the purposes of this Regulation, the following definitions shall apply:\r\n(....)\r\n\u201c62.  'Lanolin' means a substance obtained after treatment of wool wax with acids, bases and heating. Wool wax is the secretion obtained from the sebaceous glands of live sheep of the genus Ovis aries L. (Fam. Bovidae), which is produced during the washing of cleaned, decolourised, and deodorised sheep wool. Where the term Lanolin is used in this Regulation, it includes wool wax.\u201d\r\n3. Amendment of Annex XIII, addition of a new Chapter XIV \r\nPetfood and certain other derived products\r\n(.....) \r\n\u201cCHAPTER XIV \r\nSpecific requirements for wool wax and derived products (such as Lanolin anhydrous, Lanolin hydrogen-ated, Lanolin ethoxylated, Lanolin alcohol or Lanolin fatty acids or wool wax acids) for the manufacture of medicinal products, cosmetic products and products not intended for animal feed\r\nEndpoint for Lanolin\r\nLanolin that has undergone at least \r\na) a treatment at pH\u2265 13 at 60\u00b0C for at least 1 h and/or\r\nb) a molecular distillation at \u2265 220\u00b0C under reduced pressure\u201d\r\n"
+                        }
+                    }
+                ],
+                "title": "Europ\u00e4ische Festlegung des Endpunkts f\u00fcr Lanolin gem. Verordnung (EC) Nr. 1069/2009 und Verordnung (EU) Nr. 142/2011"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Europ\u00e4ische Festlegung von H\u00f6chstwerten f\u00fcr aromatische Mineral\u00f6lkohlenwasserstoffe (MOHA) in Lebensmittelzusatzstoffen, Lebensmittelzutaten und \u00e4therischen \u00d6len",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_SAFETY",
+                        "de": "Lebensmittelsicherheit",
+                        "en": "Food safety"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_INDUSTRY",
+                        "de": "Lebens- und Genussmittelindustrie",
+                        "en": "Food and luxury food industry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006857",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/bb/86/317224/Stellungnahme-Gutachten-SG2406200068.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-22"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0006857",
+                        "regulatoryProjectTitle": "Europ\u00e4ische Rechtsvorschriften zur Festlegung von H\u00f6chstwerten f\u00fcr MOAH in Lebensmittelzusatzstoffen, Lebensmittelzutaten und \u00e4therischen \u00d6len",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Stellungnahme zu den vorgeschlagenen Rechtsvorschriften zur Festlegung von H\u00f6chstwerten f\u00fcr MOAH in Lebensmittelzusatzstoffen, Lebensmittelzutaten und \u00e4therischen \u00d6len\r\nSehr geehrte Frau Vanheusden,\r\nSehr geehrter Herr Sochor,\r\n(1) die Vereinigung der am Drogen- und Chemikalien Gro\u00df- und Au\u00dfenhandel beteiligten Firmen e.V. (VDC) ist ein Wirtschaftsverband, der Importeure, Exporteure, Transith\u00e4ndler, Distributoren, Makler, Hersteller, Verarbeiter und Logistikdienstleister umfasst. Die Mitgliedsunternehmen sind in den Bereichen Industrie-chemikalien, synthetische und fermentative pharmazeutische Wirkstoffe (APIs), getrocknete pflanzliche Stoffe, Zusatzstoffe, Extrakte, \u00e4therische \u00d6le und Aromen t\u00e4tig. Die VDC-Mitglieder spielen eine wichtige Rolle als Importeure und Rohstofflieferanten f\u00fcr die chemische und pharmazeutische Industrie, sowie f\u00fcr die Produktion von Lebens- und Futtermitteln, Nahrungserg\u00e4nzungsmitteln sowie die Aromen- und Duftstoff-industrie in der EU.\r\nZun\u00e4chst m\u00f6chten wir der Kommission unsere aufrichtige Anerkennung daf\u00fcr aussprechen, dass sie die Inte-ressengruppen aktiv in den Konsultationsprozess zu den Legislativvorschl\u00e4gen f\u00fcr das Risikomanagement von Mineral\u00f6lkohlenwasserstoffen (MOH) einbezieht. Dies ist besonders relevant im Licht des j\u00fcngsten Updates der Europ\u00e4ischen Beh\u00f6rde f\u00fcr Lebensmittelsicherheit (EFSA) zur Risikobewertung von Mineral\u00f6lkohlenwas-serstoffen in Lebensmitteln. Auch die begleitenden Diskussionspapiere, die die Beweggr\u00fcnde f\u00fcr die Vor-schl\u00e4ge detailliert erl\u00e4utern, werden von uns sehr gesch\u00e4tzt und begr\u00fc\u00dft.\r\nDar\u00fcber hinaus danken wir sowohl der Kommission als auch den Mitgliedstaaten f\u00fcr die Organisation des Stakeholder-Forums, das am 18. Januar stattfand. Dieses Forum bot eine ausgezeichnete Gelegenheit, Be-denken der Industrie zu \u00e4u\u00dfern und auszutauschen. Zudem erm\u00f6glichte es uns, auf spezifische Anmerkungen verschiedener Branchenverb\u00e4nde einzugehen und so die Diskussion mit verschiedenen Perspektiven zu be-reichern.\r\nUnser Engagement, die Quellen von MOH in Lebensmitteln gr\u00fcndlich zu untersuchen und Ma\u00dfnahmen zur Minimierung ihrer Pr\u00e4senz gem\u00e4\u00df dem ALARA-Prinzip (\"so niedrig wie vern\u00fcnftigerweise erreichbar\") um-zusetzen, bleibt standhaft. In diesem Zusammenhang m\u00f6chten wir darauf hinweisen, dass wir bereits im Jahr 2022 Empfehlungen an die Lieferanten in den Ursprungsl\u00e4ndern ausgegeben haben, um deren Bem\u00fchungen zu unterst\u00fctzen, Kontaminationsquellen zu identifizieren und das Auftreten von MOAH zu reduzieren bzw. zu minimieren (f\u00fcr weitere Informationen finden Sie die neueste Version im Anhang). Die Gew\u00e4hrleistung eines hohen Schutzniveaus f\u00fcr die Verbraucher steht im Mittelpunkt unserer Bem\u00fchungen. Daher begr\u00fc\u00dfen wir die M\u00f6glichkeit, in diesem fortlaufenden Dialog weiteres Feedback zu geben.\r\n(2) Wir haben Daten zu Funden von Mineral\u00f6lkohlenwasserstoffen (MOAH) in verschiedenen Produkten unserer Mitglieder gesammelt, darunter Agar-Agar, Bienenwachs, Carboxymethylcellulose, Carnauba-wachs, Gummiarabikum, Kr\u00e4uter- und Gew\u00fcrzaromen, Magnesiumstearat, Zitronen\u00f6l, Orangen\u00f6l, Flohsa-menschalen, Paprika-Oleoresin, Erbsenprotein, Reisprotein, Schellack, Natriumalginat, Taragummi und Xanthangummi. W\u00e4hrend einige dieser Produkte dank erfolgreicher Umsetzung von Ma\u00dfnahmen, die mit guten Herstellungspraktiken \u00fcbereinstimmen, den vorgeschlagenen H\u00f6chstgrenzen (ML) f\u00fcr MOAH entspre-chen, konzentrieren wir uns darauf, L\u00f6sungen f\u00fcr die Produkte zu finden, die weiterhin nicht konform w\u00e4ren.\r\nAus der Analyse der Daten geht hervor, dass Produkte wie Guarkernmehl, Kr\u00e4uter- und Gew\u00fcrzaromen, Magnesiumstearat, Orangen\u00f6l, Zitronen\u00f6l, Flohsamenschalen, Paprika-Oleoresin, Reisprotein und Schel-lack die vorgeschlagenen H\u00f6chstmengen (ML) \u00fcberschreiten w\u00fcrden. Dies wird durch das Datenmaterial zu mehreren Produktgruppen eindeutig belegt, siehe beigef\u00fcgte Umfrage. Die Gr\u00fcnde f\u00fcr das Vorkommen von MOAH in diesen Produkten sind vielf\u00e4ltig und nicht immer klar, trotz Bem\u00fchungen, die Einhaltung guter Her-stellungspraktiken zu gew\u00e4hrleisten.\r\nTrotz beachtlicher Fortschritte in der Lebensmittelindustrie gibt es weiterhin unbekannte Wege, \u00fcber die Mineral\u00f6lkohlenwasserstoffe (MOHs) in die Lieferkette gelangen k\u00f6nnen, insbesondere in der vorgelager-ten Lieferkette und in den Herkunftsl\u00e4ndern, wo Kontrollma\u00dfnahmen oft begrenzt sind.\r\n(3) Die Entwurfsvorschl\u00e4ge (Arbeitspapiere zu \u00c4nderungen der EU-Kontaminantenverordnung sowie der Spe-zifikationsverordnung f\u00fcr Lebensmittelzusatzstoffe, die vom Kommissionspersonal herausgegeben wurden) mit ihrem vorgeschlagenen Geltungsbereich und den festgelegten Grenzwerten haben erhebliche Auswir-kungen auf die komplexen und weitreichenden Lieferketten, die f\u00fcr eine vielf\u00e4ltige Palette von Lebensmit-teln und Zutaten aus Drittl\u00e4ndern verantwortlich sind. Es ist entscheidend, das erhebliche Volumen des t\u00e4g-lich nach Europa importierten Warenhandels anzuerkennen. Selbst gut vernetzte Branchenverb\u00e4nde in Br\u00fcs-sel verf\u00fcgen nicht \u00fcber die notwendige Reichweite entlang der Lieferkette, um effektiv mit der Vielzahl der potenziell betroffenen Akteure in Kontakt zu treten. Dieser Mangel an Einfluss erschwert es, die gew\u00fcnsch-ten \u00c4nderungen in den Produktionspraktiken zu bewirken, was durch das Fehlen angemessener \u00dcbergangs-zeitr\u00e4ume noch versch\u00e4rft wird.\r\nDie Kommission hat verschiedene Wege aufgezeigt, \u00fcber die Mineral\u00f6lkohlenwasserstoffe (MOHs) Lebens-mittel kontaminieren k\u00f6nnen, einschlie\u00dflich Ernte- und Produktionsprozessen, Kontamination durch Le-bensmittelkontaktmaterialien, Zutaten, Zusatzstoffe und Umweltfaktoren. Die Existenz zahlreicher Eintritts-punkte unterstreicht die Dringlichkeit, mit Gesch\u00e4ftsbetreibern stromaufw\u00e4rts und in Drittl\u00e4ndern zusam-menzuarbeiten, um die umfassende Herausforderung der Verringerung von MOHs in Lebensmitteln effek-tiv anzugehen.\r\nWir bitten die Kommission nachdr\u00fccklich, die Einbindung von Stakeholdern zu erweitern, insbesondere von Akteuren au\u00dferhalb der EU, um die m\u00f6glichen Auswirkungen der vorgeschlagenen H\u00f6chstwerte auf deren Landwirte und Industrien besser zu verstehen. Obwohl das Informationsdokument der Kommission zu lau-fenden regulatorischen Diskussionen ein positiver Schritt ist, reicht es nicht aus, um eine effektive Beteili-gung von Produzenten aus Drittl\u00e4ndern zu f\u00f6rdern, die m\u00f6glicherweise Schwierigkeiten haben, Quellen zu identifizieren oder nicht \u00fcber die Ressourcen verf\u00fcgen, um Minderungsma\u00dfnahmen umzusetzen.\r\n(4) Angesichts der Tatsache, dass Lebensmittelzusatzstoffe, \u00e4therische \u00d6le und Aromen typischerweise nur etwa 1% des Endprodukts ausmachen, erkennen wir die Notwendigkeit eines neuen, risiko- und expositi-onsbasierten Ansatzes an. Dieser erfordert erhebliche \u00dcbergangsma\u00dfnahmen, um Engp\u00e4sse bei wichtigen Zutaten und Produkten zu verhindern, w\u00e4hrend gleichzeitig unverh\u00e4ltnism\u00e4\u00dfige Auswirkungen adressiert werden. Es ist unerl\u00e4sslich, spezifische Ausnahmen f\u00fcr Produkte festzulegen, die in begrenzten Mengen kon-sumiert werden, basierend auf gesundheitlichen \u00dcberlegungen und Verh\u00e4ltnism\u00e4\u00dfigkeit. Die pauschale An-wendung des niedrigsten analytisch quantifizierbaren Werts als Grenzwert f\u00fcr alle Lebensmittel, unabh\u00e4ngig von ihrem Beitrag zu Expositionsrisiken, wird als inakzeptabel angesehen. Begr\u00fcndete Ausnahmen f\u00fcr be-stimmte Produkte, insbesondere solche, die selten oder in geringen Mengen konsumiert werden, sind ge-rechtfertigt. Dies ist besonders relevant f\u00fcr Artikel wie Gew\u00fcrze, Lebensmittelzusatzstoffe, Aromastoffe und Nahrungserg\u00e4nzungsmittel.\r\n(5) Um die Kontinuit\u00e4t der bestehenden Lieferketten und ihre zentrale Rolle in der Lebensmittelindustrie zu bewahren, appellieren wir f\u00fcr eine Verl\u00e4ngerung der \u00dcbergangsfrist. Dieses Anliegen ist besonders dringlich angesichts erheblicher Einschr\u00e4nkungen, die bei der vorgeschlagenen Methode JRC beobachtet wurden, ins-besondere in Bezug auf die Bestimmungsgrenze (LOQ) und die pr\u00e4zise Ermittlung von Mineral\u00f6lr\u00fcckst\u00e4n-den.\r\n(6) Die vorgeschlagene JRC-Methode ist insbesondere f\u00fcr die Bestimmung von Mineral\u00f6lr\u00fcckst\u00e4nden in Le-bensmitteln, die sekund\u00e4re Pflanzenstoffe wie Sterane und Terpene enthalten, ungeeignet, da sie potenzi-ell zu \u00dcberbewertungen f\u00fchren kann. Die Identifizierung mittels zweidimensionaler Gaschromatographie (GC) stellt finanzielle Herausforderungen dar und liefert aufgrund fehlender umfassender Referenzdaten in Bibliotheken, besonders bei \u00e4therischen \u00d6len und Wachsen, nicht immer schl\u00fcssige Ergebnisse. Daher pl\u00e4-dieren wir f\u00fcr die Entwicklung und Validierung einer robusten Analyse, bevor H\u00f6chstmengen (ML) f\u00fcr aroma-tische Kohlenwasserstoffe (MOAH) in \u00e4therischen \u00d6len festgelegt werden. Zudem ist es entscheidend, Ver-arbeitungsfaktoren, die im Herstellungsprozess bestimmter Lebensmittelzutaten, Lebensmittelzusatzstoffe und \u00e4therischer \u00d6le inh\u00e4rent sind, bei der Festlegung der MLs f\u00fcr MOAH zu ber\u00fccksichtigen. Eine Bestim-mungsgrenze von 0,5 mg/kg f\u00fcr \u00e4therische \u00d6le, Aromen, Gew\u00fcrze und Kr\u00e4uter ist technisch unerreichbar.\r\nZudem m\u00fcssen wir das Fehlen von kompetenten Laboren sowohl innerhalb der EU als auch in Drittl\u00e4ndern anerkennen. Es ist unerl\u00e4sslich, Vorbereitungen zu treffen und realistische Zeitpl\u00e4ne f\u00fcr die Erreichung der vorgeschlagenen Standards unabh\u00e4ngig von den Bewertungen der EFSA oder harmonisierten Stellungnah-men der Mitgliedstaaten festzulegen. Nur mit klaren regulatorischen Richtlinien k\u00f6nnen Lebensmittelunter-nehmer (FBOs) die notwendige Klarheit und rechtliche Sicherheit erlangen, um strategisch kritische Bereiche anzugehen. Dies umfasst die Zusammenarbeit mit Lieferanten und Laboren, die Verbesserung interner Stan-dardarbeitsverfahren (SOPs) und Hazard Analysis and Critical Control Points (HACCP)-Konzepte sowie die ef-fektive Zuweisung wesentlicher Ressourcen entlang der Wertsch\u00f6pfungskette.\r\nZusammenfassend m\u00f6chten wir unsere Hauptanliegen und \u00dcberlegungen wie folgt darlegen:\r\n\u2022\r\nDerzeit w\u00fcrden die meisten von unseren Mitgliedsunternehmen importierten Produkte nicht in der Lage sein, die derzeit zur Diskussion stehenden H\u00f6chstgrenzen f\u00fcr MOAH einzuhalten. Viele f\u00fcr die Lebensmittelindustrie unverzichtbare Produkte k\u00f6nnten nicht mehr importiert oder f\u00fcr die industri-elle Nutzung bereitgestellt werden.\r\n\u2022\r\nEinige Produkte ben\u00f6tigen eine praktisch erreichbare H\u00f6chstgrenze, die durch die Anwendung an-gemessener Ma\u00dfnahmen zur Reduzierung von MOAH erreicht werden kann.\r\n\u2022\r\nBevor H\u00f6chstwerte, wie von der Kommission beabsichtigt, festgelegt werden, ist es notwendig, die Bem\u00fchungen (sowohl seitens der Industrie als auch durch Unterst\u00fctzung der Kommission) zu ver-st\u00e4rken, um Quellen der Kontamination weiter zu identifizieren und die Wirksamkeit der Redukti-onsma\u00dfnahmen durch die F\u00f6rderung und St\u00e4rkung der bereits in den Herkunftsl\u00e4ndern eingeleiteten guten Praktiken zu verbessern.\r\n\u2022\r\nEin angemessener zeitlicher Horizont ist erforderlich, damit die bereits in den Herkunftsl\u00e4ndern ein-geleiteten Minimierungsma\u00dfnahmen ihre volle Wirkung entfalten k\u00f6nnen, um eine signifikant redu-zierte MOAH-Kontamination zu erreichen.\r\n\u2022\r\nBevor H\u00f6chstwerte f\u00fcr MOAH festgelegt werden, m\u00fcssen grundlegende methodologische Ans\u00e4tze f\u00fcr die Analyse von MOAH gefunden werden, insbesondere im Bereich der \u00e4therischen \u00d6le. Wie oben erl\u00e4utert, sind die derzeitigen analytischen M\u00f6glichkeiten nicht geeignet, zufriedenstellende und zuverl\u00e4ssige Ergebnisse zu liefern. Es ist nicht sinnvoll, H\u00f6chstgrenzen festzulegen, die nicht mit ausreichender Zuverl\u00e4ssigkeit analysiert werden k\u00f6nnen."
+                        }
+                    }
+                ],
+                "title": "Europ\u00e4ische Rechtsvorschriften zur Festlegung von H\u00f6chstwerten f\u00fcr MOAH in Lebensmittelzusatzstoffen, Lebensmittelzutaten und \u00e4therischen \u00d6len"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/6d/83/317220/Stellungnahme-Gutachten-SG2406190080.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                            }
+                        ],
+                        "sendingDate": "2024-06-17"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0006855",
+                "regulatoryProjectTitle": "Europ\u00e4ische Anforderungen an gewerbliche Lagerhalter",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Requirements for Inspection rooms for physical controls in commercial storage facilities under \r\nImplementing Regulation (EU) 2019/1014, necessary exemptions in case of inspection facilities for \r\nproducts of non-animal origin \r\n\r\nDear Mr. ,\r\n\r\nWith a view to the ongoing discussions at the EU level, we would like to once again draw your attention to our previous letter, dated January 17th, 2024, regarding the requirements for inspection rooms for physical controls in commercial storage facilities as outlined in Implementing Regulation (EU) 2019/1014, Article 3 (1) (b), applicable to commercial facilities via Article 3(11).\r\n\r\nI.\r\nIn contrast to inspection rooms used for the testing of materials of animal origin, in case of products of plant origin there is no compelling reason why commercial storage facilities should be equipped with hot and cold running water and drainage systems. As already pointed out earlier:\r\n\r\n\u2022\tIn case of dried plant material, hot and cold running water is not required to maintain food hygiene and to prevent from cross contamination.\r\n\u2022\tFlushing and cleaning with water can be detrimental to raw plant materials, considering that humid environments promote growth of pathogen microorganisms.\r\n\u2022\tDrainage systems are counter productive particularly in terms of rodent infestation and thus create a non-justified risk of adverse effects to food hygiene. \r\n\r\nIt is evident that the objectives of maintaining food safety, upholding hygienic standards, and mitigating health risks can be achieved through various means, particularly concerning the equipment of storage facil-ities used for physical inspections. While it is mandatory to have running water, proper drainage pipes, and other infrastructure for food and feed of animal origin, such high levels of infrastructure are not essential for food and feed of non-animal origin. Regular dry cleaning as practiced in the commercial storage facilities is completely sufficient to ensure an acceptable level of food hygiene.\r\n\r\nWe assume that these arguments are also widely shared by the local government inspection practitioners at the harbour site. \r\n \r\n\r\nII.\r\nThe majority of relevant raw materials imported into the Union are cleared through the harbours of Ham-burg, Rotterdam and Amsterdam. Therefore, the need for sufficient inspection room capacities is of para-mount importance, as well as  the prudent use of resources to ensure a comprehensive, risk-based control system. \r\n\r\nHamburg, as a major EU import hub for goods of animal and non -animal origin, provides a wide variety of well-equipped inspection rooms within storage facilities. These facilities are equipped with running water, drainage systems, and other necessary infrastructure, where required by the nature of the products test-ed, and companies have consistently invested in maintaining these high standards. \r\n\r\nOn the other hand, SME storage companies would not be able to maintain their services in case of plant material, as any retrofitting of inspection facilities for non-animal materials would impose a disproportion-ate burden to the companies not justified by the needs of the products tested. In effect, this would lead to a gap, detrimental to a smooth import practice of the product group concerned, particularly with a view to the importation of plant material subjected to increased control frequencies under Implementing Regula-tion (EU)1793/2019.\r\n\r\nIII.\r\nWith this in mind, we reiterate our request and propose amending Article 3(11) of Regulation (EU) 2019/1014 to include exemptions for commercial storage facilities, as previously outlined in our communica-tion to the Commission, i.e.:\r\n\r\n\u201c11. The competent authorities of the border control post may permit, under their control, the use of commercial storage facilities for the goods referred to in Article 47 (1) of Regulation (EU) 2017/625, provided that those facilities are within the close vicinity of the border control post and are under the competence of the same customs authority.  \r\nSuch commercial storage facilities may be used to perform identity checks and physical checks on   products of non-animal origin, provided that these facilities comply with the minimum require-ments, laid down in this Regulation, except for the requirements laid down in Article 3 (1) b and (2).\u201d \r\n\r\nFor the reasons outlined above, we would greatly appreciate the EU Commission to consider our approach in the ongoing discussion process, bearing in mind that most storage companies, especially those at the Hamburg seaport, may no longer qualify to conduct inspection activities. This could jeopardize their crucial role in import control practices at this vital EU harbour for plant raw material consignments\r\n\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/6f/f1/317222/Stellungnahme-Gutachten-SG2406190074.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-08"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0006856",
+                "regulatoryProjectTitle": "Europ\u00e4ische Festlegung des Endpunkts f\u00fcr Lanolin gem. Verordnung (EC) Nr. 1069/2009 und Verordnung (EU) Nr. 142/2011",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Request to determine an end point for Lanolin under Regulation (EC) No 1069/2009 and (EU) No 142/2011 \r\nDear Mr. , \r\nwe are a trade association representing companies engaged in various activities, including the importation of Lanolin from third countries into the European Union. These companies are major suppliers to pro-cessing industries within the EU. Lanolin, derived from the wool wax or sebaceous gland fat of sheep, holds significant importance as an excipient (ointment base) in the production of pharmaceutical products. Addi-tionally, it serves as a widely utilized raw material in the cosmetics industry.\r\nThe rules governing the import and placing on the market of products of animal origin are outlined in Regu-lation (EC) No 1069/2009 on the health rules for animal by-products not intended for human consumption, and in Regulation (EU) No 142/2011 implementing Regulation (EC) No 1069/2009. \r\nLanolin is a processed product obtained from sheep wool, the latter being a derived product from animals classified under category 3 of Article 10 (h) of Regulation (EC) No 1069/2009. The manufacturing chain for sheep wool as such is concluded at a specified endpoint referred to in Article 3 lit. (e) of Regulation (EU) No 142/2011. \r\nGiven its nature as a further processed product derived of sheep wool, Lanolin should be considered a product not posing any risk in terms of the transmission of animal diseases. Currently there is no specified end point for Lanolin /wool wax derived from sheep wool.\r\nHowever, the importing companies see a substantial practical need to align this product with those men-tioned in Article 3 of Regulation (EU) No 142/2011 and to determine an end point which would allow Lano-lin to be relieved from restrictions upon market placement after import as laid down Article 5(2) of Regula-tion (EC) No 1069/2009.\r\nTo facilitate this objective, we kindly request the European Commission to consider initiating a proposal to amend Regulation (EU) No 142/2011. This proposal should encompass the incorporation of a distinct def-inition for Lanolin in Annex I, designating it as an end point product in Article 3, and outlining specific pro-cessing requirements. An amendment to a.m. Regulation might be worded as presented in the annex to this letter. \r\nWe would highly appreciate to be given the opportunity to further explain and discuss our approach with members of the staff of the Commission, personally in Brussels or through a video conference.\r\nYours faithfully,\r\nLutz D\u00fcshop \t\t\t\t \t\t\t\t                       \tGregor Wolf\r\nSecretary General\t               Secretary General\r\n                                                     \r\n\r\n\r\n\r\n\r\n                                                                                   Annex \r\n                                                            to VDC letter of 11th January 2024\r\nProposed wording for an amendment to Regulation (EU) No 142/2011, concerning the determination of an end point for Lanolin.\r\n1. Amendment of Article 3, new lit.(l) to be added \r\nEnd point in the manufacturing chain for certain derived products\r\nThe following derived products may be placed on the market, other than imported, without restrictions, as provided in Article 5(2) of Regulation (EC) No 1069/2009:\r\n\r\n(....)\r\n\r\n\u201c(l) Lanolin for the manufacture of medicinal and cosmetic products that fulfil the specific requirements set out in Chapter XIV of Annex XIII for the end points of these products\u201d. \r\n2. Amendment of Annex I by adding a new ciph. 62 \r\nDefinitions as referred to in Article 2 \r\nFor the purposes of this Regulation, the following definitions shall apply:\r\n(....)\r\n\u201c62.  'Lanolin' means a substance obtained after treatment of wool wax with acids, bases and heating. Wool wax is the secretion obtained from the sebaceous glands of live sheep of the genus Ovis aries L. (Fam. Bovidae), which is produced during the washing of cleaned, decolourised, and deodorised sheep wool. Where the term Lanolin is used in this Regulation, it includes wool wax.\u201d\r\n3. Amendment of Annex XIII, addition of a new Chapter XIV \r\nPetfood and certain other derived products\r\n(.....) \r\n\u201cCHAPTER XIV \r\nSpecific requirements for wool wax and derived products (such as Lanolin anhydrous, Lanolin hydrogen-ated, Lanolin ethoxylated, Lanolin alcohol or Lanolin fatty acids or wool wax acids) for the manufacture of medicinal products, cosmetic products and products not intended for animal feed\r\nEndpoint for Lanolin\r\nLanolin that has undergone at least \r\na) a treatment at pH\u2265 13 at 60\u00b0C for at least 1 h and/or\r\nb) a molecular distillation at \u2265 220\u00b0C under reduced pressure\u201d\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/bb/86/317224/Stellungnahme-Gutachten-SG2406200068.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-22"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0006857",
+                "regulatoryProjectTitle": "Europ\u00e4ische Rechtsvorschriften zur Festlegung von H\u00f6chstwerten f\u00fcr MOAH in Lebensmittelzusatzstoffen, Lebensmittelzutaten und \u00e4therischen \u00d6len",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Stellungnahme zu den vorgeschlagenen Rechtsvorschriften zur Festlegung von H\u00f6chstwerten f\u00fcr MOAH in Lebensmittelzusatzstoffen, Lebensmittelzutaten und \u00e4therischen \u00d6len\r\nSehr geehrte Frau Vanheusden,\r\nSehr geehrter Herr Sochor,\r\n(1) die Vereinigung der am Drogen- und Chemikalien Gro\u00df- und Au\u00dfenhandel beteiligten Firmen e.V. (VDC) ist ein Wirtschaftsverband, der Importeure, Exporteure, Transith\u00e4ndler, Distributoren, Makler, Hersteller, Verarbeiter und Logistikdienstleister umfasst. Die Mitgliedsunternehmen sind in den Bereichen Industrie-chemikalien, synthetische und fermentative pharmazeutische Wirkstoffe (APIs), getrocknete pflanzliche Stoffe, Zusatzstoffe, Extrakte, \u00e4therische \u00d6le und Aromen t\u00e4tig. Die VDC-Mitglieder spielen eine wichtige Rolle als Importeure und Rohstofflieferanten f\u00fcr die chemische und pharmazeutische Industrie, sowie f\u00fcr die Produktion von Lebens- und Futtermitteln, Nahrungserg\u00e4nzungsmitteln sowie die Aromen- und Duftstoff-industrie in der EU.\r\nZun\u00e4chst m\u00f6chten wir der Kommission unsere aufrichtige Anerkennung daf\u00fcr aussprechen, dass sie die Inte-ressengruppen aktiv in den Konsultationsprozess zu den Legislativvorschl\u00e4gen f\u00fcr das Risikomanagement von Mineral\u00f6lkohlenwasserstoffen (MOH) einbezieht. Dies ist besonders relevant im Licht des j\u00fcngsten Updates der Europ\u00e4ischen Beh\u00f6rde f\u00fcr Lebensmittelsicherheit (EFSA) zur Risikobewertung von Mineral\u00f6lkohlenwas-serstoffen in Lebensmitteln. Auch die begleitenden Diskussionspapiere, die die Beweggr\u00fcnde f\u00fcr die Vor-schl\u00e4ge detailliert erl\u00e4utern, werden von uns sehr gesch\u00e4tzt und begr\u00fc\u00dft.\r\nDar\u00fcber hinaus danken wir sowohl der Kommission als auch den Mitgliedstaaten f\u00fcr die Organisation des Stakeholder-Forums, das am 18. Januar stattfand. Dieses Forum bot eine ausgezeichnete Gelegenheit, Be-denken der Industrie zu \u00e4u\u00dfern und auszutauschen. Zudem erm\u00f6glichte es uns, auf spezifische Anmerkungen verschiedener Branchenverb\u00e4nde einzugehen und so die Diskussion mit verschiedenen Perspektiven zu be-reichern.\r\nUnser Engagement, die Quellen von MOH in Lebensmitteln gr\u00fcndlich zu untersuchen und Ma\u00dfnahmen zur Minimierung ihrer Pr\u00e4senz gem\u00e4\u00df dem ALARA-Prinzip (\"so niedrig wie vern\u00fcnftigerweise erreichbar\") um-zusetzen, bleibt standhaft. In diesem Zusammenhang m\u00f6chten wir darauf hinweisen, dass wir bereits im Jahr 2022 Empfehlungen an die Lieferanten in den Ursprungsl\u00e4ndern ausgegeben haben, um deren Bem\u00fchungen zu unterst\u00fctzen, Kontaminationsquellen zu identifizieren und das Auftreten von MOAH zu reduzieren bzw. zu minimieren (f\u00fcr weitere Informationen finden Sie die neueste Version im Anhang). Die Gew\u00e4hrleistung eines hohen Schutzniveaus f\u00fcr die Verbraucher steht im Mittelpunkt unserer Bem\u00fchungen. Daher begr\u00fc\u00dfen wir die M\u00f6glichkeit, in diesem fortlaufenden Dialog weiteres Feedback zu geben.\r\n(2) Wir haben Daten zu Funden von Mineral\u00f6lkohlenwasserstoffen (MOAH) in verschiedenen Produkten unserer Mitglieder gesammelt, darunter Agar-Agar, Bienenwachs, Carboxymethylcellulose, Carnauba-wachs, Gummiarabikum, Kr\u00e4uter- und Gew\u00fcrzaromen, Magnesiumstearat, Zitronen\u00f6l, Orangen\u00f6l, Flohsa-menschalen, Paprika-Oleoresin, Erbsenprotein, Reisprotein, Schellack, Natriumalginat, Taragummi und Xanthangummi. W\u00e4hrend einige dieser Produkte dank erfolgreicher Umsetzung von Ma\u00dfnahmen, die mit guten Herstellungspraktiken \u00fcbereinstimmen, den vorgeschlagenen H\u00f6chstgrenzen (ML) f\u00fcr MOAH entspre-chen, konzentrieren wir uns darauf, L\u00f6sungen f\u00fcr die Produkte zu finden, die weiterhin nicht konform w\u00e4ren.\r\nAus der Analyse der Daten geht hervor, dass Produkte wie Guarkernmehl, Kr\u00e4uter- und Gew\u00fcrzaromen, Magnesiumstearat, Orangen\u00f6l, Zitronen\u00f6l, Flohsamenschalen, Paprika-Oleoresin, Reisprotein und Schel-lack die vorgeschlagenen H\u00f6chstmengen (ML) \u00fcberschreiten w\u00fcrden. Dies wird durch das Datenmaterial zu mehreren Produktgruppen eindeutig belegt, siehe beigef\u00fcgte Umfrage. Die Gr\u00fcnde f\u00fcr das Vorkommen von MOAH in diesen Produkten sind vielf\u00e4ltig und nicht immer klar, trotz Bem\u00fchungen, die Einhaltung guter Her-stellungspraktiken zu gew\u00e4hrleisten.\r\nTrotz beachtlicher Fortschritte in der Lebensmittelindustrie gibt es weiterhin unbekannte Wege, \u00fcber die Mineral\u00f6lkohlenwasserstoffe (MOHs) in die Lieferkette gelangen k\u00f6nnen, insbesondere in der vorgelager-ten Lieferkette und in den Herkunftsl\u00e4ndern, wo Kontrollma\u00dfnahmen oft begrenzt sind.\r\n(3) Die Entwurfsvorschl\u00e4ge (Arbeitspapiere zu \u00c4nderungen der EU-Kontaminantenverordnung sowie der Spe-zifikationsverordnung f\u00fcr Lebensmittelzusatzstoffe, die vom Kommissionspersonal herausgegeben wurden) mit ihrem vorgeschlagenen Geltungsbereich und den festgelegten Grenzwerten haben erhebliche Auswir-kungen auf die komplexen und weitreichenden Lieferketten, die f\u00fcr eine vielf\u00e4ltige Palette von Lebensmit-teln und Zutaten aus Drittl\u00e4ndern verantwortlich sind. Es ist entscheidend, das erhebliche Volumen des t\u00e4g-lich nach Europa importierten Warenhandels anzuerkennen. Selbst gut vernetzte Branchenverb\u00e4nde in Br\u00fcs-sel verf\u00fcgen nicht \u00fcber die notwendige Reichweite entlang der Lieferkette, um effektiv mit der Vielzahl der potenziell betroffenen Akteure in Kontakt zu treten. Dieser Mangel an Einfluss erschwert es, die gew\u00fcnsch-ten \u00c4nderungen in den Produktionspraktiken zu bewirken, was durch das Fehlen angemessener \u00dcbergangs-zeitr\u00e4ume noch versch\u00e4rft wird.\r\nDie Kommission hat verschiedene Wege aufgezeigt, \u00fcber die Mineral\u00f6lkohlenwasserstoffe (MOHs) Lebens-mittel kontaminieren k\u00f6nnen, einschlie\u00dflich Ernte- und Produktionsprozessen, Kontamination durch Le-bensmittelkontaktmaterialien, Zutaten, Zusatzstoffe und Umweltfaktoren. Die Existenz zahlreicher Eintritts-punkte unterstreicht die Dringlichkeit, mit Gesch\u00e4ftsbetreibern stromaufw\u00e4rts und in Drittl\u00e4ndern zusam-menzuarbeiten, um die umfassende Herausforderung der Verringerung von MOHs in Lebensmitteln effek-tiv anzugehen.\r\nWir bitten die Kommission nachdr\u00fccklich, die Einbindung von Stakeholdern zu erweitern, insbesondere von Akteuren au\u00dferhalb der EU, um die m\u00f6glichen Auswirkungen der vorgeschlagenen H\u00f6chstwerte auf deren Landwirte und Industrien besser zu verstehen. Obwohl das Informationsdokument der Kommission zu lau-fenden regulatorischen Diskussionen ein positiver Schritt ist, reicht es nicht aus, um eine effektive Beteili-gung von Produzenten aus Drittl\u00e4ndern zu f\u00f6rdern, die m\u00f6glicherweise Schwierigkeiten haben, Quellen zu identifizieren oder nicht \u00fcber die Ressourcen verf\u00fcgen, um Minderungsma\u00dfnahmen umzusetzen.\r\n(4) Angesichts der Tatsache, dass Lebensmittelzusatzstoffe, \u00e4therische \u00d6le und Aromen typischerweise nur etwa 1% des Endprodukts ausmachen, erkennen wir die Notwendigkeit eines neuen, risiko- und expositi-onsbasierten Ansatzes an. Dieser erfordert erhebliche \u00dcbergangsma\u00dfnahmen, um Engp\u00e4sse bei wichtigen Zutaten und Produkten zu verhindern, w\u00e4hrend gleichzeitig unverh\u00e4ltnism\u00e4\u00dfige Auswirkungen adressiert werden. Es ist unerl\u00e4sslich, spezifische Ausnahmen f\u00fcr Produkte festzulegen, die in begrenzten Mengen kon-sumiert werden, basierend auf gesundheitlichen \u00dcberlegungen und Verh\u00e4ltnism\u00e4\u00dfigkeit. Die pauschale An-wendung des niedrigsten analytisch quantifizierbaren Werts als Grenzwert f\u00fcr alle Lebensmittel, unabh\u00e4ngig von ihrem Beitrag zu Expositionsrisiken, wird als inakzeptabel angesehen. Begr\u00fcndete Ausnahmen f\u00fcr be-stimmte Produkte, insbesondere solche, die selten oder in geringen Mengen konsumiert werden, sind ge-rechtfertigt. Dies ist besonders relevant f\u00fcr Artikel wie Gew\u00fcrze, Lebensmittelzusatzstoffe, Aromastoffe und Nahrungserg\u00e4nzungsmittel.\r\n(5) Um die Kontinuit\u00e4t der bestehenden Lieferketten und ihre zentrale Rolle in der Lebensmittelindustrie zu bewahren, appellieren wir f\u00fcr eine Verl\u00e4ngerung der \u00dcbergangsfrist. Dieses Anliegen ist besonders dringlich angesichts erheblicher Einschr\u00e4nkungen, die bei der vorgeschlagenen Methode JRC beobachtet wurden, ins-besondere in Bezug auf die Bestimmungsgrenze (LOQ) und die pr\u00e4zise Ermittlung von Mineral\u00f6lr\u00fcckst\u00e4n-den.\r\n(6) Die vorgeschlagene JRC-Methode ist insbesondere f\u00fcr die Bestimmung von Mineral\u00f6lr\u00fcckst\u00e4nden in Le-bensmitteln, die sekund\u00e4re Pflanzenstoffe wie Sterane und Terpene enthalten, ungeeignet, da sie potenzi-ell zu \u00dcberbewertungen f\u00fchren kann. Die Identifizierung mittels zweidimensionaler Gaschromatographie (GC) stellt finanzielle Herausforderungen dar und liefert aufgrund fehlender umfassender Referenzdaten in Bibliotheken, besonders bei \u00e4therischen \u00d6len und Wachsen, nicht immer schl\u00fcssige Ergebnisse. Daher pl\u00e4-dieren wir f\u00fcr die Entwicklung und Validierung einer robusten Analyse, bevor H\u00f6chstmengen (ML) f\u00fcr aroma-tische Kohlenwasserstoffe (MOAH) in \u00e4therischen \u00d6len festgelegt werden. Zudem ist es entscheidend, Ver-arbeitungsfaktoren, die im Herstellungsprozess bestimmter Lebensmittelzutaten, Lebensmittelzusatzstoffe und \u00e4therischer \u00d6le inh\u00e4rent sind, bei der Festlegung der MLs f\u00fcr MOAH zu ber\u00fccksichtigen. Eine Bestim-mungsgrenze von 0,5 mg/kg f\u00fcr \u00e4therische \u00d6le, Aromen, Gew\u00fcrze und Kr\u00e4uter ist technisch unerreichbar.\r\nZudem m\u00fcssen wir das Fehlen von kompetenten Laboren sowohl innerhalb der EU als auch in Drittl\u00e4ndern anerkennen. Es ist unerl\u00e4sslich, Vorbereitungen zu treffen und realistische Zeitpl\u00e4ne f\u00fcr die Erreichung der vorgeschlagenen Standards unabh\u00e4ngig von den Bewertungen der EFSA oder harmonisierten Stellungnah-men der Mitgliedstaaten festzulegen. Nur mit klaren regulatorischen Richtlinien k\u00f6nnen Lebensmittelunter-nehmer (FBOs) die notwendige Klarheit und rechtliche Sicherheit erlangen, um strategisch kritische Bereiche anzugehen. Dies umfasst die Zusammenarbeit mit Lieferanten und Laboren, die Verbesserung interner Stan-dardarbeitsverfahren (SOPs) und Hazard Analysis and Critical Control Points (HACCP)-Konzepte sowie die ef-fektive Zuweisung wesentlicher Ressourcen entlang der Wertsch\u00f6pfungskette.\r\nZusammenfassend m\u00f6chten wir unsere Hauptanliegen und \u00dcberlegungen wie folgt darlegen:\r\n\u2022\r\nDerzeit w\u00fcrden die meisten von unseren Mitgliedsunternehmen importierten Produkte nicht in der Lage sein, die derzeit zur Diskussion stehenden H\u00f6chstgrenzen f\u00fcr MOAH einzuhalten. Viele f\u00fcr die Lebensmittelindustrie unverzichtbare Produkte k\u00f6nnten nicht mehr importiert oder f\u00fcr die industri-elle Nutzung bereitgestellt werden.\r\n\u2022\r\nEinige Produkte ben\u00f6tigen eine praktisch erreichbare H\u00f6chstgrenze, die durch die Anwendung an-gemessener Ma\u00dfnahmen zur Reduzierung von MOAH erreicht werden kann.\r\n\u2022\r\nBevor H\u00f6chstwerte, wie von der Kommission beabsichtigt, festgelegt werden, ist es notwendig, die Bem\u00fchungen (sowohl seitens der Industrie als auch durch Unterst\u00fctzung der Kommission) zu ver-st\u00e4rken, um Quellen der Kontamination weiter zu identifizieren und die Wirksamkeit der Redukti-onsma\u00dfnahmen durch die F\u00f6rderung und St\u00e4rkung der bereits in den Herkunftsl\u00e4ndern eingeleiteten guten Praktiken zu verbessern.\r\n\u2022\r\nEin angemessener zeitlicher Horizont ist erforderlich, damit die bereits in den Herkunftsl\u00e4ndern ein-geleiteten Minimierungsma\u00dfnahmen ihre volle Wirkung entfalten k\u00f6nnen, um eine signifikant redu-zierte MOAH-Kontamination zu erreichen.\r\n\u2022\r\nBevor H\u00f6chstwerte f\u00fcr MOAH festgelegt werden, m\u00fcssen grundlegende methodologische Ans\u00e4tze f\u00fcr die Analyse von MOAH gefunden werden, insbesondere im Bereich der \u00e4therischen \u00d6le. Wie oben erl\u00e4utert, sind die derzeitigen analytischen M\u00f6glichkeiten nicht geeignet, zufriedenstellende und zuverl\u00e4ssige Ergebnisse zu liefern. Es ist nicht sinnvoll, H\u00f6chstgrenzen festzulegen, die nicht mit ausreichender Zuverl\u00e4ssigkeit analysiert werden k\u00f6nnen."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

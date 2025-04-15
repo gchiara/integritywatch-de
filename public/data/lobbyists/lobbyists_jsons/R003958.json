@@ -1,0 +1,917 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-08-10T14:17:20.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-31T13:48:50.000+02:00",
+        "lastUpdateDate": "2024-06-27T09:04:24.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 32713,
+                "validFromDate": "2024-06-27T09:04:24.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 28159,
+                "validFromDate": "2024-01-14T22:48:22.000+01:00",
+                "validUntilDate": "2024-06-27T09:04:24.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23443,
+                "validFromDate": "2023-07-25T16:51:19.000+02:00",
+                "validUntilDate": "2024-01-14T22:48:22.000+01:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 11018,
+                "validFromDate": "2022-08-10T14:17:20.000+02:00",
+                "validUntilDate": "2023-07-25T16:51:19.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PROFESSION_ASSOC",
+            "de": "Berufsverband",
+            "en": "Professional association"
+        },
+        "activityDescription": "Der Bioland e.V. ist ein Verband von Erzeuger, Verarbeiter und H\u00e4ndler \u00f6kologischer Lebensmittel in Deutschland und S\u00fcdtirol. Der Bioland f\u00f6rdert die Entwicklung des \u00f6kologischen Landbaus u. der Lebensmittelwirtschaft und vertritt die gemeinsamen Interessen seiner Mitglieder in Politik und Gesellschaft. \r\nEr setzt sich f\u00fcr die Erhaltung und Sicherung der Existenz einer b\u00e4uerlichen Landwirtschaft ein. Dabei sollen Arbeitspl\u00e4tze gesichert, gerechte und humane Lebensbedingungen erhalten und geschaffen werden. Er f\u00f6rdert die Unabh\u00e4ngigkeit des organisch-biologischen Landbaus und \u00fcberschaubare Strukturen im vor- und nachgelagerten Bereich und unterst\u00fctzt insbesondere den Auf- und Ausbau regionaler Wertsch\u00f6pfungsketten im Biomarkt. \r\n\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_AF_AQUACULTURE",
+                "de": "Fischerei/Aquakultur",
+                "en": "Fishery/aquaculture"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_AF_FOOD_SAFETY",
+                "de": "Lebensmittelsicherheit",
+                "en": "Food safety"
+            },
+            {
+                "code": "FOI_ECONOMY_HANDCRAFT",
+                "de": "Handwerk",
+                "en": "Handcraft"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/8e/64/316988/gBV22-Bilanz-unterschrieben.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.3,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 90001,
+            "to": 100000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Mainz",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Bioland e.V.",
+            "street": "Kaiserstr. ",
+            "streetNumber": "18",
+            "type": "NATIONAL",
+            "zipCode": "55116"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "info@bioland.de",
+            "phoneNumber": "+4930629047610",
+            "street": "Gradestra\u00dfe",
+            "streetNumber": "92",
+            "type": "NATIONAL",
+            "zipCode": "12347"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@bioland.de"
+                }
+            ],
+            "phoneNumber": "+4961312397911",
+            "websites": [
+                {
+                    "website": "www.bioland.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Jan ",
+                "lastName": "Plagge",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Sabine",
+                "lastName": "Kabath",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Gerald",
+                "lastName": "Wehde",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Peter",
+                "lastName": "Boysen ",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Christoph",
+                "lastName": "Zimmer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Lang",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Jonas",
+                "lastName": "D\u00f6rr",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Heike",
+                "lastName": "Kruspe",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Annette",
+                "lastName": "St\u00fcnke",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Mareike",
+                "lastName": "Wei\u00dfm\u00fcller",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr. ",
+                "firstName": "Stephanie",
+                "lastName": "Fischinger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr. ",
+                "firstName": "Ulrich",
+                "lastName": "Schumacher",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Carolin",
+                "lastName": "Pagel",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Josef",
+                "lastName": "Schmidt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Larissa",
+                "lastName": "Zacke",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Maximilian",
+                "lastName": "Schneider",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Marcus",
+                "lastName": "Arzt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Samuel",
+                "lastName": "Himmel",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Regino",
+                "lastName": "Esch",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Simon",
+                "lastName": "Krischer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Kerstin",
+                "lastName": "Hintz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Julia",
+                "lastName": "Schmidt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "J\u00f6rn",
+                "lastName": "Bender",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Patrick",
+                "lastName": "R\u00fcckert",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Bernhard",
+                "lastName": "Wagner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Matthias",
+                "lastName": "D\u00f6rr",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Jan ",
+                "function": "Pr\u00e4sident ",
+                "lastName": "Plagge",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Sabine",
+                "function": "Vizepr\u00e4sidentin ",
+                "lastName": "Kabath",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Josef",
+                "function": "Vorstand",
+                "lastName": "Schmidt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "J\u00f6rg",
+                "function": "Vorstand",
+                "lastName": "Quast",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Johann",
+                "function": "Vorstand",
+                "lastName": "Tappeiner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Peter",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Bockhardt",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-04-26",
+            "naturalPersons": 8908,
+            "organizations": 1417,
+            "totalCount": 10325
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "B\u00d6LW e.V."
+            },
+            {
+                "membership": "IFOAM Organics Europe "
+            },
+            {
+                "membership": "DNR e.V. "
+            },
+            {
+                "membership": "Senat der Wirtschaft e.V"
+            },
+            {
+                "membership": "Klimaallianz Deutschland e.V. "
+            },
+            {
+                "membership": "PAN Deutschland e.V. "
+            },
+            {
+                "membership": "Meine Landwirtschaft "
+            },
+            {
+                "membership": "Ifoam - OrganicsInternational"
+            },
+            {
+                "membership": "AgrarB\u00fcndnis e.V."
+            },
+            {
+                "membership": "VLOG - Verband Lebensmittel ohne Gentechnik "
+            },
+            {
+                "membership": "Best Economy Forum"
+            },
+            {
+                "membership": "Verbraucherinitiative e.V."
+            },
+            {
+                "membership": "DEFAF - Deutscher Fachverband f\u00fcr Agroforstwirtschaft"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Bioland e.V. "
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 8540001,
+            "to": 8550000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "F\u00f6rderung von Bildungsverantstaltungen f\u00fcr landwirtschaftlichde UnternehmerInnen und Unternehmen in Baden-W\u00fcrttemberg",
+                "location": "Karlsruhe ",
+                "name": "Land Baden-W\u00fcrttemberg",
+                "publicAllowanceEuro": {
+                    "from": 170001,
+                    "to": 180000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Unterst\u00fctzung von verschiedenen Versuchsprojekten wie z.B. Knoblauch, Anbau Sorhum f\u00fcr den \u00d6ko-Futteranbau sowie ein Projekt zum Sojaanbau und Nematoden. \r\n",
+                "location": "Hannover ",
+                "name": "Landwirtschaftskammer Niedersachsen ",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Messe-F\u00f6rderungen",
+                "location": "Bonn",
+                "name": "BLE ",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "WB F\u00d6J",
+                "location": "Hannover",
+                "name": "Nieders\u00e4chsische Bingoumweltstiftung ",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Projektf\u00f6rderung f\u00fcr das Projekt \u201eGrenzenlos Regional \u2013 Bio in Europa\u201c im Rahmen des Programms f\u00fcr Informations- und Absatzf\u00f6rderung im Binnenmarkt und in Drittl\u00e4ndern f\u00fcr europ\u00e4ische Agrarerzeugnisse und ihre Produktionsmethoden (AGRIP) gem\u00e4\u00df Verordnung (EU) 1144/2014, Themenbereich \u201eOrganic\u201c (AGRIP-MULTI-2022-IM-ORGANIC)",
+                "location": "Br\u00fcssel",
+                "name": "European Research Executive Agency (REA)",
+                "publicAllowanceEuro": {
+                    "from": 570001,
+                    "to": 580000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R003958/32713",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-27T09:04:24.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/1c/3c/316991/Lobbyregister-Detailansicht-R003958-2024-06-27_09-04-24.pdf",
+        "validFromDate": "2024-06-27T09:04:24.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 32713,
+    "registerNumber": "R003958",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GAPKondV",
+                        "title": "Verordnung zur Durchf\u00fchrung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Konditionalit\u00e4t",
+                        "url": "https://www.gesetze-im-internet.de/gapkondv"
+                    },
+                    {
+                        "shortTitle": "GAPKondG",
+                        "title": "Gesetz zur Durchf\u00fchrung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Konditionalit\u00e4t",
+                        "url": "https://www.gesetze-im-internet.de/gapkondg"
+                    },
+                    {
+                        "shortTitle": "GAPDZV",
+                        "title": "Verordnung zur Durchf\u00fchrung der GAP-Direktzahlungen",
+                        "url": "https://www.gesetze-im-internet.de/gapdzv"
+                    },
+                    {
+                        "shortTitle": "GAPDZG",
+                        "title": "Gesetz zur Durchf\u00fchrung der im Rahmen der Gemeinsamen Agrarpolitik finanzierten Direktzahlungen",
+                        "url": "https://www.gesetze-im-internet.de/gapdzg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Ziel ist die angemessene Ber\u00fccksichtigung des \u00f6kologischen Landbaus in der Agrarf\u00f6rderung. \r\nDie Vorgaben zur Konditionalit\u00e4t, allen voran bei GL\u00d6Z 5, 6 und 8 sollten \r\nf\u00fcr \u00d6ko-Betriebe im Sinne der ehemaligen Green-by-Definition-Regel angepasst werden. Da es \r\nweiterhin GL\u00d6Z-Standards geben wird, die selbstverst\u00e4ndlich auch von gesamtumgestellten Bio-Betrieben umgesetzt werden m\u00fcssen (wie z.B. GL\u00d6Z 1), w\u00e4re ein Ansatz green by concept f\u00fcr \r\nbestimmte GL\u00d6Z umzusetzen. \r\nDiese \u00c4nderungen k\u00f6nnen weitestgehend budgetneutral umgesetzt werden.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmel.de/SharedDocs/Downloads/DE/Glaeserne-Gesetze/Referentenentwuerfe/1-gesetz-aend-gap-konditionalitaeten-gesetz.pdf?__blob=publicationFile&v=3",
+                            "draftBillProjectUrl": "https://www.bmel.de/SharedDocs/Gesetzestexte/DE/1-gesetz-aend-gap-konditionalitaet.html",
+                            "shortTitle": "BMEL",
+                            "title": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft",
+                            "url": "https://www.bmel.de/DE/Home/home_node.html"
+                        }
+                    ],
+                    "publicationDate": "2023-12-04",
+                    "title": "Erstes Gesetz zur \u00c4nderung des GAP-Konditionalit\u00e4ten-Gesetzes"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006804",
+                "statements": [],
+                "title": "Agrarf\u00f6rderung"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "KSG",
+                        "title": "Bundes-Klimaschutzgesetz",
+                        "url": "https://www.gesetze-im-internet.de/ksg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Ziel ist ein ambitionierteres Sektorziel f\u00fcr den Bereich Landwirtschaft. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006805",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/39/b6/316989/Stellungnahme-Gutachten-SG2406130113.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                        "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                        "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-03"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0006805",
+                        "regulatoryProjectTitle": "Klimaschutz",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": " \r\nStellungnahme des Bioland e.V. zur Diskussionsgrundlage \r\neines Zukunftsprogramms Pflanzenschutz\r\n(Stand 03.05.2024)\r\nVorbemerkungen\r\nBioland begr\u00fc\u00dft die Zielsetzung des BMEL \u2013 \u201ein Anlehnung an die Farm-to-Fork Strategie \r\nder EU Kommission \u2013 bis 2030 die Verwendung und das Risiko von chemischen \r\nPflanzenschutzmitteln um 50 Prozent zu verringern.\u201c F\u00fcr die Zielerreichung ist ein schnell \r\nwirksames Umsetzungsprogramm notwendig. Dies gilt insbesondere auch vor dem \r\nHintergrund\r\n\uf0b7 einer viel zu geringen \u201eReduktionswirkung\u201c des 2013 verabschiedeten Nationalen \r\nAktionsplans zur nachhaltigen Anwendung von Pflanzenschutzmitteln\r\n\uf0b7 und der auf EU-Ebene gescheiterten Verordnung \u00fcber die nachhaltige Anwendung \r\nvon Pflanzenschutzmitteln \u2013 die \u201aSustainable Use Regulation\u2018 (SUR).\r\nAllerdings muss ein wirksames \u201eZukunftsprogramm\u201c gegen\u00fcber der vorgelegten \r\nDiskussionsgrundlage an fast allen Stellen konkretisiert werden und zwar in Hinsicht auf:\r\n\uf0b7 Konkrete Beschreibung der Ma\u00dfnahmen mit verbindlichen Umsetzungsschritten/ \r\nMeilensteinen\r\n\uf0b7 Zeitpl\u00e4ne\r\n\uf0b7 Finanzmittel/Budgets\r\n\uf0b7 Priorisierung, was in dieser Legislatur umgesetzt wird.\r\nGenau diese Konkretisierungen fehlen bisher. So bleibt die Vorlage sehr unverbindlich und \r\neine Auflistung von Willensbekundungen.\r\nDie gro\u00dfe zeitliche Verz\u00f6gerung zwischen der Ank\u00fcndigung eines \u201ePestizid\u0002Reduktionsprogramms\u201d (Herbst 2022) und der erst Mitte M\u00e4rz 2024 vom BMEL vorgelegten \r\n\u201eDiskussionsgrundlage f\u00fcr die Erarbeitung eines Zukunftsprogramms Pflanzenschutz\u201c ist vor \r\ndem Hintergrund der fehlenden Konkretisierung sehr unverst\u00e4ndlich. \r\nUmso mehr besteht die Notwendigkeit, die verbleibende Zeit dieser Legislaturperiode f\u00fcr die \r\nUmsetzung wirksamer Ma\u00dfnahmen zur Reduktion der Einsatzes chemisch-synthetischer \r\nPestiziden zu nutzen \u2013 und diese dazu entsprechend zu priorisieren.\r\nAuch die bisher unvollst\u00e4ndige Umsetzung der Vorgaben der EU-Pestizid-Rahmenrichtlinie \r\n2009/128/EG \u201eSustainable Use Directive\u201c (SUD) zum Integrierten Pflanzenschutz zwingen \r\nzum sofortigen Handeln. So ist es dringend geboten, im vorgelegten Papier enthaltene \r\nMa\u00dfnahmen unabh\u00e4ngig von der Diskussion zum Zukunftsprogramm voranzutreiben.\r\n \r\nA-Ma\u00dfnahmen in dieser Legislaturperiode\r\nA1 Verpflichtende Vorgaben zum Integrierten Pflanzenschutz (IPS) \r\nendlich umsetzen\r\nDie allgemeinen Grunds\u00e4tze des Integrierten Pflanzenschutz (IPS) sind ordnungsrechtlich \r\ndurch die EU-Pestizid-Rahmenrichtlinie 2009/128/EG, Artikel 14 und Anhang III festgelegt. \r\nDie nationale Umsetzung der SUD und des \u00a7 3 Pflanzenschutzgesetz (PflSchG) in der \r\n\u201eguten fachlichen Praxis im Pflanzenschutz\u201c (gfP) und dem NAP ist allerdings ungen\u00fcgend. \r\nSo hat die verbindliche Vorgabe zum IPS in den letzten 13 Jahren zu keiner relevanten \r\nPestizidreduktion gef\u00fchrt. Ein Beleg der ungen\u00fcgenden Umsetzung der SUD sowie der \r\nresultierenden Praxisanwendung des IPS ist der seit viele Jahren konstant hohe \r\nInlandsabsatz von Pflanzenschutzmitteln.\r\nDringender Handlungsbedarf besteht bei:\r\n\uf0b7 Neudefinition des notwendigen Ma\u00dfes\r\n\uf0b7 Neufassung der gfP \r\n\uf0b7 Anpassung der Leitlinien IPS.\r\nA1.1 Neudefinition des notwendigen Ma\u00dfes\r\nIn \u00a7 2 PflSchG ist \u201eIntegrierter Pflanzenschutz\u201c definiert als \u201eeine Kombination von Verfahren, \r\nbei denen unter vorrangiger Ber\u00fccksichtigung biologischer, biotechnischer, \r\npflanzenz\u00fcchterischer sowie anbau- und kulturtechnischer Ma\u00dfnahmen die Anwendung \r\nchemischer Pflanzenschutzmittel auf das notwendige Ma\u00df beschr\u00e4nkt wird.\u201c\r\n\u201eNotwendig\u201c kann der Einsatz chemisch-synthetischer PSM also nur sein, wenn zuvor \r\ns\u00e4mtliche anderen Elemente der integrierten Produktion (Standort- und Sortenwahl, weite \r\nFruchtfolge, nicht-chemische Verfahren etc.) ausgereizt wurden und wenn der danach zu \r\nerwartende Schaden tats\u00e4chlich eine relevante Dimension erreichen w\u00fcrde.\r\nIm NAP wird in Kap. 6.1.4 die Definition des \u201enotwendigen Ma\u00dfes\u201c jedoch abweichend von \r\nder Vorgabe der SUD unter das Primat der Wirtschaftlichkeit gestellt: \u201e[\u2026] Dabei beschreibt \r\ndas notwendige Ma\u00df bei der Anwendung von chemischen Pflanzenschutzmitteln die \r\nIntensit\u00e4t der Anwendung von Pflanzenschutzmitteln, die notwendig ist, um den Anbau der \r\nKulturpflanzen, besonders auch vor dem Hintergrund der Wirtschaftlichkeit, zu sichern. \r\n[\u2026]\u201c \r\nEine Neudefinition des notwendigen Ma\u00dfes im Sinne der SUD sowie die Klarstellung \r\ndes \u00a7 3 PflSchG muss umgehend durch eine grunds\u00e4tzliche \u00dcberarbeitung der gfP \r\nund der entsprechenden Passagen im NAP vorgenommen werden. \r\nA1.2 \u00dcberarbeitung der guten fachlichen Praxis \r\nDie derzeit g\u00fcltigen Grunds\u00e4tze der gfP aus 2010 enthalten keine vollzugsf\u00e4hige \r\nKonkretisierung der EU-weit seit 2011 g\u00fcltigen Grunds\u00e4tze des integrierten \r\nPflanzenschutzes. Die SUD gebietet eine l\u00e4ngst \u00fcberf\u00e4llige \u00dcberarbeitung. Der letzte \r\nVersuch einer Anpassung der gfP scheiterte 2015. Sowohl die EU-Kommission als auch der \r\nEurop\u00e4ische Rechnungshof bem\u00e4ngeln die Durchsetzung der EU-weit verbindlichen \r\n \r\nGrunds\u00e4tze des integrierten Pflanzenschutzes in den Mitgliedstaaten, darunter auch \r\nDeutschland. Nicht-chemische PSM sollten als Norm, nicht wie bislang als Alternative, \r\ndefiniert werden.\r\nEine grunds\u00e4tzliche \u00dcberarbeitung der gfP ist eine priorit\u00e4re Aufgabe in dieser \r\nLegislatur. Zudem muss ein Versto\u00df gegen die gute fachliche Praxis nach \u00a7 3 PflSchG \r\nin Zukunft sanktioniert werden (bisher nur Ordnungswidrigkeit).\r\nA1.3 Anpassung der Sektorspezifischen Leitlinien\r\nEntsprechend der oben beschriebenen Anpassung der Definition des \u201eNotwendigen Ma\u00dfes\u201c \r\nund der grunds\u00e4tzlichen \u00dcberarbeitung der gfP sind die sektorspezifischen Leitlinien mit dem \r\nFokus auf nicht-chemische Alternativen anzupassen. \r\nA2 \u00d6ko-Landbau bis 2030 auf 30 Prozent ausbauen\r\nDas Ziel der Bundesregierung, den \u00d6kolandbau auf 30 Prozent der landwirtschaftlichen \r\nFl\u00e4che bis 2030 auszuweiten, muss \u00fcber entsprechende Ma\u00dfnahmen/Budgets zu einem \r\nzentralen Instrument der Pestizidreduktion werden. Die \u201eVerzahnung\u201c der \u201aBio-Strategie 2030 \r\n\u2013 Nationale Strategie f\u00fcr 30 Prozent \u00f6kologische Land- und Lebensmittelwirtschaft bis 2030\u2018 \r\nmit dem Zukunftsprogramm wird zu Recht genannt. Zur Umsetzung fehlen jedoch personelle \r\nund finanziellen Ressourcen. Im Haushalt 2025 und f\u00fcr die Folgejahre ist daher eine \r\nausreichende Finanzierung/Personalausstattung zur Zielerreichung sicherzustellen. \r\n\uf0b7 Ein ausreichendes Budget zur Umsetzung der vielf\u00e4ltigen Ma\u00dfnahmen der Bio\u0002Strategie inkl. einer deutlichen Erh\u00f6hung des Budgets f\u00fcr das Bundesprogramm \r\n\u00d6kologischer Landbau (B\u00d6L)\r\n\uf0b7 Entsprechend dem Koalitionsvertrag m\u00fcssen 30 Prozent der Agrarforschungsmittel \r\nf\u00fcr den Biolandbau genutzt werden. Aktuell liegt der Anteil der Mittel f\u00fcr die \u00d6ko\u0002Forschung bei rund 2 Prozent. Das BMEL muss deshalb in der eigenen \r\nRessortforschung und in anderen Haushaltstiteln daf\u00fcr sorgen, dass wirklich 30 \r\nProzent der Ressourcen f\u00fcr Bio genutzt werden.\r\nZudem werden \u00d6kobetriebe in der nationalen Umsetzung der europ\u00e4ischen Agrarpolitik \r\n(GAP) benachteiligt. Daher muss die Honorierung der \u00f6kologischen Leistungen des \r\n\u00d6kolandbaus im Rahmen der GAP-F\u00f6rderung \u00fcber h\u00f6here F\u00f6rders\u00e4tze, bessere \r\nKombinationsm\u00f6glichkeiten mit Eco-Schemes und AUKM und eine Erleichterungen bei der \r\nErf\u00fcllung der GL\u00d6Z-Standards (green by concept) deutlich gesteigert werden. Ziel muss es \r\nsein, die relative Vorz\u00fcglichkeit in der F\u00f6rdersystematik gegen\u00fcber konventionellen \r\nAnbausystemen zu erh\u00f6hen und somit Anreize f\u00fcr die Umstellung neuer Betriebe zu \r\nschaffen. \r\nA3 Pestizidabgabe einf\u00fchren \u2013 Finanzmittel gezielt einsetzen\r\nAls ein schnell wirksames Instrument zur Reduktion des Einsatzes von chemisch\u0002synthetischen Pestiziden fordert Bioland die Einf\u00fchrung einer Pestizidabgabe noch in \r\ndieser Legislatur. Ohne b\u00fcrokratischen Aufwand f\u00fcr landwirtschaftliche Betriebe k\u00f6nnten so \r\n \r\nGelder f\u00fcr deren Unterst\u00fctzung bei der Pestizidreduktion generiert werden. Die Wirkung \r\neines solchen Instruments ist durch Studien und Erfahrungen in anderen L\u00e4ndern erfolgreich \r\nbelegt. Zudem leistet eine Pestizid-Abgabe einen Beitrag zur Internalisierung externer \r\nKosten und wendet das Verursacherprinzip an. Die Zukunftskommission Landwirtschaft weist \r\nauf externe Kosten der derzeitigen landwirtschaftlichen Produktion in H\u00f6he von 90 Milliarden \r\nEuro/Jahr hin. Auch angesichts der aktuell angespannten Haushaltslage ist die Einf\u00fchrung \r\nneuer marktwirtschaftlicher Lenkungsinstrumente wie einer Pestizid-Abgabe auch zur \r\nErreichung der beiden folgenden Vorschl\u00e4ge des Diskussionspapiers notwendig. \r\nSo werden f\u00fcr die Umsetzung der Vorschl\u00e4ge \r\n\uf0b7 \u201eErweiterung des GAK-F\u00f6rdergrundsatzes \u2018Erschwernisausgleich \r\nPflanzenschutz\u2018\u201c und\r\n\uf0b7 \u201eVerzicht auf chemisch-synthetische Pflanzenschutzmittel in \r\nTrinkwasserschutzgebieten f\u00f6rdern\u201c\r\nzus\u00e4tzliche Finanzmittel ben\u00f6tigt. Mittelaufstockungen in der GAK sind f\u00fcr den Haushalt \r\n2025 und die Folgejahre nicht zu erwarten. Beide Vorschl\u00e4ge sollten aber in dieser \r\nLegislatur umgesetzt werden. Der Koalitionsvertrag f\u00fchrt dazu aus: \u201eAnalog zu \r\nbestehenden Reglungen zu Pestiziden in Naturschutzgebieten, bei den Landwirtinnen und \r\nLandwirte einen Erschwernisausgleich bekommen, wollen wir Regeln f\u00fcr die \r\nTrinkwasserschutzgebiete finden.\u201c\r\nBioland fordert ein Konzept, das den Verzicht auf chemisch-synthetische Pestizide in \r\nTrinkwasserschutzgebieten in dieser Legislatur konkret umgesetzt. Der gezielten \r\nAusdehnung des \u00d6kolandbaus in diesen Schutzgebieten sollte dabei eine hohe \r\nBedeutung zukommen.\r\nB Weitere Ma\u00dfnahmen \r\nIm Folgenden geben wir weitere Hinweise zu ausgew\u00e4hlten Punkten der Diskussionsvorlage, \r\ndie unter A noch nicht angesprochen wurden. \r\nZ\u00fcchtung resistenterer Sorten \r\nEs fehlen die notwendigen Konkretisierungen (siehe Vorbemerkungen), wie und mit welchen \r\nRessourcen die gew\u00fcnschten Verbesserungen \u201egef\u00f6rdert\u201c werden sollen. Die \u00f6kologische \r\nPflanzenz\u00fcchtung wird bisher nicht adressiert, obwohl sie zur Erreichung des 30-%-\r\n\u00d6kolandbauziels eine wichtige Grundlage darstellt. Dabei sind ganzheitliche Strategien zur \r\nErhaltung der Pflanzengesundheit erforderlich, da genetische Resistenzen in offenen \r\nAgrar\u00f6kosystemen kurz- oder mittelfristig von den Schadorganismen durchbrochen werden. \r\nII. NAP weiterentwickeln \r\nGem\u00e4\u00df Artikel 4 der SUD m\u00fcssen die EU-Mitgliedstaaten Aktionspl\u00e4ne entwickeln, mit \r\ndenen nicht nur die Risiken chemisch-synthetischer PSM f\u00fcr Mensch und Umwelt verringert \r\nwerden sollen, sondern auch die Abh\u00e4ngigkeit der Betriebe von der Verwendung derartiger \r\nPSM. Der NAP wird diesem Anspruch nicht gerecht, er weist sowohl strukturell als auch \r\ninhaltlich gro\u00dfe M\u00e4ngel auf. Auf die kontraproduktive Definition des \u201enotwendigen Ma\u00dfes\u201c im \r\nNAP wurde unter Punkt A1.1 hingewiesen. \r\n \r\nIm Koalitionsvertrag steht: \u201c[\u2026] entwickeln den Nationalen Aktionsplan weiter.\u201c Aktivit\u00e4ten f\u00fcr \r\neine konkrete \u00dcberarbeitung des NAP in dieser Legislatur sind aber bisher nicht erkennbar. \r\nPraxisverf\u00fcgbarkeit biologischer Pflanzenschutzverfahren \r\nBioland begr\u00fc\u00dft die Entwicklung einer Verordnung zum rechtssicheren Einsatz von \r\nN\u00fctzlingen auch vor dem Hintergrund einer durch den Klimawandel sich ver\u00e4ndernden \r\nAusdehnung von Sch\u00e4dlingen. \r\nAuf Anwendung des Totalherbizids Glyphosat verzichten \r\nDer Koalitionsvertrag verspricht: \u201eWir nehmen Glyphosat bis Ende 2023 vom Markt.\u201c Es \r\nreicht daher nicht, \u201enur die in der Pflanzenschutz-Anwendungsverordnung bestehenden \r\nEinschr\u00e4nkungen f\u00fcr die Anwendung Glyphosat-haltiger Pflanzenschutzmittel \r\nweiter[zu]f\u00fchren\u201c. \r\nDas BMEL muss seine rechtlichen M\u00f6glichkeiten aussch\u00f6pfen und ein vollst\u00e4ndiges \r\nnationales Anwendungsverbot erlassen. Glyphosat ist mit der j\u00e4hrlichen Einsatzmenge von \r\nrund 4000 t das am meisten ausgebrachte Herbizid \u2013 mit gro\u00dfen negativen Auswirkung auf \r\ndie Biodiversit\u00e4t. \r\nDie geplant verst\u00e4rkte Forschungsf\u00f6rderung f\u00fcr die Entwicklung praxisnaher Strategien f\u00fcr \r\ndie konservierende, erosionsmindernde Bodenbearbeitung sowie f\u00fcr Mulch- und \r\nDirektsaatverfahren sollte nur f\u00fcr Verfahren gew\u00e4hrt werden, die ohne den Einsatz von \r\nHerbiziden auskommen. \r\nUmgang mit behandeltem Saatgut verbessern \r\nGrunds\u00e4tzlich handelt es sich bei gebeiztem Saatgut um eine pr\u00e4ventive Ma\u00dfnahme, was \r\nden Prinzipien des IPS widerspricht. Zudem k\u00f6nnen PSM-Wirkstoffe aus der Beizung weit \r\n\u00fcber den urspr\u00fcnglich vorgesehene Anwendungsbreich hinaus \u00f6kologische Sch\u00e4den \r\nverursachen. Eine Verbesserung allein des Risikomanagements greift daher zu kurz. \r\nStattdessen m\u00fcsste auch bei der Saatgutbehandlung die gezielte F\u00f6rderung von alternativen \r\nVerfahren im Vordergrund stehen. \r\nPrognosemodelle / Entscheidungshilfen \r\nEs bleibt offen, mit welchen (zus\u00e4tzlichen) personellen oder finanziellen Ressourcen die \r\ngew\u00fcnschte \u201eVerbesserung\u201c bzw. \u201eIntensivierung\u201c von Zugang oder Wissenstransfer \r\nrealisiert werden soll. Dabei sind die spezifischen Bed\u00fcrfnisse des \u00d6kolandbaus zu \r\nber\u00fccksichtigen, da andere Handlungsoptionen bestehen, als im konventionellen Anbau. \r\nForschung f\u00f6rdern und Erkenntnisse in der Praxis zur Anwendung bringen \r\nFragestellungen zum \u00f6kologischen Anbauverfahren wurden in der Agrarforschung \r\ngegen\u00fcber einem traditionell starken Fokus auf der Weiterentwicklung von chemisch\u0002synthetischen Wirkstoffen und darauf ausgerichteter Applikationstechnik vernachl\u00e4ssigt. \r\nWir verweisen auf unsere Ausf\u00fchrungen zu Punkt A2 hin: Entsprechend dem \r\nKoalitionsvertrag m\u00fcssen 30 % der Agrarforschungsmittel f\u00fcr den Biolandbau genutzt \r\nwerden. Der Aufbau einer langfristig handlungsf\u00e4higen Forschungsinfrastruktur mit dauerhaft \r\nabgesicherten Personalstellen und der Ausbau der Praxisforschung sind dabei von zentraler \r\nBedeutung. \r\n \r\nModellregionen und Modellbetriebe weiterf\u00fchren und ausbauen \r\nAngesichts der historischen Verz\u00f6gerungen bei der Umsetzung des IPS steht die breite \r\nImplementierung im Vordergrund. Es sollte nicht noch viel Zeit mit unn\u00f6tigen \u201eErprobungen\u201c \r\nvergeudet werden. Modellbetriebe und -regionen sollten sich daher auf eine schnelle \r\nVerbreitung von langj\u00e4hrig erprobten Verfahren und Ans\u00e4tzen konzentrieren. \r\nAus- und Weiterbildung \r\nAuch hier fehlt die Konkretisierung wie, und vor allem mit welchen Ressourcen, diese \r\nMa\u00dfnahmen (zeitnah) umgesetzt werden sollen. Eine Breitenwirkung wird nur mit \r\nerheblichen zus\u00e4tzlichen Personal- und Finanzmitteln erreichbar sein. \r\nIndikatoren-Mix \r\nDie Weiterentwicklung von Indikatoren ist ein wichtiger Baustein f\u00fcr eine zukunftsf\u00e4hige \r\nPflanzenschutzpolitik. Es braucht eine klare Definition, wie der Fortschritt des 50-%-\r\nReduktionszieles gemessen werden kann. Der \u201eharmonized risk indicator 1\u201c (HRI1) ist als \r\nHauptindikator in der Richtlinie 2009/128/EG zur nachhaltigen Anwendung von PSM \r\nungeeignet, die tats\u00e4chliche Gesamtbelastung an PSM darzustellen. Der HRI1 erm\u00f6glicht \r\nallein keine Aussagen zum \u00f6kologischen Risiko oder zu den Auswirkungen auf die \r\nBiodiversit\u00e4t in Agrar\u00f6kosystemen. Er f\u00fchrt zu massiven Verzerrungen der realen Situation \r\nund muss dringend durch bessere Indikatoren abgel\u00f6st werden. \r\nMonitoring ausbauen \r\nBioland begr\u00fc\u00dft, dass ein Monitoring luftverfrachteter Pflanzenschutzmittel, das \r\nKleingew\u00e4ssermonitoring und das Monitoring der biologischen Vielfalt in Agrarlandschaften \r\n(MonViA) auf- und ausgebaut werden soll. Woher die Finanzmittel daf\u00fcr kommen sollen, wird \r\nallerdings nicht benannt und muss daher unbedingt zeitnah gekl\u00e4rt werden. \r\nEs kommt immer wieder zur Kontamination von Bio-Erzeugnissen durch chemisch\u0002synthetische PSM \u2013 bei leicht fl\u00fcchtigen Wirkstoffen sogar \u00fcber gr\u00f6\u00dfere Distanzen. Bioland \r\nkritisiert, dass ein aussagekr\u00e4ftiges Monitoring luftverfrachteter Pflanzenschutzmittel immer \r\nnoch nicht installiert wurde. \r\nDie bereits verf\u00fcgbaren Daten aus dem Kleingew\u00e4ssermonitoring m\u00fcssen bei der Zulassung \r\nvon PSM ber\u00fccksichtigt werden. \r\nAnsprechperson: \r\nGerald Wehde, Gesch\u00e4ftsleiter Agrarpolitik und Kommunikation, Bioland e.V., Kaiserstra\u00dfe \r\n18, 55116 Mainz, E-Mail gerald.wehde@bioland.de "
+                        }
+                    }
+                ],
+                "title": "Klimaschutz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "\u00d6koKennzG",
+                        "title": "Gesetz zur Einf\u00fchrung und Verwendung eines Kennzeichens f\u00fcr Erzeugnisse des \u00f6kologischen Landbaus",
+                        "url": "https://www.gesetze-im-internet.de/_kokennzg"
+                    },
+                    {
+                        "shortTitle": "\u00d6LG",
+                        "title": "Gesetz zur Durchf\u00fchrung der Rechtsakte der Europ\u00e4ischen Union auf dem Gebiet des \u00f6kologischen Landbaus sowie zur Regelung der Anforderungen an die Bio-Kennzeichnung in gemeinschaftlichen Verpflegungseinrichtungen",
+                        "url": "https://www.gesetze-im-internet.de/_lg_2009"
+                    },
+                    {
+                        "shortTitle": "TierSchG",
+                        "title": "Tierschutzgesetz",
+                        "url": "https://www.gesetze-im-internet.de/tierschg"
+                    },
+                    {
+                        "shortTitle": "PflSchG",
+                        "title": "Gesetz zum Schutz der Kulturpflanzen",
+                        "url": "https://www.gesetze-im-internet.de/pflschg_2012"
+                    },
+                    {
+                        "shortTitle": "EGGenTDurchfG",
+                        "title": "Gesetz zur Durchf\u00fchrung der Verordnungen der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union auf dem Gebiet der Gentechnik und \u00fcber die Kennzeichnung ohne Anwendung gentechnischer Verfahren hergestellter Lebensmittel",
+                        "url": "https://www.gesetze-im-internet.de/eggentdurchfg"
+                    },
+                    {
+                        "shortTitle": "GenTG",
+                        "title": "Gesetz zur Regelung der Gentechnik",
+                        "url": "https://www.gesetze-im-internet.de/gentg"
+                    },
+                    {
+                        "shortTitle": "D\u00fcngG",
+                        "title": "D\u00fcngegesetz",
+                        "url": "https://www.gesetze-im-internet.de/d_ngg"
+                    },
+                    {
+                        "shortTitle": "StoffBilV",
+                        "title": "Verordnung \u00fcber den Umgang mit N\u00e4hrstoffen im Betrieb und betriebliche Stoffstrombilanzen",
+                        "url": "https://www.gesetze-im-internet.de/stoffbilv"
+                    },
+                    {
+                        "shortTitle": "TierHaltKennzG",
+                        "title": "Gesetz zur Kennzeichnung von Lebensmitteln mit der Haltungsform der Tiere, von denen die Lebensmittel gewonnen wurden",
+                        "url": "https://www.gesetze-im-internet.de/tierhaltkennzg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Bioland setzt sich f\u00fcr den Ausbau der \u00f6kologischen Landwirtschaft ein. Eine wichtige Rolle spielt hierf\u00fcr auch die Bio Strategie 2030. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_SAFETY",
+                        "de": "Lebensmittelsicherheit",
+                        "en": "Food safety"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SPECIES",
+                        "de": "Artenschutz/Biodiversit\u00e4t",
+                        "en": "Species protection/biodiversity"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_ANIMAL",
+                        "de": "Tierschutz",
+                        "en": "Animal welfare"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006806",
+                "statements": [],
+                "title": "\u00d6kologische Landwirtschaft "
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/39/b6/316989/Stellungnahme-Gutachten-SG2406130113.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-03"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0006805",
+                "regulatoryProjectTitle": "Klimaschutz",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": " \r\nStellungnahme des Bioland e.V. zur Diskussionsgrundlage \r\neines Zukunftsprogramms Pflanzenschutz\r\n(Stand 03.05.2024)\r\nVorbemerkungen\r\nBioland begr\u00fc\u00dft die Zielsetzung des BMEL \u2013 \u201ein Anlehnung an die Farm-to-Fork Strategie \r\nder EU Kommission \u2013 bis 2030 die Verwendung und das Risiko von chemischen \r\nPflanzenschutzmitteln um 50 Prozent zu verringern.\u201c F\u00fcr die Zielerreichung ist ein schnell \r\nwirksames Umsetzungsprogramm notwendig. Dies gilt insbesondere auch vor dem \r\nHintergrund\r\n\uf0b7 einer viel zu geringen \u201eReduktionswirkung\u201c des 2013 verabschiedeten Nationalen \r\nAktionsplans zur nachhaltigen Anwendung von Pflanzenschutzmitteln\r\n\uf0b7 und der auf EU-Ebene gescheiterten Verordnung \u00fcber die nachhaltige Anwendung \r\nvon Pflanzenschutzmitteln \u2013 die \u201aSustainable Use Regulation\u2018 (SUR).\r\nAllerdings muss ein wirksames \u201eZukunftsprogramm\u201c gegen\u00fcber der vorgelegten \r\nDiskussionsgrundlage an fast allen Stellen konkretisiert werden und zwar in Hinsicht auf:\r\n\uf0b7 Konkrete Beschreibung der Ma\u00dfnahmen mit verbindlichen Umsetzungsschritten/ \r\nMeilensteinen\r\n\uf0b7 Zeitpl\u00e4ne\r\n\uf0b7 Finanzmittel/Budgets\r\n\uf0b7 Priorisierung, was in dieser Legislatur umgesetzt wird.\r\nGenau diese Konkretisierungen fehlen bisher. So bleibt die Vorlage sehr unverbindlich und \r\neine Auflistung von Willensbekundungen.\r\nDie gro\u00dfe zeitliche Verz\u00f6gerung zwischen der Ank\u00fcndigung eines \u201ePestizid\u0002Reduktionsprogramms\u201d (Herbst 2022) und der erst Mitte M\u00e4rz 2024 vom BMEL vorgelegten \r\n\u201eDiskussionsgrundlage f\u00fcr die Erarbeitung eines Zukunftsprogramms Pflanzenschutz\u201c ist vor \r\ndem Hintergrund der fehlenden Konkretisierung sehr unverst\u00e4ndlich. \r\nUmso mehr besteht die Notwendigkeit, die verbleibende Zeit dieser Legislaturperiode f\u00fcr die \r\nUmsetzung wirksamer Ma\u00dfnahmen zur Reduktion der Einsatzes chemisch-synthetischer \r\nPestiziden zu nutzen \u2013 und diese dazu entsprechend zu priorisieren.\r\nAuch die bisher unvollst\u00e4ndige Umsetzung der Vorgaben der EU-Pestizid-Rahmenrichtlinie \r\n2009/128/EG \u201eSustainable Use Directive\u201c (SUD) zum Integrierten Pflanzenschutz zwingen \r\nzum sofortigen Handeln. So ist es dringend geboten, im vorgelegten Papier enthaltene \r\nMa\u00dfnahmen unabh\u00e4ngig von der Diskussion zum Zukunftsprogramm voranzutreiben.\r\n \r\nA-Ma\u00dfnahmen in dieser Legislaturperiode\r\nA1 Verpflichtende Vorgaben zum Integrierten Pflanzenschutz (IPS) \r\nendlich umsetzen\r\nDie allgemeinen Grunds\u00e4tze des Integrierten Pflanzenschutz (IPS) sind ordnungsrechtlich \r\ndurch die EU-Pestizid-Rahmenrichtlinie 2009/128/EG, Artikel 14 und Anhang III festgelegt. \r\nDie nationale Umsetzung der SUD und des \u00a7 3 Pflanzenschutzgesetz (PflSchG) in der \r\n\u201eguten fachlichen Praxis im Pflanzenschutz\u201c (gfP) und dem NAP ist allerdings ungen\u00fcgend. \r\nSo hat die verbindliche Vorgabe zum IPS in den letzten 13 Jahren zu keiner relevanten \r\nPestizidreduktion gef\u00fchrt. Ein Beleg der ungen\u00fcgenden Umsetzung der SUD sowie der \r\nresultierenden Praxisanwendung des IPS ist der seit viele Jahren konstant hohe \r\nInlandsabsatz von Pflanzenschutzmitteln.\r\nDringender Handlungsbedarf besteht bei:\r\n\uf0b7 Neudefinition des notwendigen Ma\u00dfes\r\n\uf0b7 Neufassung der gfP \r\n\uf0b7 Anpassung der Leitlinien IPS.\r\nA1.1 Neudefinition des notwendigen Ma\u00dfes\r\nIn \u00a7 2 PflSchG ist \u201eIntegrierter Pflanzenschutz\u201c definiert als \u201eeine Kombination von Verfahren, \r\nbei denen unter vorrangiger Ber\u00fccksichtigung biologischer, biotechnischer, \r\npflanzenz\u00fcchterischer sowie anbau- und kulturtechnischer Ma\u00dfnahmen die Anwendung \r\nchemischer Pflanzenschutzmittel auf das notwendige Ma\u00df beschr\u00e4nkt wird.\u201c\r\n\u201eNotwendig\u201c kann der Einsatz chemisch-synthetischer PSM also nur sein, wenn zuvor \r\ns\u00e4mtliche anderen Elemente der integrierten Produktion (Standort- und Sortenwahl, weite \r\nFruchtfolge, nicht-chemische Verfahren etc.) ausgereizt wurden und wenn der danach zu \r\nerwartende Schaden tats\u00e4chlich eine relevante Dimension erreichen w\u00fcrde.\r\nIm NAP wird in Kap. 6.1.4 die Definition des \u201enotwendigen Ma\u00dfes\u201c jedoch abweichend von \r\nder Vorgabe der SUD unter das Primat der Wirtschaftlichkeit gestellt: \u201e[\u2026] Dabei beschreibt \r\ndas notwendige Ma\u00df bei der Anwendung von chemischen Pflanzenschutzmitteln die \r\nIntensit\u00e4t der Anwendung von Pflanzenschutzmitteln, die notwendig ist, um den Anbau der \r\nKulturpflanzen, besonders auch vor dem Hintergrund der Wirtschaftlichkeit, zu sichern. \r\n[\u2026]\u201c \r\nEine Neudefinition des notwendigen Ma\u00dfes im Sinne der SUD sowie die Klarstellung \r\ndes \u00a7 3 PflSchG muss umgehend durch eine grunds\u00e4tzliche \u00dcberarbeitung der gfP \r\nund der entsprechenden Passagen im NAP vorgenommen werden. \r\nA1.2 \u00dcberarbeitung der guten fachlichen Praxis \r\nDie derzeit g\u00fcltigen Grunds\u00e4tze der gfP aus 2010 enthalten keine vollzugsf\u00e4hige \r\nKonkretisierung der EU-weit seit 2011 g\u00fcltigen Grunds\u00e4tze des integrierten \r\nPflanzenschutzes. Die SUD gebietet eine l\u00e4ngst \u00fcberf\u00e4llige \u00dcberarbeitung. Der letzte \r\nVersuch einer Anpassung der gfP scheiterte 2015. Sowohl die EU-Kommission als auch der \r\nEurop\u00e4ische Rechnungshof bem\u00e4ngeln die Durchsetzung der EU-weit verbindlichen \r\n \r\nGrunds\u00e4tze des integrierten Pflanzenschutzes in den Mitgliedstaaten, darunter auch \r\nDeutschland. Nicht-chemische PSM sollten als Norm, nicht wie bislang als Alternative, \r\ndefiniert werden.\r\nEine grunds\u00e4tzliche \u00dcberarbeitung der gfP ist eine priorit\u00e4re Aufgabe in dieser \r\nLegislatur. Zudem muss ein Versto\u00df gegen die gute fachliche Praxis nach \u00a7 3 PflSchG \r\nin Zukunft sanktioniert werden (bisher nur Ordnungswidrigkeit).\r\nA1.3 Anpassung der Sektorspezifischen Leitlinien\r\nEntsprechend der oben beschriebenen Anpassung der Definition des \u201eNotwendigen Ma\u00dfes\u201c \r\nund der grunds\u00e4tzlichen \u00dcberarbeitung der gfP sind die sektorspezifischen Leitlinien mit dem \r\nFokus auf nicht-chemische Alternativen anzupassen. \r\nA2 \u00d6ko-Landbau bis 2030 auf 30 Prozent ausbauen\r\nDas Ziel der Bundesregierung, den \u00d6kolandbau auf 30 Prozent der landwirtschaftlichen \r\nFl\u00e4che bis 2030 auszuweiten, muss \u00fcber entsprechende Ma\u00dfnahmen/Budgets zu einem \r\nzentralen Instrument der Pestizidreduktion werden. Die \u201eVerzahnung\u201c der \u201aBio-Strategie 2030 \r\n\u2013 Nationale Strategie f\u00fcr 30 Prozent \u00f6kologische Land- und Lebensmittelwirtschaft bis 2030\u2018 \r\nmit dem Zukunftsprogramm wird zu Recht genannt. Zur Umsetzung fehlen jedoch personelle \r\nund finanziellen Ressourcen. Im Haushalt 2025 und f\u00fcr die Folgejahre ist daher eine \r\nausreichende Finanzierung/Personalausstattung zur Zielerreichung sicherzustellen. \r\n\uf0b7 Ein ausreichendes Budget zur Umsetzung der vielf\u00e4ltigen Ma\u00dfnahmen der Bio\u0002Strategie inkl. einer deutlichen Erh\u00f6hung des Budgets f\u00fcr das Bundesprogramm \r\n\u00d6kologischer Landbau (B\u00d6L)\r\n\uf0b7 Entsprechend dem Koalitionsvertrag m\u00fcssen 30 Prozent der Agrarforschungsmittel \r\nf\u00fcr den Biolandbau genutzt werden. Aktuell liegt der Anteil der Mittel f\u00fcr die \u00d6ko\u0002Forschung bei rund 2 Prozent. Das BMEL muss deshalb in der eigenen \r\nRessortforschung und in anderen Haushaltstiteln daf\u00fcr sorgen, dass wirklich 30 \r\nProzent der Ressourcen f\u00fcr Bio genutzt werden.\r\nZudem werden \u00d6kobetriebe in der nationalen Umsetzung der europ\u00e4ischen Agrarpolitik \r\n(GAP) benachteiligt. Daher muss die Honorierung der \u00f6kologischen Leistungen des \r\n\u00d6kolandbaus im Rahmen der GAP-F\u00f6rderung \u00fcber h\u00f6here F\u00f6rders\u00e4tze, bessere \r\nKombinationsm\u00f6glichkeiten mit Eco-Schemes und AUKM und eine Erleichterungen bei der \r\nErf\u00fcllung der GL\u00d6Z-Standards (green by concept) deutlich gesteigert werden. Ziel muss es \r\nsein, die relative Vorz\u00fcglichkeit in der F\u00f6rdersystematik gegen\u00fcber konventionellen \r\nAnbausystemen zu erh\u00f6hen und somit Anreize f\u00fcr die Umstellung neuer Betriebe zu \r\nschaffen. \r\nA3 Pestizidabgabe einf\u00fchren \u2013 Finanzmittel gezielt einsetzen\r\nAls ein schnell wirksames Instrument zur Reduktion des Einsatzes von chemisch\u0002synthetischen Pestiziden fordert Bioland die Einf\u00fchrung einer Pestizidabgabe noch in \r\ndieser Legislatur. Ohne b\u00fcrokratischen Aufwand f\u00fcr landwirtschaftliche Betriebe k\u00f6nnten so \r\n \r\nGelder f\u00fcr deren Unterst\u00fctzung bei der Pestizidreduktion generiert werden. Die Wirkung \r\neines solchen Instruments ist durch Studien und Erfahrungen in anderen L\u00e4ndern erfolgreich \r\nbelegt. Zudem leistet eine Pestizid-Abgabe einen Beitrag zur Internalisierung externer \r\nKosten und wendet das Verursacherprinzip an. Die Zukunftskommission Landwirtschaft weist \r\nauf externe Kosten der derzeitigen landwirtschaftlichen Produktion in H\u00f6he von 90 Milliarden \r\nEuro/Jahr hin. Auch angesichts der aktuell angespannten Haushaltslage ist die Einf\u00fchrung \r\nneuer marktwirtschaftlicher Lenkungsinstrumente wie einer Pestizid-Abgabe auch zur \r\nErreichung der beiden folgenden Vorschl\u00e4ge des Diskussionspapiers notwendig. \r\nSo werden f\u00fcr die Umsetzung der Vorschl\u00e4ge \r\n\uf0b7 \u201eErweiterung des GAK-F\u00f6rdergrundsatzes \u2018Erschwernisausgleich \r\nPflanzenschutz\u2018\u201c und\r\n\uf0b7 \u201eVerzicht auf chemisch-synthetische Pflanzenschutzmittel in \r\nTrinkwasserschutzgebieten f\u00f6rdern\u201c\r\nzus\u00e4tzliche Finanzmittel ben\u00f6tigt. Mittelaufstockungen in der GAK sind f\u00fcr den Haushalt \r\n2025 und die Folgejahre nicht zu erwarten. Beide Vorschl\u00e4ge sollten aber in dieser \r\nLegislatur umgesetzt werden. Der Koalitionsvertrag f\u00fchrt dazu aus: \u201eAnalog zu \r\nbestehenden Reglungen zu Pestiziden in Naturschutzgebieten, bei den Landwirtinnen und \r\nLandwirte einen Erschwernisausgleich bekommen, wollen wir Regeln f\u00fcr die \r\nTrinkwasserschutzgebiete finden.\u201c\r\nBioland fordert ein Konzept, das den Verzicht auf chemisch-synthetische Pestizide in \r\nTrinkwasserschutzgebieten in dieser Legislatur konkret umgesetzt. Der gezielten \r\nAusdehnung des \u00d6kolandbaus in diesen Schutzgebieten sollte dabei eine hohe \r\nBedeutung zukommen.\r\nB Weitere Ma\u00dfnahmen \r\nIm Folgenden geben wir weitere Hinweise zu ausgew\u00e4hlten Punkten der Diskussionsvorlage, \r\ndie unter A noch nicht angesprochen wurden. \r\nZ\u00fcchtung resistenterer Sorten \r\nEs fehlen die notwendigen Konkretisierungen (siehe Vorbemerkungen), wie und mit welchen \r\nRessourcen die gew\u00fcnschten Verbesserungen \u201egef\u00f6rdert\u201c werden sollen. Die \u00f6kologische \r\nPflanzenz\u00fcchtung wird bisher nicht adressiert, obwohl sie zur Erreichung des 30-%-\r\n\u00d6kolandbauziels eine wichtige Grundlage darstellt. Dabei sind ganzheitliche Strategien zur \r\nErhaltung der Pflanzengesundheit erforderlich, da genetische Resistenzen in offenen \r\nAgrar\u00f6kosystemen kurz- oder mittelfristig von den Schadorganismen durchbrochen werden. \r\nII. NAP weiterentwickeln \r\nGem\u00e4\u00df Artikel 4 der SUD m\u00fcssen die EU-Mitgliedstaaten Aktionspl\u00e4ne entwickeln, mit \r\ndenen nicht nur die Risiken chemisch-synthetischer PSM f\u00fcr Mensch und Umwelt verringert \r\nwerden sollen, sondern auch die Abh\u00e4ngigkeit der Betriebe von der Verwendung derartiger \r\nPSM. Der NAP wird diesem Anspruch nicht gerecht, er weist sowohl strukturell als auch \r\ninhaltlich gro\u00dfe M\u00e4ngel auf. Auf die kontraproduktive Definition des \u201enotwendigen Ma\u00dfes\u201c im \r\nNAP wurde unter Punkt A1.1 hingewiesen. \r\n \r\nIm Koalitionsvertrag steht: \u201c[\u2026] entwickeln den Nationalen Aktionsplan weiter.\u201c Aktivit\u00e4ten f\u00fcr \r\neine konkrete \u00dcberarbeitung des NAP in dieser Legislatur sind aber bisher nicht erkennbar. \r\nPraxisverf\u00fcgbarkeit biologischer Pflanzenschutzverfahren \r\nBioland begr\u00fc\u00dft die Entwicklung einer Verordnung zum rechtssicheren Einsatz von \r\nN\u00fctzlingen auch vor dem Hintergrund einer durch den Klimawandel sich ver\u00e4ndernden \r\nAusdehnung von Sch\u00e4dlingen. \r\nAuf Anwendung des Totalherbizids Glyphosat verzichten \r\nDer Koalitionsvertrag verspricht: \u201eWir nehmen Glyphosat bis Ende 2023 vom Markt.\u201c Es \r\nreicht daher nicht, \u201enur die in der Pflanzenschutz-Anwendungsverordnung bestehenden \r\nEinschr\u00e4nkungen f\u00fcr die Anwendung Glyphosat-haltiger Pflanzenschutzmittel \r\nweiter[zu]f\u00fchren\u201c. \r\nDas BMEL muss seine rechtlichen M\u00f6glichkeiten aussch\u00f6pfen und ein vollst\u00e4ndiges \r\nnationales Anwendungsverbot erlassen. Glyphosat ist mit der j\u00e4hrlichen Einsatzmenge von \r\nrund 4000 t das am meisten ausgebrachte Herbizid \u2013 mit gro\u00dfen negativen Auswirkung auf \r\ndie Biodiversit\u00e4t. \r\nDie geplant verst\u00e4rkte Forschungsf\u00f6rderung f\u00fcr die Entwicklung praxisnaher Strategien f\u00fcr \r\ndie konservierende, erosionsmindernde Bodenbearbeitung sowie f\u00fcr Mulch- und \r\nDirektsaatverfahren sollte nur f\u00fcr Verfahren gew\u00e4hrt werden, die ohne den Einsatz von \r\nHerbiziden auskommen. \r\nUmgang mit behandeltem Saatgut verbessern \r\nGrunds\u00e4tzlich handelt es sich bei gebeiztem Saatgut um eine pr\u00e4ventive Ma\u00dfnahme, was \r\nden Prinzipien des IPS widerspricht. Zudem k\u00f6nnen PSM-Wirkstoffe aus der Beizung weit \r\n\u00fcber den urspr\u00fcnglich vorgesehene Anwendungsbreich hinaus \u00f6kologische Sch\u00e4den \r\nverursachen. Eine Verbesserung allein des Risikomanagements greift daher zu kurz. \r\nStattdessen m\u00fcsste auch bei der Saatgutbehandlung die gezielte F\u00f6rderung von alternativen \r\nVerfahren im Vordergrund stehen. \r\nPrognosemodelle / Entscheidungshilfen \r\nEs bleibt offen, mit welchen (zus\u00e4tzlichen) personellen oder finanziellen Ressourcen die \r\ngew\u00fcnschte \u201eVerbesserung\u201c bzw. \u201eIntensivierung\u201c von Zugang oder Wissenstransfer \r\nrealisiert werden soll. Dabei sind die spezifischen Bed\u00fcrfnisse des \u00d6kolandbaus zu \r\nber\u00fccksichtigen, da andere Handlungsoptionen bestehen, als im konventionellen Anbau. \r\nForschung f\u00f6rdern und Erkenntnisse in der Praxis zur Anwendung bringen \r\nFragestellungen zum \u00f6kologischen Anbauverfahren wurden in der Agrarforschung \r\ngegen\u00fcber einem traditionell starken Fokus auf der Weiterentwicklung von chemisch\u0002synthetischen Wirkstoffen und darauf ausgerichteter Applikationstechnik vernachl\u00e4ssigt. \r\nWir verweisen auf unsere Ausf\u00fchrungen zu Punkt A2 hin: Entsprechend dem \r\nKoalitionsvertrag m\u00fcssen 30 % der Agrarforschungsmittel f\u00fcr den Biolandbau genutzt \r\nwerden. Der Aufbau einer langfristig handlungsf\u00e4higen Forschungsinfrastruktur mit dauerhaft \r\nabgesicherten Personalstellen und der Ausbau der Praxisforschung sind dabei von zentraler \r\nBedeutung. \r\n \r\nModellregionen und Modellbetriebe weiterf\u00fchren und ausbauen \r\nAngesichts der historischen Verz\u00f6gerungen bei der Umsetzung des IPS steht die breite \r\nImplementierung im Vordergrund. Es sollte nicht noch viel Zeit mit unn\u00f6tigen \u201eErprobungen\u201c \r\nvergeudet werden. Modellbetriebe und -regionen sollten sich daher auf eine schnelle \r\nVerbreitung von langj\u00e4hrig erprobten Verfahren und Ans\u00e4tzen konzentrieren. \r\nAus- und Weiterbildung \r\nAuch hier fehlt die Konkretisierung wie, und vor allem mit welchen Ressourcen, diese \r\nMa\u00dfnahmen (zeitnah) umgesetzt werden sollen. Eine Breitenwirkung wird nur mit \r\nerheblichen zus\u00e4tzlichen Personal- und Finanzmitteln erreichbar sein. \r\nIndikatoren-Mix \r\nDie Weiterentwicklung von Indikatoren ist ein wichtiger Baustein f\u00fcr eine zukunftsf\u00e4hige \r\nPflanzenschutzpolitik. Es braucht eine klare Definition, wie der Fortschritt des 50-%-\r\nReduktionszieles gemessen werden kann. Der \u201eharmonized risk indicator 1\u201c (HRI1) ist als \r\nHauptindikator in der Richtlinie 2009/128/EG zur nachhaltigen Anwendung von PSM \r\nungeeignet, die tats\u00e4chliche Gesamtbelastung an PSM darzustellen. Der HRI1 erm\u00f6glicht \r\nallein keine Aussagen zum \u00f6kologischen Risiko oder zu den Auswirkungen auf die \r\nBiodiversit\u00e4t in Agrar\u00f6kosystemen. Er f\u00fchrt zu massiven Verzerrungen der realen Situation \r\nund muss dringend durch bessere Indikatoren abgel\u00f6st werden. \r\nMonitoring ausbauen \r\nBioland begr\u00fc\u00dft, dass ein Monitoring luftverfrachteter Pflanzenschutzmittel, das \r\nKleingew\u00e4ssermonitoring und das Monitoring der biologischen Vielfalt in Agrarlandschaften \r\n(MonViA) auf- und ausgebaut werden soll. Woher die Finanzmittel daf\u00fcr kommen sollen, wird \r\nallerdings nicht benannt und muss daher unbedingt zeitnah gekl\u00e4rt werden. \r\nEs kommt immer wieder zur Kontamination von Bio-Erzeugnissen durch chemisch\u0002synthetische PSM \u2013 bei leicht fl\u00fcchtigen Wirkstoffen sogar \u00fcber gr\u00f6\u00dfere Distanzen. Bioland \r\nkritisiert, dass ein aussagekr\u00e4ftiges Monitoring luftverfrachteter Pflanzenschutzmittel immer \r\nnoch nicht installiert wurde. \r\nDie bereits verf\u00fcgbaren Daten aus dem Kleingew\u00e4ssermonitoring m\u00fcssen bei der Zulassung \r\nvon PSM ber\u00fccksichtigt werden. \r\nAnsprechperson: \r\nGerald Wehde, Gesch\u00e4ftsleiter Agrarpolitik und Kommunikation, Bioland e.V., Kaiserstra\u00dfe \r\n18, 55116 Mainz, E-Mail gerald.wehde@bioland.de "
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

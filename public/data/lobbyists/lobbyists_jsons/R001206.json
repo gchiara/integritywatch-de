@@ -1,0 +1,464 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-02-24T11:16:30.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-24T11:16:30.000+01:00",
+        "lastUpdateDate": "2024-06-05T12:49:29.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 33064,
+                "validFromDate": "2024-06-05T12:49:29.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 20975,
+                "validFromDate": "2023-07-17T14:12:36.000+02:00",
+                "validUntilDate": "2024-06-05T12:49:29.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 20969,
+                "validFromDate": "2023-06-05T14:19:11.000+02:00",
+                "validUntilDate": "2023-07-17T14:12:36.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17345,
+                "validFromDate": "2023-03-17T11:05:01.000+01:00",
+                "validUntilDate": "2023-06-05T14:19:11.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 2705,
+                "validFromDate": "2022-02-24T11:16:30.000+01:00",
+                "validUntilDate": "2023-03-17T11:05:01.000+01:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_NONPROFIT_ORGA_V2",
+            "de": "Nichtregierungsorganisation (NGO)",
+            "en": "Non-governmental organization (NGO)"
+        },
+        "activityDescription": "Zweck des Vereins ist die F\u00f6rderung der Entwicklungszusammenarbeit, Unterst\u00fctzung hilfsbed\u00fcrftiger Personen im Sinne des \u00a7 53 AO sowie die F\u00f6rderung der Volks- und Berufsbildung einschlie\u00dflich der Studentenhilfe. Daneben kann der Verein auch die ideelle und finanzielle F\u00f6rderung anderer steuerbeg\u00fcnstigter K\u00f6rperschaften, von K\u00f6rperschaften des \u00f6ffentlichen Rechts oder auch von ausl\u00e4ndischen K\u00f6rperschaften zur ideellen und materiellen F\u00f6rderung und Pflege der zuvor genannten Zwecke vornehmen (\u00a7 58 Nr. 1 AO). Sie soll einen Beitrag zu mehr Gerechtigkeit und Frieden leisten und Gottes Sch\u00f6pfung bewahren helfen. Im Mittelpunkt der Arbeit stehen Benachteiligte, Arme und Menschen, die am Rand der Gesellschaft leben. Der Verein erh\u00e4lt insbesondere \u00f6ffentliche Mittel f\u00fcr kirchliche Entwicklungsvorhaben von der Bundesregierung, diese Mittel leitet er zur Unterst\u00fctzung und Durchf\u00fchrung von Hilfsma\u00dfnahmen und Entwicklungsprojekten an andere steuerbeg\u00fcnstigte Organisationen weiter, insbesondere an Brot f\u00fcr die Welt und an Diakonie Katastrophenhilfe (im Evangelischen Werk f\u00fcr Diakonie und Entwicklung e.V.). Der Verein dient der Koordination und Kooperation auf dem Gebiet der Entwicklungszusammenarbeit im Inland und Ausland. \r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_RPI_INTEGRATION",
+                "de": "Integration",
+                "en": "Integration"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_FA_OTHER",
+                "de": "Sonstiges im Bereich \"Au\u00dfenpolitik und internationale Beziehungen\"",
+                "en": "Other in the field of \"Foreign policy and international relations\""
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_MEDIA_OTHER",
+                "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                "en": "Other in the field of \"Media, communication and information technology\""
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_MEDIA_FREEDOM_OF_SPEECH",
+                "de": "Meinungs- und Pressefreiheit",
+                "en": "Freedom of speech and freedom of the press"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_RPI_MIGRATION",
+                "de": "Migration",
+                "en": "Migration and residence"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_AF_AQUACULTURE",
+                "de": "Fischerei/Aquakultur",
+                "en": "Fishery/aquaculture"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_RPI_REFUGEE",
+                "de": "Asyl und Fl\u00fcchtlingsschutz",
+                "en": "Asylum and refugee protection"
+            },
+            {
+                "code": "FOI_RPI_OTHER",
+                "de": "Sonstiges im Bereich \"Migration, Fl\u00fcchtlingspolitik und Integration\"",
+                "en": "Other in the field of \"Migration, refugee policy and integration\""
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/7b/b2/283583/Digitale-Kopie_Evangelische-Zentralstelle-fuer-Entwicklungshilfe-e-V-_PJA2022.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.0,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Caroline-Michaelis-Str.",
+            "streetNumber": "1",
+            "type": "NATIONAL",
+            "zipCode": "10115"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "lobbyregister@eze.berlin"
+                }
+            ],
+            "phoneNumber": "+4930652110",
+            "websites": [
+                {
+                    "website": "Keine Webseite  vorhanden "
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Anne",
+                "lastName": "Gidion",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": false,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Prof. Dr.",
+                "entrustedPerson": false,
+                "firstName": "Imme",
+                "function": "Stellvertretende Vorstandsvorsitzende",
+                "lastName": "Scholz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Anne",
+                "function": "Vorstandsvorsitzende",
+                "lastName": "Gidion",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr. ",
+                "entrustedPerson": false,
+                "firstName": "Beate",
+                "function": "Vorstand",
+                "lastName": "Hofmann",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-05-06",
+            "naturalPersons": 7,
+            "organizations": 0,
+            "totalCount": 7
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "evangelisches Forum entwicklungspolitischer Freiwilligendienst (eFeF)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Evangelische Zentralstelle f\u00fcr Entwicklungshilfe e. V. (EZE)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Zuwendung aus Kapitel 2302, Titel 89604, Titel 89631, Titel 89632, Titel 89633 und Titel 68701",
+                "location": "Bonn",
+                "name": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                "publicAllowanceEuro": {
+                    "from": 157370001,
+                    "to": 157380000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Zuwendung aus Kapitel 2302, Titel 68774 ",
+                "location": "Bonn",
+                "name": "Engagement Global gGmbH (BMZ)",
+                "publicAllowanceEuro": {
+                    "from": 6380001,
+                    "to": 6390000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001206/33064",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-05T12:49:29.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b2/fe/283584/Lobbyregister-Detailansicht-R001206-2024-06-05_12-49-29.pdf",
+        "validFromDate": "2024-06-05T12:49:29.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 33064,
+    "registerNumber": "R001206",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Bundeshaushalt 2025, insbesondere EP23 inkl. Kapitel 2302, Titel 89604",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_DEVELOPMENT_POLICY",
+                        "de": "Entwicklungspolitik",
+                        "en": "Development policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001440",
+                "statements": [],
+                "title": "Bundeshaushalt 2025"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

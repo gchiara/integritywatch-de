@@ -1,0 +1,517 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-03-17T11:51:33.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-17T11:51:33.000+01:00",
+        "lastUpdateDate": "2024-07-02T12:58:04.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 40672,
+                "validFromDate": "2024-07-02T12:58:04.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 35222,
+                "validFromDate": "2024-06-25T12:57:26.000+02:00",
+                "validUntilDate": "2024-07-02T12:58:04.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17785,
+                "validFromDate": "2023-03-17T12:16:52.000+01:00",
+                "validUntilDate": "2024-06-25T12:57:26.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 538,
+                "validFromDate": "2022-03-17T11:51:33.000+01:00",
+                "validUntilDate": "2023-03-17T12:16:52.000+01:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PROFESSION_ASSOC",
+            "de": "Berufsverband",
+            "en": "Professional association"
+        },
+        "activityDescription": "Der VDAB f\u00f6rdert und vertritt die allgemeinen Interessen von mittelst\u00e4ndischen Unternehmern der privaten professionellen Pflege sowie der Eingliederungshilfe, dazu geh\u00f6ren ambulante Pflegedienste, Tagespflege, Nachtpflegen, Hospize, Kurzzeitpflegeeinrichtungen, station\u00e4re Pflegeeinrichtungen, Altenheime, Pflegeheime, Einrichtungen der Eingliederungshilfe und sonstige soziale Dienste der Alten- und Behindertenhilfe.\r\nZu den Interessen geh\u00f6ren insbesondere:\r\n-Wahrnehmung der Arbeitgeberinteressen der Mitglieder gegen\u00fcber Politik, Pflege- und Krankenkassen, Beh\u00f6rden, Presse und \u00d6ffentlichkeit\r\n-Sozialpolitische Entwicklungen, insbesondere in der Pflegeversicherung, Krankenversicherung, Sozialversicherung, Bundessozialhilfe, Bundesteilhabegesetz, Landesheimgesetzen\r\n- Mindestlohn, Tarif, Aus-, Fort- und Weiterbildung im Pflege- und Gesundheitswesen",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_SS_OLD_AGE",
+                "de": "Rente/Alterssicherung",
+                "en": "Old-age insurance"
+            },
+            {
+                "code": "FOI_HEALTH_CARE",
+                "de": "Pflege",
+                "en": "Health care"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_SERVICE",
+                "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                "en": "Public service"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_SS_HEALTH",
+                "de": "Krankenversicherung",
+                "en": "Health insurance"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_HEALTH_MEDICINE",
+                "de": "Arzneimittel",
+                "en": "Medicine"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_ECONOMY_INSURANCE",
+                "de": "Versicherungswesen",
+                "en": "Insurance"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_ADMINISTRATION",
+                "de": "Verwaltungstransparenz/Open Government",
+                "en": "Public administration"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_SS_LONGTERM",
+                "de": "Pflegeversicherung",
+                "en": "Long term care"
+            },
+            {
+                "code": "FOI_OTHER",
+                "de": "Sonstige Interessenbereiche",
+                "en": "Other areas",
+                "fieldOfInterestText": "Pflege"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_SS_ACCIDENT",
+                "de": "Unfallversicherung",
+                "en": "Accident insurance"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_SS_OTHER",
+                "de": "Sonstiges im Bereich \"Soziale Sicherung\"",
+                "en": "Other in the field of \"Social security\""
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/a9/90/329348/Jahresrechnung_2022.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 2.5,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 10001,
+            "to": 20000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Essen",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Im Teelbruch",
+            "streetNumber": "132",
+            "type": "NATIONAL",
+            "zipCode": "45219"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin ",
+            "email": "berlin@vdab.de",
+            "phoneNumber": "+49030200590790",
+            "street": "Reinhardtstr. ",
+            "streetNumber": "19 ",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "berlin@vdab.de"
+                },
+                {
+                    "email": "presse@vdab.de"
+                },
+                {
+                    "email": "info@vdab.de"
+                }
+            ],
+            "phoneNumber": "+4930200590790",
+            "websites": [
+                {
+                    "website": "www.vdab.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeAfter": "Master of Science",
+                "firstName": "Anna Catharina",
+                "lastName": "Klein",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "Bachelor of Science",
+                "firstName": "Hannah",
+                "lastName": "Freisheim",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "Master of Arts",
+                "firstName": "Florian",
+                "lastName": "Hamann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "Assesor Jur.",
+                "firstName": "Thomas",
+                "lastName": "Knieling",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "Master of Science",
+                "firstName": "Charlotte",
+                "lastName": "Mentzel",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Stephan",
+                "function": "Vorsitzender des Bundesvorstands",
+                "lastName": "Baumann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Petra",
+                "function": "Stellvertretende Vorsitzende des Bundesvorstands",
+                "lastName": "Sch\u00fclke",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Karl-Heinz",
+                "function": "Mitglied im Bundesvorstand",
+                "lastName": "Berten",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Hans-J\u00f6rg",
+                "function": "Mitglied im Bundesvorstand",
+                "lastName": "Esmeier",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": false,
+                "firstName": "J\u00f6rg",
+                "function": "Mitglied im Bundesvorstand",
+                "lastName": "Biastoch",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-01",
+            "naturalPersons": 266,
+            "organizations": 1577,
+            "totalCount": 1843
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Bundesarbeitsgemeinschaft Ausl\u00e4ndische Pflegekr\u00e4fte (BAGAP)"
+            },
+            {
+                "membership": "Verein Gesch\u00e4ftsstelle Qualit\u00e4tsausschuss Pflege e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Verband Deutscher Alten- und Behindertenhilfe e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 3140001,
+            "to": 3150000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R003567/40672",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-07-02T12:58:04.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/f8/60/329349/Lobbyregister-Detailansicht-R003567-2024-07-02_12-58-04.pdf",
+        "validFromDate": "2024-07-02T12:58:04.000+02:00",
+        "version": 4
+    },
+    "registerEntryId": 40672,
+    "registerNumber": "R003567",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die Bundesregierung muss jetzt schnell die Existenz der Pflegeunternehmen sichern, indem sie daf\u00fcr sorgt, dass alle Kostentr\u00e4ger die vorgeschriebenen Zahlungsfristen einhalten, alle Personal- und Sachkosten, die f\u00fcr die Pflege aufgewendet wurden, refinanziert werden, Antr\u00e4ge auf Verg\u00fctungsanpassungen nach sechs Wochen als genehmigt gelten, sofern die Kostentr\u00e4ger bis dahin unt\u00e4tig geblieben sind, der gesetzliche Anspruch auf \u201eWagnis und Gewinn\u201c am Umsatz sofort verbindlich gemacht wird.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    },
+                    {
+                        "code": "FOI_OTHER",
+                        "de": "Sonstige Interessenbereiche",
+                        "en": "Other areas",
+                        "fieldOfInterestText": "Pflege"
+                    },
+                    {
+                        "code": "FOI_HEALTH_CARE",
+                        "de": "Pflege",
+                        "en": "Health care"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_SECURITY",
+                        "de": "Soziale Sicherung",
+                        "en": "Social security"
+                    },
+                    {
+                        "code": "FOI_SS_LONGTERM",
+                        "de": "Pflegeversicherung",
+                        "en": "Long term care"
+                    },
+                    {
+                        "code": "FOI_SS_OTHER",
+                        "de": "Sonstiges im Bereich \"Soziale Sicherung\"",
+                        "en": "Other in the field of \"Social security\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0005236",
+                "statements": [],
+                "title": "Existenzsicherung der Pflegeunternehmen"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

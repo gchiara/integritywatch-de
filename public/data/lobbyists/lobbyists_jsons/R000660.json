@@ -1,0 +1,784 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-01-30T09:18:42.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-18T13:14:30.000+01:00",
+        "lastUpdateDate": "2024-06-19T17:47:48.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 38078,
+                "validFromDate": "2024-06-19T17:47:48.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37579,
+                "validFromDate": "2024-06-19T10:20:50.000+02:00",
+                "validUntilDate": "2024-06-19T17:47:48.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 36450,
+                "validFromDate": "2024-06-13T16:15:14.000+02:00",
+                "validUntilDate": "2024-06-19T10:20:50.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23544,
+                "validFromDate": "2023-07-11T09:58:19.000+02:00",
+                "validUntilDate": "2024-06-13T16:15:14.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 19829,
+                "validFromDate": "2023-06-01T08:16:29.000+02:00",
+                "validUntilDate": "2023-07-11T09:58:19.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 14202,
+                "validFromDate": "2023-01-30T09:18:42.000+01:00",
+                "validUntilDate": "2023-06-01T08:16:29.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Der Bundesverband Mineralische Rohstoffe e.V. (MIRO) ist ein Dachverband mit Regionalverb\u00e4nden, in denen rund 1.600 Unternehmen mit fast 2.700 Steinbr\u00fcchen und Kieswerken zusammengeschlossen sind. Er vertritt die wirtschaftlichen Interessen der Gesteinsindustrie gegen\u00fcber Wirtschaft, Politik, Verb\u00e4nden, Unternehmen, Medien und der \u00d6ffentlichkeit. Als Fachverband nimmt MIRO die Interessen seiner Mitglieder in den Fachbereichen Technik, Normung, Arbeitssicherheit, Rohstoffsicherung, Umweltschutz, Steuern, Logistik, Forschung sowie Aus- und Weiterbildung wahr. Der Bundesverband MIRO versteht sich als bundesweites Netzwerk, das den Austausch der Mitglieder und der Gesteinsunternehmen untereinander f\u00f6rdert, gemeinsame Positionen erarbeitet und diese gegen\u00fcber Politik, Medien und \u00d6ffentlichkeit kommuniziert um auf diese Weise auf Herausforderungen hinzuweisen, die Rahmenbedingungen zu verbessern und die wirtschaftliche Entwicklung zu f\u00f6rdern.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_RP_OTHER",
+                "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                "en": "Other in the field of \"Spatial planning, construction and housing\""
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/35/4f/299641/BV-MIRO-Jahresabschluss-2023_Auszug.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.46,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 170001,
+            "to": 180000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Duisburg",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Susanne Funk",
+            "nationalAdditional2": "Gesch\u00e4ftsf\u00fchrerin",
+            "street": "D\u00fcsseldorfer Str.",
+            "streetNumber": "50",
+            "type": "NATIONAL",
+            "zipCode": "47051"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "funk@bv-miro.org",
+            "nationalAdditional1": "Susanne Funk",
+            "nationalAdditional2": "Gesch\u00e4ftsf\u00fchrerin",
+            "phoneNumber": "+493020215660",
+            "street": "Luisenstr.",
+            "streetNumber": "45",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "register@bv-miro.org"
+                }
+            ],
+            "phoneNumber": "+493020215660",
+            "websites": [
+                {
+                    "website": "www.bv-miro.org"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Christian",
+                "lastName": "Strunk",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Thorsten",
+                "lastName": "Tonndorf",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Susanne",
+                "lastName": "Funk",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Ivonne",
+                "lastName": "Arenz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Walter",
+                "lastName": "Nelles",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Stefan",
+                "lastName": "Janssen",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Peter",
+                "lastName": "Wichert",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Oliver",
+                "lastName": "Klauser",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Christiane Maria",
+                "lastName": "Ritter",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Christian",
+                "function": "Pr\u00e4sident",
+                "lastName": "Strunk",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Thorsten",
+                "function": "Stellvertretender Pr\u00e4sident",
+                "lastName": "Tonndorf",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Christiane Maria",
+                "function": "Stellvertretende Pr\u00e4sidentin",
+                "lastName": "Ritter",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-11",
+            "naturalPersons": 0,
+            "organizations": 73,
+            "totalCount": 73
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Bundesverband Baustoffe - Steine und Erden e.V."
+            },
+            {
+                "membership": "Pro Mobilit\u00e4t - Initiative f\u00fcr Verkehrsinfrastruktur e.V."
+            },
+            {
+                "membership": "Aktionsb\u00fcndnis Forum Natur"
+            },
+            {
+                "membership": "Wirtschaftsforum der SPD e.V."
+            },
+            {
+                "membership": "Wirtschaftsrat der CDU e.V."
+            },
+            {
+                "membership": "Europ\u00e4ischer Gesteinsverband (UEPG)"
+            },
+            {
+                "membership": "EUROSIL/AGQ"
+            },
+            {
+                "membership": "Aktion Impulse f\u00fcr den Wohnungsbau"
+            },
+            {
+                "membership": "solidUNIT e. V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Bundesverband Mineralische Rohstoffe e.V. (BV MIRO)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "Bayerischer Industrieverband Baustoffe, Steine und Erden e. V. (BIV)"
+            },
+            {
+                "name": "Industrieverband Steine und Erden - Baden-W\u00fcrttemberg e. V. (ISTE)"
+            },
+            {
+                "name": "Unternehmerverband Mineralische Baustoffe (UVMB) e. V."
+            },
+            {
+                "name": "Verband der Bau- und Rohstoffindustrie e. V. (vero)"
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 1520001,
+            "to": 1530000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000660/38078",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-13T16:15:14.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/08/f0/299644/Lobbyregister-Detailansicht-R000660-2024-06-19_17-47-48.pdf",
+        "validFromDate": "2024-06-19T17:47:48.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 38078,
+    "registerNumber": "R000660",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "ROG",
+                        "title": "Raumordnungsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/rog_2008"
+                    },
+                    {
+                        "shortTitle": "BauGB",
+                        "title": "Baugesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bbaug"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Um den Bedarf der Industrie und der Bauindustrie an Gesteinsrohstoffen auch weiterhin aus den heimischen Steinbr\u00fcchen und Kiesgruben regional decken zu k\u00f6nnen, m\u00fcssen die Genehmigungsverfahren f\u00fcr Anschluss- und Neuaufschlussfl\u00e4chen nicht nur beschleunigt, sondern in zahlreichen F\u00e4llen \u00fcberhaupt erm\u00f6glicht werden. Deutschland kann sich zu 100 Prozent selbst mit Sand, Kies, Quarzkiesen und Natursteinprodukten wie Schotter und Splitten selbst versorgen. Da die Rohstoffe standortgebunden sind, bedarf es einer priorisierten Ber\u00fccksichtigung in den Abw\u00e4gungsprozessen im Raumordnungsgesetz und im Baugesetzbuch.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002208",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/bf/8e/291067/Stellungnahme-Gutachten-SG2406130034.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                        "de": "Bundeskanzleramt (BKAmt)",
+                                        "en": "Bundeskanzleramt (BKAmt)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWSB",
+                                        "de": "Bundesministerium f\u00fcr Wohnen, Stadtentwicklung und Bauwesen (BMWSB)",
+                                        "en": "Bundesministerium f\u00fcr Wohnen, Stadtentwicklung und Bauwesen (BMWSB)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-21"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002208",
+                        "regulatoryProjectTitle": "Beschleunigung von Planungs- und Genehmigungsverfahren f\u00fcr Gewinnungsbetriebe der Gesteinsindustrie",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Bundesverband Mineralische Rohstoffe e.V. (MIRO) \r\n\r\nMIRO-Forderungen zur Beschleunigung von Planungs- und Genehmigungsverfahren \r\n\r\nDer am 6. November 2023 beschlossene Pakt f\u00fcr Planungs-, und Genehmigungs- und Umsetzungsbeschleunigung zwischen Bund und L\u00e4ndern wird begr\u00fc\u00dft. Insbesondere die Einf\u00fchrung von Stichtagsregelungen, fakultativen Er\u00f6rterungsterminen, Standardisierungen statt Einzelfallpr\u00fcfungen und reduzierten Pr\u00fcfschritten k\u00f6nnten tats\u00e4chlich einen Beitrag zum versprochenen B\u00fcrokratieabbau und zur Beschleunigung leisten. Wir bitten Sie deshalb die Ank\u00fcndigungen entsprechend rechtsverbindlich umzusetzen.\r\nSchnelle und effiziente Planungs- und Genehmigungsverfahren m\u00fcssen auch bei der Rohstoffgewinnung zu einem Standortvorteil f\u00fcr Deutschland werden. Mineralische Rohstoffe Sande, Quarzsande und Kiese wie auch Naturstein werden nicht nur f\u00fcr den Bau von Wohnungen in Deutschland ben\u00f6tigt, sondern insbesondere auch f\u00fcr den Ausbau von Erneuerbaren Energien. Prim\u00e4rrohstoffe finden sich z.B. in den Fundamenten und den T\u00fcrmen von Windkraftanlagen, in jeder Solarzelle, in jedem elektrischen Leiter wieder. Zudem sind sie f\u00fcr die Zuwegungen zu den und innerhalb der Wind- und Solarparks unabdingbar. Auch f\u00fcr die Verlegung der Kabel im Untergrund bedarf es entsprechender Spezialsande. Weiterhin sind mineralische Rohstoffe integraler Bestandteil der Verkehrswende: So sind insbesondere f\u00fcr den geplanten Ausbau des Schienennetzes erhebliche Rohstoffmengen erforderlich. \r\n\r\nZun\u00e4chst zur Ausgangssituation \r\nFehlende Genehmigungen. Die Genehmigungen f\u00fcr die Unternehmen der Gesteinsindustrie unterscheiden sich in zwei Punkten von denen anderer Unternehmen: Zum einen ist die Gewinnung standortgebunden, d.h. die T\u00e4tigkeit der Betriebe ist an Standorte mit qualitativ hochwertigen Lagerst\u00e4tten gebunden und kann nicht beliebig an anderer Stelle ausgef\u00fchrt werden. Zum anderen ben\u00f6tigen die Gewinnungsbetriebe in regelm\u00e4\u00dfigen Abst\u00e4nden Genehmigungen f\u00fcr Anschluss- oder Neuaufschlussfl\u00e4chen. Unsere Gewinnungsbetriebe gewinnen Rohstoffe nicht nur nach dem Bundesberggesetz und l\u00e4nderspezifischen Abgrabungsgesetzen, sondern auch nach dem Bundesimmissionsschutzgesetz, Wasserhaushaltsgesetz, Bundesnaturschutzgesetz und weiteren fachrechtlichen Vorschriften. Nach einer gewissen Zeit sind die Rohstoffe gewonnen und die Betriebe ben\u00f6tigen eine neue, sich zeitlich unmittelbar anschlie\u00dfende Genehmigung, um weiterhin Rohstoffe gewinnen und diese im bestehenden Werk aufbereiten zu k\u00f6nnen. Erhalten sie diese Genehmigungen nicht oder nicht rechtzeitig, so muss der Betrieb eingestellt, die Maschinen ver\u00e4u\u00dfert und die Mitarbeiter entlassen werden. Mit diesem Szenario rechnen derzeit viele unserer Unternehmen. Denn vielerorts werden Anschluss- oder Neuaufschlussgenehmigungen nicht erteilt oder die Genehmigungsverfahren dauern zum Teil deutlich l\u00e4nger als zehn Jahre. \r\nEs verwundert daher nicht, dass die Zahl der Gewinnungsbetriebe in Deutschland seit Jahren kontinuierlich abnimmt. Hatten wir im Jahr 2011 noch 3160 Gesteinsbetriebe in Deutschland, waren es 2021 nur noch 2695. Das ist ein R\u00fcckgang um 15 Prozent in zehn Jahren. \r\nDie sinnvolle regionale Versorgungsstruktur ist gef\u00e4hrdet. Das vom BMWK in Auftrag gegebene EY-Gutachten  \u201eGenehmigungsverfahren zum Rohstoffabbau in Deutschland\u201c vom 10.12.2022 kommt zum Ergebnis, dass die Versorgungslage in Bezug auf Sand und Kies seit 2016 bereits (regional) angespannt und die Versorgung f\u00fcr die n\u00e4chsten 25+ Jahre klar gef\u00e4hrdet ist. Zudem kann in allen betrachteten Rohstoffgruppen \u00fcber die n\u00e4chsten 25 Jahre und l\u00e4nger eine Gef\u00e4hrdung der Versorgungslage eintreten. Problematisch ist die Versorgungslage bereits in den Regionen Dresden, im Gro\u00dfraum Berlin, in der Region K\u00f6ln und im mittleren Donautal, wie auch die Bundesanstalt f\u00fcr Geowissenschaften und Rohstoffe (BGR) in ihrer Studie von Dezember 2022  feststellt. Die Genehmigungsverknappung droht auch bereits am Niederrhein und in der Mittel-Elbe-Region, so die R\u00fcckmeldung aus unserer Mitgliedschaft. Bezahlbarer Wohnraum, die Sanierung der Infrastruktur, der Ausbau der erneuerbaren Energien und die Versorgung der Industrie k\u00f6nnen nicht mehr verbrauchsnah sichergestellt werden, wenn hier die politische Unterst\u00fctzung fehlt.\r\nDie Transportwege werden l\u00e4nger. Gesteinsrohstoffe sind relativ preisg\u00fcnstige aber schwere Masseng\u00fcter. Da die Transportkosten sehr schnell den Warenwert, der auf dem Lkw liegt, \u00fcbersteigen, hat sich historisch ein Versorgungsnetz mit vielen Gewinnungsst\u00e4tten entwickelt. Die Rohstoffe werden in der Regel in einem Umkreis von nur 30 bis 50 km geliefert. Die Ausd\u00fcnnung der derzeit noch guten, dezentralen Versorgungstruktur schreitet aber wie geschildert voran. Damit einhergehend werden die Transportwege zu den Baustellen und Verbrauchern l\u00e4nger. Der gro\u00dfe Vorteil der regionalen, dezentralen Versorgung mit kurzen Lieferwegen und geringem CO2-Aussto\u00df, wie er sich ganz nat\u00fcrlich im Markt entwickelt hat, wird immer mehr aufs Spiel gesetzt. \r\nGesteinsrohstoffe f\u00fcr die Transformation - Transformation in den Gesteinsbetrieben. F\u00fcr das Gelingen der Transformation in Deutschland ist die verbrauchsnahe Gewinnung und Lieferung von mineralischen Rohstoffe essenziell. Nicht nur werden die Gesteinsk\u00f6rnungen f\u00fcr den Umbau der Energienetze sowie f\u00fcr den Bau der erneuerbaren Energieanlagen ben\u00f6tigt, die rund 2700 Werke des Bundesverband MIRO befinden sich selbst mitten in der Transformation: Rohstoffunternehmer wollen nachhaltiger werden und PV-Freifl\u00e4chenanlagen wie auch schwimmende Solaranlagen und zunehmend auch Windkraftanlagen auf ihren Rohstoffgewinnungsfl\u00e4chen nutzen. \r\n\r\nAus Sicht MIROs sind die im Folgenden vorgeschlagenen \u00c4nderungen notwendig, um den Bedarf an heimischen Gesteinsrohstoffen auch zuk\u00fcnftig zu sichern:\r\nBeschleunigte Planungs- und Genehmigungsverfahren f\u00fcr die Unternehmen der Gesteinsindustrie\r\nim Einzelnen:\r\n\uf0d8\tGesetzliche Priorisierung f\u00fcr eine sichere Versorgung mit heimischen Rohstoffen\r\n\r\nF\u00fcr die Rohstoffgewinnung ist eine gesetzliche Priorisierung beispielsweise im Raumordnungsgesetz einzur\u00e4umen, damit Bedarfe, gedeckt und die Rechts- und Planungssicherheit f\u00fcr Gewinnungsbetriebe deutlich erh\u00f6ht werden k\u00f6nnen.\r\nDem besonderen Wirtschaftszweig der Gewinnung standortgebundener Rohstoffe wendet sich \u00a7\u20092 Abs.\u20092 Nr.\u20094 S.\u20094 ROG zu. Standortgebundene Rohstoffe sind mineralische Rohstoffe, wie Sande, Quarzsande, Kiese und Naturstein. Die raumordnungsplanerischen Grunds\u00e4tze gem\u00e4\u00df \u00a7 2 Abs. 2 ROG dienen der inhaltlichen und r\u00e4umlichen Konkretisierung des Fachrechts. Sie entfalten insofern Verbindlichkeit, als ihre Ber\u00fccksichtigung in Abw\u00e4gungs- und Ermessensentscheidungen rechtlich geboten ist. F\u00fcr diejenigen Rohstoffe, die nicht dem Bundesberggesetz unterfallen \u2013 in der Regel Sande und Kiese \u2013, kommt der Raumordnung zentrale Bedeutung bei der planerischen Steuerung der Rohstoffgewinnung zu, weil f\u00fcr diese Rohstoffe keine Fachplanung existiert. Mit der Erg\u00e4nzung soll herausgestellt werden, dass vor allem f\u00fcr heimische Rohstoffe entsprechend ihres Vorkommens vorrangig dort raumplanerisch festzulegen sind, wo sich der Rohstoff befindet. Ziel ist es dabei, dass die Versorgung mit mineralischen Rohstoffen regional, und damit insbesondere verbrauchsnah sichergestellt wird. Nur so k\u00f6nnen Transportwege so kurz wie m\u00f6glich gehalten werden und ein eng maschiges Rohstoffgewinnungsnetz zuk\u00fcnftig aufrechterhalten werden, was insbesondere f\u00fcr den Schutz von Klima und Umwelt erforderlich ist. Eine langfristige und bedarfsunabh\u00e4ngige Versorgung mit Gesteinsrohstoffen kann auf diese Weise gesichert und \u00dcberplanungen der standortgebundenen Lagerst\u00e4tten so verhindert werden.\r\n\r\nDaher bedarf es einer Erg\u00e4nzung in \u00a7 2 Abs. 2 Nr. 4 Satz 5 - neu -: \r\n\r\n\u201eDie Rohstoffsicherung und -gewinnung steht im \u00fcberragenden \u00f6ffentlichen Interesse und dient der Versorgungssicherheit.\u201c \r\n\r\noder\r\n\r\nErg\u00e4nzung des \u00a7 2 Abs. 2 Nr. 4 Satz 4 ROG in blau:\r\n\u201eEs sind die r\u00e4umlichen Voraussetzungen f\u00fcr die vorsorgende Sicherung sowie f\u00fcr die geordnete Aufsuchung und Gewinnung von standortgebundenen Rohstoffen verbrauchsnah zu schaffen.\u201c \r\nFolgeerg\u00e4nzung des \u00a7 13 Abs. 5 Nr. 2 b) ROG in blau:\r\n\u201eNutzungen im Freiraum wie verbrauchsnahe Standorte f\u00fcr die vorsorgende Sicherung sowie die geordnete Aufsuchung und Gewinnung von standortgebundenen Rohstoffen,\u201c\r\n\r\n\r\n\uf0d8\tPrivilegierung von schwimmenden Photovoltaikanlagen im Au\u00dfenbereich \r\n\uf0d8\tPrivilegierung von Freifl\u00e4chen-Photovoltaikanlagen auf Folgefl\u00e4chen der\r\nmineralischen Rohstoffgewinnung und auf Deponien, Brach- und Konversionsfl\u00e4chen \r\n\r\nFreifl\u00e4chen- und Floating-PV -Anlagen erlauben eine schnelle Skalierung des Zubaus mit solarer Strahlungsenergie. Die Errichtung von PV-Freifl\u00e4chenanlagen ist insbesondere auf den von der Gesteinsindustrie zur Gewinnung von Rohstoffen gepachteten oder erworbenen Fl\u00e4chen und bei der Folgenutzung sowohl dauerhaft als auch vor\u00fcbergehend m\u00f6glich. F\u00fcr eine Erweiterung der Fl\u00e4chenkulisse sowie einen beschleunigten Zubau ist eine \u00c4nderung der derzeitigen gesetzlichen Regelungen zwingend notwendig: \r\nDe lege lata ist f\u00fcr die Errichtung von Freifl\u00e4chenphotovoltaikanlagen in Betrieben der Gesteinsindustrie immer zwingend ein aufw\u00e4ndiges Planungsverfahren (Raumordnungsplan, Fl\u00e4chennutzungsplan, Bebauungsplan) vor dem (Bau-) Genehmigungsverfahren zu durchlaufen, da sich die rohstoffgewinnenden Gesteinsbetriebe fast ausschlie\u00dflich im Au\u00dfenbereich befinden. Die Verfahrensdauer bel\u00e4uft sich hierbei auf bis zu ca. f\u00fcnf Jahre und steht somit im Widerspruch zu einer beschleunigten Energiewende.\r\nEine Privilegierung von solarer Strahlungsenergie auf ehemaligen Gewinnungsfl\u00e4chen mineralischer Rohstoffe und auf Deponien, Brach- und Konversionsfl\u00e4chen im Au\u00dfenbereich hat den Vorteil, dass grunds\u00e4tzlich die bauplanungsrechtlichen Voraussetzungen des Vorhabens gesichert sind. Von einem Bebauungsplanverfahren kann somit abgesehen und das Bauvorhaben nach erfolgter Anzeige und positiver Stellungnahmen durch die Fachbeh\u00f6rden umgesetzt werden. Die Privilegierung ist zum einen auf vorbelasteten Fl\u00e4chen wie Deponien, Brach- und Konversionsfl\u00e4chen wie auch auf ehemaligen Rohstoffgewinnungsfl\u00e4chen (= Folgefl\u00e4chen) zu beschr\u00e4nken. Letztere dienen der Umsetzung der Rekultivierung und/oder dem Ausgleich des Rekultivierungsziels. \r\nDie Potentiale zur Installation von Photovoltaikanlagen sind im Zusammenhang mit Rohstoffgewinnungsst\u00e4tten jedoch deutlich gr\u00f6\u00dfer und k\u00f6nnen erst durch Anpassungen im BauGB gehoben werden. Die von Ihnen beabsichtigte Vereinfachung f\u00fcr den Ausbau der Freifl\u00e4chen-Fotovoltaik - siehe Seite 15 des Pakts - kann lediglich baurechtliche Hemmnisse f\u00fcr typisierte Standard-PV-Freifl\u00e4chenanlagen abbauen. PV-Freifl\u00e4chenanlagen, die auf ehemaligen Rohstoffgewinnungsfl\u00e4chen bzw. auf Betriebsfl\u00e4chen von Rohstoffgewinnungsfl\u00e4chen angedacht sind, befinden sich oft in unmittelbarem Zusammenhang mit der Gewinnungsst\u00e4tte, welche ohnehin zumeist im Au\u00dfenbereich liegen. Dies gilt ebenso f\u00fcr Deponie- Brach- und Konversionsfl\u00e4chen. PV-Freifl\u00e4chenanlagen wie auch schwimmende PV-Anlagen auf Baggerseen sind deshalb durch ihren \u00f6rtlichen Bezug zur Gewinnungsst\u00e4tte au\u00dfenbereichsad\u00e4quat. Dar\u00fcber hinaus reihen sich PV-Freifl\u00e4chenanlagen in unmittelbarer N\u00e4he der Gewinnungsst\u00e4tte in die Typik des \u00a7 35 Abs. 1 Nr. 8 b) BauGB ein und sollten dort somit auch in \u00a7 35 BauGB rechtlich verortet werden.\r\nSchwimmende PV-Anlagen (Floating-PV) sind ebenso im Au\u00dfenbereich zu privilegieren. Schlie\u00dflich befinden sich die daf\u00fcr genutzten Baggerseen in der Regel wie die Gewinnungsst\u00e4tte selbst (Nassauskiesung), a priori im Au\u00dfenbereich. Die Fl\u00e4chen der Baggerseen in Deutschland bieten ein beachtliches Potenzial f\u00fcr schwimmende PV-Anlagen. Die BayWa r.e., als ein f\u00fchrender Anbieter von schwimmenden Solaranlagen in Europa, sch\u00e4tzt das Potenzial f\u00fcr Floating-PV in Deutschland auf \u00fcber 2 GWp, wenn 10 Prozent der f\u00fcr Floating-PV geeigneten k\u00fcnstlichen Seen bedeckt ist und Ausschlusskriterien wie Natur- und Landschaftsschutz, Erholung/Freizeitaktivit\u00e4ten etc. ber\u00fccksichtigt werden. Mit dem erzeugten Solarstrom w\u00fcrden mehr als eine Million Tonnen CO2 pro Jahr eingespart. Diese Annahme basiert auf einer Studie des Fraunhofer ISE, die das technische Potenzial auf 56 GWp und das wirtschaftlich-nutzbare Potenzial auf 2,74 GWp sch\u00e4tzt. Dabei k\u00f6nnten unsere Betriebe einerseits ihren Energiebedarf auf regenerativen Strom umstellen und gleichzeitig w\u00fcrde ein Gro\u00dfteil des produzierten Stroms den anliegenden Gemeinden und Gewerben zur Verf\u00fcgung gestellt werden k\u00f6nnen. Aus diesem Grunde sind Gemeinden, Stadtwerke etc. an einer Zusammenarbeit interessiert. Gleichzeitig kann dadurch die Akzeptanz der Rohstoffgewinnung gesteigert werden.\r\nIn diesem Zusammenhang sei angemerkt, dass das Potenzial speziell zur Installation von schwimmenden PV-Anlagen durch \u00c4nderungen im Wasserhaushaltsgesetz nochmals erh\u00f6ht werden kann. Die pauschale Beschr\u00e4nkung der Belegung mit schwimmenden PV-Modulen auf 15 % der Seefl\u00e4che, die mit dem sog. Osterpaket (2022) in \u00a7 36 Abs. 3 WHG Eingang fand, ist wirtschaftlich und \u00f6kologisch nicht zu begr\u00fcnden und ist aufzul\u00f6sen. Ebenso ist der pauschale Uferabstand von 40 Meter in \u00a7 36 Abs. 3 WHG deutlich zu reduzieren. Der Zuschnitt eines Baggersees kann so ung\u00fcnstig sein, dass ein Abstand der schwimmenden PV-Anlage von 40 Metern zu allen Seeseiten nicht m\u00f6glich ist. Ein n\u00e4heres Heranbauen an eine Seeseite kann aber erforderlich sein, um die Anlage sinnvoll im Baggersee zu platzieren (in der N\u00e4he des Wechselrichters, Verankerung, Verschattung, Windanf\u00e4lligkeit) und ggfs. auch Revisionen einfacher zu erm\u00f6glichen. \r\nPV-Anlagen werden derzeit in der Regel im Zusammenhang mit der Gewinnungsst\u00e4tte nur dann genehmigt, wenn die Stromversorgung dem eigenen Betrieb dient (\u00a7 35 Abs. 1 Nr. 3 BauGB). Die Potenziale gehen jedoch oft weit dar\u00fcber hinaus. Vor dem Hintergrund der Ausbauziele f\u00fcr Erneuerbare Energien seitens des Bundes, sollten diese Potenziale ausgesch\u00f6pft werden. Nur eine zus\u00e4tzliche Privilegierungsregelung in \u00a7 35 BauGB kann bewirken, dass \u00fcber den eigenen ortsgebundenen gewerblichen Betrieb hinaus, Photovoltaik-Strom ins Netz der \u00f6ffentlichen Versorgung gespeist werden darf. \r\nUnternehmen der Gesteinsindustrie betreiben auch Deponien, die sich aufgrund ihrer Bodenbeschaffenheit und Statik in der Regel eher f\u00fcr PV-Anlagen als f\u00fcr Windkraftanlagen eignen. Im Zusammenhang mit Gewinnungsst\u00e4tten befinden sich Deponien typischerweise im Au\u00dfenbereich, so dass auch hierf\u00fcr eine Privilegierung von Photovoltaik im Au\u00dfenbereich sinnvoll ist.\r\nDar\u00fcber hinaus sollten ehemalige Rohstoffgewinnungsfl\u00e4chen, auf denen PV-Anlagen installiert sind, als landwirtschaftliche Nutzfl\u00e4che anerkannt werden, wenn sich unter der Anlage eine Wiese befindet, die beweidet wird oder gem\u00e4ht werden muss, da diese somit der Landwirtschaft zugutekommt. Die Bauanzeigen k\u00f6nnten durch eine neu zu schaffende zentrale Stelle genehmigt werden, die sich ausschlie\u00dflich mit Anzeigen f\u00fcr PV und Antr\u00e4gen f\u00fcr Windkraftanlagen auseinandersetzt. \r\n\r\nDaher bedarf es in \u00a7 35 BauGB folgender Erg\u00e4nzung in blau:\r\n\u00a7 35  \r\n(1) Im Au\u00dfenbereich ist ein Vorhaben nur zul\u00e4ssig, wenn \u00f6ffentliche Belange nicht entgegenstehen, die ausreichende Erschlie\u00dfung gesichert ist und wenn es\r\n5. der Erforschung, Entwicklung oder Nutzung der Windenergie nach Ma\u00dfgabe des \u00a7 249 oder der Erforschung, Entwicklung oder Nutzung der Wasserenergie oder der Erforschung, Entwicklung oder Nutzung schwimmender Photovoltaikanlagen dient,\r\n8. der Nutzung solarer Strahlungsenergie dient\r\n(c) auf ehemaligen Rohstoffgewinnungsfl\u00e4chen, Deponien, Brach- und Konversionsfl\u00e4chen, oder\r\n\r\nDaher bedarf es in \u00a7 36 Abs. 3 Nr. 2 WHG einer \u00c4nderung des WHG in blau:\r\n\u00a7 36 \r\n(3) Eine Solaranlage darf nicht errichtet und betrieben werden \r\n1.   in und \u00fcber einem oberirdischen Gew\u00e4sser, das kein k\u00fcnstliches oder erheblich ver\u00e4ndertes Gew\u00e4sser ist, und \r\n2.   in und \u00fcber einem k\u00fcnstlichen oder erheblich ver\u00e4nderten Gew\u00e4sser, wenn ausgehend von der Linie des Mittelwasserstandes \r\na)   die Anlage mehr als 40 Prozent der Gew\u00e4sserfl\u00e4che bedeckt oder \r\nb)   der Abstand zum Ufer weniger als 10 Meter betr\u00e4gt.\r\n\r\n\r\n\uf0d8\tPrivilegierung von Anlagen z.B. Recyclinganlagen im Zusammenhang mit der Gewinnungsst\u00e4tte \r\n\r\nWesentliche Zahlen zum Recycling in der \u00dcbersicht: In Deutschland werden j\u00e4hrlich in rund 2.700 Kiesgruben und Steinbr\u00fcchen rund 485 Mio. t Gesteinsk\u00f6rnungen aus Naturstein, Kies und Sand sowie Quarzsanden und -kiesen in nachfragegerechten K\u00f6rnungen produziert, welche zusammen mit rund 77 Mio. t Recycling-K\u00f6rnungen sowie etwa 23 Mio. t Industriellen Nebenprodukten den j\u00e4hrlichen Bedarf an Gesteinsk\u00f6rnungen von insgesamt 585 Mio. t decken. Des Weiteren fallen j\u00e4hrlich ca. 220 Mio. t mineralische Bauabf\u00e4lle an, von denen rund 90 % im Sinne des Kreislaufwirtschaftsgesetzes verwertet werden und auf diese Weise im Stoffkreislauf bleiben. Technologisch und materialbedingt lassen sich aus den f\u00fcr die Verwertung geeigneten Mengen etwa 77 Mio. t Recyclingbaustoffe/-k\u00f6rnungen herstellen. Etwa 120 Mio. t sind Boden und Steine (Bodenaushub). Mit den 77 Mio. t Recyclingk\u00f6rnungen kann die j\u00e4hrliche Nachfrage nach Gesteinsk\u00f6rnungen zu rund 13,2 % gedeckt werden .\r\nPrim\u00e4rrohstoff- und Sekund\u00e4rrohstoffgewinnung wird schon jetzt von Unternehmen zusammen gedacht. Die Praxis zeigt oftmals, dass Kommunen eine Recyclinganlage z.B. f\u00fcr mineralische Bauabf\u00e4lle weder im Gewerbe- noch im Industriegebiet realisieren. \r\nEine Recyclinganlage f\u00fcr mineralische Bauabf\u00e4lle bietet sich jedoch gerade in der N\u00e4he einer Gewinnungsst\u00e4tte von mineralischen Prim\u00e4rrohstoffen an, da rezykliertes Material (z.B. RC-Baustoffe im Sinne der Ersatzbaustoffverordnung - EBV) mit mineralischen Prim\u00e4rrohstoffen an Ort und Stelle (z.B. aus der Kiesgrube oder einem Steinbruch) gemischt werden kann, um RC-Baustoffgemische im Sinne der EBV herzustellen und als RC-Baustoffgemische im Sinne der EBV in Verkehr zu bringen. Damit steht die Recyclinganlage in einem engen Zusammenhang mit der Gewinnungsst\u00e4tte und sollte daher auch genehmigt werden d\u00fcrfen, wenn sie sich aufgrund der N\u00e4he zur Gewinnungsst\u00e4tte im Au\u00dfenbereich befindet. Im Zusammenhang mit der Gewinnung von Rohstoffen schlie\u00dft dies nicht nur die aktive Gewinnungsst\u00e4tte ein, sondern auch die damit zusammenh\u00e4ngenden Folgenutzungsfl\u00e4chen. Die Nutzung der RC-K\u00f6rungen schont zugleich die Lagerst\u00e4tten, ganz im Sinne der Ressourcenschonung.\r\nHinzu kommt, dass f\u00fcr die sortenreine Getrennthaltung, Beprobung und Lagerung des Bau- und Abbruchmaterials gro\u00dfe Fl\u00e4chen ben\u00f6tigt werden, was die Anlage ebenso als au\u00dfenbereichsad\u00e4quat qualifiziert. Laut der bisherigen Erfahrungen unserer Mitglieder, stehen jedoch f\u00fcr die r\u00e4umlichen Gr\u00f6\u00dfen diesbez\u00fcglicher RC-Aufbereitungsanlagen nicht gen\u00fcgend Fl\u00e4chen im Rahmen von Gewerbe- und Industriegebieten zur Verf\u00fcgung. Nach derzeitigem Diskussionsstand der Nationalen Kreislaufwirtschaftsstrategie 2030 soll mehr als bisher recycelt werden, wozu insbesondere eine gro\u00dfe Anzahl von Bauschutt-Recyclinganlagen erforderlich sind. \r\nGerade vor dem Hintergrund der Bestrebungen der Nationalen Kreislaufwirtschaftsstrategie 2030 der Bundesregierung, kann hier die heimische mineralische Rohstoffgewinnung einen wertvollen Beitrag zur Ressourcenschonung und effizienten Ressourcennutzung leisten.\r\n\r\nDaher bedarf es in \u00a7 35 BauGB folgender Erg\u00e4nzung in blau: \r\n\u00a7 35\r\n(1) Im Au\u00dfenbereich ist ein Vorhaben nur zul\u00e4ssig, wenn \u00f6ffentliche Belange nicht entgegenstehen, die ausreichende Erschlie\u00dfung gesichert ist und wenn es\r\nNr. 10 im Zusammenhang mit der Gewinnung von Rohstoffen dem Recycling, der Verwertung oder der Weiterverarbeitung dient.\r\n\r\n\r\n\r\nBerlin, 24.01.2024\r\n\r\nBundesverband Mineralische Rohstoffe e. V. (MIRO),  \r\nLuisenstr. 45, 10117 Berlin \r\nTel.:\t0175 6995498\r\nE-Mail:\tfunk@bv-miro.org\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u00dcber den Bundesverband MIRO\r\nMIRO vertritt die Interessen der Hersteller von Kies-, Sand- Quarzsand- und Natursteinprodukten. Die rund 1.600 Unternehmen mit fast 2.700 Werken und 22.500 Mitarbeitern sind in allen Regionen Deutschlands verteilt t\u00e4tig. Sie stellen sicher, dass die j\u00e4hrliche Nachfrage nach den mengenm\u00e4\u00dfig wichtigsten Rohstoffen von etwa 500 Mio. t auf kurzen Transportwege verbrauchernah bedient werden kann. Gesteinsrohstoffe wie Kies, Sand und Naturstein werden f\u00fcr die Erstellung von Wohn- und anderen Geb\u00e4uden sowie f\u00fcr den Bau und Erhalt von Verkehrswegen ben\u00f6tigt. Produkte aus dem Industriemineral Quarz werden von vielen Industriezweigen, wie zum Beispiel der Glasindustrie, nachgefragt. Im wahrsten Sinne des Wortes bilden die Rohstoffe der Gesteinsindustrie die Basis unseres modernen Lebens.\r\nMIRO ist registrierter Interessenvertreter gegen\u00fcber dem Deutschen Bundestag und der Bundesregierung und h\u00e4lt sich an den gesetzlichen Verhaltenskodex des Lobbyregistergesetz. Die Eintragung im Lobbyregister besteht unter der Registernummer R000660. Erfahren Sie mehr unter www.bv-miro.org\r\n\r\n\r\n"
+                        }
+                    }
+                ],
+                "title": "Beschleunigung von Planungs- und Genehmigungsverfahren f\u00fcr Gewinnungsbetriebe der Gesteinsindustrie"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "WHG",
+                        "title": "Gesetz zur Ordnung des Wasserhaushalts",
+                        "url": "https://www.gesetze-im-internet.de/whg_2009"
+                    },
+                    {
+                        "shortTitle": "BauGB",
+                        "title": "Baugesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bbaug"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die Unternehmen der Gesteinsindustrie liefern nicht nur die Rohstoffe, die f\u00fcr den Umbau unseres Energiesystems ben\u00f6tigt werden, die Rohstoffbetriebe planen auch selbst auf den rekultivierten Nachfolgefl\u00e4chen den Bau von Photovoltaik- und Windkraftanlagen. Auf diese Weise k\u00f6nnten die eigenen betrieblichen Anlagen mit erneuerbarem Strom versorgt wie auch in die lokalen Stromnetze eingespeist werden. Hierf\u00fcr bedarf es einer Ausweitung der M\u00f6glichkeiten des Zubaus im Wasserhaushaltsgesetz sowie eine Beschleunigung der Genehmigungsverfahren im Baugesetzbuch.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002209",
+                "statements": [],
+                "title": "Ausweitung der M\u00f6glichkeiten zum Einsatz von Floating PV-Anlagen"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "ErsatzbaustoffV",
+                        "title": "Verordnung \u00fcber Anforderungen an den Einbau von mineralischen Ersatzbaustoffen in technische Bauwerke",
+                        "url": "https://www.gesetze-im-internet.de/ersatzbaustoffv"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die restriktiven Auslegungen zum Produktstatus von recycelten mineralischen Abf\u00e4llen im Eckpunktepapier des BMUV zu einer Abfallende-Verordnung f\u00fchren zu weniger Kreislaufwirtschaft und mehr Deponierung. Dies zeigt eine Prognos-Umfrage, die auch MIRO unterst\u00fctzt hat. Um mehr RC-Material im Kreislauf zu halten m\u00fcssen alle mineralischen Abf\u00e4lle, die wirtschaftlich verwertbar sind, auch verwertet und eingesetzt werden. Dabei m\u00fcssen Energie-, Wasser- und Transportaufwand f\u00fcr die Aufbereitung der Abf\u00e4lle ber\u00fccksichtigt werden. Nur so k\u00f6nnen Ressourcen geschont werden.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003237",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/73/77/299642/Stellungnahme-Gutachten-SG2406190189.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                        "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                        "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWSB",
+                                        "de": "Bundesministerium f\u00fcr Wohnen, Stadtentwicklung und Bauwesen (BMWSB)",
+                                        "en": "Bundesministerium f\u00fcr Wohnen, Stadtentwicklung und Bauwesen (BMWSB)"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-19"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0003237",
+                        "regulatoryProjectTitle": "Der Bundesverband Mineralische Rohstoffe e. V. spricht sich f\u00fcr eine bessere Verwertung mineralischer Abf\u00e4lle aus.",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Bundesverband Mineralische Rohstoffe e.V. (MIRO) \r\n\r\nMIRO vertritt die Interessen der Hersteller von Kies-, Sand- Quarzsand- und Natursteinprodukten. Die rund 1.600 Unternehmen mit fast 2.700 Werken und 22.500 Mitarbeitern sind in allen Regionen Deutschlands verteilt t\u00e4tig. Sie stellen sicher, dass die j\u00e4hrliche Nachfrage nach den mengenm\u00e4\u00dfig wichtigsten Rohstoffen von etwa 500 Mio. t auf kurzen Transportwegen verbrauchernah bedient werden kann. Gesteinsrohstoffe wie Kies, Sand, Quarzkiese und Naturstein werden f\u00fcr die Herstellung von Baustoffen und somit f\u00fcr die Erstellung von Wohn- und anderen Geb\u00e4uden sowie f\u00fcr den Bau und Erhalt von Br\u00fccken und Verkehrswegen aller Art ben\u00f6tigt. Produkte aus dem Industriemineral Quarz werden von vielen Industriezweigen, wie zum Beispiel der Glasindustrie, nachgefragt. Im wahrsten Sinne des Wortes bilden die Rohstoffe der Gesteinsindustrie die Basis unseres modernen Lebens.\r\n\r\n\r\nStellungnahme zu den Auswirkungen der Ersatzbaustoffverordnung\r\nsowie dem Eckpunktepapier des Bundesministeriums f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) zu einer Verordnung zum Abfallende\r\n19. Juni 2024 \r\n\r\nDer Bundesverband Mineralische Rohstoffe (MIRO) spricht sich entschieden f\u00fcr eine bessere Verwertung aller mineralischen Abf\u00e4lle aus. MIRO ist damit Teil einer Initiative von insgesamt acht Branchenverb\u00e4nden und Interessengemeinschaften. Diese haben jetzt die eindeutigen Ergebnisse einer gemeinsam beauftragten Umfrage zum Einsatz von Ersatzbaustoffen ver\u00f6ffentlicht. \r\nDie Umfrageergebnisse der Prognos-Befragung (von 457 Unternehmen, Beh\u00f6rden, Dienstleistern und sonstigen Fachleuten) zeigen deutlich, dass die Umsetzung eines Produktstatus f\u00fcr alle mineralischen Ersatzbaustoffe in allen Materialklassen zu einer Erh\u00f6hung der Einbaumengen und einer besseren Verwertungsquote f\u00fchren w\u00fcrde. Wenn nur ausgew\u00e4hlte Materialklassen als Produkt gelten, w\u00fcrden auch nur diese verst\u00e4rkt nachgefragt. Andere Materialklassen, die weiterhin als \u201eAbfall\u201c gelten, m\u00fcssten vermehrt auf Deponien entsorgt werden. Dies steht im klaren Widerspruch zu den Zielen einer nachhaltigen Kreislaufwirtschaft.\r\n\r\nProdukte statt Abfall\r\nMIRO betont, dass das Recycling mineralischer Bauabf\u00e4lle nicht als Konkurrenz zur Gewinnung und Nutzung von Prim\u00e4rrohstoffen gesehen werden darf. Vielmehr stellt es eine sinnvolle Erg\u00e4nzung dar, um die Ressourceneffizienz zu steigern und die Umwelt zu entlasten. Dennoch wird man ohne mineralische Rohstoffe aus Steinbr\u00fcchen, Sand- und Kiesgruben auch in Zukunft nicht auskommen. Mehr als 85 Prozent der Nachfrage wird mit Prim\u00e4rrohstoffk\u00f6rnungen gedeckt. Um mehr RC-Material im Kreislauf zu halten ist es aber von entscheidender Bedeutung, dass alle mineralischen Abf\u00e4lle, die wirtschaftlich verwertbar sind, auch tats\u00e4chlich verwertet und eingesetzt werden. Dabei m\u00fcssen Energie-, Wasser- und Transportaufwand mitgedacht werden. Nur so k\u00f6nnen wir Ressourcen schonen und die Abfallmengen auf Deponien mindern.\r\n\r\nVerbindliche Regelungen notwendig\r\nDie Ergebnisse der Prognos-Umfrage verdeutlichen die Notwendigkeit klarer und verbindlicher Regelungen, um die Verwertung mineralischer Abf\u00e4lle zu f\u00f6rdern. Dies w\u00fcrde nicht nur die Kreislaufwirtschaft st\u00e4rken, sondern auch die Rechtssicherheit und Akzeptanz f\u00fcr den Einsatz von Ersatzbaustoffen erh\u00f6hen. MIRO wird weiterhin aktiv daran arbeiten, die Interessen seiner Mitglieder und der gesamten Branche zu vertreten, um eine nachhaltige und ressourceneffiziente Zukunft zu sichern.\r\n\r\nDie gemeinschaftliche Pressemitteilung der Verb\u00e4nde finden Sie hier. \r\nDen ausf\u00fchrlichen Bericht zur Prognos-Umfrage finden Sie hier\r\n\r\nPressemitteilung\r\nPrognos-Umfrage zum zuk\u00fcnftigen Einsatz von mineralischen Ersatzbaustoffen\r\nGeplanter Produktstatus nur f\u00fcr ausgew\u00e4hlte MEB f\u00fchrt zu weniger\r\nKreislaufwirtschaft und mehr Deponierung\r\nBerlin, 07. Juni 2024. Sollten die im Eckpunktepapier des Bundesministeriums f\u00fcr Umwelt,\r\nNaturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) vorgeschlagenen\r\nRegelungen zum Produktstatus f\u00fcr nur wenige ausgew\u00e4hlte mineralische Ersatzbaustoffe\r\n(MEB) umgesetzt werden, drohen den \u00fcbrigen Materialien in der Praxis gravierende\r\nMarktbeschr\u00e4nkungen und Verlagerungen auf Deponien. Das ist das Ergebnis einer Umfrage\r\nvon Prognos im Auftrag von acht Entsorger- und Kreislaufverb\u00e4nden sowie\r\nInteressengemeinschaften.\r\nHintergrund der Umfrage sind die meist restriktiven Auslegungen zum Abfallende nach\r\nKreislaufwirtschaftsgesetz sowie erste \u00dcberlegungen des BMUV f\u00fcr eine Verordnung zur\r\nKonkretisierung des Abfallendes. F\u00fcr die Auftraggeber stellen sich aus diesem Grund vor\r\nallem zwei Fragen: Werden durch die vorgesehenen Einstufungen des BMUV die \u201ebesten\u201c\r\nMaterialklassen 0 und 1 nach EBV, die schon heute gut nachgefragt werden, zus\u00e4tzlich\r\nprofitieren? Und wird es f\u00fcr die nicht mit dem Produktstatus versehenen MEB \u2013 anders als\r\nbisher in der Praxis \u2013 \u00fcberhaupt noch einen Markt geben?\r\nDie Ergebnisse der Prognos-Umfrage, an der bundesweit zwischen dem 15.12.2023 und dem\r\n26.2.2024 insgesamt 457 Unternehmen, Beh\u00f6rden, Dienstleiter und sonstige Fachleute\r\nteilnahmen, best\u00e4tigen diese Annahmen. So gehen 77 Prozent der Teilnehmenden davon aus,\r\ndass die Umsetzung des Produktstatus f\u00fcr alle MEB in allen Materialklassen nach EBV zu\r\neiner Erh\u00f6hung der Einbaumengen insgesamt f\u00fchren w\u00fcrde. Als Gr\u00fcnde werden vor allem der\r\npositiv belegte Begriff des \u201eProduktes\u201c gegen\u00fcber \u201eAbfall\u201c, die Sicherheit f\u00fcr zuk\u00fcnftige\r\nEntscheidungen und ein geringerer b\u00fcrokratischer Aufwand f\u00fcr MEB mit Produktstatus\r\nangef\u00fchrt.\r\nSollte hingegen eine Regelung zum Produktstatus von MEB nur f\u00fcr die \u201ebesten\u201c\r\nMaterialklassen nach EBV vorliegen, vermuten 75 Prozent der Teilnehmenden eine noch\r\nst\u00e4rker fokussierte Nachfrage nach diesem Material. Gleichzeitig gehen 79 Prozent davon aus,\r\ndass die MEB der \u00fcbrigen Materialklassen voraussichtlich auf Deponien verwertet oder\r\nbeseitigt werden m\u00fcssten. Gr\u00fcnde hierf\u00fcr w\u00e4ren unter anderem der Mangel an alternativen\r\nVerwertungs- /Entsorgungswegen, Kosten, Rechtssicherheit und geringe Akzeptanz.\r\nGetragen werden die Ergebnisse auch durch die Einsch\u00e4tzungen der Teilnehmenden zu den\r\nderzeitigen wesentlichen Hemmnissen f\u00fcr den Einsatz von MEB. Dazu geh\u00f6ren ma\u00dfgeblich\r\nmangelnde Rechtsverbindlichkeit bestehender Regelungen, fehlender Produktstatus, die\r\nVerf\u00fcgbarkeit sowie Akzeptanzprobleme von MEB. Nicht verwunderlich, dass sich die\r\nBefragten f\u00fcr einen besseren Einsatz von MEB in der Zukunft allen voran den Produktstatus\r\nsowie mehr Informationen, Handlungshilfen und Leitf\u00e4den w\u00fcnschen.\r\n2\r\nAuftraggeber der Umfrage waren der Bundesverband der Deutschen Entsorgungs-, Wasserund\r\nKreislaufwirtschaft BDE, der Bundesverband Mineralische Rohstoffe MIRO, der\r\nBundesverband Sekund\u00e4rrohstoffe und Entsorgung bvse, die Bundesvereinigung Recycling-\r\nBaustoffe BRB, das FEhS \u2013 Institut f\u00fcr Baustoff-Forschung, die G\u00fctegemeinschaft\r\nMetallh\u00fcttenschlacken GGMHS, die Interessengemeinschaft der Aufbereiter und Verwerter\r\nvon M\u00fcllverbrennungsschlacken IGAM sowie die Interessengemeinschaft der Thermischen\r\nAbfallbehandlungsanlagen in Deutschland ITAD.\r\n"
+                        }
+                    }
+                ],
+                "title": "Der Bundesverband Mineralische Rohstoffe e. V. spricht sich f\u00fcr eine bessere Verwertung mineralischer Abf\u00e4lle aus."
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/bf/8e/291067/Stellungnahme-Gutachten-SG2406130034.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                "de": "Bundeskanzleramt (BKAmt)",
+                                "en": "Bundeskanzleramt (BKAmt)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWSB",
+                                "de": "Bundesministerium f\u00fcr Wohnen, Stadtentwicklung und Bauwesen (BMWSB)",
+                                "en": "Bundesministerium f\u00fcr Wohnen, Stadtentwicklung und Bauwesen (BMWSB)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-21"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002208",
+                "regulatoryProjectTitle": "Beschleunigung von Planungs- und Genehmigungsverfahren f\u00fcr Gewinnungsbetriebe der Gesteinsindustrie",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Bundesverband Mineralische Rohstoffe e.V. (MIRO) \r\n\r\nMIRO-Forderungen zur Beschleunigung von Planungs- und Genehmigungsverfahren \r\n\r\nDer am 6. November 2023 beschlossene Pakt f\u00fcr Planungs-, und Genehmigungs- und Umsetzungsbeschleunigung zwischen Bund und L\u00e4ndern wird begr\u00fc\u00dft. Insbesondere die Einf\u00fchrung von Stichtagsregelungen, fakultativen Er\u00f6rterungsterminen, Standardisierungen statt Einzelfallpr\u00fcfungen und reduzierten Pr\u00fcfschritten k\u00f6nnten tats\u00e4chlich einen Beitrag zum versprochenen B\u00fcrokratieabbau und zur Beschleunigung leisten. Wir bitten Sie deshalb die Ank\u00fcndigungen entsprechend rechtsverbindlich umzusetzen.\r\nSchnelle und effiziente Planungs- und Genehmigungsverfahren m\u00fcssen auch bei der Rohstoffgewinnung zu einem Standortvorteil f\u00fcr Deutschland werden. Mineralische Rohstoffe Sande, Quarzsande und Kiese wie auch Naturstein werden nicht nur f\u00fcr den Bau von Wohnungen in Deutschland ben\u00f6tigt, sondern insbesondere auch f\u00fcr den Ausbau von Erneuerbaren Energien. Prim\u00e4rrohstoffe finden sich z.B. in den Fundamenten und den T\u00fcrmen von Windkraftanlagen, in jeder Solarzelle, in jedem elektrischen Leiter wieder. Zudem sind sie f\u00fcr die Zuwegungen zu den und innerhalb der Wind- und Solarparks unabdingbar. Auch f\u00fcr die Verlegung der Kabel im Untergrund bedarf es entsprechender Spezialsande. Weiterhin sind mineralische Rohstoffe integraler Bestandteil der Verkehrswende: So sind insbesondere f\u00fcr den geplanten Ausbau des Schienennetzes erhebliche Rohstoffmengen erforderlich. \r\n\r\nZun\u00e4chst zur Ausgangssituation \r\nFehlende Genehmigungen. Die Genehmigungen f\u00fcr die Unternehmen der Gesteinsindustrie unterscheiden sich in zwei Punkten von denen anderer Unternehmen: Zum einen ist die Gewinnung standortgebunden, d.h. die T\u00e4tigkeit der Betriebe ist an Standorte mit qualitativ hochwertigen Lagerst\u00e4tten gebunden und kann nicht beliebig an anderer Stelle ausgef\u00fchrt werden. Zum anderen ben\u00f6tigen die Gewinnungsbetriebe in regelm\u00e4\u00dfigen Abst\u00e4nden Genehmigungen f\u00fcr Anschluss- oder Neuaufschlussfl\u00e4chen. Unsere Gewinnungsbetriebe gewinnen Rohstoffe nicht nur nach dem Bundesberggesetz und l\u00e4nderspezifischen Abgrabungsgesetzen, sondern auch nach dem Bundesimmissionsschutzgesetz, Wasserhaushaltsgesetz, Bundesnaturschutzgesetz und weiteren fachrechtlichen Vorschriften. Nach einer gewissen Zeit sind die Rohstoffe gewonnen und die Betriebe ben\u00f6tigen eine neue, sich zeitlich unmittelbar anschlie\u00dfende Genehmigung, um weiterhin Rohstoffe gewinnen und diese im bestehenden Werk aufbereiten zu k\u00f6nnen. Erhalten sie diese Genehmigungen nicht oder nicht rechtzeitig, so muss der Betrieb eingestellt, die Maschinen ver\u00e4u\u00dfert und die Mitarbeiter entlassen werden. Mit diesem Szenario rechnen derzeit viele unserer Unternehmen. Denn vielerorts werden Anschluss- oder Neuaufschlussgenehmigungen nicht erteilt oder die Genehmigungsverfahren dauern zum Teil deutlich l\u00e4nger als zehn Jahre. \r\nEs verwundert daher nicht, dass die Zahl der Gewinnungsbetriebe in Deutschland seit Jahren kontinuierlich abnimmt. Hatten wir im Jahr 2011 noch 3160 Gesteinsbetriebe in Deutschland, waren es 2021 nur noch 2695. Das ist ein R\u00fcckgang um 15 Prozent in zehn Jahren. \r\nDie sinnvolle regionale Versorgungsstruktur ist gef\u00e4hrdet. Das vom BMWK in Auftrag gegebene EY-Gutachten  \u201eGenehmigungsverfahren zum Rohstoffabbau in Deutschland\u201c vom 10.12.2022 kommt zum Ergebnis, dass die Versorgungslage in Bezug auf Sand und Kies seit 2016 bereits (regional) angespannt und die Versorgung f\u00fcr die n\u00e4chsten 25+ Jahre klar gef\u00e4hrdet ist. Zudem kann in allen betrachteten Rohstoffgruppen \u00fcber die n\u00e4chsten 25 Jahre und l\u00e4nger eine Gef\u00e4hrdung der Versorgungslage eintreten. Problematisch ist die Versorgungslage bereits in den Regionen Dresden, im Gro\u00dfraum Berlin, in der Region K\u00f6ln und im mittleren Donautal, wie auch die Bundesanstalt f\u00fcr Geowissenschaften und Rohstoffe (BGR) in ihrer Studie von Dezember 2022  feststellt. Die Genehmigungsverknappung droht auch bereits am Niederrhein und in der Mittel-Elbe-Region, so die R\u00fcckmeldung aus unserer Mitgliedschaft. Bezahlbarer Wohnraum, die Sanierung der Infrastruktur, der Ausbau der erneuerbaren Energien und die Versorgung der Industrie k\u00f6nnen nicht mehr verbrauchsnah sichergestellt werden, wenn hier die politische Unterst\u00fctzung fehlt.\r\nDie Transportwege werden l\u00e4nger. Gesteinsrohstoffe sind relativ preisg\u00fcnstige aber schwere Masseng\u00fcter. Da die Transportkosten sehr schnell den Warenwert, der auf dem Lkw liegt, \u00fcbersteigen, hat sich historisch ein Versorgungsnetz mit vielen Gewinnungsst\u00e4tten entwickelt. Die Rohstoffe werden in der Regel in einem Umkreis von nur 30 bis 50 km geliefert. Die Ausd\u00fcnnung der derzeit noch guten, dezentralen Versorgungstruktur schreitet aber wie geschildert voran. Damit einhergehend werden die Transportwege zu den Baustellen und Verbrauchern l\u00e4nger. Der gro\u00dfe Vorteil der regionalen, dezentralen Versorgung mit kurzen Lieferwegen und geringem CO2-Aussto\u00df, wie er sich ganz nat\u00fcrlich im Markt entwickelt hat, wird immer mehr aufs Spiel gesetzt. \r\nGesteinsrohstoffe f\u00fcr die Transformation - Transformation in den Gesteinsbetrieben. F\u00fcr das Gelingen der Transformation in Deutschland ist die verbrauchsnahe Gewinnung und Lieferung von mineralischen Rohstoffe essenziell. Nicht nur werden die Gesteinsk\u00f6rnungen f\u00fcr den Umbau der Energienetze sowie f\u00fcr den Bau der erneuerbaren Energieanlagen ben\u00f6tigt, die rund 2700 Werke des Bundesverband MIRO befinden sich selbst mitten in der Transformation: Rohstoffunternehmer wollen nachhaltiger werden und PV-Freifl\u00e4chenanlagen wie auch schwimmende Solaranlagen und zunehmend auch Windkraftanlagen auf ihren Rohstoffgewinnungsfl\u00e4chen nutzen. \r\n\r\nAus Sicht MIROs sind die im Folgenden vorgeschlagenen \u00c4nderungen notwendig, um den Bedarf an heimischen Gesteinsrohstoffen auch zuk\u00fcnftig zu sichern:\r\nBeschleunigte Planungs- und Genehmigungsverfahren f\u00fcr die Unternehmen der Gesteinsindustrie\r\nim Einzelnen:\r\n\uf0d8\tGesetzliche Priorisierung f\u00fcr eine sichere Versorgung mit heimischen Rohstoffen\r\n\r\nF\u00fcr die Rohstoffgewinnung ist eine gesetzliche Priorisierung beispielsweise im Raumordnungsgesetz einzur\u00e4umen, damit Bedarfe, gedeckt und die Rechts- und Planungssicherheit f\u00fcr Gewinnungsbetriebe deutlich erh\u00f6ht werden k\u00f6nnen.\r\nDem besonderen Wirtschaftszweig der Gewinnung standortgebundener Rohstoffe wendet sich \u00a7\u20092 Abs.\u20092 Nr.\u20094 S.\u20094 ROG zu. Standortgebundene Rohstoffe sind mineralische Rohstoffe, wie Sande, Quarzsande, Kiese und Naturstein. Die raumordnungsplanerischen Grunds\u00e4tze gem\u00e4\u00df \u00a7 2 Abs. 2 ROG dienen der inhaltlichen und r\u00e4umlichen Konkretisierung des Fachrechts. Sie entfalten insofern Verbindlichkeit, als ihre Ber\u00fccksichtigung in Abw\u00e4gungs- und Ermessensentscheidungen rechtlich geboten ist. F\u00fcr diejenigen Rohstoffe, die nicht dem Bundesberggesetz unterfallen \u2013 in der Regel Sande und Kiese \u2013, kommt der Raumordnung zentrale Bedeutung bei der planerischen Steuerung der Rohstoffgewinnung zu, weil f\u00fcr diese Rohstoffe keine Fachplanung existiert. Mit der Erg\u00e4nzung soll herausgestellt werden, dass vor allem f\u00fcr heimische Rohstoffe entsprechend ihres Vorkommens vorrangig dort raumplanerisch festzulegen sind, wo sich der Rohstoff befindet. Ziel ist es dabei, dass die Versorgung mit mineralischen Rohstoffen regional, und damit insbesondere verbrauchsnah sichergestellt wird. Nur so k\u00f6nnen Transportwege so kurz wie m\u00f6glich gehalten werden und ein eng maschiges Rohstoffgewinnungsnetz zuk\u00fcnftig aufrechterhalten werden, was insbesondere f\u00fcr den Schutz von Klima und Umwelt erforderlich ist. Eine langfristige und bedarfsunabh\u00e4ngige Versorgung mit Gesteinsrohstoffen kann auf diese Weise gesichert und \u00dcberplanungen der standortgebundenen Lagerst\u00e4tten so verhindert werden.\r\n\r\nDaher bedarf es einer Erg\u00e4nzung in \u00a7 2 Abs. 2 Nr. 4 Satz 5 - neu -: \r\n\r\n\u201eDie Rohstoffsicherung und -gewinnung steht im \u00fcberragenden \u00f6ffentlichen Interesse und dient der Versorgungssicherheit.\u201c \r\n\r\noder\r\n\r\nErg\u00e4nzung des \u00a7 2 Abs. 2 Nr. 4 Satz 4 ROG in blau:\r\n\u201eEs sind die r\u00e4umlichen Voraussetzungen f\u00fcr die vorsorgende Sicherung sowie f\u00fcr die geordnete Aufsuchung und Gewinnung von standortgebundenen Rohstoffen verbrauchsnah zu schaffen.\u201c \r\nFolgeerg\u00e4nzung des \u00a7 13 Abs. 5 Nr. 2 b) ROG in blau:\r\n\u201eNutzungen im Freiraum wie verbrauchsnahe Standorte f\u00fcr die vorsorgende Sicherung sowie die geordnete Aufsuchung und Gewinnung von standortgebundenen Rohstoffen,\u201c\r\n\r\n\r\n\uf0d8\tPrivilegierung von schwimmenden Photovoltaikanlagen im Au\u00dfenbereich \r\n\uf0d8\tPrivilegierung von Freifl\u00e4chen-Photovoltaikanlagen auf Folgefl\u00e4chen der\r\nmineralischen Rohstoffgewinnung und auf Deponien, Brach- und Konversionsfl\u00e4chen \r\n\r\nFreifl\u00e4chen- und Floating-PV -Anlagen erlauben eine schnelle Skalierung des Zubaus mit solarer Strahlungsenergie. Die Errichtung von PV-Freifl\u00e4chenanlagen ist insbesondere auf den von der Gesteinsindustrie zur Gewinnung von Rohstoffen gepachteten oder erworbenen Fl\u00e4chen und bei der Folgenutzung sowohl dauerhaft als auch vor\u00fcbergehend m\u00f6glich. F\u00fcr eine Erweiterung der Fl\u00e4chenkulisse sowie einen beschleunigten Zubau ist eine \u00c4nderung der derzeitigen gesetzlichen Regelungen zwingend notwendig: \r\nDe lege lata ist f\u00fcr die Errichtung von Freifl\u00e4chenphotovoltaikanlagen in Betrieben der Gesteinsindustrie immer zwingend ein aufw\u00e4ndiges Planungsverfahren (Raumordnungsplan, Fl\u00e4chennutzungsplan, Bebauungsplan) vor dem (Bau-) Genehmigungsverfahren zu durchlaufen, da sich die rohstoffgewinnenden Gesteinsbetriebe fast ausschlie\u00dflich im Au\u00dfenbereich befinden. Die Verfahrensdauer bel\u00e4uft sich hierbei auf bis zu ca. f\u00fcnf Jahre und steht somit im Widerspruch zu einer beschleunigten Energiewende.\r\nEine Privilegierung von solarer Strahlungsenergie auf ehemaligen Gewinnungsfl\u00e4chen mineralischer Rohstoffe und auf Deponien, Brach- und Konversionsfl\u00e4chen im Au\u00dfenbereich hat den Vorteil, dass grunds\u00e4tzlich die bauplanungsrechtlichen Voraussetzungen des Vorhabens gesichert sind. Von einem Bebauungsplanverfahren kann somit abgesehen und das Bauvorhaben nach erfolgter Anzeige und positiver Stellungnahmen durch die Fachbeh\u00f6rden umgesetzt werden. Die Privilegierung ist zum einen auf vorbelasteten Fl\u00e4chen wie Deponien, Brach- und Konversionsfl\u00e4chen wie auch auf ehemaligen Rohstoffgewinnungsfl\u00e4chen (= Folgefl\u00e4chen) zu beschr\u00e4nken. Letztere dienen der Umsetzung der Rekultivierung und/oder dem Ausgleich des Rekultivierungsziels. \r\nDie Potentiale zur Installation von Photovoltaikanlagen sind im Zusammenhang mit Rohstoffgewinnungsst\u00e4tten jedoch deutlich gr\u00f6\u00dfer und k\u00f6nnen erst durch Anpassungen im BauGB gehoben werden. Die von Ihnen beabsichtigte Vereinfachung f\u00fcr den Ausbau der Freifl\u00e4chen-Fotovoltaik - siehe Seite 15 des Pakts - kann lediglich baurechtliche Hemmnisse f\u00fcr typisierte Standard-PV-Freifl\u00e4chenanlagen abbauen. PV-Freifl\u00e4chenanlagen, die auf ehemaligen Rohstoffgewinnungsfl\u00e4chen bzw. auf Betriebsfl\u00e4chen von Rohstoffgewinnungsfl\u00e4chen angedacht sind, befinden sich oft in unmittelbarem Zusammenhang mit der Gewinnungsst\u00e4tte, welche ohnehin zumeist im Au\u00dfenbereich liegen. Dies gilt ebenso f\u00fcr Deponie- Brach- und Konversionsfl\u00e4chen. PV-Freifl\u00e4chenanlagen wie auch schwimmende PV-Anlagen auf Baggerseen sind deshalb durch ihren \u00f6rtlichen Bezug zur Gewinnungsst\u00e4tte au\u00dfenbereichsad\u00e4quat. Dar\u00fcber hinaus reihen sich PV-Freifl\u00e4chenanlagen in unmittelbarer N\u00e4he der Gewinnungsst\u00e4tte in die Typik des \u00a7 35 Abs. 1 Nr. 8 b) BauGB ein und sollten dort somit auch in \u00a7 35 BauGB rechtlich verortet werden.\r\nSchwimmende PV-Anlagen (Floating-PV) sind ebenso im Au\u00dfenbereich zu privilegieren. Schlie\u00dflich befinden sich die daf\u00fcr genutzten Baggerseen in der Regel wie die Gewinnungsst\u00e4tte selbst (Nassauskiesung), a priori im Au\u00dfenbereich. Die Fl\u00e4chen der Baggerseen in Deutschland bieten ein beachtliches Potenzial f\u00fcr schwimmende PV-Anlagen. Die BayWa r.e., als ein f\u00fchrender Anbieter von schwimmenden Solaranlagen in Europa, sch\u00e4tzt das Potenzial f\u00fcr Floating-PV in Deutschland auf \u00fcber 2 GWp, wenn 10 Prozent der f\u00fcr Floating-PV geeigneten k\u00fcnstlichen Seen bedeckt ist und Ausschlusskriterien wie Natur- und Landschaftsschutz, Erholung/Freizeitaktivit\u00e4ten etc. ber\u00fccksichtigt werden. Mit dem erzeugten Solarstrom w\u00fcrden mehr als eine Million Tonnen CO2 pro Jahr eingespart. Diese Annahme basiert auf einer Studie des Fraunhofer ISE, die das technische Potenzial auf 56 GWp und das wirtschaftlich-nutzbare Potenzial auf 2,74 GWp sch\u00e4tzt. Dabei k\u00f6nnten unsere Betriebe einerseits ihren Energiebedarf auf regenerativen Strom umstellen und gleichzeitig w\u00fcrde ein Gro\u00dfteil des produzierten Stroms den anliegenden Gemeinden und Gewerben zur Verf\u00fcgung gestellt werden k\u00f6nnen. Aus diesem Grunde sind Gemeinden, Stadtwerke etc. an einer Zusammenarbeit interessiert. Gleichzeitig kann dadurch die Akzeptanz der Rohstoffgewinnung gesteigert werden.\r\nIn diesem Zusammenhang sei angemerkt, dass das Potenzial speziell zur Installation von schwimmenden PV-Anlagen durch \u00c4nderungen im Wasserhaushaltsgesetz nochmals erh\u00f6ht werden kann. Die pauschale Beschr\u00e4nkung der Belegung mit schwimmenden PV-Modulen auf 15 % der Seefl\u00e4che, die mit dem sog. Osterpaket (2022) in \u00a7 36 Abs. 3 WHG Eingang fand, ist wirtschaftlich und \u00f6kologisch nicht zu begr\u00fcnden und ist aufzul\u00f6sen. Ebenso ist der pauschale Uferabstand von 40 Meter in \u00a7 36 Abs. 3 WHG deutlich zu reduzieren. Der Zuschnitt eines Baggersees kann so ung\u00fcnstig sein, dass ein Abstand der schwimmenden PV-Anlage von 40 Metern zu allen Seeseiten nicht m\u00f6glich ist. Ein n\u00e4heres Heranbauen an eine Seeseite kann aber erforderlich sein, um die Anlage sinnvoll im Baggersee zu platzieren (in der N\u00e4he des Wechselrichters, Verankerung, Verschattung, Windanf\u00e4lligkeit) und ggfs. auch Revisionen einfacher zu erm\u00f6glichen. \r\nPV-Anlagen werden derzeit in der Regel im Zusammenhang mit der Gewinnungsst\u00e4tte nur dann genehmigt, wenn die Stromversorgung dem eigenen Betrieb dient (\u00a7 35 Abs. 1 Nr. 3 BauGB). Die Potenziale gehen jedoch oft weit dar\u00fcber hinaus. Vor dem Hintergrund der Ausbauziele f\u00fcr Erneuerbare Energien seitens des Bundes, sollten diese Potenziale ausgesch\u00f6pft werden. Nur eine zus\u00e4tzliche Privilegierungsregelung in \u00a7 35 BauGB kann bewirken, dass \u00fcber den eigenen ortsgebundenen gewerblichen Betrieb hinaus, Photovoltaik-Strom ins Netz der \u00f6ffentlichen Versorgung gespeist werden darf. \r\nUnternehmen der Gesteinsindustrie betreiben auch Deponien, die sich aufgrund ihrer Bodenbeschaffenheit und Statik in der Regel eher f\u00fcr PV-Anlagen als f\u00fcr Windkraftanlagen eignen. Im Zusammenhang mit Gewinnungsst\u00e4tten befinden sich Deponien typischerweise im Au\u00dfenbereich, so dass auch hierf\u00fcr eine Privilegierung von Photovoltaik im Au\u00dfenbereich sinnvoll ist.\r\nDar\u00fcber hinaus sollten ehemalige Rohstoffgewinnungsfl\u00e4chen, auf denen PV-Anlagen installiert sind, als landwirtschaftliche Nutzfl\u00e4che anerkannt werden, wenn sich unter der Anlage eine Wiese befindet, die beweidet wird oder gem\u00e4ht werden muss, da diese somit der Landwirtschaft zugutekommt. Die Bauanzeigen k\u00f6nnten durch eine neu zu schaffende zentrale Stelle genehmigt werden, die sich ausschlie\u00dflich mit Anzeigen f\u00fcr PV und Antr\u00e4gen f\u00fcr Windkraftanlagen auseinandersetzt. \r\n\r\nDaher bedarf es in \u00a7 35 BauGB folgender Erg\u00e4nzung in blau:\r\n\u00a7 35  \r\n(1) Im Au\u00dfenbereich ist ein Vorhaben nur zul\u00e4ssig, wenn \u00f6ffentliche Belange nicht entgegenstehen, die ausreichende Erschlie\u00dfung gesichert ist und wenn es\r\n5. der Erforschung, Entwicklung oder Nutzung der Windenergie nach Ma\u00dfgabe des \u00a7 249 oder der Erforschung, Entwicklung oder Nutzung der Wasserenergie oder der Erforschung, Entwicklung oder Nutzung schwimmender Photovoltaikanlagen dient,\r\n8. der Nutzung solarer Strahlungsenergie dient\r\n(c) auf ehemaligen Rohstoffgewinnungsfl\u00e4chen, Deponien, Brach- und Konversionsfl\u00e4chen, oder\r\n\r\nDaher bedarf es in \u00a7 36 Abs. 3 Nr. 2 WHG einer \u00c4nderung des WHG in blau:\r\n\u00a7 36 \r\n(3) Eine Solaranlage darf nicht errichtet und betrieben werden \r\n1.   in und \u00fcber einem oberirdischen Gew\u00e4sser, das kein k\u00fcnstliches oder erheblich ver\u00e4ndertes Gew\u00e4sser ist, und \r\n2.   in und \u00fcber einem k\u00fcnstlichen oder erheblich ver\u00e4nderten Gew\u00e4sser, wenn ausgehend von der Linie des Mittelwasserstandes \r\na)   die Anlage mehr als 40 Prozent der Gew\u00e4sserfl\u00e4che bedeckt oder \r\nb)   der Abstand zum Ufer weniger als 10 Meter betr\u00e4gt.\r\n\r\n\r\n\uf0d8\tPrivilegierung von Anlagen z.B. Recyclinganlagen im Zusammenhang mit der Gewinnungsst\u00e4tte \r\n\r\nWesentliche Zahlen zum Recycling in der \u00dcbersicht: In Deutschland werden j\u00e4hrlich in rund 2.700 Kiesgruben und Steinbr\u00fcchen rund 485 Mio. t Gesteinsk\u00f6rnungen aus Naturstein, Kies und Sand sowie Quarzsanden und -kiesen in nachfragegerechten K\u00f6rnungen produziert, welche zusammen mit rund 77 Mio. t Recycling-K\u00f6rnungen sowie etwa 23 Mio. t Industriellen Nebenprodukten den j\u00e4hrlichen Bedarf an Gesteinsk\u00f6rnungen von insgesamt 585 Mio. t decken. Des Weiteren fallen j\u00e4hrlich ca. 220 Mio. t mineralische Bauabf\u00e4lle an, von denen rund 90 % im Sinne des Kreislaufwirtschaftsgesetzes verwertet werden und auf diese Weise im Stoffkreislauf bleiben. Technologisch und materialbedingt lassen sich aus den f\u00fcr die Verwertung geeigneten Mengen etwa 77 Mio. t Recyclingbaustoffe/-k\u00f6rnungen herstellen. Etwa 120 Mio. t sind Boden und Steine (Bodenaushub). Mit den 77 Mio. t Recyclingk\u00f6rnungen kann die j\u00e4hrliche Nachfrage nach Gesteinsk\u00f6rnungen zu rund 13,2 % gedeckt werden .\r\nPrim\u00e4rrohstoff- und Sekund\u00e4rrohstoffgewinnung wird schon jetzt von Unternehmen zusammen gedacht. Die Praxis zeigt oftmals, dass Kommunen eine Recyclinganlage z.B. f\u00fcr mineralische Bauabf\u00e4lle weder im Gewerbe- noch im Industriegebiet realisieren. \r\nEine Recyclinganlage f\u00fcr mineralische Bauabf\u00e4lle bietet sich jedoch gerade in der N\u00e4he einer Gewinnungsst\u00e4tte von mineralischen Prim\u00e4rrohstoffen an, da rezykliertes Material (z.B. RC-Baustoffe im Sinne der Ersatzbaustoffverordnung - EBV) mit mineralischen Prim\u00e4rrohstoffen an Ort und Stelle (z.B. aus der Kiesgrube oder einem Steinbruch) gemischt werden kann, um RC-Baustoffgemische im Sinne der EBV herzustellen und als RC-Baustoffgemische im Sinne der EBV in Verkehr zu bringen. Damit steht die Recyclinganlage in einem engen Zusammenhang mit der Gewinnungsst\u00e4tte und sollte daher auch genehmigt werden d\u00fcrfen, wenn sie sich aufgrund der N\u00e4he zur Gewinnungsst\u00e4tte im Au\u00dfenbereich befindet. Im Zusammenhang mit der Gewinnung von Rohstoffen schlie\u00dft dies nicht nur die aktive Gewinnungsst\u00e4tte ein, sondern auch die damit zusammenh\u00e4ngenden Folgenutzungsfl\u00e4chen. Die Nutzung der RC-K\u00f6rungen schont zugleich die Lagerst\u00e4tten, ganz im Sinne der Ressourcenschonung.\r\nHinzu kommt, dass f\u00fcr die sortenreine Getrennthaltung, Beprobung und Lagerung des Bau- und Abbruchmaterials gro\u00dfe Fl\u00e4chen ben\u00f6tigt werden, was die Anlage ebenso als au\u00dfenbereichsad\u00e4quat qualifiziert. Laut der bisherigen Erfahrungen unserer Mitglieder, stehen jedoch f\u00fcr die r\u00e4umlichen Gr\u00f6\u00dfen diesbez\u00fcglicher RC-Aufbereitungsanlagen nicht gen\u00fcgend Fl\u00e4chen im Rahmen von Gewerbe- und Industriegebieten zur Verf\u00fcgung. Nach derzeitigem Diskussionsstand der Nationalen Kreislaufwirtschaftsstrategie 2030 soll mehr als bisher recycelt werden, wozu insbesondere eine gro\u00dfe Anzahl von Bauschutt-Recyclinganlagen erforderlich sind. \r\nGerade vor dem Hintergrund der Bestrebungen der Nationalen Kreislaufwirtschaftsstrategie 2030 der Bundesregierung, kann hier die heimische mineralische Rohstoffgewinnung einen wertvollen Beitrag zur Ressourcenschonung und effizienten Ressourcennutzung leisten.\r\n\r\nDaher bedarf es in \u00a7 35 BauGB folgender Erg\u00e4nzung in blau: \r\n\u00a7 35\r\n(1) Im Au\u00dfenbereich ist ein Vorhaben nur zul\u00e4ssig, wenn \u00f6ffentliche Belange nicht entgegenstehen, die ausreichende Erschlie\u00dfung gesichert ist und wenn es\r\nNr. 10 im Zusammenhang mit der Gewinnung von Rohstoffen dem Recycling, der Verwertung oder der Weiterverarbeitung dient.\r\n\r\n\r\n\r\nBerlin, 24.01.2024\r\n\r\nBundesverband Mineralische Rohstoffe e. V. (MIRO),  \r\nLuisenstr. 45, 10117 Berlin \r\nTel.:\t0175 6995498\r\nE-Mail:\tfunk@bv-miro.org\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u00dcber den Bundesverband MIRO\r\nMIRO vertritt die Interessen der Hersteller von Kies-, Sand- Quarzsand- und Natursteinprodukten. Die rund 1.600 Unternehmen mit fast 2.700 Werken und 22.500 Mitarbeitern sind in allen Regionen Deutschlands verteilt t\u00e4tig. Sie stellen sicher, dass die j\u00e4hrliche Nachfrage nach den mengenm\u00e4\u00dfig wichtigsten Rohstoffen von etwa 500 Mio. t auf kurzen Transportwege verbrauchernah bedient werden kann. Gesteinsrohstoffe wie Kies, Sand und Naturstein werden f\u00fcr die Erstellung von Wohn- und anderen Geb\u00e4uden sowie f\u00fcr den Bau und Erhalt von Verkehrswegen ben\u00f6tigt. Produkte aus dem Industriemineral Quarz werden von vielen Industriezweigen, wie zum Beispiel der Glasindustrie, nachgefragt. Im wahrsten Sinne des Wortes bilden die Rohstoffe der Gesteinsindustrie die Basis unseres modernen Lebens.\r\nMIRO ist registrierter Interessenvertreter gegen\u00fcber dem Deutschen Bundestag und der Bundesregierung und h\u00e4lt sich an den gesetzlichen Verhaltenskodex des Lobbyregistergesetz. Die Eintragung im Lobbyregister besteht unter der Registernummer R000660. Erfahren Sie mehr unter www.bv-miro.org\r\n\r\n\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/73/77/299642/Stellungnahme-Gutachten-SG2406190189.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWSB",
+                                "de": "Bundesministerium f\u00fcr Wohnen, Stadtentwicklung und Bauwesen (BMWSB)",
+                                "en": "Bundesministerium f\u00fcr Wohnen, Stadtentwicklung und Bauwesen (BMWSB)"
+                            }
+                        ],
+                        "sendingDate": "2024-06-19"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0003237",
+                "regulatoryProjectTitle": "Der Bundesverband Mineralische Rohstoffe e. V. spricht sich f\u00fcr eine bessere Verwertung mineralischer Abf\u00e4lle aus.",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Bundesverband Mineralische Rohstoffe e.V. (MIRO) \r\n\r\nMIRO vertritt die Interessen der Hersteller von Kies-, Sand- Quarzsand- und Natursteinprodukten. Die rund 1.600 Unternehmen mit fast 2.700 Werken und 22.500 Mitarbeitern sind in allen Regionen Deutschlands verteilt t\u00e4tig. Sie stellen sicher, dass die j\u00e4hrliche Nachfrage nach den mengenm\u00e4\u00dfig wichtigsten Rohstoffen von etwa 500 Mio. t auf kurzen Transportwegen verbrauchernah bedient werden kann. Gesteinsrohstoffe wie Kies, Sand, Quarzkiese und Naturstein werden f\u00fcr die Herstellung von Baustoffen und somit f\u00fcr die Erstellung von Wohn- und anderen Geb\u00e4uden sowie f\u00fcr den Bau und Erhalt von Br\u00fccken und Verkehrswegen aller Art ben\u00f6tigt. Produkte aus dem Industriemineral Quarz werden von vielen Industriezweigen, wie zum Beispiel der Glasindustrie, nachgefragt. Im wahrsten Sinne des Wortes bilden die Rohstoffe der Gesteinsindustrie die Basis unseres modernen Lebens.\r\n\r\n\r\nStellungnahme zu den Auswirkungen der Ersatzbaustoffverordnung\r\nsowie dem Eckpunktepapier des Bundesministeriums f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) zu einer Verordnung zum Abfallende\r\n19. Juni 2024 \r\n\r\nDer Bundesverband Mineralische Rohstoffe (MIRO) spricht sich entschieden f\u00fcr eine bessere Verwertung aller mineralischen Abf\u00e4lle aus. MIRO ist damit Teil einer Initiative von insgesamt acht Branchenverb\u00e4nden und Interessengemeinschaften. Diese haben jetzt die eindeutigen Ergebnisse einer gemeinsam beauftragten Umfrage zum Einsatz von Ersatzbaustoffen ver\u00f6ffentlicht. \r\nDie Umfrageergebnisse der Prognos-Befragung (von 457 Unternehmen, Beh\u00f6rden, Dienstleistern und sonstigen Fachleuten) zeigen deutlich, dass die Umsetzung eines Produktstatus f\u00fcr alle mineralischen Ersatzbaustoffe in allen Materialklassen zu einer Erh\u00f6hung der Einbaumengen und einer besseren Verwertungsquote f\u00fchren w\u00fcrde. Wenn nur ausgew\u00e4hlte Materialklassen als Produkt gelten, w\u00fcrden auch nur diese verst\u00e4rkt nachgefragt. Andere Materialklassen, die weiterhin als \u201eAbfall\u201c gelten, m\u00fcssten vermehrt auf Deponien entsorgt werden. Dies steht im klaren Widerspruch zu den Zielen einer nachhaltigen Kreislaufwirtschaft.\r\n\r\nProdukte statt Abfall\r\nMIRO betont, dass das Recycling mineralischer Bauabf\u00e4lle nicht als Konkurrenz zur Gewinnung und Nutzung von Prim\u00e4rrohstoffen gesehen werden darf. Vielmehr stellt es eine sinnvolle Erg\u00e4nzung dar, um die Ressourceneffizienz zu steigern und die Umwelt zu entlasten. Dennoch wird man ohne mineralische Rohstoffe aus Steinbr\u00fcchen, Sand- und Kiesgruben auch in Zukunft nicht auskommen. Mehr als 85 Prozent der Nachfrage wird mit Prim\u00e4rrohstoffk\u00f6rnungen gedeckt. Um mehr RC-Material im Kreislauf zu halten ist es aber von entscheidender Bedeutung, dass alle mineralischen Abf\u00e4lle, die wirtschaftlich verwertbar sind, auch tats\u00e4chlich verwertet und eingesetzt werden. Dabei m\u00fcssen Energie-, Wasser- und Transportaufwand mitgedacht werden. Nur so k\u00f6nnen wir Ressourcen schonen und die Abfallmengen auf Deponien mindern.\r\n\r\nVerbindliche Regelungen notwendig\r\nDie Ergebnisse der Prognos-Umfrage verdeutlichen die Notwendigkeit klarer und verbindlicher Regelungen, um die Verwertung mineralischer Abf\u00e4lle zu f\u00f6rdern. Dies w\u00fcrde nicht nur die Kreislaufwirtschaft st\u00e4rken, sondern auch die Rechtssicherheit und Akzeptanz f\u00fcr den Einsatz von Ersatzbaustoffen erh\u00f6hen. MIRO wird weiterhin aktiv daran arbeiten, die Interessen seiner Mitglieder und der gesamten Branche zu vertreten, um eine nachhaltige und ressourceneffiziente Zukunft zu sichern.\r\n\r\nDie gemeinschaftliche Pressemitteilung der Verb\u00e4nde finden Sie hier. \r\nDen ausf\u00fchrlichen Bericht zur Prognos-Umfrage finden Sie hier\r\n\r\nPressemitteilung\r\nPrognos-Umfrage zum zuk\u00fcnftigen Einsatz von mineralischen Ersatzbaustoffen\r\nGeplanter Produktstatus nur f\u00fcr ausgew\u00e4hlte MEB f\u00fchrt zu weniger\r\nKreislaufwirtschaft und mehr Deponierung\r\nBerlin, 07. Juni 2024. Sollten die im Eckpunktepapier des Bundesministeriums f\u00fcr Umwelt,\r\nNaturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) vorgeschlagenen\r\nRegelungen zum Produktstatus f\u00fcr nur wenige ausgew\u00e4hlte mineralische Ersatzbaustoffe\r\n(MEB) umgesetzt werden, drohen den \u00fcbrigen Materialien in der Praxis gravierende\r\nMarktbeschr\u00e4nkungen und Verlagerungen auf Deponien. Das ist das Ergebnis einer Umfrage\r\nvon Prognos im Auftrag von acht Entsorger- und Kreislaufverb\u00e4nden sowie\r\nInteressengemeinschaften.\r\nHintergrund der Umfrage sind die meist restriktiven Auslegungen zum Abfallende nach\r\nKreislaufwirtschaftsgesetz sowie erste \u00dcberlegungen des BMUV f\u00fcr eine Verordnung zur\r\nKonkretisierung des Abfallendes. F\u00fcr die Auftraggeber stellen sich aus diesem Grund vor\r\nallem zwei Fragen: Werden durch die vorgesehenen Einstufungen des BMUV die \u201ebesten\u201c\r\nMaterialklassen 0 und 1 nach EBV, die schon heute gut nachgefragt werden, zus\u00e4tzlich\r\nprofitieren? Und wird es f\u00fcr die nicht mit dem Produktstatus versehenen MEB \u2013 anders als\r\nbisher in der Praxis \u2013 \u00fcberhaupt noch einen Markt geben?\r\nDie Ergebnisse der Prognos-Umfrage, an der bundesweit zwischen dem 15.12.2023 und dem\r\n26.2.2024 insgesamt 457 Unternehmen, Beh\u00f6rden, Dienstleiter und sonstige Fachleute\r\nteilnahmen, best\u00e4tigen diese Annahmen. So gehen 77 Prozent der Teilnehmenden davon aus,\r\ndass die Umsetzung des Produktstatus f\u00fcr alle MEB in allen Materialklassen nach EBV zu\r\neiner Erh\u00f6hung der Einbaumengen insgesamt f\u00fchren w\u00fcrde. Als Gr\u00fcnde werden vor allem der\r\npositiv belegte Begriff des \u201eProduktes\u201c gegen\u00fcber \u201eAbfall\u201c, die Sicherheit f\u00fcr zuk\u00fcnftige\r\nEntscheidungen und ein geringerer b\u00fcrokratischer Aufwand f\u00fcr MEB mit Produktstatus\r\nangef\u00fchrt.\r\nSollte hingegen eine Regelung zum Produktstatus von MEB nur f\u00fcr die \u201ebesten\u201c\r\nMaterialklassen nach EBV vorliegen, vermuten 75 Prozent der Teilnehmenden eine noch\r\nst\u00e4rker fokussierte Nachfrage nach diesem Material. Gleichzeitig gehen 79 Prozent davon aus,\r\ndass die MEB der \u00fcbrigen Materialklassen voraussichtlich auf Deponien verwertet oder\r\nbeseitigt werden m\u00fcssten. Gr\u00fcnde hierf\u00fcr w\u00e4ren unter anderem der Mangel an alternativen\r\nVerwertungs- /Entsorgungswegen, Kosten, Rechtssicherheit und geringe Akzeptanz.\r\nGetragen werden die Ergebnisse auch durch die Einsch\u00e4tzungen der Teilnehmenden zu den\r\nderzeitigen wesentlichen Hemmnissen f\u00fcr den Einsatz von MEB. Dazu geh\u00f6ren ma\u00dfgeblich\r\nmangelnde Rechtsverbindlichkeit bestehender Regelungen, fehlender Produktstatus, die\r\nVerf\u00fcgbarkeit sowie Akzeptanzprobleme von MEB. Nicht verwunderlich, dass sich die\r\nBefragten f\u00fcr einen besseren Einsatz von MEB in der Zukunft allen voran den Produktstatus\r\nsowie mehr Informationen, Handlungshilfen und Leitf\u00e4den w\u00fcnschen.\r\n2\r\nAuftraggeber der Umfrage waren der Bundesverband der Deutschen Entsorgungs-, Wasserund\r\nKreislaufwirtschaft BDE, der Bundesverband Mineralische Rohstoffe MIRO, der\r\nBundesverband Sekund\u00e4rrohstoffe und Entsorgung bvse, die Bundesvereinigung Recycling-\r\nBaustoffe BRB, das FEhS \u2013 Institut f\u00fcr Baustoff-Forschung, die G\u00fctegemeinschaft\r\nMetallh\u00fcttenschlacken GGMHS, die Interessengemeinschaft der Aufbereiter und Verwerter\r\nvon M\u00fcllverbrennungsschlacken IGAM sowie die Interessengemeinschaft der Thermischen\r\nAbfallbehandlungsanlagen in Deutschland ITAD.\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

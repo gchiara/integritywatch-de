@@ -1,0 +1,602 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-13T13:22:01.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-01-17T14:07:39.000+01:00",
+        "lastUpdateDate": "2024-06-18T10:27:26.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 34112,
+                "validFromDate": "2024-06-18T10:27:26.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 34104,
+                "validFromDate": "2024-05-24T12:51:41.000+02:00",
+                "validUntilDate": "2024-06-18T10:27:26.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 33984,
+                "validFromDate": "2024-05-23T14:55:54.000+02:00",
+                "validUntilDate": "2024-05-24T12:51:41.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 33975,
+                "validFromDate": "2024-05-23T13:34:28.000+02:00",
+                "validUntilDate": "2024-05-23T14:55:54.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 32078,
+                "validFromDate": "2024-04-24T10:17:01.000+02:00",
+                "validUntilDate": "2024-05-23T13:34:28.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 14117,
+                "validFromDate": "2023-02-13T13:22:01.000+01:00",
+                "validUntilDate": "2024-04-24T10:17:01.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Schwerpunkte des Verbandsengagements sind die politische Interessenvertretung, der wirtschaftliche und politische Informationsaustausch, die Vernetzung der Mitglieder mit Vertretern aus der Wirtschaft, Wissenschaft und der Politik, die Qualit\u00e4tssicherung und Nachwuchsf\u00f6rderung. Im DDV sind Auftraggeber von Dialogmarketing und ihre Dienstleister vertreten, u. a. Agenturen, Adress- und Informationsdienstleister, E-Mail-Dienstleister, Customer Services- und Contact-Center, Direct-Mail-Unternehmen sowie Werbungstreibende aus verschiedenen Wirtschaftszweigen. Mithilfe von Positionspapieren informieren wir \u00fcber Herausforderungen und Potenziale des Dialogmarketings, machen Vorschl\u00e4ge f\u00fcr gesetzliche Regelungen zur F\u00f6rderung eines ausgewogenen Datenschutz-, Verbraucherschutz und Wettbewerbsrechts. Der Verband pflegt den interfraktionellen Gedankenaustausch, um die Rahmenbedingungen der Freiheit der Kommunikation zu erhalten und die M\u00f6glichkeiten des Dialogmarketings einsetzen zu k\u00f6nnen. Es werden Fachveranstaltungen und Podien organisiert, aber auch unmittelbar Stellungnahmen und Gutachten ver\u00f6ffentlicht und/oder an Abgeordnete sowie an die Bundesregierung \u00fcbermittelt.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_OTHER",
+                "de": "Sonstige Interessenbereiche",
+                "en": "Other areas",
+                "fieldOfInterestText": "Zivilgesellschaft"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_SP_OTHER",
+                "de": "Sonstiges im Bereich \"Gesellschaftspolitik und soziale Gruppen\"",
+                "en": "Other in the field of \"Social politics and social groups\""
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_MEDIA_ADVERTISEMENT",
+                "de": "Werbung",
+                "en": "Advertising"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_MEDIA_OTHER",
+                "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                "en": "Other in the field of \"Media, communication and information technology\""
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/58/0d/295761/DDV-Bilanz.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/f1/af/295760/DDV-Verhaltenskodex-pol-Interessenvertretung.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.6,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 440001,
+            "to": 450000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Frankfurt",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Hahnstra\u00dfe",
+            "streetNumber": "70",
+            "type": "NATIONAL",
+            "zipCode": "60528"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "d.henze@ddv.de",
+            "phoneNumber": "+49509320933",
+            "street": "Franz\u00f6sische Stra\u00dfe",
+            "streetNumber": "12",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@ddv.de"
+                }
+            ],
+            "phoneNumber": "+4969401276500",
+            "websites": [
+                {
+                    "website": "www.ddv.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Franz Peter",
+                "lastName": "Altemeier",
+                "recentGovernmentFunction": {
+                    "endDate": "2022-05",
+                    "ended": true,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_MEMBER",
+                            "de": "Funktion f\u00fcr ein Mitglied des Deutschen Bundestages",
+                            "en": "Function for a member of the German Bundestag"
+                        },
+                        "functionPosition": "Mitarbeiter von Dr. Wieland Schinnenburg und Michael Kruse"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "firstName": "Daniela",
+                "lastName": "Henze",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Patrick",
+                "function": "Pr\u00e4sident",
+                "lastName": "Tapp",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Martin",
+                "function": "Pr\u00e4sident",
+                "lastName": "Nitsche",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Uebel",
+                "function": "Vizepr\u00e4sident",
+                "lastName": "Ulf",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-02-20",
+            "naturalPersons": 379,
+            "organizations": 478,
+            "totalCount": 857
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "The Federation of European Data and Marketing (FEDMA) "
+            },
+            {
+                "membership": "Zentralverband der deutschen Werbewirtschaft ZAW e.V."
+            },
+            {
+                "membership": "vbw - Vereinigung der Bayerischen Wirtschaft e. V."
+            },
+            {
+                "membership": "Zentrale zur Bek\u00e4mpfung des unlauteren Wettbewerbs e. V."
+            },
+            {
+                "membership": " Deutscher Verband f\u00fcr Post, Informationstechnologie und Telekommunikation e.V. (DVPT)"
+            },
+            {
+                "membership": "Netzwerk Public Affairs e.V."
+            },
+            {
+                "membership": "Wirtschaftspolitischer Club Deutschland (WPCD) e.V."
+            },
+            {
+                "membership": "GDMA Global Data and Marketing Alliance"
+            },
+            {
+                "membership": "Wirtschaftsrat der CDU e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "DDV Deutscher Dialogmarketing Verband e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 1040001,
+            "to": 1050000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000076/34112",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-04-24T10:17:01.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/e8/c4/295762/Lobbyregister-Detailansicht-R000076-2024-06-18_10-27-26.pdf",
+        "validFromDate": "2024-06-18T10:27:26.000+02:00",
+        "version": 9
+    },
+    "registerEntryId": 34112,
+    "registerNumber": "R000076",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BDSG",
+                        "title": "Bundesdatenschutzgesetz",
+                        "url": "https://www.gesetze-im-internet.de/bdsg_2018"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Der DDV setzt sich f\u00fcr eine gesetzliche Regelungen auf Basis aktueller Rechtsprechung des EuGH zur Speicherfrist f\u00fcr Auskunftsanfragen hinsichtlich der Empf\u00e4nger von Daten ein. Im Weiteren g\u00e4be das \u00c4nderungsgesetz die M\u00f6glichkeit, das Problem der doppelten Rechtswege (Zivil- und Verwaltungsrechtsweg) zu l\u00f6sen, indem ein Rechtsweg ausgesetzt w\u00fcrde unter Priorisierung des Zivilrechtsweges. Nicht zuletzt weist der DDV auf werberechtliche Missverst\u00e4ndnisse im Zusammenhang mit dem so genannten Lettershop-Verfahren hin.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/108/2010859.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMI",
+                                "title": "Bundesministerium des Innern und f\u00fcr Heimat",
+                                "url": "https://www.bmi.bund.de/DE/startseite/startseite-node.html"
+                            }
+                        ],
+                        "printingNumber": "20/10859",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/erstes-gesetz-zur-%C3%A4nderung-des-bundesdatenschutzgesetzes/308702",
+                        "title": "Entwurf eines Ersten Gesetzes zur \u00c4nderung des Bundesdatenschutzgesetzes"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0000442",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d9/1c/268671/Stellungnahme-Gutachten-SG2404170001.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-17"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0000442",
+                        "regulatoryProjectTitle": "Paragraf 34 I BDSG f\u00fcr Auskunftsanfragen und Paragraf 20 III zur Vermeidung paralleler Verfahren",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Der Deutsche Dialogmarketing Verband (DDV) ist der gr\u00f6\u00dfte nationale Zusammenschluss von Dialogmarketing-Unternehmen innerhalb der EU und geh\u00f6rt zu den Spitzenverb\u00e4nden der Kommunikationswirtschaft in Deutschland. Als die treibende Kraft der Data Driven Economy repr\u00e4sentiert der DDV Unternehmen, die Daten generieren oder f\u00fcr den professionellen datenbasierten und kundenzentrierten Dialog nutzen. Gemeinsam mit unseren Mitgliedern wollen wir substanzielle Mehrwerte durch individuelle Beziehungen zwischen Menschen, Marken und Unternehmen in einer vernetzten Welt schaffen. Schwerpunkte des Verbands- engagements sind politische Arbeit, Informationsaustausch, Qualit\u00e4tssicherung und Nachwuchsf\u00f6rderung.\r\nZusammenfassung\r\nDer DDV begr\u00fc\u00dft die im Entwurf aufgegriffenen Punkte zur Schaffung von Koh\u00e4renz zwischen dem Bundesdatenschutzgesetzes (BDSG) und der Datenschutz-Grund- verordnung (DS-GVO). Allerdings weist er auf einige werberechtliche Missver- st\u00e4ndnisse hin, insbesondere im Zusammenhang mit dem so genannten Lettershop- Verfahren, die im bevorstehenden Gesetzgebungsprozess ausger\u00e4umt werden sollten.\r\nDer DDV schl\u00e4gt vor, das Beispiel zur gemeinsamen Verantwortlichkeit im Lettershop- Verfahren aus der Kommentierung zu streichen. Er argumentiert, dass dieses Verfahren nicht als gemeinsame Verantwortlichkeit betrachtet werden sollte und die Nutzung von Datenbest\u00e4nden f\u00fcr Werbezwecke Dritter nicht in die Definition f\u00e4llt.\r\nDes Weiteren schl\u00e4gt der DDV vor, eine gesetzliche Regelung zur Speicherfrist f\u00fcr Auskunftsanfragen hinsichtlich der Empf\u00e4nger von Daten vorzunehmen, um die bestehende Rechtsunsicherheit zu kl\u00e4ren. Er bezieht sich auf die aktuelle Recht- sprechung des Europ\u00e4ischen Gerichtshofes (EuGH) und schl\u00e4gt vor, ab wann eine Auskunftsanfrage \u00fcber die Kategorien von Empf\u00e4ngern verweigert werden darf.\r\nSchlie\u00dflich spricht der DDV das Problem der doppelten Rechtswege (Zivil- und Verwaltungsrechtsweg) an und schl\u00e4gt vor, die M\u00f6glichkeit der Aussetzung eines Rechtsweges unter Priorisierung des Zivilrechtsweges einzuf\u00fchren, um parallele Verfahren zur selben Rechtssache zu vermeiden.\r\nInsgesamt betont der DDV die Bedeutung praxisorientierter L\u00f6sungen und die Notwendigkeit, den Datenschutz im Einklang mit den aktuellen Entwicklungen und Entscheidungen, insbesondere des EuGH, anzupassen.\r\nIm Einzelnen:\r\n1.\r\nArt. 1 Nr. 13 (\u201eNach \u00a7 40 wird folgender \u00a7 40a eingef\u00fcgt:\u201c)\r\na)\r\nKeine gemeinsam Verantwortlichen im Lettershop-Verfahren\r\nUm Missverst\u00e4ndisse zu vermeiden, sollte das Beispiel \u201eNutzung eigener Datenbest\u00e4nde f\u00fcr Werbezwecke Dritter\u201c als Anwendungsbeispiel einer gemeinsamer Verantwortlichkeit in der Kommentierung zu Art. 1 Nr. 13 (\u201eNach \u00a7 40 wird folgender\r\n\u00a7 40a eingef\u00fcgt\u201c) gestrichen werden.\r\n- 4 -\r\nDie Nutzung von Datenbest\u00e4nden f\u00fcr Werbezwecke Dritter wird in der Praxis als Lettershop-Verfahren bezeichnet. Im Rahmen dieses Verfahrens versenden Unternehmen an ihre eigenen Kontakte die Werbung von Dritten. Dies kann als Empfehlungswerbung erfolgen oder unter dem Briefkopf der Werbetreibenden. Die Werbetreibenden geben nur den Inhalt der Werbung vor, sind aber an der Verarbeitung der Daten der Adressaten nicht beteiligt. Die Unternehmen, die an ihre eigenen Kontakte Werbung versenden, werden als Adresseigner bezeichnet. Teilweise nutzen sie Dienstleister als Auftragsverarbeiter, um die Werbung zu versenden. Eine gemeinsame Verantwortlichkeit f\u00fcr die Verarbeitung personenbezogener Daten ist nicht ersichtlicht.Die in der Kommentierung erw\u00e4hnten Urteile des EuGH betrafen in keinem Fall die Konstellation einer Auftragsverarbeitung. Ob der EuGH durch eine weite Auslegung des Konzepts der gemeinsamen Verantwortlichkeit den Anwendungsbereich der Auftragsverarbeitung einschr\u00e4nken w\u00fcrde, d\u00fcrfte zweifelhaft sein. Die Dienstleister sind deshalb keine gemeinsamen Verantwortlichen.\r\nAber auch die Adresseigner und die Werbetreibenden sind keine gemeinsam Verantwortlichen. Der EuGH hat sich in den folgenden drei Urteilen mit der Frage befasst, wann bei der Verarbeitung von personenbezogenen Daten eine gemeinsame Verantwortlichkeit anzunehmen ist:\r\n\u2022\r\nUrteil vom 05.06.2018 - Az. C-210/16 - Unabh\u00e4ngiges Landeszentrum f\u00fcr Datenschutz Schleswig-Holstein (Fanpage)\r\n\u2022\r\nUrteil vom 10.07.2018 - Az. C-25/17 - Tietosuojavaltuutettu (Zeugen Jehovas)\r\n\u2022\r\nUrteil vom 29.07.2019 - Az. C-40/17 - Fashion ID GmbH & Co. KG (Fashion ID)\r\nAlle drei Urteile betrafen Fragen zur Auslegung der Europ\u00e4ischen Datenschutzrichtlinie (DSR), die mit Wirkung zum 25. Mai 2018 aufgehoben wurde. Das Konzept der gemeinsamen Verantwortlichkeit wurde in der DS-GVO explizit geregelt (Art. 26 DS- GVO), bestand jedoch vorher schon. Insofern sind die Urteile weiterhin von grunds\u00e4tzlicher Bedeutung, auch wenn sie nicht zur DS-GVO ergingen. Sie sind aber nicht Eins zu Eins auf die DS-GVO \u00fcbertragbar. Die Gr\u00fcnde des EuGH f\u00fcr eine weite Auslegung unter der alten DSR bestehen unter der DS-GVO nicht fort. Die DS-GVO regelt nicht nur die gemeinsame Verantwortlichkeit, sie hat auch Schutzl\u00fccken der DSR geschlossen. Die Anwendbarkeit auf Unternehmen in Drittl\u00e4ndern wurde auf Konstellationen erweitert, in denen betroffenen Personen in der Europ\u00e4ischen Union Waren oder Dienstleistungen angeboten werden. An einer solchen Regelung fehlte es unter der DSR im Fall \u201eGoogle Spain\u201c. Die Aufsichtsbeh\u00f6rden innerhalb der Europ\u00e4ischen Union sind zur Zusammenarbeit verpflichtet und f\u00fcr die Aufsicht \u00fcber grenz\u00fcberschreitend t\u00e4tige Unternehmen ist eine federf\u00fchrende Aufsichtsbeh\u00f6rde definiert. In den F\u00e4llen \u201eFanpage\u201c und \u201eFashion ID\u201c bestanden noch keine vergleichbaren Regelungen unter der DSR. Da diese Schutzl\u00fccken, die eine weite Auslegung unter der DSR rechtfertigten, nicht mehr bestehen, l\u00e4sst sich die\r\n- 5 -\r\nRechtsprechung des EuGH zur gemeinsamen Verantwortlichkeit nicht direkt auf die DS-GVO \u00fcbertragen.\r\nIn den zitierten Urteilen vertrat der EuGH die Ansicht, dass der Begriff des Verantwortlichen in den konkreten F\u00e4llen im Interesse eines wirksamen Pers\u00f6nlichkeitsschutzes weit auszulegen war. In allen drei F\u00e4llen gab es jedoch spezifische Gr\u00fcnde f\u00fcr eine solche weite Auslegung. Vorausgegangen war den Entscheidungen ein Urteil vom 13. Mai 2014, in dem der EuGH eine weite Auslegung des Begriffs des Verantwortlichen vorgenommen hat, um \u201eeinen wirksamen und umfassenden Schutz der betroffenen Personen zu gew\u00e4hrleisten\u201c (Az. C-131/12 - Google Spain und Google). Dieser Entscheidung wiederum ging ein Urteil vom 12. Juni 2011 voraus, das sich im Grundsatz f\u00fcr eine weite Auslegung europ\u00e4ischen Rechts aussprach, wenn ansonsten die \u201epraktische Wirksamkeit\u201c der Regelung beeintr\u00e4chtigt w\u00fcrde (Az. C\u2011324/09 - L\u02bcOr\u00e9al). F\u00fcr die Auslegung des Konzepts der gemeinsamen Verantwortlichkeit stellt sich deshalb zuerst die Frage, ob sich die Urteile auf Fallgestaltungen \u00fcbertragen lassen, in denen eine weite Auslegung nicht erforderlich ist, um die praktische Wirksamkeit des Schutzes zu gew\u00e4hrleisten. Das Konzept der gemeinsamen Verantwortlichkeit wird jedoch h\u00e4ufig weiter ausgelegt, als es zur praktischen Wirksamkeit der DS-GVO erforderlich ist.\r\nAuf das Lettershop-Verfahren sind die Entscheidungen au\u00dferdem nicht \u00fcbertragbar. Die \u201eFanpage\u201c-Entscheidung betraf die Nutzung von Facebook-Seiten durch Unternehmen, bei denen die Unternehmen dauerhaft ihre Fanpage eingerichtet und gepflegt haben. Au\u00dferdem bekamen sie R\u00fcckmeldungen \u00fcber die Nutzung der Fanpage. Der Sachverhalt liegt beim Lettershop-Verfahren anders, denn nach Vertragsschluss \u00fcber die Werbema\u00dfnahme liegt die Erf\u00fcllung des Vertrags nicht in der Hand des Werbetreibenden. Es gibt keine automatisierten Verfahren, die direkt vom Werbetreibenden gesteuert werden k\u00f6nnen. Die Phasen im Lettershop-Verfahren sind auf diese Weise klar getrennt, so dass nach den Grunds\u00e4tzen der \u201eFashion ID\u201c- Entscheidung eine gemeinsame Verantwortlichkeit ebenfalls ausscheidet.\r\nDas Brandenburgische Oberlandesgericht fasst die Anforderungen nach der \u201eFashion ID\u201c-Entscheidung zutreffend wie folgt zusammen:\r\n\u201eDie Verarbeitung personenbezogener Daten kann aus einem oder mehreren Vorg\u00e4ngen bestehen, von denen jeder eine der verschiedenen Phasen betrifft, die eine Verarbeitung personenbezogener Daten umfassen kann (EuGH, \u201eFashion ID/Verbraucherzentrale NRW\u201c, Urteil vom 29.07.2019 \u2013 C 40/17, BeckRS 2019, 15831, Rn. 72). Die Definition in Art. 4 Nr. 7 DSGVO legt dabei aber fest, dass die gemeinsame Verantwortung eine gemeinsame Entscheidung \u00fcber Zweck und Mittel der Datenverarbeitung voraussetzt. F\u00fcr vor- oder nachgelagerte Vorg\u00e4nge in einer Verarbeitungskette, f\u00fcr die eine Stelle weder den Zweck noch die Mittel festlegt, kann die verarbeitende Stelle nicht als verantwortlich angesehen werden (EuGH, Urteil vom\r\n- 6 -\r\n29.07.2019 \u2013 aaO Rn. 74).\u201c (Brandenburgisches Oberlandesgericht, Urteil vom 26. Mai 2023, Az. 7 U 166/22, GRUR-RS 2023, 11534)\r\nDer EuGH hat in der \u201eFashion ID\u201c-Entscheidung n\u00e4mlich bereits eine wichtige Einschr\u00e4nkung vorgenommen. Die gemeinsame Verantwortlichkeit soll sich auf den Vorgang oder die Vorg\u00e4nge beschr\u00e4nken, f\u00fcr die der Verantwortliche tats\u00e4chlich \u00fcber die Zwecke und Mittel mitentscheidet. All dies spricht daf\u00fcr, dass die Erforderlichkeit einer weiten Auslegung einzelfallbezogen und unter Ber\u00fccksichtigung der zus\u00e4tzlichen Schutzmechanismen der DS-GVO zu beurteilen ist. F\u00fcr das Lettershop-Verfahren scheidet das Konzept der gemeinsamen Verantwortlichkeit damit aus.\r\nSinn und Zweck des Lettershop-Verfahrens ist, dass keine datenschutzrechtliche \u00dcbermittlung von personenbezogenen Daten erfolgt. Deshalb sind die Dienstleister von den Adresseignern als Auftragsverarbeiter eingebunden. Auch die Werbetreibenden, denen die Adressen nicht \u00fcbermittelt werden, sind nicht als gemeinsam Verantwortliche mit dem Adresseigner anzusehen. Zwar entscheidet der Werbetreibende dar\u00fcber, dass an die selektierten Adressaten seine Werbung versendet wird. Dies erfolgt jedoch im Rahmen des Vertrages \u00fcber die Durchf\u00fchrung einer Werbema\u00dfnahme. Nach dem Vertragsschluss entscheiden allein die Adresseigner \u00fcber deren Durchf\u00fchrung. Die Entscheidungsphasen im Lettershop- Verfahren sind auf diese Weise klar getrennt, so dass nach den Grunds\u00e4tzen des Europ\u00e4ischen Gerichtshofs in der \u201eFashion-ID\u201c-Entscheidung eine gemeinsame Verantwortlichkeit ausscheidet.\r\nDiese Sichtweise wird auch der Rollenverteilung zwischen Adresseigner und Werbendem gerecht. Zudem erm\u00f6glichen die gesetzlichen Informationspflichten dem Betroffenen, seine Rechte - insbesondere sein Recht auf Auskunft, Berichtigung, L\u00f6schung (Art. 15-18 DS-GVO) sowie sein Widerspruchsrecht (Art. 21 DS-GVO) - ordnungsgem\u00e4\u00df aus\u00fcben zu k\u00f6nnen.\r\nb) Zust\u00e4ndige Aufsichtsbeh\u00f6rde gemeinsamverantwortlicher Unternehmen\r\nDer Gesetzentwurf trifft in \u00a7 40a BDSG (neu) eine Regelung zu der Frage, welche Aufsichtsbeh\u00f6rde f\u00fcr gemeinsame Verantwortliche zust\u00e4ndig ist.\r\nIm Text dieser Vorschrift werden die Begriffe \u201eAnzeige\u201c und \u201eAntrag\u201c verwendet. Ebenso wird der Begriff \u201eAntrag\u201c in der Begr\u00fcndung (\u201eSatz 3 schafft Rechtssicherheit f\u00fcr die F\u00e4lle, in denen der Antrag beziehungsweise die nachweisenden Unterlagen zu unterschiedlichen Zeitpunkten bei den Aufsichtsbeh\u00f6rden eingehen\u201c) benutzt. Da es jedoch keiner Entscheidung der Aufsichtsbeh\u00f6rden bedarf, sollte durchgehend das Wort \u201eAnzeige\u201c verwendet und das Wort \u201eAntragsstellung\u201c aus dem Gesetzestext gestrichen und in der Kommentierung nicht mehr verwendet werden\r\n- 7 -\r\n2. Vorschl\u00e4ge zur Nachbesserung des BDSG aufgrund aktueller Entscheidungen des EuGH\r\nDer DDV hat bereits im Juni 2023 auf dringenden Handlungsbedarf hinzuweisen, der durch die aktuelle Rechtsprechung des EuGH entstanden ist.1\r\na) Information \u00fcber Empf\u00e4nger\r\nSo schl\u00e4gt der DDV zu der offen gelassenen Frage der Speicherfrist im Bereich\r\n\u201eAuskunftspflicht\u201c auf Basis der aktuellen Rechtsprechung des EuGH vom 12. Januar 2023 (C-154/21) nach Art. 15 Abs. 1 Buchstabe c DS-GVO vor, ab wann eine Auskunftsanfrage hinsichtlich der Kategorien von Empf\u00e4ngern verweigert werden darf.\r\nDer EuGH erkennt an, dass unter Art. 13 Abs. 1 Buchstabe e und 14 Abs. 1 Buchstabe e DS-GVO die Information \u00fcber Kategorien Empf\u00e4nger ausreichend ist. Unter Art. 15 Abs. 1 Buchstabe c DS-GVO sollten aber die konkreten Empf\u00e4nger benannt werden, soweit dies mit angemessenem Aufwand m\u00f6glich ist. Die Vorgaben des Urteils des Europ\u00e4ischen Gerichtshofs entsprechen der Praxis im Dialogmarketing. Wenn Adress- oder Selektionsdaten an Dritte \u00fcbermittelt werden, dann werden die betroffenen Personen bereits im ersten Werbeschreiben nach Art. 14 DS-GVO hier\u00fcber informiert. Au\u00dferdem erhalten die betroffenen Personen auf Anfrage Auskunft nach Art. 15 DS- GVO dar\u00fcber, an wen personenbezogenen Daten zu ihrer Person \u00fcbermittelt wurden.\r\nOffen l\u00e4sst der Europ\u00e4ische Gerichtshof aber die f\u00fcr die Praxis wichtige Frage, f\u00fcr wie lange ein Unternehmen die konkreten Empf\u00e4nger von Daten dokumentieren soll, um eine solche Auskunft geben zu k\u00f6nnen. Bisher werden die konkreten Empf\u00e4nger im Bereich des Dialogmarketings h\u00e4ufig f\u00fcr ein Jahr gespeichert, um Auskunft geben zu k\u00f6nnen. Hinsichtlich der Speicherfrist besteht aber Rechtsunsicherheit.\r\nProblematisch sind mit Blick auf die Speicherung von Daten allein zur Erf\u00fcllung potentieller Auskunftsanspr\u00fcche die Grunds\u00e4tze der Datenminimierung unter Art. 5 Abs. 1 Buchstabe c DS-GVO und der Speicherbegrenzung unter Art. 5 Abs. 1 Buchstabe e DS-GVO. Fraglich ist entsprechend, ob die Erforderlichkeit nach Art. 6 Abs. 1 Satz 1 Buchstaben b bis f DS-GVO gegeben ist, wenn die Daten allein f\u00fcr die M\u00f6glichkeit eines Auskunftsbegehrens gespeichert werden. Dabei ist auch Art. 11 Abs. 1 DS-GVO zu ber\u00fccksichtigen, denn dort wird ausdr\u00fccklich geregelt, dass der Verantwortliche nicht verpflichtet ist, die Identifizierung einer Person (hier die Identifizierung an wen personenbezogene Daten dieser Personen \u00fcbermittelt wurden) nur zum Zwecke der Einhaltung der DS-GVO zu speichern. Der Europ\u00e4ische Gerichtshof scheint aber\r\n1 Siehe auch Initi ativs tellungahme des DDV v om 12. J uni 2023 zum Bericht des Bundesministerium des Inneren, f\u00fcr Bau und Heimat zur Evaluierung des Gesetzes zur Anpassung des Datenschutzrechts an die Verordnung (EU) 2016/679 und zur Umsetzung der Richtlinie (EU) 2016/680.\r\n- 8 -\r\nvorauszusetzen, dass die Speicherung der konkreten Empf\u00e4nger rechtm\u00e4\u00dfig erfolgen kann. Unklar bleibt, f\u00fcr wie lange eine solche Speicherung erfolgen darf.\r\nAus Sicht des DDV w\u00e4re eine gesetzliche Regelung zu der Frage sinnvoll, ab wann keine Auskunft \u00fcber die konkreten Empf\u00e4nger mehr erteilt werden muss. Dies w\u00fcrde die vom Europ\u00e4ischen Gerichtshof offen gelassene oder \u00fcbersehene Frage der Speicherfrist kl\u00e4ren. Der DDV schl\u00e4gt deshalb die Regelung dar\u00fcber vor, ab wann eine Auskunftsanfrage hinsichtlich der Kategorien von Empf\u00e4ngern verweigert werden darf. Dieser Zeitpunkt w\u00fcrde die Erforderlichkeit der Speicherung f\u00fcr Zwecke der Erteilung der Auskunft definieren.\r\nZur Umsetzung k\u00f6nnte beispielsweise \u00a7 34 Abs. 1 BDSG um eine neue Ziffer 3 wie folgt erg\u00e4nzt werden:\r\n\"3. und soweit das Auskunftsersuchen auf die Information \u00fcber die Empf\u00e4nger von Daten gerichtet ist und die Offenlegung der Daten mehr als ein Jahr zur\u00fcckliegt.\"\r\nb) Doppelter Rechtsweg\r\nDar\u00fcber hinaus nimmt sich der DDV hinsichtlich doppelter Rechtswege (Zivil- und Verwaltungsrechtsweg) des weiteren Urteils des EuGH vom 12. Januar 2023 (C- 132/21) an und schl\u00e4gt die M\u00f6glichkeit der Aussetzung eines Rechtsweges unter Priorisierung des Zivilrechtsweges vor, um parallele Verfahren zur selben Rechtssache zu vermeiden.\r\nZur Geltendmachung von Betroffenenrechten wird zuerst parallel eine Beschwerde bei der Aufsichtsbeh\u00f6rde und eine Klage vor dem Zivilgericht eingereicht. Wenn die Aufsichtsbeh\u00f6rde keinen Rechtsversto\u00df feststellen kann, erfolgt eine Klage vor dem Verwaltungsgericht. Beide Verfahren werden dann gleichzeitig fortgef\u00fchrt, denn damit ergeben sich zwei Chancen f\u00fcr die Kl\u00e4ger. Dies h\u00e4lt der Europ\u00e4ische Gerichtshof grunds\u00e4tzlich f\u00fcr zul\u00e4ssig.\r\nDas Ph\u00e4nomen der parallelen Geltendmachung ist in der Praxis jedoch mit starken Belastungen f\u00fcr die Aufsicht, Justiz und die betroffenen Verantwortlichen verbunden. Grunds\u00e4tzlich versucht deshalb das Verfahrensrecht solche Doppelbelastungen zu vermeiden.\r\nDer EuGH r\u00e4umt den Mitgliedstaaten aber einen Handlungsspielraum ein: \"Im Einklang mit dem Grundsatz der Verfahrensautonomie obliegt es den Mitgliedstaaten, die Modalit\u00e4ten des Zusammenspiels dieser Rechtsbehelfe zu regeln, um die Wirksamkeit des Schutzes der durch diese Verordnung garantierten Rechte, die gleichm\u00e4\u00dfige und einheitliche Anwendung ihrer Bestimmungen sowie das in Art. 47 der Charta\r\n- 9 -\r\nniedergelegte Recht auf einen wirksamen Rechtsbehelf bei einem Gericht zu gew\u00e4hrleisten.\"\r\nUm das Recht auf einen wirksamen Rechtsbehelf zu wahren, darf der Rechtsweg nicht vollst\u00e4ndig ausgeschlossen werden. Art. 81 DS-GVO enth\u00e4lt eine solche L\u00f6sung f\u00fcr den Fall, dass in verschiedenen Mitgliedstaaten gleichzeitig Klagen anh\u00e4ngig werden. Ausgehend davon, dass dies unter dem europ\u00e4ischen Rechtsschutzprinzip ein akzeptables Muster sein m\u00fcsste, schl\u00e4gt der DDV vor, diese L\u00f6sung im nationalen Recht entsprechend zu spiegeln, um parallele Verfahren zur selben Rechtssache zu vermeiden. Die Mechanik k\u00f6nnte auch hinsichtlich der parallelen Befassung durch verschiedene innerstaatliche Aufsichtsbeh\u00f6rden genutzt werden. Die Rechtsfolge w\u00e4re die M\u00f6glichkeit der Aussetzung, wobei der DDV eine Priorisierung des Zivilrechtswegs empfiehlt. Dies w\u00e4re auch deshalb von Vorteil, weil dann zugesprochene Schadensersatzanspr\u00fcche bei der Beurteilung der H\u00f6he eines Bu\u00dfgeldes mit ber\u00fccksichtigt werden k\u00f6nnten.\r\nZur Umsetzung k\u00f6nnte beispielsweise \u00a7 20 Abs. 3 BDSG wie folgt um einen zweiten Satz erg\u00e4nzt werden:\r\n\u201eIst ein Verfahren zu demselben Gegenstand in Bezug auf die Verarbeitung durch denselben Verantwortlichen oder Auftragsverarbeiter vor einem Zivilgericht in Deutschland anh\u00e4ngig, so kann das Verwaltungsgericht das bei ihm anh\u00e4ngige Verfahren aussetzen.\"\r\nKontakt bei weiteren Fragen:\r\nDaniela Henze, Leiterin Public Affairs und des Hauptstadtb\u00fcros Franz\u00f6sische Stra\u00dfe 12, 10117 Berlin, d.henze@ddv.de, +49 30 509 3209-33\r\nRechtsanwalt (Syndikus) Franz Peter Altemeier, Leiter Recht\r\nFranz\u00f6sische Stra\u00dfe 12, 10117 Berlin, fp.altemeier@ddv.de, +49 30 509 3209-44\r\nwww.ddv.de"
+                        }
+                    }
+                ],
+                "title": "Paragraf 34 I BDSG f\u00fcr Auskunftsanfragen und Paragraf 20 III zur Vermeidung paralleler Verfahren"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "UWG",
+                        "title": "Gesetz gegen den unlauteren Wettbewerb",
+                        "url": "https://www.gesetze-im-internet.de/uwg_2004"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Der DDV setzt sich f\u00fcr eine klare wettbewerbsrechtliche Beurteilung der Spendenwerbung ein. Ziel ist es, eine Gesetzes\u00e4nderung zu erwirken, die klarstellt, dass\r\nSpendenwerbung durch gemeinn\u00fctzige Organisationen nicht dem UWG unterf\u00e4llt und\r\nSpendenwerbung durch wirtschaftlich t\u00e4tige Unternehmen keine gesch\u00e4ftliche Handlung im Sinne des UWG darstellt, sofern der altruistische Zweck im Vordergrund steht und insbesondere kein Bezug zu Produkten oder Leistungen des Unternehmens hergestellt wird.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_ADVERTISEMENT",
+                        "de": "Werbung",
+                        "en": "Advertising"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_COMPETITION_LAW",
+                        "de": "Wettbewerbsrecht",
+                        "en": "Competition law"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0000443",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/0f/0b/268673/Stellungnahme-Gutachten-SG2404190002.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                        "de": "Bundesministerium der Justiz (BMJ)",
+                                        "en": "Bundesministerium der Justiz (BMJ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-20"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0000443",
+                        "regulatoryProjectTitle": "Gesetzl. Klarstellung f\u00fcr Spendenwerbung durch NGOs und Unternehmen; Rechtssicherer Rahmen. ",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n31. Mai 2023\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPositionspapier des\r\n\r\nDeutschen Dialogmarketing Verbandes e. V. (DDV)\r\n\r\nzur\r\n\r\nSpendenwerbung und NGO-Kommunikation in Deutschland\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHintergrund:\r\n\r\n\u2022 Soziales Engagement in Deutschland nimmt auf hohem Niveau weiter zu. Es wird mittlerweile sogar \r\nvon wirtschaftlich t\u00e4tigen Unternehmen erwartet und von diesen gelebt (Stichwort: Corporate Social \r\nResponsibility).\r\n\r\n\u2022 Die rechtlichen Voraussetzungen f\u00fcr Werbung um Spenden oder sonstiges soziales Engagement (im \r\nFolgenden zusammen \u201eSpendenwerbung\u201c) sind jedoch teilweise unklar. Im Fall von Verst\u00f6\u00dfen drohen, \r\ndabei, insbesondere seit Inkrafttreten der Datenschutz-Grundverordnung (DSGVO), hohe Bu\u00dfgelder. \r\nDiese Rechtsunsicherheit erschwert die Arbeit gemeinn\u00fctziger Organisationen und hemmt soziales \r\nEngagement wirtschaftlich t\u00e4tiger Unternehmen.\r\n\r\n\u2022 Entscheidend ist insbesondere die wettbewerbsrechtliche  Beurteilung der Spendenwerbung. Sofern \r\n(wie z.B. beim Direktmarketing) auch personenbezogene Daten verarbeitet werden, sind zwar auch \r\ndatenschutzrechtliche Bestimmungen und insbesondere die DSGVO zu beachten. In der Praxis wird \r\njedoch (wenn auch zu Unrecht) vielfach vertreten, dass die datenschutzrechtliche Bewertung \r\nzumindest im Regelfall der wettbewerbsrechtlichen Beurteilung folgt.\r\n\r\n\u2022 F\u00fcr die wettbewerbsrechtliche Beurteilung ist dabei von zentraler Bedeutung, ob Spendenwerbung \r\nals gesch\u00e4ftliche Handlung i.S.v. \u00a7 2 Abs. 1 Nr. 2 des Gesetzes gegen den unlauteren Wettbewerb \r\n(UWG) anzusehen ist, da das UWG nur dann Anwendung findet. Ebenfalls ma\u00dfgeblich ist, ob es sich bei \r\nSpendenwerbung auch um Werbung i.S.v. \u00a7 7 Abs. 2 UWG handelt, da sodann auch die strengen Vorgaben \r\nf\u00fcr das Direktmarketing zu beachten sind.\r\n\r\n\r\n\r\nSpendenwerbung durch gemeinn\u00fctzige Organisationen:\r\n\r\n\u2022 Auch wenn gemeinn\u00fctzige Unternehmen nicht generell aus dem Anwendungsbereich des UWG ausgenommen \r\nsind, steht die Rechtsprechung der Anwendung des Wettbewerbsrechts bei Spendenwerbung durch \r\ngemeinn\u00fctzige Organisationen traditionell ablehnend gegen\u00fcber. Dabei wurde (aufgrund der damaligen \r\nRechtslage) zumeist die Wettbewerbsf\u00f6rderungsabsicht verneint. Nach heutiger Rechtslage w\u00e4re \r\ninsoweit wohl eher auf den fehlenden Bezug zur F\u00f6rderung des Absatzes von Waren oder \r\nDienstleistungen abzustellen. Etwas anderes gilt jedoch, wenn zur Finanzierung wohlt\u00e4tiger Zwecke \r\nWaren oder Dienstleistungen vertrieben werden, da die T\u00e4tigkeit dann der Absatzf\u00f6rderung dient und \r\ndie Organisation in Konkurrenz zu kommerziellen Anbietern derselben Leistung tritt. In solchen \r\nF\u00e4llen k\u00f6nnte das UWG daher Anwendung finden.\r\n\r\n\u2022 In der Literatur wird diese Rechtsprechung mittlerweile jedoch teilweise kritisiert, da ein \r\nregulierungsbed\u00fcrftiger \u201eMarkt der Spendenwerber\u201c existiere. Die (f\u00fcr die Annahme einer \r\ngesch\u00e4ftlichen Handlung notwendige) Gegenleistung des Spendenempf\u00e4ngers soll dabei in der \r\nzweckentsprechenden Verwendung der Spende liegen. Daher m\u00fcsse zumindest Spendenwerbung \r\n\u201eprofessioneller Akteure\u201c, die regelm\u00e4\u00dfig Spenden\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nSeite 2 von 5\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\neinwerben und aus diesen Einnahmen auch ihre hauptamtlichen Mitarbeiter finanzieren, bei \r\nzweckgebundenen Spenden am Ma\u00dfstab des UWG gemessen werden.\r\n\r\n\u2022 Diese Kritik ist jedoch unberechtigt. Die Annahme es liege ein Vertrag mit gegenseitigen \r\nLeistungspflichten vor, ist weder mit der zivilrechtlichen Einordnung (regelm\u00e4\u00dfig Schenkung, ggf. \r\nunter Auflagen) noch der steuerlichen Definition von Spenden (freiwillig und ohne Gegenleistung \r\nerbrachte Leistung) vereinbar. Dar\u00fcber hinaus f\u00fchrt die nach dieser Auffassung notwendige \r\nDifferenzierung nach der Art der Spende (zweckgebunden oder frei), und dem Grad der \r\nProfessionalisierung des Empf\u00e4ngers (vereinzeltes oder regelm\u00e4\u00dfiges Spendenwerben, Bezahlung von \r\nMitarbeitern aus Spendeneinkommen) nicht zu sachgerechten Ergebnissen, da es zu einer Aufsplittung \r\nvon gesetzlichen Vorgaben innerhalb eines einheitlichen Umfelds anhand sachfremder Kriterien k\u00e4me.\r\n\r\n\u2022 Aufgrund dieser Literaturstimmen und einem Mangel an aktuellen gerichtlichen Entscheidungen \r\nbesteht jedoch nicht unerhebliche Rechtsunsicherheit, welche die T\u00e4tigkeit gemeinn\u00fctziger \r\nOrganisationen sp\u00fcrbar erschwert.\r\n\r\n\r\n\r\nSpendenwerbung durch wirtschaftlich t\u00e4tige Unternehmen:\r\n\r\n\u2022 Treten hingegen wirtschaftlich t\u00e4tige Unternehmen als Spendenwerber auf, unterf\u00e4llt die \r\nbetreffende Kommunikation als gesch\u00e4ftliche Handlung und Werbung i.S.d. UWG nach Auffassung der \r\nneueren Rechtsprechung in aller Regel den Bestimmungen des UWG. Sie wird damit wie \u201egew\u00f6hnliche\u201c, \r\nnicht-altruistische Werbung behandelt.\r\n\r\n\u2022 Begr\u00fcndet wird dies mit der weiten Auslegung der Begriffe Werbung und gesch\u00e4ftliche Handlung, die \r\nnach Rechtsprechung des Bundesgerichtshof auch die mittelbare Absatzf\u00f6rderung, z.B. durch \r\nKundenzufriedenheitsbefragungen erfassen. Da wirtschaftlich t\u00e4tige Unternehmen bei der Bewerbung \r\ngemeinn\u00fctziger Aktionen oder Zwecken in aller Regel zumindest auch die Verbesserung des eigenen \r\nImages beabsichtigen w\u00fcrden, dienen solche Ma\u00dfnahmen nach Ansicht der Rechtsprechung zumindest \r\nmittelbar der Absatzf\u00f6rderung und unterfallen somit dem UWG.\r\n\r\n\u2022 Der Rechtsprechung kann insoweit jedoch nicht beigetreten werden. Bereits die Erstreckung des \r\nBegriffes der gesch\u00e4ftlichen Handlung und des (als Unterfall eigentlich engeren) Begriffes Werbung \r\nauf die mittelbare Absatzf\u00f6rderung \u00fcberzeugt nicht, da die europ\u00e4ische Richtlinie gegen den \r\nUnlauteren Wettbewerb und seit dem 28. Mai 2022 auch das deutsche UWG gerade einen unmittelbaren \r\nZusammenhang der betreffenden T\u00e4tigkeit mit der Absatzf\u00f6rderung verlangen. Die Ausdehnung dieser \r\nBegriffe auf die nur mittelbare Absatzf\u00f6rderung l\u00e4uft daher dem Gesetzeswortlaut zuwider.\r\n\r\n\u2022 Es besteht auch kein Bed\u00fcrfnis f\u00fcr eine derart weite Auslegung. Denn Verbraucher und weitere \r\nMarktteilnehmer, die durch die Regelungen des \u00a7 7 Abs. 2 UWG gesch\u00fctzt werden sollen, erwarten \r\nzunehmend, dass auch wirtschaftlich t\u00e4tige Unternehmen sich sozial engagieren. Daher kann auch \r\ndavon ausgegangen werden, dass sie Spendenwerbung deutlich aufgeschlossener gegen\u00fcberstehen als \r\nsonstiger Werbung.\r\nSeite 3 von 5\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDie pauschale Annahme, dass Spendendirektwerbung ohne Einwilligung als Bel\u00e4stigung wahrgenommen \r\nwerde, \u00fcberzeugt daher nicht.\r\n\r\n\u2022 Zutreffend erscheint es vielmehr die strengen Vorgaben des UWG nur dann anzuwenden, wenn \r\nwirtschaftliche Interessen eines Unternehmens bei der Bewerbung eines gemeinn\u00fctzigen Zwecks \r\nerkennbar \u00fcberwiegen, da beispielsweise ein direkter Zusammenhang zum Absatz von Waren oder \r\nDienstleistungen hergestellt wird (z.B. \u201ewir spenden f\u00fcr jedes verkaufte Produkt\u201c). Steht hingegen \r\nder beworbene altruistische Zweck im Vordergrund, liegt mangels Bezug zur Absatzf\u00f6rderung schon \r\nkeine gesch\u00e4ftliche Handlung und somit erst recht keine Werbung i.S.d. UWG vor. Denn ein ggf. \r\nmittelbar aus einer solchen Spendenwerbung folgender wirtschaftlicher Vorteil, stellt sich dann als \r\nblo\u00dfer \u201eReflex der guten Tat\u201c dar und rechtfertigt die Anwendung der Regelungen des UWG nicht.\r\n\r\n\r\n\r\nM\u00f6gliche Ma\u00dfnahmen zur Verbesserung der aktuellen Situation:\r\n\r\n\u2022 Eine h\u00f6chstrichterliche Entscheidung oder Gesetzes\u00e4nderung durch die klargestellt wird, dass die \r\nSpendenwerbung durch gemeinn\u00fctzige Organisationen nicht dem UWG unterf\u00e4llt, w\u00e4re zur \r\nWiederherstellung der Rechtssicherheit w\u00fcnschenswert\r\n\r\n\u2022 Dringend geboten ist ein gesetzgeberisches Eingreifen im Hinblick auf die Spendenwerbung durch \r\nwirtschaftlich t\u00e4tige Unternehmen. Sinnvoll w\u00e4re hier eine differenzierende gesetzliche Regelung, \r\nnach der Spendenwerbung durch Unternehmen keine gesch\u00e4ftliche Handlung darstellt, sofern der \r\naltruistische Zweck im Vordergrund steht und insbesondere kein Bezug zu Produkten oder Leistungen \r\ndes Unternehmens hergestellt wird. Auf diese Weise w\u00fcrde ein rechtssicherer Handlungsrahmen f\u00fcr \r\nUnternehmen geschaffen. Zugleich w\u00fcrden Anreize gesetzt, auf\r\n\u201eechte\u201c (also nicht mit Werbung f\u00fcr eigene Angebote verkn\u00fcpfte) Spendenwerbung zu setzen.\r\n\r\n\u2022 Durch diese Ma\u00dfnahmen k\u00f6nnte, insbesondere vor dem Hintergrund des durch die DSGVO potenziell \r\ngestiegenen Bu\u00dfgeldrisikos bei der Direktwerbung, verhindert werden, dass das UWG und/oder die \r\nDSGVO sich als \u201eBremsklotz f\u00fcr soziales Engagement\u201c  erweisen.\r\n\r\nKontakt bei weiteren Fragen:\r\n\r\nDaniela Henze, Leiterin Public Affairs und des Hauptstadtb\u00fcros Franz\u00f6sische Stra\u00dfe 12, 10117 \r\nBerlin, d.henze@ddv.de, +49 30 509 3209-33\r\n\r\nRechtsanwalt (Syndikus) Franz Peter Altemeier, Leiter Recht\r\nFranz\u00f6sische Stra\u00dfe 12, 10117 Berlin, fp.altemeier@ddv.de, +49 30 509 3209-44 www.ddv.de\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nSeite 4 von 5\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u00dcber den DDV:\r\n\r\nDer Deutsche Dialogmarketing Verband ist der gr\u00f6\u00dfte nationale Zusammenschluss von \r\nDialogmarketing-Unternehmen innerhalb der EU und geh\u00f6rt zu den Spitzenverb\u00e4nden der \r\nKommunikationswirtschaft in Deutschland. Als die treibende Kraft der Data Driven Economy \r\nrepr\u00e4sentiert der DDV Unternehmen, die Daten generieren oder f\u00fcr den professionellen datenbasierten \r\nund kundenzentrierten Dialog nutzen. Gemeinsam mit unseren Mitgliedern wollen wir substanzielle \r\nMehrwerte durch individuelle Beziehungen zwischen Menschen, Marken und Unternehmen in einer \r\nvernetzten Welt schaffen. Schwerpunkte des Verbandsengagements sind politische Arbeit, \r\nInformationsaustausch, Qualit\u00e4tssicherung und Nachwuchsf\u00f6rderung.\r\n"
+                        }
+                    }
+                ],
+                "title": "Gesetzl. Klarstellung f\u00fcr Spendenwerbung durch NGOs und Unternehmen; Rechtssicherer Rahmen. "
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d9/1c/268671/Stellungnahme-Gutachten-SG2404170001.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-04-17"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0000442",
+                "regulatoryProjectTitle": "Paragraf 34 I BDSG f\u00fcr Auskunftsanfragen und Paragraf 20 III zur Vermeidung paralleler Verfahren",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Der Deutsche Dialogmarketing Verband (DDV) ist der gr\u00f6\u00dfte nationale Zusammenschluss von Dialogmarketing-Unternehmen innerhalb der EU und geh\u00f6rt zu den Spitzenverb\u00e4nden der Kommunikationswirtschaft in Deutschland. Als die treibende Kraft der Data Driven Economy repr\u00e4sentiert der DDV Unternehmen, die Daten generieren oder f\u00fcr den professionellen datenbasierten und kundenzentrierten Dialog nutzen. Gemeinsam mit unseren Mitgliedern wollen wir substanzielle Mehrwerte durch individuelle Beziehungen zwischen Menschen, Marken und Unternehmen in einer vernetzten Welt schaffen. Schwerpunkte des Verbands- engagements sind politische Arbeit, Informationsaustausch, Qualit\u00e4tssicherung und Nachwuchsf\u00f6rderung.\r\nZusammenfassung\r\nDer DDV begr\u00fc\u00dft die im Entwurf aufgegriffenen Punkte zur Schaffung von Koh\u00e4renz zwischen dem Bundesdatenschutzgesetzes (BDSG) und der Datenschutz-Grund- verordnung (DS-GVO). Allerdings weist er auf einige werberechtliche Missver- st\u00e4ndnisse hin, insbesondere im Zusammenhang mit dem so genannten Lettershop- Verfahren, die im bevorstehenden Gesetzgebungsprozess ausger\u00e4umt werden sollten.\r\nDer DDV schl\u00e4gt vor, das Beispiel zur gemeinsamen Verantwortlichkeit im Lettershop- Verfahren aus der Kommentierung zu streichen. Er argumentiert, dass dieses Verfahren nicht als gemeinsame Verantwortlichkeit betrachtet werden sollte und die Nutzung von Datenbest\u00e4nden f\u00fcr Werbezwecke Dritter nicht in die Definition f\u00e4llt.\r\nDes Weiteren schl\u00e4gt der DDV vor, eine gesetzliche Regelung zur Speicherfrist f\u00fcr Auskunftsanfragen hinsichtlich der Empf\u00e4nger von Daten vorzunehmen, um die bestehende Rechtsunsicherheit zu kl\u00e4ren. Er bezieht sich auf die aktuelle Recht- sprechung des Europ\u00e4ischen Gerichtshofes (EuGH) und schl\u00e4gt vor, ab wann eine Auskunftsanfrage \u00fcber die Kategorien von Empf\u00e4ngern verweigert werden darf.\r\nSchlie\u00dflich spricht der DDV das Problem der doppelten Rechtswege (Zivil- und Verwaltungsrechtsweg) an und schl\u00e4gt vor, die M\u00f6glichkeit der Aussetzung eines Rechtsweges unter Priorisierung des Zivilrechtsweges einzuf\u00fchren, um parallele Verfahren zur selben Rechtssache zu vermeiden.\r\nInsgesamt betont der DDV die Bedeutung praxisorientierter L\u00f6sungen und die Notwendigkeit, den Datenschutz im Einklang mit den aktuellen Entwicklungen und Entscheidungen, insbesondere des EuGH, anzupassen.\r\nIm Einzelnen:\r\n1.\r\nArt. 1 Nr. 13 (\u201eNach \u00a7 40 wird folgender \u00a7 40a eingef\u00fcgt:\u201c)\r\na)\r\nKeine gemeinsam Verantwortlichen im Lettershop-Verfahren\r\nUm Missverst\u00e4ndisse zu vermeiden, sollte das Beispiel \u201eNutzung eigener Datenbest\u00e4nde f\u00fcr Werbezwecke Dritter\u201c als Anwendungsbeispiel einer gemeinsamer Verantwortlichkeit in der Kommentierung zu Art. 1 Nr. 13 (\u201eNach \u00a7 40 wird folgender\r\n\u00a7 40a eingef\u00fcgt\u201c) gestrichen werden.\r\n- 4 -\r\nDie Nutzung von Datenbest\u00e4nden f\u00fcr Werbezwecke Dritter wird in der Praxis als Lettershop-Verfahren bezeichnet. Im Rahmen dieses Verfahrens versenden Unternehmen an ihre eigenen Kontakte die Werbung von Dritten. Dies kann als Empfehlungswerbung erfolgen oder unter dem Briefkopf der Werbetreibenden. Die Werbetreibenden geben nur den Inhalt der Werbung vor, sind aber an der Verarbeitung der Daten der Adressaten nicht beteiligt. Die Unternehmen, die an ihre eigenen Kontakte Werbung versenden, werden als Adresseigner bezeichnet. Teilweise nutzen sie Dienstleister als Auftragsverarbeiter, um die Werbung zu versenden. Eine gemeinsame Verantwortlichkeit f\u00fcr die Verarbeitung personenbezogener Daten ist nicht ersichtlicht.Die in der Kommentierung erw\u00e4hnten Urteile des EuGH betrafen in keinem Fall die Konstellation einer Auftragsverarbeitung. Ob der EuGH durch eine weite Auslegung des Konzepts der gemeinsamen Verantwortlichkeit den Anwendungsbereich der Auftragsverarbeitung einschr\u00e4nken w\u00fcrde, d\u00fcrfte zweifelhaft sein. Die Dienstleister sind deshalb keine gemeinsamen Verantwortlichen.\r\nAber auch die Adresseigner und die Werbetreibenden sind keine gemeinsam Verantwortlichen. Der EuGH hat sich in den folgenden drei Urteilen mit der Frage befasst, wann bei der Verarbeitung von personenbezogenen Daten eine gemeinsame Verantwortlichkeit anzunehmen ist:\r\n\u2022\r\nUrteil vom 05.06.2018 - Az. C-210/16 - Unabh\u00e4ngiges Landeszentrum f\u00fcr Datenschutz Schleswig-Holstein (Fanpage)\r\n\u2022\r\nUrteil vom 10.07.2018 - Az. C-25/17 - Tietosuojavaltuutettu (Zeugen Jehovas)\r\n\u2022\r\nUrteil vom 29.07.2019 - Az. C-40/17 - Fashion ID GmbH & Co. KG (Fashion ID)\r\nAlle drei Urteile betrafen Fragen zur Auslegung der Europ\u00e4ischen Datenschutzrichtlinie (DSR), die mit Wirkung zum 25. Mai 2018 aufgehoben wurde. Das Konzept der gemeinsamen Verantwortlichkeit wurde in der DS-GVO explizit geregelt (Art. 26 DS- GVO), bestand jedoch vorher schon. Insofern sind die Urteile weiterhin von grunds\u00e4tzlicher Bedeutung, auch wenn sie nicht zur DS-GVO ergingen. Sie sind aber nicht Eins zu Eins auf die DS-GVO \u00fcbertragbar. Die Gr\u00fcnde des EuGH f\u00fcr eine weite Auslegung unter der alten DSR bestehen unter der DS-GVO nicht fort. Die DS-GVO regelt nicht nur die gemeinsame Verantwortlichkeit, sie hat auch Schutzl\u00fccken der DSR geschlossen. Die Anwendbarkeit auf Unternehmen in Drittl\u00e4ndern wurde auf Konstellationen erweitert, in denen betroffenen Personen in der Europ\u00e4ischen Union Waren oder Dienstleistungen angeboten werden. An einer solchen Regelung fehlte es unter der DSR im Fall \u201eGoogle Spain\u201c. Die Aufsichtsbeh\u00f6rden innerhalb der Europ\u00e4ischen Union sind zur Zusammenarbeit verpflichtet und f\u00fcr die Aufsicht \u00fcber grenz\u00fcberschreitend t\u00e4tige Unternehmen ist eine federf\u00fchrende Aufsichtsbeh\u00f6rde definiert. In den F\u00e4llen \u201eFanpage\u201c und \u201eFashion ID\u201c bestanden noch keine vergleichbaren Regelungen unter der DSR. Da diese Schutzl\u00fccken, die eine weite Auslegung unter der DSR rechtfertigten, nicht mehr bestehen, l\u00e4sst sich die\r\n- 5 -\r\nRechtsprechung des EuGH zur gemeinsamen Verantwortlichkeit nicht direkt auf die DS-GVO \u00fcbertragen.\r\nIn den zitierten Urteilen vertrat der EuGH die Ansicht, dass der Begriff des Verantwortlichen in den konkreten F\u00e4llen im Interesse eines wirksamen Pers\u00f6nlichkeitsschutzes weit auszulegen war. In allen drei F\u00e4llen gab es jedoch spezifische Gr\u00fcnde f\u00fcr eine solche weite Auslegung. Vorausgegangen war den Entscheidungen ein Urteil vom 13. Mai 2014, in dem der EuGH eine weite Auslegung des Begriffs des Verantwortlichen vorgenommen hat, um \u201eeinen wirksamen und umfassenden Schutz der betroffenen Personen zu gew\u00e4hrleisten\u201c (Az. C-131/12 - Google Spain und Google). Dieser Entscheidung wiederum ging ein Urteil vom 12. Juni 2011 voraus, das sich im Grundsatz f\u00fcr eine weite Auslegung europ\u00e4ischen Rechts aussprach, wenn ansonsten die \u201epraktische Wirksamkeit\u201c der Regelung beeintr\u00e4chtigt w\u00fcrde (Az. C\u2011324/09 - L\u02bcOr\u00e9al). F\u00fcr die Auslegung des Konzepts der gemeinsamen Verantwortlichkeit stellt sich deshalb zuerst die Frage, ob sich die Urteile auf Fallgestaltungen \u00fcbertragen lassen, in denen eine weite Auslegung nicht erforderlich ist, um die praktische Wirksamkeit des Schutzes zu gew\u00e4hrleisten. Das Konzept der gemeinsamen Verantwortlichkeit wird jedoch h\u00e4ufig weiter ausgelegt, als es zur praktischen Wirksamkeit der DS-GVO erforderlich ist.\r\nAuf das Lettershop-Verfahren sind die Entscheidungen au\u00dferdem nicht \u00fcbertragbar. Die \u201eFanpage\u201c-Entscheidung betraf die Nutzung von Facebook-Seiten durch Unternehmen, bei denen die Unternehmen dauerhaft ihre Fanpage eingerichtet und gepflegt haben. Au\u00dferdem bekamen sie R\u00fcckmeldungen \u00fcber die Nutzung der Fanpage. Der Sachverhalt liegt beim Lettershop-Verfahren anders, denn nach Vertragsschluss \u00fcber die Werbema\u00dfnahme liegt die Erf\u00fcllung des Vertrags nicht in der Hand des Werbetreibenden. Es gibt keine automatisierten Verfahren, die direkt vom Werbetreibenden gesteuert werden k\u00f6nnen. Die Phasen im Lettershop-Verfahren sind auf diese Weise klar getrennt, so dass nach den Grunds\u00e4tzen der \u201eFashion ID\u201c- Entscheidung eine gemeinsame Verantwortlichkeit ebenfalls ausscheidet.\r\nDas Brandenburgische Oberlandesgericht fasst die Anforderungen nach der \u201eFashion ID\u201c-Entscheidung zutreffend wie folgt zusammen:\r\n\u201eDie Verarbeitung personenbezogener Daten kann aus einem oder mehreren Vorg\u00e4ngen bestehen, von denen jeder eine der verschiedenen Phasen betrifft, die eine Verarbeitung personenbezogener Daten umfassen kann (EuGH, \u201eFashion ID/Verbraucherzentrale NRW\u201c, Urteil vom 29.07.2019 \u2013 C 40/17, BeckRS 2019, 15831, Rn. 72). Die Definition in Art. 4 Nr. 7 DSGVO legt dabei aber fest, dass die gemeinsame Verantwortung eine gemeinsame Entscheidung \u00fcber Zweck und Mittel der Datenverarbeitung voraussetzt. F\u00fcr vor- oder nachgelagerte Vorg\u00e4nge in einer Verarbeitungskette, f\u00fcr die eine Stelle weder den Zweck noch die Mittel festlegt, kann die verarbeitende Stelle nicht als verantwortlich angesehen werden (EuGH, Urteil vom\r\n- 6 -\r\n29.07.2019 \u2013 aaO Rn. 74).\u201c (Brandenburgisches Oberlandesgericht, Urteil vom 26. Mai 2023, Az. 7 U 166/22, GRUR-RS 2023, 11534)\r\nDer EuGH hat in der \u201eFashion ID\u201c-Entscheidung n\u00e4mlich bereits eine wichtige Einschr\u00e4nkung vorgenommen. Die gemeinsame Verantwortlichkeit soll sich auf den Vorgang oder die Vorg\u00e4nge beschr\u00e4nken, f\u00fcr die der Verantwortliche tats\u00e4chlich \u00fcber die Zwecke und Mittel mitentscheidet. All dies spricht daf\u00fcr, dass die Erforderlichkeit einer weiten Auslegung einzelfallbezogen und unter Ber\u00fccksichtigung der zus\u00e4tzlichen Schutzmechanismen der DS-GVO zu beurteilen ist. F\u00fcr das Lettershop-Verfahren scheidet das Konzept der gemeinsamen Verantwortlichkeit damit aus.\r\nSinn und Zweck des Lettershop-Verfahrens ist, dass keine datenschutzrechtliche \u00dcbermittlung von personenbezogenen Daten erfolgt. Deshalb sind die Dienstleister von den Adresseignern als Auftragsverarbeiter eingebunden. Auch die Werbetreibenden, denen die Adressen nicht \u00fcbermittelt werden, sind nicht als gemeinsam Verantwortliche mit dem Adresseigner anzusehen. Zwar entscheidet der Werbetreibende dar\u00fcber, dass an die selektierten Adressaten seine Werbung versendet wird. Dies erfolgt jedoch im Rahmen des Vertrages \u00fcber die Durchf\u00fchrung einer Werbema\u00dfnahme. Nach dem Vertragsschluss entscheiden allein die Adresseigner \u00fcber deren Durchf\u00fchrung. Die Entscheidungsphasen im Lettershop- Verfahren sind auf diese Weise klar getrennt, so dass nach den Grunds\u00e4tzen des Europ\u00e4ischen Gerichtshofs in der \u201eFashion-ID\u201c-Entscheidung eine gemeinsame Verantwortlichkeit ausscheidet.\r\nDiese Sichtweise wird auch der Rollenverteilung zwischen Adresseigner und Werbendem gerecht. Zudem erm\u00f6glichen die gesetzlichen Informationspflichten dem Betroffenen, seine Rechte - insbesondere sein Recht auf Auskunft, Berichtigung, L\u00f6schung (Art. 15-18 DS-GVO) sowie sein Widerspruchsrecht (Art. 21 DS-GVO) - ordnungsgem\u00e4\u00df aus\u00fcben zu k\u00f6nnen.\r\nb) Zust\u00e4ndige Aufsichtsbeh\u00f6rde gemeinsamverantwortlicher Unternehmen\r\nDer Gesetzentwurf trifft in \u00a7 40a BDSG (neu) eine Regelung zu der Frage, welche Aufsichtsbeh\u00f6rde f\u00fcr gemeinsame Verantwortliche zust\u00e4ndig ist.\r\nIm Text dieser Vorschrift werden die Begriffe \u201eAnzeige\u201c und \u201eAntrag\u201c verwendet. Ebenso wird der Begriff \u201eAntrag\u201c in der Begr\u00fcndung (\u201eSatz 3 schafft Rechtssicherheit f\u00fcr die F\u00e4lle, in denen der Antrag beziehungsweise die nachweisenden Unterlagen zu unterschiedlichen Zeitpunkten bei den Aufsichtsbeh\u00f6rden eingehen\u201c) benutzt. Da es jedoch keiner Entscheidung der Aufsichtsbeh\u00f6rden bedarf, sollte durchgehend das Wort \u201eAnzeige\u201c verwendet und das Wort \u201eAntragsstellung\u201c aus dem Gesetzestext gestrichen und in der Kommentierung nicht mehr verwendet werden\r\n- 7 -\r\n2. Vorschl\u00e4ge zur Nachbesserung des BDSG aufgrund aktueller Entscheidungen des EuGH\r\nDer DDV hat bereits im Juni 2023 auf dringenden Handlungsbedarf hinzuweisen, der durch die aktuelle Rechtsprechung des EuGH entstanden ist.1\r\na) Information \u00fcber Empf\u00e4nger\r\nSo schl\u00e4gt der DDV zu der offen gelassenen Frage der Speicherfrist im Bereich\r\n\u201eAuskunftspflicht\u201c auf Basis der aktuellen Rechtsprechung des EuGH vom 12. Januar 2023 (C-154/21) nach Art. 15 Abs. 1 Buchstabe c DS-GVO vor, ab wann eine Auskunftsanfrage hinsichtlich der Kategorien von Empf\u00e4ngern verweigert werden darf.\r\nDer EuGH erkennt an, dass unter Art. 13 Abs. 1 Buchstabe e und 14 Abs. 1 Buchstabe e DS-GVO die Information \u00fcber Kategorien Empf\u00e4nger ausreichend ist. Unter Art. 15 Abs. 1 Buchstabe c DS-GVO sollten aber die konkreten Empf\u00e4nger benannt werden, soweit dies mit angemessenem Aufwand m\u00f6glich ist. Die Vorgaben des Urteils des Europ\u00e4ischen Gerichtshofs entsprechen der Praxis im Dialogmarketing. Wenn Adress- oder Selektionsdaten an Dritte \u00fcbermittelt werden, dann werden die betroffenen Personen bereits im ersten Werbeschreiben nach Art. 14 DS-GVO hier\u00fcber informiert. Au\u00dferdem erhalten die betroffenen Personen auf Anfrage Auskunft nach Art. 15 DS- GVO dar\u00fcber, an wen personenbezogenen Daten zu ihrer Person \u00fcbermittelt wurden.\r\nOffen l\u00e4sst der Europ\u00e4ische Gerichtshof aber die f\u00fcr die Praxis wichtige Frage, f\u00fcr wie lange ein Unternehmen die konkreten Empf\u00e4nger von Daten dokumentieren soll, um eine solche Auskunft geben zu k\u00f6nnen. Bisher werden die konkreten Empf\u00e4nger im Bereich des Dialogmarketings h\u00e4ufig f\u00fcr ein Jahr gespeichert, um Auskunft geben zu k\u00f6nnen. Hinsichtlich der Speicherfrist besteht aber Rechtsunsicherheit.\r\nProblematisch sind mit Blick auf die Speicherung von Daten allein zur Erf\u00fcllung potentieller Auskunftsanspr\u00fcche die Grunds\u00e4tze der Datenminimierung unter Art. 5 Abs. 1 Buchstabe c DS-GVO und der Speicherbegrenzung unter Art. 5 Abs. 1 Buchstabe e DS-GVO. Fraglich ist entsprechend, ob die Erforderlichkeit nach Art. 6 Abs. 1 Satz 1 Buchstaben b bis f DS-GVO gegeben ist, wenn die Daten allein f\u00fcr die M\u00f6glichkeit eines Auskunftsbegehrens gespeichert werden. Dabei ist auch Art. 11 Abs. 1 DS-GVO zu ber\u00fccksichtigen, denn dort wird ausdr\u00fccklich geregelt, dass der Verantwortliche nicht verpflichtet ist, die Identifizierung einer Person (hier die Identifizierung an wen personenbezogene Daten dieser Personen \u00fcbermittelt wurden) nur zum Zwecke der Einhaltung der DS-GVO zu speichern. Der Europ\u00e4ische Gerichtshof scheint aber\r\n1 Siehe auch Initi ativs tellungahme des DDV v om 12. J uni 2023 zum Bericht des Bundesministerium des Inneren, f\u00fcr Bau und Heimat zur Evaluierung des Gesetzes zur Anpassung des Datenschutzrechts an die Verordnung (EU) 2016/679 und zur Umsetzung der Richtlinie (EU) 2016/680.\r\n- 8 -\r\nvorauszusetzen, dass die Speicherung der konkreten Empf\u00e4nger rechtm\u00e4\u00dfig erfolgen kann. Unklar bleibt, f\u00fcr wie lange eine solche Speicherung erfolgen darf.\r\nAus Sicht des DDV w\u00e4re eine gesetzliche Regelung zu der Frage sinnvoll, ab wann keine Auskunft \u00fcber die konkreten Empf\u00e4nger mehr erteilt werden muss. Dies w\u00fcrde die vom Europ\u00e4ischen Gerichtshof offen gelassene oder \u00fcbersehene Frage der Speicherfrist kl\u00e4ren. Der DDV schl\u00e4gt deshalb die Regelung dar\u00fcber vor, ab wann eine Auskunftsanfrage hinsichtlich der Kategorien von Empf\u00e4ngern verweigert werden darf. Dieser Zeitpunkt w\u00fcrde die Erforderlichkeit der Speicherung f\u00fcr Zwecke der Erteilung der Auskunft definieren.\r\nZur Umsetzung k\u00f6nnte beispielsweise \u00a7 34 Abs. 1 BDSG um eine neue Ziffer 3 wie folgt erg\u00e4nzt werden:\r\n\"3. und soweit das Auskunftsersuchen auf die Information \u00fcber die Empf\u00e4nger von Daten gerichtet ist und die Offenlegung der Daten mehr als ein Jahr zur\u00fcckliegt.\"\r\nb) Doppelter Rechtsweg\r\nDar\u00fcber hinaus nimmt sich der DDV hinsichtlich doppelter Rechtswege (Zivil- und Verwaltungsrechtsweg) des weiteren Urteils des EuGH vom 12. Januar 2023 (C- 132/21) an und schl\u00e4gt die M\u00f6glichkeit der Aussetzung eines Rechtsweges unter Priorisierung des Zivilrechtsweges vor, um parallele Verfahren zur selben Rechtssache zu vermeiden.\r\nZur Geltendmachung von Betroffenenrechten wird zuerst parallel eine Beschwerde bei der Aufsichtsbeh\u00f6rde und eine Klage vor dem Zivilgericht eingereicht. Wenn die Aufsichtsbeh\u00f6rde keinen Rechtsversto\u00df feststellen kann, erfolgt eine Klage vor dem Verwaltungsgericht. Beide Verfahren werden dann gleichzeitig fortgef\u00fchrt, denn damit ergeben sich zwei Chancen f\u00fcr die Kl\u00e4ger. Dies h\u00e4lt der Europ\u00e4ische Gerichtshof grunds\u00e4tzlich f\u00fcr zul\u00e4ssig.\r\nDas Ph\u00e4nomen der parallelen Geltendmachung ist in der Praxis jedoch mit starken Belastungen f\u00fcr die Aufsicht, Justiz und die betroffenen Verantwortlichen verbunden. Grunds\u00e4tzlich versucht deshalb das Verfahrensrecht solche Doppelbelastungen zu vermeiden.\r\nDer EuGH r\u00e4umt den Mitgliedstaaten aber einen Handlungsspielraum ein: \"Im Einklang mit dem Grundsatz der Verfahrensautonomie obliegt es den Mitgliedstaaten, die Modalit\u00e4ten des Zusammenspiels dieser Rechtsbehelfe zu regeln, um die Wirksamkeit des Schutzes der durch diese Verordnung garantierten Rechte, die gleichm\u00e4\u00dfige und einheitliche Anwendung ihrer Bestimmungen sowie das in Art. 47 der Charta\r\n- 9 -\r\nniedergelegte Recht auf einen wirksamen Rechtsbehelf bei einem Gericht zu gew\u00e4hrleisten.\"\r\nUm das Recht auf einen wirksamen Rechtsbehelf zu wahren, darf der Rechtsweg nicht vollst\u00e4ndig ausgeschlossen werden. Art. 81 DS-GVO enth\u00e4lt eine solche L\u00f6sung f\u00fcr den Fall, dass in verschiedenen Mitgliedstaaten gleichzeitig Klagen anh\u00e4ngig werden. Ausgehend davon, dass dies unter dem europ\u00e4ischen Rechtsschutzprinzip ein akzeptables Muster sein m\u00fcsste, schl\u00e4gt der DDV vor, diese L\u00f6sung im nationalen Recht entsprechend zu spiegeln, um parallele Verfahren zur selben Rechtssache zu vermeiden. Die Mechanik k\u00f6nnte auch hinsichtlich der parallelen Befassung durch verschiedene innerstaatliche Aufsichtsbeh\u00f6rden genutzt werden. Die Rechtsfolge w\u00e4re die M\u00f6glichkeit der Aussetzung, wobei der DDV eine Priorisierung des Zivilrechtswegs empfiehlt. Dies w\u00e4re auch deshalb von Vorteil, weil dann zugesprochene Schadensersatzanspr\u00fcche bei der Beurteilung der H\u00f6he eines Bu\u00dfgeldes mit ber\u00fccksichtigt werden k\u00f6nnten.\r\nZur Umsetzung k\u00f6nnte beispielsweise \u00a7 20 Abs. 3 BDSG wie folgt um einen zweiten Satz erg\u00e4nzt werden:\r\n\u201eIst ein Verfahren zu demselben Gegenstand in Bezug auf die Verarbeitung durch denselben Verantwortlichen oder Auftragsverarbeiter vor einem Zivilgericht in Deutschland anh\u00e4ngig, so kann das Verwaltungsgericht das bei ihm anh\u00e4ngige Verfahren aussetzen.\"\r\nKontakt bei weiteren Fragen:\r\nDaniela Henze, Leiterin Public Affairs und des Hauptstadtb\u00fcros Franz\u00f6sische Stra\u00dfe 12, 10117 Berlin, d.henze@ddv.de, +49 30 509 3209-33\r\nRechtsanwalt (Syndikus) Franz Peter Altemeier, Leiter Recht\r\nFranz\u00f6sische Stra\u00dfe 12, 10117 Berlin, fp.altemeier@ddv.de, +49 30 509 3209-44\r\nwww.ddv.de"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/0f/0b/268673/Stellungnahme-Gutachten-SG2404190002.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                "de": "Bundesministerium der Justiz (BMJ)",
+                                "en": "Bundesministerium der Justiz (BMJ)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-20"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0000443",
+                "regulatoryProjectTitle": "Gesetzl. Klarstellung f\u00fcr Spendenwerbung durch NGOs und Unternehmen; Rechtssicherer Rahmen. ",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n31. Mai 2023\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPositionspapier des\r\n\r\nDeutschen Dialogmarketing Verbandes e. V. (DDV)\r\n\r\nzur\r\n\r\nSpendenwerbung und NGO-Kommunikation in Deutschland\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nHintergrund:\r\n\r\n\u2022 Soziales Engagement in Deutschland nimmt auf hohem Niveau weiter zu. Es wird mittlerweile sogar \r\nvon wirtschaftlich t\u00e4tigen Unternehmen erwartet und von diesen gelebt (Stichwort: Corporate Social \r\nResponsibility).\r\n\r\n\u2022 Die rechtlichen Voraussetzungen f\u00fcr Werbung um Spenden oder sonstiges soziales Engagement (im \r\nFolgenden zusammen \u201eSpendenwerbung\u201c) sind jedoch teilweise unklar. Im Fall von Verst\u00f6\u00dfen drohen, \r\ndabei, insbesondere seit Inkrafttreten der Datenschutz-Grundverordnung (DSGVO), hohe Bu\u00dfgelder. \r\nDiese Rechtsunsicherheit erschwert die Arbeit gemeinn\u00fctziger Organisationen und hemmt soziales \r\nEngagement wirtschaftlich t\u00e4tiger Unternehmen.\r\n\r\n\u2022 Entscheidend ist insbesondere die wettbewerbsrechtliche  Beurteilung der Spendenwerbung. Sofern \r\n(wie z.B. beim Direktmarketing) auch personenbezogene Daten verarbeitet werden, sind zwar auch \r\ndatenschutzrechtliche Bestimmungen und insbesondere die DSGVO zu beachten. In der Praxis wird \r\njedoch (wenn auch zu Unrecht) vielfach vertreten, dass die datenschutzrechtliche Bewertung \r\nzumindest im Regelfall der wettbewerbsrechtlichen Beurteilung folgt.\r\n\r\n\u2022 F\u00fcr die wettbewerbsrechtliche Beurteilung ist dabei von zentraler Bedeutung, ob Spendenwerbung \r\nals gesch\u00e4ftliche Handlung i.S.v. \u00a7 2 Abs. 1 Nr. 2 des Gesetzes gegen den unlauteren Wettbewerb \r\n(UWG) anzusehen ist, da das UWG nur dann Anwendung findet. Ebenfalls ma\u00dfgeblich ist, ob es sich bei \r\nSpendenwerbung auch um Werbung i.S.v. \u00a7 7 Abs. 2 UWG handelt, da sodann auch die strengen Vorgaben \r\nf\u00fcr das Direktmarketing zu beachten sind.\r\n\r\n\r\n\r\nSpendenwerbung durch gemeinn\u00fctzige Organisationen:\r\n\r\n\u2022 Auch wenn gemeinn\u00fctzige Unternehmen nicht generell aus dem Anwendungsbereich des UWG ausgenommen \r\nsind, steht die Rechtsprechung der Anwendung des Wettbewerbsrechts bei Spendenwerbung durch \r\ngemeinn\u00fctzige Organisationen traditionell ablehnend gegen\u00fcber. Dabei wurde (aufgrund der damaligen \r\nRechtslage) zumeist die Wettbewerbsf\u00f6rderungsabsicht verneint. Nach heutiger Rechtslage w\u00e4re \r\ninsoweit wohl eher auf den fehlenden Bezug zur F\u00f6rderung des Absatzes von Waren oder \r\nDienstleistungen abzustellen. Etwas anderes gilt jedoch, wenn zur Finanzierung wohlt\u00e4tiger Zwecke \r\nWaren oder Dienstleistungen vertrieben werden, da die T\u00e4tigkeit dann der Absatzf\u00f6rderung dient und \r\ndie Organisation in Konkurrenz zu kommerziellen Anbietern derselben Leistung tritt. In solchen \r\nF\u00e4llen k\u00f6nnte das UWG daher Anwendung finden.\r\n\r\n\u2022 In der Literatur wird diese Rechtsprechung mittlerweile jedoch teilweise kritisiert, da ein \r\nregulierungsbed\u00fcrftiger \u201eMarkt der Spendenwerber\u201c existiere. Die (f\u00fcr die Annahme einer \r\ngesch\u00e4ftlichen Handlung notwendige) Gegenleistung des Spendenempf\u00e4ngers soll dabei in der \r\nzweckentsprechenden Verwendung der Spende liegen. Daher m\u00fcsse zumindest Spendenwerbung \r\n\u201eprofessioneller Akteure\u201c, die regelm\u00e4\u00dfig Spenden\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nSeite 2 von 5\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\neinwerben und aus diesen Einnahmen auch ihre hauptamtlichen Mitarbeiter finanzieren, bei \r\nzweckgebundenen Spenden am Ma\u00dfstab des UWG gemessen werden.\r\n\r\n\u2022 Diese Kritik ist jedoch unberechtigt. Die Annahme es liege ein Vertrag mit gegenseitigen \r\nLeistungspflichten vor, ist weder mit der zivilrechtlichen Einordnung (regelm\u00e4\u00dfig Schenkung, ggf. \r\nunter Auflagen) noch der steuerlichen Definition von Spenden (freiwillig und ohne Gegenleistung \r\nerbrachte Leistung) vereinbar. Dar\u00fcber hinaus f\u00fchrt die nach dieser Auffassung notwendige \r\nDifferenzierung nach der Art der Spende (zweckgebunden oder frei), und dem Grad der \r\nProfessionalisierung des Empf\u00e4ngers (vereinzeltes oder regelm\u00e4\u00dfiges Spendenwerben, Bezahlung von \r\nMitarbeitern aus Spendeneinkommen) nicht zu sachgerechten Ergebnissen, da es zu einer Aufsplittung \r\nvon gesetzlichen Vorgaben innerhalb eines einheitlichen Umfelds anhand sachfremder Kriterien k\u00e4me.\r\n\r\n\u2022 Aufgrund dieser Literaturstimmen und einem Mangel an aktuellen gerichtlichen Entscheidungen \r\nbesteht jedoch nicht unerhebliche Rechtsunsicherheit, welche die T\u00e4tigkeit gemeinn\u00fctziger \r\nOrganisationen sp\u00fcrbar erschwert.\r\n\r\n\r\n\r\nSpendenwerbung durch wirtschaftlich t\u00e4tige Unternehmen:\r\n\r\n\u2022 Treten hingegen wirtschaftlich t\u00e4tige Unternehmen als Spendenwerber auf, unterf\u00e4llt die \r\nbetreffende Kommunikation als gesch\u00e4ftliche Handlung und Werbung i.S.d. UWG nach Auffassung der \r\nneueren Rechtsprechung in aller Regel den Bestimmungen des UWG. Sie wird damit wie \u201egew\u00f6hnliche\u201c, \r\nnicht-altruistische Werbung behandelt.\r\n\r\n\u2022 Begr\u00fcndet wird dies mit der weiten Auslegung der Begriffe Werbung und gesch\u00e4ftliche Handlung, die \r\nnach Rechtsprechung des Bundesgerichtshof auch die mittelbare Absatzf\u00f6rderung, z.B. durch \r\nKundenzufriedenheitsbefragungen erfassen. Da wirtschaftlich t\u00e4tige Unternehmen bei der Bewerbung \r\ngemeinn\u00fctziger Aktionen oder Zwecken in aller Regel zumindest auch die Verbesserung des eigenen \r\nImages beabsichtigen w\u00fcrden, dienen solche Ma\u00dfnahmen nach Ansicht der Rechtsprechung zumindest \r\nmittelbar der Absatzf\u00f6rderung und unterfallen somit dem UWG.\r\n\r\n\u2022 Der Rechtsprechung kann insoweit jedoch nicht beigetreten werden. Bereits die Erstreckung des \r\nBegriffes der gesch\u00e4ftlichen Handlung und des (als Unterfall eigentlich engeren) Begriffes Werbung \r\nauf die mittelbare Absatzf\u00f6rderung \u00fcberzeugt nicht, da die europ\u00e4ische Richtlinie gegen den \r\nUnlauteren Wettbewerb und seit dem 28. Mai 2022 auch das deutsche UWG gerade einen unmittelbaren \r\nZusammenhang der betreffenden T\u00e4tigkeit mit der Absatzf\u00f6rderung verlangen. Die Ausdehnung dieser \r\nBegriffe auf die nur mittelbare Absatzf\u00f6rderung l\u00e4uft daher dem Gesetzeswortlaut zuwider.\r\n\r\n\u2022 Es besteht auch kein Bed\u00fcrfnis f\u00fcr eine derart weite Auslegung. Denn Verbraucher und weitere \r\nMarktteilnehmer, die durch die Regelungen des \u00a7 7 Abs. 2 UWG gesch\u00fctzt werden sollen, erwarten \r\nzunehmend, dass auch wirtschaftlich t\u00e4tige Unternehmen sich sozial engagieren. Daher kann auch \r\ndavon ausgegangen werden, dass sie Spendenwerbung deutlich aufgeschlossener gegen\u00fcberstehen als \r\nsonstiger Werbung.\r\nSeite 3 von 5\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDie pauschale Annahme, dass Spendendirektwerbung ohne Einwilligung als Bel\u00e4stigung wahrgenommen \r\nwerde, \u00fcberzeugt daher nicht.\r\n\r\n\u2022 Zutreffend erscheint es vielmehr die strengen Vorgaben des UWG nur dann anzuwenden, wenn \r\nwirtschaftliche Interessen eines Unternehmens bei der Bewerbung eines gemeinn\u00fctzigen Zwecks \r\nerkennbar \u00fcberwiegen, da beispielsweise ein direkter Zusammenhang zum Absatz von Waren oder \r\nDienstleistungen hergestellt wird (z.B. \u201ewir spenden f\u00fcr jedes verkaufte Produkt\u201c). Steht hingegen \r\nder beworbene altruistische Zweck im Vordergrund, liegt mangels Bezug zur Absatzf\u00f6rderung schon \r\nkeine gesch\u00e4ftliche Handlung und somit erst recht keine Werbung i.S.d. UWG vor. Denn ein ggf. \r\nmittelbar aus einer solchen Spendenwerbung folgender wirtschaftlicher Vorteil, stellt sich dann als \r\nblo\u00dfer \u201eReflex der guten Tat\u201c dar und rechtfertigt die Anwendung der Regelungen des UWG nicht.\r\n\r\n\r\n\r\nM\u00f6gliche Ma\u00dfnahmen zur Verbesserung der aktuellen Situation:\r\n\r\n\u2022 Eine h\u00f6chstrichterliche Entscheidung oder Gesetzes\u00e4nderung durch die klargestellt wird, dass die \r\nSpendenwerbung durch gemeinn\u00fctzige Organisationen nicht dem UWG unterf\u00e4llt, w\u00e4re zur \r\nWiederherstellung der Rechtssicherheit w\u00fcnschenswert\r\n\r\n\u2022 Dringend geboten ist ein gesetzgeberisches Eingreifen im Hinblick auf die Spendenwerbung durch \r\nwirtschaftlich t\u00e4tige Unternehmen. Sinnvoll w\u00e4re hier eine differenzierende gesetzliche Regelung, \r\nnach der Spendenwerbung durch Unternehmen keine gesch\u00e4ftliche Handlung darstellt, sofern der \r\naltruistische Zweck im Vordergrund steht und insbesondere kein Bezug zu Produkten oder Leistungen \r\ndes Unternehmens hergestellt wird. Auf diese Weise w\u00fcrde ein rechtssicherer Handlungsrahmen f\u00fcr \r\nUnternehmen geschaffen. Zugleich w\u00fcrden Anreize gesetzt, auf\r\n\u201eechte\u201c (also nicht mit Werbung f\u00fcr eigene Angebote verkn\u00fcpfte) Spendenwerbung zu setzen.\r\n\r\n\u2022 Durch diese Ma\u00dfnahmen k\u00f6nnte, insbesondere vor dem Hintergrund des durch die DSGVO potenziell \r\ngestiegenen Bu\u00dfgeldrisikos bei der Direktwerbung, verhindert werden, dass das UWG und/oder die \r\nDSGVO sich als \u201eBremsklotz f\u00fcr soziales Engagement\u201c  erweisen.\r\n\r\nKontakt bei weiteren Fragen:\r\n\r\nDaniela Henze, Leiterin Public Affairs und des Hauptstadtb\u00fcros Franz\u00f6sische Stra\u00dfe 12, 10117 \r\nBerlin, d.henze@ddv.de, +49 30 509 3209-33\r\n\r\nRechtsanwalt (Syndikus) Franz Peter Altemeier, Leiter Recht\r\nFranz\u00f6sische Stra\u00dfe 12, 10117 Berlin, fp.altemeier@ddv.de, +49 30 509 3209-44 www.ddv.de\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nSeite 4 von 5\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u00dcber den DDV:\r\n\r\nDer Deutsche Dialogmarketing Verband ist der gr\u00f6\u00dfte nationale Zusammenschluss von \r\nDialogmarketing-Unternehmen innerhalb der EU und geh\u00f6rt zu den Spitzenverb\u00e4nden der \r\nKommunikationswirtschaft in Deutschland. Als die treibende Kraft der Data Driven Economy \r\nrepr\u00e4sentiert der DDV Unternehmen, die Daten generieren oder f\u00fcr den professionellen datenbasierten \r\nund kundenzentrierten Dialog nutzen. Gemeinsam mit unseren Mitgliedern wollen wir substanzielle \r\nMehrwerte durch individuelle Beziehungen zwischen Menschen, Marken und Unternehmen in einer \r\nvernetzten Welt schaffen. Schwerpunkte des Verbandsengagements sind politische Arbeit, \r\nInformationsaustausch, Qualit\u00e4tssicherung und Nachwuchsf\u00f6rderung.\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

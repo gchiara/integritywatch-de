@@ -1,0 +1,754 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-03-04T15:23:31.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-04T15:23:31.000+01:00",
+        "lastUpdateDate": "2024-08-12T18:23:53.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42570,
+                "validFromDate": "2024-08-12T18:23:53.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37231,
+                "validFromDate": "2024-06-29T14:58:16.000+02:00",
+                "validUntilDate": "2024-08-12T18:23:53.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 18231,
+                "validFromDate": "2023-03-22T12:19:17.000+01:00",
+                "validUntilDate": "2024-06-29T14:58:16.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 4749,
+                "validFromDate": "2022-03-04T15:23:31.000+01:00",
+                "validUntilDate": "2023-03-22T12:19:17.000+01:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_CONSULTING",
+            "de": "Beratungsunternehmen, selbst\u00e4ndige Beraterin oder selbst\u00e4ndiger Berater",
+            "en": "Consulting company, independent consultant"
+        },
+        "activityDescription": "Gewinnung von Referent:innen und Gespr\u00e4chspartner:innen f\u00fcr Veranstaltungen und pers\u00f6nliche Dialoge. Organisation und Durchf\u00fchrung von Diskussionen und Veranstaltungen. Information zu Innovationen und Ver\u00e4nderungsvorschl\u00e4gen im Gesundheits- und Sozialwesen.      ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_RPI_INTEGRATION",
+                "de": "Integration",
+                "en": "Integration"
+            },
+            {
+                "code": "FOI_SP_ELDERLY",
+                "de": "Seniorenpolitik",
+                "en": "Elderly/senior citizens policy"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_SS_ACCIDENT",
+                "de": "Unfallversicherung",
+                "en": "Accident insurance"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_RPI_MIGRATION",
+                "de": "Migration",
+                "en": "Migration and residence"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_HEALTH_CARE",
+                "de": "Pflege",
+                "en": "Health care"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_SS_LONGTERM",
+                "de": "Pflegeversicherung",
+                "en": "Long term care"
+            },
+            {
+                "code": "FOI_SP_DIVERSITY",
+                "de": "Diversit\u00e4tspolitik",
+                "en": "Diversity policy"
+            },
+            {
+                "code": "FOI_SP_DISABILITY",
+                "de": "Rechte von Menschen mit Behinderung",
+                "en": "Rights of people with disabilities"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_SP_CHILDREN",
+                "de": "Kinder- und Jugendpolitik",
+                "en": "Child and youth policy"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_RPI_LAWS",
+                "de": "Ausl\u00e4nder- und Aufenthaltsrecht",
+                "en": "Foreign laws"
+            },
+            {
+                "code": "FOI_SS_HEALTH",
+                "de": "Krankenversicherung",
+                "en": "Health insurance"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_SP_GENDER",
+                "de": "Geschlechterpolitik",
+                "en": "Gender politics"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_EP_CHILDHOOD",
+                "de": "Vorschulische Bildung",
+                "en": "Early childhood education"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            },
+            {
+                "code": "ON_BEHALF_OF_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird im Auftrag Dritter selbst wahrgenommen",
+                "en": "Representation of interests is carried out on behalf of third parties themselves"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/43/88/342944/JA-contec-2022-unterzeichnet.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "address": {
+                                "city": " Witten",
+                                "country": {
+                                    "code": "DE",
+                                    "de": "Deutschland",
+                                    "en": "Germany"
+                                },
+                                "street": "Pferdebachstrasse",
+                                "streetNumber": "43 b",
+                                "type": "NATIONAL",
+                                "zipCode": "58455"
+                            },
+                            "capitalCityRepresentationPresent": false,
+                            "contactDetails": {
+                                "emails": [
+                                    {
+                                        "email": "info@ev-verbund-ruhr.de"
+                                    }
+                                ],
+                                "phoneNumber": "+4923491461011",
+                                "websites": [
+                                    {
+                                        "website": "www.ev-verbund-ruhr.de/"
+                                    }
+                                ]
+                            },
+                            "financialResourcesReceived": {
+                                "from": 1,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 50000
+                            },
+                            "legalForm": {
+                                "code": "LF_GMBH",
+                                "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+                                "en": "Limited liability company (GmbH)"
+                            },
+                            "legalFormType": {
+                                "code": "JURISTIC_PERSON",
+                                "de": "Juristische Person",
+                                "en": "Legal person"
+                            },
+                            "legalRepresentatives": [
+                                {
+                                    "firstName": "Jens",
+                                    "function": "Gesch\u00e4ftsf\u00fchrer",
+                                    "lastName": "Koch"
+                                }
+                            ],
+                            "name": "Evangelischer Verbund Augusta Ruhr gGmbH"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [
+                        {
+                            "firstName": "Ronja",
+                            "lastName": "Reinhold",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "Referentengewinnung im BMG zur Krankenhausstrukturreform",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    }
+                ],
+                "regulatoryProjects": []
+            },
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "country": {
+                                    "code": "DE",
+                                    "de": "Deutschland",
+                                    "en": "Germany"
+                                },
+                                "street": "Pappelallee",
+                                "streetNumber": "33/35/37",
+                                "type": "NATIONAL",
+                                "zipCode": "22089"
+                            },
+                            "capitalCityRepresentationPresent": false,
+                            "contactDetails": {
+                                "emails": [
+                                    {
+                                        "email": "bjoern.kaehler@bgw-online.de"
+                                    }
+                                ],
+                                "phoneNumber": "+4940202073210",
+                                "websites": [
+                                    {
+                                        "website": "www.bgw-online.de"
+                                    }
+                                ]
+                            },
+                            "financialResourcesReceived": {
+                                "from": 1,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 50000
+                            },
+                            "legalForm": {
+                                "code": "LF_KDOER",
+                                "de": "K\u00f6rperschaft des \u00f6ffentlichen Rechts",
+                                "en": "Public corporation"
+                            },
+                            "legalFormType": {
+                                "code": "JURISTIC_PERSON",
+                                "de": "Juristische Person",
+                                "en": "Legal person"
+                            },
+                            "legalRepresentatives": [
+                                {
+                                    "firstName": "J\u00f6rg",
+                                    "function": "Hauptgesch\u00e4ftsf\u00fchrer",
+                                    "lastName": "Schudmann"
+                                }
+                            ],
+                            "name": "Berufsgenossenschaft Gesundheitsdienst und Wohlfahrtspflege"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [
+                        {
+                            "firstName": "Detlef",
+                            "function": "Gesch\u00e4ftsf\u00fchrer",
+                            "lastName": "Friedrich",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Ronja",
+                            "lastName": "Christofczik",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "Im Kern des Eckpunktepapiers muss neben der Sicherstellung einer qualitativ hochwertigen Pflege auch die generelle Sicherstellung eines gesunden und sicheren Arbeitsplatzes bei der Kompe-tenzerweiterung Raum einnehmen. Dieses findet im Eckpunktepapier bislang wenig Ber\u00fccksichtigung.\r\nDie BGW weist daher auf die Notwendigkeit hin, die Strukturen und Prozesse von Gesundheitseinrichtungen im Zuge der Kompetenzerweiterung gemeinsam mit den unterschiedlichen Berufsgruppen (gesundheitsf\u00f6rderlich) weiterzuentwickeln. ",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_CARE",
+                        "de": "Pflege",
+                        "en": "Health care"
+                    }
+                ],
+                "regulatoryProjects": [
+                    {
+                        "regulatoryProjectNumber": "RV0010386",
+                        "regulatoryProjectTitle": "Pflegekompetenzgesetz"
+                    }
+                ]
+            },
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "country": {
+                                    "code": "DE",
+                                    "de": "Deutschland",
+                                    "en": "Germany"
+                                },
+                                "street": "Pappelallee",
+                                "streetNumber": "33/35/37",
+                                "type": "NATIONAL",
+                                "zipCode": "22089"
+                            },
+                            "capitalCityRepresentationPresent": false,
+                            "contactDetails": {
+                                "emails": [
+                                    {
+                                        "email": "bjoern.kaehler@bgw-online.de"
+                                    }
+                                ],
+                                "phoneNumber": "+4940202073210",
+                                "websites": [
+                                    {
+                                        "website": "www.bgw-online.de"
+                                    }
+                                ]
+                            },
+                            "financialResourcesReceived": {
+                                "from": 1,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 50000
+                            },
+                            "legalForm": {
+                                "code": "LF_KDOER",
+                                "de": "K\u00f6rperschaft des \u00f6ffentlichen Rechts",
+                                "en": "Public corporation"
+                            },
+                            "legalFormType": {
+                                "code": "JURISTIC_PERSON",
+                                "de": "Juristische Person",
+                                "en": "Legal person"
+                            },
+                            "legalRepresentatives": [
+                                {
+                                    "firstName": "J\u00f6rg",
+                                    "function": "Hauptgesch\u00e4ftsf\u00fchrer",
+                                    "lastName": "Schudmann"
+                                }
+                            ],
+                            "name": "Berufsgenossenschaft Gesundheitsdienst und Wohlfahrtspflege"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [
+                        {
+                            "firstName": "Detlef",
+                            "function": "Gesch\u00e4ftsf\u00fchrer",
+                            "lastName": "Friedrich",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Ronja",
+                            "lastName": "Reinhold",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Ronja",
+                            "lastName": "Christofczik",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "Die Teilhabe am kulturellen Leben sowie an Erholung, Freizeit und Sport sollte in einem eigenen Kapitel im SGB IX geregelt werden. Die in Art. 30 Abs. 5 UN-BRK genannten Ma\u00dfnahmen sollten vollst\u00e4ndig in einen eigenst\u00e4ndigen Leistungstatbestand aufgenommen werden. Dies sollte- entsprechend den Leistungen zur Teilhabe an Bildung -in einem eigenst\u00e4ndigen Kapitel erfolgen. Es bedarf es hier eines eigenen Leistungstatbestands mit der Bezeichnung \u201eLeistungen zur Teilhabe an Erholung-, \r\nFreizeit-und Sportaktivit\u00e4ten. ",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_DISABILITY",
+                        "de": "Rechte von Menschen mit Behinderung",
+                        "en": "Rights of people with disabilities"
+                    }
+                ],
+                "regulatoryProjects": []
+            }
+        ],
+        "contractsPresent": true
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.1,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 10001,
+            "to": 20000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Bochum",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Gesundheitscampus-S\u00fcd",
+            "streetNumber": "29",
+            "type": "NATIONAL",
+            "zipCode": "44801"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "d.friedrich@contec.de",
+            "phoneNumber": "+4930452730",
+            "street": "Reinhardtstrasse",
+            "streetNumber": "31",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "d.friedrich@contec.de"
+                }
+            ],
+            "phoneNumber": "+49234452730",
+            "websites": [
+                {
+                    "website": "www.contec.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Detlef",
+                "lastName": "Friedrich",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Detlef",
+                "lastName": "Friedrich",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Maike",
+                "lastName": "M\u00fclders",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Ronja",
+                "lastName": "Christofczik",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Ronja",
+                "lastName": "Reinhold",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Detlef",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Friedrich",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Dietmar",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Meng",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": false,
+                "firstName": "Thomas",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "M\u00fcller",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Deutscher Verein f\u00fcr \u00f6ffentliche und private F\u00fcrsorge e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "contec Gesellschaft f\u00fcr Organisationsentwicklung mbH"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Projekt Regionales Zukunftszentrum \"pulsnetz\". Projekttr\u00e4ger Diakonisches Werk Baden - Aufbau und Umsetzung eines regionalen ambulanten Zukunftszentrums zur Verbesserung von Arbeitsbedingungen in der sozialen Arbeit und Pflege. ",
+                "location": "Bonn/Berlin",
+                "name": "Bundesministerium f\u00fcr Arbeit und Soziaes BMAS ",
+                "publicAllowanceEuro": {
+                    "from": 60001,
+                    "to": 70000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Coop4Health.NRW wird im Rahmen des Leitmarktwettbewerbs Life-Sciences.NRW eine B\u00fcrgergenossenschaft gr\u00fcnden, die zu einer Verbesserung der Gesundheit und des Wohlbefindens der NRW Bev\u00f6lkerung beitragen soll.",
+                "location": "Br\u00fcssel / J\u00fclich",
+                "name": "Europ\u00e4ischen Fonds f\u00fcr regionale Entwicklung (EFRE) 2014-2020",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002943/42570",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-08-12T18:23:53.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/52/02/342945/Lobbyregister-Detailansicht-R002943-2024-08-12_18-23-53.pdf",
+        "validFromDate": "2024-08-12T18:23:53.000+02:00",
+        "version": 4
+    },
+    "registerEntryId": 42570,
+    "registerNumber": "R002943",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Anregungen zu den Eckpunkten des Pflegekompetenzgesetzes eingereicht",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_CARE",
+                        "de": "Pflege",
+                        "en": "Health care"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_SECURITY",
+                        "de": "Soziale Sicherung",
+                        "en": "Social security"
+                    },
+                    {
+                        "code": "FOI_SS_LONGTERM",
+                        "de": "Pflegeversicherung",
+                        "en": "Long term care"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010386",
+                "statements": [],
+                "title": "Pflegekompetenzgesetz"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

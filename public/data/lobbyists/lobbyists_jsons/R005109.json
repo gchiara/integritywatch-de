@@ -1,0 +1,301 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-08-31T14:08:06.000+02:00",
+                "untilDate": "2024-06-25T16:22:20.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-08-31T14:08:06.000+02:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-06-25T16:22:20.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2023-09-27T15:45:44.000+02:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2024-06-25T16:22:20.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 23490,
+                "validFromDate": "2023-09-27T15:45:44.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 11218,
+                "validFromDate": "2022-08-31T14:08:06.000+02:00",
+                "validUntilDate": "2023-09-27T15:45:44.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION",
+            "de": "Unternehmen",
+            "en": "Company"
+        },
+        "activityDescription": "Die Leistungen der Adbites GmbH umfassen unter anderem die Beratung und die Erstellung von Konzepten f\u00fcr juristische Personen, Personenvereinigungen, staatliche Institutionen und auch Nichtregierungsorganisationen zur Platzierung gesellschaftlich relevanter Themen in digitalen Medienumfeldern. Zus\u00e4tzlich wird die Erstellung relevanter Inhalte und Plattformen zur positiven Verst\u00e4rkung der erstellten Konzepte mit angeboten.",
+        "activityOperationType": "SELF_OPERATED",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "annualReports": {
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true
+    },
+    "clientIdentity": {
+        "clientOrganizations": [
+            {
+                "address": {
+                    "city": "Bochum",
+                    "country": {
+                        "code": "DE",
+                        "de": "Deutschland",
+                        "en": "Germany"
+                    },
+                    "street": "Kleyer Stra\u00dfe",
+                    "streetNumber": "12",
+                    "type": "NATIONAL",
+                    "zipCode": "44892"
+                },
+                "contactDetails": {
+                    "emails": [
+                        {
+                            "email": "hello@hundekumpel.de"
+                        }
+                    ],
+                    "phoneNumber": "+4923490327",
+                    "websites": [
+                        {
+                            "website": "https://www.hundekumpel.de"
+                        }
+                    ]
+                },
+                "legalForm": {
+                    "code": "LF_OTHER_UNDEFINED",
+                    "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+                    "en": "Networks, platforms or other forms of collective activity",
+                    "legalFormText": "Online-Zusammenschlu\u00df von Tiersch\u00fctzern mit Fokus auf den Schutz der Einhaltung der Rechte von Hunden im In- und Ausland."
+                },
+                "legalFormType": {
+                    "code": "NETWORK_PLATFORM_OR_OTHER",
+                    "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+                    "en": "Network, platform or other form of collective activity"
+                },
+                "legalRepresentatives": [
+                    {
+                        "commonFirstName": "Miriam",
+                        "emails": [
+                            {
+                                "email": "m.flakschin@hundekumpel.de"
+                            },
+                            {
+                                "email": "staff@hundekumpel.de"
+                            }
+                        ],
+                        "function": "Leitung",
+                        "lastName": "Flakschin",
+                        "phoneNumber": "+492349020327"
+                    }
+                ],
+                "name": "Hundekumpel.de"
+            },
+            {
+                "address": {
+                    "city": "Bochum",
+                    "country": {
+                        "code": "DE",
+                        "de": "Deutschland",
+                        "en": "Germany"
+                    },
+                    "street": "Universit\u00e4tsstra\u00dfe",
+                    "streetNumber": "44-46",
+                    "type": "NATIONAL",
+                    "zipCode": "44789"
+                },
+                "contactDetails": {
+                    "emails": [
+                        {
+                            "email": "info@mobexo.de"
+                        }
+                    ],
+                    "phoneNumber": "+4923462209400",
+                    "websites": [
+                        {
+                            "website": "https://www.mobexo.de"
+                        }
+                    ]
+                },
+                "legalForm": {
+                    "code": "LF_GMBH",
+                    "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+                    "en": "Limited liability company (GmbH)"
+                },
+                "legalFormType": {
+                    "code": "JURISTIC_PERSON",
+                    "de": "Juristische Person",
+                    "en": "Legal person"
+                },
+                "legalRepresentatives": [
+                    {
+                        "commonFirstName": "Dennis",
+                        "emails": [
+                            {
+                                "email": "dennis.podlech@mobexo.de"
+                            }
+                        ],
+                        "function": "CEO",
+                        "lastName": "Podlech",
+                        "phoneNumber": "+4923462209400"
+                    }
+                ],
+                "name": "Mobexo GmbH"
+            }
+        ],
+        "clientsPresent": true
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 0,
+            "to": 0
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Bochum",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Kleyer Stra\u00dfe",
+            "streetNumber": "12",
+            "type": "NATIONAL",
+            "zipCode": "44892"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "hallo@adbites.de"
+                }
+            ],
+            "phoneNumber": "+492349020328",
+            "websites": [
+                {
+                    "website": "https://www.adbites.de"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Heiko",
+                "emails": [
+                    {
+                        "email": "h.schneider@adbites.de"
+                    }
+                ],
+                "function": "Gesch\u00e4ftsf\u00fchrender Gesellschafter",
+                "lastName": "Schneider",
+                "phoneNumber": "+4915168120331"
+            }
+        ],
+        "membersPresent": false,
+        "membershipsPresent": false,
+        "name": "Adbites GmbH",
+        "namedEmployeesPresent": false
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "publicAllowancesPresent": false,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-09-27T15:45:44.000+02:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R005109/23490",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/7c/d1/234509/Lobbyregister-Detailansicht-R005109-2023-09-27_15-45-44.pdf",
+        "refusedAnything": true,
+        "validFromDate": "2023-09-27T15:45:44.000+02:00",
+        "version": 2
+    },
+    "registerEntryId": 23490,
+    "registerNumber": "R005109"
+}

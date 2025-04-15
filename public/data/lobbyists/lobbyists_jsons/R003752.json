@@ -1,0 +1,820 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-03-23T14:08:49.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-23T14:04:51.000+01:00",
+        "lastUpdateDate": "2024-06-11T14:55:25.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 35279,
+                "validFromDate": "2024-06-11T14:55:25.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 19345,
+                "validFromDate": "2023-04-26T14:03:58.000+02:00",
+                "validUntilDate": "2024-06-11T14:55:25.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 6797,
+                "validFromDate": "2022-03-23T14:08:49.000+01:00",
+                "validUntilDate": "2023-04-26T14:03:58.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_NONPROFIT_ORGA_V2",
+            "de": "Nichtregierungsorganisation (NGO)",
+            "en": "Non-governmental organization (NGO)"
+        },
+        "activityDescription": "Die Arbeitsgemeinschaft f\u00fcr Kinder- und Jugendhilfe - AGJ ist Forum und Netzwerk der bundeszentralen Strukturen der freien und \u00f6ffentlichen Kinder- und Jugendhilfe Deutschlands.\r\n\r\nDie \u00fcber 100 Mitglieder wirken f\u00fcr einen handlungsfeld- und ebenen\u00fcbergreifenden Fachaustausch. Seit \u00fcber 70 Jahren gestaltet die AGJ den jugend(hilfe)politischen Dialog, vertritt gemeinsame Interessen in der Kinder- und Jugendhilfe sowie gegen\u00fcber Politik. Die AGJ sieht ihren zentralen Auftrag darin, die organisatorischen und fachlichen Strukturen der Kinder- und Jugendhilfe auf der Bundesebene zu b\u00fcndeln. Sie versteht sich als Interessenvertretung der Kinder- und Jugendhilfe, Lobby f\u00fcr junge Menschen und ihre Familien, als tr\u00e4ger- und handlungsfeld\u00fcbergreifender Zusammenschluss und als kooperatives Netzwerk im Interesse der Einheit der Jugendhilfe.\r\n\r\nDie Mitglieder der AGJ setzen sich zusammen aus\r\n- Jugendverb\u00e4nde und Landesjugendringe,\r\n- Spitzenverb\u00e4nde der Freien Wohlfahrtspflege,\r\n- Oberste Jugend- und Familienbeh\u00f6rden der L\u00e4nder,\r\n- Fachorganisationen der Kinder- und Jugendhilfe,\r\n- Bundesarbeitsgemeinschaft Landesjugend\u00e4mter,\r\n- Organisationen im Bereich Personal und Qualifizierung der Kinder- und Jugendhilfe.\r\n\r\nRechtstr\u00e4ger der AGJ ist der Vorstand der AGJ e.V..",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_SS_BASIC",
+                "de": "Grundsicherung",
+                "en": "Basic security"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_SP_CHILDREN",
+                "de": "Kinder- und Jugendpolitik",
+                "en": "Child and youth policy"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_RPI_INTEGRATION",
+                "de": "Integration",
+                "en": "Integration"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_EP_CHILDHOOD",
+                "de": "Vorschulische Bildung",
+                "en": "Early childhood education"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_SP_DISABILITY",
+                "de": "Rechte von Menschen mit Behinderung",
+                "en": "Rights of people with disabilities"
+            },
+            {
+                "code": "FOI_RPI_REFUGEE",
+                "de": "Asyl und Fl\u00fcchtlingsschutz",
+                "en": "Asylum and refugee protection"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_SP_FAMILY",
+                "de": "Familienpolitik",
+                "en": "Family policy"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.15,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Rechtstr\u00e4ger: Vorstand der AGJ e.V.",
+            "street": "M\u00fchlendamm",
+            "streetNumber": "3",
+            "type": "NATIONAL",
+            "zipCode": "10781"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "geschaeftsfuehrung@agj.de"
+                },
+                {
+                    "email": "info@agj.de"
+                }
+            ],
+            "phoneNumber": "+493040040200",
+            "websites": [
+                {
+                    "website": "https://www.agj.de/"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Prof. Dr. ",
+                "firstName": "Karin",
+                "lastName": "B\u00f6llert",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Claudia",
+                "lastName": "Porr",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Weitzmann",
+                "lastName": "Gabriele",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Franziska",
+                "lastName": "Porst",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Angela",
+                "lastName": "Smessaert",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_NIA",
+            "de": "Nicht rechtsf\u00e4higer Verein",
+            "en": "Non-incorporated association"
+        },
+        "legalFormType": {
+            "code": "OTHER_ASSOCIATION_OF_PERSONS",
+            "de": "Sonstige Personenvereinigungen",
+            "en": "Other associations of persons"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Prof. Dr. ",
+                "entrustedPerson": true,
+                "firstName": "Karin",
+                "function": "Vorsitzende",
+                "lastName": "B\u00f6llert",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Claudia",
+                "function": "Stellv. Vorsitzende",
+                "lastName": "Porr",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Weitzmann",
+                "function": "Stellv. Vorsitzende",
+                "lastName": "Gabriele",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-05-16",
+            "naturalPersons": 0,
+            "organizations": 106,
+            "totalCount": 106
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Eurochild"
+            },
+            {
+                "membership": "OMEP (Organisation Mondiale pour l'Education Pr\u00e9scolaire)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Arbeitsgemeinschaft f\u00fcr Kinder- und Jugendhilfe - AGJ"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 60001,
+            "to": 70000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Projektf\u00f6rderung Infrastrukturf\u00f6rderung der AGJ-Gesch\u00e4ftsstelle",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Familie, Frauen, Senioren und Jugend",
+                "publicAllowanceEuro": {
+                    "from": 900001,
+                    "to": 910000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projektf\u00f6rderung jugendgerecht.de",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Frauen, Senioren, Familie und Jugend",
+                "publicAllowanceEuro": {
+                    "from": 230001,
+                    "to": 240000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projektf\u00f6rderung Koordinierungsstelle \"Demokratie und Vielfalt in der Kindertagesbetreuung\"",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Frauen, Senioren, Familie und Jugend",
+                "publicAllowanceEuro": {
+                    "from": 210001,
+                    "to": 220000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projektf\u00f6rderung \"Das Portal der Kinder- und Jugendhilfe\" (Weiterleitung der Zuwendung \u00fcber IJAB)",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Frauen, Senioren, Familie und Jugend",
+                "publicAllowanceEuro": {
+                    "from": 120001,
+                    "to": 130000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "18. Deutscher Kinder- und Jugendhilfetag",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Frauen, Senioren, Familie und Jugend",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "18. Deutscher Kinder- und Jugendhilfetag",
+                "location": "Leipzig",
+                "name": "Kommunaler Sozialverband Sachsen",
+                "publicAllowanceEuro": {
+                    "from": 80001,
+                    "to": 90000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "18. Deutscher Kinder- und Jugendhilfetag",
+                "location": "Leipzig",
+                "name": "Stadt Leipzig",
+                "publicAllowanceEuro": {
+                    "from": 50001,
+                    "to": 60000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_MUNICIPALITY",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Kommune",
+                    "en": "German Public Sector \u2013 Municipality"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R003752/35279",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-11T14:55:25.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/87/fb/288125/Lobbyregister-Detailansicht-R003752-2024-06-11_14-55-25.pdf",
+        "validFromDate": "2024-06-11T14:55:25.000+02:00",
+        "version": 4
+    },
+    "registerEntryId": 35279,
+    "registerNumber": "R003752",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "SGB 8",
+                        "title": "Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel 1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)",
+                        "url": "https://www.gesetze-im-internet.de/sgb_8"
+                    },
+                    {
+                        "shortTitle": "SGB9ua\u00c4ndG",
+                        "title": "Sozialgesetzbuch - Neuntes Buch - (SGB IX) Rehabilitation und Teilhabe behinderter Menschen",
+                        "url": "https://www.gesetze-im-internet.de/sgb9ua_ndg"
+                    },
+                    {
+                        "shortTitle": "KKG",
+                        "title": "Gesetz zur Kooperation und Information im Kinderschutz",
+                        "url": "https://www.gesetze-im-internet.de/kkg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Mit dem Kinder- und Jugendst\u00e4rkungsgesetz, das im Juni 2021 in Kraft getreten ist, wurden die Weichen f\u00fcr eine Inklusive Kinder- und Jugendhilfe gestellt. Im Koalitionsvertrag ist vereinbart, dass in dieser Legislaturperiode die gesetzliche Ausgestaltung der Inklusiven Kinder- und Jugendhilfe erfolgen soll.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_CHILDREN",
+                        "de": "Kinder- und Jugendpolitik",
+                        "en": "Child and youth policy"
+                    },
+                    {
+                        "code": "FOI_SP_DISABILITY",
+                        "de": "Rechte von Menschen mit Behinderung",
+                        "en": "Rights of people with disabilities"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_PUBLIC",
+                        "de": "\u00d6ffentliches Recht",
+                        "en": "Public law"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_SP_FAMILY",
+                        "de": "Familienpolitik",
+                        "en": "Family policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001848",
+                "statements": [],
+                "title": "SGB VIII-Reform"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "SGB 2",
+                        "title": "Sozialgesetzbuch (SGB) Zweites Buch (II) - B\u00fcrgergeld, Grundsicherung f\u00fcr Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954)",
+                        "url": "https://www.gesetze-im-internet.de/sgb_2"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Mit der Einf\u00fchrung der Kindergrundsicherung sollen bessere Chancen f\u00fcr Kinder und Jugendliche geschaffen, mehr Familien und ihre Kinder mit Unterst\u00fctzungsbedarf erreicht sowie Kinderarmut wirksam bek\u00e4mpft werden \u2013 insbesondere durch verbesserte Zug\u00e4nge zu den existenzsichernden Leistungen f\u00fcr Familien bzw. zu Information und Beratung.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_SECURITY",
+                        "de": "Soziale Sicherung",
+                        "en": "Social security"
+                    },
+                    {
+                        "code": "FOI_SS_BASIC",
+                        "de": "Grundsicherung",
+                        "en": "Basic security"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_CHILDREN",
+                        "de": "Kinder- und Jugendpolitik",
+                        "en": "Child and youth policy"
+                    },
+                    {
+                        "code": "FOI_SP_FAMILY",
+                        "de": "Familienpolitik",
+                        "en": "Family policy"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_PUBLIC",
+                        "de": "\u00d6ffentliches Recht",
+                        "en": "Public law"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/090/2009092.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMFSFJ",
+                                "title": "Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend",
+                                "url": "https://www.bmfsfj.de/"
+                            }
+                        ],
+                        "printingNumber": "20/9092",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-einf%C3%BChrung-einer-kindergrundsicherung/304682",
+                        "title": "Entwurf eines Gesetzes zur Einf\u00fchrung einer Kindergrundsicherung"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0001849",
+                "statements": [],
+                "title": "Kindergrundsicherung"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GG",
+                        "title": "Grundgesetz f\u00fcr die Bundesrepublik Deutschland",
+                        "url": "https://www.gesetze-im-internet.de/gg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die Regierungskoalition aus SPD, Gr\u00fcnen und FDP hat sich im Koalitionsvertrag darauf verst\u00e4ndigt, die Kinderrechte im Grundgesetz zu verankern. Kinderrechte sollen explizit im Dreieck Kinder - Eltern - Staat sichtbar gemacht werden.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_CHILDREN",
+                        "de": "Kinder- und Jugendpolitik",
+                        "en": "Child and youth policy"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_PUBLIC",
+                        "de": "\u00d6ffentliches Recht",
+                        "en": "Public law"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001850",
+                "statements": [],
+                "title": "Kinderrechte ins Grundgesetz"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Zur St\u00e4rkung von Ma\u00dfnahmen zur Demokratief\u00f6rderung, Vielfaltgestaltung, Extremismuspr\u00e4vention und politischen Bildung soll das Demokratief\u00f6rdergesetz dem Bund eine explizite gesetzliche Handlungsgrundlage geben. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_CHILDREN",
+                        "de": "Kinder- und Jugendpolitik",
+                        "en": "Child and youth policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001851",
+                "statements": [],
+                "title": "Demokratief\u00f6rdergesetz"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die Feststellung des Bundeshaushaltsplans erfolgt f\u00fcr jedes Haushaltsjahr per Gesetz. Der Einzelplan 17 regelt u.a. die Ausstattung der bundeszentralen Infrastruktur, welche daf\u00fcr sorgt, dass Kinder und Jugendliche in Deutschland gut aufwachsen, gesch\u00fctzt sind und diskriminierungsfreie, selbstbestimmte und gerechte Teilhabe erfahren. Um die Leistungsf\u00e4higkeit dieser Infrasturktur zu sichern braucht es eine langfristige und nachhaltige St\u00e4rkung dieser F\u00f6rderung.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_CHILDREN",
+                        "de": "Kinder- und Jugendpolitik",
+                        "en": "Child and youth policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001852",
+                "statements": [],
+                "title": "Haushaltsgesetz 2025"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "SGB 8",
+                        "title": "Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel 1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)",
+                        "url": "https://www.gesetze-im-internet.de/sgb_8"
+                    },
+                    {
+                        "shortTitle": "KKG",
+                        "title": "Gesetz zur Kooperation und Information im Kinderschutz",
+                        "url": "https://www.gesetze-im-internet.de/kkg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Hauptregelungsgegenstand ist ein Gesetz zur Einrichtung einer oder eines Unabh\u00e4ngigen Bundesbeauftragten gegen sexuellen Missbrauch von Kindern und Jugendlichen (Gemeinsam-gegen-Kindesmissbrauch-Gesetz \u2013 UBSKMG), welches die gesetzliche Verankerung der Struktur einer*eines Unabh\u00e4ngigen Bundesbeauftragten mit einem dort angesiedelten Betroffenenrat und einer Unabh\u00e4ngigen Aufarbeitungskommission bilden w\u00fcrde. Zudem sind \u00c4nderungen im SGB VIII (neue Aufgabe \u201e\u00a7 9b Aufarbeitung\u201c, Ver\u00e4nderungen an den Datenschutz-/Finanzierungs- und Qualit\u00e4tsentwicklungsnormen) und KKG (medizinische Kinderschutz-Hotline) vorgesehen.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmfsfj.de/resource/blob/238004/b72425c1e1c657e71a1fa61c049bf36c/entwurf-ubskm-gesetz-data.pdf",
+                            "draftBillProjectUrl": "https://www.bmfsfj.de/bmfsfj/service/gesetze/gesetz-zur-staerkung-der-strukturen-gegen-sexuelle-gewalt-an-kindern-und-jugendlichen-235164",
+                            "shortTitle": "BMFSFJ",
+                            "title": "Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend",
+                            "url": "https://www.bmfsfj.de/"
+                        }
+                    ],
+                    "publicationDate": "2024-04-03",
+                    "title": "Entwurf eines Gesetzes zur St\u00e4rkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_PUBLIC",
+                        "de": "\u00d6ffentliches Recht",
+                        "en": "Public law"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_FAMILY",
+                        "de": "Familienpolitik",
+                        "en": "Family policy"
+                    },
+                    {
+                        "code": "FOI_SP_CHILDREN",
+                        "de": "Kinder- und Jugendpolitik",
+                        "en": "Child and youth policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001853",
+                "statements": [],
+                "title": "Gesetz zur St\u00e4rkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "SGB XIV",
+                        "title": "Sozialgesetzbuch Vierzehntes Buch \u2013 Soziale Entsch\u00e4digung \u2013",
+                        "url": "https://www.gesetze-im-internet.de/sgb_14"
+                    },
+                    {
+                        "shortTitle": "SGB 8",
+                        "title": "Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel 1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)",
+                        "url": "https://www.gesetze-im-internet.de/sgb_8"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Das SGB XIV ersetzt seit dem 1.1.2024 das fr\u00fchere Soziale Entsch\u00e4digungsrecht. Es wurde \u00fcbersehen in das SGB XIV-Leistungsspektrum (weiterhin) erzieherische Unterst\u00fctzungsleistungen aufzunehmen, sofern deren Bedarf aus einem sch\u00e4digenden Ereignis resultiert. Weder wurde \u00a7 27 BVG \"Erziehungsbeihilfen\" ins SGB XIV \u00fcberf\u00fchrt, noch an das SGB VIII \"Hilfe zur Erziehung\", \"Eingliederungshilfe f\u00fcr seelisch behinderte Kinder und Jugendliche\", \"Hilfe f\u00fcr junge Vollj\u00e4hrige\" angekn\u00fcpft. Zudem f\u00fchrt die einschr\u00e4nkende Konkretisierung des Vorrang-Nachrang-Verh\u00e4ltnisses in \u00a7\u00a7 93 Abs. 2 SGB XIV, 10 Abs. 5 SGB VIII bzgl. Leistungen zum Unterhalt nach \u00a7 39 SGB VIII zu massiven Umsetzungsproblemen, da bei Leistungen f\u00fcr Minderj\u00e4hrige keine Trennung nach Fachleistung und Hilfe zum Lebensunterhalt besteht. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_DISABILITY",
+                        "de": "Rechte von Menschen mit Behinderung",
+                        "en": "Rights of people with disabilities"
+                    },
+                    {
+                        "code": "FOI_SP_CHILDREN",
+                        "de": "Kinder- und Jugendpolitik",
+                        "en": "Child and youth policy"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_PUBLIC",
+                        "de": "\u00d6ffentliches Recht",
+                        "en": "Public law"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001854",
+                "statements": [],
+                "title": "Friktionen zwischen SGB XIV und SGB VIII beseitigen"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

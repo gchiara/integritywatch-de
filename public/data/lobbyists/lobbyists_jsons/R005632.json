@@ -1,0 +1,211 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-01-23T09:25:37.000+01:00",
+                "untilDate": "2024-07-02T00:23:53.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2023-01-23T09:25:37.000+01:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-07-02T00:23:53.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2023-06-19T17:53:03.000+02:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2024-07-02T00:23:53.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 21902,
+                "validFromDate": "2023-06-19T17:53:03.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21901,
+                "validFromDate": "2023-06-19T17:43:16.000+02:00",
+                "validUntilDate": "2023-06-19T17:53:03.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 9954,
+                "validFromDate": "2023-01-23T09:25:37.000+01:00",
+                "validUntilDate": "2023-06-19T17:43:16.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "F\u00f6rderung der Erzeugung regenerativen Energien durch die Wasserkraftnutzung im Einklang mit den Grunds\u00e4tzen der \u00d6kologie und \u00d6konomie. ",
+        "activityOperationType": "SELF_OPERATED",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            }
+        ],
+        "legislativeProjects": [
+            {
+                "name": "EEG 2023"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/48/44/214661/Bilanz-31-12-2022.pdf",
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false
+    },
+    "clientIdentity": {
+        "clientsPresent": false
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "refuseFinancialExpensesInformation": true,
+        "refuseFinancialExpensesInformationReason": "Die Arbeiten f\u00fcr den Verband werden ehrenamtlich und damit unentgeltlich erbracht."
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Reutlingen",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Lutherstra\u00dfe ",
+            "streetNumber": "38",
+            "type": "NATIONAL",
+            "zipCode": "72770"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@ig-wasserkraft.de"
+                }
+            ],
+            "phoneNumber": "+497121490460",
+            "websites": [
+                {
+                    "website": "www.ig-wasserkraft.de"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Hans-Dieter",
+                "emails": [
+                    {
+                        "email": "info@ig-wasserkraft.de"
+                    }
+                ],
+                "function": "1. Vorsitzender",
+                "lastName": "Heilig",
+                "phoneNumber": "+497121490460"
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-05-31",
+            "totalCount": 123
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Bundesverband Deutscher Wasserkraftwerke (BDW) e. V. "
+            },
+            {
+                "membership": "Plattform Erneuerbare Energien Baden-W\u00fcrttemberg e. V. "
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "IGW Interessengemeinschaft Wasserkraft Baden-W\u00fcrttemberg e. V. "
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "publicAllowancesPresent": false,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R005632/21902",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/9b/d8/214662/Lobbyregister-Detailansicht-R005632-2023-06-19_17-53-03.pdf",
+        "refusedAnything": true,
+        "validFromDate": "2023-06-19T17:53:03.000+02:00",
+        "version": 3
+    },
+    "registerEntryId": 21902,
+    "registerNumber": "R005632"
+}

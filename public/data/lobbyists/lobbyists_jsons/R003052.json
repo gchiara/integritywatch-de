@@ -1,0 +1,816 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-09-16T17:00:44.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-07T13:35:24.000+01:00",
+        "lastUpdateDate": "2024-07-05T15:26:48.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 41072,
+                "validFromDate": "2024-07-05T15:26:48.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 40969,
+                "validFromDate": "2024-07-04T14:57:15.000+02:00",
+                "validUntilDate": "2024-07-05T15:26:48.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 35932,
+                "validFromDate": "2024-06-14T10:29:54.000+02:00",
+                "validUntilDate": "2024-07-04T14:57:15.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26626,
+                "validFromDate": "2023-11-03T10:46:03.000+01:00",
+                "validUntilDate": "2024-06-14T10:29:54.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 24160,
+                "validFromDate": "2023-07-25T14:48:18.000+02:00",
+                "validUntilDate": "2023-11-03T10:46:03.000+01:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 5972,
+                "validFromDate": "2022-09-16T17:00:44.000+02:00",
+                "validUntilDate": "2023-07-25T14:48:18.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION_V2",
+            "de": "Sonstiges Unternehmen",
+            "en": "Other company"
+        },
+        "activityDescription": "Die RheinEnergie ist ein in K\u00f6ln und der rheinischen Region beheimateter, bundesweit aktiver Energiedienstleister. Sie ist seit 150 Jahren aktiv f\u00fcr die Menschen und Betriebe im Rheinland und ist auch f\u00fcr morgen gut aufgestellt: Neben Energie und Trinkwasser liefert sie zahlreiche Energiel\u00f6sungen f\u00fcr Privatleute, Gewerbe und Industrie. Kernfeld sind Kooperationen mit Unternehmen aus der Region und bundesweit. Damit hat sie sich sicher im deutschen Energiemarkt positioniert. Die positiven Aspekte der rheinischen Heimat wie Offenheit und Kontaktfreude setzt sie ein, um die Wirtschaftskraft unserer Partner zu st\u00e4rken.\r\n\r\nDabei bleibt sie den Unternehmen und Menschen in der rheinischen Region eng verbunden. In K\u00f6ln und Umland ist die RheinEnergie einer der bedeutendsten Wirtschaftsfaktoren und leistet damit zusammen mit ihren Schwesterunternehmen im Stadtwerke K\u00f6ln Konzern einen erheblichen Beitrag f\u00fcr die Lebensqualit\u00e4t aller B\u00fcrgerinnen und B\u00fcrger.\r\n\r\nDie RheinEnergie betreibt ihre Interessenvertretung in erster Linie \u00fcber Interessenverb\u00e4nde, in denen sie Mitglied ist. Daher betrifft der \u00fcberwiegende Teil der Ausgaben f\u00fcr Interessenvertretung die  Mitgliedsbeitr\u00e4ge f\u00fcr diese Verb\u00e4nde.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/1c/f0/331469/Geschaeftsbericht-2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.0,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 240001,
+            "to": 250000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "K\u00f6ln",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Parkg\u00fcrtel ",
+            "streetNumber": "24",
+            "type": "NATIONAL",
+            "zipCode": "50823"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "d.scheffler@stadtwerkekoeln.de"
+                }
+            ],
+            "phoneNumber": "+492211782656",
+            "websites": [
+                {
+                    "website": "https://www.rheinenergie.com"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Andreas",
+                "lastName": "Feicht",
+                "recentGovernmentFunction": {
+                    "endDate": "2021-12",
+                    "ended": true,
+                    "federalAdministration": {
+                        "function": "Staatssekret\u00e4r",
+                        "supremeFederalAuthority": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK) oder dessen Gesch\u00e4ftsbereich",
+                        "supremeFederalAuthorityShort": "BMWK"
+                    },
+                    "type": {
+                        "code": "FEDERAL_ADMINISTRATION",
+                        "de": "Bundesverwaltung",
+                        "en": "Federal administration"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "firstName": "Susanne",
+                "lastName": "Fabry",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Birgit ",
+                "lastName": "Lichtenstein",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Michael ",
+                "lastName": "Paul",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Stephan",
+                "lastName": "Segbers",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_AG",
+            "de": "Aktiengesellschaft (AG)",
+            "en": "Stock company (AG)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Andreas",
+                "function": "Vorsitzender des Vorstandes",
+                "lastName": "Feicht",
+                "recentGovernmentFunction": {
+                    "endDate": "2021-12",
+                    "ended": true,
+                    "federalAdministration": {
+                        "function": "Staatssekret\u00e4r",
+                        "supremeFederalAuthority": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK) oder dessen Gesch\u00e4ftsbereich",
+                        "supremeFederalAuthorityShort": "BMWK"
+                    },
+                    "type": {
+                        "code": "FEDERAL_ADMINISTRATION",
+                        "de": "Bundesverwaltung",
+                        "en": "Federal administration"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Susanne",
+                "function": "Mitglied des Vorstandes",
+                "lastName": "Fabry",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Birgit ",
+                "function": "Mitglied des Vorstandes",
+                "lastName": "Lichtenstein",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Stephan",
+                "function": "Mitglied des Vorstandes",
+                "lastName": "Segbers",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "AGFW | Der Energieeffizienzverband f\u00fcr W\u00e4rme, K\u00e4lte und KWK e. V. "
+            },
+            {
+                "membership": "BDEW Bundesverband der Energie- und Wasserwirtschaft e.V.  - Bundesebene-"
+            },
+            {
+                "membership": "BVMW - Bundesverband mittelst\u00e4ndische Wirtschaft, Unternehmerverband Deutschlands e.V."
+            },
+            {
+                "membership": "DV - Deutscher Verband f\u00fcr Wohnungswesen, St\u00e4dtebau und Raumordnung e.V."
+            },
+            {
+                "membership": "DVGW - Deutscher Verein des Gas- und Wasserfaches e.V. - Bundesebene"
+            },
+            {
+                "membership": "FGW e.V. - F\u00f6rdergesellschaft Windenergie und andere Erneuerbare Energien"
+            },
+            {
+                "membership": "KWS Energy Knowledge eG "
+            },
+            {
+                "membership": "Schlichtungsstelle Energie e. V."
+            },
+            {
+                "membership": "VDE - Verband der Elektrotechnik, Elektronik und Informationstechnik"
+            },
+            {
+                "membership": "Verband f\u00fcr Energiedienstleistungen, Effizienz und Contracting e.V. (ve-dec)"
+            },
+            {
+                "membership": "VKU - Verband kommunaler Unternehmen e. V. - Bundesebene"
+            },
+            {
+                "membership": "Wirtschaftsforum der SPD e. V."
+            },
+            {
+                "membership": "Wirtschaftsrat der CDU e.V."
+            },
+            {
+                "membership": "KlimaDiskurs.NRW e.V."
+            },
+            {
+                "membership": "Zentraler Immobilien Ausschuss (ZIA) e.V."
+            },
+            {
+                "membership": "Bundesverband Direktvertrieb Deutschland e.V. (BDD)"
+            },
+            {
+                "membership": "DIN Deutsches Institut f\u00fcr Normung e. V."
+            },
+            {
+                "membership": "Metropolregion Rheinland e. V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "RheinEnergie AG"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Talako (Induktives Laden von E-Taxis)",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur",
+                "publicAllowanceEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Siskin (progres NRW - Innovation)",
+                "location": "D\u00fcsseldorf",
+                "name": "Land NRW",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "MuLI (Multimodulares Ladesystem)",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur",
+                "publicAllowanceEuro": {
+                    "from": 170001,
+                    "to": 180000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Heizungstechnik",
+                "location": "Eschborn",
+                "name": "Bundesamt f\u00fcr Wirtschaft und Ausfuhrkontrolle (BAFA)",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "K\u00e4lteanlage (EDL - Systec Plastics)",
+                "location": "Eschborn",
+                "name": " Bundesamt f\u00fcr Wirtschaft und Ausfuhrkontrolle (BAFA)",
+                "publicAllowanceEuro": {
+                    "from": 160001,
+                    "to": 170000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "  Druckluft (EDL - Systec Plastics)",
+                "location": "Eschborn",
+                "name": "Bundesamt f\u00fcr Wirtschaft und Ausfuhrkontrolle (BAFA)",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "K\u00e4lteanlage (EDL - Isola)",
+                "location": "Eschborn",
+                "name": "Bundesamt f\u00fcr Wirtschaft und Ausfuhrkontrolle (BAFA)",
+                "publicAllowanceEuro": {
+                    "from": 140001,
+                    "to": 150000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Zuschuss E-Fahrzeug",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 110001,
+                    "to": 120000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": " Kompressor (HKW Merkenich)",
+                "location": "Eschborn",
+                "name": "Bundesamt f\u00fcr Wirtschaft und Ausfuhrkontrolle (BAFA)",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "P1  (FW Rheinquerung D\u00fcker)",
+                "location": "D\u00fcsseldorf",
+                "name": "Land NRW",
+                "publicAllowanceEuro": {
+                    "from": 410001,
+                    "to": 420000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R003052/41072",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-14T10:29:54.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/e2/ef/331470/Lobbyregister-Detailansicht-R003052-2024-07-05_15-26-48.pdf",
+        "validFromDate": "2024-07-05T15:26:48.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 41072,
+    "registerNumber": "R003052",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EnWG",
+                        "title": "Gesetz \u00fcber die Elektrizit\u00e4ts- und Gasversorgung",
+                        "url": "https://www.gesetze-im-internet.de/enwg_2005"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Kontinuierliche Begleitung der Gesetzesvorhaben",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010852",
+                "statements": [],
+                "title": "Anpassung EnWG"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "KWKG 2023",
+                        "title": "Gesetz f\u00fcr die Erhaltung, die Modernisierung und den Ausbau der Kraft-W\u00e4rme-Kopplung",
+                        "url": "https://www.gesetze-im-internet.de/kwkg_2016"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Verl\u00e4ngerung der Laufzeit des Gesetzes",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010853",
+                "statements": [],
+                "title": "Verl\u00e4ngerung KWK-G"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "W\u00e4rmeLV",
+                        "title": "Verordnung \u00fcber die Umstellung auf gewerbliche W\u00e4rmelieferung f\u00fcr Mietwohnraum",
+                        "url": "https://www.gesetze-im-internet.de/w_rmelv"
+                    },
+                    {
+                        "shortTitle": "BGB",
+                        "title": "B\u00fcrgerliches Gesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Abbau der Hemmnisse f\u00fcr den Ausbau der W\u00e4rmnetze unter Ber\u00fccksichtigung des Mieterschutzes, um die Klimaschutzziele der Bundesregierung zu unterst\u00fctzen",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENERGY_NET",
+                        "de": "Energienetze",
+                        "en": "Energy networks"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010854",
+                "statements": [],
+                "title": "W\u00e4rmeLV i. V. m. \u00a7 556c BGB"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "WPG",
+                        "title": "Gesetz f\u00fcr die W\u00e4rmeplanung und zur Dekarbonisierung der W\u00e4rmenetze",
+                        "url": "https://www.gesetze-im-internet.de/wpg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Aufbau von Rahmenbedingungen f\u00fcr eine technologieoffene und kosteneffiziente Dekarbonisierung der W\u00e4rmeversorgung zur Erreichung der klimaschutzziele auf den jeweiligen politischen Ebenen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_NET",
+                        "de": "Energienetze",
+                        "en": "Energy networks"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010855",
+                "statements": [],
+                "title": "WPG"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GEG",
+                        "title": "Gesetz zur Einsparung von Energie und zur Nutzung erneuerbarer Energien zur W\u00e4rme- und K\u00e4lteerzeugung in Geb\u00e4uden",
+                        "url": "https://www.gesetze-im-internet.de/geg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Beitrag zum Erreichen der Klimaschutzziele im Geb\u00e4udesektor\r\nAbbau von Hemmnissen und Verzahnung der relevanten rechtlichen Rahmenbedingungen insb. Gesetz f\u00fcr die W\u00e4rmeplanung und zur Dekarbonisierung der W\u00e4rmenetze\r\n",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/068/2006875.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMWK",
+                                "title": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                                "url": "https://www.bmwk.de/Navigation/DE/Home/home.html"
+                            },
+                            {
+                                "shortTitle": "BMWSB",
+                                "title": "Bundesministerium f\u00fcr Wohnen, Stadtentwicklung und Bauwesen",
+                                "url": "https://www.bmwsb.bund.de/Webs/BMWSB/DE/startseite/startseite-node.html"
+                            }
+                        ],
+                        "printingNumber": "20/6875",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-%C3%A4nderung-des-geb%C3%A4udeenergiegesetzes-zur-%C3%A4nderung-des-b%C3%BCrgerlichen-gesetzbuches/298723",
+                        "title": "Entwurf eines Gesetzes zur \u00c4nderung des Geb\u00e4udeenergiegesetzes, zur \u00c4nderung der Heizkostenverordnung und zur \u00c4nderung der Kehr- und \u00dcberpr\u00fcfungsordnung"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0010856",
+                "statements": [],
+                "title": "GEG"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BEHG",
+                        "title": "Gesetz \u00fcber einen nationalen Zertifikatehandel f\u00fcr Brennstoffemissionen",
+                        "url": "https://www.gesetze-im-internet.de/behg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Weiterentwicklung des Gesetzes und ggf. Zusammenf\u00fchrung mit ETS II",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010857",
+                "statements": [],
+                "title": "BEHG Evaluierung, Weiterentwicklung, Zusammenf\u00fchrung mit ETS II"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EEG 2023",
+                        "title": "Gesetz f\u00fcr den Ausbau erneuerbarer Energien",
+                        "url": "https://www.gesetze-im-internet.de/eeg_2014"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Ausk\u00f6mmliche Gestaltung der EE-Projekte und Sicherung der Systemstabilit\u00e4t",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010884",
+                "statements": [],
+                "title": "EEG"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

@@ -1,0 +1,638 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-15T20:05:43.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-05T06:53:04.000+01:00",
+        "lastUpdateDate": "2024-06-17T21:29:21.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 35988,
+                "validFromDate": "2024-06-17T21:29:21.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16535,
+                "validFromDate": "2023-02-15T20:05:43.000+01:00",
+                "validUntilDate": "2024-06-17T21:29:21.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_NETWORK_WITHOUT_LEGAL_FORM",
+            "de": "Plattform, Netzwerk, Interessengemeinschaft, Denkfabrik, Initiative, Aktionsb\u00fcndnis o.\u00a0\u00e4.",
+            "en": "Platform, network, community of interest, think tank, initiative, action alliance"
+        },
+        "activityDescription": "ChemDelta Bavaria ist der Zusammenschluss von Unternehmen der chemischen Industrie im Bayerischen Chemiedreieck. Mit der B\u00fcndelung der Interessen wollen wir die Wettbewerbsposition S\u00fcdostbayerns behaupten und ausbauen sowie die wirtschaftliche Zukunft der Region mit ihren hervorragend ausgebildeten Mitarbeiterinnen und Mitarbeitern gestalten.\r\nDas bedeutet f\u00fcr uns konkret:\r\n- die Unterst\u00fctzung der Transformation hin zu einer klimaneutralen Chemieindustrie \u2013 damit zukunftsweisende Produkte, die f\u00fcr das Gelingen der Energiewende ben\u00f6tigt werden, auch k\u00fcnftig im Chemiedreieck hergestellt werden\r\n- die Versorgungssicherheit mit \u201egr\u00fcner\u201c Energie zu international wettbewerbsf\u00e4higen Preisen\r\n- die Modernisierung und den Ausbau der Verkehrsinfrastruktur f\u00fcr eine bessere Anbindung der Region\r\n- die Ausbildung und F\u00f6rderung qualifizierter Nachwuchskr\u00e4fte\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_SERVICE",
+                "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                "en": "Public service"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_ADMINISTRATION",
+                "de": "Verwaltungstransparenz/Open Government",
+                "en": "Public administration"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.1,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 10001,
+            "to": 20000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Burgkirchen a.d. Alz",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Chemiepark Gendorf ",
+            "nationalAdditional2": "Geb\u00e4ude 422",
+            "street": "Industrieparkstra\u00dfe",
+            "streetNumber": "1",
+            "type": "NATIONAL",
+            "zipCode": "84508"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@chemdelta-bavaria.de"
+                },
+                {
+                    "email": "bernhard.langhammer@chemdelta-bavaria.de"
+                }
+            ],
+            "phoneNumber": "+49867975541",
+            "websites": [
+                {
+                    "website": "www.chemdelta-bavaria.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Bernhard",
+                "lastName": "Langhammer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Peter",
+                "lastName": "Ritter von Zumbusch",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Christoph",
+                "lastName": "von Reden",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Markus",
+                "lastName": "Born",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Stefan",
+                "lastName": "H\u00f6lbfer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Andreas",
+                "lastName": "Fischbach",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Andreas",
+                "lastName": "Niedermaier",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Peter",
+                "lastName": "Eder",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Andreas Xaver",
+                "lastName": "M\u00fcller",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Kufner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Oliver",
+                "lastName": "Mieden",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_OTHER_NATIONAL",
+            "de": "Andere Rechtsform nach deutschem Recht",
+            "en": "Other legal form according to German law",
+            "legalFormText": "Initiative"
+        },
+        "legalFormType": {
+            "code": "OTHER_ASSOCIATION_OF_PERSONS",
+            "de": "Sonstige Personenvereinigungen",
+            "en": "Other associations of persons"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Bernhard",
+                "function": "Sprecher ChemDelta Bavaria",
+                "lastName": "Langhammer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Peter",
+                "function": "Vorsitzender Lenkungskreis Chemdelta Bavaria",
+                "lastName": "Ritter von Zumbusch",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Christoph",
+                "function": "Lenkungskreis ChemDelta Bavaria",
+                "lastName": "von Reden",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Markus",
+                "function": "Lenkungskreis ChemDelta Bavaria",
+                "lastName": "Born",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Stefan",
+                "function": "Lenkungskreis ChemDelta Bavaria",
+                "lastName": "H\u00f6lbfer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Andreas",
+                "function": "Lenkungskreis ChemDelta Bavaria",
+                "lastName": "Fischbach",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Andreas",
+                "function": "Lenkungskreis ChemDelta Bavaria",
+                "lastName": "Niedermaier",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Peter",
+                "function": "Lenkungskreis Chemdelta Bavaria",
+                "lastName": "Eder",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Andreas Xaver",
+                "function": "Lenkungskreis",
+                "lastName": "M\u00fcller",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Thomas",
+                "function": "Lenkungskreis",
+                "lastName": "Kufner",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-01-01",
+            "naturalPersons": 0,
+            "organizations": 21,
+            "totalCount": 21
+        },
+        "membersPresent": true,
+        "membershipsPresent": false,
+        "name": "ChemDelta Bavaria"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "Wacker Chemie AG"
+            },
+            {
+                "name": "OMV Deutschland GmbH"
+            },
+            {
+                "name": "Infraserv GmbH & C. Gendorf KG"
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 150001,
+            "to": 160000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002971/35988",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-17T21:29:21.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/68/a9/295095/Lobbyregister-Detailansicht-R002971-2024-06-17_21-29-21.pdf",
+        "validFromDate": "2024-06-17T21:29:21.000+02:00",
+        "version": 4
+    },
+    "registerEntryId": 35988,
+    "registerNumber": "R002971",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Seit Mitte der 2010er Jahre wird mit der Verbindung Pirach-Pleiting\r\neine 380-kV-Leitung ins Bayerische Chemiedreieck geplant. Das\r\nProjekt dient rein der Netzstabilit\u00e4t, die Leitung wird keine zus\u00e4tzliche\r\nKapazit\u00e4t f\u00fcr die Industrie mit sich bringen. Dabei sind weitere\r\nAnschlussleistungen zwingende Voraussetzung, um die angestrebte\r\nKlimaneutralit\u00e4t des Chemiedreiecks realisieren zu k\u00f6nnen. Eine\r\nAbkehr von fossilen Energietr\u00e4gern bedeutet mehr Elektrifizierung \u2013\r\nund damit einen h\u00f6heren Strombedarf.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_NET",
+                        "de": "Energienetze",
+                        "en": "Energy networks"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002655",
+                "statements": [],
+                "title": "Ausbau des Energienetzes"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "ChemG",
+                        "title": "Gesetz zum Schutz vor gef\u00e4hrlichen Stoffen",
+                        "url": "https://www.gesetze-im-internet.de/chemg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die EU hat einen Entwurf f\u00fcr ein Beschr\u00e4nkungsverfahren zu PFAS vorgelegt.\r\nObwohl PFAS, dazu geh\u00f6ren auch die Fluorpolymere, unbestreitbar eine\r\nStoffgruppe mit hoher Umweltrelevanz sind und daher f\u00fcr deren Umgang ein\r\nsorgf\u00e4ltiger regulatorischer Rahmen notwendig ist, sind die davon abgeleiteten\r\nWerkstoffe (bspw. PTFE) erfolgskritische Komponenten f\u00fcr den \u201eGreen\r\nDeal\u201c. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002656",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/12/6e/295091/Stellungnahme-Gutachten-SG2406070023.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                        "de": "Gremien",
+                                        "en": "Committees"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-24"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002656",
+                        "regulatoryProjectTitle": "PFAS Beschr\u00e4nkung",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Eingangsstatement Dr. Langhammer bei der Sachverst\u00e4ndigen-anh\u00f6rung im Umweltausschuss des Bundestags am 24.04.2204\r\n\r\nSehr geehrter Herr Vorsitzender Ebner,\r\nsehr geehrte Damen und Herren Abgeordnete,\r\n\r\nmein Name ist Bernhard Langhammer. Ich bin promovierter Chemiker und seit zwei Jahren Sprecher der Initiative ChemDelta Bavaria. Zuvor war ich 14 Jahre als Gesch\u00e4ftsleiter der InfraServ Gendorf t\u00e4tig und somit auch Leiter des Chemieparks GENDORF, in dem sich die einzige Produktionsanlage f\u00fcr Fluorpolymere in Deutschland befindet, im Besitz der 3M-Tochter Dyneon GmbH.\r\nUm es gleich vorwegzunehmen, eine Beschr\u00e4nkung des Einsatzes von PFAS ist grunds\u00e4tzlich zu bef\u00fcrworten. Ebenso aber auch praktikable Vorgaben zum sicheren Umgang der auf absehbare Zeit nicht ersetzbaren und damit weiterhin erfolgskritischen Fluorkunststoffe. Diese sind als \u201epolymers of low concern\u201c ungef\u00e4hrlich, da chemisch inert und immobil, im Gegensatz zu den problematischen, kurzkettigen Fluor-Tensiden.\r\nIch will mich in meinen weiteren Ausf\u00fchrungen nur auf den Produktionsstandort Gendorf beschr\u00e4nken.\r\nNach \u00fcber 60 Jahren Produktionserfahrung mit Fluorpolymeren ist gerade die dortige Produktion beispielhaft, wie eine erfolgreiche Weiterentwicklung der Produktion von Fluorpolymeren in Zukunft aussehen kann.\r\nDie in Gendorf ist nicht nur die modernste Produktionsanlage weltweit und einzige Anlage ihrer Art in Deutschland, sondern auch die gr\u00f6\u00dfte Anlage in Europa mit dem zugleich breitesten Produktespektrum. Mit rund 17.000 t Produktionskapazit\u00e4t im Jahr entspricht dies 40% der gesamten europ\u00e4ischen Produktion! Gendorf ist damit Marktf\u00fchrer f\u00fcr Fluorkunststoffe in Chemie-und Pharma-Anlagen sowie Automotive, dem zweitgr\u00f6\u00dften Markt f\u00fcr Fluorpolymere. Bei einigen Spezialprodukten ist Gendorf sogar der einzige Anbieter in Europa \u00fcberhaupt.\r\nIn Gendorf gelang es als ersten Standort weltweit den bisherigen Hilfsstoff Perfluoroctans\u00e4ure (PFOA) durch einen weniger kritischen Stoff zu ersetzen, der aber immer noch \u00fcber das Abwasser in geringer Menge in die Umwelt gelangt; denn bis heute ist eine Polymerisation ohne Emulgator erst f\u00fcr etwa die H\u00e4lfte der Produktqualit\u00e4ten gelungen.  Deshalb wurde in Gendorf eine abwasserfreie Produktion ohne jegliche PFAS-Emissionen in die Umwelt konzipiert. \r\nZusammen mit der weltweit ersten Upcycling-Anlage zur Wiederverwertung von Fluorpolymerenin Gendorf \u2013 finanziert auch mit Bundesmitteln \u2013 ist dies ein entscheidender Meilenstein zur Rohstoff- und Energieeffizienz. Diese Technologie ist der neue Weltstandard f\u00fcr den Umgang mit Fluorkunststoffen!\r\n\r\nDie europ\u00e4ische Abh\u00e4ngigkeit f\u00fcr Fluorpolymere von Lieferanten aus anderen Weltregionen wird in K\u00fcrze dramatisch zunehmen, denn die Anlage soll sp\u00e4testens bis Ende 2025 geschlossen werden. Dies angesichts eines in Zukunft stark steigenden Bedarf der Produkte f\u00fcr E-Mobilit\u00e4t, Klimatransformation, Wasserstoffwirtschaft oder die Halbleiterproduktion. Deutschland und Europa werden dann auf Produktionen mit wesentlich geringeren Umweltstandards zur\u00fcckgreifen m\u00fcssen.\r\n\r\nMeine Damen und Herren Abgeordnete,\r\nsetzen Sie sich f\u00fcr rasche Ausnahmeregelungen f\u00fcr Fluorpolymere ein und verhindern Sie den immensen Know-How-Verlust an Umwelttechnologie f\u00fcr die deutsche Wirtschaft mit Schlie\u00dfung der umweltschonenden Produktion in Gendorf. \r\n"
+                        }
+                    },
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/0b/3e/295093/Stellungnahme-Gutachten-SG2406100001.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-13"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002656",
+                        "regulatoryProjectTitle": "PFAS Beschr\u00e4nkung",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Obwohl PFAS, dazu geh\u00f6ren auch die Fluorpolymere, unbestreitbar eine\r\nStoffgruppe mit hoher Umweltrelevanz sind und daher f\u00fcr deren Umgang ein\r\nsorgf\u00e4ltiger regulatorischer Rahmen notwendig ist, sind die davon abgeleiteten\r\nWerkstoffe (bspw. PTFE) erfolgskritische Komponenten f\u00fcr den \u201eGreen\r\nDeal\u201c. So sind deren besondere Eigenschaften meist alternativlos f\u00fcr Anwendungen\r\nzur E-Mobilit\u00e4t (Batterie), in der Energieerzeugung (Brennstoffzelle,\r\nWasserstoff-Elektrolyseure, Windkraft), bei der Fertigung von Halbleitern, dem\r\nChemieanlagenbau sowie der Umwelttechnologie, der Luft- und Raumfahrt,\r\nder Medizin- und der Wehrtechnik. Fluorpolymere sind von der OECD als wenig\r\nbedenklich eingestuft worden (Polymers of Low Concern).\r\nSeit 60 Jahren werden im Chemiepark Gendorf als einzigem Standort in\r\nDeutschland Fluorpolymere produziert. Mit 17.000 Tonnen Jahresproduktion ist\r\ndie Dyneon GmbH, eine Tochter der 3M-Corporation, Marktf\u00fchrer in Europa.\r\nDyneon deckt knapp die H\u00e4lfte des europ\u00e4ischen Bedarfs ab. Die Produktionsst\u00e4tte\r\nin Gendorf ist die modernste und umweltfreundlichste Fluorpolymerproduktion\r\nweltweit.\r\n3M will bis Ende 2025 komplett aus der Produktion und Anwendung von Fluorpolymeren\r\n(PFAS) aussteigen. Das beinhaltet auch die Schlie\u00dfung und R\u00fcckbau\r\naller PFAS-Aktivit\u00e4ten der Dyneon im Chemiepark Gendorf.\r\nChemDelta Bavaria sieht infolge der beabsichtigten Schlie\u00dfung der\r\nFluorpolymer-Produktion im Chemiepark Gendorf gro\u00dfe Risiken:\r\nEin solcher Komplettausstieg k\u00f6nnte allein beim Chemiepark Gendorf\r\nden Verlust von fast 1.000 der insgesamt rund 3.600 Arbeitspl\u00e4tze\r\nnach sich ziehen\r\nInfolge von Kostenprogressionen w\u00fcrde sich \u2013 zus\u00e4tzlich\r\nzu den bereits hohen Energiekosten und weiteren Standortnachteilen\r\n\u2013 die Wettbewerbsf\u00e4higkeit der Region weiter\r\nverschlechtern\r\nDie deutsche und europ\u00e4ische Industrie wird mit dem\r\nAusfall des gr\u00f6\u00dften Produzenten von Fluorpolymeren in\r\neine kritische Abh\u00e4ngigkeit von den verbleibenden\r\nasiatischen und US-amerikanischen Produzenten\r\ngeraten, deren gesamtwirtschaftliches Ausma\u00df erheblich\r\nsein wird\r\nChemDelta Bavaria\r\nStark f\u00fcr die Region \u2013 innovativ f\u00fcr die Welt\r\nwww.chemdelta"
+                        }
+                    }
+                ],
+                "title": "PFAS Beschr\u00e4nkung"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/12/6e/295091/Stellungnahme-Gutachten-SG2406070023.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                "de": "Gremien",
+                                "en": "Committees"
+                            }
+                        ],
+                        "sendingDate": "2024-04-24"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002656",
+                "regulatoryProjectTitle": "PFAS Beschr\u00e4nkung",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Eingangsstatement Dr. Langhammer bei der Sachverst\u00e4ndigen-anh\u00f6rung im Umweltausschuss des Bundestags am 24.04.2204\r\n\r\nSehr geehrter Herr Vorsitzender Ebner,\r\nsehr geehrte Damen und Herren Abgeordnete,\r\n\r\nmein Name ist Bernhard Langhammer. Ich bin promovierter Chemiker und seit zwei Jahren Sprecher der Initiative ChemDelta Bavaria. Zuvor war ich 14 Jahre als Gesch\u00e4ftsleiter der InfraServ Gendorf t\u00e4tig und somit auch Leiter des Chemieparks GENDORF, in dem sich die einzige Produktionsanlage f\u00fcr Fluorpolymere in Deutschland befindet, im Besitz der 3M-Tochter Dyneon GmbH.\r\nUm es gleich vorwegzunehmen, eine Beschr\u00e4nkung des Einsatzes von PFAS ist grunds\u00e4tzlich zu bef\u00fcrworten. Ebenso aber auch praktikable Vorgaben zum sicheren Umgang der auf absehbare Zeit nicht ersetzbaren und damit weiterhin erfolgskritischen Fluorkunststoffe. Diese sind als \u201epolymers of low concern\u201c ungef\u00e4hrlich, da chemisch inert und immobil, im Gegensatz zu den problematischen, kurzkettigen Fluor-Tensiden.\r\nIch will mich in meinen weiteren Ausf\u00fchrungen nur auf den Produktionsstandort Gendorf beschr\u00e4nken.\r\nNach \u00fcber 60 Jahren Produktionserfahrung mit Fluorpolymeren ist gerade die dortige Produktion beispielhaft, wie eine erfolgreiche Weiterentwicklung der Produktion von Fluorpolymeren in Zukunft aussehen kann.\r\nDie in Gendorf ist nicht nur die modernste Produktionsanlage weltweit und einzige Anlage ihrer Art in Deutschland, sondern auch die gr\u00f6\u00dfte Anlage in Europa mit dem zugleich breitesten Produktespektrum. Mit rund 17.000 t Produktionskapazit\u00e4t im Jahr entspricht dies 40% der gesamten europ\u00e4ischen Produktion! Gendorf ist damit Marktf\u00fchrer f\u00fcr Fluorkunststoffe in Chemie-und Pharma-Anlagen sowie Automotive, dem zweitgr\u00f6\u00dften Markt f\u00fcr Fluorpolymere. Bei einigen Spezialprodukten ist Gendorf sogar der einzige Anbieter in Europa \u00fcberhaupt.\r\nIn Gendorf gelang es als ersten Standort weltweit den bisherigen Hilfsstoff Perfluoroctans\u00e4ure (PFOA) durch einen weniger kritischen Stoff zu ersetzen, der aber immer noch \u00fcber das Abwasser in geringer Menge in die Umwelt gelangt; denn bis heute ist eine Polymerisation ohne Emulgator erst f\u00fcr etwa die H\u00e4lfte der Produktqualit\u00e4ten gelungen.  Deshalb wurde in Gendorf eine abwasserfreie Produktion ohne jegliche PFAS-Emissionen in die Umwelt konzipiert. \r\nZusammen mit der weltweit ersten Upcycling-Anlage zur Wiederverwertung von Fluorpolymerenin Gendorf \u2013 finanziert auch mit Bundesmitteln \u2013 ist dies ein entscheidender Meilenstein zur Rohstoff- und Energieeffizienz. Diese Technologie ist der neue Weltstandard f\u00fcr den Umgang mit Fluorkunststoffen!\r\n\r\nDie europ\u00e4ische Abh\u00e4ngigkeit f\u00fcr Fluorpolymere von Lieferanten aus anderen Weltregionen wird in K\u00fcrze dramatisch zunehmen, denn die Anlage soll sp\u00e4testens bis Ende 2025 geschlossen werden. Dies angesichts eines in Zukunft stark steigenden Bedarf der Produkte f\u00fcr E-Mobilit\u00e4t, Klimatransformation, Wasserstoffwirtschaft oder die Halbleiterproduktion. Deutschland und Europa werden dann auf Produktionen mit wesentlich geringeren Umweltstandards zur\u00fcckgreifen m\u00fcssen.\r\n\r\nMeine Damen und Herren Abgeordnete,\r\nsetzen Sie sich f\u00fcr rasche Ausnahmeregelungen f\u00fcr Fluorpolymere ein und verhindern Sie den immensen Know-How-Verlust an Umwelttechnologie f\u00fcr die deutsche Wirtschaft mit Schlie\u00dfung der umweltschonenden Produktion in Gendorf. \r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/0b/3e/295093/Stellungnahme-Gutachten-SG2406100001.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-03-13"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002656",
+                "regulatoryProjectTitle": "PFAS Beschr\u00e4nkung",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Obwohl PFAS, dazu geh\u00f6ren auch die Fluorpolymere, unbestreitbar eine\r\nStoffgruppe mit hoher Umweltrelevanz sind und daher f\u00fcr deren Umgang ein\r\nsorgf\u00e4ltiger regulatorischer Rahmen notwendig ist, sind die davon abgeleiteten\r\nWerkstoffe (bspw. PTFE) erfolgskritische Komponenten f\u00fcr den \u201eGreen\r\nDeal\u201c. So sind deren besondere Eigenschaften meist alternativlos f\u00fcr Anwendungen\r\nzur E-Mobilit\u00e4t (Batterie), in der Energieerzeugung (Brennstoffzelle,\r\nWasserstoff-Elektrolyseure, Windkraft), bei der Fertigung von Halbleitern, dem\r\nChemieanlagenbau sowie der Umwelttechnologie, der Luft- und Raumfahrt,\r\nder Medizin- und der Wehrtechnik. Fluorpolymere sind von der OECD als wenig\r\nbedenklich eingestuft worden (Polymers of Low Concern).\r\nSeit 60 Jahren werden im Chemiepark Gendorf als einzigem Standort in\r\nDeutschland Fluorpolymere produziert. Mit 17.000 Tonnen Jahresproduktion ist\r\ndie Dyneon GmbH, eine Tochter der 3M-Corporation, Marktf\u00fchrer in Europa.\r\nDyneon deckt knapp die H\u00e4lfte des europ\u00e4ischen Bedarfs ab. Die Produktionsst\u00e4tte\r\nin Gendorf ist die modernste und umweltfreundlichste Fluorpolymerproduktion\r\nweltweit.\r\n3M will bis Ende 2025 komplett aus der Produktion und Anwendung von Fluorpolymeren\r\n(PFAS) aussteigen. Das beinhaltet auch die Schlie\u00dfung und R\u00fcckbau\r\naller PFAS-Aktivit\u00e4ten der Dyneon im Chemiepark Gendorf.\r\nChemDelta Bavaria sieht infolge der beabsichtigten Schlie\u00dfung der\r\nFluorpolymer-Produktion im Chemiepark Gendorf gro\u00dfe Risiken:\r\nEin solcher Komplettausstieg k\u00f6nnte allein beim Chemiepark Gendorf\r\nden Verlust von fast 1.000 der insgesamt rund 3.600 Arbeitspl\u00e4tze\r\nnach sich ziehen\r\nInfolge von Kostenprogressionen w\u00fcrde sich \u2013 zus\u00e4tzlich\r\nzu den bereits hohen Energiekosten und weiteren Standortnachteilen\r\n\u2013 die Wettbewerbsf\u00e4higkeit der Region weiter\r\nverschlechtern\r\nDie deutsche und europ\u00e4ische Industrie wird mit dem\r\nAusfall des gr\u00f6\u00dften Produzenten von Fluorpolymeren in\r\neine kritische Abh\u00e4ngigkeit von den verbleibenden\r\nasiatischen und US-amerikanischen Produzenten\r\ngeraten, deren gesamtwirtschaftliches Ausma\u00df erheblich\r\nsein wird\r\nChemDelta Bavaria\r\nStark f\u00fcr die Region \u2013 innovativ f\u00fcr die Welt\r\nwww.chemdelta"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

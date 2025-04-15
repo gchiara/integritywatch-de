@@ -1,0 +1,825 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-09-22T08:05:49.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-15T11:02:23.000+01:00",
+        "lastUpdateDate": "2024-07-16T14:45:53.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 41630,
+                "validFromDate": "2024-07-16T14:45:53.000+02:00",
+                "version": 10,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 41577,
+                "validFromDate": "2024-07-16T10:52:11.000+02:00",
+                "validUntilDate": "2024-07-16T14:45:53.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 41573,
+                "validFromDate": "2024-07-16T10:48:57.000+02:00",
+                "validUntilDate": "2024-07-16T10:52:11.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 35567,
+                "validFromDate": "2024-06-06T11:19:28.000+02:00",
+                "validUntilDate": "2024-07-16T10:48:57.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27373,
+                "validFromDate": "2023-12-05T11:13:45.000+01:00",
+                "validUntilDate": "2024-06-06T11:19:28.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26247,
+                "validFromDate": "2023-10-23T16:54:59.000+02:00",
+                "validUntilDate": "2023-12-05T11:13:45.000+01:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23073,
+                "validFromDate": "2023-07-05T15:36:21.000+02:00",
+                "validUntilDate": "2023-10-23T16:54:59.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22863,
+                "validFromDate": "2023-06-30T17:24:01.000+02:00",
+                "validUntilDate": "2023-07-05T15:36:21.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 11698,
+                "validFromDate": "2022-09-22T08:05:49.000+02:00",
+                "validUntilDate": "2023-06-30T17:24:01.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Der Industrieverband SPECTARIS setzt sich f\u00fcr die Interessen seiner Mitgliedsunternehmen in den Innovationsbranchen Augenoptik, Photonik, Analysen- und Medizintechnik ein. Die Mehrzahl der Mitgliedsunternehmen sind mittelst\u00e4ndische Hersteller aus Deutschland. Ziel ist es, die Wettbewerbsf\u00e4higkeit und die Innovationskraft dieser Unternehmen zu st\u00e4rken. Dabei besch\u00e4ftigt sich der Verband unter anderem mit den industriepolitischen, au\u00dfenwirtschaftlichen und regulatorischen Rahmenbedingungen, die Einfluss auf die Gesch\u00e4ftst\u00e4tigkeit der Branche haben. Die Angestellten des Verbands erarbeiten dazu gemeinsam mit den Mitgliedsunternehmen Positionen, die die Mehrheitsmeinung der Branche widerspiegeln und auf ihre besonderen Anliegen hinweisen. Nach Aufforderung entwickelt der Verband auch Stellungnahmen, die im Verlauf von Gesetzgebungsverfahren vorgelegt werden. Den Kontakt zur Politik stellt der Verband \u00fcber direkte Gespr\u00e4che, \u00fcber \u00f6ffentliche Dialogformate, \u00fcber Branchenkonferenzen und \u00fcber den Versand von Papieren her. ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/48/d3/335275/Handelsbilanz-2023-fuer-SPECTARIS.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/62/78/335274/2021-SPECTARIS-Code-of-Conduct-Deutsch.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 2.41,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 460001,
+            "to": 470000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Werderscher Markt",
+            "streetNumber": "15",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@spectaris.de"
+                }
+            ],
+            "phoneNumber": "+493041402110",
+            "websites": [
+                {
+                    "website": "www.spectaris.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "J\u00f6rg",
+                "lastName": "Mayer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Marcus",
+                "lastName": "Kuhlmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Aziza",
+                "lastName": "Arbabzadah",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Nadine",
+                "lastName": "Benad",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Peter",
+                "lastName": "Frankenstein",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Jennifer",
+                "lastName": "Goldenstede",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Carsten",
+                "lastName": "Leutloff",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Corinna",
+                "lastName": "Mutter",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Wenko",
+                "lastName": "S\u00fcptitz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Bernhard",
+                "lastName": "Ohnesorge",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Andr\u00e9",
+                "lastName": "Schulte",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Mathis",
+                "lastName": "Kuchejda",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Karl",
+                "lastName": "Katzig",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Mirjam",
+                "lastName": "R\u00f6sch",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Christof",
+                "lastName": "Weing\u00e4rtner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Antje",
+                "lastName": "Sch\u00f6nfelder",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Moritz",
+                "lastName": "Anthofer",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "J\u00f6rg",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Mayer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Bernhard",
+                "function": "Vorsitzender",
+                "lastName": "Ohnesorge",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Andr\u00e9",
+                "function": "stellvertretender Vorsitzender",
+                "lastName": "Schulte",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Mathis",
+                "function": "Schatzmeister",
+                "lastName": "Kuchejda",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Mirjam",
+                "function": "Stellvertretende Vorsitzende",
+                "lastName": "R\u00f6sch",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-12-31",
+            "naturalPersons": 0,
+            "organizations": 375,
+            "totalCount": 375
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Deutsche Gesellschaft f\u00fcr Verbandsmanagement"
+            },
+            {
+                "membership": "Wirtschaftsrat der CDU e. V."
+            },
+            {
+                "membership": "MedTechEurope, Br\u00fcssel (Europ\u00e4ische Interessenvertretung f\u00fcr Medizintechnik)"
+            },
+            {
+                "membership": "Euromcontact, Br\u00fcssel (Europ\u00e4ische Interessenvertretung f\u00fcr Kontaktlinsen)"
+            },
+            {
+                "membership": "Verband der Bayerischen Wirtschaft (VBW)"
+            },
+            {
+                "membership": "Verband der deutschen Messewirtschaft (AUMA)"
+            },
+            {
+                "membership": "Ost-Ausschuss der deutschen Wirtschaft (OAOEV)"
+            },
+            {
+                "membership": "EUROM High-Tech Industries"
+            },
+            {
+                "membership": "EUROM 1 (Europ\u00e4ische Interessenvertretung f\u00fcr Augenoptik)"
+            },
+            {
+                "membership": "Photonics 21 (Europ\u00e4ische Interessenvertretung f\u00fcr die Photonik)"
+            },
+            {
+                "membership": "SPD-Wirtschaftsforum e.V."
+            },
+            {
+                "membership": "Medical Device Knowledge Units (MDKU)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "SPECTARIS. Deutscher Industrieverband f\u00fcr Optik, Photonik, Analysen- und Medizintechnik e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 3270001,
+            "to": 3280000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000500/41630",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-07-16T14:45:53.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/84/bc/335276/Lobbyregister-Detailansicht-R000500-2024-07-16_14-45-53.pdf",
+        "validFromDate": "2024-07-16T14:45:53.000+02:00",
+        "version": 10
+    },
+    "registerEntryId": 41630,
+    "registerNumber": "R000500",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "SPECTARIS setzt sich f\u00fcr eine rasche Umsetzung der Krankenhausreform ein und fordert die Einbindung der Medizintechnikverb\u00e4nde in die Weiterentwicklung der Leistungsgruppen, um den aktuellen medizintechnischen Stand bei der Ausgestaltung der Leistungsgruppen zu ber\u00fccksichtigen.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/K/KHVVG_RefE.pdf",
+                            "draftBillProjectUrl": "https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/krankenhausversorgungsverbesserungsgesetz-khvvg.html",
+                            "shortTitle": "BMG",
+                            "title": "Bundesministerium f\u00fcr Gesundheit",
+                            "url": "https://www.bundesgesundheitsministerium.de/"
+                        }
+                    ],
+                    "publicationDate": "2024-04-15",
+                    "title": "Entwurf eines Gesetzes zur Verbesserung der Versorgungsqualit\u00e4t im Krankenhaus und zur Reform der Verg\u00fctungsstrukturen (Krankenhausversorgungsverbesserungsgesetz \u2013 KHVVG)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001498",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/7c/81/284370/Stellungnahme-Gutachten-SG2406040069.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                        "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                        "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-29"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0001498",
+                        "regulatoryProjectTitle": "KHVVG: Einbindung der Medizintechnik in die Weiterentwicklung der Leistungsgruppen ",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Seite 1 von 4\r\nSPECTARIS-Stellungnahme\r\nzum Referentenentwurf des Bundesministeriums f\u00fcr Gesundheit f\u00fcr ein Gesetz zur Verbesserung der Versorgungsqualit\u00e4t im Krankenhaus und zur Reform der Verg\u00fctungsstrukturen (Krankenhausversorgungsverbesserungsgesetz \u2013 KHVVG)\r\nBerlin, 29. April 2024\r\nFachverband Medizintechnik\r\nFon +49 (0)30 41 40 21-62\r\nmedizintechnik@spectaris.de\r\nwww.spectaris.de\r\nSPECTARIS. Deutscher Industrieverband f\u00fcr Optik, Photonik, Analysen- und Medizintechnik.\r\nWerderscher Markt 15, 10117 Berlin\r\nSeite 2 von 4\r\nDer Fachverband Medizintechnik im Deutschen Industrieverband SPECTARIS vertritt rund 130 vorwiegend mittelst\u00e4ndische Mitgliedsunternehmen. Diese sind innovative Hersteller von Medizinprodukten und Medizintechnik sowie qualit\u00e4tsorientierte nicht\u00e4rztliche Leistungserbringer aus dem Bereich der respiratorischen Heimtherapie.\r\nVorbemerkungen\r\nDie Krankenhauslandschaft Deutschlands steht vor vielen Herausforderungen, durch die ein ungesteuerter Strukturwandel bereits eingesetzt hat. Patientinnen und Patienten finden von Bundesland zu Bundesland sowie von Region zu Region unterschiedliche Versorgungsniveaus vor. Das auf Fallpauschalen basierende Verg\u00fctungssystem setzt mengenorientierte Anreize f\u00fcr den Krankenhausbetrieb. Gleichzeitig leiden die H\u00e4user unter immensen Investitionsstaus, da die L\u00e4nder seit Jahren nicht ausreichend f\u00fcr die Investitionskosten aufkommen, obwohl sie dazu eigentlich verpflichtet sind. Und der demografische Wandel betrifft den ganzen Gesundheitssektor in besonderer Weise: W\u00e4hrend die \u00e4ltere Bev\u00f6lkerung w\u00e4chst, steigt auch ihr Versorgungsbedarf, der mit immer weniger (jungen)Fachkr\u00e4ften gedeckt werden muss.\r\nVor diesen Hintergr\u00fcnden begr\u00fc\u00dft SPECTARIS den Reformvorsto\u00df und die drei zentralen Ziele, die mit dem Krankenhausversorgungsverbesserungsgesetz (KHVVG) verfolgt werden: Die Sicherung und Steigerung der Behandlungsqualit\u00e4t, die Gew\u00e4hrleistung einer fl\u00e4chendeckenden medizinischen Versorgung f\u00fcr Patientinnen und Patienten sowie die Entb\u00fcrokratisierung. Das KHVVG wird bedeutende Auswirkungen auf das Gesundheitswesen in Deutschland haben und die Krankenhauslandschaft entscheidend ver\u00e4ndern. Es legt auch die Rahmenbedingungen fest, nach denen die Medizintechnikindustrie in den kommenden Jahren mit den Abnehmern zusammenarbeiten wird. Sollte die Krankenhausreform gut umgesetzt werden, so kann die Medizintechnikindustrie einen gro\u00dfen Beitrag leisten, den Herausforderungen, die eine neue Krankenhauslandschaft mit sich bringt, zu begegnen und die Ziele zu erreichen. Eine erfolgreiche Umsetzung des KHVVG kann au\u00dferdem einen bedeutenden Beitrag zur Verbesserung der Gesundheitsversorgung f\u00fcr Patientinnen und Patienten leisten und einen Innovationsimpuls f\u00fcr die Digitalisierung der Versorgung ausl\u00f6sen. Die Reform sollte reflektieren, dass wir die heutige Versorgungsqualit\u00e4t nur mit digitaler Unterst\u00fctzung halten und verbessern k\u00f6nnen. Dar\u00fcber hinaus sollte sie Planungssicherheit f\u00fcr Krankenh\u00e4user und Unternehmen schaffen, um zuk\u00fcnftige Investitionen zu f\u00f6rdern.\r\nInsbesondere bei der Weiterentwicklung der Leistungsgruppen sollte neben der Wissenschaft \u2013 vertreten durch die Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften, AWMF \u2013 auch die Medizintechnikindustrie eingebunden werden.\r\n\u00dcber unsere Hinweise hinaus unterst\u00fctzen wir die diesbez\u00fcglichen Stellungnahmen des BVMed, des ZVEI und des BDI.\r\nZusammenfassung\r\nDie Reform sollte nun z\u00fcgig umgesetzt werden und damit auch die Zeiten gro\u00dfer Planungsunsicherheit beendet werden k\u00f6nnen. Der Transformationsfonds ist ein sinnvolles Instrument, mit dem der Tatsache Rechnung getragen wird, dass eine Reform dieser Gr\u00f6\u00dfenordnung nicht kostenneutral umzusetzen ist. Da ein gro\u00dfes Problem des Krankenhaussektors jedoch die Unterfinanzierung durch die L\u00e4nder ist, m\u00fcssen die L\u00e4nder endlich\r\nSeite 3 von 4\r\nihrer Pflicht zur Investitionskostenfinanzierung bedarfsdeckend nachkommen; ansonsten ist auch die Erreichung der Reformziele in Gefahr. Die mit der Reform angestrebte gr\u00f6\u00dfere Ambulantisierung sollte ganzheitlich gedacht werden und von Anfang an \u00dcberg\u00e4nge und Schnittstellen mit einplanen. Die medizintechnische Ausstattung ist ein grundlegender Qualit\u00e4tsfaktor der Gesundheitsversorgung und kann dar\u00fcber hinaus innovative L\u00f6sungen f\u00fcr die strukturellen Herausforderungen des Gesundheitssystems bieten. Daf\u00fcr braucht die deutsche Medizintechnikindustrie ein innovationsfreundliches Umfeld und finanzielle Planungssicherheit.\r\nKaltes Kliniksterben beenden, Planungssicherheit schaffen\r\n\u00dcber 30 Krankenhausinsolvenzen gab es im Jahr 2023 und f\u00fcr 2024 bef\u00fcrchtet die DKG mehr als doppelt so viele. Die bereits vorhandene Unsicherheit wurde \u00fcberdies durch die politischen Verwerfungen im Rahmen der Reformbem\u00fchungen im vergangenen Jahr deutlich verst\u00e4rkt und viele Planungs- und Investitionsvorhaben auf unbestimmte Zeit auf Eis gelegt. Es ist daher zu begr\u00fc\u00dfen, wenn die Reform z\u00fcgig umgesetzt wird und damit auch wieder eine h\u00f6here Planungssicherheit f\u00fcr alle Akteure entsteht.\r\nAusreichende Investitionsfinanzierung sicherstellen\r\nDer Krankenhaussektor ist bereits unterfinanziert und der reformbedingte Wandel wird weitere Kosten verursachen. Daher ist die Einrichtung des Transformationsfonds richtig und wichtig. Jedoch m\u00fcssen die Bundesl\u00e4nder endlich vollumf\u00e4nglich ihrer Pflicht zur Investitionskostenfinanzierung nachkommen. Der Gesetzesentwurf sieht zwar vor, dass die L\u00e4nder nur dann Gelder aus dem Transformationsfonds erhalten, wenn sie daneben Investitionen mindestens in der H\u00f6he der Vorjahre leisten. Da die Finanzierung in der Vergangenheit jedoch nicht ausreichend war, tr\u00e4gt diese Regelung nur geringf\u00fcgig dazu bei, die L\u00e4nder zur Pflichterf\u00fcllung anzuhalten. Solange die Unterfinanzierung anh\u00e4lt, werden die Reformziele nicht nachhaltig erreicht und Potenziale, die sich beispielsweise aus der Digitalisierung ergeben k\u00f6nnten, werden nicht gehoben werden k\u00f6nnen.\r\nDigitalisierungspotenziale aussch\u00f6pfen und Datennutzung erm\u00f6glichen\r\nDie Einf\u00fchrung des Gesundheitsdatennutzungsgesetzes (GDNG) und des Digitalgesetzes (DigiG) durch das Bundesgesundheitsministerium (BMG) hat Ver\u00e4nderungen in Bezug auf die Verwendung von Gesundheitsdaten f\u00fcr Forschungszwecke bewirkt. Allerdings unterliegen Forschungsvorhaben mit Krankenhausdaten auch den jeweiligen Landeskrankenhausgesetzen, welche diese Neuregelungen noch nicht ber\u00fccksichtigen und teilweise strenger sind. SPECTARIS w\u00fcrde begr\u00fc\u00dfen, wenn die Bestimmungen des GDNG und DigiG auch in den Landeskrankenhausgesetzen zu finden w\u00e4ren, um eine m\u00f6glichst einheitliche Grundlage f\u00fcr die Datennutzung aus Krankenh\u00e4usern zu schaffen \u2013 etwa f\u00fcr das Training von K\u00fcnstlicher Intelligenz basierend auf Ger\u00e4tedaten.\r\nDas KHVVG erfordert, dass nahezu alle Bundesl\u00e4nder in den kommenden Jahren ihre Landeskrankenhausgesetze an die bundesweiten Neuregelungen anpassen. Dies bietet eine einmalige Gelegenheit, diesen Prozess zu nutzen, um die Datennutzung in Deutschland wirklich voranzutreiben und den Forschungsstandort zu st\u00e4rken.\r\nSeite 4 von 4\r\nAmbulantisierung ganzheitlich denken\r\nDie bereits begonnene Ambulantisierung der medizinischen Versorgung muss ganzheitlich umgesetzt werden, damit sie die Versorgungsqualit\u00e4t nicht gef\u00e4hrdet. Dabei sollten die M\u00f6glichkeiten der Digitalisierung und des Telemonitorings genutzt werden. Insbesondere die Nachversorgung im au\u00dferklinischen Bereich sowie die Schnittstellen zur Weiterversorgung m\u00fcssen zwingend von Anfang an mitgeplant werden. Andernfalls besteht die Gefahr, dass statt realer Einsparungen f\u00fcr das Gesundheitssystem hohe Folgekosten f\u00fcr Patiententransporte oder weitere Behandlungen entstehen.\r\nInnovationskraft der Medizintechnikindustrie f\u00f6rdern und nutzen\r\nDie medizintechnische Ausstattung eines Krankenhauses ist ein wesentlicher Faktor der Behandlungsqualit\u00e4t. Die bundesweit einheitlichen Mindestanforderungen an die geplanten Leistungsgruppen, die den Krankenh\u00e4usern zugewiesen werden sollen, m\u00fcssen daher regelm\u00e4\u00dfig und zeitnah an den Stand der Technik f\u00fcr eine moderne Gesundheitsversorgung auf aktuellem Niveau angepasst werden. Daher m\u00fcssen medizintechnische Industrieverb\u00e4nde wie SPECTARIS neben den laut Referentenentwurf bereits vorgesehenen medizinisch-wissenschaftlichen Fachgesellschaften aktiv an der Erarbeitung eingebunden werden und mitwirken sowie ein Vorschlagsrecht bekommen, um Weiterentwicklungen, Neuaufnahmen und Anpassungen der Leistungsgruppen ansto\u00dfen zu k\u00f6nnen.\r\nSPECTARIS und seine Mitgliedsunternehmen stehen f\u00fcr diese Mitarbeit gerne bereit.\r\nDar\u00fcber hinaus hat die Innovationskraft der deutschen Medizintechnikindustrie das Potenzial, L\u00f6sungen f\u00fcr die gro\u00dfen Herausforderungen der Gesundheitsversorgung zu entwickeln \u2013 durch Telemonitoring und innovative Technik k\u00f6nnen beispielsweise Versorgungsl\u00fccken geschlossen werden. Um diese Chancen bestm\u00f6glich nutzen zu k\u00f6nnen, ben\u00f6tigt die Medizintechnikindustrie sowohl finanzielle Planungssicherheit als auch ein innovationsfreundliches Umfeld."
+                        }
+                    }
+                ],
+                "title": "KHVVG: Einbindung der Medizintechnik in die Weiterentwicklung der Leistungsgruppen "
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Es wird empfohlen, ein Stellungnahmeverfahren f\u00fcr die Richtlinie durch die ma\u00dfgeblichen Spitzenverb\u00e4nde im Bereich der Hilfsmittelversorgung einzurichten. Eine zeitnahe Anpassung der Richtlinie nach Genehmigung durch das Bundesministerium f\u00fcr Gesundheit (BMG) sollte durch eine festgesetzte Frist gew\u00e4hrleistet werden.\r\n\r\nEs wird vorgeschlagen, den Mehrkostenbericht transparenter und neu zu gestalten. Dabei sollte nicht nur die Anzahl der Leistungsantr\u00e4ge ber\u00fccksichtigt werden, sondern auch die Verg\u00fctung und Qualit\u00e4t der ben\u00f6tigten Versorgung. Um eine transparente und vergleichbare Versorgung sicherzustellen, sollte eine einheitliche Formulierung in den Hilfsmittelversorgungsvertr\u00e4gen angestrebt werden.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/G/GVSG_Referentenentwurf.pdf",
+                            "draftBillProjectUrl": "https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/gvsg.html",
+                            "shortTitle": "BMG",
+                            "title": "Bundesministerium f\u00fcr Gesundheit",
+                            "url": "https://www.bundesgesundheitsministerium.de/"
+                        }
+                    ],
+                    "publicationDate": "2024-04-12",
+                    "title": "Entwurf eines Gesetzes zur St\u00e4rkung der Gesundheitsversorgung in der Kommune (Gesundheitsversorgungsst\u00e4rkungsgesetz \u2013 GVSG)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001499",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/5a/fa/284372/Stellungnahme-Gutachten-SG2406040070.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                        "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                        "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-30"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0001499",
+                        "regulatoryProjectTitle": "GVSG: Vereinfachten Genehmigungsprozesse f\u00fcr nicht im Hilfsmittelverzeichnis gelistete Hilfsmittel",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Seite 1 von 4\r\nSPECTARIS-Stellungnahme\r\nzum Referentenentwurf eines \r\nGesetzes zur St\u00e4rkung der Gesundheitsversorgung in der \r\nKommune (Gesundheitsversorgungsst\u00e4rkungsgesetz - GVSG)\r\nBerlin, 30. April 2024\r\nSPECTARIS. Deutscher Industrieverband f\u00fcr Optik, Photonik, Analysen- und Medizintechnik\r\nFachverband Medizintechnik\r\nWerderscher Markt 15, 10117 Berlin\r\nFon +49 (0)30 41 40 21-0\r\nmedizintechnik@spectaris.de\r\nwww.spectaris.de\r\nSeite 2 von 4\r\nDer Fachverband Medizintechnik im Deutschen Industrieverband SPECTARIS vertritt rund 130 vorwiegend \r\nmittelst\u00e4ndische Mitgliedsunternehmen. Diese sind innovative Hersteller von Medizinprodukten und Medizintechnik \r\nsowie qualit\u00e4tsorientierte nicht\u00e4rztliche Leistungserbringer aus dem Bereich der respiratorischen Heimtherapie.\r\nVorbemerkungen und allgemeine Anmerkungen \r\nSPECTARIS begr\u00fc\u00dft grunds\u00e4tzlich die Intention des Gesetzgebers, die Versorgung vor Ort zu verbessern\r\nund sozial benachteiligten Gruppen einen besseren Zugang zu medizinischen Leistungen und Angeboten \r\nder Pr\u00e4vention \u00fcber niederschwellige Beratungsangebote zu verschaffen. Gleichzeitig bedauert \r\nSPECTARIS, dass in dem nunmehr vorgelegten neuen Referentenentwurf eines Gesetzes zur St\u00e4rkung der \r\nGesundheitsversorgung in der Kommune (Gesundheitsversorgungsst\u00e4rkungsgesetz \u2013 GVSG) sowohl die \r\nGesundheitskioske, die Prim\u00e4rversorgungszentren sowie die regionalen Gesundheitsregionen in Verantwortung \r\nder Kommunen gestrichen worden sind. Auch die F\u00f6rderung von Medizinstudienpl\u00e4tzen ist nicht mehr in dem \r\nReferentenentwurf enthalten. Besonders bedauerlich ist, dass insbesondere der geplante \u00a7 140b SGB V \r\n(Gesundheitsregionen) gestrichen wurde. Hier h\u00e4tte es die Chance gegeben, eine Art \u201eregionaler\r\nSelektivvertr\u00e4ge\u201c zu entwickeln, um auch innovative regionale Versorgungskonzepte umsetzen zu k\u00f6nnen.\r\nGeblieben sind zum Aufbau einer starken lokalen Versorgungsinfrastruktur die M\u00f6glichkeit zur Gr\u00fcndung \r\nkommunaler medizinischer Versorgungszentren. Den L\u00e4ndern soll erm\u00f6glicht werden, ihre \r\nversorgungsrelevanten Erkenntnisse in den Zulassungsaussch\u00fcssen verbindlich zur Geltung zu bringen und \r\ndamit die vertrags\u00e4rztliche Versorgung ma\u00dfgeblich mitzugestalten. Aus Sicht von SPECTARIS bleibt hier \r\nabzuwarten, inwieweit dies in z.B. kleinr\u00e4umigere Versorgungs\u00fcbersichten bzw. Defizitkartierungen m\u00fcnden \r\nk\u00f6nnte. Diese Kartierung (analog dem Versorgungsatlas des Zentralinstituts f\u00fcr die kassen\u00e4rztliche Versorgung \r\nin der Bundesrepublik Deutschland (ZI) k\u00f6nnte dann auch eine gute \u00dcbersicht f\u00fcr Hilfsmittelversorgungen im \r\nregionalen Umfeld bieten. Auch der Einsatz von Telemedizin/telemonitorische Therapiebegleitung sollte dabei \r\ngleich mitgedacht werden.\r\nEtwa ein Viertel der rund 73 Millionen gesetzlich Krankenversicherten ben\u00f6tigt fr\u00fcher oder sp\u00e4ter ein \r\nmedizinisches Hilfsmittel und mehr als 4 Millionen Menschen werden zu Hause gepflegt. Daraus resultieren \r\naktuell ca. 30 Millionen Hilfsmittelversorgungen. \u00dcber 71.000 Hilfsmittel Leistungserbringer stellen eine \r\nqualit\u00e4tsgesicherte Versorgung sicher und unterst\u00fctzen damit den Anspruch von Versicherten auf eine \r\nm\u00f6glichst hohe Lebensqualit\u00e4t im t\u00e4glichen Leben. Der Hilfsmittelbereich spielt somit eine wichtige \r\nRolle in der deutschen Gesundheitsversorgung.\r\nDer vorliegende Referentenentwurf enth\u00e4lt aus Sicht von SPECTARIS einige positive Aspekte f\u00fcr die \r\nVerbesserung der Hilfsmittelversorgung, insbesondere f\u00fcr die Versorgung schwerst- und \r\nmehrfachbehinderter Kinder und Jugendlicher, auf die wir im Folgenden eingehen wollen.\r\nZu Artikel 1, Nr. 2: Neu \u00a7 33, Abs. 5 c SGB V: Vereinfachung des \r\nGenehmigungsverfahrens f\u00fcr Hilfsmittel (S. 12)\r\nDie vorgeschlagene \u00c4nderung in Bezug auf die Vereinfachung des Genehmigungsverfahrens f\u00fcr Hilfsmittel \r\nf\u00fcr schwerst- und mehrfachbehinderte Kinder und Jugendliche ist zu begr\u00fc\u00dfen.\r\nDiese \u00c4nderung kann f\u00fcr die Hilfsmittel-Leistungserbringer, die schwerst- und mehrfachbehinderte Kinder \r\nund Jugendliche versorgen, Vieles im Tagesgesch\u00e4ft erleichtern. Bisher haben Genehmigungsantr\u00e4ge f\u00fcr \r\ndiese speziellen Versorgungen oftmals sehr lange gedauert. F\u00fcr beispielsweise die respiratorische \r\nHeimtherapie kann das die Heim-Beatmung, die Sauerstoffversorgung, Hustenassistenten oder Hilfsmittel \r\nf\u00fcr Tracheostoma betreffen. Letztere genannte Versorgungsbereiche sind zwar eher unkritisch. Es ist jedoch \r\nzu beachten, dass auch Verordnungen f\u00fcr Produkte, f\u00fcr die es keine Produktart gibt und die nicht im \r\nSeite 3 von 4\r\nHilfsmittelverzeichnis aufgef\u00fchrt sind (z. B. die Highflow-Therapie), den bisherigen aufw\u00e4ndigen\r\nGenehmigungsprozessen unterlagen. Diese wurden bislang Case-by-Case auch in l\u00e4nger andauernden \r\nProzessen insbesondere f\u00fcr S\u00e4uglinge gepr\u00fcft. Es w\u00e4re daher zu begr\u00fc\u00dfen, wenn die vereinfachten \r\nGenehmigungsprozesse auch f\u00fcr nicht im Hilfsmittelverzeichnis gelistete Hilfsmittelprodukte gelten \r\nw\u00fcrden.\r\nSt\u00e4rkung der lokalen Versorgungsinfrastruktur\r\nDie geplante \u00c4nderung des \u00a7 96 Abs. 2a SGB V in Bezug auf die Bestimmungen zur Gr\u00fcndung kommunaler \r\nmedizinischer Versorgungszentren, welche einen wichtigen Schritt zur St\u00e4rkung der lokalen \r\nVersorgungsinfrastruktur darstellen, sind positiv zu bewerten. Vor allem die M\u00f6glichkeit f\u00fcr die L\u00e4nder, ihre \r\nversorgungsrelevanten Erkenntnisse in den Zulassungsaussch\u00fcssen einzubringen, k\u00f6nnte die vertrags\u00e4rztliche \r\nVersorgung ma\u00dfgeblich beeinflussen. Es bleibt jedoch abzuwarten, ob diese Ma\u00dfnahmen zu einer auf die \r\njeweilige Region bezogenen verbesserten Versorgungs\u00fcbersicht f\u00fchren und speziell im Bereich der \r\nHilfsmittelversorgung positive Auswirkungen haben werden. Der Einsatz von Telemedizin und telemonitorischer \r\nTherapiebegleitung sollte dabei gleich mitgedacht werden.\r\n.\r\nZu Artikel 1, Nr. 24 \u00c4nderung \u00a7 217f SGB V in Verbindung mit Artikel 2, Nr. 4 \r\n\u00a7 53 SGB XI: Richtlinienverfahren im Hilfsmittelbereich (S. 21, S. 23)\r\nDie geplante \u00c4nderung des \u00a7 217f SGB V zur Erarbeitung einer Richtlinie anstelle einer Rahmenrichtlinie ist \r\ngrunds\u00e4tzlich zu begr\u00fc\u00dfen, da dies zu mehr Transparenz und Rechtssicherheit f\u00fchren kann. Jedoch fordern \r\nwir ein Stellungnahmeverfahren f\u00fcr die Richtlinie durch die ma\u00dfgeblichen Spitzenverb\u00e4nde im Bereich der \r\nHilfsmittelversorgung. \r\nSt\u00e4rkere Betonung des Sachleistungsprinzips und Transparenz im \r\nHilfsmittelbereich\r\nDer Grundsatz der individuell erforderlichen Versorgung nach dem Sachleistungsprinzip sollte im Gesetz \r\nst\u00e4rker betont werden. Der Mehrkostenbericht sollte transparenter und neu gestaltet werden. Eine Kennzahl \r\nk\u00f6nnte die Angemessenheit der vereinbarten Vertragspreise im Hilfsmittelbereich sein. Es sollte eine \r\nj\u00e4hrliche \u00dcberpr\u00fcfung der Auswahl der Kennzahlen und der Weiterentwicklung der Vorgaben in der \r\nRichtlinie erfolgen. Auch die Genehmigung durch das BMG sollte entsprechend mit einer Frist versehen \r\nwerden, um eine zeitnahe Anpassung zu gew\u00e4hrleisten.\r\nSt\u00e4rkere Ber\u00fccksichtigung von Verg\u00fctung und Kostenunterschieden in der \r\nHilfsmittelversorgung\r\nDie individuelle Hilfsmittelversorgung erfordert eine verst\u00e4rkte Ber\u00fccksichtigung der Verg\u00fctung und \r\nfinanziellen Belastungen f\u00fcr die Versicherten. Dies umfasst insbesondere die Unterschiede in den Kosten, \r\ndie je nach Kassenzugeh\u00f6rigkeit aufgrund von Vertragspreisen, Versorgungsmengen und Produktqualit\u00e4t \r\nvariieren k\u00f6nnen. Es ist daher von gro\u00dfer Bedeutung, nicht nur die Anzahl der Leistungsantr\u00e4ge, sondern \r\nauch die Verg\u00fctung und Qualit\u00e4t der ben\u00f6tigten Versorgung zu beachten. Um eine transparente und \r\nvergleichbare Versorgung zu gew\u00e4hrleisten, sollte eine einheitliche Formulierung in den \r\nHilfsmittelversorgungsvertr\u00e4gen angestrebt werden. \r\nSeite 4 von 4\r\nZus\u00e4tzlich ist eine Kl\u00e4rung der Pauschalen erforderlich, da die derzeitige \u201egenerische\u201c Formulierung \u201ealles \r\nmedizinisch erforderliche\u201c, oft zu unterschiedlichen Interpretationen f\u00fchrt und eine genaue Bestimmung der \r\nenthaltenen Leistungen entscheidend f\u00fcr die Vergleichbarkeit mittels Statistik ist.\r\nFazit\r\nDer Referentenentwurf enth\u00e4lt einige positive Aspekte f\u00fcr die Hilfsmittelversorgung, es besteht jedoch noch \r\nVerbesserungspotenzial. Speziell die individuelle Versorgung und die Verg\u00fctung der Hilfsmittelversorgung \r\nsollten st\u00e4rker im Fokus stehen. Besonders kritisch erscheint die Streichung des \u00a7 140b SGB V \r\n(Gesundheitsregionen). Diese Ma\u00dfnahme h\u00e4tte die M\u00f6glichkeit geboten, innovative regionale \r\nVersorgungskonzepte ohne Patienteneinschreibung umzusetzen, was eine bedauerliche verpasste Chance \r\ndarstellt.\r\nDar\u00fcber hinaus spricht sich SPECTARIS daf\u00fcr aus, dass auch ein Stellungnahmeverfahren zur Richtlinie \r\ndurch die ma\u00dfgeblichen Spitzenverb\u00e4nde im Bereich der Hilfsmittelversorgung durchgef\u00fchrt wird. Die \r\nGenehmigung der Richtlinie durch das BMG sollte mit einer Frist versehen werden, um eine zeitnahe \r\nAnpassung zu gew\u00e4hrleisten. Abschlie\u00dfend m\u00f6chte SPECTARIS betonen, dass es sehr wichtig ist, die \r\nAuswirkungen des Gesetzesentwurfs auf die Hilfsmittelversorgung genau zu beobachten und ggf. weitere \r\nAnpassungen vorzunehmen."
+                        }
+                    }
+                ],
+                "title": "GVSG: Vereinfachten Genehmigungsprozesse f\u00fcr nicht im Hilfsmittelverzeichnis gelistete Hilfsmittel"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Das PFAS-Dossier im Rahmen der REACH-Verordnung beabsichtigt eine umfassende EU-weite Beschr\u00e4nkung  von PFAS bei der Europ\u00e4ischen Chemikalienagentur (ECHA). Der Industrie sollen gestaffelte \u00dcbergangsfristen von 18 Monaten bis zw\u00f6lf Jahren einger\u00e4umt werden - je nachdem, ob es bereits Alternativen zu PFAS gibt, ob diese noch entwickelt werden m\u00fcssen oder ob Zulassungsverfahren oder Zertifizierungen erforderlich sind. Die wirtschaftlichen Kollateralsch\u00e4den werden von der Industrie als gravierend eingesch\u00e4tzt und die Pauschalit\u00e4t der Beschr\u00e4nkung als wissenschaftlich nicht begr\u00fcndet, weshalb ein kurzfristiges, zeitweise Zur\u00fcckziehen des PFAS-Dossiers seitens der einreichenden Beh\u00f6rden erreicht werden soll, um unbedenkliche Fluorpolymere der Industrie als Hochleistungswerkstoffe zu erhalten.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011064",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/9e/0e/334772/Stellungnahme-Gutachten-SG2407160005.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                        "de": "Bundeskanzleramt (BKAmt)",
+                                        "en": "Bundeskanzleramt (BKAmt)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMBF",
+                                        "de": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                                        "en": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                        "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                        "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-01"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0011064",
+                        "regulatoryProjectTitle": "PFAS-Beschr\u00e4nkungsverfahren der EU im Rahmen der REACH-Verordnung",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "\u00bb\tEin unbeabsichtigtes Hightech-Verbot bahnt sich an:\r\nIm Januar 2023 haben die f\u00fcr REACH zust\u00e4ndigen Beh\u00f6rden Deutschlands, der Niederlande, D\u00e4nemarks, Schwedens und Norwegens einen Entwurf f\u00fcr eine umfassende Beschr\u00e4nkung von PFAS bei der Europ\u00e4ischen Chemikalienagentur (ECHA) eingereicht und damit den Startschuss f\u00fcr ein Beschr\u00e4nkungsverfahren im Rahmen von REACH gegeben. Grund daf\u00fcr ist, dass sich einige PFAS in der Umwelt und in Organismen anreichern und zudem gesundheitssch\u00e4dlich sind. PFAS ist eine Abk\u00fcrzung f\u00fcr per- und polyfluorierte Alkylsubstanzen, die oft als \"Ewigkeitschemikalien\" bezeichnet werden. Fluorchemikalien werden ausschlie\u00dflich k\u00fcnstlich hergestellt. Laut dem bei der ECHA eingereichten Dossier werden allein in der EU rund 300.000 Tonnen der Industriechemikalien pro Jahr produziert und verarbeitet. Zu ihnen geh\u00f6ren mehr als 10.000 Stoffe, die hervorragende technische Eigenschaften haben: Sie sind u. a. temperatur-, druck- korrosions- und strahlenbest\u00e4ndig, reaktionstr\u00e4ge und biegsam und daher seit langem bew\u00e4hrte Chemikalien. Den PFAS wird in Hochleistungswerkstoffen genau die technische Eigenschaft zum politischen Verh\u00e4ngnis, wegen der sie eingesetzt werden und \u00fcberwiegend unersetzbar sind: ihre Langlebigkeit und Widerstandsf\u00e4higkeit auch in essentiellen Anwendungen, industriellen Hightech-Produkten und Produktionsprozessen. So sind gro\u00dfe Bereiche der Analysen-, Bio- und Labortechnik, der Optik, der Photonik oder der Medizintechnik durch das PFAS-Verbot direkt gef\u00e4hrdet. Betroffen w\u00e4ren nicht nur die Produkte an sich, sondern auch die zu ihrer Herstellung ben\u00f6tigten Produktionsprozesse.\r\n\r\nDer Industrie sollen gestaffelte \u00dcbergangsfristen von 18 Monaten bis maximal 13,5 Jahren einger\u00e4umt werden - je nachdem, ob es bereits Alternativen zu PFAS gibt, ob diese noch entwickelt werden m\u00fcssen oder ob langwierige Zulassungsverfahren oder Zertifizierungen erforderlich sind. Dabei m\u00fcssten auch die Alternativen die gleichen Eigenschaften vorweisen, wie die verbotenen Substanzen, also extrem widerstandsf\u00e4hig und zugleich f\u00fcr ihre Anwendungen auch zul\u00e4ssig sein. SPECTARIS, als Vertreter verschiedener Hightech-Industrien in Deutschland, ist daher sehr besorgt \u00fcber die geplanten PFAS-Beschr\u00e4nkungen in Europa. Um m\u00f6glichen Schaden von der gesamten Hightech-Branche abzuwenden, ben\u00f6tigt die Industrie dringend klare Signale und Ma\u00dfnahmen von Seiten der politischen Entscheidungstr\u00e4ger, um wieder Planungssicherheit herzustellen und um einen grundlegend anderen Ansatz zu verfolgen. Wir sind der Meinung, dass der derzeitige Ansatz, der durch weitreichende Verbote und begrenzte Ausnahmen gekennzeichnet ist, nicht praktikabel ist und eine sofortige Neubewertung erfordert.\r\n\r\n\r\n\r\n\r\n\u00bb\tAuswirkungen eines PFAS-Verbots am Beispiel der Medizintechnikindustrie:\r\nPFAS werden in Medizinprodukten vielfach aufgrund ihrer Langlebigkeit und Widerstandsf\u00e4higkeit am und im menschlichen K\u00f6rper eingesetzt. Medizinprodukte wie beispielsweise Inkubatoren f\u00fcr Neugeborene, Herz-Lungen-Maschinen oder Implantate wie Herzschrittmacher, Stents oder Gelenke, aber auch Produkte mit Blutkontakt oder Verpackungen f\u00fcr steril in Verkehr gebrachte Medizinprodukte k\u00f6nnen nach einem Pauschalverbot der PFAS-Stoffgruppe nicht mehr hergestellt und verwendet werden. \r\n\r\nAuch die Endoskopie und minimalinvasive Chirurgie sind wichtige Teilbereiche der diagnostischen und interventionellen Medizin. Dort werden aus der gro\u00dfen PFAS-Gruppe \u00fcberwiegend Fluorpolymere oder Fluorelastomere eingesetzt. Erst mit diesen Materialien wurde das medizinische Teilgebiet so erfolgreich, wie es heute ist. Gallenblase, Blinddarm, Leistenbruch, Uterus oder Prostata, um nur Beispiele zu nennen, k\u00f6nnten ohne PFAS nicht mehr minimalinvasiv mittels endoskopischer Chirurgie behandelt werden. Geeignete Ersatzmaterialien gibt es hier nicht.  Die Folge: Derartige Medizinprodukte werden vom Markt verschwinden, Patientinnen und Patienten m\u00fcssten wie im letzten Jahrhundert maximalinvasiv durch die \u00d6ffnung des Bauchraums operiert werden.\r\n\r\nDabei ist die Medizintechnik nur ein Beispiel. Kein Flugzeug, kein Auto, keine Lithium- oder Brennstoffzelle funktioniert ohne diese Hochleistungswerkstoffe, auch kein Halbleiterchip kann ohne PFAS hergestellt werden, die gr\u00fcne Transformation ist auf diese Hochleistungswerkstoffe angewiesen. Zentrale europ\u00e4ische Vorhaben wie der Green Deal oder der EU-Chips-Act sind ohne PFAS nicht denkbar. \r\n\r\n\r\n\u00bb\tSPECTARIS zentrale Forderungen:\r\n1.\tR\u00fcckkehr zu einem risikobasierten Ansatz:\r\n\u2022\tWir pl\u00e4dieren f\u00fcr eine R\u00fcckkehr zu einem risikobasierten Ansatz im Einklang mit der bestehenden REACH-Verordnung. Der aktuelle Vorschlag geht \u00fcber vern\u00fcnftige Ma\u00dfnahmen hinaus und f\u00fchrt zu Rechtsunsicherheiten. Persistenz allein ist kein Risiko.\r\n2.\tBeschr\u00e4nkungsumfang an das Risikoprofil der Substanzen anpassen:\r\n\u2022\tEs sollten unterschiedliche Risikoprofile von Stoffgruppen ber\u00fccksichtigt werden. Fluorpolymere wie Teflon (PTFE), die von der OECD als \"polymers of low concern\" eingestuft werden, sollten ausgenommen werden. Im Gegensatz zu PFOS und PFOA haben die Fluorpolymere andere charakteristische Risikoprofile und reichern sich nicht im Grundwasser oder im menschlichen K\u00f6rper an. Einen risikobasierten Ansatz zu verfolgen, bedeutet zwangsl\u00e4ufig, stoffspezifische Ausnahmen zu definieren und damit Produktionsanlagen, Lieferketten und die Ersatzteilverf\u00fcgbarkeit zu ber\u00fccksichtigen. Zudem ist eine Informationspflicht zu PFAS in der Lieferkette zun\u00e4chst eine wichtige Voraussetzung daf\u00fcr, in den komplexen Lieferketten relevante PFAS-Anwendungen und die damit verbundenen Risiken \u00fcberhaupt identifizieren zu k\u00f6nnen. \r\n3.\tPraktische Handhabbarkeit gew\u00e4hrleisten:\r\n\u2022\tDer aktuelle Vorschlag birgt die Gefahr einer \u00dcberb\u00fcrokratisierung, die zu Unklarheiten bei der Regulierung und Problemen bei der Durchsetzung f\u00fchrt. Ein klar eingegrenzter und risikobasierter Beschr\u00e4nkungsumfang sowie robuste Durchsetzungsmechanismen sind f\u00fcr die praktische Umsetzung unerl\u00e4sslich. Eine wirkungsvolle Durchsetzbarkeit wird im jetzigen Beschr\u00e4nkungsvorschlag \u00fcberhaupt nicht ber\u00fccksichtigt und thematisiert. Markt\u00fcberwachung und Zoll st\u00fcnden vor einer gigantischen und unl\u00f6sbaren Aufgabe, kleinteilige Produktausnahmen zu pr\u00fcfen sowie das nicht Vorhandensein von PFAS in geringen Konzentrationen nachzuweisen. Da die gew\u00e4hlte Stoffgruppe enorm gro\u00df ist und nur \u00fcber die Molek\u00fclstruktur definiert wird, ist vielfach nicht einmal klar, wonach genau gesucht werden soll.\r\n4.\tMachbare \u00dcbergangsfristen oder keine Befristung:\r\n\u2022\t\u00dcbergangsfristen sollten erst eingef\u00fchrt werden, wenn praktikable Substitutionsm\u00f6glichkeiten vorhanden sind. In vielen Industriebereichen sind Alternativen aber nicht absehbar, insbesondere beim Einsatz von Fluorpolymeren z.B. in der Medizintechnik und anderen Hightech-Bereichen. \u00dcbergangsfristen nutzen nichts, wenn es keine Substitutionsm\u00f6glichkeiten gibt, um an einem \u00dcbergang zu arbeiten.\r\n5.\tKeine widerspr\u00fcchliche Regulierung schaffen\r\n\u2022\tVom PFAS-Beschr\u00e4nkungsumfang erfasst ist auch eine Teilgruppe fluorierter Treibhausgase (F-Gase), die u.a. in Medizinprodukten, aber auch in Analyse- und Laborger\u00e4ten wie Zentrifugen und K\u00fchlger\u00e4ten zum Einsatz kommen. F-Gase werden seit Jahrzehnten in der EU bereits sehr detailliert und sektorspezifisch reguliert. Der Rechtsrahmen hat zum Ziel, F-Gase kontinuierlich und schrittweise zu beschr\u00e4nken (phase out), enth\u00e4lt bereits umfassende Verbote f\u00fcr die Verwendung und das Inverkehrbringen von F-Gasen sowie Regelungen zur Emissionsbegrenzung, Dichtheitspr\u00fcfungen, Zertifizierung, Entsorgung und Kennzeichnung. Mit der F-Gas-Verordnung soll insbesondere ein Anreiz zur Verwendung von Alternativen anstelle von F-Gasen geschaffen werden, und die Verordnung wird regelm\u00e4\u00dfig angepasst \u2013 erst im M\u00e4rz 2024 ist ein neue EU F-Gase Verordnung (2024/573) in Kraft getreten. Die vorgesehene PFAS-Beschr\u00e4nkung darf hier keine widerspr\u00fcchliche Regulierung zu bereits existierenden \u00dcbergangsbestimmungen f\u00fcr F-Gase schaffen.\r\n\r\n6.\tAns\u00e4tze zur Emissionskontrolle und Abfallentsorgung:\r\n\u2022\tDie Hersteller von Fluorpolymeren m\u00fcssen ihre Verantwortung f\u00fcr die Umwelt wahrnehmen und unter anderem strenge Emissionsgrenzwerte einhalten. Bem\u00fchungen um Emissionskontrolle und verantwortungsvolle Abfallentsorgung sollten gef\u00f6rdert werden. Einige Fluorpolymerhersteller sind sich ihrer Verantwortung f\u00fcr die Umwelt bewusst und haben bereits eine Selbstverpflichtung unterzeichnet sowie Schritte zur Einhaltung strenger Grenzwerte bei den Emissionen eingeleitet. \r\n\r\n\r\n\u00bb\tWeitere Argumente gegen ein Pauschalverbot der PFAS-Stoffgruppe:\r\n\u2022\tDie Unterscheidung zwischen Fluorpolymeren und anderen PFAS-Verbindungen ist von entscheidender Bedeu-tung. Fluorpolymere haben ihre langfristige Sicherheit in medizinischen Anwendungen unter Beweis gestellt.\r\n\u2022\tDer gew\u00e4hlte Ansatz hat keinen Pr\u00e4zedenzfall und ist fehlgeleitet. Die zeitliche Eigenschaft der Persistenz allein ist nicht gleichbedeutend mit Risiko.\r\n\u2022\tDer vorgeschlagene \"differenzierte Ansatz\" verschleiert, dass Hunderte von produktspezifischen Ausnahmen und \u00dcbergangsfristen nicht praktikabel sind.\r\n\u2022\tAlternative Ans\u00e4tze wie in den USA und dem Vereinigten K\u00f6nigreich zeigen ausgewogenere und risikobasierte Strategien.\r\n\u2022\tDas Fortbestehen des Gendorfer Chemiedreiecks w\u00e4re mit dem jetzigen Beschr\u00e4nkungsvorschlag massiv gef\u00e4hrdet. Dieses ist f\u00fcr das industrielle \u00d6kosystem in Europa von entscheidender Bedeutung. Politische Unterst\u00fctzung ist dringend erforderlich, um negative Auswirkungen der Schlie\u00dfung von Dyneon im Jahr 2025 zu verhindern, schlie\u00dflich liefert dieses Werk allein 40% der in Europa ben\u00f6tigten Fluorpolymere. F\u00fcr einige, gerade in der Halbleiterindustrie ben\u00f6tigte, Spezialstoffe ist Dyneon sogar der einzige europ\u00e4ische Produzent.\r\n\r\n\u00bb\tZusammenfassung: \r\nEin pauschales PFAS-Verbot macht den Einsatz unverzichtbarer Hochleistungswerkstoffe vielfach unm\u00f6glich und gef\u00e4hrdet die technologische Souver\u00e4nit\u00e4t und Versorgungssicherheit in der EU massiv. Daher fordert SPECTARIS die politischen Entscheidungstr\u00e4ger auf, die vorgeschlagenen PFAS-Beschr\u00e4nkungen in Europa zu \u00fcberdenken. Wir betonen die Notwendigkeit eines ausgewogenen, risikobasierten Ansatzes, der sowohl die \u00f6ffentliche Gesundheit als auch die Interessen der Industrie sch\u00fctzt. Politische Unterst\u00fctzung auf hoher Ebene ist unerl\u00e4sslich, um diese Bedenken wirksam auszur\u00e4umen. Ein Abwarten entlang des eingeschlagenen, beh\u00f6rdlichen Verfahrens ruft schon kurzfristig massive Planungsunsicherheit hervor und f\u00f6rdert ein schleichendes Abwandern von wichtigen europ\u00e4ischen Hightech-Industrien. Wir brauchen daher eine Politisierung des Verfahrens und klare, schnelle Signale politischer Entscheidungstr\u00e4ger, selbst wenn sie au\u00dferhalb des bisherigen Verfahrens stehen. "
+                        }
+                    }
+                ],
+                "title": "PFAS-Beschr\u00e4nkungsverfahren der EU im Rahmen der REACH-Verordnung"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/7c/81/284370/Stellungnahme-Gutachten-SG2406040069.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-29"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0001498",
+                "regulatoryProjectTitle": "KHVVG: Einbindung der Medizintechnik in die Weiterentwicklung der Leistungsgruppen ",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Seite 1 von 4\r\nSPECTARIS-Stellungnahme\r\nzum Referentenentwurf des Bundesministeriums f\u00fcr Gesundheit f\u00fcr ein Gesetz zur Verbesserung der Versorgungsqualit\u00e4t im Krankenhaus und zur Reform der Verg\u00fctungsstrukturen (Krankenhausversorgungsverbesserungsgesetz \u2013 KHVVG)\r\nBerlin, 29. April 2024\r\nFachverband Medizintechnik\r\nFon +49 (0)30 41 40 21-62\r\nmedizintechnik@spectaris.de\r\nwww.spectaris.de\r\nSPECTARIS. Deutscher Industrieverband f\u00fcr Optik, Photonik, Analysen- und Medizintechnik.\r\nWerderscher Markt 15, 10117 Berlin\r\nSeite 2 von 4\r\nDer Fachverband Medizintechnik im Deutschen Industrieverband SPECTARIS vertritt rund 130 vorwiegend mittelst\u00e4ndische Mitgliedsunternehmen. Diese sind innovative Hersteller von Medizinprodukten und Medizintechnik sowie qualit\u00e4tsorientierte nicht\u00e4rztliche Leistungserbringer aus dem Bereich der respiratorischen Heimtherapie.\r\nVorbemerkungen\r\nDie Krankenhauslandschaft Deutschlands steht vor vielen Herausforderungen, durch die ein ungesteuerter Strukturwandel bereits eingesetzt hat. Patientinnen und Patienten finden von Bundesland zu Bundesland sowie von Region zu Region unterschiedliche Versorgungsniveaus vor. Das auf Fallpauschalen basierende Verg\u00fctungssystem setzt mengenorientierte Anreize f\u00fcr den Krankenhausbetrieb. Gleichzeitig leiden die H\u00e4user unter immensen Investitionsstaus, da die L\u00e4nder seit Jahren nicht ausreichend f\u00fcr die Investitionskosten aufkommen, obwohl sie dazu eigentlich verpflichtet sind. Und der demografische Wandel betrifft den ganzen Gesundheitssektor in besonderer Weise: W\u00e4hrend die \u00e4ltere Bev\u00f6lkerung w\u00e4chst, steigt auch ihr Versorgungsbedarf, der mit immer weniger (jungen)Fachkr\u00e4ften gedeckt werden muss.\r\nVor diesen Hintergr\u00fcnden begr\u00fc\u00dft SPECTARIS den Reformvorsto\u00df und die drei zentralen Ziele, die mit dem Krankenhausversorgungsverbesserungsgesetz (KHVVG) verfolgt werden: Die Sicherung und Steigerung der Behandlungsqualit\u00e4t, die Gew\u00e4hrleistung einer fl\u00e4chendeckenden medizinischen Versorgung f\u00fcr Patientinnen und Patienten sowie die Entb\u00fcrokratisierung. Das KHVVG wird bedeutende Auswirkungen auf das Gesundheitswesen in Deutschland haben und die Krankenhauslandschaft entscheidend ver\u00e4ndern. Es legt auch die Rahmenbedingungen fest, nach denen die Medizintechnikindustrie in den kommenden Jahren mit den Abnehmern zusammenarbeiten wird. Sollte die Krankenhausreform gut umgesetzt werden, so kann die Medizintechnikindustrie einen gro\u00dfen Beitrag leisten, den Herausforderungen, die eine neue Krankenhauslandschaft mit sich bringt, zu begegnen und die Ziele zu erreichen. Eine erfolgreiche Umsetzung des KHVVG kann au\u00dferdem einen bedeutenden Beitrag zur Verbesserung der Gesundheitsversorgung f\u00fcr Patientinnen und Patienten leisten und einen Innovationsimpuls f\u00fcr die Digitalisierung der Versorgung ausl\u00f6sen. Die Reform sollte reflektieren, dass wir die heutige Versorgungsqualit\u00e4t nur mit digitaler Unterst\u00fctzung halten und verbessern k\u00f6nnen. Dar\u00fcber hinaus sollte sie Planungssicherheit f\u00fcr Krankenh\u00e4user und Unternehmen schaffen, um zuk\u00fcnftige Investitionen zu f\u00f6rdern.\r\nInsbesondere bei der Weiterentwicklung der Leistungsgruppen sollte neben der Wissenschaft \u2013 vertreten durch die Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften, AWMF \u2013 auch die Medizintechnikindustrie eingebunden werden.\r\n\u00dcber unsere Hinweise hinaus unterst\u00fctzen wir die diesbez\u00fcglichen Stellungnahmen des BVMed, des ZVEI und des BDI.\r\nZusammenfassung\r\nDie Reform sollte nun z\u00fcgig umgesetzt werden und damit auch die Zeiten gro\u00dfer Planungsunsicherheit beendet werden k\u00f6nnen. Der Transformationsfonds ist ein sinnvolles Instrument, mit dem der Tatsache Rechnung getragen wird, dass eine Reform dieser Gr\u00f6\u00dfenordnung nicht kostenneutral umzusetzen ist. Da ein gro\u00dfes Problem des Krankenhaussektors jedoch die Unterfinanzierung durch die L\u00e4nder ist, m\u00fcssen die L\u00e4nder endlich\r\nSeite 3 von 4\r\nihrer Pflicht zur Investitionskostenfinanzierung bedarfsdeckend nachkommen; ansonsten ist auch die Erreichung der Reformziele in Gefahr. Die mit der Reform angestrebte gr\u00f6\u00dfere Ambulantisierung sollte ganzheitlich gedacht werden und von Anfang an \u00dcberg\u00e4nge und Schnittstellen mit einplanen. Die medizintechnische Ausstattung ist ein grundlegender Qualit\u00e4tsfaktor der Gesundheitsversorgung und kann dar\u00fcber hinaus innovative L\u00f6sungen f\u00fcr die strukturellen Herausforderungen des Gesundheitssystems bieten. Daf\u00fcr braucht die deutsche Medizintechnikindustrie ein innovationsfreundliches Umfeld und finanzielle Planungssicherheit.\r\nKaltes Kliniksterben beenden, Planungssicherheit schaffen\r\n\u00dcber 30 Krankenhausinsolvenzen gab es im Jahr 2023 und f\u00fcr 2024 bef\u00fcrchtet die DKG mehr als doppelt so viele. Die bereits vorhandene Unsicherheit wurde \u00fcberdies durch die politischen Verwerfungen im Rahmen der Reformbem\u00fchungen im vergangenen Jahr deutlich verst\u00e4rkt und viele Planungs- und Investitionsvorhaben auf unbestimmte Zeit auf Eis gelegt. Es ist daher zu begr\u00fc\u00dfen, wenn die Reform z\u00fcgig umgesetzt wird und damit auch wieder eine h\u00f6here Planungssicherheit f\u00fcr alle Akteure entsteht.\r\nAusreichende Investitionsfinanzierung sicherstellen\r\nDer Krankenhaussektor ist bereits unterfinanziert und der reformbedingte Wandel wird weitere Kosten verursachen. Daher ist die Einrichtung des Transformationsfonds richtig und wichtig. Jedoch m\u00fcssen die Bundesl\u00e4nder endlich vollumf\u00e4nglich ihrer Pflicht zur Investitionskostenfinanzierung nachkommen. Der Gesetzesentwurf sieht zwar vor, dass die L\u00e4nder nur dann Gelder aus dem Transformationsfonds erhalten, wenn sie daneben Investitionen mindestens in der H\u00f6he der Vorjahre leisten. Da die Finanzierung in der Vergangenheit jedoch nicht ausreichend war, tr\u00e4gt diese Regelung nur geringf\u00fcgig dazu bei, die L\u00e4nder zur Pflichterf\u00fcllung anzuhalten. Solange die Unterfinanzierung anh\u00e4lt, werden die Reformziele nicht nachhaltig erreicht und Potenziale, die sich beispielsweise aus der Digitalisierung ergeben k\u00f6nnten, werden nicht gehoben werden k\u00f6nnen.\r\nDigitalisierungspotenziale aussch\u00f6pfen und Datennutzung erm\u00f6glichen\r\nDie Einf\u00fchrung des Gesundheitsdatennutzungsgesetzes (GDNG) und des Digitalgesetzes (DigiG) durch das Bundesgesundheitsministerium (BMG) hat Ver\u00e4nderungen in Bezug auf die Verwendung von Gesundheitsdaten f\u00fcr Forschungszwecke bewirkt. Allerdings unterliegen Forschungsvorhaben mit Krankenhausdaten auch den jeweiligen Landeskrankenhausgesetzen, welche diese Neuregelungen noch nicht ber\u00fccksichtigen und teilweise strenger sind. SPECTARIS w\u00fcrde begr\u00fc\u00dfen, wenn die Bestimmungen des GDNG und DigiG auch in den Landeskrankenhausgesetzen zu finden w\u00e4ren, um eine m\u00f6glichst einheitliche Grundlage f\u00fcr die Datennutzung aus Krankenh\u00e4usern zu schaffen \u2013 etwa f\u00fcr das Training von K\u00fcnstlicher Intelligenz basierend auf Ger\u00e4tedaten.\r\nDas KHVVG erfordert, dass nahezu alle Bundesl\u00e4nder in den kommenden Jahren ihre Landeskrankenhausgesetze an die bundesweiten Neuregelungen anpassen. Dies bietet eine einmalige Gelegenheit, diesen Prozess zu nutzen, um die Datennutzung in Deutschland wirklich voranzutreiben und den Forschungsstandort zu st\u00e4rken.\r\nSeite 4 von 4\r\nAmbulantisierung ganzheitlich denken\r\nDie bereits begonnene Ambulantisierung der medizinischen Versorgung muss ganzheitlich umgesetzt werden, damit sie die Versorgungsqualit\u00e4t nicht gef\u00e4hrdet. Dabei sollten die M\u00f6glichkeiten der Digitalisierung und des Telemonitorings genutzt werden. Insbesondere die Nachversorgung im au\u00dferklinischen Bereich sowie die Schnittstellen zur Weiterversorgung m\u00fcssen zwingend von Anfang an mitgeplant werden. Andernfalls besteht die Gefahr, dass statt realer Einsparungen f\u00fcr das Gesundheitssystem hohe Folgekosten f\u00fcr Patiententransporte oder weitere Behandlungen entstehen.\r\nInnovationskraft der Medizintechnikindustrie f\u00f6rdern und nutzen\r\nDie medizintechnische Ausstattung eines Krankenhauses ist ein wesentlicher Faktor der Behandlungsqualit\u00e4t. Die bundesweit einheitlichen Mindestanforderungen an die geplanten Leistungsgruppen, die den Krankenh\u00e4usern zugewiesen werden sollen, m\u00fcssen daher regelm\u00e4\u00dfig und zeitnah an den Stand der Technik f\u00fcr eine moderne Gesundheitsversorgung auf aktuellem Niveau angepasst werden. Daher m\u00fcssen medizintechnische Industrieverb\u00e4nde wie SPECTARIS neben den laut Referentenentwurf bereits vorgesehenen medizinisch-wissenschaftlichen Fachgesellschaften aktiv an der Erarbeitung eingebunden werden und mitwirken sowie ein Vorschlagsrecht bekommen, um Weiterentwicklungen, Neuaufnahmen und Anpassungen der Leistungsgruppen ansto\u00dfen zu k\u00f6nnen.\r\nSPECTARIS und seine Mitgliedsunternehmen stehen f\u00fcr diese Mitarbeit gerne bereit.\r\nDar\u00fcber hinaus hat die Innovationskraft der deutschen Medizintechnikindustrie das Potenzial, L\u00f6sungen f\u00fcr die gro\u00dfen Herausforderungen der Gesundheitsversorgung zu entwickeln \u2013 durch Telemonitoring und innovative Technik k\u00f6nnen beispielsweise Versorgungsl\u00fccken geschlossen werden. Um diese Chancen bestm\u00f6glich nutzen zu k\u00f6nnen, ben\u00f6tigt die Medizintechnikindustrie sowohl finanzielle Planungssicherheit als auch ein innovationsfreundliches Umfeld."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/5a/fa/284372/Stellungnahme-Gutachten-SG2406040070.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-30"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0001499",
+                "regulatoryProjectTitle": "GVSG: Vereinfachten Genehmigungsprozesse f\u00fcr nicht im Hilfsmittelverzeichnis gelistete Hilfsmittel",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Seite 1 von 4\r\nSPECTARIS-Stellungnahme\r\nzum Referentenentwurf eines \r\nGesetzes zur St\u00e4rkung der Gesundheitsversorgung in der \r\nKommune (Gesundheitsversorgungsst\u00e4rkungsgesetz - GVSG)\r\nBerlin, 30. April 2024\r\nSPECTARIS. Deutscher Industrieverband f\u00fcr Optik, Photonik, Analysen- und Medizintechnik\r\nFachverband Medizintechnik\r\nWerderscher Markt 15, 10117 Berlin\r\nFon +49 (0)30 41 40 21-0\r\nmedizintechnik@spectaris.de\r\nwww.spectaris.de\r\nSeite 2 von 4\r\nDer Fachverband Medizintechnik im Deutschen Industrieverband SPECTARIS vertritt rund 130 vorwiegend \r\nmittelst\u00e4ndische Mitgliedsunternehmen. Diese sind innovative Hersteller von Medizinprodukten und Medizintechnik \r\nsowie qualit\u00e4tsorientierte nicht\u00e4rztliche Leistungserbringer aus dem Bereich der respiratorischen Heimtherapie.\r\nVorbemerkungen und allgemeine Anmerkungen \r\nSPECTARIS begr\u00fc\u00dft grunds\u00e4tzlich die Intention des Gesetzgebers, die Versorgung vor Ort zu verbessern\r\nund sozial benachteiligten Gruppen einen besseren Zugang zu medizinischen Leistungen und Angeboten \r\nder Pr\u00e4vention \u00fcber niederschwellige Beratungsangebote zu verschaffen. Gleichzeitig bedauert \r\nSPECTARIS, dass in dem nunmehr vorgelegten neuen Referentenentwurf eines Gesetzes zur St\u00e4rkung der \r\nGesundheitsversorgung in der Kommune (Gesundheitsversorgungsst\u00e4rkungsgesetz \u2013 GVSG) sowohl die \r\nGesundheitskioske, die Prim\u00e4rversorgungszentren sowie die regionalen Gesundheitsregionen in Verantwortung \r\nder Kommunen gestrichen worden sind. Auch die F\u00f6rderung von Medizinstudienpl\u00e4tzen ist nicht mehr in dem \r\nReferentenentwurf enthalten. Besonders bedauerlich ist, dass insbesondere der geplante \u00a7 140b SGB V \r\n(Gesundheitsregionen) gestrichen wurde. Hier h\u00e4tte es die Chance gegeben, eine Art \u201eregionaler\r\nSelektivvertr\u00e4ge\u201c zu entwickeln, um auch innovative regionale Versorgungskonzepte umsetzen zu k\u00f6nnen.\r\nGeblieben sind zum Aufbau einer starken lokalen Versorgungsinfrastruktur die M\u00f6glichkeit zur Gr\u00fcndung \r\nkommunaler medizinischer Versorgungszentren. Den L\u00e4ndern soll erm\u00f6glicht werden, ihre \r\nversorgungsrelevanten Erkenntnisse in den Zulassungsaussch\u00fcssen verbindlich zur Geltung zu bringen und \r\ndamit die vertrags\u00e4rztliche Versorgung ma\u00dfgeblich mitzugestalten. Aus Sicht von SPECTARIS bleibt hier \r\nabzuwarten, inwieweit dies in z.B. kleinr\u00e4umigere Versorgungs\u00fcbersichten bzw. Defizitkartierungen m\u00fcnden \r\nk\u00f6nnte. Diese Kartierung (analog dem Versorgungsatlas des Zentralinstituts f\u00fcr die kassen\u00e4rztliche Versorgung \r\nin der Bundesrepublik Deutschland (ZI) k\u00f6nnte dann auch eine gute \u00dcbersicht f\u00fcr Hilfsmittelversorgungen im \r\nregionalen Umfeld bieten. Auch der Einsatz von Telemedizin/telemonitorische Therapiebegleitung sollte dabei \r\ngleich mitgedacht werden.\r\nEtwa ein Viertel der rund 73 Millionen gesetzlich Krankenversicherten ben\u00f6tigt fr\u00fcher oder sp\u00e4ter ein \r\nmedizinisches Hilfsmittel und mehr als 4 Millionen Menschen werden zu Hause gepflegt. Daraus resultieren \r\naktuell ca. 30 Millionen Hilfsmittelversorgungen. \u00dcber 71.000 Hilfsmittel Leistungserbringer stellen eine \r\nqualit\u00e4tsgesicherte Versorgung sicher und unterst\u00fctzen damit den Anspruch von Versicherten auf eine \r\nm\u00f6glichst hohe Lebensqualit\u00e4t im t\u00e4glichen Leben. Der Hilfsmittelbereich spielt somit eine wichtige \r\nRolle in der deutschen Gesundheitsversorgung.\r\nDer vorliegende Referentenentwurf enth\u00e4lt aus Sicht von SPECTARIS einige positive Aspekte f\u00fcr die \r\nVerbesserung der Hilfsmittelversorgung, insbesondere f\u00fcr die Versorgung schwerst- und \r\nmehrfachbehinderter Kinder und Jugendlicher, auf die wir im Folgenden eingehen wollen.\r\nZu Artikel 1, Nr. 2: Neu \u00a7 33, Abs. 5 c SGB V: Vereinfachung des \r\nGenehmigungsverfahrens f\u00fcr Hilfsmittel (S. 12)\r\nDie vorgeschlagene \u00c4nderung in Bezug auf die Vereinfachung des Genehmigungsverfahrens f\u00fcr Hilfsmittel \r\nf\u00fcr schwerst- und mehrfachbehinderte Kinder und Jugendliche ist zu begr\u00fc\u00dfen.\r\nDiese \u00c4nderung kann f\u00fcr die Hilfsmittel-Leistungserbringer, die schwerst- und mehrfachbehinderte Kinder \r\nund Jugendliche versorgen, Vieles im Tagesgesch\u00e4ft erleichtern. Bisher haben Genehmigungsantr\u00e4ge f\u00fcr \r\ndiese speziellen Versorgungen oftmals sehr lange gedauert. F\u00fcr beispielsweise die respiratorische \r\nHeimtherapie kann das die Heim-Beatmung, die Sauerstoffversorgung, Hustenassistenten oder Hilfsmittel \r\nf\u00fcr Tracheostoma betreffen. Letztere genannte Versorgungsbereiche sind zwar eher unkritisch. Es ist jedoch \r\nzu beachten, dass auch Verordnungen f\u00fcr Produkte, f\u00fcr die es keine Produktart gibt und die nicht im \r\nSeite 3 von 4\r\nHilfsmittelverzeichnis aufgef\u00fchrt sind (z. B. die Highflow-Therapie), den bisherigen aufw\u00e4ndigen\r\nGenehmigungsprozessen unterlagen. Diese wurden bislang Case-by-Case auch in l\u00e4nger andauernden \r\nProzessen insbesondere f\u00fcr S\u00e4uglinge gepr\u00fcft. Es w\u00e4re daher zu begr\u00fc\u00dfen, wenn die vereinfachten \r\nGenehmigungsprozesse auch f\u00fcr nicht im Hilfsmittelverzeichnis gelistete Hilfsmittelprodukte gelten \r\nw\u00fcrden.\r\nSt\u00e4rkung der lokalen Versorgungsinfrastruktur\r\nDie geplante \u00c4nderung des \u00a7 96 Abs. 2a SGB V in Bezug auf die Bestimmungen zur Gr\u00fcndung kommunaler \r\nmedizinischer Versorgungszentren, welche einen wichtigen Schritt zur St\u00e4rkung der lokalen \r\nVersorgungsinfrastruktur darstellen, sind positiv zu bewerten. Vor allem die M\u00f6glichkeit f\u00fcr die L\u00e4nder, ihre \r\nversorgungsrelevanten Erkenntnisse in den Zulassungsaussch\u00fcssen einzubringen, k\u00f6nnte die vertrags\u00e4rztliche \r\nVersorgung ma\u00dfgeblich beeinflussen. Es bleibt jedoch abzuwarten, ob diese Ma\u00dfnahmen zu einer auf die \r\njeweilige Region bezogenen verbesserten Versorgungs\u00fcbersicht f\u00fchren und speziell im Bereich der \r\nHilfsmittelversorgung positive Auswirkungen haben werden. Der Einsatz von Telemedizin und telemonitorischer \r\nTherapiebegleitung sollte dabei gleich mitgedacht werden.\r\n.\r\nZu Artikel 1, Nr. 24 \u00c4nderung \u00a7 217f SGB V in Verbindung mit Artikel 2, Nr. 4 \r\n\u00a7 53 SGB XI: Richtlinienverfahren im Hilfsmittelbereich (S. 21, S. 23)\r\nDie geplante \u00c4nderung des \u00a7 217f SGB V zur Erarbeitung einer Richtlinie anstelle einer Rahmenrichtlinie ist \r\ngrunds\u00e4tzlich zu begr\u00fc\u00dfen, da dies zu mehr Transparenz und Rechtssicherheit f\u00fchren kann. Jedoch fordern \r\nwir ein Stellungnahmeverfahren f\u00fcr die Richtlinie durch die ma\u00dfgeblichen Spitzenverb\u00e4nde im Bereich der \r\nHilfsmittelversorgung. \r\nSt\u00e4rkere Betonung des Sachleistungsprinzips und Transparenz im \r\nHilfsmittelbereich\r\nDer Grundsatz der individuell erforderlichen Versorgung nach dem Sachleistungsprinzip sollte im Gesetz \r\nst\u00e4rker betont werden. Der Mehrkostenbericht sollte transparenter und neu gestaltet werden. Eine Kennzahl \r\nk\u00f6nnte die Angemessenheit der vereinbarten Vertragspreise im Hilfsmittelbereich sein. Es sollte eine \r\nj\u00e4hrliche \u00dcberpr\u00fcfung der Auswahl der Kennzahlen und der Weiterentwicklung der Vorgaben in der \r\nRichtlinie erfolgen. Auch die Genehmigung durch das BMG sollte entsprechend mit einer Frist versehen \r\nwerden, um eine zeitnahe Anpassung zu gew\u00e4hrleisten.\r\nSt\u00e4rkere Ber\u00fccksichtigung von Verg\u00fctung und Kostenunterschieden in der \r\nHilfsmittelversorgung\r\nDie individuelle Hilfsmittelversorgung erfordert eine verst\u00e4rkte Ber\u00fccksichtigung der Verg\u00fctung und \r\nfinanziellen Belastungen f\u00fcr die Versicherten. Dies umfasst insbesondere die Unterschiede in den Kosten, \r\ndie je nach Kassenzugeh\u00f6rigkeit aufgrund von Vertragspreisen, Versorgungsmengen und Produktqualit\u00e4t \r\nvariieren k\u00f6nnen. Es ist daher von gro\u00dfer Bedeutung, nicht nur die Anzahl der Leistungsantr\u00e4ge, sondern \r\nauch die Verg\u00fctung und Qualit\u00e4t der ben\u00f6tigten Versorgung zu beachten. Um eine transparente und \r\nvergleichbare Versorgung zu gew\u00e4hrleisten, sollte eine einheitliche Formulierung in den \r\nHilfsmittelversorgungsvertr\u00e4gen angestrebt werden. \r\nSeite 4 von 4\r\nZus\u00e4tzlich ist eine Kl\u00e4rung der Pauschalen erforderlich, da die derzeitige \u201egenerische\u201c Formulierung \u201ealles \r\nmedizinisch erforderliche\u201c, oft zu unterschiedlichen Interpretationen f\u00fchrt und eine genaue Bestimmung der \r\nenthaltenen Leistungen entscheidend f\u00fcr die Vergleichbarkeit mittels Statistik ist.\r\nFazit\r\nDer Referentenentwurf enth\u00e4lt einige positive Aspekte f\u00fcr die Hilfsmittelversorgung, es besteht jedoch noch \r\nVerbesserungspotenzial. Speziell die individuelle Versorgung und die Verg\u00fctung der Hilfsmittelversorgung \r\nsollten st\u00e4rker im Fokus stehen. Besonders kritisch erscheint die Streichung des \u00a7 140b SGB V \r\n(Gesundheitsregionen). Diese Ma\u00dfnahme h\u00e4tte die M\u00f6glichkeit geboten, innovative regionale \r\nVersorgungskonzepte ohne Patienteneinschreibung umzusetzen, was eine bedauerliche verpasste Chance \r\ndarstellt.\r\nDar\u00fcber hinaus spricht sich SPECTARIS daf\u00fcr aus, dass auch ein Stellungnahmeverfahren zur Richtlinie \r\ndurch die ma\u00dfgeblichen Spitzenverb\u00e4nde im Bereich der Hilfsmittelversorgung durchgef\u00fchrt wird. Die \r\nGenehmigung der Richtlinie durch das BMG sollte mit einer Frist versehen werden, um eine zeitnahe \r\nAnpassung zu gew\u00e4hrleisten. Abschlie\u00dfend m\u00f6chte SPECTARIS betonen, dass es sehr wichtig ist, die \r\nAuswirkungen des Gesetzesentwurfs auf die Hilfsmittelversorgung genau zu beobachten und ggf. weitere \r\nAnpassungen vorzunehmen."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/9e/0e/334772/Stellungnahme-Gutachten-SG2407160005.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                "de": "Bundeskanzleramt (BKAmt)",
+                                "en": "Bundeskanzleramt (BKAmt)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMBF",
+                                "de": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                                "en": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-01"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0011064",
+                "regulatoryProjectTitle": "PFAS-Beschr\u00e4nkungsverfahren der EU im Rahmen der REACH-Verordnung",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "\u00bb\tEin unbeabsichtigtes Hightech-Verbot bahnt sich an:\r\nIm Januar 2023 haben die f\u00fcr REACH zust\u00e4ndigen Beh\u00f6rden Deutschlands, der Niederlande, D\u00e4nemarks, Schwedens und Norwegens einen Entwurf f\u00fcr eine umfassende Beschr\u00e4nkung von PFAS bei der Europ\u00e4ischen Chemikalienagentur (ECHA) eingereicht und damit den Startschuss f\u00fcr ein Beschr\u00e4nkungsverfahren im Rahmen von REACH gegeben. Grund daf\u00fcr ist, dass sich einige PFAS in der Umwelt und in Organismen anreichern und zudem gesundheitssch\u00e4dlich sind. PFAS ist eine Abk\u00fcrzung f\u00fcr per- und polyfluorierte Alkylsubstanzen, die oft als \"Ewigkeitschemikalien\" bezeichnet werden. Fluorchemikalien werden ausschlie\u00dflich k\u00fcnstlich hergestellt. Laut dem bei der ECHA eingereichten Dossier werden allein in der EU rund 300.000 Tonnen der Industriechemikalien pro Jahr produziert und verarbeitet. Zu ihnen geh\u00f6ren mehr als 10.000 Stoffe, die hervorragende technische Eigenschaften haben: Sie sind u. a. temperatur-, druck- korrosions- und strahlenbest\u00e4ndig, reaktionstr\u00e4ge und biegsam und daher seit langem bew\u00e4hrte Chemikalien. Den PFAS wird in Hochleistungswerkstoffen genau die technische Eigenschaft zum politischen Verh\u00e4ngnis, wegen der sie eingesetzt werden und \u00fcberwiegend unersetzbar sind: ihre Langlebigkeit und Widerstandsf\u00e4higkeit auch in essentiellen Anwendungen, industriellen Hightech-Produkten und Produktionsprozessen. So sind gro\u00dfe Bereiche der Analysen-, Bio- und Labortechnik, der Optik, der Photonik oder der Medizintechnik durch das PFAS-Verbot direkt gef\u00e4hrdet. Betroffen w\u00e4ren nicht nur die Produkte an sich, sondern auch die zu ihrer Herstellung ben\u00f6tigten Produktionsprozesse.\r\n\r\nDer Industrie sollen gestaffelte \u00dcbergangsfristen von 18 Monaten bis maximal 13,5 Jahren einger\u00e4umt werden - je nachdem, ob es bereits Alternativen zu PFAS gibt, ob diese noch entwickelt werden m\u00fcssen oder ob langwierige Zulassungsverfahren oder Zertifizierungen erforderlich sind. Dabei m\u00fcssten auch die Alternativen die gleichen Eigenschaften vorweisen, wie die verbotenen Substanzen, also extrem widerstandsf\u00e4hig und zugleich f\u00fcr ihre Anwendungen auch zul\u00e4ssig sein. SPECTARIS, als Vertreter verschiedener Hightech-Industrien in Deutschland, ist daher sehr besorgt \u00fcber die geplanten PFAS-Beschr\u00e4nkungen in Europa. Um m\u00f6glichen Schaden von der gesamten Hightech-Branche abzuwenden, ben\u00f6tigt die Industrie dringend klare Signale und Ma\u00dfnahmen von Seiten der politischen Entscheidungstr\u00e4ger, um wieder Planungssicherheit herzustellen und um einen grundlegend anderen Ansatz zu verfolgen. Wir sind der Meinung, dass der derzeitige Ansatz, der durch weitreichende Verbote und begrenzte Ausnahmen gekennzeichnet ist, nicht praktikabel ist und eine sofortige Neubewertung erfordert.\r\n\r\n\r\n\r\n\r\n\u00bb\tAuswirkungen eines PFAS-Verbots am Beispiel der Medizintechnikindustrie:\r\nPFAS werden in Medizinprodukten vielfach aufgrund ihrer Langlebigkeit und Widerstandsf\u00e4higkeit am und im menschlichen K\u00f6rper eingesetzt. Medizinprodukte wie beispielsweise Inkubatoren f\u00fcr Neugeborene, Herz-Lungen-Maschinen oder Implantate wie Herzschrittmacher, Stents oder Gelenke, aber auch Produkte mit Blutkontakt oder Verpackungen f\u00fcr steril in Verkehr gebrachte Medizinprodukte k\u00f6nnen nach einem Pauschalverbot der PFAS-Stoffgruppe nicht mehr hergestellt und verwendet werden. \r\n\r\nAuch die Endoskopie und minimalinvasive Chirurgie sind wichtige Teilbereiche der diagnostischen und interventionellen Medizin. Dort werden aus der gro\u00dfen PFAS-Gruppe \u00fcberwiegend Fluorpolymere oder Fluorelastomere eingesetzt. Erst mit diesen Materialien wurde das medizinische Teilgebiet so erfolgreich, wie es heute ist. Gallenblase, Blinddarm, Leistenbruch, Uterus oder Prostata, um nur Beispiele zu nennen, k\u00f6nnten ohne PFAS nicht mehr minimalinvasiv mittels endoskopischer Chirurgie behandelt werden. Geeignete Ersatzmaterialien gibt es hier nicht.  Die Folge: Derartige Medizinprodukte werden vom Markt verschwinden, Patientinnen und Patienten m\u00fcssten wie im letzten Jahrhundert maximalinvasiv durch die \u00d6ffnung des Bauchraums operiert werden.\r\n\r\nDabei ist die Medizintechnik nur ein Beispiel. Kein Flugzeug, kein Auto, keine Lithium- oder Brennstoffzelle funktioniert ohne diese Hochleistungswerkstoffe, auch kein Halbleiterchip kann ohne PFAS hergestellt werden, die gr\u00fcne Transformation ist auf diese Hochleistungswerkstoffe angewiesen. Zentrale europ\u00e4ische Vorhaben wie der Green Deal oder der EU-Chips-Act sind ohne PFAS nicht denkbar. \r\n\r\n\r\n\u00bb\tSPECTARIS zentrale Forderungen:\r\n1.\tR\u00fcckkehr zu einem risikobasierten Ansatz:\r\n\u2022\tWir pl\u00e4dieren f\u00fcr eine R\u00fcckkehr zu einem risikobasierten Ansatz im Einklang mit der bestehenden REACH-Verordnung. Der aktuelle Vorschlag geht \u00fcber vern\u00fcnftige Ma\u00dfnahmen hinaus und f\u00fchrt zu Rechtsunsicherheiten. Persistenz allein ist kein Risiko.\r\n2.\tBeschr\u00e4nkungsumfang an das Risikoprofil der Substanzen anpassen:\r\n\u2022\tEs sollten unterschiedliche Risikoprofile von Stoffgruppen ber\u00fccksichtigt werden. Fluorpolymere wie Teflon (PTFE), die von der OECD als \"polymers of low concern\" eingestuft werden, sollten ausgenommen werden. Im Gegensatz zu PFOS und PFOA haben die Fluorpolymere andere charakteristische Risikoprofile und reichern sich nicht im Grundwasser oder im menschlichen K\u00f6rper an. Einen risikobasierten Ansatz zu verfolgen, bedeutet zwangsl\u00e4ufig, stoffspezifische Ausnahmen zu definieren und damit Produktionsanlagen, Lieferketten und die Ersatzteilverf\u00fcgbarkeit zu ber\u00fccksichtigen. Zudem ist eine Informationspflicht zu PFAS in der Lieferkette zun\u00e4chst eine wichtige Voraussetzung daf\u00fcr, in den komplexen Lieferketten relevante PFAS-Anwendungen und die damit verbundenen Risiken \u00fcberhaupt identifizieren zu k\u00f6nnen. \r\n3.\tPraktische Handhabbarkeit gew\u00e4hrleisten:\r\n\u2022\tDer aktuelle Vorschlag birgt die Gefahr einer \u00dcberb\u00fcrokratisierung, die zu Unklarheiten bei der Regulierung und Problemen bei der Durchsetzung f\u00fchrt. Ein klar eingegrenzter und risikobasierter Beschr\u00e4nkungsumfang sowie robuste Durchsetzungsmechanismen sind f\u00fcr die praktische Umsetzung unerl\u00e4sslich. Eine wirkungsvolle Durchsetzbarkeit wird im jetzigen Beschr\u00e4nkungsvorschlag \u00fcberhaupt nicht ber\u00fccksichtigt und thematisiert. Markt\u00fcberwachung und Zoll st\u00fcnden vor einer gigantischen und unl\u00f6sbaren Aufgabe, kleinteilige Produktausnahmen zu pr\u00fcfen sowie das nicht Vorhandensein von PFAS in geringen Konzentrationen nachzuweisen. Da die gew\u00e4hlte Stoffgruppe enorm gro\u00df ist und nur \u00fcber die Molek\u00fclstruktur definiert wird, ist vielfach nicht einmal klar, wonach genau gesucht werden soll.\r\n4.\tMachbare \u00dcbergangsfristen oder keine Befristung:\r\n\u2022\t\u00dcbergangsfristen sollten erst eingef\u00fchrt werden, wenn praktikable Substitutionsm\u00f6glichkeiten vorhanden sind. In vielen Industriebereichen sind Alternativen aber nicht absehbar, insbesondere beim Einsatz von Fluorpolymeren z.B. in der Medizintechnik und anderen Hightech-Bereichen. \u00dcbergangsfristen nutzen nichts, wenn es keine Substitutionsm\u00f6glichkeiten gibt, um an einem \u00dcbergang zu arbeiten.\r\n5.\tKeine widerspr\u00fcchliche Regulierung schaffen\r\n\u2022\tVom PFAS-Beschr\u00e4nkungsumfang erfasst ist auch eine Teilgruppe fluorierter Treibhausgase (F-Gase), die u.a. in Medizinprodukten, aber auch in Analyse- und Laborger\u00e4ten wie Zentrifugen und K\u00fchlger\u00e4ten zum Einsatz kommen. F-Gase werden seit Jahrzehnten in der EU bereits sehr detailliert und sektorspezifisch reguliert. Der Rechtsrahmen hat zum Ziel, F-Gase kontinuierlich und schrittweise zu beschr\u00e4nken (phase out), enth\u00e4lt bereits umfassende Verbote f\u00fcr die Verwendung und das Inverkehrbringen von F-Gasen sowie Regelungen zur Emissionsbegrenzung, Dichtheitspr\u00fcfungen, Zertifizierung, Entsorgung und Kennzeichnung. Mit der F-Gas-Verordnung soll insbesondere ein Anreiz zur Verwendung von Alternativen anstelle von F-Gasen geschaffen werden, und die Verordnung wird regelm\u00e4\u00dfig angepasst \u2013 erst im M\u00e4rz 2024 ist ein neue EU F-Gase Verordnung (2024/573) in Kraft getreten. Die vorgesehene PFAS-Beschr\u00e4nkung darf hier keine widerspr\u00fcchliche Regulierung zu bereits existierenden \u00dcbergangsbestimmungen f\u00fcr F-Gase schaffen.\r\n\r\n6.\tAns\u00e4tze zur Emissionskontrolle und Abfallentsorgung:\r\n\u2022\tDie Hersteller von Fluorpolymeren m\u00fcssen ihre Verantwortung f\u00fcr die Umwelt wahrnehmen und unter anderem strenge Emissionsgrenzwerte einhalten. Bem\u00fchungen um Emissionskontrolle und verantwortungsvolle Abfallentsorgung sollten gef\u00f6rdert werden. Einige Fluorpolymerhersteller sind sich ihrer Verantwortung f\u00fcr die Umwelt bewusst und haben bereits eine Selbstverpflichtung unterzeichnet sowie Schritte zur Einhaltung strenger Grenzwerte bei den Emissionen eingeleitet. \r\n\r\n\r\n\u00bb\tWeitere Argumente gegen ein Pauschalverbot der PFAS-Stoffgruppe:\r\n\u2022\tDie Unterscheidung zwischen Fluorpolymeren und anderen PFAS-Verbindungen ist von entscheidender Bedeu-tung. Fluorpolymere haben ihre langfristige Sicherheit in medizinischen Anwendungen unter Beweis gestellt.\r\n\u2022\tDer gew\u00e4hlte Ansatz hat keinen Pr\u00e4zedenzfall und ist fehlgeleitet. Die zeitliche Eigenschaft der Persistenz allein ist nicht gleichbedeutend mit Risiko.\r\n\u2022\tDer vorgeschlagene \"differenzierte Ansatz\" verschleiert, dass Hunderte von produktspezifischen Ausnahmen und \u00dcbergangsfristen nicht praktikabel sind.\r\n\u2022\tAlternative Ans\u00e4tze wie in den USA und dem Vereinigten K\u00f6nigreich zeigen ausgewogenere und risikobasierte Strategien.\r\n\u2022\tDas Fortbestehen des Gendorfer Chemiedreiecks w\u00e4re mit dem jetzigen Beschr\u00e4nkungsvorschlag massiv gef\u00e4hrdet. Dieses ist f\u00fcr das industrielle \u00d6kosystem in Europa von entscheidender Bedeutung. Politische Unterst\u00fctzung ist dringend erforderlich, um negative Auswirkungen der Schlie\u00dfung von Dyneon im Jahr 2025 zu verhindern, schlie\u00dflich liefert dieses Werk allein 40% der in Europa ben\u00f6tigten Fluorpolymere. F\u00fcr einige, gerade in der Halbleiterindustrie ben\u00f6tigte, Spezialstoffe ist Dyneon sogar der einzige europ\u00e4ische Produzent.\r\n\r\n\u00bb\tZusammenfassung: \r\nEin pauschales PFAS-Verbot macht den Einsatz unverzichtbarer Hochleistungswerkstoffe vielfach unm\u00f6glich und gef\u00e4hrdet die technologische Souver\u00e4nit\u00e4t und Versorgungssicherheit in der EU massiv. Daher fordert SPECTARIS die politischen Entscheidungstr\u00e4ger auf, die vorgeschlagenen PFAS-Beschr\u00e4nkungen in Europa zu \u00fcberdenken. Wir betonen die Notwendigkeit eines ausgewogenen, risikobasierten Ansatzes, der sowohl die \u00f6ffentliche Gesundheit als auch die Interessen der Industrie sch\u00fctzt. Politische Unterst\u00fctzung auf hoher Ebene ist unerl\u00e4sslich, um diese Bedenken wirksam auszur\u00e4umen. Ein Abwarten entlang des eingeschlagenen, beh\u00f6rdlichen Verfahrens ruft schon kurzfristig massive Planungsunsicherheit hervor und f\u00f6rdert ein schleichendes Abwandern von wichtigen europ\u00e4ischen Hightech-Industrien. Wir brauchen daher eine Politisierung des Verfahrens und klare, schnelle Signale politischer Entscheidungstr\u00e4ger, selbst wenn sie au\u00dferhalb des bisherigen Verfahrens stehen. "
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

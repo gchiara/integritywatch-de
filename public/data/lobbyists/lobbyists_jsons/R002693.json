@@ -1,0 +1,559 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-01-05T14:33:25.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-02T21:05:39.000+01:00",
+        "lastUpdateDate": "2024-06-19T12:56:07.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 35863,
+                "validFromDate": "2024-06-19T12:56:07.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25074,
+                "validFromDate": "2023-08-18T08:53:20.000+02:00",
+                "validUntilDate": "2024-06-19T12:56:07.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25021,
+                "validFromDate": "2023-08-16T11:09:38.000+02:00",
+                "validUntilDate": "2023-08-18T08:53:20.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17609,
+                "validFromDate": "2023-03-27T07:56:08.000+02:00",
+                "validUntilDate": "2023-08-16T11:09:38.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 13673,
+                "validFromDate": "2023-01-05T14:33:25.000+01:00",
+                "validUntilDate": "2023-03-27T07:56:08.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Der S\u00e4chsische Handwerkstag ist die Spitzenorganisation des Handwerks im Freistaat, damit die h\u00f6chste demokratische Vereinigung der Handwerker des Landes und zugleich ma\u00dfgebendes Forum, das branchen\u00fcbergreifend der Willensbildung zu allen das s\u00e4chsische Handwerk betreffenden Fragen dient. Grundlage des Wirkens der gr\u00f6\u00dften Landeshandwerksorganisation im Osten Deutschlands bildet eine Satzung.\r\n\r\nDer S\u00e4chsische Handwerkstag nimmt die Belange des s\u00e4chsischen Handwerks gegen\u00fcber dem S\u00e4chsischen Landtag, der Staatsregierung, den Parteien, K\u00f6rperschaften und Verb\u00e4nden sowie der \u00d6ffentlichkeit wahr. Laut Satzung darf der Handwerkstag weder Staatsauftragsangelegenheiten durchf\u00fchren noch als Mittel f\u00fcr eine Beschr\u00e4nkung oder Kontrolle des Gewerbes t\u00e4tig sein.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_SS_OLD_AGE",
+                "de": "Rente/Alterssicherung",
+                "en": "Old-age insurance"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_RP_CITY",
+                "de": "Stadtentwicklung",
+                "en": "Urban development"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ECONOMY_HANDCRAFT",
+                "de": "Handwerk",
+                "en": "Handcraft"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/1e/d0/298428/SHT_Transparenzregister_2023_Haushalt.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.0,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Dresden",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Am Lagerplatz",
+            "streetNumber": "8",
+            "type": "NATIONAL",
+            "zipCode": "01099"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "buero@handwerkstag-sachsen.de"
+                }
+            ],
+            "phoneNumber": "+493514640403",
+            "websites": [
+                {
+                    "website": "https://www.handwerkstag-sachsen.de/"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Uwe",
+                "lastName": "Nostitz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "J\u00f6rg",
+                "lastName": "Dittrich",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Andreas",
+                "lastName": "Brzezinski",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Matthias",
+                "lastName": "For\u00dfbohm",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Frank",
+                "lastName": "Wagner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Schneider",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Stefan",
+                "lastName": "Richter",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Michael",
+                "lastName": "Ermrich",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Stefanie",
+                "lastName": "Suppan-Schmidt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Frank",
+                "lastName": "Wetzel",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Fabia",
+                "lastName": "Friedrich",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Uwe",
+                "function": "Pr\u00e4sident",
+                "lastName": "Nostitz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "J\u00f6rg",
+                "function": "Vizepr\u00e4sident",
+                "lastName": "Dittrich",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Andreas",
+                "function": "Sprecher des Gesch\u00e4ftsf\u00fchrerkollegiums",
+                "lastName": "Brzezinski",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Matthias",
+                "function": "Vorstandsmitglied",
+                "lastName": "For\u00dfbohm",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Volker",
+                "function": "Mitglied Gesch\u00e4ftsf\u00fchrerkollegium",
+                "lastName": "Lux",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Frank",
+                "function": "Vorstandsmitglied",
+                "lastName": "Wagner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Markus",
+                "function": "Mitglied Gesch\u00e4ftsf\u00fchrerkollegium",
+                "lastName": "Winkelstr\u00f6ter",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Michael",
+                "function": "Vorstandsmitglied",
+                "lastName": "Schneider",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Dorit",
+                "function": "Mitglied Gesch\u00e4ftsf\u00fchrerkollegium",
+                "lastName": "Gangfu\u00df",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Manuela",
+                "function": "Mitglied Gesch\u00e4ftsf\u00fchrerkollegium",
+                "lastName": "Lohse",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Gabriela",
+                "function": "Mitglied Gesch\u00e4ftsf\u00fchrerkollegium",
+                "lastName": "Msuya",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Stefan",
+                "function": "Vorstandsmitglied",
+                "lastName": "Richter",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Michael",
+                "function": "Vorstandsmitglied",
+                "lastName": "Ermrich",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-12-31",
+            "naturalPersons": 0,
+            "organizations": 43,
+            "totalCount": 43
+        },
+        "membersPresent": true,
+        "membershipsPresent": false,
+        "name": "S\u00e4chsischer Handwerkstag e. V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "Handwerkskammer Chemnitz"
+            },
+            {
+                "name": "Handwerkskammer zu Leipzig"
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 160001,
+            "to": 170000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002693/35863",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-19T12:56:07.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/cc/ab/298429/Lobbyregister-Detailansicht-R002693-2024-06-19_12-56-07.pdf",
+        "validFromDate": "2024-06-19T12:56:07.000+02:00",
+        "version": 6
+    },
+    "registerEntryId": 35863,
+    "registerNumber": "R002693",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Einf\u00fchrung Altersgrenze f\u00fcr die Anerkennung eines Ausbildungsabschlusses, Anerkennende Stellen sollten Handwerkskammern sein",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_HANDCRAFT",
+                        "de": "Handwerk",
+                        "en": "Handcraft"
+                    },
+                    {
+                        "code": "FOI_EDUCATION_PARENTING",
+                        "de": "Bildung und Erziehung",
+                        "en": "Education and parenting"
+                    },
+                    {
+                        "code": "FOI_EP_WORK",
+                        "de": "Berufliche Bildung",
+                        "en": "Job education"
+                    },
+                    {
+                        "code": "FOI_WORK",
+                        "de": "Arbeit und Besch\u00e4ftigung",
+                        "en": "Work and employment"
+                    },
+                    {
+                        "code": "FOI_WORK_OTHER",
+                        "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                        "en": "Other in the field of \"Work and employment\""
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/108/2010857.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMBF",
+                                "title": "Bundesministerium f\u00fcr Bildung und Forschung",
+                                "url": "https://www.bmbf.de/bmbf/de/home/home_node.html"
+                            }
+                        ],
+                        "printingNumber": "20/10857",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/berufsbildungsvalidierungs-und-digitalisierungsgesetz-bvadig/308708",
+                        "title": "Entwurf eines Berufsvalidierungs- und -digitalisierungsgesetzes - (BVaDiG)"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0002944",
+                "statements": [],
+                "title": "Anpassung Berufsvalidierungs- und -digitalisierungsgesetz"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Einf\u00fchrung weitreichenderer Ma\u00dfnahmen, sodass die Entlastung der Unternehmen sp\u00fcrbar wird",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_HANDCRAFT",
+                        "de": "Handwerk",
+                        "en": "Handcraft"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/113/2011306.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMJ",
+                                "title": "Bundesministerium der Justiz",
+                                "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                            }
+                        ],
+                        "printingNumber": "20/11306",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/viertes-gesetz-zur-entlastung-der-b%C3%BCrgerinnen-und-b%C3%BCrger-der-wirtschaft/309845",
+                        "title": "Entwurf eines Vierten Gesetzes zur Entlastung der B\u00fcrgerinnen und B\u00fcrger, der Wirtschaft sowie der Verwaltung von B\u00fcrokratie - (Viertes B\u00fcrokratieentlastungsgesetz)"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0002945",
+                "statements": [],
+                "title": "Sp\u00fcrbare Entlastung von KMU durch B\u00fcrokratieentlastung"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

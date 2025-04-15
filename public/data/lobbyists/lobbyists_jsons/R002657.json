@@ -1,0 +1,987 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-11-07T15:15:19.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-02T15:49:16.000+01:00",
+        "lastUpdateDate": "2024-06-28T12:43:47.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 39725,
+                "validFromDate": "2024-06-28T12:43:47.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26297,
+                "validFromDate": "2023-10-19T15:20:05.000+02:00",
+                "validUntilDate": "2024-06-28T12:43:47.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25056,
+                "validFromDate": "2023-08-17T12:30:58.000+02:00",
+                "validUntilDate": "2023-10-19T15:20:05.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25054,
+                "validFromDate": "2023-08-17T12:25:14.000+02:00",
+                "validUntilDate": "2023-08-17T12:30:58.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 20144,
+                "validFromDate": "2023-05-23T11:49:01.000+02:00",
+                "validUntilDate": "2023-08-17T12:25:14.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 12906,
+                "validFromDate": "2022-11-07T15:15:19.000+01:00",
+                "validUntilDate": "2023-05-23T11:49:01.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Der Bundesverband des Deutschen Lebensmittelhandels e. V. (BVLH) ist im Handelsverband Deutschland (HDE) der Fachverband f\u00fcr die Lebensmittelarbeit. Er unterst\u00fctzt seine Mitglieder bei der Erledigung lebensmittelfachlicher und lebensmittelrechtlicher Aufgaben und er wahrt in einer Vielzahl von Themenfeldern ihre lebensmittelpolitischen Interessen gegen\u00fcber Gesetzgebung, Beh\u00f6rden und \u00d6ffentlichkeit. Auf diesem Gebiet ist der BVLH der Ansprechpartner f\u00fcr Politik, Medien, Verbraucherorganisationen und die Verb\u00e4nde der vorgelagerten Wirtschaftsstufen. Im Zuge dessen besteht durch Anschreiben, Positionspapiere, Gespr\u00e4che und Veranstaltungen direkter Kontakt auch zu Mitgliedern des Bundestags und Vertreterinnen und Vertretern von Bundesministerien. Der BVLH ist Gr\u00fcndungsorganisation, Namensgeber und Mitveranstalter der Weltleitmesse f\u00fcr Lebensmittel und Getr\u00e4nke ANUGA. ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_AF_AQUACULTURE",
+                "de": "Fischerei/Aquakultur",
+                "en": "Fishery/aquaculture"
+            },
+            {
+                "code": "FOI_AF_FOOD_SAFETY",
+                "de": "Lebensmittelsicherheit",
+                "en": "Food safety"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/0e/30/323732/BVLH_JA__2023_Bilanz_GUV_LR.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 5.76,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 210001,
+            "to": 220000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Am Weidendamm",
+            "streetNumber": "1A",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@bvlh.net"
+                }
+            ],
+            "phoneNumber": "+493072625080",
+            "websites": [
+                {
+                    "website": "https://www.bvlh.net"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Bj\u00f6rn",
+                "lastName": "Fromm",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Peter",
+                "lastName": "Dornseifer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "J\u00fcrgen Norbert",
+                "lastName": "Baur",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Matthias",
+                "lastName": "Zwingel",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "J\u00f6rg",
+                "lastName": "M\u00fcller",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Franz-Martin",
+                "lastName": "Rausch",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Christian",
+                "lastName": "Mieles",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Axel",
+                "lastName": "Haentjes",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Philipp",
+                "lastName": "Hennerkes",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Miriam",
+                "lastName": "Schneider",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Matthias",
+                "lastName": "J\u00e4ger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Karoline",
+                "lastName": "Teuber-Wohl",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Frederic",
+                "lastName": "Wagner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Sara",
+                "lastName": "Winkelmann",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Bj\u00f6rn",
+                "function": "Pr\u00e4sident",
+                "lastName": "Fromm",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Peter",
+                "function": "Schatzmeister",
+                "lastName": "Dornseifer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "J\u00fcrgen Norbert",
+                "function": "Stellvertreter",
+                "lastName": "Baur",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Matthias",
+                "function": "Stellvertreter",
+                "lastName": "Zwingel",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "J\u00f6rg",
+                "function": "Stellvertreter",
+                "lastName": "M\u00fcller",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Franz-Martin",
+                "function": "Hauptgesch\u00e4ftsf\u00fchrer als besonderer Vetreter gem. \u00a7 30 BGB",
+                "lastName": "Rausch",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-26",
+            "naturalPersons": 0,
+            "organizations": 20,
+            "totalCount": 20
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Forum Nachhaltiger Kakao e. V."
+            },
+            {
+                "membership": "Bundesmarktverband der Fischwirtschaft"
+            },
+            {
+                "membership": "Zentralstelle f\u00fcr Berufsbildung im Handel e. V."
+            },
+            {
+                "membership": "QM Milch e. V."
+            },
+            {
+                "membership": "Handelsverband Deutschland - HDE e.V. "
+            },
+            {
+                "membership": "Lebensmittelverband Deutschland e.V."
+            },
+            {
+                "membership": "Wirtschaftsforum der SPD e. V."
+            },
+            {
+                "membership": "Food for Biodiversity - Biodiversit\u00e4t in der Lebensmittelbranche e. V. "
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Bundesverband des Deutschen Lebensmittelhandels e.V. (BVLH)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "EDEKA ZENTRALE Stiftung & Co. KG"
+            },
+            {
+                "name": "REWE Group"
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 520001,
+            "to": 530000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002657/39725",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-28T12:43:47.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/7a/f3/323737/Lobbyregister-Detailansicht-R002657-2024-06-28_12-43-47.pdf",
+        "validFromDate": "2024-06-28T12:43:47.000+02:00",
+        "version": 9
+    },
+    "registerEntryId": 39725,
+    "registerNumber": "R002657",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Der BVLH setzt sich f\u00fcr einen Widerspruch gegen die nationale Eintragung des Begriffs \u201eEmmentaler\u201c als gesch\u00fctzte Ursprungsbezeichnung durch die Schweiz ein. Emmentaler\u201c ist eine nicht schutzf\u00e4hige Gattungsbezeichnung, der K\u00e4se wird auch in Deutschland in gro\u00dfen Mengen hergestellt. Um Wettbewerbsnachteile zu vermeiden ist es daher erforderlich, gegen den Schweizer Antrag t\u00e4tig zu werden. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009199",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/0b/cd/323733/Stellungnahme-Gutachten-SG2406280096.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                        "de": "Bundesministerium der Justiz (BMJ)",
+                                        "en": "Bundesministerium der Justiz (BMJ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-19"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009199",
+                        "regulatoryProjectTitle": "Agrargeoschutzverordnung",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Sehr geehrte Damen und Herren,\r\n\r\ndie Schweiz hat beantragt, \u201eEmmentaler\u201c als gesch\u00fctzte Ursprungsbezeichnung nach der Genfer Akte einzutragen, eine entsprechende Mitteilung wurde am 12.04.2024 durch die EU-Kommission im EU-Amtsblatt (C/2024/2686 - Anlage) ver\u00f6ffentlicht.\r\nGegen diese Ver\u00f6ffentlichung besteht die M\u00f6glichkeit, gem\u00e4\u00df Artikel 6 der Verordnung (EU) 2019/1753 Einspruch gegen den Schutz des Namens im Gebiet der Europ\u00e4ischen Union zu erheben. Einspr\u00fcche m\u00fcssen innerhalb von vier Kalendermonaten ab dem 12.04.2024, d.h. bis sp\u00e4testens zum 11.08.2024, bei der EU-Kommission (AGRI-GEOGRAPHICAL-INDICATIONS@ec.europa.eu) eingereicht werden.\r\n\r\nEmmentaler\u201c ist eine nicht schutzf\u00e4hige Gattungsbezeichnung, der K\u00e4se wird auch in Deutschland in gro\u00dfen Mengen hergestellt. Um Wettbewerbsnachteile zu vermeiden ist es daher erforderlich, gegen den Schweizer Antrag t\u00e4tig zu werden.\r\n\r\nDer Sachverhalt wurde Ihnen bereits von Seiten der Milchindustrie dargelegt, auch von Seiten des Lebensmitteleinzelhandels m\u00f6chten wir Sie darum bitten, hier entsprechend im Interesse der deutschen Lebensmittelwirtschaft t\u00e4tig zu werden.\r\n\r\nVielen Dank.\r\nGerne stehen wir f\u00fcr Nachfragen zur Verf\u00fcgung.\r\n\r\n\r\nMit freundlichen Gr\u00fc\u00dfen\r\n"
+                        }
+                    }
+                ],
+                "title": "Agrargeoschutzverordnung"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "Min/TafelWV",
+                        "title": "Verordnung \u00fcber nat\u00fcrliches Mineralwasser, Quellwasser und Tafelwasser",
+                        "url": "https://www.gesetze-im-internet.de/min_tafelwv"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Im Novellierungsverfahren hat der BVLH zur Neufassung der Mineral- und Tafelwasserverordnung Stellung genommen und seine Position in der Verb\u00e4ndeanh\u00f6rung vertieft. Der BVLH setzt sich f\u00fcr eine praxisgerechte Ausgestaltung der Verordnung ein, insbesondere bei der Kennzeichnung von Eigenmarken des Handels.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_INDUSTRY",
+                        "de": "Lebens- und Genussmittelindustrie",
+                        "en": "Food and luxury food industry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009200",
+                "statements": [],
+                "title": "Mineral- und Tafelwasserverordnung (Min/TafelWV)"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "TierHaltKennzG",
+                        "title": "Gesetz zur Kennzeichnung von Lebensmitteln mit der Haltungsform der Tiere, von denen die Lebensmittel gewonnen wurden",
+                        "url": "https://www.gesetze-im-internet.de/tierhaltkennzg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Ziel des BVLH ist es bei der weiteren Umsetzung und Ausweitung auf andere Bereiche/Vermarktungsebenen eine engere Zusammenarbeit zwischen Politik und Handel zu erm\u00f6glichen. Es ist gew\u00fcnscht gesetzliche Regelungen praxisn\u00e4her zu gestalten, die Umsetzbarkeit zu verbessern, b\u00fcrokratische H\u00fcrden zu minimieren.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_ANIMAL",
+                        "de": "Tierschutz",
+                        "en": "Animal welfare"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009201",
+                "statements": [],
+                "title": "Tierhaltungskennzeichnungsgesetz (TierHaltKennzG)"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "AgrarOLkG",
+                        "title": "Gesetz zur St\u00e4rkung der Organisationen und Lieferketten im Agrarbereich",
+                        "url": "https://www.gesetze-im-internet.de/agrarmsg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die Novelle muss eine eins-zu-eins Umsetzung der EU-Vorgaben gew\u00e4hrleisten und keine Regulierung dar\u00fcber hinaus vorsehen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/119/2011948.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [],
+                        "printingNumber": "20/11948",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-%C3%A4nderung-agrarrechtlicher-vorschriften/313367",
+                        "title": "Entwurf eines Gesetzes zur \u00c4nderung agrarrechtlicher Vorschriften"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0009202",
+                "statements": [],
+                "title": "Agrarorganisationen-und-Lieferketten-Gesetz (AgrarOLkG)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Bei der Ausgestaltung des Vorhabens muss eine wortgetreue Umsetzung des Koalitionsvertrags erfolgen und daran ausgerichtet eine eindeutige Definition von Werbetr\u00e4gern, Aufmachung von Werbung und dem Kommunikationszeitraum. Eine Regulierung muss die Berufs- und Informationsfreiheit wahren und ihre Wirkung au\u00dferdem durch eine unabh\u00e4ngige Begleitforschung untersucht werden. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_INDUSTRY",
+                        "de": "Lebens- und Genussmittelindustrie",
+                        "en": "Food and luxury food industry"
+                    },
+                    {
+                        "code": "FOI_AF_OTHER",
+                        "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                        "en": "Other in the field of \"Agriculture and food\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009203",
+                "statements": [],
+                "title": "Vorhaben eines Kinderlebensmittelwerbegesetzes (KLWG)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Der BVLH bef\u00fcrwortet die Anpassung von europ\u00e4ischen und nationalen lebensmittelrechtlichen Vorschriften zum Abbau von Hemmnissen bei der Weitergabe von Lebensmitteln an (karitative) Organisationen. Vorschl\u00e4ge und Kommentierungen beziehen sich auf haftungs-, kennzeichnungs- und steuerrechtliche Handlungsfelder. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_OTHER",
+                        "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                        "en": "Other in the field of \"Agriculture and food\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009204",
+                "statements": [],
+                "title": "Abbau rechtlicher Hemmnisse bei der Weitergabe von Lebensmitteln"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Grunds\u00e4tzlich wird das politische Ziel, Lebensmittelverluste zu vermeiden begr\u00fc\u00dft. Im Zusammenhang mit der Novelle der EU-ARR fordert der BVLH nach Sektoren getrennte Reduktionsziele sowie einen harmonisierten Ansatz zur Datenerhebung. Eine Flexibilit\u00e4t bei den Referenzjahren wird begr\u00fc\u00dft.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_OTHER",
+                        "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                        "en": "Other in the field of \"Agriculture and food\""
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009205",
+                "statements": [],
+                "title": "Novelle der EU-Abfallrahmenrichtlinie"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Begleitung der nationalen Umsetzung der Entwaldungsverordnung. Der BVLH bef\u00fcrwortet eine praxisorientierte nationale Umsetzung der EUDR.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009206",
+                "statements": [],
+                "title": "Nationale Umsetzung der Verordnung (EU) 2023/1115 des Europ\u00e4ischen Parlaments und des Rates"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Ma\u00dfnahmen zur Emissionsreduktion bei Weizen, die von Akteuren der Lieferkette angesto\u00dfen werden, sind aus Sicht des Klimaschutzes grunds\u00e4tzlich zu begr\u00fc\u00dfen. Die Reduktion von D\u00fcngemitteln kann aus LEH-Sicht aber nur eine von mehreren Ma\u00dfnahmen zur Emissionsreduktion beim Anbau von Weizen sein. Konformit\u00e4t von Regelungsbestreben mit der Green-Claims-Verordnung bei der Auslobung muss sichergestellt sein.  ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_INDUSTRY",
+                        "de": "Lebens- und Genussmittelindustrie",
+                        "en": "Food and luxury food industry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009207",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/50/bd/323735/Stellungnahme-Gutachten-SG2406280100.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                        "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                        "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-30"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009207",
+                        "regulatoryProjectTitle": "Initiative zur Erweiterung der Qualit\u00e4tskriterien f\u00fcr Backweizen",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Initiative: Bachweizen und Klimaschutz / Erweiterung der Qualit\u00e4tskriterien\r\n\r\nwir danken herzlich f\u00fcr das Gespr\u00e4ch im April 2024 in genannter Sache und die diesbez\u00fcglich erhaltenen weiteren Hintergrundinformationen. Im Ergebnis unserer handelsseitigen Pr\u00fcfung steht der BVLH der Initiative zur Weiterentwicklung der Qualit\u00e4tskriterien f\u00fcr Backweizen grunds\u00e4tzlich positiv gegen\u00fcber und ist bereit, sich dort - stellvertretend f\u00fcr den Lebensmitteleinzelhandel (LEH) - einzubringen.\r\nMa\u00dfnahmen zur Emissionsreduktion bei Weizen, die von Akteuren der Lieferkette angesto\u00dfen werden, sind aus Sicht des Klimaschutzes grunds\u00e4tzlich zu begr\u00fc\u00dfen, v.a. bei D\u00fcngemitteln als wesentlichem Emissionstreiber. Die Reduktion von D\u00fcngemitteln kann aus LEH-Sicht aber nur eine von mehreren Ma\u00dfnahmen zur Emissionsreduktion in der Lieferkette Weizen sein.\r\nSollten die erweiterten Kriterien f\u00fcr die Qualit\u00e4tseinstufung von Backweizen zu weniger D\u00fcngemitteleinsatz f\u00fchren, h\u00e4tte das neben der Emissionsreduktion auch positive Effekte auf Biodiversit\u00e4t und Gew\u00e4sser. Hier stellt sich die Frage: Kann das BMEL das Potenzial der Initiative bzw. der Ma\u00dfnahmen bereits beziffern?\r\nDer BVLH sieht die Qualit\u00e4t der Backwaren mit Blick auf den Konsumenten als\r\nentscheidend an. Einbu\u00dfen an dieser Stelle darf es durch die Initiative nicht geben. Vor\r\ndiesem Hintergrund wird die Einbindung des Max Rubner-Instituts in die Initiative\r\nbereits sehr begr\u00fc\u00dft.\r\nLeider ist zum jetzigen Zeitpunkt bzw. bei jetzigem Kenntnisstand nicht klar, was die\r\nInitiative letztlich f\u00fcr konkrete Auswirkungen auf die Endprodukte haben wird. Was die\r\nerw\u00e4hnten Weizensorten mit positiven Backeigenschaften trotz geringer Proteingehalte\r\nanbelangt, stellen wir uns die Frage: Wie belastbar sind die bestehenden\r\nBackversuche? Welche Produktionsmengen stehen hinter diesen Weizensorten? Ist bei\r\nD\u00fcngemittelreduktion ggf. mit Doppelverlusten (weniger Menge und geringere Qualit\u00e4t)\r\nzu rechnen? Gibt es bereits eine finanzielle Bewertung ggf. m\u00f6glicher Doppelverluste\r\n(in Euro)? Weitere Hintergrundinformationen sind hier zwingend notwendig.\r\nDie Definition der Qualit\u00e4tskriterien auf Rohproteinbasis und damit die Preisgestaltung\r\nerfolgt bekanntlich in den Vorstufen des LEH auf nationaler und internationaler Ebene.\r\nDer LEH nimmt daher keinen direkten Einfluss auf die Spezifizierung der Rohware in\r\ndieser Form.\r\nWas die Gemeinsame Erkl\u00e4rung anbelangt, f\u00e4llt auf, dass auf der Stufe zum\r\nKonsumenten bislang lediglich die B\u00e4cker aufgef\u00fchrt sind. Neben dem LEH m\u00fcssten\r\nkonsequenterweise auch die Gro\u00dfverbraucher (Caterer, Kantinen, Gro\u00dfkuchen etc.)\r\nsowie die Gastronomie eingebunden werden. Auch fehlen weitgehend die Verb\u00e4nde der\r\nErn\u00e4hrungsindustrie. Zudem stellt sich die Frage: Welche Rolle soll der LEH in der\r\nInitiative einnehmen?\r\nDie im Hintergrundpapier beschriebene evtl. Nutzung von Marketing-Aussagen, v.a. am\r\nProdukt, halten wir vor dem Hintergrund der Green-Claims-Regulierung f\u00fcr kritisch bzw.\r\nnach aktuellem Kenntnisstand f\u00fcr schwer umsetzbar. In der Initiative muss zwingend\r\ndie Konformit\u00e4t mit den Green-Claims-Vorgaben sichergestellt sein.\r\nSoweit unsere Ausf\u00fchrungen zum Stand der Initiative. An den weiteren Entwicklungen\r\nsind wir sehr interessiert."
+                        }
+                    }
+                ],
+                "title": "Initiative zur Erweiterung der Qualit\u00e4tskriterien f\u00fcr Backweizen"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "TierSchlV",
+                        "title": "Verordnung zum Schutz von Tieren im Zusammenhang mit der Schlachtung oder T\u00f6tung und zur Durchf\u00fchrung der Verordnung (EG) Nr. 1099/2009 des Rates",
+                        "url": "https://www.gesetze-im-internet.de/tierschlv_2013"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Ber\u00fccksichtigung von praxisnahen Handlungsoptionen f\u00fcr den Lebensmittelhandel im Einklang mit Pr\u00fcfungsvorgaben in der TierschlachtV. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_ANIMAL",
+                        "de": "Tierschutz",
+                        "en": "Animal welfare"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009208",
+                "statements": [],
+                "title": "Umgang mit lebenden Muscheln"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Der BVLH spricht sich f\u00fcr ein freiwilliges System zur Kennzeichnung der Umweltauswirkungen von Lebensmitteln aus und hat Eckpunkte formuliert mit dem Ziel, Verbraucher bei nachhaltigeren Kaufentscheidungen zu unterst\u00fctzen. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_INDUSTRY",
+                        "de": "Lebens- und Genussmittelindustrie",
+                        "en": "Food and luxury food industry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009209",
+                "statements": [],
+                "title": "Umweltauswirkung von Lebensmitteln"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/0b/cd/323733/Stellungnahme-Gutachten-SG2406280096.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                "de": "Bundesministerium der Justiz (BMJ)",
+                                "en": "Bundesministerium der Justiz (BMJ)"
+                            }
+                        ],
+                        "sendingDate": "2024-06-19"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009199",
+                "regulatoryProjectTitle": "Agrargeoschutzverordnung",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Sehr geehrte Damen und Herren,\r\n\r\ndie Schweiz hat beantragt, \u201eEmmentaler\u201c als gesch\u00fctzte Ursprungsbezeichnung nach der Genfer Akte einzutragen, eine entsprechende Mitteilung wurde am 12.04.2024 durch die EU-Kommission im EU-Amtsblatt (C/2024/2686 - Anlage) ver\u00f6ffentlicht.\r\nGegen diese Ver\u00f6ffentlichung besteht die M\u00f6glichkeit, gem\u00e4\u00df Artikel 6 der Verordnung (EU) 2019/1753 Einspruch gegen den Schutz des Namens im Gebiet der Europ\u00e4ischen Union zu erheben. Einspr\u00fcche m\u00fcssen innerhalb von vier Kalendermonaten ab dem 12.04.2024, d.h. bis sp\u00e4testens zum 11.08.2024, bei der EU-Kommission (AGRI-GEOGRAPHICAL-INDICATIONS@ec.europa.eu) eingereicht werden.\r\n\r\nEmmentaler\u201c ist eine nicht schutzf\u00e4hige Gattungsbezeichnung, der K\u00e4se wird auch in Deutschland in gro\u00dfen Mengen hergestellt. Um Wettbewerbsnachteile zu vermeiden ist es daher erforderlich, gegen den Schweizer Antrag t\u00e4tig zu werden.\r\n\r\nDer Sachverhalt wurde Ihnen bereits von Seiten der Milchindustrie dargelegt, auch von Seiten des Lebensmitteleinzelhandels m\u00f6chten wir Sie darum bitten, hier entsprechend im Interesse der deutschen Lebensmittelwirtschaft t\u00e4tig zu werden.\r\n\r\nVielen Dank.\r\nGerne stehen wir f\u00fcr Nachfragen zur Verf\u00fcgung.\r\n\r\n\r\nMit freundlichen Gr\u00fc\u00dfen\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/50/bd/323735/Stellungnahme-Gutachten-SG2406280100.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-30"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009207",
+                "regulatoryProjectTitle": "Initiative zur Erweiterung der Qualit\u00e4tskriterien f\u00fcr Backweizen",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Initiative: Bachweizen und Klimaschutz / Erweiterung der Qualit\u00e4tskriterien\r\n\r\nwir danken herzlich f\u00fcr das Gespr\u00e4ch im April 2024 in genannter Sache und die diesbez\u00fcglich erhaltenen weiteren Hintergrundinformationen. Im Ergebnis unserer handelsseitigen Pr\u00fcfung steht der BVLH der Initiative zur Weiterentwicklung der Qualit\u00e4tskriterien f\u00fcr Backweizen grunds\u00e4tzlich positiv gegen\u00fcber und ist bereit, sich dort - stellvertretend f\u00fcr den Lebensmitteleinzelhandel (LEH) - einzubringen.\r\nMa\u00dfnahmen zur Emissionsreduktion bei Weizen, die von Akteuren der Lieferkette angesto\u00dfen werden, sind aus Sicht des Klimaschutzes grunds\u00e4tzlich zu begr\u00fc\u00dfen, v.a. bei D\u00fcngemitteln als wesentlichem Emissionstreiber. Die Reduktion von D\u00fcngemitteln kann aus LEH-Sicht aber nur eine von mehreren Ma\u00dfnahmen zur Emissionsreduktion in der Lieferkette Weizen sein.\r\nSollten die erweiterten Kriterien f\u00fcr die Qualit\u00e4tseinstufung von Backweizen zu weniger D\u00fcngemitteleinsatz f\u00fchren, h\u00e4tte das neben der Emissionsreduktion auch positive Effekte auf Biodiversit\u00e4t und Gew\u00e4sser. Hier stellt sich die Frage: Kann das BMEL das Potenzial der Initiative bzw. der Ma\u00dfnahmen bereits beziffern?\r\nDer BVLH sieht die Qualit\u00e4t der Backwaren mit Blick auf den Konsumenten als\r\nentscheidend an. Einbu\u00dfen an dieser Stelle darf es durch die Initiative nicht geben. Vor\r\ndiesem Hintergrund wird die Einbindung des Max Rubner-Instituts in die Initiative\r\nbereits sehr begr\u00fc\u00dft.\r\nLeider ist zum jetzigen Zeitpunkt bzw. bei jetzigem Kenntnisstand nicht klar, was die\r\nInitiative letztlich f\u00fcr konkrete Auswirkungen auf die Endprodukte haben wird. Was die\r\nerw\u00e4hnten Weizensorten mit positiven Backeigenschaften trotz geringer Proteingehalte\r\nanbelangt, stellen wir uns die Frage: Wie belastbar sind die bestehenden\r\nBackversuche? Welche Produktionsmengen stehen hinter diesen Weizensorten? Ist bei\r\nD\u00fcngemittelreduktion ggf. mit Doppelverlusten (weniger Menge und geringere Qualit\u00e4t)\r\nzu rechnen? Gibt es bereits eine finanzielle Bewertung ggf. m\u00f6glicher Doppelverluste\r\n(in Euro)? Weitere Hintergrundinformationen sind hier zwingend notwendig.\r\nDie Definition der Qualit\u00e4tskriterien auf Rohproteinbasis und damit die Preisgestaltung\r\nerfolgt bekanntlich in den Vorstufen des LEH auf nationaler und internationaler Ebene.\r\nDer LEH nimmt daher keinen direkten Einfluss auf die Spezifizierung der Rohware in\r\ndieser Form.\r\nWas die Gemeinsame Erkl\u00e4rung anbelangt, f\u00e4llt auf, dass auf der Stufe zum\r\nKonsumenten bislang lediglich die B\u00e4cker aufgef\u00fchrt sind. Neben dem LEH m\u00fcssten\r\nkonsequenterweise auch die Gro\u00dfverbraucher (Caterer, Kantinen, Gro\u00dfkuchen etc.)\r\nsowie die Gastronomie eingebunden werden. Auch fehlen weitgehend die Verb\u00e4nde der\r\nErn\u00e4hrungsindustrie. Zudem stellt sich die Frage: Welche Rolle soll der LEH in der\r\nInitiative einnehmen?\r\nDie im Hintergrundpapier beschriebene evtl. Nutzung von Marketing-Aussagen, v.a. am\r\nProdukt, halten wir vor dem Hintergrund der Green-Claims-Regulierung f\u00fcr kritisch bzw.\r\nnach aktuellem Kenntnisstand f\u00fcr schwer umsetzbar. In der Initiative muss zwingend\r\ndie Konformit\u00e4t mit den Green-Claims-Vorgaben sichergestellt sein.\r\nSoweit unsere Ausf\u00fchrungen zum Stand der Initiative. An den weiteren Entwicklungen\r\nsind wir sehr interessiert."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

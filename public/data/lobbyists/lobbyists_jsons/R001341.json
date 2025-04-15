@@ -1,0 +1,512 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-04-12T10:54:17.000+02:00",
+                "untilDate": "2024-07-02T00:23:18.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-24T15:05:51.000+01:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-07-02T00:23:18.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2024-02-12T12:41:11.000+01:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2024-07-02T00:23:18.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 27929,
+                "validFromDate": "2024-02-12T12:41:11.000+01:00",
+                "version": 4,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 12578,
+                "validFromDate": "2023-01-04T13:23:33.000+01:00",
+                "validUntilDate": "2024-02-12T12:41:11.000+01:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 6967,
+                "validFromDate": "2022-04-12T10:54:17.000+02:00",
+                "validUntilDate": "2023-01-04T13:23:33.000+01:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Die Live Musik Kommission e.V. (kurz LiveKomm) ist der Bundesverband der Musikspielst\u00e4tten in Deutschland und repr\u00e4sentiert seit 2012 aktuell mehr als 750 Musikclubs und Festivals in \u00fcber 100 St\u00e4dten und Gemeinden. Unsere Mitglieder geh\u00f6ren zu den gr\u00f6\u00dften Anbietern lokaler Kulturveranstaltungen, des st\u00e4dtischen Tourismus sowie der deutschen und internationalen Talentf\u00f6rderung und Nachwuchspflege.\r\nDie LiveKomm ist mit 22 Organisationen in derzeit 13 Bundesl\u00e4ndern auf regionaler Ebene vertreten sowie Mitglied im europ\u00e4ischen Verband der Musikspielst\u00e4tten und Festivals, der Live DMA mit \u00fcber 3000 Mitgliedern in derzeit 18 Regionen und L\u00e4ndern in Europa.\r\nDie LiveKomm und ihre Fach-Arbeitskreise agieren als die Interessenvertretung f\u00fcr die deutsche Club- und Festivalszene und setzt sich f\u00fcr deren Belange ein. \r\nDes Weiteren werden die Interessen gegen\u00fcber Politik und Verwaltungen in Terminen, Fachkonferenzen, Branchentreffs, Ausschuss-Einladungen sowie eigenen Konferenzformaten wie der \u2019 Stadt Nach Acht\u2019 vertreten, aber auch um Verst\u00e4ndnis, Akzeptanz und Unterst\u00fctzung f\u00fcr die Spielst\u00e4tten geworben. Dies betrifft die Bereiche der Kultur, des Sozialen und der (Kreativ-)Wirtschaft, aber auch hinsichtlich des Baurechts sowie des Immissions-, Gesundheits- und Umweltschutzes.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_OTHER",
+                "de": "Sonstige Interessenbereiche",
+                "en": "Other areas",
+                "fieldOfInterestText": "Clubkultur, Konzert- und Veranstaltungswirtschaft, Steuerrecht, K\u00fcnstlersozialversicherungsrecht, Drogenpr\u00e4vention"
+            },
+            {
+                "code": "FOI_SA_OTHER",
+                "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                "en": "Other in the field of \"Government and administration\""
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_SS_UNEMPLOYMENT",
+                "de": "Arbeitslosenversicherung",
+                "en": "Unemployment insurance"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_SP_OTHER",
+                "de": "Sonstiges im Bereich \"Gesellschaftspolitik und soziale Gruppen\"",
+                "en": "Other in the field of \"Social politics and social groups\""
+            },
+            {
+                "code": "FOI_CULTURE",
+                "de": "Kultur",
+                "en": "Culture"
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_FA_CULTURE",
+                "de": "Ausw\u00e4rtige Kultur- und Bildungspolitik",
+                "en": "Foreign cultural and educational policy"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_LAS_OTHER",
+                "de": "Sonstiges im Bereich \"Sport, Freizeit und Tourismus\"",
+                "en": "Other in the field of \"Sports, leisure and tourism\""
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_SS_OTHER",
+                "de": "Sonstiges im Bereich \"Soziale Sicherung\"",
+                "en": "Other in the field of \"Social security\""
+            },
+            {
+                "code": "FOI_RP_OTHER",
+                "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                "en": "Other in the field of \"Spatial planning, construction and housing\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_RP_CITY",
+                "de": "Stadtentwicklung",
+                "en": "Urban development"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_SERVICE",
+                "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                "en": "Public service"
+            },
+            {
+                "code": "FOI_LAS_TOURISM",
+                "de": "Tourismus",
+                "en": "Tourism"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_MEDIA_COPYRIGHT",
+                "de": "Urheberrecht",
+                "en": "Copyright"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            }
+        ],
+        "legislativeProjects": [
+            {
+                "name": "Novellierung der Baunutzungsverordnung: Einstufun g von Musikclubs mit nachweislbaren kulturellem Bezug als Anlagen kultureller Zwecke"
+            },
+            {
+                "name": "Novellierung der TA L\u00e4rm: Einf\u00fchrung einer Kulturschallverordnung"
+            },
+            {
+                "name": "Regelung des Sicherheitsgewerbes"
+            },
+            {
+                "name": "Clubf\u00f6rderprogramme verstetigen und Festivalf\u00f6rderung ausbauen"
+            },
+            {
+                "name": "Flexiblisierung des Arbeitszeitgesetzes"
+            },
+            {
+                "name": "B\u00fcrokratieentlastung und Novellierung des Zuwendungsrechts"
+            },
+            {
+                "name": "Zulassung des mobilen Drugcheckings"
+            },
+            {
+                "name": "soziale Absicherung und rechtssichere Beauftragung von Selbstst\u00e4ndigen"
+            },
+            {
+                "documentTitle": "Clubs und Festivals sch\u00fctzen - Clubsterben stoppen",
+                "documentUrl": "https://dserver.bundestag.de/btd/20/088/2008854.pdf",
+                "printingNumber": "20/8854"
+            },
+            {
+                "documentTitle": "Schriftliche Fragen mit den in der Woche vom 23. Oktober 2023 eingegangenen Antworten der Bundesregierung",
+                "documentUrl": "https://dserver.bundestag.de/btd/20/090/2009004.pdf",
+                "printingNumber": "20/9004"
+            },
+            {
+                "documentTitle": "auf die Kleine Anfrage - Drucksache 20/9290 - Umsetzung der Koalitionsversprechen im Bereich Kultur und Medien",
+                "documentUrl": "https://dserver.bundestag.de/btd/20/097/2009718.pdf",
+                "printingNumber": "20/9718"
+            },
+            {
+                "documentTitle": "Umsetzung der Koalitionsversprechen im Bereich Kultur und Medien",
+                "documentUrl": "https://dserver.bundestag.de/btd/20/092/2009290.pdf",
+                "printingNumber": "20/9290"
+            },
+            {
+                "documentTitle": "zu dem Antrag der Abgeordneten Caren Lay, Jan Korte, Ates G\u00fcrpinar, weiterer Abgeordneter und der Fraktion DIE LINKE. - Drucksache 20/8854 - Clubs und Festivals sch\u00fctzen - Clubsterben stoppen",
+                "documentUrl": "https://dserver.bundestag.de/btd/20/096/2009637.pdf",
+                "printingNumber": "20/9637"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/99/18/256121/Jahresabschluss-2021.pdf",
+        "disclosureRequirementsExist": true,
+        "reportWasPublishedElsewhere": false
+    },
+    "clientIdentity": {
+        "clientsPresent": false
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "refuseDonatorsInformation": true,
+        "refuseDonatorsInformationReason": "Die H\u00f6he der Schenkungen werden im Jahresabschluss des Vereins ver\u00f6ffentlicht."
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 11,
+            "to": 20
+        }
+    },
+    "financialExpenses": {
+        "fiscalYearCompleted": false,
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Hamburg",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "c/o Clubkombinat Hamburg ",
+            "street": "Kastanienallee",
+            "streetNumber": "9",
+            "type": "NATIONAL",
+            "zipCode": "20359"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "christian.ordon@livekomm.org"
+                }
+            ],
+            "phoneNumber": "+494023518416",
+            "websites": [
+                {
+                    "website": "www.livekomm.org"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Pamela Schobe\u00df",
+                "emails": [
+                    {
+                        "email": "pamela.schobess@livekomm.org"
+                    }
+                ],
+                "function": "politische Sprecherin",
+                "lastName": "Schobe\u00df",
+                "phoneNumber": "+494023518416"
+            },
+            {
+                "commonFirstName": "Axel Ballreich",
+                "emails": [
+                    {
+                        "email": "axel.ballreich@livekomm.org"
+                    },
+                    {
+                        "email": "axel.ballreich@cbfranken.eu"
+                    }
+                ],
+                "function": "1. Vorsitzender",
+                "lastName": "Ballreich",
+                "phoneNumber": "+494023518416"
+            },
+            {
+                "commonFirstName": "Mankel",
+                "emails": [
+                    {
+                        "email": "mankel@cbe-cologne.de"
+                    }
+                ],
+                "function": "stellvertretender Vorsitzender",
+                "lastName": "Brinkmann",
+                "phoneNumber": "+494023518416"
+            },
+            {
+                "commonFirstName": "Steffen Kache",
+                "emails": [
+                    {
+                        "email": "steffen.kache@livekomm.org"
+                    }
+                ],
+                "function": "Kassenwart",
+                "lastName": "Kache",
+                "phoneNumber": "+494023518416"
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-01-03",
+            "totalCount": 765
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Live DMA European Network -  Linking Initiatives & Venues in Europe"
+            },
+            {
+                "membership": "Interessengemeinschaft Veranstaltungswirtschaft (IGVW) e. V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "LiveMusikKommission (LiveKomm)",
+        "namedEmployees": [
+            {
+                "academicDegreeAfter": "Marc Wohlrabe",
+                "academicDegreeBefore": "Wohlrabe",
+                "commonFirstName": "Marc Wohlrabe",
+                "lastName": "Marc Wohlrabe"
+            },
+            {
+                "commonFirstName": "Christian Ordon",
+                "lastName": "Christian Ordon"
+            },
+            {
+                "commonFirstName": "Thore Debor",
+                "lastName": "Debor"
+            }
+        ],
+        "namedEmployeesPresent": true
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": false,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-01-04T13:23:33.000+01:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001341/27929",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/02/10/256122/Lobbyregister-Detailansicht-R001341-2024-02-12_12-41-11.pdf",
+        "refusedAnything": true,
+        "validFromDate": "2024-02-12T12:41:11.000+01:00",
+        "version": 4
+    },
+    "registerEntryId": 27929,
+    "registerNumber": "R001341"
+}

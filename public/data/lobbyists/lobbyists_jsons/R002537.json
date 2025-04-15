@@ -1,0 +1,644 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-12-07T14:46:49.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-02T08:36:50.000+01:00",
+        "lastUpdateDate": "2024-06-18T14:18:40.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37689,
+                "validFromDate": "2024-06-18T14:18:40.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27099,
+                "validFromDate": "2023-12-03T17:45:08.000+01:00",
+                "validUntilDate": "2024-06-18T14:18:40.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21888,
+                "validFromDate": "2023-06-19T15:15:55.000+02:00",
+                "validUntilDate": "2023-12-03T17:45:08.000+01:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 12884,
+                "validFromDate": "2022-12-07T14:46:49.000+01:00",
+                "validUntilDate": "2023-06-19T15:15:55.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Die GR\u00dcNE LIGA - Netzwerk \u00f6kologischer Bewegungen ist ein im Februar 1990 aus den Umweltgruppen der DDR gebildetes Netzwerk. Der Bundesverband besteht aus eigenst\u00e4ndig arbeitenden Mitgliedsgruppen sowie Einzelpersonen. \r\nDie GR\u00dcNE LIGA ist ein anerkannter Verband nach \u00a73 Umwelt-Rechtsbehelfsgesetz.\r\nZiel der GR\u00dcNEN LIGA ist die vorrangige F\u00f6rderung des Natur- und Umweltschutzes und die aktive\r\nBeteiligung an der Gestaltung einer \u00f6kologischen und solidarischen Gesellschaft. Damit wird ein ganzheitlicher Ansatz von Nachhaltigkeit auch \u00fcber den reinen Natur- und Artenschutz hinaus verfolgt. Die GR\u00dcNE LIGA steht dazu im st\u00e4ndigen Austausch mit B\u00fcrgerinnen und B\u00fcrgern sowie den\r\nVertreterinnen und Vertretern von Wissenschaft, Medien, Wirtschaft und Politik. Die GR\u00dcNE LIGA veranstaltet Tagungen und Fachgespr\u00e4che und erstellt Fachpublikationen und Stellungnahmen.\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_RP_OTHER",
+                "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                "en": "Other in the field of \"Spatial planning, construction and housing\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_AF_AQUACULTURE",
+                "de": "Fischerei/Aquakultur",
+                "en": "Fishery/aquaculture"
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AEROSPACE",
+                "de": "Luft- und Raumfahrt",
+                "en": "Aerospace"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_RP_CITY",
+                "de": "Stadtentwicklung",
+                "en": "Urban development"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/43/d5/296658/2023_Rechenschaftsbericht_GRUENE-LIGA.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "Projektf\u00f6rderung \"Ressourcenschutz durch Wohnfl\u00e4cheneffizienz\"",
+                "donationEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "name": "Deutsche Postcode-Lotterie"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 20001,
+            "to": 30000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.15,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 10001,
+            "to": 20000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Greifswalder Stra\u00dfe",
+            "streetNumber": "4",
+            "type": "NATIONAL",
+            "zipCode": "10405"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "bundesverband@grueneliga.de"
+                }
+            ],
+            "phoneNumber": "+49302044745",
+            "websites": [
+                {
+                    "website": "www.grueneliga.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Ren\u00e9",
+                "lastName": "Schuster",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Reinhard",
+                "lastName": "Dalchow",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Daniel",
+                "lastName": "Griffon",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Bender",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Ren\u00e9",
+                "function": "Bundesvorsitzender",
+                "lastName": "Schuster",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Reinhard",
+                "function": "stellvertretender Bundesvorsitzender",
+                "lastName": "Dalchow",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-18",
+            "naturalPersons": 54,
+            "organizations": 10,
+            "totalCount": 64
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Deutscher Naturschutzring"
+            },
+            {
+                "membership": "EEB"
+            },
+            {
+                "membership": "Informationsdienst Umweltrecht (IDUR)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "GR\u00dcNE LIGA e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 1,
+            "to": 10000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Projekt im Rahmen der Verb\u00e4ndef\u00f6rderung des UBA: Wohnfl\u00e4che nutzen",
+                "location": "Dessau",
+                "name": "Umweltbundesamt",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002537/37689",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-18T14:18:40.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/16/8a/296661/Lobbyregister-Detailansicht-R002537-2024-06-18_14-18-40.pdf",
+        "validFromDate": "2024-06-18T14:18:40.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 37689,
+    "registerNumber": "R002537",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BBergG",
+                        "title": "Bundesberggesetz",
+                        "url": "https://www.gesetze-im-internet.de/bbergg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Resscourcenschonung\r\nStellenwert der Umweltbelange bei Entscheidungen \u00fcber Abbauvorhaben\r\nVerursacherprinzip",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SPECIES",
+                        "de": "Artenschutz/Biodiversit\u00e4t",
+                        "en": "Species protection/biodiversity"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002785",
+                "statements": [],
+                "title": "BUndesberggesetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "D\u00fcngG",
+                        "title": "D\u00fcngegesetz",
+                        "url": "https://www.gesetze-im-internet.de/d_ngg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Verringerung der Gew\u00e4sserbelastung insbesondere mit Nitrat",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_COUNTRYSIDE",
+                        "de": "L\u00e4ndlicher Raum",
+                        "en": "Rural area"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002786",
+                "statements": [],
+                "title": "D\u00fcngegesetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "KSG",
+                        "title": "Bundes-Klimaschutzgesetz",
+                        "url": "https://www.gesetze-im-internet.de/ksg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "konkrete und ambitionierte Reduktionsziele sowie verbindliche Folgen bei Zielverfehlung",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002787",
+                "statements": [],
+                "title": "Klimaschutzgesetz"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "fachliche Stellungnahme zur MSRL-Zustandsbewertung der deutschen Nord- und Ostsee 2024",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_AQUACULTURE",
+                        "de": "Fischerei/Aquakultur",
+                        "en": "Fishery/aquaculture"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SPECIES",
+                        "de": "Artenschutz/Biodiversit\u00e4t",
+                        "en": "Species protection/biodiversity"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002788",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/ce/d6/296659/Stellungnahme-Gutachten-SG2406180129.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-10"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002788",
+                        "regulatoryProjectTitle": "Meeresstrategierahmenrichtlinie",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Bericht zum Zustand der deutschen Nordseegew\u00e4sser\r\nSeite\r\nZeile\r\nStellungnahme\r\nAllgemein\r\nWir begr\u00fc\u00dfen die Einladung zur \u00d6ffentlichkeitsbeteiligung und nehmen diese M\u00f6glichkeit der Teilnahme am Verfahren im Rahmen der Umsetzung\r\nder MSRL hiermit wahr. Gegenstand dieser Stellungnahme ist der \u201eEntwurf der MSRL-Zustandsbewertung der deutschen Nord- und Ostsee 2024 -\r\nAktualisierung der Anfangsbewertung nach \u00a7 45c, der Beschreibung des guten Zustands der Meeresgew\u00e4sser nach \u00a7 45d und der Festlegung von\r\nZielen nach \u00a7 45e des Wasserhaushaltsgesetzes zur Umsetzung der Meeresstrategie-Rahmenrichtlinie\u201c\r\n2.2 Nutzungen der Nordsee\r\n24 Tabelle\r\nII. 2-2 Auf welchen Daten basiert \u201eAbbildung II.2-2: Fischereiaufwand in Stunden in der deutschen AWZ von 2019 bis 2021 (BSH\r\n2023b)? VMS? AIS? Beides? Was bedeutet \u201econfidential\u201c in diesem Zusammenhang? Wenn es \u201evertraulich\u201c bedeutet, warum\r\nsind diese Daten vertraulich? Eine Unterscheidung zwischen <10h und confidential ist farblich kaum m\u00f6glich.\r\n24 12 Hier ist hier eine Klarstellung erforderlich, welche Fischereimethoden in der Abbildung dargestellt sind.\r\n24 13-14 Die Fl\u00e4chen f\u00fcr die Fischerei wurden zwar eingeschr\u00e4nkt, aber hat das real auch zu einer Reduktion der befischten Fl\u00e4che\r\ngef\u00fchrt?\r\n24 19 Die Grundschleppnetzfischerei f\u00fcr den Fang von Krabben und Plattfischen ist nicht nur energie- und kostenintensiv. Hier fehlt\r\nein Hinweis auf die negativen Auswirkungen der Grundschleppnetzfischerei auf Fischbest\u00e4nde, durch die Beeintr\u00e4chtigung von\r\nLebensr\u00e4umen und den hohen Anteil an Beifang.\r\n25\r\nDie seit M\u00e4rz 2023 geltenden Fischereima\u00dfnahmen in den deutschen Schutzgebieten der AWZ in der Nordsee sind weiterhin\r\nmangelhaft. Die Doggerbank ist immer noch komplett ohne Einschr\u00e4nkung der mobilen grundber\u00fchrenden Fischerei und im\r\nSylter-Au\u00dfenriff gibt es Ausnahmen f\u00fcr Krabbenfischerei. Die Nullnutzungszone auf der Amrumbank macht nicht mal 1% der\r\nFl\u00e4che des Sylter Au\u00dfenriffs aus. Siehe BUND Analyse zu den Fischereima\u00dfnahmen in den deutschen Schutzgebieten der\r\nAWZ: https://www.bund.net/themen/aktuelles/detail-aktuelles/news/schutzgebiete-in-der-nordsee-neue-regeln-fuer-die-fischerei/\r\n25 14-15 Welche Regelungen zum Schutz des Meeresbodens sind im K\u00fcstenmeer geplant?\r\n25 5 \u201ckleinen\u201d Krabbenkuttern: entweder die Gr\u00f6\u00dfe (\u00fcber/unter in m) angeben, oder \u201cklein\u201d streichen, ansonsten ist es eine\r\nVerniedlichung25 16 \u201emuss\u201c statt \u201ekann\u201c\r\n25 18 Siehe die Taschenkrebs Bewertung S.54 Tab. II.4..2-1.: alle bewerteten Indikatoren und Deskriptor in keinem guten Zustand,\r\ndaher Verweis auf Taschenkrebsfischerei hier unpassend.\r\n27 10 \u201cdauerhaft\u201d bitte streichen - fachlich so umfassend nicht richtig\r\n4.2 Kommerziell genutzte Fisch- und Schalentierbest\u00e4nde\r\n50\r\n31ff\r\n\u00d6kosystembasiertes Fischereimanagement/ Vorsorgeansatz sollten in Zielsetzung ber\u00fccksichtig werden\r\nDiese Zustandsbewertung orientiert sich am Umweltziel 4.1, nach dem alle wirtschaftlich genutzten Best\u00e4nde nach dem Ansatz\r\ndes h\u00f6chstm\u00f6glichen Dauerertrags (MSY) bewirtschaftet werden sollen. Indikatoren hierf\u00fcr sind die fischereiliche Sterblichkeit\r\n(FMSY) sowie der Fangmenge-Biomasse-Quotient.\r\nAllerdings wird nicht ber\u00fccksichtigt, dass die Datenlage f\u00fcr Fischereimanagement oft mangelhaft ist (wie sich an der niedrigen\r\nKonfidenz der Zustandsbewertung zeigt), dass das \u00d6kosystem multiplen Stressoren ausgesetzt ist (Klimawandel,\r\nVerschmutzung, etc.), und dass Nahrungsnetzbeziehungen zwischen verschiedenen Arten bestehen. Folglich sollten\r\nSterblichkeitsraten prinzipiell unter FMSY liegen, um das zentrale Ziel der GFP zu erreichen (Erholung und Verbleib der\r\nBest\u00e4nde oberhalb eines Niveaus, das den MSY liefern kann). --> Um die langfristige Gesundheit der Best\u00e4nde zu\r\ngew\u00e4hrleisten, sollten in der Zielsetzung auch die Prinzipien des \u00f6kosystembasierten Fischereimanagements und der\r\nVorsorgeansatz ber\u00fccksichtigt werden.\r\n54\r\n2ff\r\nFmsy f\u00fchrt nicht automatisch zu Bmsy\r\nNur wenn eine gesunde Bestandsgr\u00f6\u00dfe (SSB>MSYBtrigger) besteht, erh\u00e4lt eine Befischung auf dem Niveau von Fmsy diese\r\ngesunde Bestandsgr\u00f6\u00dfe. Eine Befischung auf Basis von Fmsy (\u201ckontinuierliche nachhaltige Bewirtschaftung\u201d) bei einem\r\n\u00fcberfischten Bestand f\u00fchrt hingegen nicht automatisch bzw. nur nach erheblich l\u00e4ngerer Zeitdauer zu einer Einstellung des\r\nBiomasserefernzwertes MSY Btrigger\r\n56\r\n19ff\r\nVorsorgeprinzip erw\u00e4hnen\r\nMit Blick auf die l\u00fcckenhafte Datenlage sowie die oft geringe Konfidenz bei bestehenden Daten (siehe Tabelle II.4.2-1.) sollte im\r\nAusblick die Wichtigkeit des Vorsorgeprinzips hervorgehoben werden. Bisher wird das Vorsorgeprinzip nirgendwo erw\u00e4hnt.\r\n56\r\n26\r\n\u201cweiterhin\u201d strikte Anwendung trifft es nicht, daher der Vorschlag der Streichung. (Davon ab, dass aktuell bestehende MSY-\r\nKonzept (namentlich Referenzpunkte) \u00fcberarbeitet werden m\u00fcsste)\r\n4.3 Eutrophierung58 16 Hier fehlt die Begr\u00fcndung f\u00fcr das Aussetzen des Routinemonitorings des sekund\u00e4ren Kriteriums Sch\u00e4dliche Algenbl\u00fcten\r\n(D5C3).\r\n63 10ff \u201c[...] lokaler R\u00fcckgang der Seegrasfl\u00e4chen\u201d, da in Niedersachsen 97% der Seegrasfl\u00e4chen verschwunden sind, w\u00e4re die\r\nFormulierung \u201cgro\u00dffl\u00e4chiger Verlust\u201d angebracht. Bei den Belastungen f\u00fcr Fische (128) wird auch der Vergleich mit den 80er\r\nJahren gemacht. https://doi.org/10.1111/1365-2664.12681\r\n70 3, 15 Werden regionale N\u00e4hrstoffreduktionsziele angestrebt? Hier sind widerspr\u00fcchliche Angaben im Text - kurze Stellungnahme\r\nerbeten.\r\nRegionale N\u00e4hrstoffreduktionsziele sind insbesondere im Einzugsgebiet der Ems erforderlich und k\u00f6nnen durch verbesserte\r\nUmsetzung der Nitratrichtlinie und strengere Vorgaben zur Tierhaltung und G\u00fclleaufbringung erreicht werden. In einigen\r\nTeileinzugsgebieten beruht die Hoffnung auf Einhaltung der gesetzlichen Vorgaben auf freiwilligen Ma\u00dfnahmen. Das reicht f\u00fcr\r\ndie verbindliche Zielerreichung nicht aus.\r\n4.5 und 4.6 Schadstoffe in der Umwelt/Schadstoffe in Lebensmitteln\r\n80ff/93\r\nff\r\nWegen korrodierender Munitionsh\u00fcllen werden sprengstofftypische Verbindungen in den n\u00e4chsten Jahren und Jahrzehnten in\r\nder Meeresumwelt und in Lebensmitteln zunehmend an Bedeutung gewinnen. Da das Indikatorenset sprengstofftypische\r\nVerbindungen nicht abbildet, kann diese Belastung derzeit nicht ber\u00fccksichtigt werden. Diese Problemlage fehlt im Bericht.\r\n4.7 Abf\u00e4lle im Meer\r\n100\r\n27\r\nAbiotischer Abbau ist eine missverst\u00e4ndliche Formulierung, da \u201eAbbau\u201c mit biologischen Prozessen und einer vollst\u00e4ndigen\r\nZersetzung von organischen Materialien assoziiert wird.\r\nFormulierungsvorschlag: [...] durch abiotische Faktoren bedingter Zerfall [...]\r\n100 29 Der Vollst\u00e4ndigkeit halber, sollte hier zudem auf die Freisetzung klimawandelf\u00f6rdernden GHG-Emissionen entlang des\r\nkompletten Lebenszyklus der Plastikproduktion und ihrer Folgen f\u00fcr die Meere hingewiesen werden (Quellen: z.B. Ford et al.\r\n2022 https://www.sciencedirect.com/science/article/pii/S0048969721054693; Royer et al. 2018\r\nhttps://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200574)\r\n101 4 \u201eambivalent\u201c ist an dieser Stelle untertrieben, Tourismus ist als einer der Haupteintragspfade von Plastikabfall ins Meer\r\neinzustufen.\r\n101 8 Textvorschlag: [\u2026], sehr hohe bzw. starke Belastung dar.103-\r\n104\r\nAb Zeile Tabelleneintr\u00e4ge f\u00fcr Spalten \u201eGrundlage der Bewertung\u201c und \u201eEntwicklung (Zeitraum)\u201c\r\n6:\r\nDie Tabelleneintr\u00e4ge sind in Teilen schlecht verst\u00e4ndlich.\r\nTabelle\r\nII.4.7-1 Formulierungsvorschlag \u201eSchwellenwert\u201c: Schwellenwert \u00fcberschritten bei Nennung des Schwellenwertes. Bei der derzeitigen\r\nFormulierung \u201eNicht erreicht\u201c, k\u00f6nnte man meinen, dass der Wert darunter liegt.\r\nIn der Zeile \u201eAbf\u00e4lle am Meeresboden\u201c steht in der Spalte \u201e2024\u201c \u201eTrend\u201c. Was ist hier gemeint?\r\nPrim\u00e4res Kriterium D10C2: nicht bewertet\r\nFrage: Wieso ist auch 12 Jahre nach der Anfangsbewertung noch kein belastbares Monitoringverfahren ausgew\u00e4hlt worden,\r\num Mikroabf\u00e4lle an der K\u00fcste, in Sedimenten und/oder in der Oberfl\u00e4chenschicht der Wassers\u00e4ule zu bewerten?\r\nWissenschaftliche Verfahren existieren (zum Beispiel: Lenz et al. 2023\r\nhttps://www.sciencedirect.com/science/article/abs/pii/S0025326X23002618?via%3Dihub).\r\nSekund\u00e4re Kriterien und Langzeitstudien:\r\nF\u00fcr die Bewertung in 2018 wurden Daten sekund\u00e4rer Kriterien (D10C4) im Rahmen von Pilotprojekten erhoben, ausgewertet\r\nund in die Zustandsbewertung aufgenommen. F\u00fcr die belastbare Ermittlung von Trends sind m\u00f6glichst langfristig angelegte\r\nDatenreihen jedoch unerl\u00e4sslich.\r\nFrage: Wieso wurden Pilotstudien nicht weiter finanziert, w\u00e4hrend auf nationaler Ebene \u00fcber die Aufnahme in den Katalog von\r\nKriterien entschieden wird?\r\n\u25cf\r\nAbf\u00e4lle in der Oberfl\u00e4chenschicht: unbekannt in 2024: wieso? 2018 war es doch bekannt? Warum wurde das\r\nMonitoring nicht fortgesetzt?\r\nVerstrickung von V\u00f6geln: unbekannt in 2024: wieso? 2018 war es doch bekannt? Warum wurde das Monitoring nicht\r\nfortgesetzt?\r\n104\r\n24-25\r\nWas ist mit \u201eF\u00fcr die in den letzten Jahren in den Fokus gelangten Kategorien \u201eKunststoffe\u201c, \u201eEinwegplastikteile\u201c und\r\n\u201eFischereiger\u00e4te\u201c\u201c gemeint? Der Fokus liegt doch nicht erst in den letzten Jahren auf diesen Themen, sondern bereits seit\r\nmindestens 10 Jahren.105 6\r\n128 12\r\nDas Kriterium D10C1 ist f\u00fcr zwei von drei Indikatoren (Strand und Meeresgrund) nicht erreicht. Daher sollte der Gesamtzustand\r\nnicht als unbekannt, sondern als nicht erreicht eingestuft werden.\r\n\u201cund der Verlust dieses Habitats potentiell eine Belastung darstellen kann\u201d. Wenn es Hinweise darauf gibt, dass Seegraswiesen\r\nals Laichhabitat dienen, dann ist die logische Schlussfolgerung, dass diese Habitate im Wattenmeer gro\u00dffl\u00e4chig fehlen. Daher\r\nsollte es hei\u00dfen \u201cund der Verlust des Habitats f\u00fchrt folglich zu weniger Laich- und Aufzuchtgebieten f\u00fcr Jungfisch mit potenziellen\r\nAuswirkungen auf die Fischpopulationen\u201d.\r\n4.8. Einleitung von Energie\r\n110 5ff Da diese Textbox im Kapitel zur Einleitung von Energie steht, sollte hier bei den Umwelteffekten klar darauf hingewiesen\r\nwerden, dass der Bau von Offshore-Windanlagen einen erheblichen und f\u00fcr die n\u00e4chsten Jahre steigenden Eintrag von L\u00e4rm\r\nund elektromagnetischer Energie durch die Kabel bedeutet. Dies ist nicht nur \u201epotenziell\u201c der Fall.\r\n111 Tabelle\r\n4.8-1 F\u00fcr die Schwellenwerte zu Dauerschall ist es essentiell, dass dieser sowohl f\u00fcr den absoluten L\u00e4rmpegel als auch f\u00fcr den\r\n\u201eexcess level\u201c festgelegt werden sollten. Einige Arten, die an eine nat\u00fcrlich laute Umgebung angepasst sind, reagieren\r\nm\u00f6glicherweise am empfindlichsten auf absolute Pegel, w\u00e4hrend andere Arten, die an relativ niedrige nat\u00fcrliche L\u00e4rmpegel\r\ngew\u00f6hnt sind, am empfindlichsten auf \u00fcberm\u00e4\u00dfige Pegel reagieren.\r\n111-\r\n112 29ff\r\n12 Der L\u00e4rmeintrag durch Service-Verkehre kann allein durch die Analyse von AIS Daten nicht ausreichend bewertet werden, da\r\nin den Windparks Schiffe sich oft mit Motor positionieren bzw. die Position halten, was einen erheblichen L\u00e4rmeintrag bedeutet,\r\nder nicht aus den AIS Daten ersichtlich ist\r\n112 20-22 Bewertungen an vielen Stellen (auch OSPAR QSR, HELCOM HOLAS3, aber auch z.B. die k\u00fcrzlich erschienene Publikation\r\n\u201eThe underwater soundscape of the North Sea\u201c (https://www.sciencedirect.com/science/article/pii/S0025326X23013267 ))\r\nzeigen, dass der L\u00e4rmeintrag zu hoch ist und reduziert werden muss. Auch wenn es um viele Details wie der Wert von LOBE,\r\nSaisonalit\u00e4t, Indikatorarten etc. noch Unklarheiten gibt, so ist doch klar, dass der L\u00e4rmeintrag zu hoch ist. Dies sollte hier klar\r\nausgedr\u00fcckt werden. Der gute Umweltzustand kann unter diesen Pr\u00e4missen nicht erreicht sein.\r\n112-\r\n113\r\nDas Kapitel zu Impulsschall erw\u00e4hnt zwar seismische Explorationen sowie Explosionen neben den Rammarbeiten als\r\nHauptquellen von Impulsschall, geht jedoch in den Bewertungen und Berichten \u00fcber Schallminderungsma\u00dfnahmen nur auf den\r\nBau von Offshore Windanlagen ein. Wurden bei seismische Explorationen und Explosionen auch\r\nSchallminderungsma\u00dfnahmen angewendet oder angedacht? Wenn ja, welche?\r\nZu welchen Zwecken wurden seismische Explorationen durchgef\u00fchrt?\r\nZum Zweck der weiteren Ausbeutung von \u00d6l und Gas sollten sie zur Erreichung der Klimaziele einem vollst\u00e4ndigen Verbot\r\nunterworfen werden. F\u00fcr unvermeidbare Eins\u00e4tze sollte auf Alternativen gesetzt werden.115\r\n1-16\r\nDie Publikation sollte hier genannt werden: \u201eThe underwater soundscape of the North Sea\u201c\r\n(https://www.sciencedirect.com/science/article/pii/S0025326X23013267\r\n5.1.1 Fische\r\n125 35ff Zustandsbewertung Schelffische: Eine Einordnung, welche Gruppe von Schelffischarten in schlechtem Zustand sind w\u00e4re\r\nw\u00fcnschenswert: es handelt sich um jene Arten, die f\u00fcr die kommerzielle Fischerei von besonderem Interesse sind und/oder in\r\nihrem Rahmen in Mitleidenschaft gezogen werden, i.e. Kabeljau, Schellfisch, Aal, Sandaal, Dornhai, Lachs, sowie div. langlebige\r\nHai-/Rochenarten.\r\n130 1 ff Etwas merkw\u00fcrdig formuliert. Das Problem ist ja nicht die Einf\u00fchrung der Anlandeverpflichtung, sondern die Erh\u00f6hung der\r\nQuoten, sowie das Nicht-Nachkommen des R\u00fcckwurfverbotes.\r\n132 1 das 30%-Fl\u00e4chenziel\r\n5.1.3 Marine S\u00e4ugetiere\r\n150 2ff Die bisherigen und potenziellen Belastungen durch den Klimawandels auf marine S\u00e4ugetiere, direkt (z.B. durch\r\nHabitatverschiebungen) und indirekt (z.B. durch Ver\u00e4nderungen in Beutepopulationen), werden in dem Kapitel \u00fcberhaupt nicht\r\nber\u00fccksichtigt.\r\n150 16 Der Begriff \u201cmittlere\u201d verharmlost die Auswirkungen von Unterwasserl\u00e4rm auf einzelne Individuen zu sehr. Der Schiffsverkehr\r\n(insbesondere Freizeitverkehr) sollte ebenfalls genannt werden.\r\n150 31 Bei den kumulativen Belastungen m\u00fcssen die Folgen des anthropogenen Klimawandels ber\u00fccksichtigt werden.\r\n152 14 Gerade bei der Einrichtung von Schutz- und R\u00fcckzugsgebieten und der Reduzierung der Belastung muss der Vorsorgeansatz\r\ngelten und Klimawandel-induzierte Ver\u00e4nderungen, z. B. der Verbreitungsgebiete, biophysikalische Habitatver\u00e4nderungen und\r\n\u00c4nderungen im Nahrungsnetz und der Nahrungsverf\u00fcgbarkeit, sollten bei marinen S\u00e4ugetieren ber\u00fccksichtigt werden, u. a. um\r\nsicherzustellen, dass die designierten Gebiete auch den kontinuierlichen aktuellen Bedarfen der Arten entsprechen. Es gilt einen\r\nganzheitlichen \u00d6kosystemansatz zu ber\u00fccksichtigen, welcher die Interaktionen und Abh\u00e4ngigkeiten der Arten untereinander\r\nanerkennt. Zudem m\u00fcssen konkrete Ma\u00dfnahmen nicht nur zur Einrichtung von R\u00fcckzugs- und Ruher\u00e4umen, sondern auch eine\r\nausreichende Kontrolle & Monitoring stattfinden, damit es zu keinen anthropogenen St\u00f6rungen in den Gebieten kommt.\r\n5.2.1. Pelagische Lebensr\u00e4ume160\r\n22-23\r\nDer Rolle des Zooplanktons gerade f\u00fcr den Transfer zwischen Prim\u00e4rproduzenten und h\u00f6heren trophischen Ebenen sowie als\r\npotentieller Link zwischen tieferen, bodennahen Wasserschichten und den oberen Wasserschichten wird hier und auch im\r\nKapitel \u201e\u00d6kosysteme und Nahrungsnetze\u201c nicht gen\u00fcgend Rechnung getragen. Hier sollte zuk\u00fcnftig nachgebessert und\r\nIndikatoren f\u00fcr deren Bewertung entwickelt werden.\r\n5.2.2 Benthische Lebensr\u00e4ume\r\n172 4-5 \u201eAussagen zu Ver\u00e4nderungen der Beeintr\u00e4chtigung sind aufgrund der im Vergleich zur letzten Bewertung ver\u00e4nderten\r\nAusdehnung der Lebensr\u00e4ume nicht m\u00f6glich\u201c - Was ist mit Aussagen \u00fcber die gleich gebliebenen Bereiche? Hierzu k\u00f6nnten\r\nund sollten Aussagen getroffen werden.\r\n172 8-9 Zu erg\u00e4nzen: Eine Versch\u00e4rfung der Beeintr\u00e4chtigungen droht zudem durch neue (fossile) Industrieprojekte.\r\n172 13-14 \u201eDas Vorkommen und die Ausdehnung der benthischen Lebensr\u00e4ume hat sich aufgrund der Einbindung aktueller\r\nUntersuchungsdaten im Vergleich zur vorherigen Bewertung ver\u00e4ndert.\u201c Wie und wo wurden die neuen Untersuchungsdaten\r\ngesammelt und welche Kategorien benthischer Lebensr\u00e4ume betreffen die Ver\u00e4nderungen? Bitte kurz erg\u00e4nzen oder\r\nverweisen.\r\n172 19-24 \u201eMit Verlust und Beeintr\u00e4chtigung der Lebensr\u00e4ume einhergehend zeigen sich gegen\u00fcber dem Anfang des 20. Jahrhunderts\r\ngro\u00dffl\u00e4chig deutliche Ver\u00e4nderungen der bodenlebenden Gemeinschaften mit einer generellen Abnahme der gro\u00dfen\r\nlanglebigen Arten und einer Zunahme kleiner opportunistischer Arten. Insbesondere die grundber\u00fchrende Fischerei und die\r\nweitr\u00e4umige Anreicherung von N\u00e4hrstoffen wurden als Ursachen f\u00fcr diese Ver\u00e4nderungen angesehen (Kr\u00f6ncke 1995, Reiss et\r\nal. 2009).\u201c - Ist die Anreicherung von N\u00e4hrstoffen derzeit noch als Ursache anzubringen? Wenn N\u00e4hrstoffe genannt werden,\r\nsollten auch Schadstoffe genannt werden.\r\n173 15-18 Die Lebensr\u00e4ume \u201eGrobsediment des Infralitorals\u201c und \u201eSchlickb\u00f6den des Infralitorals\u201c weisen erhebliche Unterschiede auf, ihre\r\njeweilige geringe Gesamtfl\u00e4che sollte daher kein Kriterium f\u00fcr eine gemeinsame Bewertung als \u201eSandb\u00f6den des Infralitorals\r\ni.w.S.\u201c sein. Auch vor dem Hintergrund neuerer Forschungsergebnisse zur Kohlenstoff-Speicherung in marinen Sedimenten\r\nsollte zwischen Schlick und Sand unterschieden werden, da Schlick \u00fcberwiegend aus Ton und Schluff, sowie organischen\r\nBestandsteilen besteht, also per definitionem nicht der Kategorie Sand zugeordnet wird, gleichzeitig aber im Kontext der\r\nKohlenstoffspeicherung, sowie bez\u00fcglich der Effekte physikalischer St\u00f6rung sehr andere Eigenschaften aufweist, als dies bei\r\nSand der Fall ist.\r\n174 17-18 Kann hier schon pr\u00e4ziser genannt werden, welche Indikatoren f\u00fcr physikalische Belastung hinzukommen sollen (z.B. Kabel-\r\noder Pipelineverlegungen)? Wenn ja, bitte erg\u00e4nzen.174\r\nAbb. II\r\n5.2.2-1\r\nDie Riffabgrenzungen haben sich verschoben \u2013 es ist aber unklar, welche neuen Untersuchungen zu dieser Abgrenzung f\u00fchren,\r\nbei der vorherige Riffe von der Karte verschwunden sind. Von Greenpeace beauftragte wissenschatliche Untersuchungen\r\nzeigen eindeutig in ehemals offiziellen Riffverdachtsfl\u00e4chen (s. Zustandsbericht Nordsee 2018), dass dort weiterhin\r\nSteinvorkommen vorliegen, die dem Habitattyp Steinriff entsprechen (gem\u00e4\u00df dt. Kartieranleitung Riffe AWZ, da keine\r\nKartieranleitung K\u00fcstenmeer verf\u00fcgbar) und als gesetzlich gesch\u00fctzte Biotope ausgewiesen werden m\u00fcssen. Dies ist auch von\r\nBedeutung, da in unmittelbarer Umgebung neue Gasf\u00f6rderinfrastruktur samt F\u00f6rderplattform, Kabeltrasse und Pipeline geplant\r\nist und die Steinriffe und ihre Gef\u00e4hrdungen bisher unber\u00fccksichtigt sind. Eine Angabe dar\u00fcber, dass weiterhin Kartierungen\r\n\u00fcber z.B. geogene Riffe ausstehen, h\u00f6chstwahrscheinlich viele Riffe bis dato unentdeckt sind (speziell in den Bereichen\r\nzwischen Borkum Riff und Borkum Riffgrund) w\u00e4re sehr w\u00fcnschenswert.\r\nSiehe von BioConsult & GeoGroup 2023 angefertigtes Gutachten:\r\nhttps://www.greenpeace.de/publikationen/Worthy_of_Protection.pdf\r\n175\r\n30-32\r\n\u201eDer nach \u00a7 30 BNatSchG gesch\u00fctzte Biotoptyp \u201eArtenreiche Kies-, Grobsand- und Schillgr\u00fcnde\u201c wird erstmalig in der AWZ der\r\nNordsee ausgewiesen, aber noch nicht bewertet. F\u00fcr das K\u00fcstenmeer wird eine Darstellung erst in der n\u00e4chsten\r\nBerichtsperiode m\u00f6glich sein.\u201c\r\nAuch hier w\u00fcrde sich ein Hinweis darauf anbieten, dass hinsichtlich Riffen gro\u00dfe Wissensl\u00fccken bestehen und auch die\r\nBerichterstattung noch nicht vollumf\u00e4nglich erfassen und bewerten kann.\r\n177 25-28 Es fehlt hier die Belastung des Meeresbodens durch Ma\u00dfnahmen des Sediment-Managements, etwa durch Ausbaggerung und\r\nVerklappung von Sedimenten aus Hafenanlagen und Schifffahrtswegen. Auch diese Ma\u00dfnahmen resultieren in St\u00f6rungen und\r\nUmlagerungen von Sedimenten.\r\n178 5ff Im Gegensatz zum Zustandsbewertung der Ostsee wird in der Nordsee keine Angabe zu der Belastung von Schifffahrt gemacht.\r\nDiese wird nur als Beeintr\u00e4chtigung in der Tabelle II.5.2.2-6 aufgef\u00fchrt. Da die beeintr\u00e4chtigte Fl\u00e4che in der Ostsee 77,4 %\r\nbetr\u00e4gt und zumindest im K\u00fcstenbereich von Auswirkungen durch die Schifffahrt auszugehen ist, sollten diese Bewertungen\r\nauch f\u00fcr die Nordsee, besonders den K\u00fcstenbereich, aufgef\u00fchrt sein.\r\n178 10-11 Es wird von einer \u201ehohen\u201c Beeintr\u00e4chtigung gesprochen, was nicht der Kategorisierung des OSPAR-Indikators \u201eAusdehnung der\r\nphysikalischen St\u00f6rung auf benthische Lebensr\u00e4ume\u201c entspricht (gering, stark, sehr stark).\r\n178 13-15 Ist mit den \u201ek\u00fcstennahen Sandb\u00f6den des Infralitorals\u201c der zuvor benannte Lebensraum \u201eSandb\u00f6den des Infralitorals i.w.S.\u201c\r\ngemeint? Grunds\u00e4tzlich l\u00e4sst die Zusammenlegung von verschiedenen Lebensr\u00e4umen innerhalb des Lebensraums\r\n\u201eSandb\u00f6den des Infralitorals i.w.S\u201c einen Vergleich von Belastungsbewertungen mit anderen Lebensr\u00e4umen wenig sinnvoll\r\nerscheinen.178 17-19 Hier w\u00e4re der Kontext zur festgestellten positiven Entwicklung w\u00fcnschenswert. In welchen Gebieten ist diese positive\r\nEntwicklung ersichtlich, ist sie z.B. auf den Ausschluss der Fischerei in Offshore-Windparks zur\u00fcckzuf\u00fchren? Geht sie mit einer\r\nnegativen Entwicklung der Belastung in anderen Gebieten einher?\r\n184 10ff In der Tabelle II.5.2.2-6 wird von Offshore-Baut\u00e4tigkeiten und Offshore-Installationen gesprochen. F\u00fcr ein besseres\r\nVerst\u00e4ndnis sollte hier zwischen Offshore-Wind (Baut\u00e4tigkeit und Installation) und anderen Offshore-Aktivit\u00e4ten\r\n(Leitungsverlegung, Pipelinebau, Wasserstoffgewinnung etc.) unterschieden werden. (neue) Pipelines, (z.B. f\u00fcr die Zulieferung\r\nvon Erdgas oder zuk\u00fcnftig LNG) noch die daf\u00fcr vorgesehenen Hafenstrukturen werden unter keinem der Belastungstypen\r\nerw\u00e4hnt, auch dies unterscheidet sich zum Ostsee Zustandsbericht und sollte hier auch aufgef\u00fchrt werden.\r\n188 9ff Das Vorsorgeprinzip sowie der ganzheitliche \u00d6kosystemansatz, m\u00fcssen bei der Bestimmung von Ma\u00dfnahmen sowie der\r\nErschaffung von R\u00fcckzugs- und Ruher\u00e4umen gelten und angewendet werden, vor allem in Anbetracht der zuk\u00fcnftig\r\nansteigenden anthropogenen Nutzungen in benthischen Lebensr\u00e4umen (Offshore-Wind, H2-Gewinnung, Pipelines,\r\nLeitungungen, etc.).\r\n5.3 \u00d6kosysteme und Nahrungsnetze\r\nGrunds\u00e4tzlich positiv zu bewerten ist, dass hier an der Entwicklung von Indikatoren gearbeitet wird. Auch die Umsetzung von Ruher\u00e4umen sowie\r\nstrenger Schutz sind zu begr\u00fc\u00dfen.\r\n189-\r\n194\r\n190\r\n193\r\nWarum wird die Situation des Sandaals, welche sich verschlechtert hat, nicht auch wie in der Bewertung f\u00fcr die Ostsee (hier\r\nam Beispiel Hering & Dorsch) als Schl\u00fcsselkomponente des Nahrungsnetzes genannt und als Indikator f\u00fcr den Zustand der\r\nNahrungsnetze genutzt? Dies ist aufgrund der wichtigen Rolle dieser Schl\u00fcsselart nicht nachvollziehbar und sollte angepasst\r\nwerden.\r\n28-29\r\n9-14\r\nObwohl im Einleitungstext klar gezeigt wird, dass mindestens die Nahrungsnetze \u201eK\u00fcstengew\u00e4sser/Wattenmeer\u201c und \u201eoffene\r\nNordsee\u201c getrennt betrachtet werden m\u00fcssen, findet dies in der aktuellen Bewertung nicht statt. Dies erschwert eine\r\nevidenzbasierte Bewertung und muss perspektivisch ge\u00e4ndert werden, um auch die kausalen Zusammenh\u00e4nge besser\r\nverstehen zu k\u00f6nnen.\r\nDie Auswirkungen des Klimawandels sollten hier als Folge der anthropogenen Belastungen klar benannt werden.195 1 bzw.\r\nIn Anhang 4 findet sich folgende Bewertung des Umsetzungsstandes \u201ein Bearbeitung\u201c. Dieser wird nicht erkl\u00e4rt und geh\u00f6rt nicht\r\nAnhang zu den nach EU-Vorgaben entwickelten Antwortkategorien. Bitte nachbessern/erkl\u00e4ren, da ansonsten der aktuelle\r\n4\r\nUmsetzungsstand nicht ersichtlich ist.\r\n195 34\r\nLaut MSRL-Ma\u00dfnahmenprogramm 2022 soll die Ma\u00dfnahme UZ3-01 bereits 2024 umgesetzt werden. Die Umsetzung der\r\nMa\u00dfnahme w\u00fcrde eine wichtige L\u00fccke schlie\u00dfen und ist auch f\u00fcr die Einrichtung bzw. den rechtlichen Schutz von streng\r\ngesch\u00fctzten Gebieten essentiell. Folglich sollte hier ein k\u00fcrzerer Zeithorizont genannt und die Ma\u00dfnahme fr\u00fcher umgesetzt\r\nwerden.\r\n6. Aspekte des Klimawandels\r\n199 13-16 Es sollte auch die gro\u00dffl\u00e4chige St\u00f6rung der sediment\u00e4ren Kohlenstoffspeicher durch Grundschleppnetz-Fischerei und anderen\r\nbodenber\u00fchrenden menschlichen Aktivit\u00e4ten Erw\u00e4hnung finden.\r\n199 16-17 Angesichts der zahlreichen wissenschaftlichen Erkenntnisse zur CO2-Freisetzung aus der St\u00f6rung mariner Senken (z.B.\r\nAtwood et al., 2024 zu den Auswirkungen der Grundschleppnetz-Fischerei, https://doi.org/10.3389/fmars.2023.1125137 )\r\nerscheint der einseitige Fokus auf terrestrische Senken unangebracht.\r\n199 20-28 Die Ver\u00e4nderungen der physikalischen und chemischen Bedingungen der Meeresumwelt wirken sich insbesondere auch auf die\r\nEffektivit\u00e4t und Kapazit\u00e4t der CO2-Senkenfunktion des Meeres aus. Die thematische Einleitung wird diesem R\u00fcckkopplung-\r\nEffekt des Klimawandels nicht gerecht.\r\nBericht zum Zustand der deutschen Ostseegew\u00e4sser\r\nSeite\r\nZeile\r\nStellungnahme\r\nAllgemein\r\nWir begr\u00fc\u00dfen die Einladung zur \u00d6ffentlichkeitsbeteiligung und nehmen diese M\u00f6glichkeit der Teilnahme am Verfahren im Rahmen der Umsetzung\r\nder MSRL hiermit wahr. Gegenstand dieser Stellungnahme ist der \u201eEntwurf der MSRL-Zustandsbewertung der deutschen Nord- und Ostsee 2024 -\r\nAktualisierung der Anfangsbewertung nach \u00a7 45c, der Beschreibung des guten Zustands der Meeresgew\u00e4sser nach \u00a7 45d und der Festlegung von\r\nZielen nach \u00a7 45e des Wasserhaushaltsgesetzes zur Umsetzung der Meeresstrategie-Rahmenrichtlinie\u201c\r\n2.2 Nutzungen der Ostsee23 27-29 Diese \u201eInformationen\u201c sind f\u00fcr die Zustandsbeschreibung nicht relevant und bedienen ein bestimmtes Narrativ. Neutraler\r\nformulieren (\u201eEine kommerzielle Fischerei in der Ostsee findet bereits seit dem 19. Jahrhundert statt.\u201c).\r\n23 37-42 Westlicher Dorsch und Hering werden immer noch \u00fcberfischt. Die gezielte Fischerei wurde zwar geschlossen, aber auch die\r\nbeschlossenen Beifangquoten in den letzten Jahren befinden sich oberhalb der ICES Empfehlungen.\r\n25 2 Allerdings gehen die an die Fahrzeuge gebundenen Quoten zur\u00fcck an die BLE und k\u00f6nnen neu vergeben werden (Nachforderung\r\nvon Quote sind m\u00f6glich und Praxis).\r\n4.2 Kommerziell genutzte Fisch- und Schalentierbest\u00e4nde\r\n47\r\n27ff\r\n\u00d6kosystembasiertes Fischereimanagement/ Vorsorgeansatz sollten in Zielsetzung ber\u00fccksichtig werden\r\nDiese Zustandsbewertung orientiert sich am Umweltziel 4.1, nach dem alle wirtschaftlich genutzten Best\u00e4nde nach dem Ansatz des\r\nh\u00f6chstm\u00f6glichen Dauerertrags (MSY) bewirtschaftet werden sollen. Indikatoren hierf\u00fcr sind die fischereiliche Sterblichkeit (FMSY)\r\nsowie der Fangmenge-Biomasse-Quotient.\r\nAllerdings wird nicht ber\u00fccksichtigt, dass die Datenlage f\u00fcr Fischereimanagement oft mangelhaft ist (wie sich an der niedrigen\r\nKonfidenz der Zustandsbewertung zeigt), dass das \u00d6kosystem multiplen Stressoren ausgesetzt ist (Klimawandel, Verschmutzung,\r\netc.), und dass Nahrungsnetzbeziehungen zwischen verschiedenen Arten bestehen. Folglich sollten Sterblichkeitsraten prinzipiell\r\nunter FMSY liegen, um das zentrale Ziel der GFP zu erreichen (Erholung und Verbleib der Best\u00e4nde oberhalb eines Niveaus, das\r\nden MSY liefern kann). --> Um die langfristige Gesundheit der Best\u00e4nde zu gew\u00e4hrleisten, sollten in der Zielsetzung auch die\r\nPrinzipien des \u00f6kosystembasierten Fischereimanagements und der Vorsorgeansatz ber\u00fccksichtigt werden.\r\n51\r\n1ff\r\nFehlende Ber\u00fccksichtigung der Kondition von Arten\r\nKeines der Umweltziele f\u00fcr kommerziell genutzte Fischarten ber\u00fccksichtigt die Kondition von Arten. Dies ist besonders relevant, da\r\nsich die wandelnden Umweltbedingungen (u.a. Wassertemperatur, Sauerstoffgehalt) negativ auf die Kondition von Arten auswirken\r\nk\u00f6nnen. Zum Beispiel berichten Fischer*innen von der schlechten Kondition von westlichen und \u00f6stlichen Schollen in der Ostsee,\r\ndie auf einen schlechten Ern\u00e4hrungszustand hinweisen. Trotzdem wird der Zustand der Arten teilweise als gut bewertet. Hierzu gibt\r\nes bisher noch wenig wissenschaftliche Forschung (siehe u.a. Gauzens et al. 2024).\r\n52\r\n13ff\r\nFalschmeldungen (\u201cmisreporting\u201d) wird nicht erw\u00e4hnt\r\nZu den Belastungen werden mangelnde Monitoring von F\u00e4ngen und Fischereiaufwand genannt, aber die Falschmeldung von\r\nF\u00e4ngen (\u201cmisreporting\u201d) wird nicht genannt. In der Ostseefischerei ist z.B. die Falschmeldung von Hering als Sprotten und vice versa\r\nein signifikantes Problem.\r\n53\r\n11ff\r\nVorsorgeprinzip erw\u00e4hnenMit Blick auf die l\u00fcckenhafte Datenlage sowie die oft geringe Konfidenz bei bestehenden Daten (siehe Tabelle II.4.2-1.) sollte im\r\nAusblick die Wichtigkeit des Vorsorgeprinzips hervorgehoben werden. Bisher wird das Vorsorgeprinzip nirgendwo erw\u00e4hnt.\r\n53\r\n25ff\r\n\u00dcberfischung von neuen Fischarten fr\u00fchzeitig verhindern\r\nDer Zustandsbericht erw\u00e4hnt die M\u00f6glichkeit, dass sich neue Fischarten wie die Schwarzmundgrundel soweit etablieren, dass sie\r\neine gezielte fischereiliche Nutzung erm\u00f6glichen. Hierbei sollte erw\u00e4hnt werden, dass die Nutzung von neuen Arten nur mit einem\r\nfr\u00fchzeitig einsetzenden, \u00f6kosystembasierten Fischereimanagement einhergehen darf, um \u00dcberfischung zu verhindern.\r\n4.3 Eutrophierung\r\nAllg.\r\nZum Teil recht lang zur\u00fcckliegende Referenzperioden und gleichzeitig fortlaufend methodische Anpassungen, dadurch erschwerte\r\nVergleichbarkeit zwischen den Bewertungszeitr\u00e4umen. Positiv ist, dass Binnenland-Ma\u00dfnahmen im Rahmen der WRRL-\r\nBewirtschaftungspl\u00e4ne adressiert werden, um landseitige N\u00e4hrstoffeintr\u00e4ge \u00fcber die Fl\u00fcsse zu reduzieren.\r\nDie deutschen Stickstoffeintr\u00e4ge aus der Atmosph\u00e4re \u00fcbersteigen die Eintr\u00e4ge \u00fcber die Fl\u00fcsse. Daher muss f\u00fcr die Ostsee ein\r\nbesonderer Schwerpunkt auf die atmosph\u00e4rischen Eintr\u00e4ge gelegt werden.\r\nDie Verwendung abflussnormierter N\u00e4hrstoffkonzentrationen in Kombination mit der angestrebten Betrachtung der Gesamtfrachten\r\nist zu begr\u00fc\u00dfen. In der Landwirtschaft sind deutliche Verbesserungen sowohl hinsichtlich der N\u00e4hrstoffeintr\u00e4ge in die Fl\u00fcsse, als\r\nauch in die Atmosph\u00e4re notwendig.\r\n4.7 Abf\u00e4lle im Meer\r\n95 28 Der Vollst\u00e4ndigkeit halber, sollte hier zudem auf die Freisetzung klimawandelf\u00f6rdernden GHG-Emissionen entlang des kompletten\r\nLebenszyklus der Plastikproduktion und ihrer Folgen f\u00fcr die Meere hingewiesen werden (Quellen: z.B. Ford et al. 2022\r\nhttps://www.sciencedirect.com/science/article/pii/S0048969721054693 ; Royer et al. 2018\r\nhttps://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200574)\r\n96 3 \u201eambivalent\u201c ist an dieser Stelle untertrieben, Tourismus ist als einer der Haupteintragspfade von Plastikabfall ins Meer\r\neinzustufen.\r\n96 6-7 Textvorschlag: [\u2026], sehr hohe bzw. starke Belastung dar.\r\n97 3 Der als relevant eingestufte Parameter Mesom\u00fcll wird beschrieben, aber nicht verwendet. Gleiches gilt f\u00fcr Paraffin.97/98 Ab\r\nTabelleneintr\u00e4ge f\u00fcr Spalten \u201eGrundlage der Bewertung\u201c und \u201eEntwicklung (Zeitraum)\u201c\r\nZeile\r\nDie Tabelleneintr\u00e4ge sind in Teilen schlecht verst\u00e4ndlich.\r\n36:\r\nTabelle In der Zeile \u201eAbf\u00e4lle am Meeresboden\u201c steht in der Spalte \u201e2024\u201c \u201evorl\u00e4ufig Trend\u201c. Was ist hier gemeint?\r\nII.4.7-1 Prim\u00e4res Kriterium D10C2: nicht bewertet\r\nFrage: Wieso ist auch 12 Jahre nach der Anfangsbewertung noch kein belastbares Monitoringverfahren ausgew\u00e4hlt worden, um\r\nMikroabf\u00e4lle an der K\u00fcste, in Sedimenten und/oder in der Oberfl\u00e4chenschicht der Wassers\u00e4ule zu bewerten? Wissenschaftliche\r\nVerfahren existieren (zum Beispiel: Lenz et al. 2023\r\nhttps://www.sciencedirect.com/science/article/abs/pii/S0025326X23002618?via%3Dihub ).\r\n99 4-5 Was ist mit \u201eF\u00fcr die in den letzten Jahren in den Fokus gelangten Kategorien \u201eKunststoffe\u201c, \u201eEinwegplastikteile\u201c und\r\n\u201eFischereiger\u00e4te\u201c\u201c gemeint? Der Fokus liegt doch nicht erst in den letzten Jahren auf diesen Themen, sondern bereits seit\r\nmindestens 10 Jahren.\r\n99 13 Das Kriterium D10C1 ist f\u00fcr zwei von drei Indikatoren (Strand und Meeresgrund) nicht erreicht. Daher sollte der Gesamtzustand\r\nnicht als unbekannt, sondern als nicht erreicht eingestuft werden.\r\n4.8 Einleitung von Energie\r\n103 42ff\r\n104 Tabelle F\u00fcr die Schwellenwerte zu Dauerschall ist es essentiell, dass dieser sowohl f\u00fcr den absoluten L\u00e4rmpegel als auch f\u00fcr den \u201eexcess\r\n4.8-1 level\u201c festgelegt werden sollten. Einige Arten, die an eine nat\u00fcrlich laute Umgebung angepasst sind, reagieren m\u00f6glicherweise am\r\nempfindlichsten auf absolute Pegel, w\u00e4hrend andere Arten, die an relativ niedrige nat\u00fcrliche L\u00e4rmpegel gew\u00f6hnt sind, am\r\nempfindlichsten auf \u00fcberm\u00e4\u00dfige Pegel reagieren.\r\n105 19ff\r\nDa diese Textbox im Kapitel zur Einleitung von Energie steht, sollte hier bei den Umwelteffekten klar darauf hingewiesen werden,\r\ndass der Bau von Offshore-Windanlagen einen erheblichen und f\u00fcr die n\u00e4chsten Jahre steigenden Eintrag von L\u00e4rm und\r\nelektromagnetischer Energie durch die Kabel bedeutet. Dies ist nicht nur \u201epotenziell\u201c der Fall.\r\nDer L\u00e4rmeintrag durch Service-Verkehre kann allein durch die Analyse von AIS Daten nicht ausreichend bewertet werden, da in den\r\nWindparks Schiffe sich oft mit Motor positionieren bzw. die Position halten, was einen erheblichen L\u00e4rmeintrag bedeutet, der nicht\r\naus den AIS Daten ersichtlich ist.\r\nMit welchen Methoden wurden die Effekte auf den Schweinswal bewertet und woraus wurde der Schluss gezogen, dass es keinen\r\nEffekt f\u00fcr den Schweinswal gab?\r\n105\r\n37-38 Bewertungen an vielen Stellen (wie z.B. HELCOM HOLAS3) zeigen, dass der L\u00e4rmeintrag zu hoch ist und reduziert werden muss.\r\nAuch wenn es um viele Details wie der Wert von LOBE, Saisonalit\u00e4t, Indikatorarten etc. noch Unklarheiten gibt, so ist doch klar,dass der L\u00e4rmeintrag zu hoch ist. Dies sollte hier klar ausgedr\u00fcckt werden. Der gute Umweltzustand kann unter diesen Pr\u00e4missen\r\nnicht erreicht sein.\r\n108\r\n27ff\r\nWie im letzten Satz dieses Absatzes klar gemacht wird liegen hier noch keine belastbaren Ergebnisse vor, trotzdem wird im ersten\r\nSatz den marinen S\u00e4ugetieren ein guter Umweltzustand zugesprochen. Dies sollte vorsichtiger ausgedr\u00fcckt werden. In Anbetracht\r\nder Tatsache, dass inzwischen durch viele Publikationen klar ist, dass es in der Ostsee auch f\u00fcr marine S\u00e4ugetiere zu laut ist,\r\nsollten hier keine vorschnellen Aussagen getroffen werden, die einen guten Umweltzustand f\u00fcr die marinen S\u00e4ugetiere bezeugen.\r\n5.1.1 Fische\r\n110\r\n10 ff\r\nSchlechter Zustand der Schollen sollte erw\u00e4hnt werden\r\nAuf S. 110 (Z. 10ff) wird die Verschlechterung des physiologischen Zustands der beiden Dorschbest\u00e4nde in der Ostsee erw\u00e4hnt.\r\nHier sollten auch die Berichte von Fischer:innen \u00fcber die zunehmend schlechte Kondition von westlichen und \u00f6stlichen Schollen\r\nerw\u00e4hnt werden, auch wenn hierzu noch weitere Forschung notwendig ist (siehe u.a. Gauzens et al. 2024) .\r\n120\r\n8ff\r\nUnterkapitel zu Belastungen erw\u00e4hnt Grundschleppnetzfischerei nicht\r\nObwohl bei den Umweltzielen und Ma\u00dfnahmen die m\u00f6glichen negativen Auswirkungen grundgeschleppter Fangger\u00e4te\r\nber\u00fccksichtigt werden (siehe ZU 3.2, S. 122), wird die aktuelle Belastung durch Grundschleppnetzfischerei nicht dargestellt. (Andere\r\nBelastungen werden beschrieben.)\r\n121\r\n16ff\r\nDorschbeifang in Fischereien auf Plattfisch erw\u00e4hnen\r\nNeben der derzeit geringen Gr\u00f6\u00dfe des Laicherbestandes und ver\u00e4nderten Umweltbedingungen sollte auch der Beifang von Dorsch\r\nin Plattfischfischereien erw\u00e4hnt werden, wenn es um die Perspektiven f\u00fcr die die Bestandserholung des westlichen Ostseedorsches\r\ngeht. Auch die ICES Empfehlung vom 31. Mai 2023 f\u00fcr den westlichen Dorsch erw\u00e4hnt \u201cReducing the bycatch of cod in flatfish\r\nfisheries may enhance the recovery of the cod stocks.\u201d\r\n121 16ff Hier w\u00e4re auch nochmal Fisch-Beifang zu nennen, nicht nur Beispiele von Zielfischarten. (Durch Fischbeifang Einfluss auf\r\nNichtzielfischarten als auch indirekter Einfluss auf Zielfischarten, wenn es sich um Futterfisch handelt)\r\n121 16ff Zusammenbruch vom westlichen Hering erw\u00e4hnen\r\nNeben dem westlichen Dorsch sollte auch der westliche Ostseehering als Beispiel f\u00fcr einen Bestand genannt werden, der als\r\nResultat von \u00dcberfischung und sich wandelnden Umweltbedingungen zusammengebrochen ist.\r\n121\r\n30ff\r\nDieser Absatz sollte umformuliert werden, da nicht die Anlandeverpflichtung das Problem ist.123 17ff Hier sollte erw\u00e4hnt werden, dass die Fl\u00e4chen zwar benannt sind, aber effektiver Schutz bisher in gro\u00dfen Teilen nicht umgesetzt ist.\r\n123 42ff Ausnahmen f\u00fcr grundber\u00fchrende mobilen Fangger\u00e4ten in der 3-Seemeilenzone erw\u00e4hnen\r\n\u201eEbenso ist der Einsatz von Baumkurren in der gesamten Ostsee und von grundber\u00fchrenden mobilen Fangger\u00e4ten in der 3-\r\nSeemeilenzone verboten.\u201c Hier sollte erw\u00e4hnt werden, dass es Ausnahmen von dem Verbot in der 3-Seemeilenzone gibt, sogar in\r\nNatura-2000 Gebieten (siehe K\u00fcstenfischereiverordnungen von Schleswig-Holsein und Mecklenburg-Vorpommern).\r\n(K\u00fcstenFischereiVerordnung SH \u00a713 (3) 1-4// K\u00fcstenFischereiVerordnung MV \u00a710 (3) 1-7)\r\n124\r\n35\r\nVorsorgeansatz\r\nIn der \u201eSchlussfolgerung und Ausblick\u201c sollte der Vorsorgeansatz bei allen Aktivit\u00e4ten aufgrund von mangelnder Datenlage und\r\nniedriger Konfidenz erw\u00e4hnt werden.\r\n5.1.3 Marine S\u00e4ugetiere\r\n141 2ff Die bisherigen und potenziellen Belastungen durch den Klimawandel auf marine S\u00e4ugetiere, direkt (z.B. durch\r\nHabitatverschiebungen) und indirekt (z.B. durch Ver\u00e4nderung der Beutepopulationen), werden in dem Kapitel \u00fcberhaupt nicht\r\nber\u00fccksichtigt.\r\n141 35ff Bei den kumulativen Belastungen m\u00fcssen die Folgen des anthropogenen Klimawandels ber\u00fccksichtigt werden.\r\n141 42 Negative Auswirkungen auf die Population durch zu h\u00e4ufige St\u00f6rungen bzw. St\u00f6rungen \u00fcber ein zu gro\u00dfes Gebiet sind nicht nur\r\nm\u00f6glich, sondern wahrscheinlich.\r\n143 17ff F\u00fcr eine klare Ausdrucksweise und bessere Verst\u00e4ndlichkeit sollte es \u201cDie marinen S\u00e4ugetiere der deutschen Ostseegew\u00e4sser\r\nbefinden sich in einem schlechten Umweltzustand bzw. ung\u00fcnstigen Erhaltungszustand\u201d hei\u00dfen\r\n143 28ff Gerade in Anbetracht der Aufnahme des Gew\u00f6hnlichen Schweinswals (in der zentralen Ostsee) in den Anhang I des\r\n\u00dcbereinkommens zur Erhaltung der wandernden wild lebenden Tierarten (CMS) und dem damit einhergehenden h\u00f6chsten\r\nSchutzstatus, sind sofortige und drastische Ma\u00dfnahmen zum Schutz und insbesondere Ma\u00dfnahmen zur Beifangreduzierung\r\ndringend erforderlich. Es sollte zwingend das Vorsorgeprinzip gelten und nicht erst auf eine bessere Datenlage bis zur Umsetzung\r\nvon Ma\u00dfnahmen gewartet werden.5.2.2 Benthische Lebensr\u00e4ume\r\n161 22 \u201c72,6 % der Fl\u00e4che der deutschen Ostsee sind von grundber\u00fchrender Fischerei betroffen. Die Bereiche liegen in tieferem Wasser\r\nau\u00dferhalb der 3-sm-Zone.\u201d Hier sollte erw\u00e4hnt werden, dass es Ausnahmen von dem Verbot in der 3-Seemeilenzone gibt, sogar in\r\nNatura-2000 Gebieten (siehe K\u00fcstenfischereiverordnungen von Schleswig-Holstein und Mecklenburg-Vorpommern).\r\n172 24ff Das Vorsorgeprinzip sowie der ganzheitliche \u00d6kosystemansatz, m\u00fcssen bei der Bestimmung von Ma\u00dfnahmen sowie der\r\nErschaffung von R\u00fcckzugs- und Ruher\u00e4umen gelten und angewendet werden, vor allem in Anbetracht der zuk\u00fcnftig ansteigenden\r\nanthropogenen Nutzungen in benthischen Lebensr\u00e4umen (Offshore-Wind, H2-Gewinnung, Pipelines, Leitungen, etc.).\r\n5.3 \u00d6kosysteme und Nahrungsnetze\r\n175 28\r\n180 26-28\r\nDie Gesamtbewertung sollte anhand der beschriebenen drastischen Ver\u00e4nderungen lauten \u201ekein guter Zustand\u201c, auch wenn\r\nkonkrete Prognosen hinsichtlich der Auswirkung der Verschiebungen nicht gesichert m\u00f6glich sind.\r\nDie Aussage, dass die aktuellen Fischereima\u00dfnahmen nicht ausreichend sind, um \u201einsbesondere den Schutz von Schl\u00fcsselarten\r\nwie dem Hering und der Sprotte, die Energie von den unteren zu den h\u00f6heren trophischen Ebenen transportieren\u201c zu gew\u00e4hrleisten,\r\nist positiv zu bewerten, da sie die \u00f6kosystemare Funktion der Arten hervorhebt.\r\nAnlage 1 Erg\u00e4nzende nationale Indikatorbl\u00e4tter Nordsee\r\nSeite Name Indikatorblatt Tabellenzeile (Feld) Stellungnahme\r\n4 NAT-ANSDE-NUTR Kernbewertung Im Satz: \u201cDer flie\u00dfgew\u00e4sserspezifische Orientierungswert f\u00fcr gesamtphospor wird in\r\nallen Fl\u00fcssen au\u00dfer der Elbe bereits eingehalten\u201d sollte das Wort \u201cbereits\u201d gestrichen\r\nwerden.\r\n7 NAT-ANSDE-NUTR Ausblick Die Einheiten t und a der Ver\u00e4nderung der Fracht wurden nicht definiert.9 NAT-ANSDE-NUTR Ausblick Obere Tabelle: Trotz einer j\u00e4hrlichen Abnahme um die doppelte Fracht ist der Trend\r\nf\u00fcr die Betrachtung 2011-2019 nicht signifikant. Dies tritt auch noch bei anderen\r\nAuswertungen auf (siehe n\u00e4chster Punkt). Ist die Datenlage generell zu gering um\r\nSignifikanzen im Zeitraum 2011-2019 realistisch ergeben zu k\u00f6nnen? Dann sollte dies\r\nangef\u00fchrt werden und die Daten wom\u00f6glich statistisch anders ausgewertet werden.\r\n11 NAT-ANSDE-NUTR Ausblick Untere Tabelle: Auch hier ergibt sich selbst bei einem Faktor von 3,5 f\u00fcr die\r\nVerringerung der j\u00e4hrlichen Last keine Signifikanz der Werte. Ist die Datenlage\r\ngenerell zu gering um Signifikanzen ergeben zu k\u00f6nnen? Dann sollte dies angef\u00fchrt\r\nwerden und die Daten wom\u00f6glich statistisch anders ausgewertet werden.\r\n19 NAT-ANSDE-R-SSB/R Kernbewertung Zu \u201c5 von 10 bewerteten Best\u00e4nden erreichten das Indikatorziel von D3C3.\u201d: Im\r\nAbschnitt \u201cKernbotschaften\u201d davor waren es 6 von 10 bewerteten\r\nBest\u00e4nden.\r\nZu \u201cBest\u00e4nde mit einer als nur \u201cteilweise gut\u201d oder als \u201cnicht gut\u201d bewerteten\r\nAltersstruktur: die Bewertungen \u201cteilweise gut\u201d und \u201cnicht gut\u201d sollten in zwei separaten\r\nPunkten aufgef\u00fchrt werden.\r\n21 NAT-ANSDE-R-SSB/R Vertrauensw\u00fcrdigkeit Die Datenlage ist zu gering, f\u00fcr viele Arten liegt keine Bewertung vor (siehe Tabelle 1\r\nin Ergebnisse, S. 21)\r\n22 NAT-ANSDE-R-SSB/R Merkmal (Anhang III) Hier fehlen als Gr\u00fcnde noch Umweltverschmutzung und Verlust von Laichgr\u00fcnden\r\n42 NAT-ANSDE-Hg Ausblick\r\nAufgrund der unterschiedlichen Trends und einem bedenklichen Anstieg von 41 %\r\n\u00fcber 25 Jahre (auch wenn dieser unter dem H\u00f6chstgehalt liegt) sollte die Forschung\r\nzum Eintrag von Quecksilber aus dessen Senken ausgeweitet und eine Erweiterung\r\nder Datenerhebung stattfinden.66 Emissionen und Deposition Ausblick\r\nvon Stickstoffverbindungen Zu \u201cDie Einhaltung der Vorgaben des G\u00f6teborg-Protokolls und der EU NEC-RL f\u00fcr das\r\nZieljahr 2022 kann in 2022 \u00fcberpr\u00fcft werden.\u201d Das Jahr 2022 zur \u00dcberpr\u00fcfung ist\r\nbereits lange verstrichen.\r\n68 Schadstoffkonzentrationen\r\nam \u00dcbergabepunkt\r\nlimnisch/marin der in die\r\nNordsee m\u00fcndenden\r\nFl\u00fcsse Zu \u201cDer Gesamtzustand der in die Nordsee m\u00fcndenden Fl\u00fcsse\u2026\u201d: der deutschen in\r\ndie Nordsee m\u00fcndenden Fl\u00fcsse oder wirklich aller Fl\u00fcsse?\r\nKernbewertung\r\nAnlage 1 Erg\u00e4nzende nationale Indikatorbl\u00e4tter Ostsee\r\nSeite\r\nName Indikatorblatt\r\nTabellenzeile (Feld)\r\nStellungnahme"
+                        }
+                    }
+                ],
+                "title": "Meeresstrategierahmenrichtlinie"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/ce/d6/296659/Stellungnahme-Gutachten-SG2406180129.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-10"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002788",
+                "regulatoryProjectTitle": "Meeresstrategierahmenrichtlinie",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Bericht zum Zustand der deutschen Nordseegew\u00e4sser\r\nSeite\r\nZeile\r\nStellungnahme\r\nAllgemein\r\nWir begr\u00fc\u00dfen die Einladung zur \u00d6ffentlichkeitsbeteiligung und nehmen diese M\u00f6glichkeit der Teilnahme am Verfahren im Rahmen der Umsetzung\r\nder MSRL hiermit wahr. Gegenstand dieser Stellungnahme ist der \u201eEntwurf der MSRL-Zustandsbewertung der deutschen Nord- und Ostsee 2024 -\r\nAktualisierung der Anfangsbewertung nach \u00a7 45c, der Beschreibung des guten Zustands der Meeresgew\u00e4sser nach \u00a7 45d und der Festlegung von\r\nZielen nach \u00a7 45e des Wasserhaushaltsgesetzes zur Umsetzung der Meeresstrategie-Rahmenrichtlinie\u201c\r\n2.2 Nutzungen der Nordsee\r\n24 Tabelle\r\nII. 2-2 Auf welchen Daten basiert \u201eAbbildung II.2-2: Fischereiaufwand in Stunden in der deutschen AWZ von 2019 bis 2021 (BSH\r\n2023b)? VMS? AIS? Beides? Was bedeutet \u201econfidential\u201c in diesem Zusammenhang? Wenn es \u201evertraulich\u201c bedeutet, warum\r\nsind diese Daten vertraulich? Eine Unterscheidung zwischen <10h und confidential ist farblich kaum m\u00f6glich.\r\n24 12 Hier ist hier eine Klarstellung erforderlich, welche Fischereimethoden in der Abbildung dargestellt sind.\r\n24 13-14 Die Fl\u00e4chen f\u00fcr die Fischerei wurden zwar eingeschr\u00e4nkt, aber hat das real auch zu einer Reduktion der befischten Fl\u00e4che\r\ngef\u00fchrt?\r\n24 19 Die Grundschleppnetzfischerei f\u00fcr den Fang von Krabben und Plattfischen ist nicht nur energie- und kostenintensiv. Hier fehlt\r\nein Hinweis auf die negativen Auswirkungen der Grundschleppnetzfischerei auf Fischbest\u00e4nde, durch die Beeintr\u00e4chtigung von\r\nLebensr\u00e4umen und den hohen Anteil an Beifang.\r\n25\r\nDie seit M\u00e4rz 2023 geltenden Fischereima\u00dfnahmen in den deutschen Schutzgebieten der AWZ in der Nordsee sind weiterhin\r\nmangelhaft. Die Doggerbank ist immer noch komplett ohne Einschr\u00e4nkung der mobilen grundber\u00fchrenden Fischerei und im\r\nSylter-Au\u00dfenriff gibt es Ausnahmen f\u00fcr Krabbenfischerei. Die Nullnutzungszone auf der Amrumbank macht nicht mal 1% der\r\nFl\u00e4che des Sylter Au\u00dfenriffs aus. Siehe BUND Analyse zu den Fischereima\u00dfnahmen in den deutschen Schutzgebieten der\r\nAWZ: https://www.bund.net/themen/aktuelles/detail-aktuelles/news/schutzgebiete-in-der-nordsee-neue-regeln-fuer-die-fischerei/\r\n25 14-15 Welche Regelungen zum Schutz des Meeresbodens sind im K\u00fcstenmeer geplant?\r\n25 5 \u201ckleinen\u201d Krabbenkuttern: entweder die Gr\u00f6\u00dfe (\u00fcber/unter in m) angeben, oder \u201cklein\u201d streichen, ansonsten ist es eine\r\nVerniedlichung25 16 \u201emuss\u201c statt \u201ekann\u201c\r\n25 18 Siehe die Taschenkrebs Bewertung S.54 Tab. II.4..2-1.: alle bewerteten Indikatoren und Deskriptor in keinem guten Zustand,\r\ndaher Verweis auf Taschenkrebsfischerei hier unpassend.\r\n27 10 \u201cdauerhaft\u201d bitte streichen - fachlich so umfassend nicht richtig\r\n4.2 Kommerziell genutzte Fisch- und Schalentierbest\u00e4nde\r\n50\r\n31ff\r\n\u00d6kosystembasiertes Fischereimanagement/ Vorsorgeansatz sollten in Zielsetzung ber\u00fccksichtig werden\r\nDiese Zustandsbewertung orientiert sich am Umweltziel 4.1, nach dem alle wirtschaftlich genutzten Best\u00e4nde nach dem Ansatz\r\ndes h\u00f6chstm\u00f6glichen Dauerertrags (MSY) bewirtschaftet werden sollen. Indikatoren hierf\u00fcr sind die fischereiliche Sterblichkeit\r\n(FMSY) sowie der Fangmenge-Biomasse-Quotient.\r\nAllerdings wird nicht ber\u00fccksichtigt, dass die Datenlage f\u00fcr Fischereimanagement oft mangelhaft ist (wie sich an der niedrigen\r\nKonfidenz der Zustandsbewertung zeigt), dass das \u00d6kosystem multiplen Stressoren ausgesetzt ist (Klimawandel,\r\nVerschmutzung, etc.), und dass Nahrungsnetzbeziehungen zwischen verschiedenen Arten bestehen. Folglich sollten\r\nSterblichkeitsraten prinzipiell unter FMSY liegen, um das zentrale Ziel der GFP zu erreichen (Erholung und Verbleib der\r\nBest\u00e4nde oberhalb eines Niveaus, das den MSY liefern kann). --> Um die langfristige Gesundheit der Best\u00e4nde zu\r\ngew\u00e4hrleisten, sollten in der Zielsetzung auch die Prinzipien des \u00f6kosystembasierten Fischereimanagements und der\r\nVorsorgeansatz ber\u00fccksichtigt werden.\r\n54\r\n2ff\r\nFmsy f\u00fchrt nicht automatisch zu Bmsy\r\nNur wenn eine gesunde Bestandsgr\u00f6\u00dfe (SSB>MSYBtrigger) besteht, erh\u00e4lt eine Befischung auf dem Niveau von Fmsy diese\r\ngesunde Bestandsgr\u00f6\u00dfe. Eine Befischung auf Basis von Fmsy (\u201ckontinuierliche nachhaltige Bewirtschaftung\u201d) bei einem\r\n\u00fcberfischten Bestand f\u00fchrt hingegen nicht automatisch bzw. nur nach erheblich l\u00e4ngerer Zeitdauer zu einer Einstellung des\r\nBiomasserefernzwertes MSY Btrigger\r\n56\r\n19ff\r\nVorsorgeprinzip erw\u00e4hnen\r\nMit Blick auf die l\u00fcckenhafte Datenlage sowie die oft geringe Konfidenz bei bestehenden Daten (siehe Tabelle II.4.2-1.) sollte im\r\nAusblick die Wichtigkeit des Vorsorgeprinzips hervorgehoben werden. Bisher wird das Vorsorgeprinzip nirgendwo erw\u00e4hnt.\r\n56\r\n26\r\n\u201cweiterhin\u201d strikte Anwendung trifft es nicht, daher der Vorschlag der Streichung. (Davon ab, dass aktuell bestehende MSY-\r\nKonzept (namentlich Referenzpunkte) \u00fcberarbeitet werden m\u00fcsste)\r\n4.3 Eutrophierung58 16 Hier fehlt die Begr\u00fcndung f\u00fcr das Aussetzen des Routinemonitorings des sekund\u00e4ren Kriteriums Sch\u00e4dliche Algenbl\u00fcten\r\n(D5C3).\r\n63 10ff \u201c[...] lokaler R\u00fcckgang der Seegrasfl\u00e4chen\u201d, da in Niedersachsen 97% der Seegrasfl\u00e4chen verschwunden sind, w\u00e4re die\r\nFormulierung \u201cgro\u00dffl\u00e4chiger Verlust\u201d angebracht. Bei den Belastungen f\u00fcr Fische (128) wird auch der Vergleich mit den 80er\r\nJahren gemacht. https://doi.org/10.1111/1365-2664.12681\r\n70 3, 15 Werden regionale N\u00e4hrstoffreduktionsziele angestrebt? Hier sind widerspr\u00fcchliche Angaben im Text - kurze Stellungnahme\r\nerbeten.\r\nRegionale N\u00e4hrstoffreduktionsziele sind insbesondere im Einzugsgebiet der Ems erforderlich und k\u00f6nnen durch verbesserte\r\nUmsetzung der Nitratrichtlinie und strengere Vorgaben zur Tierhaltung und G\u00fclleaufbringung erreicht werden. In einigen\r\nTeileinzugsgebieten beruht die Hoffnung auf Einhaltung der gesetzlichen Vorgaben auf freiwilligen Ma\u00dfnahmen. Das reicht f\u00fcr\r\ndie verbindliche Zielerreichung nicht aus.\r\n4.5 und 4.6 Schadstoffe in der Umwelt/Schadstoffe in Lebensmitteln\r\n80ff/93\r\nff\r\nWegen korrodierender Munitionsh\u00fcllen werden sprengstofftypische Verbindungen in den n\u00e4chsten Jahren und Jahrzehnten in\r\nder Meeresumwelt und in Lebensmitteln zunehmend an Bedeutung gewinnen. Da das Indikatorenset sprengstofftypische\r\nVerbindungen nicht abbildet, kann diese Belastung derzeit nicht ber\u00fccksichtigt werden. Diese Problemlage fehlt im Bericht.\r\n4.7 Abf\u00e4lle im Meer\r\n100\r\n27\r\nAbiotischer Abbau ist eine missverst\u00e4ndliche Formulierung, da \u201eAbbau\u201c mit biologischen Prozessen und einer vollst\u00e4ndigen\r\nZersetzung von organischen Materialien assoziiert wird.\r\nFormulierungsvorschlag: [...] durch abiotische Faktoren bedingter Zerfall [...]\r\n100 29 Der Vollst\u00e4ndigkeit halber, sollte hier zudem auf die Freisetzung klimawandelf\u00f6rdernden GHG-Emissionen entlang des\r\nkompletten Lebenszyklus der Plastikproduktion und ihrer Folgen f\u00fcr die Meere hingewiesen werden (Quellen: z.B. Ford et al.\r\n2022 https://www.sciencedirect.com/science/article/pii/S0048969721054693; Royer et al. 2018\r\nhttps://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200574)\r\n101 4 \u201eambivalent\u201c ist an dieser Stelle untertrieben, Tourismus ist als einer der Haupteintragspfade von Plastikabfall ins Meer\r\neinzustufen.\r\n101 8 Textvorschlag: [\u2026], sehr hohe bzw. starke Belastung dar.103-\r\n104\r\nAb Zeile Tabelleneintr\u00e4ge f\u00fcr Spalten \u201eGrundlage der Bewertung\u201c und \u201eEntwicklung (Zeitraum)\u201c\r\n6:\r\nDie Tabelleneintr\u00e4ge sind in Teilen schlecht verst\u00e4ndlich.\r\nTabelle\r\nII.4.7-1 Formulierungsvorschlag \u201eSchwellenwert\u201c: Schwellenwert \u00fcberschritten bei Nennung des Schwellenwertes. Bei der derzeitigen\r\nFormulierung \u201eNicht erreicht\u201c, k\u00f6nnte man meinen, dass der Wert darunter liegt.\r\nIn der Zeile \u201eAbf\u00e4lle am Meeresboden\u201c steht in der Spalte \u201e2024\u201c \u201eTrend\u201c. Was ist hier gemeint?\r\nPrim\u00e4res Kriterium D10C2: nicht bewertet\r\nFrage: Wieso ist auch 12 Jahre nach der Anfangsbewertung noch kein belastbares Monitoringverfahren ausgew\u00e4hlt worden,\r\num Mikroabf\u00e4lle an der K\u00fcste, in Sedimenten und/oder in der Oberfl\u00e4chenschicht der Wassers\u00e4ule zu bewerten?\r\nWissenschaftliche Verfahren existieren (zum Beispiel: Lenz et al. 2023\r\nhttps://www.sciencedirect.com/science/article/abs/pii/S0025326X23002618?via%3Dihub).\r\nSekund\u00e4re Kriterien und Langzeitstudien:\r\nF\u00fcr die Bewertung in 2018 wurden Daten sekund\u00e4rer Kriterien (D10C4) im Rahmen von Pilotprojekten erhoben, ausgewertet\r\nund in die Zustandsbewertung aufgenommen. F\u00fcr die belastbare Ermittlung von Trends sind m\u00f6glichst langfristig angelegte\r\nDatenreihen jedoch unerl\u00e4sslich.\r\nFrage: Wieso wurden Pilotstudien nicht weiter finanziert, w\u00e4hrend auf nationaler Ebene \u00fcber die Aufnahme in den Katalog von\r\nKriterien entschieden wird?\r\n\u25cf\r\nAbf\u00e4lle in der Oberfl\u00e4chenschicht: unbekannt in 2024: wieso? 2018 war es doch bekannt? Warum wurde das\r\nMonitoring nicht fortgesetzt?\r\nVerstrickung von V\u00f6geln: unbekannt in 2024: wieso? 2018 war es doch bekannt? Warum wurde das Monitoring nicht\r\nfortgesetzt?\r\n104\r\n24-25\r\nWas ist mit \u201eF\u00fcr die in den letzten Jahren in den Fokus gelangten Kategorien \u201eKunststoffe\u201c, \u201eEinwegplastikteile\u201c und\r\n\u201eFischereiger\u00e4te\u201c\u201c gemeint? Der Fokus liegt doch nicht erst in den letzten Jahren auf diesen Themen, sondern bereits seit\r\nmindestens 10 Jahren.105 6\r\n128 12\r\nDas Kriterium D10C1 ist f\u00fcr zwei von drei Indikatoren (Strand und Meeresgrund) nicht erreicht. Daher sollte der Gesamtzustand\r\nnicht als unbekannt, sondern als nicht erreicht eingestuft werden.\r\n\u201cund der Verlust dieses Habitats potentiell eine Belastung darstellen kann\u201d. Wenn es Hinweise darauf gibt, dass Seegraswiesen\r\nals Laichhabitat dienen, dann ist die logische Schlussfolgerung, dass diese Habitate im Wattenmeer gro\u00dffl\u00e4chig fehlen. Daher\r\nsollte es hei\u00dfen \u201cund der Verlust des Habitats f\u00fchrt folglich zu weniger Laich- und Aufzuchtgebieten f\u00fcr Jungfisch mit potenziellen\r\nAuswirkungen auf die Fischpopulationen\u201d.\r\n4.8. Einleitung von Energie\r\n110 5ff Da diese Textbox im Kapitel zur Einleitung von Energie steht, sollte hier bei den Umwelteffekten klar darauf hingewiesen\r\nwerden, dass der Bau von Offshore-Windanlagen einen erheblichen und f\u00fcr die n\u00e4chsten Jahre steigenden Eintrag von L\u00e4rm\r\nund elektromagnetischer Energie durch die Kabel bedeutet. Dies ist nicht nur \u201epotenziell\u201c der Fall.\r\n111 Tabelle\r\n4.8-1 F\u00fcr die Schwellenwerte zu Dauerschall ist es essentiell, dass dieser sowohl f\u00fcr den absoluten L\u00e4rmpegel als auch f\u00fcr den\r\n\u201eexcess level\u201c festgelegt werden sollten. Einige Arten, die an eine nat\u00fcrlich laute Umgebung angepasst sind, reagieren\r\nm\u00f6glicherweise am empfindlichsten auf absolute Pegel, w\u00e4hrend andere Arten, die an relativ niedrige nat\u00fcrliche L\u00e4rmpegel\r\ngew\u00f6hnt sind, am empfindlichsten auf \u00fcberm\u00e4\u00dfige Pegel reagieren.\r\n111-\r\n112 29ff\r\n12 Der L\u00e4rmeintrag durch Service-Verkehre kann allein durch die Analyse von AIS Daten nicht ausreichend bewertet werden, da\r\nin den Windparks Schiffe sich oft mit Motor positionieren bzw. die Position halten, was einen erheblichen L\u00e4rmeintrag bedeutet,\r\nder nicht aus den AIS Daten ersichtlich ist\r\n112 20-22 Bewertungen an vielen Stellen (auch OSPAR QSR, HELCOM HOLAS3, aber auch z.B. die k\u00fcrzlich erschienene Publikation\r\n\u201eThe underwater soundscape of the North Sea\u201c (https://www.sciencedirect.com/science/article/pii/S0025326X23013267 ))\r\nzeigen, dass der L\u00e4rmeintrag zu hoch ist und reduziert werden muss. Auch wenn es um viele Details wie der Wert von LOBE,\r\nSaisonalit\u00e4t, Indikatorarten etc. noch Unklarheiten gibt, so ist doch klar, dass der L\u00e4rmeintrag zu hoch ist. Dies sollte hier klar\r\nausgedr\u00fcckt werden. Der gute Umweltzustand kann unter diesen Pr\u00e4missen nicht erreicht sein.\r\n112-\r\n113\r\nDas Kapitel zu Impulsschall erw\u00e4hnt zwar seismische Explorationen sowie Explosionen neben den Rammarbeiten als\r\nHauptquellen von Impulsschall, geht jedoch in den Bewertungen und Berichten \u00fcber Schallminderungsma\u00dfnahmen nur auf den\r\nBau von Offshore Windanlagen ein. Wurden bei seismische Explorationen und Explosionen auch\r\nSchallminderungsma\u00dfnahmen angewendet oder angedacht? Wenn ja, welche?\r\nZu welchen Zwecken wurden seismische Explorationen durchgef\u00fchrt?\r\nZum Zweck der weiteren Ausbeutung von \u00d6l und Gas sollten sie zur Erreichung der Klimaziele einem vollst\u00e4ndigen Verbot\r\nunterworfen werden. F\u00fcr unvermeidbare Eins\u00e4tze sollte auf Alternativen gesetzt werden.115\r\n1-16\r\nDie Publikation sollte hier genannt werden: \u201eThe underwater soundscape of the North Sea\u201c\r\n(https://www.sciencedirect.com/science/article/pii/S0025326X23013267\r\n5.1.1 Fische\r\n125 35ff Zustandsbewertung Schelffische: Eine Einordnung, welche Gruppe von Schelffischarten in schlechtem Zustand sind w\u00e4re\r\nw\u00fcnschenswert: es handelt sich um jene Arten, die f\u00fcr die kommerzielle Fischerei von besonderem Interesse sind und/oder in\r\nihrem Rahmen in Mitleidenschaft gezogen werden, i.e. Kabeljau, Schellfisch, Aal, Sandaal, Dornhai, Lachs, sowie div. langlebige\r\nHai-/Rochenarten.\r\n130 1 ff Etwas merkw\u00fcrdig formuliert. Das Problem ist ja nicht die Einf\u00fchrung der Anlandeverpflichtung, sondern die Erh\u00f6hung der\r\nQuoten, sowie das Nicht-Nachkommen des R\u00fcckwurfverbotes.\r\n132 1 das 30%-Fl\u00e4chenziel\r\n5.1.3 Marine S\u00e4ugetiere\r\n150 2ff Die bisherigen und potenziellen Belastungen durch den Klimawandels auf marine S\u00e4ugetiere, direkt (z.B. durch\r\nHabitatverschiebungen) und indirekt (z.B. durch Ver\u00e4nderungen in Beutepopulationen), werden in dem Kapitel \u00fcberhaupt nicht\r\nber\u00fccksichtigt.\r\n150 16 Der Begriff \u201cmittlere\u201d verharmlost die Auswirkungen von Unterwasserl\u00e4rm auf einzelne Individuen zu sehr. Der Schiffsverkehr\r\n(insbesondere Freizeitverkehr) sollte ebenfalls genannt werden.\r\n150 31 Bei den kumulativen Belastungen m\u00fcssen die Folgen des anthropogenen Klimawandels ber\u00fccksichtigt werden.\r\n152 14 Gerade bei der Einrichtung von Schutz- und R\u00fcckzugsgebieten und der Reduzierung der Belastung muss der Vorsorgeansatz\r\ngelten und Klimawandel-induzierte Ver\u00e4nderungen, z. B. der Verbreitungsgebiete, biophysikalische Habitatver\u00e4nderungen und\r\n\u00c4nderungen im Nahrungsnetz und der Nahrungsverf\u00fcgbarkeit, sollten bei marinen S\u00e4ugetieren ber\u00fccksichtigt werden, u. a. um\r\nsicherzustellen, dass die designierten Gebiete auch den kontinuierlichen aktuellen Bedarfen der Arten entsprechen. Es gilt einen\r\nganzheitlichen \u00d6kosystemansatz zu ber\u00fccksichtigen, welcher die Interaktionen und Abh\u00e4ngigkeiten der Arten untereinander\r\nanerkennt. Zudem m\u00fcssen konkrete Ma\u00dfnahmen nicht nur zur Einrichtung von R\u00fcckzugs- und Ruher\u00e4umen, sondern auch eine\r\nausreichende Kontrolle & Monitoring stattfinden, damit es zu keinen anthropogenen St\u00f6rungen in den Gebieten kommt.\r\n5.2.1. Pelagische Lebensr\u00e4ume160\r\n22-23\r\nDer Rolle des Zooplanktons gerade f\u00fcr den Transfer zwischen Prim\u00e4rproduzenten und h\u00f6heren trophischen Ebenen sowie als\r\npotentieller Link zwischen tieferen, bodennahen Wasserschichten und den oberen Wasserschichten wird hier und auch im\r\nKapitel \u201e\u00d6kosysteme und Nahrungsnetze\u201c nicht gen\u00fcgend Rechnung getragen. Hier sollte zuk\u00fcnftig nachgebessert und\r\nIndikatoren f\u00fcr deren Bewertung entwickelt werden.\r\n5.2.2 Benthische Lebensr\u00e4ume\r\n172 4-5 \u201eAussagen zu Ver\u00e4nderungen der Beeintr\u00e4chtigung sind aufgrund der im Vergleich zur letzten Bewertung ver\u00e4nderten\r\nAusdehnung der Lebensr\u00e4ume nicht m\u00f6glich\u201c - Was ist mit Aussagen \u00fcber die gleich gebliebenen Bereiche? Hierzu k\u00f6nnten\r\nund sollten Aussagen getroffen werden.\r\n172 8-9 Zu erg\u00e4nzen: Eine Versch\u00e4rfung der Beeintr\u00e4chtigungen droht zudem durch neue (fossile) Industrieprojekte.\r\n172 13-14 \u201eDas Vorkommen und die Ausdehnung der benthischen Lebensr\u00e4ume hat sich aufgrund der Einbindung aktueller\r\nUntersuchungsdaten im Vergleich zur vorherigen Bewertung ver\u00e4ndert.\u201c Wie und wo wurden die neuen Untersuchungsdaten\r\ngesammelt und welche Kategorien benthischer Lebensr\u00e4ume betreffen die Ver\u00e4nderungen? Bitte kurz erg\u00e4nzen oder\r\nverweisen.\r\n172 19-24 \u201eMit Verlust und Beeintr\u00e4chtigung der Lebensr\u00e4ume einhergehend zeigen sich gegen\u00fcber dem Anfang des 20. Jahrhunderts\r\ngro\u00dffl\u00e4chig deutliche Ver\u00e4nderungen der bodenlebenden Gemeinschaften mit einer generellen Abnahme der gro\u00dfen\r\nlanglebigen Arten und einer Zunahme kleiner opportunistischer Arten. Insbesondere die grundber\u00fchrende Fischerei und die\r\nweitr\u00e4umige Anreicherung von N\u00e4hrstoffen wurden als Ursachen f\u00fcr diese Ver\u00e4nderungen angesehen (Kr\u00f6ncke 1995, Reiss et\r\nal. 2009).\u201c - Ist die Anreicherung von N\u00e4hrstoffen derzeit noch als Ursache anzubringen? Wenn N\u00e4hrstoffe genannt werden,\r\nsollten auch Schadstoffe genannt werden.\r\n173 15-18 Die Lebensr\u00e4ume \u201eGrobsediment des Infralitorals\u201c und \u201eSchlickb\u00f6den des Infralitorals\u201c weisen erhebliche Unterschiede auf, ihre\r\njeweilige geringe Gesamtfl\u00e4che sollte daher kein Kriterium f\u00fcr eine gemeinsame Bewertung als \u201eSandb\u00f6den des Infralitorals\r\ni.w.S.\u201c sein. Auch vor dem Hintergrund neuerer Forschungsergebnisse zur Kohlenstoff-Speicherung in marinen Sedimenten\r\nsollte zwischen Schlick und Sand unterschieden werden, da Schlick \u00fcberwiegend aus Ton und Schluff, sowie organischen\r\nBestandsteilen besteht, also per definitionem nicht der Kategorie Sand zugeordnet wird, gleichzeitig aber im Kontext der\r\nKohlenstoffspeicherung, sowie bez\u00fcglich der Effekte physikalischer St\u00f6rung sehr andere Eigenschaften aufweist, als dies bei\r\nSand der Fall ist.\r\n174 17-18 Kann hier schon pr\u00e4ziser genannt werden, welche Indikatoren f\u00fcr physikalische Belastung hinzukommen sollen (z.B. Kabel-\r\noder Pipelineverlegungen)? Wenn ja, bitte erg\u00e4nzen.174\r\nAbb. II\r\n5.2.2-1\r\nDie Riffabgrenzungen haben sich verschoben \u2013 es ist aber unklar, welche neuen Untersuchungen zu dieser Abgrenzung f\u00fchren,\r\nbei der vorherige Riffe von der Karte verschwunden sind. Von Greenpeace beauftragte wissenschatliche Untersuchungen\r\nzeigen eindeutig in ehemals offiziellen Riffverdachtsfl\u00e4chen (s. Zustandsbericht Nordsee 2018), dass dort weiterhin\r\nSteinvorkommen vorliegen, die dem Habitattyp Steinriff entsprechen (gem\u00e4\u00df dt. Kartieranleitung Riffe AWZ, da keine\r\nKartieranleitung K\u00fcstenmeer verf\u00fcgbar) und als gesetzlich gesch\u00fctzte Biotope ausgewiesen werden m\u00fcssen. Dies ist auch von\r\nBedeutung, da in unmittelbarer Umgebung neue Gasf\u00f6rderinfrastruktur samt F\u00f6rderplattform, Kabeltrasse und Pipeline geplant\r\nist und die Steinriffe und ihre Gef\u00e4hrdungen bisher unber\u00fccksichtigt sind. Eine Angabe dar\u00fcber, dass weiterhin Kartierungen\r\n\u00fcber z.B. geogene Riffe ausstehen, h\u00f6chstwahrscheinlich viele Riffe bis dato unentdeckt sind (speziell in den Bereichen\r\nzwischen Borkum Riff und Borkum Riffgrund) w\u00e4re sehr w\u00fcnschenswert.\r\nSiehe von BioConsult & GeoGroup 2023 angefertigtes Gutachten:\r\nhttps://www.greenpeace.de/publikationen/Worthy_of_Protection.pdf\r\n175\r\n30-32\r\n\u201eDer nach \u00a7 30 BNatSchG gesch\u00fctzte Biotoptyp \u201eArtenreiche Kies-, Grobsand- und Schillgr\u00fcnde\u201c wird erstmalig in der AWZ der\r\nNordsee ausgewiesen, aber noch nicht bewertet. F\u00fcr das K\u00fcstenmeer wird eine Darstellung erst in der n\u00e4chsten\r\nBerichtsperiode m\u00f6glich sein.\u201c\r\nAuch hier w\u00fcrde sich ein Hinweis darauf anbieten, dass hinsichtlich Riffen gro\u00dfe Wissensl\u00fccken bestehen und auch die\r\nBerichterstattung noch nicht vollumf\u00e4nglich erfassen und bewerten kann.\r\n177 25-28 Es fehlt hier die Belastung des Meeresbodens durch Ma\u00dfnahmen des Sediment-Managements, etwa durch Ausbaggerung und\r\nVerklappung von Sedimenten aus Hafenanlagen und Schifffahrtswegen. Auch diese Ma\u00dfnahmen resultieren in St\u00f6rungen und\r\nUmlagerungen von Sedimenten.\r\n178 5ff Im Gegensatz zum Zustandsbewertung der Ostsee wird in der Nordsee keine Angabe zu der Belastung von Schifffahrt gemacht.\r\nDiese wird nur als Beeintr\u00e4chtigung in der Tabelle II.5.2.2-6 aufgef\u00fchrt. Da die beeintr\u00e4chtigte Fl\u00e4che in der Ostsee 77,4 %\r\nbetr\u00e4gt und zumindest im K\u00fcstenbereich von Auswirkungen durch die Schifffahrt auszugehen ist, sollten diese Bewertungen\r\nauch f\u00fcr die Nordsee, besonders den K\u00fcstenbereich, aufgef\u00fchrt sein.\r\n178 10-11 Es wird von einer \u201ehohen\u201c Beeintr\u00e4chtigung gesprochen, was nicht der Kategorisierung des OSPAR-Indikators \u201eAusdehnung der\r\nphysikalischen St\u00f6rung auf benthische Lebensr\u00e4ume\u201c entspricht (gering, stark, sehr stark).\r\n178 13-15 Ist mit den \u201ek\u00fcstennahen Sandb\u00f6den des Infralitorals\u201c der zuvor benannte Lebensraum \u201eSandb\u00f6den des Infralitorals i.w.S.\u201c\r\ngemeint? Grunds\u00e4tzlich l\u00e4sst die Zusammenlegung von verschiedenen Lebensr\u00e4umen innerhalb des Lebensraums\r\n\u201eSandb\u00f6den des Infralitorals i.w.S\u201c einen Vergleich von Belastungsbewertungen mit anderen Lebensr\u00e4umen wenig sinnvoll\r\nerscheinen.178 17-19 Hier w\u00e4re der Kontext zur festgestellten positiven Entwicklung w\u00fcnschenswert. In welchen Gebieten ist diese positive\r\nEntwicklung ersichtlich, ist sie z.B. auf den Ausschluss der Fischerei in Offshore-Windparks zur\u00fcckzuf\u00fchren? Geht sie mit einer\r\nnegativen Entwicklung der Belastung in anderen Gebieten einher?\r\n184 10ff In der Tabelle II.5.2.2-6 wird von Offshore-Baut\u00e4tigkeiten und Offshore-Installationen gesprochen. F\u00fcr ein besseres\r\nVerst\u00e4ndnis sollte hier zwischen Offshore-Wind (Baut\u00e4tigkeit und Installation) und anderen Offshore-Aktivit\u00e4ten\r\n(Leitungsverlegung, Pipelinebau, Wasserstoffgewinnung etc.) unterschieden werden. (neue) Pipelines, (z.B. f\u00fcr die Zulieferung\r\nvon Erdgas oder zuk\u00fcnftig LNG) noch die daf\u00fcr vorgesehenen Hafenstrukturen werden unter keinem der Belastungstypen\r\nerw\u00e4hnt, auch dies unterscheidet sich zum Ostsee Zustandsbericht und sollte hier auch aufgef\u00fchrt werden.\r\n188 9ff Das Vorsorgeprinzip sowie der ganzheitliche \u00d6kosystemansatz, m\u00fcssen bei der Bestimmung von Ma\u00dfnahmen sowie der\r\nErschaffung von R\u00fcckzugs- und Ruher\u00e4umen gelten und angewendet werden, vor allem in Anbetracht der zuk\u00fcnftig\r\nansteigenden anthropogenen Nutzungen in benthischen Lebensr\u00e4umen (Offshore-Wind, H2-Gewinnung, Pipelines,\r\nLeitungungen, etc.).\r\n5.3 \u00d6kosysteme und Nahrungsnetze\r\nGrunds\u00e4tzlich positiv zu bewerten ist, dass hier an der Entwicklung von Indikatoren gearbeitet wird. Auch die Umsetzung von Ruher\u00e4umen sowie\r\nstrenger Schutz sind zu begr\u00fc\u00dfen.\r\n189-\r\n194\r\n190\r\n193\r\nWarum wird die Situation des Sandaals, welche sich verschlechtert hat, nicht auch wie in der Bewertung f\u00fcr die Ostsee (hier\r\nam Beispiel Hering & Dorsch) als Schl\u00fcsselkomponente des Nahrungsnetzes genannt und als Indikator f\u00fcr den Zustand der\r\nNahrungsnetze genutzt? Dies ist aufgrund der wichtigen Rolle dieser Schl\u00fcsselart nicht nachvollziehbar und sollte angepasst\r\nwerden.\r\n28-29\r\n9-14\r\nObwohl im Einleitungstext klar gezeigt wird, dass mindestens die Nahrungsnetze \u201eK\u00fcstengew\u00e4sser/Wattenmeer\u201c und \u201eoffene\r\nNordsee\u201c getrennt betrachtet werden m\u00fcssen, findet dies in der aktuellen Bewertung nicht statt. Dies erschwert eine\r\nevidenzbasierte Bewertung und muss perspektivisch ge\u00e4ndert werden, um auch die kausalen Zusammenh\u00e4nge besser\r\nverstehen zu k\u00f6nnen.\r\nDie Auswirkungen des Klimawandels sollten hier als Folge der anthropogenen Belastungen klar benannt werden.195 1 bzw.\r\nIn Anhang 4 findet sich folgende Bewertung des Umsetzungsstandes \u201ein Bearbeitung\u201c. Dieser wird nicht erkl\u00e4rt und geh\u00f6rt nicht\r\nAnhang zu den nach EU-Vorgaben entwickelten Antwortkategorien. Bitte nachbessern/erkl\u00e4ren, da ansonsten der aktuelle\r\n4\r\nUmsetzungsstand nicht ersichtlich ist.\r\n195 34\r\nLaut MSRL-Ma\u00dfnahmenprogramm 2022 soll die Ma\u00dfnahme UZ3-01 bereits 2024 umgesetzt werden. Die Umsetzung der\r\nMa\u00dfnahme w\u00fcrde eine wichtige L\u00fccke schlie\u00dfen und ist auch f\u00fcr die Einrichtung bzw. den rechtlichen Schutz von streng\r\ngesch\u00fctzten Gebieten essentiell. Folglich sollte hier ein k\u00fcrzerer Zeithorizont genannt und die Ma\u00dfnahme fr\u00fcher umgesetzt\r\nwerden.\r\n6. Aspekte des Klimawandels\r\n199 13-16 Es sollte auch die gro\u00dffl\u00e4chige St\u00f6rung der sediment\u00e4ren Kohlenstoffspeicher durch Grundschleppnetz-Fischerei und anderen\r\nbodenber\u00fchrenden menschlichen Aktivit\u00e4ten Erw\u00e4hnung finden.\r\n199 16-17 Angesichts der zahlreichen wissenschaftlichen Erkenntnisse zur CO2-Freisetzung aus der St\u00f6rung mariner Senken (z.B.\r\nAtwood et al., 2024 zu den Auswirkungen der Grundschleppnetz-Fischerei, https://doi.org/10.3389/fmars.2023.1125137 )\r\nerscheint der einseitige Fokus auf terrestrische Senken unangebracht.\r\n199 20-28 Die Ver\u00e4nderungen der physikalischen und chemischen Bedingungen der Meeresumwelt wirken sich insbesondere auch auf die\r\nEffektivit\u00e4t und Kapazit\u00e4t der CO2-Senkenfunktion des Meeres aus. Die thematische Einleitung wird diesem R\u00fcckkopplung-\r\nEffekt des Klimawandels nicht gerecht.\r\nBericht zum Zustand der deutschen Ostseegew\u00e4sser\r\nSeite\r\nZeile\r\nStellungnahme\r\nAllgemein\r\nWir begr\u00fc\u00dfen die Einladung zur \u00d6ffentlichkeitsbeteiligung und nehmen diese M\u00f6glichkeit der Teilnahme am Verfahren im Rahmen der Umsetzung\r\nder MSRL hiermit wahr. Gegenstand dieser Stellungnahme ist der \u201eEntwurf der MSRL-Zustandsbewertung der deutschen Nord- und Ostsee 2024 -\r\nAktualisierung der Anfangsbewertung nach \u00a7 45c, der Beschreibung des guten Zustands der Meeresgew\u00e4sser nach \u00a7 45d und der Festlegung von\r\nZielen nach \u00a7 45e des Wasserhaushaltsgesetzes zur Umsetzung der Meeresstrategie-Rahmenrichtlinie\u201c\r\n2.2 Nutzungen der Ostsee23 27-29 Diese \u201eInformationen\u201c sind f\u00fcr die Zustandsbeschreibung nicht relevant und bedienen ein bestimmtes Narrativ. Neutraler\r\nformulieren (\u201eEine kommerzielle Fischerei in der Ostsee findet bereits seit dem 19. Jahrhundert statt.\u201c).\r\n23 37-42 Westlicher Dorsch und Hering werden immer noch \u00fcberfischt. Die gezielte Fischerei wurde zwar geschlossen, aber auch die\r\nbeschlossenen Beifangquoten in den letzten Jahren befinden sich oberhalb der ICES Empfehlungen.\r\n25 2 Allerdings gehen die an die Fahrzeuge gebundenen Quoten zur\u00fcck an die BLE und k\u00f6nnen neu vergeben werden (Nachforderung\r\nvon Quote sind m\u00f6glich und Praxis).\r\n4.2 Kommerziell genutzte Fisch- und Schalentierbest\u00e4nde\r\n47\r\n27ff\r\n\u00d6kosystembasiertes Fischereimanagement/ Vorsorgeansatz sollten in Zielsetzung ber\u00fccksichtig werden\r\nDiese Zustandsbewertung orientiert sich am Umweltziel 4.1, nach dem alle wirtschaftlich genutzten Best\u00e4nde nach dem Ansatz des\r\nh\u00f6chstm\u00f6glichen Dauerertrags (MSY) bewirtschaftet werden sollen. Indikatoren hierf\u00fcr sind die fischereiliche Sterblichkeit (FMSY)\r\nsowie der Fangmenge-Biomasse-Quotient.\r\nAllerdings wird nicht ber\u00fccksichtigt, dass die Datenlage f\u00fcr Fischereimanagement oft mangelhaft ist (wie sich an der niedrigen\r\nKonfidenz der Zustandsbewertung zeigt), dass das \u00d6kosystem multiplen Stressoren ausgesetzt ist (Klimawandel, Verschmutzung,\r\netc.), und dass Nahrungsnetzbeziehungen zwischen verschiedenen Arten bestehen. Folglich sollten Sterblichkeitsraten prinzipiell\r\nunter FMSY liegen, um das zentrale Ziel der GFP zu erreichen (Erholung und Verbleib der Best\u00e4nde oberhalb eines Niveaus, das\r\nden MSY liefern kann). --> Um die langfristige Gesundheit der Best\u00e4nde zu gew\u00e4hrleisten, sollten in der Zielsetzung auch die\r\nPrinzipien des \u00f6kosystembasierten Fischereimanagements und der Vorsorgeansatz ber\u00fccksichtigt werden.\r\n51\r\n1ff\r\nFehlende Ber\u00fccksichtigung der Kondition von Arten\r\nKeines der Umweltziele f\u00fcr kommerziell genutzte Fischarten ber\u00fccksichtigt die Kondition von Arten. Dies ist besonders relevant, da\r\nsich die wandelnden Umweltbedingungen (u.a. Wassertemperatur, Sauerstoffgehalt) negativ auf die Kondition von Arten auswirken\r\nk\u00f6nnen. Zum Beispiel berichten Fischer*innen von der schlechten Kondition von westlichen und \u00f6stlichen Schollen in der Ostsee,\r\ndie auf einen schlechten Ern\u00e4hrungszustand hinweisen. Trotzdem wird der Zustand der Arten teilweise als gut bewertet. Hierzu gibt\r\nes bisher noch wenig wissenschaftliche Forschung (siehe u.a. Gauzens et al. 2024).\r\n52\r\n13ff\r\nFalschmeldungen (\u201cmisreporting\u201d) wird nicht erw\u00e4hnt\r\nZu den Belastungen werden mangelnde Monitoring von F\u00e4ngen und Fischereiaufwand genannt, aber die Falschmeldung von\r\nF\u00e4ngen (\u201cmisreporting\u201d) wird nicht genannt. In der Ostseefischerei ist z.B. die Falschmeldung von Hering als Sprotten und vice versa\r\nein signifikantes Problem.\r\n53\r\n11ff\r\nVorsorgeprinzip erw\u00e4hnenMit Blick auf die l\u00fcckenhafte Datenlage sowie die oft geringe Konfidenz bei bestehenden Daten (siehe Tabelle II.4.2-1.) sollte im\r\nAusblick die Wichtigkeit des Vorsorgeprinzips hervorgehoben werden. Bisher wird das Vorsorgeprinzip nirgendwo erw\u00e4hnt.\r\n53\r\n25ff\r\n\u00dcberfischung von neuen Fischarten fr\u00fchzeitig verhindern\r\nDer Zustandsbericht erw\u00e4hnt die M\u00f6glichkeit, dass sich neue Fischarten wie die Schwarzmundgrundel soweit etablieren, dass sie\r\neine gezielte fischereiliche Nutzung erm\u00f6glichen. Hierbei sollte erw\u00e4hnt werden, dass die Nutzung von neuen Arten nur mit einem\r\nfr\u00fchzeitig einsetzenden, \u00f6kosystembasierten Fischereimanagement einhergehen darf, um \u00dcberfischung zu verhindern.\r\n4.3 Eutrophierung\r\nAllg.\r\nZum Teil recht lang zur\u00fcckliegende Referenzperioden und gleichzeitig fortlaufend methodische Anpassungen, dadurch erschwerte\r\nVergleichbarkeit zwischen den Bewertungszeitr\u00e4umen. Positiv ist, dass Binnenland-Ma\u00dfnahmen im Rahmen der WRRL-\r\nBewirtschaftungspl\u00e4ne adressiert werden, um landseitige N\u00e4hrstoffeintr\u00e4ge \u00fcber die Fl\u00fcsse zu reduzieren.\r\nDie deutschen Stickstoffeintr\u00e4ge aus der Atmosph\u00e4re \u00fcbersteigen die Eintr\u00e4ge \u00fcber die Fl\u00fcsse. Daher muss f\u00fcr die Ostsee ein\r\nbesonderer Schwerpunkt auf die atmosph\u00e4rischen Eintr\u00e4ge gelegt werden.\r\nDie Verwendung abflussnormierter N\u00e4hrstoffkonzentrationen in Kombination mit der angestrebten Betrachtung der Gesamtfrachten\r\nist zu begr\u00fc\u00dfen. In der Landwirtschaft sind deutliche Verbesserungen sowohl hinsichtlich der N\u00e4hrstoffeintr\u00e4ge in die Fl\u00fcsse, als\r\nauch in die Atmosph\u00e4re notwendig.\r\n4.7 Abf\u00e4lle im Meer\r\n95 28 Der Vollst\u00e4ndigkeit halber, sollte hier zudem auf die Freisetzung klimawandelf\u00f6rdernden GHG-Emissionen entlang des kompletten\r\nLebenszyklus der Plastikproduktion und ihrer Folgen f\u00fcr die Meere hingewiesen werden (Quellen: z.B. Ford et al. 2022\r\nhttps://www.sciencedirect.com/science/article/pii/S0048969721054693 ; Royer et al. 2018\r\nhttps://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200574)\r\n96 3 \u201eambivalent\u201c ist an dieser Stelle untertrieben, Tourismus ist als einer der Haupteintragspfade von Plastikabfall ins Meer\r\neinzustufen.\r\n96 6-7 Textvorschlag: [\u2026], sehr hohe bzw. starke Belastung dar.\r\n97 3 Der als relevant eingestufte Parameter Mesom\u00fcll wird beschrieben, aber nicht verwendet. Gleiches gilt f\u00fcr Paraffin.97/98 Ab\r\nTabelleneintr\u00e4ge f\u00fcr Spalten \u201eGrundlage der Bewertung\u201c und \u201eEntwicklung (Zeitraum)\u201c\r\nZeile\r\nDie Tabelleneintr\u00e4ge sind in Teilen schlecht verst\u00e4ndlich.\r\n36:\r\nTabelle In der Zeile \u201eAbf\u00e4lle am Meeresboden\u201c steht in der Spalte \u201e2024\u201c \u201evorl\u00e4ufig Trend\u201c. Was ist hier gemeint?\r\nII.4.7-1 Prim\u00e4res Kriterium D10C2: nicht bewertet\r\nFrage: Wieso ist auch 12 Jahre nach der Anfangsbewertung noch kein belastbares Monitoringverfahren ausgew\u00e4hlt worden, um\r\nMikroabf\u00e4lle an der K\u00fcste, in Sedimenten und/oder in der Oberfl\u00e4chenschicht der Wassers\u00e4ule zu bewerten? Wissenschaftliche\r\nVerfahren existieren (zum Beispiel: Lenz et al. 2023\r\nhttps://www.sciencedirect.com/science/article/abs/pii/S0025326X23002618?via%3Dihub ).\r\n99 4-5 Was ist mit \u201eF\u00fcr die in den letzten Jahren in den Fokus gelangten Kategorien \u201eKunststoffe\u201c, \u201eEinwegplastikteile\u201c und\r\n\u201eFischereiger\u00e4te\u201c\u201c gemeint? Der Fokus liegt doch nicht erst in den letzten Jahren auf diesen Themen, sondern bereits seit\r\nmindestens 10 Jahren.\r\n99 13 Das Kriterium D10C1 ist f\u00fcr zwei von drei Indikatoren (Strand und Meeresgrund) nicht erreicht. Daher sollte der Gesamtzustand\r\nnicht als unbekannt, sondern als nicht erreicht eingestuft werden.\r\n4.8 Einleitung von Energie\r\n103 42ff\r\n104 Tabelle F\u00fcr die Schwellenwerte zu Dauerschall ist es essentiell, dass dieser sowohl f\u00fcr den absoluten L\u00e4rmpegel als auch f\u00fcr den \u201eexcess\r\n4.8-1 level\u201c festgelegt werden sollten. Einige Arten, die an eine nat\u00fcrlich laute Umgebung angepasst sind, reagieren m\u00f6glicherweise am\r\nempfindlichsten auf absolute Pegel, w\u00e4hrend andere Arten, die an relativ niedrige nat\u00fcrliche L\u00e4rmpegel gew\u00f6hnt sind, am\r\nempfindlichsten auf \u00fcberm\u00e4\u00dfige Pegel reagieren.\r\n105 19ff\r\nDa diese Textbox im Kapitel zur Einleitung von Energie steht, sollte hier bei den Umwelteffekten klar darauf hingewiesen werden,\r\ndass der Bau von Offshore-Windanlagen einen erheblichen und f\u00fcr die n\u00e4chsten Jahre steigenden Eintrag von L\u00e4rm und\r\nelektromagnetischer Energie durch die Kabel bedeutet. Dies ist nicht nur \u201epotenziell\u201c der Fall.\r\nDer L\u00e4rmeintrag durch Service-Verkehre kann allein durch die Analyse von AIS Daten nicht ausreichend bewertet werden, da in den\r\nWindparks Schiffe sich oft mit Motor positionieren bzw. die Position halten, was einen erheblichen L\u00e4rmeintrag bedeutet, der nicht\r\naus den AIS Daten ersichtlich ist.\r\nMit welchen Methoden wurden die Effekte auf den Schweinswal bewertet und woraus wurde der Schluss gezogen, dass es keinen\r\nEffekt f\u00fcr den Schweinswal gab?\r\n105\r\n37-38 Bewertungen an vielen Stellen (wie z.B. HELCOM HOLAS3) zeigen, dass der L\u00e4rmeintrag zu hoch ist und reduziert werden muss.\r\nAuch wenn es um viele Details wie der Wert von LOBE, Saisonalit\u00e4t, Indikatorarten etc. noch Unklarheiten gibt, so ist doch klar,dass der L\u00e4rmeintrag zu hoch ist. Dies sollte hier klar ausgedr\u00fcckt werden. Der gute Umweltzustand kann unter diesen Pr\u00e4missen\r\nnicht erreicht sein.\r\n108\r\n27ff\r\nWie im letzten Satz dieses Absatzes klar gemacht wird liegen hier noch keine belastbaren Ergebnisse vor, trotzdem wird im ersten\r\nSatz den marinen S\u00e4ugetieren ein guter Umweltzustand zugesprochen. Dies sollte vorsichtiger ausgedr\u00fcckt werden. In Anbetracht\r\nder Tatsache, dass inzwischen durch viele Publikationen klar ist, dass es in der Ostsee auch f\u00fcr marine S\u00e4ugetiere zu laut ist,\r\nsollten hier keine vorschnellen Aussagen getroffen werden, die einen guten Umweltzustand f\u00fcr die marinen S\u00e4ugetiere bezeugen.\r\n5.1.1 Fische\r\n110\r\n10 ff\r\nSchlechter Zustand der Schollen sollte erw\u00e4hnt werden\r\nAuf S. 110 (Z. 10ff) wird die Verschlechterung des physiologischen Zustands der beiden Dorschbest\u00e4nde in der Ostsee erw\u00e4hnt.\r\nHier sollten auch die Berichte von Fischer:innen \u00fcber die zunehmend schlechte Kondition von westlichen und \u00f6stlichen Schollen\r\nerw\u00e4hnt werden, auch wenn hierzu noch weitere Forschung notwendig ist (siehe u.a. Gauzens et al. 2024) .\r\n120\r\n8ff\r\nUnterkapitel zu Belastungen erw\u00e4hnt Grundschleppnetzfischerei nicht\r\nObwohl bei den Umweltzielen und Ma\u00dfnahmen die m\u00f6glichen negativen Auswirkungen grundgeschleppter Fangger\u00e4te\r\nber\u00fccksichtigt werden (siehe ZU 3.2, S. 122), wird die aktuelle Belastung durch Grundschleppnetzfischerei nicht dargestellt. (Andere\r\nBelastungen werden beschrieben.)\r\n121\r\n16ff\r\nDorschbeifang in Fischereien auf Plattfisch erw\u00e4hnen\r\nNeben der derzeit geringen Gr\u00f6\u00dfe des Laicherbestandes und ver\u00e4nderten Umweltbedingungen sollte auch der Beifang von Dorsch\r\nin Plattfischfischereien erw\u00e4hnt werden, wenn es um die Perspektiven f\u00fcr die die Bestandserholung des westlichen Ostseedorsches\r\ngeht. Auch die ICES Empfehlung vom 31. Mai 2023 f\u00fcr den westlichen Dorsch erw\u00e4hnt \u201cReducing the bycatch of cod in flatfish\r\nfisheries may enhance the recovery of the cod stocks.\u201d\r\n121 16ff Hier w\u00e4re auch nochmal Fisch-Beifang zu nennen, nicht nur Beispiele von Zielfischarten. (Durch Fischbeifang Einfluss auf\r\nNichtzielfischarten als auch indirekter Einfluss auf Zielfischarten, wenn es sich um Futterfisch handelt)\r\n121 16ff Zusammenbruch vom westlichen Hering erw\u00e4hnen\r\nNeben dem westlichen Dorsch sollte auch der westliche Ostseehering als Beispiel f\u00fcr einen Bestand genannt werden, der als\r\nResultat von \u00dcberfischung und sich wandelnden Umweltbedingungen zusammengebrochen ist.\r\n121\r\n30ff\r\nDieser Absatz sollte umformuliert werden, da nicht die Anlandeverpflichtung das Problem ist.123 17ff Hier sollte erw\u00e4hnt werden, dass die Fl\u00e4chen zwar benannt sind, aber effektiver Schutz bisher in gro\u00dfen Teilen nicht umgesetzt ist.\r\n123 42ff Ausnahmen f\u00fcr grundber\u00fchrende mobilen Fangger\u00e4ten in der 3-Seemeilenzone erw\u00e4hnen\r\n\u201eEbenso ist der Einsatz von Baumkurren in der gesamten Ostsee und von grundber\u00fchrenden mobilen Fangger\u00e4ten in der 3-\r\nSeemeilenzone verboten.\u201c Hier sollte erw\u00e4hnt werden, dass es Ausnahmen von dem Verbot in der 3-Seemeilenzone gibt, sogar in\r\nNatura-2000 Gebieten (siehe K\u00fcstenfischereiverordnungen von Schleswig-Holsein und Mecklenburg-Vorpommern).\r\n(K\u00fcstenFischereiVerordnung SH \u00a713 (3) 1-4// K\u00fcstenFischereiVerordnung MV \u00a710 (3) 1-7)\r\n124\r\n35\r\nVorsorgeansatz\r\nIn der \u201eSchlussfolgerung und Ausblick\u201c sollte der Vorsorgeansatz bei allen Aktivit\u00e4ten aufgrund von mangelnder Datenlage und\r\nniedriger Konfidenz erw\u00e4hnt werden.\r\n5.1.3 Marine S\u00e4ugetiere\r\n141 2ff Die bisherigen und potenziellen Belastungen durch den Klimawandel auf marine S\u00e4ugetiere, direkt (z.B. durch\r\nHabitatverschiebungen) und indirekt (z.B. durch Ver\u00e4nderung der Beutepopulationen), werden in dem Kapitel \u00fcberhaupt nicht\r\nber\u00fccksichtigt.\r\n141 35ff Bei den kumulativen Belastungen m\u00fcssen die Folgen des anthropogenen Klimawandels ber\u00fccksichtigt werden.\r\n141 42 Negative Auswirkungen auf die Population durch zu h\u00e4ufige St\u00f6rungen bzw. St\u00f6rungen \u00fcber ein zu gro\u00dfes Gebiet sind nicht nur\r\nm\u00f6glich, sondern wahrscheinlich.\r\n143 17ff F\u00fcr eine klare Ausdrucksweise und bessere Verst\u00e4ndlichkeit sollte es \u201cDie marinen S\u00e4ugetiere der deutschen Ostseegew\u00e4sser\r\nbefinden sich in einem schlechten Umweltzustand bzw. ung\u00fcnstigen Erhaltungszustand\u201d hei\u00dfen\r\n143 28ff Gerade in Anbetracht der Aufnahme des Gew\u00f6hnlichen Schweinswals (in der zentralen Ostsee) in den Anhang I des\r\n\u00dcbereinkommens zur Erhaltung der wandernden wild lebenden Tierarten (CMS) und dem damit einhergehenden h\u00f6chsten\r\nSchutzstatus, sind sofortige und drastische Ma\u00dfnahmen zum Schutz und insbesondere Ma\u00dfnahmen zur Beifangreduzierung\r\ndringend erforderlich. Es sollte zwingend das Vorsorgeprinzip gelten und nicht erst auf eine bessere Datenlage bis zur Umsetzung\r\nvon Ma\u00dfnahmen gewartet werden.5.2.2 Benthische Lebensr\u00e4ume\r\n161 22 \u201c72,6 % der Fl\u00e4che der deutschen Ostsee sind von grundber\u00fchrender Fischerei betroffen. Die Bereiche liegen in tieferem Wasser\r\nau\u00dferhalb der 3-sm-Zone.\u201d Hier sollte erw\u00e4hnt werden, dass es Ausnahmen von dem Verbot in der 3-Seemeilenzone gibt, sogar in\r\nNatura-2000 Gebieten (siehe K\u00fcstenfischereiverordnungen von Schleswig-Holstein und Mecklenburg-Vorpommern).\r\n172 24ff Das Vorsorgeprinzip sowie der ganzheitliche \u00d6kosystemansatz, m\u00fcssen bei der Bestimmung von Ma\u00dfnahmen sowie der\r\nErschaffung von R\u00fcckzugs- und Ruher\u00e4umen gelten und angewendet werden, vor allem in Anbetracht der zuk\u00fcnftig ansteigenden\r\nanthropogenen Nutzungen in benthischen Lebensr\u00e4umen (Offshore-Wind, H2-Gewinnung, Pipelines, Leitungen, etc.).\r\n5.3 \u00d6kosysteme und Nahrungsnetze\r\n175 28\r\n180 26-28\r\nDie Gesamtbewertung sollte anhand der beschriebenen drastischen Ver\u00e4nderungen lauten \u201ekein guter Zustand\u201c, auch wenn\r\nkonkrete Prognosen hinsichtlich der Auswirkung der Verschiebungen nicht gesichert m\u00f6glich sind.\r\nDie Aussage, dass die aktuellen Fischereima\u00dfnahmen nicht ausreichend sind, um \u201einsbesondere den Schutz von Schl\u00fcsselarten\r\nwie dem Hering und der Sprotte, die Energie von den unteren zu den h\u00f6heren trophischen Ebenen transportieren\u201c zu gew\u00e4hrleisten,\r\nist positiv zu bewerten, da sie die \u00f6kosystemare Funktion der Arten hervorhebt.\r\nAnlage 1 Erg\u00e4nzende nationale Indikatorbl\u00e4tter Nordsee\r\nSeite Name Indikatorblatt Tabellenzeile (Feld) Stellungnahme\r\n4 NAT-ANSDE-NUTR Kernbewertung Im Satz: \u201cDer flie\u00dfgew\u00e4sserspezifische Orientierungswert f\u00fcr gesamtphospor wird in\r\nallen Fl\u00fcssen au\u00dfer der Elbe bereits eingehalten\u201d sollte das Wort \u201cbereits\u201d gestrichen\r\nwerden.\r\n7 NAT-ANSDE-NUTR Ausblick Die Einheiten t und a der Ver\u00e4nderung der Fracht wurden nicht definiert.9 NAT-ANSDE-NUTR Ausblick Obere Tabelle: Trotz einer j\u00e4hrlichen Abnahme um die doppelte Fracht ist der Trend\r\nf\u00fcr die Betrachtung 2011-2019 nicht signifikant. Dies tritt auch noch bei anderen\r\nAuswertungen auf (siehe n\u00e4chster Punkt). Ist die Datenlage generell zu gering um\r\nSignifikanzen im Zeitraum 2011-2019 realistisch ergeben zu k\u00f6nnen? Dann sollte dies\r\nangef\u00fchrt werden und die Daten wom\u00f6glich statistisch anders ausgewertet werden.\r\n11 NAT-ANSDE-NUTR Ausblick Untere Tabelle: Auch hier ergibt sich selbst bei einem Faktor von 3,5 f\u00fcr die\r\nVerringerung der j\u00e4hrlichen Last keine Signifikanz der Werte. Ist die Datenlage\r\ngenerell zu gering um Signifikanzen ergeben zu k\u00f6nnen? Dann sollte dies angef\u00fchrt\r\nwerden und die Daten wom\u00f6glich statistisch anders ausgewertet werden.\r\n19 NAT-ANSDE-R-SSB/R Kernbewertung Zu \u201c5 von 10 bewerteten Best\u00e4nden erreichten das Indikatorziel von D3C3.\u201d: Im\r\nAbschnitt \u201cKernbotschaften\u201d davor waren es 6 von 10 bewerteten\r\nBest\u00e4nden.\r\nZu \u201cBest\u00e4nde mit einer als nur \u201cteilweise gut\u201d oder als \u201cnicht gut\u201d bewerteten\r\nAltersstruktur: die Bewertungen \u201cteilweise gut\u201d und \u201cnicht gut\u201d sollten in zwei separaten\r\nPunkten aufgef\u00fchrt werden.\r\n21 NAT-ANSDE-R-SSB/R Vertrauensw\u00fcrdigkeit Die Datenlage ist zu gering, f\u00fcr viele Arten liegt keine Bewertung vor (siehe Tabelle 1\r\nin Ergebnisse, S. 21)\r\n22 NAT-ANSDE-R-SSB/R Merkmal (Anhang III) Hier fehlen als Gr\u00fcnde noch Umweltverschmutzung und Verlust von Laichgr\u00fcnden\r\n42 NAT-ANSDE-Hg Ausblick\r\nAufgrund der unterschiedlichen Trends und einem bedenklichen Anstieg von 41 %\r\n\u00fcber 25 Jahre (auch wenn dieser unter dem H\u00f6chstgehalt liegt) sollte die Forschung\r\nzum Eintrag von Quecksilber aus dessen Senken ausgeweitet und eine Erweiterung\r\nder Datenerhebung stattfinden.66 Emissionen und Deposition Ausblick\r\nvon Stickstoffverbindungen Zu \u201cDie Einhaltung der Vorgaben des G\u00f6teborg-Protokolls und der EU NEC-RL f\u00fcr das\r\nZieljahr 2022 kann in 2022 \u00fcberpr\u00fcft werden.\u201d Das Jahr 2022 zur \u00dcberpr\u00fcfung ist\r\nbereits lange verstrichen.\r\n68 Schadstoffkonzentrationen\r\nam \u00dcbergabepunkt\r\nlimnisch/marin der in die\r\nNordsee m\u00fcndenden\r\nFl\u00fcsse Zu \u201cDer Gesamtzustand der in die Nordsee m\u00fcndenden Fl\u00fcsse\u2026\u201d: der deutschen in\r\ndie Nordsee m\u00fcndenden Fl\u00fcsse oder wirklich aller Fl\u00fcsse?\r\nKernbewertung\r\nAnlage 1 Erg\u00e4nzende nationale Indikatorbl\u00e4tter Ostsee\r\nSeite\r\nName Indikatorblatt\r\nTabellenzeile (Feld)\r\nStellungnahme"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

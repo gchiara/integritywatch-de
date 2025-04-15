@@ -1,0 +1,442 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-03-24T16:49:12.000+01:00",
+                "untilDate": "2024-07-02T00:05:32.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-24T16:49:12.000+01:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-07-02T00:05:32.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2023-03-10T16:31:57.000+01:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2024-07-02T00:05:32.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 17952,
+                "validFromDate": "2023-03-10T16:31:57.000+01:00",
+                "version": 2,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 6566,
+                "validFromDate": "2022-03-24T16:49:12.000+01:00",
+                "validUntilDate": "2023-03-10T16:31:57.000+01:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PROFESSION_ASSOC",
+            "de": "Berufsverband",
+            "en": "Professional association"
+        },
+        "activityDescription": "Der Verband ist ein Berufsverband, der als Standesorganisation die gemeinsamen rechtlichen, beruflichen, wirtschaftlichen und kulturellen Belange aller Angeh\u00f6rigen der freien Berufe vertritt. Als Dachverband vertritt der UFB e.V. neben Einzelmitgliedern auch verschiedene Verb\u00e4nde von Angeh\u00f6rigen der Freien Berufe.  \r\n\r\nDarunter f\u00e4llt:\r\nVertretung und Beratung aller Angeh\u00f6rigen Freier Berufe in Fragen ihrer beruflichen T\u00e4tigkeit,\r\nVertretung und Aufkl\u00e4rung in Fragen der Europ\u00e4ischen Union,\r\nHerausgabe von Informationen \u00fcber B\u00fcrof\u00fchrung, Betriebssteuern- und Freiberuflerhaftung,\r\nAufkl\u00e4rung \u00fcber die Pflichten als Arbeitgeber, vor allem im tariffreien Raum \u00fcber Mindestbez\u00fcge, Mindesturlaub, Anstellungs- und K\u00fcndigungsvoraussetzungen, Forderung nach Erh\u00f6hung der steuerlichen Absetzungsm\u00f6glichkeiten f\u00fcr Angeh\u00f6rige Freier Berufe, Forderung einer rein kapitalr\u00fcckgedeckten Altersversorgung in den Versorgungswerken der Freien Berufe,\r\nZusammenarbeit mit anderen Mittelstandsvereinigungen und Vereinigungen Freier Berufe,\r\nBeratung und Information von Vertretern aus Politik und Beh\u00f6rden,\r\nF\u00f6rderung der Forschung in Freien Berufen,\r\nF\u00f6rderung und Unterst\u00fctzung von Existenzgr\u00fcndungen,\r\nF\u00f6rderung von Erfahrungsaustausch und Kooperation unter Mitgliedern.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_SS_OLD_AGE",
+                "de": "Rente/Alterssicherung",
+                "en": "Old-age insurance"
+            },
+            {
+                "code": "FOI_SS_UNEMPLOYMENT",
+                "de": "Arbeitslosenversicherung",
+                "en": "Unemployment insurance"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_SS_BASIC",
+                "de": "Grundsicherung",
+                "en": "Basic security"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_RP_OTHER",
+                "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                "en": "Other in the field of \"Spatial planning, construction and housing\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_SS_ACCIDENT",
+                "de": "Unfallversicherung",
+                "en": "Accident insurance"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_RP_RESIDE",
+                "de": "Wohnen",
+                "en": "Reside"
+            },
+            {
+                "code": "FOI_SS_HEALTH",
+                "de": "Krankenversicherung",
+                "en": "Health insurance"
+            },
+            {
+                "code": "FOI_SA_ORGANIZATION",
+                "de": "Staatsorganisation",
+                "en": "State organization"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_SS_LONGTERM",
+                "de": "Pflegeversicherung",
+                "en": "Long term care"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_SERVICE",
+                "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                "en": "Public service"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_ADMINISTRATION",
+                "de": "Verwaltungstransparenz/Open Government",
+                "en": "Public administration"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_RP_CITY",
+                "de": "Stadtentwicklung",
+                "en": "Urban development"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "annualReports": {
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true
+    },
+    "clientIdentity": {
+        "clientsPresent": false
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "M\u00fcnchen",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Edelsbergstr.",
+            "streetNumber": "8 (4. OG)",
+            "type": "NATIONAL",
+            "zipCode": "80686"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@ufb.de"
+                }
+            ],
+            "phoneNumber": "+4989570070",
+            "websites": [
+                {
+                    "website": "www.ufb.de"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Peter",
+                "emails": [
+                    {
+                        "email": "info@ufb.de"
+                    }
+                ],
+                "function": "Mitglied des Vorstands",
+                "lastName": "von Borch",
+                "phoneNumber": "+4989570070"
+            },
+            {
+                "commonFirstName": "Friedrich",
+                "emails": [
+                    {
+                        "email": "info@ufb.de"
+                    }
+                ],
+                "function": "Mitglied des Vorstands",
+                "lastName": "Marx",
+                "phoneNumber": "+4989570070"
+            },
+            {
+                "commonFirstName": "Johann",
+                "emails": [
+                    {
+                        "email": "info@ufb.de"
+                    }
+                ],
+                "function": "Mitglied des Vorstands",
+                "lastName": "Stigler",
+                "phoneNumber": "+4989570070"
+            },
+            {
+                "commonFirstName": "Florian",
+                "emails": [
+                    {
+                        "email": "info@ufb.de"
+                    }
+                ],
+                "function": "Mitglied des Vorstands",
+                "lastName": "Sturm",
+                "phoneNumber": "+4989570070"
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2021-12-31",
+            "totalCount": 84
+        },
+        "membersPresent": true,
+        "membershipsPresent": false,
+        "name": "Union Freier Berufe e.V. - UFB",
+        "namedEmployees": [
+            {
+                "commonFirstName": "Susan",
+                "lastName": "Fischer"
+            }
+        ],
+        "namedEmployeesPresent": true
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "publicAllowancesPresent": false,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-03-10T16:31:57.000+01:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R003798/17952",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/dd/0e/199684/Lobbyregister-Detailansicht-R003798-2023-03-10_16-31-57.pdf",
+        "refusedAnything": true,
+        "validFromDate": "2023-03-10T16:31:57.000+01:00",
+        "version": 2
+    },
+    "registerEntryId": 17952,
+    "registerNumber": "R003798"
+}

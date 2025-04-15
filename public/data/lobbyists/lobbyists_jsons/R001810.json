@@ -1,0 +1,989 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-14T23:48:48.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-26T12:02:38.000+01:00",
+        "lastUpdateDate": "2024-06-19T16:05:55.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 35732,
+                "validFromDate": "2024-06-19T16:05:55.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27981,
+                "validFromDate": "2024-01-04T22:33:19.000+01:00",
+                "validUntilDate": "2024-06-19T16:05:55.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16431,
+                "validFromDate": "2023-02-14T23:48:48.000+01:00",
+                "validUntilDate": "2024-01-04T22:33:19.000+01:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_LAW_ORGA",
+            "de": "Privatrechtliche Organisation",
+            "en": "Private-law organization"
+        },
+        "activityDescription": "LiSL nimmt Interessenvertretung in allen Politikfeldern wahr, die die Belange von Lesben, Schwule, Bi-, Trans- und Intersexuelle oder Nichtdiskriminierung, Diversit\u00e4t und Geschlechterfragen insgesamt betreffen.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_SP_GENDER",
+                "de": "Geschlechterpolitik",
+                "en": "Gender politics"
+            },
+            {
+                "code": "FOI_FA_BRD",
+                "de": "Au\u00dfenpolitik",
+                "en": "Foreign policy of the federal republic of Germany"
+            },
+            {
+                "code": "FOI_SP_OTHER",
+                "de": "Sonstiges im Bereich \"Gesellschaftspolitik und soziale Gruppen\"",
+                "en": "Other in the field of \"Social politics and social groups\""
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_DEFENSE",
+                "de": "Verteidigung",
+                "en": "Defense"
+            },
+            {
+                "code": "FOI_SP_DIVERSITY",
+                "de": "Diversit\u00e4tspolitik",
+                "en": "Diversity policy"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_SERVICE",
+                "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                "en": "Public service"
+            },
+            {
+                "code": "FOI_LAS_OTHER",
+                "de": "Sonstiges im Bereich \"Sport, Freizeit und Tourismus\"",
+                "en": "Other in the field of \"Sports, leisure and tourism\""
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_SP_RELIGION",
+                "de": "Religion/Weltanschauung",
+                "en": "Religion/Belief"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_DEFENSE_AFFAIRS",
+                "de": "Bundeswehrangelegenheiten",
+                "en": "Bundeswehr affairs"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_RPI_REFUGEE",
+                "de": "Asyl und Fl\u00fcchtlingsschutz",
+                "en": "Asylum and refugee protection"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_LAW_CRIMINAL",
+                "de": "Strafrecht",
+                "en": "Criminal law"
+            },
+            {
+                "code": "FOI_IS_CRIME",
+                "de": "Kriminalit\u00e4tsbek\u00e4mpfung",
+                "en": "Fight against crime"
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            },
+            {
+                "code": "FOI_OTHER",
+                "de": "Sonstige Interessenbereiche",
+                "en": "Other areas",
+                "fieldOfInterestText": "Alle politischen Themenfelder, die einen Bezug zu LSBTI haben"
+            },
+            {
+                "code": "FOI_SP_FAMILY",
+                "de": "Familienpolitik",
+                "en": "Family policy"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/40/e4/299326/LiSL-EUR-2022.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 1,
+            "to": 10000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.0,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin ",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "c/o FDP",
+            "street": "Reinhardtstr. ",
+            "streetNumber": "14",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@lisl-deutschland.de"
+                }
+            ],
+            "phoneNumber": "+493057700583",
+            "websites": [
+                {
+                    "website": "www.lisl-deutschland.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Michael",
+                "lastName": "Kauch",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Sabine",
+                "lastName": "Bauckhage",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "J\u00f6rg",
+                "lastName": "Welling ",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Andre ",
+                "lastName": "Lehmann",
+                "recentGovernmentFunction": {
+                    "ended": false,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_MEMBER",
+                            "de": "Funktion f\u00fcr ein Mitglied des Deutschen Bundestages",
+                            "en": "Function for a member of the German Bundestag"
+                        },
+                        "functionPosition": "B\u00fcroleiter und Wissenschaftlicher Referent"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "firstName": "Philip",
+                "lastName": "Korsten",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Bj\u00f6rn",
+                "lastName": "Jacobs",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Rolf",
+                "lastName": "W\u00fcrz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Katrin",
+                "lastName": "M\u00fcnch",
+                "recentGovernmentFunction": {
+                    "ended": false,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_MEMBER",
+                            "de": "Funktion f\u00fcr ein Mitglied des Deutschen Bundestages",
+                            "en": "Function for a member of the German Bundestag"
+                        },
+                        "functionPosition": "Wahlkreismitarbeiterin"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "firstName": "Daniel",
+                "lastName": "R\u00fcdel",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr. Dr.",
+                "firstName": "Alexander",
+                "lastName": "Wulf",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Michael",
+                "function": "Bundesvorsitzender",
+                "lastName": "Kauch",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Sabine",
+                "function": "Stellvertretende Bundesvorsitzende",
+                "lastName": "Bauckhage",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "J\u00f6rg",
+                "function": "Stellvertretender Bundesvorsitzender",
+                "lastName": "Welling ",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Andre ",
+                "function": "Stellvertretender Bundesvorsitzender ",
+                "lastName": "Lehmann",
+                "recentGovernmentFunction": {
+                    "ended": false,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_MEMBER",
+                            "de": "Funktion f\u00fcr ein Mitglied des Deutschen Bundestages",
+                            "en": "Function for a member of the German Bundestag"
+                        },
+                        "functionPosition": "B\u00fcroleiter und Wissenschaftlicher Referent"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Philip",
+                "function": "Stellvertretender Bundesvorsitzender",
+                "lastName": "Korsten",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Bj\u00f6rn",
+                "function": "Bundesschatzmeister",
+                "lastName": "Jacobs",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-07",
+            "naturalPersons": 448,
+            "organizations": 0,
+            "totalCount": 448
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "LGBTI Liberals of Europe"
+            },
+            {
+                "membership": "ILGA Europe (The European Region of the International Lesbian, Gay, Trans and Intersex Association)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Liberale Schwule, Lesben, Bi, Trans und Queer e.V. (LiSL)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 10001,
+            "to": 20000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001810/35732",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-19T16:05:55.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/18/2c/299327/Lobbyregister-Detailansicht-R001810-2024-06-19_16-05-55.pdf",
+        "validFromDate": "2024-06-19T16:05:55.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 35732,
+    "registerNumber": "R001810",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BGB",
+                        "title": "B\u00fcrgerliches Gesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "LiSL setzt sich f\u00fcr eine Reform des Abstammungsrechts ein, die die Vorgaben des Koalitionsvertrages von SPD, B\u00fcndnis 90/Die Gr\u00fcnen und FDP umsetzt, um einen besseren Rechtsrahmen f\u00fcr Regenbogenfamilien zu schaffen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_CIVIL_RIGHT",
+                        "de": "Zivilrecht",
+                        "en": "Civil rights"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_FAMILY",
+                        "de": "Familienpolitik",
+                        "en": "Family policy"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_OTHER",
+                        "de": "Sonstige Interessenbereiche",
+                        "en": "Other areas",
+                        "fieldOfInterestText": "Alle politischen Themenfelder, die einen Bezug zu LSBTI haben"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003172",
+                "statements": [],
+                "title": "Abstammungsrecht"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "ESchG",
+                        "title": "Gesetz zum Schutz von Embryonen",
+                        "url": "https://www.gesetze-im-internet.de/eschg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "LiSL tritt f\u00fcr die Legalisierung der Leihmutterschaft und der Eizellspende in Deutschland ein.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_OTHER",
+                        "de": "Sonstige Interessenbereiche",
+                        "en": "Other areas",
+                        "fieldOfInterestText": "Alle politischen Themenfelder, die einen Bezug zu LSBTI haben"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_FAMILY",
+                        "de": "Familienpolitik",
+                        "en": "Family policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003173",
+                "statements": [],
+                "title": "Leihmutterschaft und Eizellspende"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GG",
+                        "title": "Grundgesetz f\u00fcr die Bundesrepublik Deutschland",
+                        "url": "https://www.gesetze-im-internet.de/gg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "LiSL tritt f\u00fcr die Erg\u00e4nzung von Artikel 3 (3) Grundgesetz um die \"sexuelle Identit\u00e4t\" ein.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_OTHER",
+                        "de": "Sonstige Interessenbereiche",
+                        "en": "Other areas",
+                        "fieldOfInterestText": "Alle politischen Themenfelder, die einen Bezug zu LSBTI haben"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_DIVERSITY",
+                        "de": "Diversit\u00e4tspolitik",
+                        "en": "Diversity policy"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_LAW_OTHER",
+                        "de": "Sonstiges im Bereich \"Recht\"",
+                        "en": "Other in the field of \"Law\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003174",
+                "statements": [],
+                "title": "Erg\u00e4nzung Artikel 3 Grundgesetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "KonvBehSchG",
+                        "title": "Gesetz zum Schutz vor Konversionsbehandlungen",
+                        "url": "https://www.gesetze-im-internet.de/konvbehschg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "LiSL fordert, wie im Koalitionsvertrag vorgesehen, die Streichung der Strafausnahmen beim Gesetz zu Konversionsbehandlungen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_OTHER",
+                        "de": "Sonstige Interessenbereiche",
+                        "en": "Other areas",
+                        "fieldOfInterestText": "Alle politischen Themenfelder, die einen Bezug zu LSBTI haben"
+                    },
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_OTHER",
+                        "de": "Sonstiges im Bereich \"Gesundheit\"",
+                        "en": "Other in the field of \"Health\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003175",
+                "statements": [],
+                "title": "Konversionsbehandlungen"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BGB",
+                        "title": "B\u00fcrgerliches Gesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "LiSL tritt, wie im Koalitionsvertrag vorgesehen, f\u00fcr die Beseitigung von Umgehungsm\u00f6glichkeiten beim Verbot von geschlechtsangleichenden Operation bei intersexuellen Kindern ein.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_OTHER",
+                        "de": "Sonstiges im Bereich \"Gesundheit\"",
+                        "en": "Other in the field of \"Health\""
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_OTHER",
+                        "de": "Sonstige Interessenbereiche",
+                        "en": "Other areas",
+                        "fieldOfInterestText": "Alle politischen Themenfelder, die einen Bezug zu LSBTI haben"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003176",
+                "statements": [],
+                "title": "Intersexuelle Kinder"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "LiSL tritt f\u00fcr eine Au\u00dfen- und Entwicklungspolitik ein, die die Menschenrechte von LSBTI in den internationalen Beziehungen st\u00e4rker gewichtet.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    },
+                    {
+                        "code": "FOI_OTHER",
+                        "de": "Sonstige Interessenbereiche",
+                        "en": "Other areas",
+                        "fieldOfInterestText": "Alle politischen Themenfelder, die einen Bezug zu LSBTI haben"
+                    },
+                    {
+                        "code": "FOI_FA_BRD",
+                        "de": "Au\u00dfenpolitik",
+                        "en": "Foreign policy of the federal republic of Germany"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003177",
+                "statements": [],
+                "title": "LSBTI-Menschenrechte in der Au\u00dfen- und Entwicklungspolitik"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "SGB 5",
+                        "title": "Sozialgesetzbuch (SGB) F\u00fcnftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)",
+                        "url": "https://www.gesetze-im-internet.de/sgb_5"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "LiSL tritt f\u00fcr eine verbesserte gesundheitliche Versorgung von Trans*personen, insbesondere hinsichtlich geschlechtsangleichender Ma\u00dfnahmen, ein. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_OTHER",
+                        "de": "Sonstiges im Bereich \"Gesundheit\"",
+                        "en": "Other in the field of \"Health\""
+                    },
+                    {
+                        "code": "FOI_OTHER",
+                        "de": "Sonstige Interessenbereiche",
+                        "en": "Other areas",
+                        "fieldOfInterestText": "Alle politischen Themenfelder, die einen Bezug zu LSBTI haben"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003178",
+                "statements": [],
+                "title": "Gesundheitsversorgung von Trans*"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "LiSL tritt daf\u00fcr ein, den Aktionsplan \"Queer leben\" mit Leben zu f\u00fcllen und damit verbunden Ma\u00dfnahmen zu ergreifen, die Hass entgegenwirken und zu Akzeptanz von LSBTI beitragen, z.B. hinsichtlich der Finanzierung der Bundesstiftung Magnus Hirschfeld, Diversity Management im \u00f6ffentlichen Dienst und in den Sicherheitsorganen, Schul- und Jugendaufkl\u00e4rungsprojekten, Diversity im Sport, Projekten f\u00fcr Regenbogenfamilien etc.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CRIME",
+                        "de": "Kriminalit\u00e4tsbek\u00e4mpfung",
+                        "en": "Fight against crime"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_OTHER",
+                        "de": "Sonstiges im Bereich \"Gesellschaftspolitik und soziale Gruppen\"",
+                        "en": "Other in the field of \"Social politics and social groups\""
+                    },
+                    {
+                        "code": "FOI_SP_FAMILY",
+                        "de": "Familienpolitik",
+                        "en": "Family policy"
+                    },
+                    {
+                        "code": "FOI_SP_DIVERSITY",
+                        "de": "Diversit\u00e4tspolitik",
+                        "en": "Diversity policy"
+                    },
+                    {
+                        "code": "FOI_WORK",
+                        "de": "Arbeit und Besch\u00e4ftigung",
+                        "en": "Work and employment"
+                    },
+                    {
+                        "code": "FOI_WORK_RIGHT",
+                        "de": "Arbeitsrecht/Arbeitsbedingungen",
+                        "en": "Work right"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_STATE_ADMIN",
+                        "de": "Staat und Verwaltung",
+                        "en": "Government and administration"
+                    },
+                    {
+                        "code": "FOI_SA_PUBLIC_SERVICE",
+                        "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                        "en": "Public service"
+                    },
+                    {
+                        "code": "FOI_EDUCATION_PARENTING",
+                        "de": "Bildung und Erziehung",
+                        "en": "Education and parenting"
+                    },
+                    {
+                        "code": "FOI_EP_SCHOOL",
+                        "de": "Schulische Bildung",
+                        "en": "School education"
+                    },
+                    {
+                        "code": "FOI_OTHER",
+                        "de": "Sonstige Interessenbereiche",
+                        "en": "Other areas",
+                        "fieldOfInterestText": "Alle politischen Themenfelder, die einen Bezug zu LSBTI haben"
+                    },
+                    {
+                        "code": "FOI_SP_GENDER",
+                        "de": "Geschlechterpolitik",
+                        "en": "Gender politics"
+                    },
+                    {
+                        "code": "FOI_LEISURE_AND_SPORT",
+                        "de": "Sport, Freizeit und Tourismus",
+                        "en": "Sports, leisure and tourism"
+                    },
+                    {
+                        "code": "FOI_LAS_OTHER",
+                        "de": "Sonstiges im Bereich \"Sport, Freizeit und Tourismus\"",
+                        "en": "Other in the field of \"Sports, leisure and tourism\""
+                    },
+                    {
+                        "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                        "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                        "en": "Migration, refugee policy and integration"
+                    },
+                    {
+                        "code": "FOI_RPI_REFUGEE",
+                        "de": "Asyl und Fl\u00fcchtlingsschutz",
+                        "en": "Asylum and refugee protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003179",
+                "statements": [],
+                "title": "Aktionsplan \"Queer Leben\" und zugeh\u00f6rige Ma\u00dfnahmen"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "ProstSchG",
+                        "title": "Gesetz zum Schutz von in der Prostitution t\u00e4tigen Personen",
+                        "url": "https://www.gesetze-im-internet.de/prostschg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "LiSL tritt f\u00fcr den Erhalt des Prostitutionsschutzgesetzes in der bisherigen Grundausrichtung ein und lehnt eine Ver\u00e4nderung in Richtung nordisches Modell mit der Strafbarkeit f\u00fcr Kundinnen und Kunden ein. Dabei bringen wir die besondere Perspektive der gleichgeschlechtlichen Sexarbeit in die Diskussion ein.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_OTHER",
+                        "de": "Sonstige Interessenbereiche",
+                        "en": "Other areas",
+                        "fieldOfInterestText": "Alle politischen Themenfelder, die einen Bezug zu LSBTI haben"
+                    },
+                    {
+                        "code": "FOI_WORK",
+                        "de": "Arbeit und Besch\u00e4ftigung",
+                        "en": "Work and employment"
+                    },
+                    {
+                        "code": "FOI_WORK_RIGHT",
+                        "de": "Arbeitsrecht/Arbeitsbedingungen",
+                        "en": "Work right"
+                    },
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_FAMILY",
+                        "de": "Familienpolitik",
+                        "en": "Family policy"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_CRIMINAL",
+                        "de": "Strafrecht",
+                        "en": "Criminal law"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003180",
+                "statements": [],
+                "title": "Sexarbeit: Verhinderung nordisches Modell"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

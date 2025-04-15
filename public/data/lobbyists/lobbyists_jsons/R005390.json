@@ -1,0 +1,802 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-10-24T14:05:24.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-10-24T14:05:24.000+02:00",
+        "lastUpdateDate": "2024-07-12T11:23:02.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 41468,
+                "validFromDate": "2024-07-12T11:23:02.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 32065,
+                "validFromDate": "2024-06-14T08:39:51.000+02:00",
+                "validUntilDate": "2024-07-12T11:23:02.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21116,
+                "validFromDate": "2023-07-24T13:34:34.000+02:00",
+                "validUntilDate": "2024-06-14T08:39:51.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 11881,
+                "validFromDate": "2022-10-24T14:05:24.000+02:00",
+                "validUntilDate": "2023-07-24T13:34:34.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PROFESSION_ASSOC",
+            "de": "Berufsverband",
+            "en": "Professional association"
+        },
+        "activityDescription": "Durch Anschreiben, Positionspapiere und pers\u00f6nliche Gespr\u00e4che sowie informative, politische oder medienwirksame Veranstaltungen, wie Hofgespr\u00e4che, Apfelsaisoner\u00f6ffnungen und Messen, wird unmittelbar der Kontakt und Austausch mit Politikerinnen und Politikern, insbesondere auch Mitgliedern des Deutschen Bundestages, gesucht.\r\n\r\nSchwerpunkt der Interessenvertretung sind die aktuell sehr gro\u00dfen Herausforderungen f\u00fcr die heimischen Obstbaufamilien. Ziel ist es guten Rahmenbedingungen f\u00fcr eine zukunftsf\u00e4hige Obstproduktion zu erreichen.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_AF_FOOD_SAFETY",
+                "de": "Lebensmittelsicherheit",
+                "en": "Food safety"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/e3/77/333959/Obstregion_Einnahmen_Ausgaben_Ueberschuss_2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.15,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 20001,
+            "to": 30000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Friedrichshafen",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Merkurstra\u00dfe",
+            "streetNumber": "7",
+            "type": "NATIONAL",
+            "zipCode": "88046"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "obstregion@obstvombodensee.de"
+                }
+            ],
+            "phoneNumber": "+497541402820",
+            "websites": [
+                {
+                    "website": "keine"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Erich",
+                "lastName": "R\u00f6hrenbach",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Heilig",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Andreas",
+                "lastName": "Ganal",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Erich",
+                "function": "Vorsitzender",
+                "lastName": "R\u00f6hrenbach",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Thomas",
+                "function": "Vorsitzender",
+                "lastName": "Heilig",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-01-01",
+            "naturalPersons": 0,
+            "organizations": 7,
+            "totalCount": 7
+        },
+        "membersPresent": true,
+        "membershipsPresent": false,
+        "name": "Obstregion Bodensee e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "Marktgemeinschaft Bodenseeobst eG"
+            },
+            {
+                "name": "W\u00fcrttembergische Obstgenossenschaft Raiffeisen e.G."
+            },
+            {
+                "name": "Obstbauring Tettnang e.V."
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 140001,
+            "to": 150000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Projekt \"Nachhaltige Produktion - Echt Bodenseeapfel\"\r\nUnter Federf\u00fchrung der Obstregion Bodensee e.V. bearbeiten die Akteure des Obstbaus am Bodensee ein durch das MLR gef\u00f6rdertes Nachhaltigkeitsprojekt. Dieses Projekt nimmt die Anforderungen unserer Gesellschaft auf und entwickelt M\u00f6glichkeiten f\u00fcr eine nachhaltige Weiterentwicklung des Obstbaus.",
+                "location": "Stuttgart",
+                "name": "Ministerium f\u00fcr Ern\u00e4hrung, l\u00e4ndlichen Raum und Verbraucherschutz Baden-W\u00fcrttemberg",
+                "publicAllowanceEuro": {
+                    "from": 250001,
+                    "to": 260000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R005390/41468",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-14T08:39:51.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/15/07/333960/Lobbyregister-Detailansicht-R005390-2024-07-12_11-23-02.pdf",
+        "validFromDate": "2024-07-12T11:23:02.000+02:00",
+        "version": 4
+    },
+    "registerEntryId": 41468,
+    "registerNumber": "R005390",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "MiLoG",
+                        "title": "Gesetz zur Regelung eines allgemeinen Mindestlohns",
+                        "url": "https://www.gesetze-im-internet.de/milog"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Der Anbau und die Ernte von Sonderkulturen, wie Obst- und Gem\u00fcse, sind sehr handarbeitsintensiv. Die sprunghafte Erh\u00f6hung des Mindestlohn hat die Arbeitskosten f\u00fcr Sonderkulturbetriebe \u00fcber das wirtschaftlich ertr\u00e4gliche Ma\u00df gesteigert und gef\u00e4hrdet die Produktion zahlreicher heimische Obstkulturen.\r\nZiel ist eine Branchenl\u00f6sung bei Mindestlohn f\u00fcr handarbeitsintensive Sonderkulturbetriebe zu erreichen, um den Verlust von Obstkulturen und -betrieben zu verhindern, die Versorgung mit heimischem Obst sicherzustellen sowie und die Selbstversorgung mit Obst aus Deutschland wieder zu steigern.\r\nVorschlag ist die Berechnung des Mindestlohns f\u00fcr kurzfristig besch\u00e4ftigte Erntehelfer in der Landwirtschaft auf Nettolohnbasis.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    },
+                    {
+                        "code": "FOI_WORK",
+                        "de": "Arbeit und Besch\u00e4ftigung",
+                        "en": "Work and employment"
+                    },
+                    {
+                        "code": "FOI_WORK_RIGHT",
+                        "de": "Arbeitsrecht/Arbeitsbedingungen",
+                        "en": "Work right"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002237",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a7/5a/291403/Stellungnahme-Gutachten-SG2405140003.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-16"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002237",
+                        "regulatoryProjectTitle": "Branchenl\u00f6sung bei Mindestlohn f\u00fcr handarbeitsintensive Sonderkulturbetriebe",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Petition f\u00fcr eine wettbewerbs- und zukunftsf\u00e4hige Landwirtschaft der Sonderkulturbetriebe am Bodensee\r\nAusgangssituation / Status quo\r\n-\r\nIn der deutschen Bodenseeregion produzieren rund 2.000 landwirtschaftliche Familienbetriebe auf rund 15.000 ha landwirtschaftlicher Fl\u00e4che Kernobst, Steinobst, Beeren, Gem\u00fcse, Weintrauben, Hopfen und weitere Sonderkulturen zu Versorgung der Bev\u00f6lkerung mit heimischen Lebensmitteln und f\u00fcr den Export. F\u00fcr diese Produktion besch\u00e4ftigen die Betriebe am Bodensee j\u00e4hrlich sch\u00e4tzungsweise rund 10.000 Saisonarbeitskr\u00e4fte, vorwiegend aus Osteuropa.\r\n-\r\nIm Rahmen der Sparma\u00dfnahmen der Bundesregierung wurden auch die Sonderkulturbetriebe am Bodensee mit Steuererh\u00f6hungen bei der KFZ-Steuer und beim Agrardiesel schwer belastet. Die Einf\u00fchrung der KFZ-Steuer wurde korrigiert, die Erstattungen beim Agrardiesel Stand heute nicht. Dies ist inakzeptabel. Wir fordern die komplette Zur\u00fccknahme der Abschaffung der steuerlichen Agrardieselr\u00fcckerstattung.\r\n-\r\n\u00dcber die aktuellen, finanziellen Belastungen hinaus erfahren die Betriebe seit vielen Jahren eine inflation\u00e4re und unertr\u00e4gliche Zunahme an Vorschriften, Verboten sowie Regulierungen und damit deutlichen Kostensteigerungen, Wettbewerbsnachteile und B\u00fcrokratie, die so nicht mehr hinnehmbar sind! Schlechte Rahmenbedingungen nehmen den Betrieben die letzte Luft zum Atmen. In Kombination mit schlechten Erl\u00f6sen und z.T. Dumping Wettbewerb (Lohnniveau, Sozial- und Produktionsstandards) aus dem Ausland fehlt den heimischen Familienbetrieben zunehmend die wirtschaftliche Basis. Die Folge wird sein, dass Betriebe aufgeben m\u00fcssen bzw. von jungen Hofnachfolgerinnen und Hofnachfolgern nicht mehr \u00fcbernommen werden. Der Selbstversorgungsgrad z.B. bei Obst und Gem\u00fcse wird noch weiter sinken. Die Abh\u00e4ngigkeit von Lebensmittelimporten, produziert zu ganz anderen Bedingungen, wird steigen. Dies alles geschieht nicht von heute auf morgen, sondern ist ein schleichender Prozess, der l\u00e4ngst begonnen hat.\r\nGespr\u00e4chsangebot / Zeitenwende / Agenda Zukunft Landwirtschaft\r\n-\r\nDie Bundesregierung und die sie tragenden Fraktionen im Deutschen Bundestag haben der Dt. Landwirtschaft einen Dialog angeboten. Dieser ist dringend notwendig und muss umgehend, ernsthaft, zielf\u00fchrend und glaubw\u00fcrdig begonnen werden, um zukunftsf\u00e4hige Ver\u00e4nderungen f\u00fcr die Familienbetriebe, insbesondere auch in den sehr speziellen Sonderkulturbetrieben zu erreichen. Wir sind dazu bereit und fordern eine Zeitenwende und Agenda Zukunft Landwirtschaft durch die Politik.\r\n2\r\nGespr\u00e4chsgrundlage / Handlungsbedarf / Wir fordern\r\nA)\r\nGesetzlicher Mindestlohn f\u00fcr Saisonarbeitskr\u00e4fte\r\nDie Produktion von Sonderkulturen wie Obst, Gem\u00fcse, Wein, Hopfen\u2026ist h\u00f6chst arbeitsintensiv. Mit Spitzenwerten bis zu 5.000 Akh/ha z.B. im Gem\u00fcsebau. Gleichzeitig hat Deutschland aktuell mit 12,41 \u20ac / Std. den zweith\u00f6chsten gesetzlichen Mindestlohn innerhalb der EU. 14 oder gar 15 \u20ac werden bereits politisch getrieben diskutiert. In Spanien z.B. ist der gesetzliche Mindestlohn nur halb so hoch wie in Deutschland, Italien hat gar keinen Mindestlohn. Bei gleichzeitig freiem Warenverkehr f\u00fchrt dies zu massiven Wettbewerbsnachteilen und macht die heimische Produktion unwirtschaftlich.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen branchenspezifischen Mindestlohn f\u00fcr die Landwirtschaft\r\n\u27a2\r\nEinen Netto-Mindestlohn f\u00fcr kurzfristig besch\u00e4ftigte Saisonmitarbeiter, mit Lebensmittelpunkt im Ausland / Heimatland\r\n\u27a2\r\nDie Aufhebung des Kriteriums \u201eBerufsm\u00e4\u00dfigkeit\u201c bei kurzfristig besch\u00e4ftigten Saisonmitarbeitern\r\nB)\r\nPflanzenschutz\r\nInsbesondere Sonderkulturen verlangen einen wirksamen Schutz gegen Krankheiten, Sch\u00e4dlinge und zunehmend neue Schaderreger, bedingt durch die klimatischen Ver\u00e4nderungen und die Globalisierung. Der Handel und die Endverbrauer erwarten gleichzeitig TOP Qualit\u00e4t und makellose Produkte.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen wirksamen und ideologiefreien Pflanzenschutz zur Sicherung der heimischen Lebensmittel, der Ernten und damit dem Einkommen der Familienbetriebe\r\n\u27a2\r\nEine ausreichende Wirkstoffverf\u00fcgbarkeit aller Kulturen beim Resistenzmanagement und zur Bek\u00e4mpfung von Krankheiten und Sch\u00e4dlingen\r\n\u27a2\r\nEndlich die Umsetzung der in der EU l\u00e4ngst gesetzlich verankerten zonalen Pflanzenschutzmittelzulassung zum Abbau von Produktionsnachteilen gegen\u00fcber anderen EU-Mitgliedsstaaten\r\n\u27a2\r\nHarmonisierte Anwendungsbestimmungen und Grenzwerte von heimisch produzierten Lebensmitteln zu Importware, in Verbindung mit verpflichtender Herkunfts- und Herstellerkennzeichnung\r\nC)\r\nRisikomanagement und Risikovorsorge\r\nSonderkulturen binden hohe und langfristige Investitionen, bei gleichzeitig zunehmenden Risiken und Gefahren, bedingt durch den Klimawandel und durch Wetterextreme.\r\n3\r\nWir fordern deshalb:\r\n\u27a2 Eine steuerfreie Risikoausgleichsr\u00fccklage und Gewinngl\u00e4ttung\r\n\u27a2 Eine einheitliche und fl\u00e4chendeckende Mehrgefahrenversicherung, Co-finanziert\r\ndurch EU / Bund / Land\r\n\u27a2 Vom Land und von der Wasserwirtschaft endlich eine praxistaugliche\r\nBew\u00e4sserungsstrategie (Wasserentnahme, Speicherbecken\u2026) zur Sicherung der\r\nProduktion von Sonderkulturen in der Zukunft.\r\n\u27a2 Die F\u00f6rderung von Innovationen und von Z\u00fcchtung\r\nDie Zeit ist reif f\u00fcr Ver\u00e4nderung, f\u00fcr eine Zeitenwende, f\u00fcr eine neue Agenda Zukunft\r\nLandwirtschaft. Wir sind dazu bereit. Jetzt! Sofort!\r\nUnsere Betriebe wollen einfach ihre t\u00e4gliche Arbeit tun. Nach guter fachlicher Praxis,\r\nentsprechend ihrer Ausbildung sowie nach bestem Wissen und Gewissen regionale,\r\ndeutsche Lebensmittel produzieren.\r\nNun ist die Politik am Zuge, wenn sie zuk\u00fcnftig noch Landwirtschaft in Deutschland\r\nwill und wenn sie es ehrlich und ernst meint!?\r\nDie Bodenseeverb\u00e4nde im Februar 2024"
+                        }
+                    }
+                ],
+                "title": "Branchenl\u00f6sung bei Mindestlohn f\u00fcr handarbeitsintensive Sonderkulturbetriebe"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Wirkstoffe f\u00fcr Pflanzenschutzmittel werden in der EU gemeinschaftlich genehmigt und Pflanzenschutzmittel mit diesen Wirkstoffen national zugelassen. Zulassungen k\u00f6nnen jedoch durch ein zonales Verfahren in mehreren L\u00e4ndern gemeinsam zugelassen werden oder von anderen L\u00e4ndern durch ein vereinfachtes Verfahren \u00fcbernommen werden.\r\nGefordert wird, dass die Bundesrepublik Deutschland mit ihren beteiligten Beh\u00f6rden davon Gebrauch macht, um Wettbewerbsnachteile f\u00fcr deutsche Landwirte abzubauen und Ern\u00e4hrungssicherheit in Deutschland zu steigern.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002238",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/af/fb/291405/Stellungnahme-Gutachten-SG2405220034.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-16"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002238",
+                        "regulatoryProjectTitle": "Zonale Zulassung und gegenseitig Anerkennung von Pflanzenschutzmitteln nutzen",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Petition f\u00fcr eine wettbewerbs- und zukunftsf\u00e4hige Landwirtschaft der Sonderkulturbetriebe am Bodensee\r\nAusgangssituation / Status quo\r\n-\r\nIn der deutschen Bodenseeregion produzieren rund 2.000 landwirtschaftliche Familienbetriebe auf rund 15.000 ha landwirtschaftlicher Fl\u00e4che Kernobst, Steinobst, Beeren, Gem\u00fcse, Weintrauben, Hopfen und weitere Sonderkulturen zu Versorgung der Bev\u00f6lkerung mit heimischen Lebensmitteln und f\u00fcr den Export. F\u00fcr diese Produktion besch\u00e4ftigen die Betriebe am Bodensee j\u00e4hrlich sch\u00e4tzungsweise rund 10.000 Saisonarbeitskr\u00e4fte, vorwiegend aus Osteuropa.\r\n-\r\nIm Rahmen der Sparma\u00dfnahmen der Bundesregierung wurden auch die Sonderkulturbetriebe am Bodensee mit Steuererh\u00f6hungen bei der KFZ-Steuer und beim Agrardiesel schwer belastet. Die Einf\u00fchrung der KFZ-Steuer wurde korrigiert, die Erstattungen beim Agrardiesel Stand heute nicht. Dies ist inakzeptabel. Wir fordern die komplette Zur\u00fccknahme der Abschaffung der steuerlichen Agrardieselr\u00fcckerstattung.\r\n-\r\n\u00dcber die aktuellen, finanziellen Belastungen hinaus erfahren die Betriebe seit vielen Jahren eine inflation\u00e4re und unertr\u00e4gliche Zunahme an Vorschriften, Verboten sowie Regulierungen und damit deutlichen Kostensteigerungen, Wettbewerbsnachteile und B\u00fcrokratie, die so nicht mehr hinnehmbar sind! Schlechte Rahmenbedingungen nehmen den Betrieben die letzte Luft zum Atmen. In Kombination mit schlechten Erl\u00f6sen und z.T. Dumping Wettbewerb (Lohnniveau, Sozial- und Produktionsstandards) aus dem Ausland fehlt den heimischen Familienbetrieben zunehmend die wirtschaftliche Basis. Die Folge wird sein, dass Betriebe aufgeben m\u00fcssen bzw. von jungen Hofnachfolgerinnen und Hofnachfolgern nicht mehr \u00fcbernommen werden. Der Selbstversorgungsgrad z.B. bei Obst und Gem\u00fcse wird noch weiter sinken. Die Abh\u00e4ngigkeit von Lebensmittelimporten, produziert zu ganz anderen Bedingungen, wird steigen. Dies alles geschieht nicht von heute auf morgen, sondern ist ein schleichender Prozess, der l\u00e4ngst begonnen hat.\r\nGespr\u00e4chsangebot / Zeitenwende / Agenda Zukunft Landwirtschaft\r\n-\r\nDie Bundesregierung und die sie tragenden Fraktionen im Deutschen Bundestag haben der Dt. Landwirtschaft einen Dialog angeboten. Dieser ist dringend notwendig und muss umgehend, ernsthaft, zielf\u00fchrend und glaubw\u00fcrdig begonnen werden, um zukunftsf\u00e4hige Ver\u00e4nderungen f\u00fcr die Familienbetriebe, insbesondere auch in den sehr speziellen Sonderkulturbetrieben zu erreichen. Wir sind dazu bereit und fordern eine Zeitenwende und Agenda Zukunft Landwirtschaft durch die Politik.\r\n2\r\nGespr\u00e4chsgrundlage / Handlungsbedarf / Wir fordern\r\nA)\r\nGesetzlicher Mindestlohn f\u00fcr Saisonarbeitskr\u00e4fte\r\nDie Produktion von Sonderkulturen wie Obst, Gem\u00fcse, Wein, Hopfen\u2026ist h\u00f6chst arbeitsintensiv. Mit Spitzenwerten bis zu 5.000 Akh/ha z.B. im Gem\u00fcsebau. Gleichzeitig hat Deutschland aktuell mit 12,41 \u20ac / Std. den zweith\u00f6chsten gesetzlichen Mindestlohn innerhalb der EU. 14 oder gar 15 \u20ac werden bereits politisch getrieben diskutiert. In Spanien z.B. ist der gesetzliche Mindestlohn nur halb so hoch wie in Deutschland, Italien hat gar keinen Mindestlohn. Bei gleichzeitig freiem Warenverkehr f\u00fchrt dies zu massiven Wettbewerbsnachteilen und macht die heimische Produktion unwirtschaftlich.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen branchenspezifischen Mindestlohn f\u00fcr die Landwirtschaft\r\n\u27a2\r\nEinen Netto-Mindestlohn f\u00fcr kurzfristig besch\u00e4ftigte Saisonmitarbeiter, mit Lebensmittelpunkt im Ausland / Heimatland\r\n\u27a2\r\nDie Aufhebung des Kriteriums \u201eBerufsm\u00e4\u00dfigkeit\u201c bei kurzfristig besch\u00e4ftigten Saisonmitarbeitern\r\nB)\r\nPflanzenschutz\r\nInsbesondere Sonderkulturen verlangen einen wirksamen Schutz gegen Krankheiten, Sch\u00e4dlinge und zunehmend neue Schaderreger, bedingt durch die klimatischen Ver\u00e4nderungen und die Globalisierung. Der Handel und die Endverbrauer erwarten gleichzeitig TOP Qualit\u00e4t und makellose Produkte.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen wirksamen und ideologiefreien Pflanzenschutz zur Sicherung der heimischen Lebensmittel, der Ernten und damit dem Einkommen der Familienbetriebe\r\n\u27a2\r\nEine ausreichende Wirkstoffverf\u00fcgbarkeit aller Kulturen beim Resistenzmanagement und zur Bek\u00e4mpfung von Krankheiten und Sch\u00e4dlingen\r\n\u27a2\r\nEndlich die Umsetzung der in der EU l\u00e4ngst gesetzlich verankerten zonalen Pflanzenschutzmittelzulassung zum Abbau von Produktionsnachteilen gegen\u00fcber anderen EU-Mitgliedsstaaten\r\n\u27a2\r\nHarmonisierte Anwendungsbestimmungen und Grenzwerte von heimisch produzierten Lebensmitteln zu Importware, in Verbindung mit verpflichtender Herkunfts- und Herstellerkennzeichnung\r\nC)\r\nRisikomanagement und Risikovorsorge\r\nSonderkulturen binden hohe und langfristige Investitionen, bei gleichzeitig zunehmenden Risiken und Gefahren, bedingt durch den Klimawandel und durch Wetterextreme.\r\n3\r\nWir fordern deshalb:\r\n\u27a2 Eine steuerfreie Risikoausgleichsr\u00fccklage und Gewinngl\u00e4ttung\r\n\u27a2 Eine einheitliche und fl\u00e4chendeckende Mehrgefahrenversicherung, Co-finanziert\r\ndurch EU / Bund / Land\r\n\u27a2 Vom Land und von der Wasserwirtschaft endlich eine praxistaugliche\r\nBew\u00e4sserungsstrategie (Wasserentnahme, Speicherbecken\u2026) zur Sicherung der\r\nProduktion von Sonderkulturen in der Zukunft.\r\n\u27a2 Die F\u00f6rderung von Innovationen und von Z\u00fcchtung\r\nDie Zeit ist reif f\u00fcr Ver\u00e4nderung, f\u00fcr eine Zeitenwende, f\u00fcr eine neue Agenda Zukunft\r\nLandwirtschaft. Wir sind dazu bereit. Jetzt! Sofort!\r\nUnsere Betriebe wollen einfach ihre t\u00e4gliche Arbeit tun. Nach guter fachlicher Praxis,\r\nentsprechend ihrer Ausbildung sowie nach bestem Wissen und Gewissen regionale,\r\ndeutsche Lebensmittel produzieren.\r\nNun ist die Politik am Zuge, wenn sie zuk\u00fcnftig noch Landwirtschaft in Deutschland\r\nwill und wenn sie es ehrlich und ernst meint!?\r\nDie Bodenseeverb\u00e4nde im Februar 2024"
+                        }
+                    }
+                ],
+                "title": "Zonale Zulassung und gegenseitig Anerkennung von Pflanzenschutzmitteln nutzen"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "SGB 4",
+                        "title": "Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften f\u00fcr die Sozialversicherung - (Artikel I des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845)",
+                        "url": "https://www.gesetze-im-internet.de/sgb_4"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Das Kriterium der Berufsm\u00e4\u00dfigkeit zur Pr\u00fcfung der Sozialversicherungspflicht ist f\u00fcr ausl\u00e4ndische Erntehelfer aufgrund eingeschr\u00e4nkter Informationsquellen zu Besch\u00e4ftigungen im Heimatland kaum abzupr\u00fcfen und der b\u00fcrokratische Aufwand sowie die sprachliche und verwaltungsrechtlichen H\u00fcrden sind enorm hoch.\r\n\r\nTrotz des sehr hohen b\u00fcrokratischen Aufwands und gewissenhafter Pr\u00fcfung drohen f\u00fcr die Arbeitgeber hohe R\u00fcckzahlungen \u00fcber mehrere Jahre bei einer Kontrolle, aufgrund von unterschiedlichen Auslegungen durch die Kontrollierenden oder falschen Angaben der\r\nBesch\u00e4ftigten.\r\nDieses Problem muss aufgel\u00f6st werden und Rechtssicherheit f\u00fcr die Arbeitgeber geschaffen werden, indem das Kriterium der Berufsm\u00e4\u00dfigkeit durch beispielsweise eine Lohngrenze ersetzt wird.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_WORK",
+                        "de": "Arbeit und Besch\u00e4ftigung",
+                        "en": "Work and employment"
+                    },
+                    {
+                        "code": "FOI_WORK_RIGHT",
+                        "de": "Arbeitsrecht/Arbeitsbedingungen",
+                        "en": "Work right"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002239",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/0e/a4/291407/Stellungnahme-Gutachten-SG2405220035.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-16"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002239",
+                        "regulatoryProjectTitle": "Kriterium der Berufsm\u00e4\u00dfigkeit bei der Pr\u00fcfung der Sozialversicherungspflicht ersetzen",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Petition f\u00fcr eine wettbewerbs- und zukunftsf\u00e4hige Landwirtschaft der Sonderkulturbetriebe am Bodensee\r\nAusgangssituation / Status quo\r\n-\r\nIn der deutschen Bodenseeregion produzieren rund 2.000 landwirtschaftliche Familienbetriebe auf rund 15.000 ha landwirtschaftlicher Fl\u00e4che Kernobst, Steinobst, Beeren, Gem\u00fcse, Weintrauben, Hopfen und weitere Sonderkulturen zu Versorgung der Bev\u00f6lkerung mit heimischen Lebensmitteln und f\u00fcr den Export. F\u00fcr diese Produktion besch\u00e4ftigen die Betriebe am Bodensee j\u00e4hrlich sch\u00e4tzungsweise rund 10.000 Saisonarbeitskr\u00e4fte, vorwiegend aus Osteuropa.\r\n-\r\nIm Rahmen der Sparma\u00dfnahmen der Bundesregierung wurden auch die Sonderkulturbetriebe am Bodensee mit Steuererh\u00f6hungen bei der KFZ-Steuer und beim Agrardiesel schwer belastet. Die Einf\u00fchrung der KFZ-Steuer wurde korrigiert, die Erstattungen beim Agrardiesel Stand heute nicht. Dies ist inakzeptabel. Wir fordern die komplette Zur\u00fccknahme der Abschaffung der steuerlichen Agrardieselr\u00fcckerstattung.\r\n-\r\n\u00dcber die aktuellen, finanziellen Belastungen hinaus erfahren die Betriebe seit vielen Jahren eine inflation\u00e4re und unertr\u00e4gliche Zunahme an Vorschriften, Verboten sowie Regulierungen und damit deutlichen Kostensteigerungen, Wettbewerbsnachteile und B\u00fcrokratie, die so nicht mehr hinnehmbar sind! Schlechte Rahmenbedingungen nehmen den Betrieben die letzte Luft zum Atmen. In Kombination mit schlechten Erl\u00f6sen und z.T. Dumping Wettbewerb (Lohnniveau, Sozial- und Produktionsstandards) aus dem Ausland fehlt den heimischen Familienbetrieben zunehmend die wirtschaftliche Basis. Die Folge wird sein, dass Betriebe aufgeben m\u00fcssen bzw. von jungen Hofnachfolgerinnen und Hofnachfolgern nicht mehr \u00fcbernommen werden. Der Selbstversorgungsgrad z.B. bei Obst und Gem\u00fcse wird noch weiter sinken. Die Abh\u00e4ngigkeit von Lebensmittelimporten, produziert zu ganz anderen Bedingungen, wird steigen. Dies alles geschieht nicht von heute auf morgen, sondern ist ein schleichender Prozess, der l\u00e4ngst begonnen hat.\r\nGespr\u00e4chsangebot / Zeitenwende / Agenda Zukunft Landwirtschaft\r\n-\r\nDie Bundesregierung und die sie tragenden Fraktionen im Deutschen Bundestag haben der Dt. Landwirtschaft einen Dialog angeboten. Dieser ist dringend notwendig und muss umgehend, ernsthaft, zielf\u00fchrend und glaubw\u00fcrdig begonnen werden, um zukunftsf\u00e4hige Ver\u00e4nderungen f\u00fcr die Familienbetriebe, insbesondere auch in den sehr speziellen Sonderkulturbetrieben zu erreichen. Wir sind dazu bereit und fordern eine Zeitenwende und Agenda Zukunft Landwirtschaft durch die Politik.\r\n2\r\nGespr\u00e4chsgrundlage / Handlungsbedarf / Wir fordern\r\nA)\r\nGesetzlicher Mindestlohn f\u00fcr Saisonarbeitskr\u00e4fte\r\nDie Produktion von Sonderkulturen wie Obst, Gem\u00fcse, Wein, Hopfen\u2026ist h\u00f6chst arbeitsintensiv. Mit Spitzenwerten bis zu 5.000 Akh/ha z.B. im Gem\u00fcsebau. Gleichzeitig hat Deutschland aktuell mit 12,41 \u20ac / Std. den zweith\u00f6chsten gesetzlichen Mindestlohn innerhalb der EU. 14 oder gar 15 \u20ac werden bereits politisch getrieben diskutiert. In Spanien z.B. ist der gesetzliche Mindestlohn nur halb so hoch wie in Deutschland, Italien hat gar keinen Mindestlohn. Bei gleichzeitig freiem Warenverkehr f\u00fchrt dies zu massiven Wettbewerbsnachteilen und macht die heimische Produktion unwirtschaftlich.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen branchenspezifischen Mindestlohn f\u00fcr die Landwirtschaft\r\n\u27a2\r\nEinen Netto-Mindestlohn f\u00fcr kurzfristig besch\u00e4ftigte Saisonmitarbeiter, mit Lebensmittelpunkt im Ausland / Heimatland\r\n\u27a2\r\nDie Aufhebung des Kriteriums \u201eBerufsm\u00e4\u00dfigkeit\u201c bei kurzfristig besch\u00e4ftigten Saisonmitarbeitern\r\nB)\r\nPflanzenschutz\r\nInsbesondere Sonderkulturen verlangen einen wirksamen Schutz gegen Krankheiten, Sch\u00e4dlinge und zunehmend neue Schaderreger, bedingt durch die klimatischen Ver\u00e4nderungen und die Globalisierung. Der Handel und die Endverbrauer erwarten gleichzeitig TOP Qualit\u00e4t und makellose Produkte.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen wirksamen und ideologiefreien Pflanzenschutz zur Sicherung der heimischen Lebensmittel, der Ernten und damit dem Einkommen der Familienbetriebe\r\n\u27a2\r\nEine ausreichende Wirkstoffverf\u00fcgbarkeit aller Kulturen beim Resistenzmanagement und zur Bek\u00e4mpfung von Krankheiten und Sch\u00e4dlingen\r\n\u27a2\r\nEndlich die Umsetzung der in der EU l\u00e4ngst gesetzlich verankerten zonalen Pflanzenschutzmittelzulassung zum Abbau von Produktionsnachteilen gegen\u00fcber anderen EU-Mitgliedsstaaten\r\n\u27a2\r\nHarmonisierte Anwendungsbestimmungen und Grenzwerte von heimisch produzierten Lebensmitteln zu Importware, in Verbindung mit verpflichtender Herkunfts- und Herstellerkennzeichnung\r\nC)\r\nRisikomanagement und Risikovorsorge\r\nSonderkulturen binden hohe und langfristige Investitionen, bei gleichzeitig zunehmenden Risiken und Gefahren, bedingt durch den Klimawandel und durch Wetterextreme.\r\n3\r\nWir fordern deshalb:\r\n\u27a2 Eine steuerfreie Risikoausgleichsr\u00fccklage und Gewinngl\u00e4ttung\r\n\u27a2 Eine einheitliche und fl\u00e4chendeckende Mehrgefahrenversicherung, Co-finanziert\r\ndurch EU / Bund / Land\r\n\u27a2 Vom Land und von der Wasserwirtschaft endlich eine praxistaugliche\r\nBew\u00e4sserungsstrategie (Wasserentnahme, Speicherbecken\u2026) zur Sicherung der\r\nProduktion von Sonderkulturen in der Zukunft.\r\n\u27a2 Die F\u00f6rderung von Innovationen und von Z\u00fcchtung\r\nDie Zeit ist reif f\u00fcr Ver\u00e4nderung, f\u00fcr eine Zeitenwende, f\u00fcr eine neue Agenda Zukunft\r\nLandwirtschaft. Wir sind dazu bereit. Jetzt! Sofort!\r\nUnsere Betriebe wollen einfach ihre t\u00e4gliche Arbeit tun. Nach guter fachlicher Praxis,\r\nentsprechend ihrer Ausbildung sowie nach bestem Wissen und Gewissen regionale,\r\ndeutsche Lebensmittel produzieren.\r\nNun ist die Politik am Zuge, wenn sie zuk\u00fcnftig noch Landwirtschaft in Deutschland\r\nwill und wenn sie es ehrlich und ernst meint!?\r\nDie Bodenseeverb\u00e4nde im Februar 2024"
+                        }
+                    }
+                ],
+                "title": "Kriterium der Berufsm\u00e4\u00dfigkeit bei der Pr\u00fcfung der Sozialversicherungspflicht ersetzen"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "LMIDV",
+                        "title": "Verordnung zur Durchf\u00fchrung unionsrechtlicher Vorschriften betreffend die Information der Verbraucher \u00fcber Lebensmittel",
+                        "url": "https://www.gesetze-im-internet.de/lmidv"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Das deutsche Recht schreibt nur unzureichend vor, welche Herkunftsangaben auf verarbeiteten Produkten stehen m\u00fcssen. Oftmals ist nur die Firma genannt, welche f\u00fcr das Produkt verantwortlich ist und \u00fcber die Herkunft der Hauptzutaten ist dabei nichts bekannt. Beispielsweise kommt ein gro\u00dfer Teil des in Deutschland verwendeten Apfelsaftkonzentrats aus China, was f\u00fcr den Kunden nicht ersichtlich ist.\r\nUm den Verbrauchern m\u00fcndige Entscheidungen beim Einkauf zu erm\u00f6glichen, m\u00fcssen Informationen \u00fcber die Herkunft der Produkte und Zutaten verpflichtend auf den Verpackungen genannt werden.\r\nNur wenn regionale Lebensmittel auch als solche erkannt werden, k\u00f6nnen diese auch bevorzugt werden.\r\nEine verpflichtende Herkunftskennzeichnung f\u00fcr verarbeitete Lebensmittel (wertgebende Zutaten) ist n\u00f6tig.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_SAFETY",
+                        "de": "Lebensmittelsicherheit",
+                        "en": "Food safety"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002240",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/9e/83/291409/Stellungnahme-Gutachten-SG2405220036.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-16"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002240",
+                        "regulatoryProjectTitle": "Herkunftskennzeichnung f\u00fcr verarbeitete Produkte einf\u00fchren",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Petition f\u00fcr eine wettbewerbs- und zukunftsf\u00e4hige Landwirtschaft der Sonderkulturbetriebe am Bodensee\r\nAusgangssituation / Status quo\r\n-\r\nIn der deutschen Bodenseeregion produzieren rund 2.000 landwirtschaftliche Familienbetriebe auf rund 15.000 ha landwirtschaftlicher Fl\u00e4che Kernobst, Steinobst, Beeren, Gem\u00fcse, Weintrauben, Hopfen und weitere Sonderkulturen zu Versorgung der Bev\u00f6lkerung mit heimischen Lebensmitteln und f\u00fcr den Export. F\u00fcr diese Produktion besch\u00e4ftigen die Betriebe am Bodensee j\u00e4hrlich sch\u00e4tzungsweise rund 10.000 Saisonarbeitskr\u00e4fte, vorwiegend aus Osteuropa.\r\n-\r\nIm Rahmen der Sparma\u00dfnahmen der Bundesregierung wurden auch die Sonderkulturbetriebe am Bodensee mit Steuererh\u00f6hungen bei der KFZ-Steuer und beim Agrardiesel schwer belastet. Die Einf\u00fchrung der KFZ-Steuer wurde korrigiert, die Erstattungen beim Agrardiesel Stand heute nicht. Dies ist inakzeptabel. Wir fordern die komplette Zur\u00fccknahme der Abschaffung der steuerlichen Agrardieselr\u00fcckerstattung.\r\n-\r\n\u00dcber die aktuellen, finanziellen Belastungen hinaus erfahren die Betriebe seit vielen Jahren eine inflation\u00e4re und unertr\u00e4gliche Zunahme an Vorschriften, Verboten sowie Regulierungen und damit deutlichen Kostensteigerungen, Wettbewerbsnachteile und B\u00fcrokratie, die so nicht mehr hinnehmbar sind! Schlechte Rahmenbedingungen nehmen den Betrieben die letzte Luft zum Atmen. In Kombination mit schlechten Erl\u00f6sen und z.T. Dumping Wettbewerb (Lohnniveau, Sozial- und Produktionsstandards) aus dem Ausland fehlt den heimischen Familienbetrieben zunehmend die wirtschaftliche Basis. Die Folge wird sein, dass Betriebe aufgeben m\u00fcssen bzw. von jungen Hofnachfolgerinnen und Hofnachfolgern nicht mehr \u00fcbernommen werden. Der Selbstversorgungsgrad z.B. bei Obst und Gem\u00fcse wird noch weiter sinken. Die Abh\u00e4ngigkeit von Lebensmittelimporten, produziert zu ganz anderen Bedingungen, wird steigen. Dies alles geschieht nicht von heute auf morgen, sondern ist ein schleichender Prozess, der l\u00e4ngst begonnen hat.\r\nGespr\u00e4chsangebot / Zeitenwende / Agenda Zukunft Landwirtschaft\r\n-\r\nDie Bundesregierung und die sie tragenden Fraktionen im Deutschen Bundestag haben der Dt. Landwirtschaft einen Dialog angeboten. Dieser ist dringend notwendig und muss umgehend, ernsthaft, zielf\u00fchrend und glaubw\u00fcrdig begonnen werden, um zukunftsf\u00e4hige Ver\u00e4nderungen f\u00fcr die Familienbetriebe, insbesondere auch in den sehr speziellen Sonderkulturbetrieben zu erreichen. Wir sind dazu bereit und fordern eine Zeitenwende und Agenda Zukunft Landwirtschaft durch die Politik.\r\n2\r\nGespr\u00e4chsgrundlage / Handlungsbedarf / Wir fordern\r\nA)\r\nGesetzlicher Mindestlohn f\u00fcr Saisonarbeitskr\u00e4fte\r\nDie Produktion von Sonderkulturen wie Obst, Gem\u00fcse, Wein, Hopfen\u2026ist h\u00f6chst arbeitsintensiv. Mit Spitzenwerten bis zu 5.000 Akh/ha z.B. im Gem\u00fcsebau. Gleichzeitig hat Deutschland aktuell mit 12,41 \u20ac / Std. den zweith\u00f6chsten gesetzlichen Mindestlohn innerhalb der EU. 14 oder gar 15 \u20ac werden bereits politisch getrieben diskutiert. In Spanien z.B. ist der gesetzliche Mindestlohn nur halb so hoch wie in Deutschland, Italien hat gar keinen Mindestlohn. Bei gleichzeitig freiem Warenverkehr f\u00fchrt dies zu massiven Wettbewerbsnachteilen und macht die heimische Produktion unwirtschaftlich.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen branchenspezifischen Mindestlohn f\u00fcr die Landwirtschaft\r\n\u27a2\r\nEinen Netto-Mindestlohn f\u00fcr kurzfristig besch\u00e4ftigte Saisonmitarbeiter, mit Lebensmittelpunkt im Ausland / Heimatland\r\n\u27a2\r\nDie Aufhebung des Kriteriums \u201eBerufsm\u00e4\u00dfigkeit\u201c bei kurzfristig besch\u00e4ftigten Saisonmitarbeitern\r\nB)\r\nPflanzenschutz\r\nInsbesondere Sonderkulturen verlangen einen wirksamen Schutz gegen Krankheiten, Sch\u00e4dlinge und zunehmend neue Schaderreger, bedingt durch die klimatischen Ver\u00e4nderungen und die Globalisierung. Der Handel und die Endverbrauer erwarten gleichzeitig TOP Qualit\u00e4t und makellose Produkte.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen wirksamen und ideologiefreien Pflanzenschutz zur Sicherung der heimischen Lebensmittel, der Ernten und damit dem Einkommen der Familienbetriebe\r\n\u27a2\r\nEine ausreichende Wirkstoffverf\u00fcgbarkeit aller Kulturen beim Resistenzmanagement und zur Bek\u00e4mpfung von Krankheiten und Sch\u00e4dlingen\r\n\u27a2\r\nEndlich die Umsetzung der in der EU l\u00e4ngst gesetzlich verankerten zonalen Pflanzenschutzmittelzulassung zum Abbau von Produktionsnachteilen gegen\u00fcber anderen EU-Mitgliedsstaaten\r\n\u27a2\r\nHarmonisierte Anwendungsbestimmungen und Grenzwerte von heimisch produzierten Lebensmitteln zu Importware, in Verbindung mit verpflichtender Herkunfts- und Herstellerkennzeichnung\r\nC)\r\nRisikomanagement und Risikovorsorge\r\nSonderkulturen binden hohe und langfristige Investitionen, bei gleichzeitig zunehmenden Risiken und Gefahren, bedingt durch den Klimawandel und durch Wetterextreme.\r\n3\r\nWir fordern deshalb:\r\n\u27a2 Eine steuerfreie Risikoausgleichsr\u00fccklage und Gewinngl\u00e4ttung\r\n\u27a2 Eine einheitliche und fl\u00e4chendeckende Mehrgefahrenversicherung, Co-finanziert\r\ndurch EU / Bund / Land\r\n\u27a2 Vom Land und von der Wasserwirtschaft endlich eine praxistaugliche\r\nBew\u00e4sserungsstrategie (Wasserentnahme, Speicherbecken\u2026) zur Sicherung der\r\nProduktion von Sonderkulturen in der Zukunft.\r\n\u27a2 Die F\u00f6rderung von Innovationen und von Z\u00fcchtung\r\nDie Zeit ist reif f\u00fcr Ver\u00e4nderung, f\u00fcr eine Zeitenwende, f\u00fcr eine neue Agenda Zukunft\r\nLandwirtschaft. Wir sind dazu bereit. Jetzt! Sofort!\r\nUnsere Betriebe wollen einfach ihre t\u00e4gliche Arbeit tun. Nach guter fachlicher Praxis,\r\nentsprechend ihrer Ausbildung sowie nach bestem Wissen und Gewissen regionale,\r\ndeutsche Lebensmittel produzieren.\r\nNun ist die Politik am Zuge, wenn sie zuk\u00fcnftig noch Landwirtschaft in Deutschland\r\nwill und wenn sie es ehrlich und ernst meint!?\r\nDie Bodenseeverb\u00e4nde im Februar 2024"
+                        }
+                    }
+                ],
+                "title": "Herkunftskennzeichnung f\u00fcr verarbeitete Produkte einf\u00fchren"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Landwirtschaftliche Betriebe sind wie kein anderer Wirtschaftszweig von der j\u00e4hrlichen Witterung abh\u00e4ngig. Das Risiko von witterungsbedingten gravierenden Ernteeinbu\u00dfen bis hin zum Verlust der gesamten Ernte ist abh\u00e4ngig von der Kultur teilweise sehr hoch.\r\nUm den landwirtschaftlichen Betriebe bei einer wirksamen und existenzsichernden Risikovorsorge zu unterst\u00fctzen, sind die steuerfreie Risikor\u00fccklage und die von L\u00e4ndern, Bund und EU Co-finanzierte Mehrgefahrenversicherung gute Instrumente. Beides sollten gesetzlich ausgearbeitet bzw. im Haushalt eingeplant und den Landwirten zur Verf\u00fcgung gestellt werden.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002241",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/dd/8c/291411/Stellungnahme-Gutachten-SG2405220037.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-16"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002241",
+                        "regulatoryProjectTitle": "Durch Bund gef\u00f6rderte Mehrgefahrenversicherung und steuerfreier Risikor\u00fccklage",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Petition f\u00fcr eine wettbewerbs- und zukunftsf\u00e4hige Landwirtschaft der Sonderkulturbetriebe am Bodensee\r\nAusgangssituation / Status quo\r\n-\r\nIn der deutschen Bodenseeregion produzieren rund 2.000 landwirtschaftliche Familienbetriebe auf rund 15.000 ha landwirtschaftlicher Fl\u00e4che Kernobst, Steinobst, Beeren, Gem\u00fcse, Weintrauben, Hopfen und weitere Sonderkulturen zu Versorgung der Bev\u00f6lkerung mit heimischen Lebensmitteln und f\u00fcr den Export. F\u00fcr diese Produktion besch\u00e4ftigen die Betriebe am Bodensee j\u00e4hrlich sch\u00e4tzungsweise rund 10.000 Saisonarbeitskr\u00e4fte, vorwiegend aus Osteuropa.\r\n-\r\nIm Rahmen der Sparma\u00dfnahmen der Bundesregierung wurden auch die Sonderkulturbetriebe am Bodensee mit Steuererh\u00f6hungen bei der KFZ-Steuer und beim Agrardiesel schwer belastet. Die Einf\u00fchrung der KFZ-Steuer wurde korrigiert, die Erstattungen beim Agrardiesel Stand heute nicht. Dies ist inakzeptabel. Wir fordern die komplette Zur\u00fccknahme der Abschaffung der steuerlichen Agrardieselr\u00fcckerstattung.\r\n-\r\n\u00dcber die aktuellen, finanziellen Belastungen hinaus erfahren die Betriebe seit vielen Jahren eine inflation\u00e4re und unertr\u00e4gliche Zunahme an Vorschriften, Verboten sowie Regulierungen und damit deutlichen Kostensteigerungen, Wettbewerbsnachteile und B\u00fcrokratie, die so nicht mehr hinnehmbar sind! Schlechte Rahmenbedingungen nehmen den Betrieben die letzte Luft zum Atmen. In Kombination mit schlechten Erl\u00f6sen und z.T. Dumping Wettbewerb (Lohnniveau, Sozial- und Produktionsstandards) aus dem Ausland fehlt den heimischen Familienbetrieben zunehmend die wirtschaftliche Basis. Die Folge wird sein, dass Betriebe aufgeben m\u00fcssen bzw. von jungen Hofnachfolgerinnen und Hofnachfolgern nicht mehr \u00fcbernommen werden. Der Selbstversorgungsgrad z.B. bei Obst und Gem\u00fcse wird noch weiter sinken. Die Abh\u00e4ngigkeit von Lebensmittelimporten, produziert zu ganz anderen Bedingungen, wird steigen. Dies alles geschieht nicht von heute auf morgen, sondern ist ein schleichender Prozess, der l\u00e4ngst begonnen hat.\r\nGespr\u00e4chsangebot / Zeitenwende / Agenda Zukunft Landwirtschaft\r\n-\r\nDie Bundesregierung und die sie tragenden Fraktionen im Deutschen Bundestag haben der Dt. Landwirtschaft einen Dialog angeboten. Dieser ist dringend notwendig und muss umgehend, ernsthaft, zielf\u00fchrend und glaubw\u00fcrdig begonnen werden, um zukunftsf\u00e4hige Ver\u00e4nderungen f\u00fcr die Familienbetriebe, insbesondere auch in den sehr speziellen Sonderkulturbetrieben zu erreichen. Wir sind dazu bereit und fordern eine Zeitenwende und Agenda Zukunft Landwirtschaft durch die Politik.\r\n2\r\nGespr\u00e4chsgrundlage / Handlungsbedarf / Wir fordern\r\nA)\r\nGesetzlicher Mindestlohn f\u00fcr Saisonarbeitskr\u00e4fte\r\nDie Produktion von Sonderkulturen wie Obst, Gem\u00fcse, Wein, Hopfen\u2026ist h\u00f6chst arbeitsintensiv. Mit Spitzenwerten bis zu 5.000 Akh/ha z.B. im Gem\u00fcsebau. Gleichzeitig hat Deutschland aktuell mit 12,41 \u20ac / Std. den zweith\u00f6chsten gesetzlichen Mindestlohn innerhalb der EU. 14 oder gar 15 \u20ac werden bereits politisch getrieben diskutiert. In Spanien z.B. ist der gesetzliche Mindestlohn nur halb so hoch wie in Deutschland, Italien hat gar keinen Mindestlohn. Bei gleichzeitig freiem Warenverkehr f\u00fchrt dies zu massiven Wettbewerbsnachteilen und macht die heimische Produktion unwirtschaftlich.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen branchenspezifischen Mindestlohn f\u00fcr die Landwirtschaft\r\n\u27a2\r\nEinen Netto-Mindestlohn f\u00fcr kurzfristig besch\u00e4ftigte Saisonmitarbeiter, mit Lebensmittelpunkt im Ausland / Heimatland\r\n\u27a2\r\nDie Aufhebung des Kriteriums \u201eBerufsm\u00e4\u00dfigkeit\u201c bei kurzfristig besch\u00e4ftigten Saisonmitarbeitern\r\nB)\r\nPflanzenschutz\r\nInsbesondere Sonderkulturen verlangen einen wirksamen Schutz gegen Krankheiten, Sch\u00e4dlinge und zunehmend neue Schaderreger, bedingt durch die klimatischen Ver\u00e4nderungen und die Globalisierung. Der Handel und die Endverbrauer erwarten gleichzeitig TOP Qualit\u00e4t und makellose Produkte.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen wirksamen und ideologiefreien Pflanzenschutz zur Sicherung der heimischen Lebensmittel, der Ernten und damit dem Einkommen der Familienbetriebe\r\n\u27a2\r\nEine ausreichende Wirkstoffverf\u00fcgbarkeit aller Kulturen beim Resistenzmanagement und zur Bek\u00e4mpfung von Krankheiten und Sch\u00e4dlingen\r\n\u27a2\r\nEndlich die Umsetzung der in der EU l\u00e4ngst gesetzlich verankerten zonalen Pflanzenschutzmittelzulassung zum Abbau von Produktionsnachteilen gegen\u00fcber anderen EU-Mitgliedsstaaten\r\n\u27a2\r\nHarmonisierte Anwendungsbestimmungen und Grenzwerte von heimisch produzierten Lebensmitteln zu Importware, in Verbindung mit verpflichtender Herkunfts- und Herstellerkennzeichnung\r\nC)\r\nRisikomanagement und Risikovorsorge\r\nSonderkulturen binden hohe und langfristige Investitionen, bei gleichzeitig zunehmenden Risiken und Gefahren, bedingt durch den Klimawandel und durch Wetterextreme.\r\n3\r\nWir fordern deshalb:\r\n\u27a2 Eine steuerfreie Risikoausgleichsr\u00fccklage und Gewinngl\u00e4ttung\r\n\u27a2 Eine einheitliche und fl\u00e4chendeckende Mehrgefahrenversicherung, Co-finanziert\r\ndurch EU / Bund / Land\r\n\u27a2 Vom Land und von der Wasserwirtschaft endlich eine praxistaugliche\r\nBew\u00e4sserungsstrategie (Wasserentnahme, Speicherbecken\u2026) zur Sicherung der\r\nProduktion von Sonderkulturen in der Zukunft.\r\n\u27a2 Die F\u00f6rderung von Innovationen und von Z\u00fcchtung\r\nDie Zeit ist reif f\u00fcr Ver\u00e4nderung, f\u00fcr eine Zeitenwende, f\u00fcr eine neue Agenda Zukunft\r\nLandwirtschaft. Wir sind dazu bereit. Jetzt! Sofort!\r\nUnsere Betriebe wollen einfach ihre t\u00e4gliche Arbeit tun. Nach guter fachlicher Praxis,\r\nentsprechend ihrer Ausbildung sowie nach bestem Wissen und Gewissen regionale,\r\ndeutsche Lebensmittel produzieren.\r\nNun ist die Politik am Zuge, wenn sie zuk\u00fcnftig noch Landwirtschaft in Deutschland\r\nwill und wenn sie es ehrlich und ernst meint!?\r\nDie Bodenseeverb\u00e4nde im Februar 2024"
+                        }
+                    }
+                ],
+                "title": "Durch Bund gef\u00f6rderte Mehrgefahrenversicherung und steuerfreier Risikor\u00fccklage"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a7/5a/291403/Stellungnahme-Gutachten-SG2405140003.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-04-16"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002237",
+                "regulatoryProjectTitle": "Branchenl\u00f6sung bei Mindestlohn f\u00fcr handarbeitsintensive Sonderkulturbetriebe",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Petition f\u00fcr eine wettbewerbs- und zukunftsf\u00e4hige Landwirtschaft der Sonderkulturbetriebe am Bodensee\r\nAusgangssituation / Status quo\r\n-\r\nIn der deutschen Bodenseeregion produzieren rund 2.000 landwirtschaftliche Familienbetriebe auf rund 15.000 ha landwirtschaftlicher Fl\u00e4che Kernobst, Steinobst, Beeren, Gem\u00fcse, Weintrauben, Hopfen und weitere Sonderkulturen zu Versorgung der Bev\u00f6lkerung mit heimischen Lebensmitteln und f\u00fcr den Export. F\u00fcr diese Produktion besch\u00e4ftigen die Betriebe am Bodensee j\u00e4hrlich sch\u00e4tzungsweise rund 10.000 Saisonarbeitskr\u00e4fte, vorwiegend aus Osteuropa.\r\n-\r\nIm Rahmen der Sparma\u00dfnahmen der Bundesregierung wurden auch die Sonderkulturbetriebe am Bodensee mit Steuererh\u00f6hungen bei der KFZ-Steuer und beim Agrardiesel schwer belastet. Die Einf\u00fchrung der KFZ-Steuer wurde korrigiert, die Erstattungen beim Agrardiesel Stand heute nicht. Dies ist inakzeptabel. Wir fordern die komplette Zur\u00fccknahme der Abschaffung der steuerlichen Agrardieselr\u00fcckerstattung.\r\n-\r\n\u00dcber die aktuellen, finanziellen Belastungen hinaus erfahren die Betriebe seit vielen Jahren eine inflation\u00e4re und unertr\u00e4gliche Zunahme an Vorschriften, Verboten sowie Regulierungen und damit deutlichen Kostensteigerungen, Wettbewerbsnachteile und B\u00fcrokratie, die so nicht mehr hinnehmbar sind! Schlechte Rahmenbedingungen nehmen den Betrieben die letzte Luft zum Atmen. In Kombination mit schlechten Erl\u00f6sen und z.T. Dumping Wettbewerb (Lohnniveau, Sozial- und Produktionsstandards) aus dem Ausland fehlt den heimischen Familienbetrieben zunehmend die wirtschaftliche Basis. Die Folge wird sein, dass Betriebe aufgeben m\u00fcssen bzw. von jungen Hofnachfolgerinnen und Hofnachfolgern nicht mehr \u00fcbernommen werden. Der Selbstversorgungsgrad z.B. bei Obst und Gem\u00fcse wird noch weiter sinken. Die Abh\u00e4ngigkeit von Lebensmittelimporten, produziert zu ganz anderen Bedingungen, wird steigen. Dies alles geschieht nicht von heute auf morgen, sondern ist ein schleichender Prozess, der l\u00e4ngst begonnen hat.\r\nGespr\u00e4chsangebot / Zeitenwende / Agenda Zukunft Landwirtschaft\r\n-\r\nDie Bundesregierung und die sie tragenden Fraktionen im Deutschen Bundestag haben der Dt. Landwirtschaft einen Dialog angeboten. Dieser ist dringend notwendig und muss umgehend, ernsthaft, zielf\u00fchrend und glaubw\u00fcrdig begonnen werden, um zukunftsf\u00e4hige Ver\u00e4nderungen f\u00fcr die Familienbetriebe, insbesondere auch in den sehr speziellen Sonderkulturbetrieben zu erreichen. Wir sind dazu bereit und fordern eine Zeitenwende und Agenda Zukunft Landwirtschaft durch die Politik.\r\n2\r\nGespr\u00e4chsgrundlage / Handlungsbedarf / Wir fordern\r\nA)\r\nGesetzlicher Mindestlohn f\u00fcr Saisonarbeitskr\u00e4fte\r\nDie Produktion von Sonderkulturen wie Obst, Gem\u00fcse, Wein, Hopfen\u2026ist h\u00f6chst arbeitsintensiv. Mit Spitzenwerten bis zu 5.000 Akh/ha z.B. im Gem\u00fcsebau. Gleichzeitig hat Deutschland aktuell mit 12,41 \u20ac / Std. den zweith\u00f6chsten gesetzlichen Mindestlohn innerhalb der EU. 14 oder gar 15 \u20ac werden bereits politisch getrieben diskutiert. In Spanien z.B. ist der gesetzliche Mindestlohn nur halb so hoch wie in Deutschland, Italien hat gar keinen Mindestlohn. Bei gleichzeitig freiem Warenverkehr f\u00fchrt dies zu massiven Wettbewerbsnachteilen und macht die heimische Produktion unwirtschaftlich.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen branchenspezifischen Mindestlohn f\u00fcr die Landwirtschaft\r\n\u27a2\r\nEinen Netto-Mindestlohn f\u00fcr kurzfristig besch\u00e4ftigte Saisonmitarbeiter, mit Lebensmittelpunkt im Ausland / Heimatland\r\n\u27a2\r\nDie Aufhebung des Kriteriums \u201eBerufsm\u00e4\u00dfigkeit\u201c bei kurzfristig besch\u00e4ftigten Saisonmitarbeitern\r\nB)\r\nPflanzenschutz\r\nInsbesondere Sonderkulturen verlangen einen wirksamen Schutz gegen Krankheiten, Sch\u00e4dlinge und zunehmend neue Schaderreger, bedingt durch die klimatischen Ver\u00e4nderungen und die Globalisierung. Der Handel und die Endverbrauer erwarten gleichzeitig TOP Qualit\u00e4t und makellose Produkte.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen wirksamen und ideologiefreien Pflanzenschutz zur Sicherung der heimischen Lebensmittel, der Ernten und damit dem Einkommen der Familienbetriebe\r\n\u27a2\r\nEine ausreichende Wirkstoffverf\u00fcgbarkeit aller Kulturen beim Resistenzmanagement und zur Bek\u00e4mpfung von Krankheiten und Sch\u00e4dlingen\r\n\u27a2\r\nEndlich die Umsetzung der in der EU l\u00e4ngst gesetzlich verankerten zonalen Pflanzenschutzmittelzulassung zum Abbau von Produktionsnachteilen gegen\u00fcber anderen EU-Mitgliedsstaaten\r\n\u27a2\r\nHarmonisierte Anwendungsbestimmungen und Grenzwerte von heimisch produzierten Lebensmitteln zu Importware, in Verbindung mit verpflichtender Herkunfts- und Herstellerkennzeichnung\r\nC)\r\nRisikomanagement und Risikovorsorge\r\nSonderkulturen binden hohe und langfristige Investitionen, bei gleichzeitig zunehmenden Risiken und Gefahren, bedingt durch den Klimawandel und durch Wetterextreme.\r\n3\r\nWir fordern deshalb:\r\n\u27a2 Eine steuerfreie Risikoausgleichsr\u00fccklage und Gewinngl\u00e4ttung\r\n\u27a2 Eine einheitliche und fl\u00e4chendeckende Mehrgefahrenversicherung, Co-finanziert\r\ndurch EU / Bund / Land\r\n\u27a2 Vom Land und von der Wasserwirtschaft endlich eine praxistaugliche\r\nBew\u00e4sserungsstrategie (Wasserentnahme, Speicherbecken\u2026) zur Sicherung der\r\nProduktion von Sonderkulturen in der Zukunft.\r\n\u27a2 Die F\u00f6rderung von Innovationen und von Z\u00fcchtung\r\nDie Zeit ist reif f\u00fcr Ver\u00e4nderung, f\u00fcr eine Zeitenwende, f\u00fcr eine neue Agenda Zukunft\r\nLandwirtschaft. Wir sind dazu bereit. Jetzt! Sofort!\r\nUnsere Betriebe wollen einfach ihre t\u00e4gliche Arbeit tun. Nach guter fachlicher Praxis,\r\nentsprechend ihrer Ausbildung sowie nach bestem Wissen und Gewissen regionale,\r\ndeutsche Lebensmittel produzieren.\r\nNun ist die Politik am Zuge, wenn sie zuk\u00fcnftig noch Landwirtschaft in Deutschland\r\nwill und wenn sie es ehrlich und ernst meint!?\r\nDie Bodenseeverb\u00e4nde im Februar 2024"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/af/fb/291405/Stellungnahme-Gutachten-SG2405220034.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-04-16"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002238",
+                "regulatoryProjectTitle": "Zonale Zulassung und gegenseitig Anerkennung von Pflanzenschutzmitteln nutzen",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Petition f\u00fcr eine wettbewerbs- und zukunftsf\u00e4hige Landwirtschaft der Sonderkulturbetriebe am Bodensee\r\nAusgangssituation / Status quo\r\n-\r\nIn der deutschen Bodenseeregion produzieren rund 2.000 landwirtschaftliche Familienbetriebe auf rund 15.000 ha landwirtschaftlicher Fl\u00e4che Kernobst, Steinobst, Beeren, Gem\u00fcse, Weintrauben, Hopfen und weitere Sonderkulturen zu Versorgung der Bev\u00f6lkerung mit heimischen Lebensmitteln und f\u00fcr den Export. F\u00fcr diese Produktion besch\u00e4ftigen die Betriebe am Bodensee j\u00e4hrlich sch\u00e4tzungsweise rund 10.000 Saisonarbeitskr\u00e4fte, vorwiegend aus Osteuropa.\r\n-\r\nIm Rahmen der Sparma\u00dfnahmen der Bundesregierung wurden auch die Sonderkulturbetriebe am Bodensee mit Steuererh\u00f6hungen bei der KFZ-Steuer und beim Agrardiesel schwer belastet. Die Einf\u00fchrung der KFZ-Steuer wurde korrigiert, die Erstattungen beim Agrardiesel Stand heute nicht. Dies ist inakzeptabel. Wir fordern die komplette Zur\u00fccknahme der Abschaffung der steuerlichen Agrardieselr\u00fcckerstattung.\r\n-\r\n\u00dcber die aktuellen, finanziellen Belastungen hinaus erfahren die Betriebe seit vielen Jahren eine inflation\u00e4re und unertr\u00e4gliche Zunahme an Vorschriften, Verboten sowie Regulierungen und damit deutlichen Kostensteigerungen, Wettbewerbsnachteile und B\u00fcrokratie, die so nicht mehr hinnehmbar sind! Schlechte Rahmenbedingungen nehmen den Betrieben die letzte Luft zum Atmen. In Kombination mit schlechten Erl\u00f6sen und z.T. Dumping Wettbewerb (Lohnniveau, Sozial- und Produktionsstandards) aus dem Ausland fehlt den heimischen Familienbetrieben zunehmend die wirtschaftliche Basis. Die Folge wird sein, dass Betriebe aufgeben m\u00fcssen bzw. von jungen Hofnachfolgerinnen und Hofnachfolgern nicht mehr \u00fcbernommen werden. Der Selbstversorgungsgrad z.B. bei Obst und Gem\u00fcse wird noch weiter sinken. Die Abh\u00e4ngigkeit von Lebensmittelimporten, produziert zu ganz anderen Bedingungen, wird steigen. Dies alles geschieht nicht von heute auf morgen, sondern ist ein schleichender Prozess, der l\u00e4ngst begonnen hat.\r\nGespr\u00e4chsangebot / Zeitenwende / Agenda Zukunft Landwirtschaft\r\n-\r\nDie Bundesregierung und die sie tragenden Fraktionen im Deutschen Bundestag haben der Dt. Landwirtschaft einen Dialog angeboten. Dieser ist dringend notwendig und muss umgehend, ernsthaft, zielf\u00fchrend und glaubw\u00fcrdig begonnen werden, um zukunftsf\u00e4hige Ver\u00e4nderungen f\u00fcr die Familienbetriebe, insbesondere auch in den sehr speziellen Sonderkulturbetrieben zu erreichen. Wir sind dazu bereit und fordern eine Zeitenwende und Agenda Zukunft Landwirtschaft durch die Politik.\r\n2\r\nGespr\u00e4chsgrundlage / Handlungsbedarf / Wir fordern\r\nA)\r\nGesetzlicher Mindestlohn f\u00fcr Saisonarbeitskr\u00e4fte\r\nDie Produktion von Sonderkulturen wie Obst, Gem\u00fcse, Wein, Hopfen\u2026ist h\u00f6chst arbeitsintensiv. Mit Spitzenwerten bis zu 5.000 Akh/ha z.B. im Gem\u00fcsebau. Gleichzeitig hat Deutschland aktuell mit 12,41 \u20ac / Std. den zweith\u00f6chsten gesetzlichen Mindestlohn innerhalb der EU. 14 oder gar 15 \u20ac werden bereits politisch getrieben diskutiert. In Spanien z.B. ist der gesetzliche Mindestlohn nur halb so hoch wie in Deutschland, Italien hat gar keinen Mindestlohn. Bei gleichzeitig freiem Warenverkehr f\u00fchrt dies zu massiven Wettbewerbsnachteilen und macht die heimische Produktion unwirtschaftlich.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen branchenspezifischen Mindestlohn f\u00fcr die Landwirtschaft\r\n\u27a2\r\nEinen Netto-Mindestlohn f\u00fcr kurzfristig besch\u00e4ftigte Saisonmitarbeiter, mit Lebensmittelpunkt im Ausland / Heimatland\r\n\u27a2\r\nDie Aufhebung des Kriteriums \u201eBerufsm\u00e4\u00dfigkeit\u201c bei kurzfristig besch\u00e4ftigten Saisonmitarbeitern\r\nB)\r\nPflanzenschutz\r\nInsbesondere Sonderkulturen verlangen einen wirksamen Schutz gegen Krankheiten, Sch\u00e4dlinge und zunehmend neue Schaderreger, bedingt durch die klimatischen Ver\u00e4nderungen und die Globalisierung. Der Handel und die Endverbrauer erwarten gleichzeitig TOP Qualit\u00e4t und makellose Produkte.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen wirksamen und ideologiefreien Pflanzenschutz zur Sicherung der heimischen Lebensmittel, der Ernten und damit dem Einkommen der Familienbetriebe\r\n\u27a2\r\nEine ausreichende Wirkstoffverf\u00fcgbarkeit aller Kulturen beim Resistenzmanagement und zur Bek\u00e4mpfung von Krankheiten und Sch\u00e4dlingen\r\n\u27a2\r\nEndlich die Umsetzung der in der EU l\u00e4ngst gesetzlich verankerten zonalen Pflanzenschutzmittelzulassung zum Abbau von Produktionsnachteilen gegen\u00fcber anderen EU-Mitgliedsstaaten\r\n\u27a2\r\nHarmonisierte Anwendungsbestimmungen und Grenzwerte von heimisch produzierten Lebensmitteln zu Importware, in Verbindung mit verpflichtender Herkunfts- und Herstellerkennzeichnung\r\nC)\r\nRisikomanagement und Risikovorsorge\r\nSonderkulturen binden hohe und langfristige Investitionen, bei gleichzeitig zunehmenden Risiken und Gefahren, bedingt durch den Klimawandel und durch Wetterextreme.\r\n3\r\nWir fordern deshalb:\r\n\u27a2 Eine steuerfreie Risikoausgleichsr\u00fccklage und Gewinngl\u00e4ttung\r\n\u27a2 Eine einheitliche und fl\u00e4chendeckende Mehrgefahrenversicherung, Co-finanziert\r\ndurch EU / Bund / Land\r\n\u27a2 Vom Land und von der Wasserwirtschaft endlich eine praxistaugliche\r\nBew\u00e4sserungsstrategie (Wasserentnahme, Speicherbecken\u2026) zur Sicherung der\r\nProduktion von Sonderkulturen in der Zukunft.\r\n\u27a2 Die F\u00f6rderung von Innovationen und von Z\u00fcchtung\r\nDie Zeit ist reif f\u00fcr Ver\u00e4nderung, f\u00fcr eine Zeitenwende, f\u00fcr eine neue Agenda Zukunft\r\nLandwirtschaft. Wir sind dazu bereit. Jetzt! Sofort!\r\nUnsere Betriebe wollen einfach ihre t\u00e4gliche Arbeit tun. Nach guter fachlicher Praxis,\r\nentsprechend ihrer Ausbildung sowie nach bestem Wissen und Gewissen regionale,\r\ndeutsche Lebensmittel produzieren.\r\nNun ist die Politik am Zuge, wenn sie zuk\u00fcnftig noch Landwirtschaft in Deutschland\r\nwill und wenn sie es ehrlich und ernst meint!?\r\nDie Bodenseeverb\u00e4nde im Februar 2024"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/0e/a4/291407/Stellungnahme-Gutachten-SG2405220035.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-04-16"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002239",
+                "regulatoryProjectTitle": "Kriterium der Berufsm\u00e4\u00dfigkeit bei der Pr\u00fcfung der Sozialversicherungspflicht ersetzen",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Petition f\u00fcr eine wettbewerbs- und zukunftsf\u00e4hige Landwirtschaft der Sonderkulturbetriebe am Bodensee\r\nAusgangssituation / Status quo\r\n-\r\nIn der deutschen Bodenseeregion produzieren rund 2.000 landwirtschaftliche Familienbetriebe auf rund 15.000 ha landwirtschaftlicher Fl\u00e4che Kernobst, Steinobst, Beeren, Gem\u00fcse, Weintrauben, Hopfen und weitere Sonderkulturen zu Versorgung der Bev\u00f6lkerung mit heimischen Lebensmitteln und f\u00fcr den Export. F\u00fcr diese Produktion besch\u00e4ftigen die Betriebe am Bodensee j\u00e4hrlich sch\u00e4tzungsweise rund 10.000 Saisonarbeitskr\u00e4fte, vorwiegend aus Osteuropa.\r\n-\r\nIm Rahmen der Sparma\u00dfnahmen der Bundesregierung wurden auch die Sonderkulturbetriebe am Bodensee mit Steuererh\u00f6hungen bei der KFZ-Steuer und beim Agrardiesel schwer belastet. Die Einf\u00fchrung der KFZ-Steuer wurde korrigiert, die Erstattungen beim Agrardiesel Stand heute nicht. Dies ist inakzeptabel. Wir fordern die komplette Zur\u00fccknahme der Abschaffung der steuerlichen Agrardieselr\u00fcckerstattung.\r\n-\r\n\u00dcber die aktuellen, finanziellen Belastungen hinaus erfahren die Betriebe seit vielen Jahren eine inflation\u00e4re und unertr\u00e4gliche Zunahme an Vorschriften, Verboten sowie Regulierungen und damit deutlichen Kostensteigerungen, Wettbewerbsnachteile und B\u00fcrokratie, die so nicht mehr hinnehmbar sind! Schlechte Rahmenbedingungen nehmen den Betrieben die letzte Luft zum Atmen. In Kombination mit schlechten Erl\u00f6sen und z.T. Dumping Wettbewerb (Lohnniveau, Sozial- und Produktionsstandards) aus dem Ausland fehlt den heimischen Familienbetrieben zunehmend die wirtschaftliche Basis. Die Folge wird sein, dass Betriebe aufgeben m\u00fcssen bzw. von jungen Hofnachfolgerinnen und Hofnachfolgern nicht mehr \u00fcbernommen werden. Der Selbstversorgungsgrad z.B. bei Obst und Gem\u00fcse wird noch weiter sinken. Die Abh\u00e4ngigkeit von Lebensmittelimporten, produziert zu ganz anderen Bedingungen, wird steigen. Dies alles geschieht nicht von heute auf morgen, sondern ist ein schleichender Prozess, der l\u00e4ngst begonnen hat.\r\nGespr\u00e4chsangebot / Zeitenwende / Agenda Zukunft Landwirtschaft\r\n-\r\nDie Bundesregierung und die sie tragenden Fraktionen im Deutschen Bundestag haben der Dt. Landwirtschaft einen Dialog angeboten. Dieser ist dringend notwendig und muss umgehend, ernsthaft, zielf\u00fchrend und glaubw\u00fcrdig begonnen werden, um zukunftsf\u00e4hige Ver\u00e4nderungen f\u00fcr die Familienbetriebe, insbesondere auch in den sehr speziellen Sonderkulturbetrieben zu erreichen. Wir sind dazu bereit und fordern eine Zeitenwende und Agenda Zukunft Landwirtschaft durch die Politik.\r\n2\r\nGespr\u00e4chsgrundlage / Handlungsbedarf / Wir fordern\r\nA)\r\nGesetzlicher Mindestlohn f\u00fcr Saisonarbeitskr\u00e4fte\r\nDie Produktion von Sonderkulturen wie Obst, Gem\u00fcse, Wein, Hopfen\u2026ist h\u00f6chst arbeitsintensiv. Mit Spitzenwerten bis zu 5.000 Akh/ha z.B. im Gem\u00fcsebau. Gleichzeitig hat Deutschland aktuell mit 12,41 \u20ac / Std. den zweith\u00f6chsten gesetzlichen Mindestlohn innerhalb der EU. 14 oder gar 15 \u20ac werden bereits politisch getrieben diskutiert. In Spanien z.B. ist der gesetzliche Mindestlohn nur halb so hoch wie in Deutschland, Italien hat gar keinen Mindestlohn. Bei gleichzeitig freiem Warenverkehr f\u00fchrt dies zu massiven Wettbewerbsnachteilen und macht die heimische Produktion unwirtschaftlich.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen branchenspezifischen Mindestlohn f\u00fcr die Landwirtschaft\r\n\u27a2\r\nEinen Netto-Mindestlohn f\u00fcr kurzfristig besch\u00e4ftigte Saisonmitarbeiter, mit Lebensmittelpunkt im Ausland / Heimatland\r\n\u27a2\r\nDie Aufhebung des Kriteriums \u201eBerufsm\u00e4\u00dfigkeit\u201c bei kurzfristig besch\u00e4ftigten Saisonmitarbeitern\r\nB)\r\nPflanzenschutz\r\nInsbesondere Sonderkulturen verlangen einen wirksamen Schutz gegen Krankheiten, Sch\u00e4dlinge und zunehmend neue Schaderreger, bedingt durch die klimatischen Ver\u00e4nderungen und die Globalisierung. Der Handel und die Endverbrauer erwarten gleichzeitig TOP Qualit\u00e4t und makellose Produkte.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen wirksamen und ideologiefreien Pflanzenschutz zur Sicherung der heimischen Lebensmittel, der Ernten und damit dem Einkommen der Familienbetriebe\r\n\u27a2\r\nEine ausreichende Wirkstoffverf\u00fcgbarkeit aller Kulturen beim Resistenzmanagement und zur Bek\u00e4mpfung von Krankheiten und Sch\u00e4dlingen\r\n\u27a2\r\nEndlich die Umsetzung der in der EU l\u00e4ngst gesetzlich verankerten zonalen Pflanzenschutzmittelzulassung zum Abbau von Produktionsnachteilen gegen\u00fcber anderen EU-Mitgliedsstaaten\r\n\u27a2\r\nHarmonisierte Anwendungsbestimmungen und Grenzwerte von heimisch produzierten Lebensmitteln zu Importware, in Verbindung mit verpflichtender Herkunfts- und Herstellerkennzeichnung\r\nC)\r\nRisikomanagement und Risikovorsorge\r\nSonderkulturen binden hohe und langfristige Investitionen, bei gleichzeitig zunehmenden Risiken und Gefahren, bedingt durch den Klimawandel und durch Wetterextreme.\r\n3\r\nWir fordern deshalb:\r\n\u27a2 Eine steuerfreie Risikoausgleichsr\u00fccklage und Gewinngl\u00e4ttung\r\n\u27a2 Eine einheitliche und fl\u00e4chendeckende Mehrgefahrenversicherung, Co-finanziert\r\ndurch EU / Bund / Land\r\n\u27a2 Vom Land und von der Wasserwirtschaft endlich eine praxistaugliche\r\nBew\u00e4sserungsstrategie (Wasserentnahme, Speicherbecken\u2026) zur Sicherung der\r\nProduktion von Sonderkulturen in der Zukunft.\r\n\u27a2 Die F\u00f6rderung von Innovationen und von Z\u00fcchtung\r\nDie Zeit ist reif f\u00fcr Ver\u00e4nderung, f\u00fcr eine Zeitenwende, f\u00fcr eine neue Agenda Zukunft\r\nLandwirtschaft. Wir sind dazu bereit. Jetzt! Sofort!\r\nUnsere Betriebe wollen einfach ihre t\u00e4gliche Arbeit tun. Nach guter fachlicher Praxis,\r\nentsprechend ihrer Ausbildung sowie nach bestem Wissen und Gewissen regionale,\r\ndeutsche Lebensmittel produzieren.\r\nNun ist die Politik am Zuge, wenn sie zuk\u00fcnftig noch Landwirtschaft in Deutschland\r\nwill und wenn sie es ehrlich und ernst meint!?\r\nDie Bodenseeverb\u00e4nde im Februar 2024"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/9e/83/291409/Stellungnahme-Gutachten-SG2405220036.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-04-16"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002240",
+                "regulatoryProjectTitle": "Herkunftskennzeichnung f\u00fcr verarbeitete Produkte einf\u00fchren",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Petition f\u00fcr eine wettbewerbs- und zukunftsf\u00e4hige Landwirtschaft der Sonderkulturbetriebe am Bodensee\r\nAusgangssituation / Status quo\r\n-\r\nIn der deutschen Bodenseeregion produzieren rund 2.000 landwirtschaftliche Familienbetriebe auf rund 15.000 ha landwirtschaftlicher Fl\u00e4che Kernobst, Steinobst, Beeren, Gem\u00fcse, Weintrauben, Hopfen und weitere Sonderkulturen zu Versorgung der Bev\u00f6lkerung mit heimischen Lebensmitteln und f\u00fcr den Export. F\u00fcr diese Produktion besch\u00e4ftigen die Betriebe am Bodensee j\u00e4hrlich sch\u00e4tzungsweise rund 10.000 Saisonarbeitskr\u00e4fte, vorwiegend aus Osteuropa.\r\n-\r\nIm Rahmen der Sparma\u00dfnahmen der Bundesregierung wurden auch die Sonderkulturbetriebe am Bodensee mit Steuererh\u00f6hungen bei der KFZ-Steuer und beim Agrardiesel schwer belastet. Die Einf\u00fchrung der KFZ-Steuer wurde korrigiert, die Erstattungen beim Agrardiesel Stand heute nicht. Dies ist inakzeptabel. Wir fordern die komplette Zur\u00fccknahme der Abschaffung der steuerlichen Agrardieselr\u00fcckerstattung.\r\n-\r\n\u00dcber die aktuellen, finanziellen Belastungen hinaus erfahren die Betriebe seit vielen Jahren eine inflation\u00e4re und unertr\u00e4gliche Zunahme an Vorschriften, Verboten sowie Regulierungen und damit deutlichen Kostensteigerungen, Wettbewerbsnachteile und B\u00fcrokratie, die so nicht mehr hinnehmbar sind! Schlechte Rahmenbedingungen nehmen den Betrieben die letzte Luft zum Atmen. In Kombination mit schlechten Erl\u00f6sen und z.T. Dumping Wettbewerb (Lohnniveau, Sozial- und Produktionsstandards) aus dem Ausland fehlt den heimischen Familienbetrieben zunehmend die wirtschaftliche Basis. Die Folge wird sein, dass Betriebe aufgeben m\u00fcssen bzw. von jungen Hofnachfolgerinnen und Hofnachfolgern nicht mehr \u00fcbernommen werden. Der Selbstversorgungsgrad z.B. bei Obst und Gem\u00fcse wird noch weiter sinken. Die Abh\u00e4ngigkeit von Lebensmittelimporten, produziert zu ganz anderen Bedingungen, wird steigen. Dies alles geschieht nicht von heute auf morgen, sondern ist ein schleichender Prozess, der l\u00e4ngst begonnen hat.\r\nGespr\u00e4chsangebot / Zeitenwende / Agenda Zukunft Landwirtschaft\r\n-\r\nDie Bundesregierung und die sie tragenden Fraktionen im Deutschen Bundestag haben der Dt. Landwirtschaft einen Dialog angeboten. Dieser ist dringend notwendig und muss umgehend, ernsthaft, zielf\u00fchrend und glaubw\u00fcrdig begonnen werden, um zukunftsf\u00e4hige Ver\u00e4nderungen f\u00fcr die Familienbetriebe, insbesondere auch in den sehr speziellen Sonderkulturbetrieben zu erreichen. Wir sind dazu bereit und fordern eine Zeitenwende und Agenda Zukunft Landwirtschaft durch die Politik.\r\n2\r\nGespr\u00e4chsgrundlage / Handlungsbedarf / Wir fordern\r\nA)\r\nGesetzlicher Mindestlohn f\u00fcr Saisonarbeitskr\u00e4fte\r\nDie Produktion von Sonderkulturen wie Obst, Gem\u00fcse, Wein, Hopfen\u2026ist h\u00f6chst arbeitsintensiv. Mit Spitzenwerten bis zu 5.000 Akh/ha z.B. im Gem\u00fcsebau. Gleichzeitig hat Deutschland aktuell mit 12,41 \u20ac / Std. den zweith\u00f6chsten gesetzlichen Mindestlohn innerhalb der EU. 14 oder gar 15 \u20ac werden bereits politisch getrieben diskutiert. In Spanien z.B. ist der gesetzliche Mindestlohn nur halb so hoch wie in Deutschland, Italien hat gar keinen Mindestlohn. Bei gleichzeitig freiem Warenverkehr f\u00fchrt dies zu massiven Wettbewerbsnachteilen und macht die heimische Produktion unwirtschaftlich.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen branchenspezifischen Mindestlohn f\u00fcr die Landwirtschaft\r\n\u27a2\r\nEinen Netto-Mindestlohn f\u00fcr kurzfristig besch\u00e4ftigte Saisonmitarbeiter, mit Lebensmittelpunkt im Ausland / Heimatland\r\n\u27a2\r\nDie Aufhebung des Kriteriums \u201eBerufsm\u00e4\u00dfigkeit\u201c bei kurzfristig besch\u00e4ftigten Saisonmitarbeitern\r\nB)\r\nPflanzenschutz\r\nInsbesondere Sonderkulturen verlangen einen wirksamen Schutz gegen Krankheiten, Sch\u00e4dlinge und zunehmend neue Schaderreger, bedingt durch die klimatischen Ver\u00e4nderungen und die Globalisierung. Der Handel und die Endverbrauer erwarten gleichzeitig TOP Qualit\u00e4t und makellose Produkte.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen wirksamen und ideologiefreien Pflanzenschutz zur Sicherung der heimischen Lebensmittel, der Ernten und damit dem Einkommen der Familienbetriebe\r\n\u27a2\r\nEine ausreichende Wirkstoffverf\u00fcgbarkeit aller Kulturen beim Resistenzmanagement und zur Bek\u00e4mpfung von Krankheiten und Sch\u00e4dlingen\r\n\u27a2\r\nEndlich die Umsetzung der in der EU l\u00e4ngst gesetzlich verankerten zonalen Pflanzenschutzmittelzulassung zum Abbau von Produktionsnachteilen gegen\u00fcber anderen EU-Mitgliedsstaaten\r\n\u27a2\r\nHarmonisierte Anwendungsbestimmungen und Grenzwerte von heimisch produzierten Lebensmitteln zu Importware, in Verbindung mit verpflichtender Herkunfts- und Herstellerkennzeichnung\r\nC)\r\nRisikomanagement und Risikovorsorge\r\nSonderkulturen binden hohe und langfristige Investitionen, bei gleichzeitig zunehmenden Risiken und Gefahren, bedingt durch den Klimawandel und durch Wetterextreme.\r\n3\r\nWir fordern deshalb:\r\n\u27a2 Eine steuerfreie Risikoausgleichsr\u00fccklage und Gewinngl\u00e4ttung\r\n\u27a2 Eine einheitliche und fl\u00e4chendeckende Mehrgefahrenversicherung, Co-finanziert\r\ndurch EU / Bund / Land\r\n\u27a2 Vom Land und von der Wasserwirtschaft endlich eine praxistaugliche\r\nBew\u00e4sserungsstrategie (Wasserentnahme, Speicherbecken\u2026) zur Sicherung der\r\nProduktion von Sonderkulturen in der Zukunft.\r\n\u27a2 Die F\u00f6rderung von Innovationen und von Z\u00fcchtung\r\nDie Zeit ist reif f\u00fcr Ver\u00e4nderung, f\u00fcr eine Zeitenwende, f\u00fcr eine neue Agenda Zukunft\r\nLandwirtschaft. Wir sind dazu bereit. Jetzt! Sofort!\r\nUnsere Betriebe wollen einfach ihre t\u00e4gliche Arbeit tun. Nach guter fachlicher Praxis,\r\nentsprechend ihrer Ausbildung sowie nach bestem Wissen und Gewissen regionale,\r\ndeutsche Lebensmittel produzieren.\r\nNun ist die Politik am Zuge, wenn sie zuk\u00fcnftig noch Landwirtschaft in Deutschland\r\nwill und wenn sie es ehrlich und ernst meint!?\r\nDie Bodenseeverb\u00e4nde im Februar 2024"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/dd/8c/291411/Stellungnahme-Gutachten-SG2405220037.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-04-16"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002241",
+                "regulatoryProjectTitle": "Durch Bund gef\u00f6rderte Mehrgefahrenversicherung und steuerfreier Risikor\u00fccklage",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Petition f\u00fcr eine wettbewerbs- und zukunftsf\u00e4hige Landwirtschaft der Sonderkulturbetriebe am Bodensee\r\nAusgangssituation / Status quo\r\n-\r\nIn der deutschen Bodenseeregion produzieren rund 2.000 landwirtschaftliche Familienbetriebe auf rund 15.000 ha landwirtschaftlicher Fl\u00e4che Kernobst, Steinobst, Beeren, Gem\u00fcse, Weintrauben, Hopfen und weitere Sonderkulturen zu Versorgung der Bev\u00f6lkerung mit heimischen Lebensmitteln und f\u00fcr den Export. F\u00fcr diese Produktion besch\u00e4ftigen die Betriebe am Bodensee j\u00e4hrlich sch\u00e4tzungsweise rund 10.000 Saisonarbeitskr\u00e4fte, vorwiegend aus Osteuropa.\r\n-\r\nIm Rahmen der Sparma\u00dfnahmen der Bundesregierung wurden auch die Sonderkulturbetriebe am Bodensee mit Steuererh\u00f6hungen bei der KFZ-Steuer und beim Agrardiesel schwer belastet. Die Einf\u00fchrung der KFZ-Steuer wurde korrigiert, die Erstattungen beim Agrardiesel Stand heute nicht. Dies ist inakzeptabel. Wir fordern die komplette Zur\u00fccknahme der Abschaffung der steuerlichen Agrardieselr\u00fcckerstattung.\r\n-\r\n\u00dcber die aktuellen, finanziellen Belastungen hinaus erfahren die Betriebe seit vielen Jahren eine inflation\u00e4re und unertr\u00e4gliche Zunahme an Vorschriften, Verboten sowie Regulierungen und damit deutlichen Kostensteigerungen, Wettbewerbsnachteile und B\u00fcrokratie, die so nicht mehr hinnehmbar sind! Schlechte Rahmenbedingungen nehmen den Betrieben die letzte Luft zum Atmen. In Kombination mit schlechten Erl\u00f6sen und z.T. Dumping Wettbewerb (Lohnniveau, Sozial- und Produktionsstandards) aus dem Ausland fehlt den heimischen Familienbetrieben zunehmend die wirtschaftliche Basis. Die Folge wird sein, dass Betriebe aufgeben m\u00fcssen bzw. von jungen Hofnachfolgerinnen und Hofnachfolgern nicht mehr \u00fcbernommen werden. Der Selbstversorgungsgrad z.B. bei Obst und Gem\u00fcse wird noch weiter sinken. Die Abh\u00e4ngigkeit von Lebensmittelimporten, produziert zu ganz anderen Bedingungen, wird steigen. Dies alles geschieht nicht von heute auf morgen, sondern ist ein schleichender Prozess, der l\u00e4ngst begonnen hat.\r\nGespr\u00e4chsangebot / Zeitenwende / Agenda Zukunft Landwirtschaft\r\n-\r\nDie Bundesregierung und die sie tragenden Fraktionen im Deutschen Bundestag haben der Dt. Landwirtschaft einen Dialog angeboten. Dieser ist dringend notwendig und muss umgehend, ernsthaft, zielf\u00fchrend und glaubw\u00fcrdig begonnen werden, um zukunftsf\u00e4hige Ver\u00e4nderungen f\u00fcr die Familienbetriebe, insbesondere auch in den sehr speziellen Sonderkulturbetrieben zu erreichen. Wir sind dazu bereit und fordern eine Zeitenwende und Agenda Zukunft Landwirtschaft durch die Politik.\r\n2\r\nGespr\u00e4chsgrundlage / Handlungsbedarf / Wir fordern\r\nA)\r\nGesetzlicher Mindestlohn f\u00fcr Saisonarbeitskr\u00e4fte\r\nDie Produktion von Sonderkulturen wie Obst, Gem\u00fcse, Wein, Hopfen\u2026ist h\u00f6chst arbeitsintensiv. Mit Spitzenwerten bis zu 5.000 Akh/ha z.B. im Gem\u00fcsebau. Gleichzeitig hat Deutschland aktuell mit 12,41 \u20ac / Std. den zweith\u00f6chsten gesetzlichen Mindestlohn innerhalb der EU. 14 oder gar 15 \u20ac werden bereits politisch getrieben diskutiert. In Spanien z.B. ist der gesetzliche Mindestlohn nur halb so hoch wie in Deutschland, Italien hat gar keinen Mindestlohn. Bei gleichzeitig freiem Warenverkehr f\u00fchrt dies zu massiven Wettbewerbsnachteilen und macht die heimische Produktion unwirtschaftlich.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen branchenspezifischen Mindestlohn f\u00fcr die Landwirtschaft\r\n\u27a2\r\nEinen Netto-Mindestlohn f\u00fcr kurzfristig besch\u00e4ftigte Saisonmitarbeiter, mit Lebensmittelpunkt im Ausland / Heimatland\r\n\u27a2\r\nDie Aufhebung des Kriteriums \u201eBerufsm\u00e4\u00dfigkeit\u201c bei kurzfristig besch\u00e4ftigten Saisonmitarbeitern\r\nB)\r\nPflanzenschutz\r\nInsbesondere Sonderkulturen verlangen einen wirksamen Schutz gegen Krankheiten, Sch\u00e4dlinge und zunehmend neue Schaderreger, bedingt durch die klimatischen Ver\u00e4nderungen und die Globalisierung. Der Handel und die Endverbrauer erwarten gleichzeitig TOP Qualit\u00e4t und makellose Produkte.\r\nWir fordern deshalb:\r\n\u27a2\r\nEinen wirksamen und ideologiefreien Pflanzenschutz zur Sicherung der heimischen Lebensmittel, der Ernten und damit dem Einkommen der Familienbetriebe\r\n\u27a2\r\nEine ausreichende Wirkstoffverf\u00fcgbarkeit aller Kulturen beim Resistenzmanagement und zur Bek\u00e4mpfung von Krankheiten und Sch\u00e4dlingen\r\n\u27a2\r\nEndlich die Umsetzung der in der EU l\u00e4ngst gesetzlich verankerten zonalen Pflanzenschutzmittelzulassung zum Abbau von Produktionsnachteilen gegen\u00fcber anderen EU-Mitgliedsstaaten\r\n\u27a2\r\nHarmonisierte Anwendungsbestimmungen und Grenzwerte von heimisch produzierten Lebensmitteln zu Importware, in Verbindung mit verpflichtender Herkunfts- und Herstellerkennzeichnung\r\nC)\r\nRisikomanagement und Risikovorsorge\r\nSonderkulturen binden hohe und langfristige Investitionen, bei gleichzeitig zunehmenden Risiken und Gefahren, bedingt durch den Klimawandel und durch Wetterextreme.\r\n3\r\nWir fordern deshalb:\r\n\u27a2 Eine steuerfreie Risikoausgleichsr\u00fccklage und Gewinngl\u00e4ttung\r\n\u27a2 Eine einheitliche und fl\u00e4chendeckende Mehrgefahrenversicherung, Co-finanziert\r\ndurch EU / Bund / Land\r\n\u27a2 Vom Land und von der Wasserwirtschaft endlich eine praxistaugliche\r\nBew\u00e4sserungsstrategie (Wasserentnahme, Speicherbecken\u2026) zur Sicherung der\r\nProduktion von Sonderkulturen in der Zukunft.\r\n\u27a2 Die F\u00f6rderung von Innovationen und von Z\u00fcchtung\r\nDie Zeit ist reif f\u00fcr Ver\u00e4nderung, f\u00fcr eine Zeitenwende, f\u00fcr eine neue Agenda Zukunft\r\nLandwirtschaft. Wir sind dazu bereit. Jetzt! Sofort!\r\nUnsere Betriebe wollen einfach ihre t\u00e4gliche Arbeit tun. Nach guter fachlicher Praxis,\r\nentsprechend ihrer Ausbildung sowie nach bestem Wissen und Gewissen regionale,\r\ndeutsche Lebensmittel produzieren.\r\nNun ist die Politik am Zuge, wenn sie zuk\u00fcnftig noch Landwirtschaft in Deutschland\r\nwill und wenn sie es ehrlich und ernst meint!?\r\nDie Bodenseeverb\u00e4nde im Februar 2024"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

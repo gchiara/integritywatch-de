@@ -1,0 +1,530 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-04-05T14:55:28.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-04-05T14:55:28.000+02:00",
+        "lastUpdateDate": "2024-06-10T15:23:07.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 31820,
+                "validFromDate": "2024-06-10T15:23:07.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 31680,
+                "validFromDate": "2024-04-09T16:41:37.000+02:00",
+                "validUntilDate": "2024-06-10T15:23:07.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27516,
+                "validFromDate": "2024-03-14T15:14:24.000+01:00",
+                "validUntilDate": "2024-04-09T16:41:37.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27445,
+                "validFromDate": "2023-12-12T09:08:01.000+01:00",
+                "validUntilDate": "2024-03-14T15:14:24.000+01:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23752,
+                "validFromDate": "2023-07-13T11:47:39.000+02:00",
+                "validUntilDate": "2023-12-12T09:08:01.000+01:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 18445,
+                "validFromDate": "2023-04-05T15:03:07.000+02:00",
+                "validUntilDate": "2023-07-13T11:47:39.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 6465,
+                "validFromDate": "2022-04-05T14:55:28.000+02:00",
+                "validUntilDate": "2023-04-05T15:03:07.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_EMPLOYER_ASSOC",
+            "de": "Arbeitgeberverband",
+            "en": "Employers association"
+        },
+        "activityDescription": "Der HDF KINO e.V. vertritt die Interessen seiner Mitglieder gegen\u00fcber Politik und Wirtschaft. Unser Ziel ist es, die Vielfalt und Qualit\u00e4t der deutschen Kinolandschaft zu st\u00e4rken und Filmen eine optimale Auswertung auf der gro\u00dfen Leinwand zu erm\u00f6glichen. In pers\u00f6nlichen Gespr\u00e4chen und bei \u00f6ffentlichen Veranstaltungen kl\u00e4ren wir \u00fcber aktuelle Entwicklungen und Herausforderungen f\u00fcr die Kinobranche auf. In Stellungnahmen und Positionspapieren formulieren wir Verbesserungsvorschl\u00e4ge und Forderungen im Hinblick auf optimale Rahmenbedingungen f\u00fcr erfolgreiches Kinoschaffen.\r\nIm Austausch mit weiteren Stakeholdern der Branche diskutieren wir unsere Gesch\u00e4ftsmodelle und entwickeln diese kontinuierlich weiter. Als Mitglied in den zentralen Dachverb\u00e4nden, der Spitzenorganisation der Filmwirtschaft (SPIO) und der Union International des Cin\u00e9mas (UNIC), flie\u00dfen nicht nur unsere Sichtweisen auf nationaler und internationaler Ebene ein, wir wissen dadurch auch starke Partner an unserer Seite.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_ECONOMY_INSURANCE",
+                "de": "Versicherungswesen",
+                "en": "Insurance"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_CULTURE",
+                "de": "Kultur",
+                "en": "Culture"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_MEDIA_OTHER",
+                "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                "en": "Other in the field of \"Media, communication and information technology\""
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/c6/df/286758/Bericht-2023-HDF.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/69/a3/286759/Verhaltenskodexe-HDF-Leitlinien-2024.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.63,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 90001,
+            "to": 100000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Poststrasse",
+            "streetNumber": "30",
+            "type": "NATIONAL",
+            "zipCode": "10178"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@hdf-kino.de"
+                }
+            ],
+            "phoneNumber": "+493023004041",
+            "websites": [
+                {
+                    "website": "www.hdf-kino.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Christine",
+                "lastName": "Berg",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Carolin",
+                "lastName": "Lindenmaier",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Jonas",
+                "lastName": "von Fehrn-Stender",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Louis",
+                "lastName": "Lippmann",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Christine",
+                "function": "Vorstandsvorsitzende",
+                "lastName": "Berg",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Carolin",
+                "function": "1. stellv. Vorstand",
+                "lastName": "Lindenmaier",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-04",
+            "naturalPersons": 182,
+            "organizations": 392,
+            "totalCount": 574
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "SPIO e.V."
+            },
+            {
+                "membership": "UNIC "
+            },
+            {
+                "membership": "Deutscher Medienrat Film, Rundfunk & Audiovisuelle Medien"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "HDF KINO e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "CMS Cinema Management Services GmbH & Co.KG"
+            },
+            {
+                "name": "CinemaxX Holdings GmbH"
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 640001,
+            "to": 650000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Digitalpr\u00e4mie, Einf\u00fchrung oder Verbesserung der IT-Sicherheit, neuer Server",
+                "location": "Berlin",
+                "name": "IBB Business Team GmbH",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R004061/31820",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-10T15:23:07.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/3e/ee/286762/Lobbyregister-Detailansicht-R004061-2024-06-10_15-23-07.pdf",
+        "validFromDate": "2024-06-10T15:23:07.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 31820,
+    "registerNumber": "R004061",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Seit der Novellierung der Richtlinie f\u00fcr das F\u00f6rderprogramm \u201eEnergie- und Ressourceneffizienz in der Wirtschaft\u201c sind Kinoprojektoren in die Liste der f\u00f6rderbaren Ma\u00dfnahmen bei der Modul 4 - Basisf\u00f6rderung aufgenommen worden allerdings nur f\u00fcr die kleinen und mittleren Unternehmen.\r\nLeider f\u00fchrt dies dazu, dass die gro\u00dfen Unternehmen, die einen relevanten Teil des Kinomarktes abbilden, Ihre Bem\u00fchungen zu Energieeinsparungen durch den Einbau von Laserprojektoren, nicht mehr \u00fcber das Programm gef\u00f6rdert bekommen k\u00f6nnen. Gerade diese Unternehmen fallen im Bereich der Kulturf\u00f6rderung durch alle Raster und m\u00fcssen die dringend notwendigen Investitionen selbst schultern. Wir m\u00f6chten darauf hinwirken, dass das Programm auch f\u00fcr diese gro\u00dfen Unternehmen ge\u00f6ffnet wird.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_OTHER",
+                        "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                        "en": "Other in the field of \"Media, communication and information technology\""
+                    },
+                    {
+                        "code": "FOI_CULTURE",
+                        "de": "Kultur",
+                        "en": "Culture"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001710",
+                "statements": [],
+                "title": "F\u00f6rderung von Kinoprojektoren auch f\u00fcr gro\u00dfe Unternehmen, bislang werden nur KMU gef\u00f6rdert"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "FFG",
+                        "title": "Gesetz \u00fcber Ma\u00dfnahmen zur F\u00f6rderung des deutschen Films",
+                        "url": "https://www.gesetze-im-internet.de/ffg_2017"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Der HDF KINO e.V. setzt sich daf\u00fcr ein, dass die Belange der Kinobetreibenden in der Novellierung des FFG fortlaufend Ber\u00fccksichtigung finden. Insbesondere wird f\u00fcr eine faire Filmabgabe (\u00a7127 RefE), eine zukunftssichernde Kinof\u00f6rderung (\u00a7\u00a7 113-116, \u00a7135 RefE), die Beibehaltung des exklusiven Kinofensters (\u00a7 24, \u00a7\u00a754-60 RefE) sowie eine effiziente Verwaltungsstruktur (\u00a76 RefE) innerhalb der FFA geworben.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.kulturstaatsministerin.de/SharedDocs/Downloads/DE/2024/2024-03-04-referentenentwurf-ffg.pdf?__blob=publicationFile&v=5",
+                            "draftBillProjectUrl": "https://www.kulturstaatsministerin.de/DE/staatsministerin-und-ihr-amt/gesetze-verordnungen-stellungnahmen/gesetze-verordnungen-stellungnahmen_node.html",
+                            "shortTitle": "BKM",
+                            "title": "Beauftragte der Bundesregierung f\u00fcr Kultur und Medien",
+                            "url": "https://www.kulturstaatsministerin.de/DE/startseite/startseite_node.html"
+                        }
+                    ],
+                    "publicationDate": "2024-03-04",
+                    "title": "Gesetzentwurf f\u00fcr das Filmf\u00f6rderungsgesetz (FFG)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_CULTURE",
+                        "de": "Kultur",
+                        "en": "Culture"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001711",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/e7/a3/286760/Stellungnahme-Gutachten-SG2405060001.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                        "de": "Bundeskanzleramt (BKAmt)",
+                                        "en": "Bundeskanzleramt (BKAmt)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-01"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0001711",
+                        "regulatoryProjectTitle": "FFG Novellierung - Einflussnahme zu Gunsten der Kinobetriebe",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "\r\n\r\n\r\n\r\n\r\n\r\n    \t\r\nSTELLUNGNAHME \r\nZUM REFERENTENENTWURF \r\nDES FILMF\u00d6RDERUNGSGESETZES \r\nUNTER BER\u00dcCKSICHTIGUNG DER WEITEREN DISKUSSIONSVORSCHL\u00c4GE\r\nZUR NEUGESTALTUNG DER FILMF\u00d6RDERINSTRUMENTE DES BUNDES\r\n\r\n[Stand: Berlin, 1. M\u00e4rz 2024]\r\n                      \r\n\r\n\r\n\r\n\r\n\r\n\t\r\nMit ihrem \u201egro\u00dfen Wurf\u201c an verschiedenen Gesetzesinitiativen zielt die Beauftragte f\u00fcr Kultur und Medien nach eigenen Aussagen darauf ab, den deutschen Film sowie den hiesigen Filmstandort und damit die Filmbranche insgesamt wirkungsvoller als bisher zu unterst\u00fctzen. Unbestritten best\u00e4tigt der analytische Blick auf die Marktentwicklun-gen unserer Branche die Notwendigkeit, mit einem ganzheitlich abge-stimmten Ma\u00dfnahmenpaket effektivere Anreize f\u00fcr eine re\u00fcssierende Filmwirtschaft zu setzen. W\u00e4hrend die vorgelegten Instrumente durchaus versprechen, ein Booster f\u00fcr den produzierenden Teil der Branche zu werden, herrscht mit Blick auf die zur Wertsch\u00f6pfung von Filmen ma\u00dfgeblichen Auswertung im Kino noch eine erschreckende L\u00fccke. Der HDF KINO e.V. appelliert vor diesem Hintergrund daf\u00fcr, im weiteren politischen Prozess komplement\u00e4r zu den vorgestellten Mei-lensteinen f\u00fcr filmische Inhalte aus Deutschland auch erfolgsverspre-chende Rahmenbedingungen f\u00fcr eine leistungsf\u00e4hige inl\u00e4ndische Ki-no-Infrastruktur mitzudenken. \r\n \r\nDie Zugkraft des Kinos ist f\u00fcr den notwendigen Aufschwung des Gesamtmarktes nicht zu ersetzen. Zwei Voraussetzungen sind essenziell, um aus dem vorgelegten Referentenentwurf des FFG sowie den \u00dcberlegungen zu den weiteren Gesetzes-vorhaben ein Gesamtgef\u00fcge zu machen, dessen Zahnr\u00e4der effektiv ineinandergrei-fen:\r\n1.) Zum einen die F\u00e4higkeit, fl\u00e4chendeckend Investitionen in deutsche Kinostand-orte t\u00e4tigen zu k\u00f6nnen \u2013 und damit nicht nur das seit der Pandemie z\u00f6gerliche Publikum wieder zur\u00fcckzugewinnen, sondern auch den Return of Investment aller Branchenakteure zu steigern. Verschiedene Untersuchungen haben nachweislich belegt, dass investive F\u00f6rderinstrumente eine veritable Hilfe zur Selbsthilfe der Kinobetreiber*innen sind und unabdingbar, um den enormen Investitionsstau von 112 Mio. Euro pro Jahr stemmen zu k\u00f6nnen. Nur mit dieser Unterst\u00fctzung k\u00f6nnen die Kinos ihrer gesellschaftlichen Aufgabe als niedrigschwelliges Kulturangebot langfristig nachkommen. Gerade im l\u00e4ndlichen Raum stellen sie den oft einzigen Ort kulturellen Austausches dar und tragen somit auch ma\u00dfgeblich zur F\u00f6rderung demokratischer Werte bei. Umso fataler ist es, dass neben der abgabefinanzierten F\u00f6rderung der FFA keine steuermittelfinanzierte Kino- und Verleihinvestitionsf\u00f6r-derung mehr vorgesehen scheint. Dabei hat gerade erst die erneut hohe Nachfrage beim Zukunftsprogramm Kino ganz konkret gezeigt, wie hoch der Bedarf und die Notwendigkeit eines solchen F\u00f6rderinstruments ist. Die St\u00e4rkung des Verleihs sei hier auch von Kinoseite nochmal klar gefordert, die Filmbranche muss die produ-zierten Filme auch sichtbar machen und das kann nur \u00fcber die Verleiht\u00e4tigkeit ge-schehen.\r\n2.) Genauso wichtig wie eine ausreichende monet\u00e4re Unterst\u00fctzung ist der ord-nungspolitischer Schutzraum einer exklusiven Auswertung von gef\u00f6rderten Fil-men im Kino. Eine weitere Reduzierung der Sperrfristen, abweichend wie sie in der sog. Branchenvereinbarung geregelt sind, wird den erfolgreichen Einsatz dieser Produktionen auf der gro\u00dfen Leinwand erheblich schm\u00e4lern. Das auch von den Produzenten ausgesprochene Ziel, mit deutschen Filmen 35 Mio. Zuschauer pro Jahr zu erreichen, wird mit dieser Aufweichung untergraben.\r\nDie Zugkraft des Kinos ist f\u00fcr die Prosperit\u00e4t des Gesamtmarktes nicht zu ersetzen. Die deutsche Filmwirtschaft hat ein Interesse daran, diesen Motor, von dem alle Partner profitieren, nicht zu Schaden kommen zu lassen, damit das Kino weiterhin ein attraktives und niedrigschwelliges Kulturangebot f\u00fcr alle bleibt. Unserem Pub-likum sollte es auch in Zukunft freistehen, gro\u00dfartige Filme auf der gro\u00dfen Lein-wand genie\u00dfen zu d\u00fcrfen. Und der Politik muss es ein Anliegen sein, das Ver-m\u00e4chtnis einer \u00fcber 127-j\u00e4hrigen Kulturinstitution nicht unter die R\u00e4der von glo-balen Plattformen geraten zu lassen. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBewertung einzelner \u00c4nderungsvorschl\u00e4ge laut FFG-RefE\r\n\r\n\r\n\r\nThema\r\n\t\r\n\u00c4nderung laut Referentenentwurf\t\r\nBewertung\r\n\r\nBarriere-freie\r\nFassung\t\r\n\uf0a7\t\u00a7 46: Verbesserter Zugang zu barrierefreien Filmfas-sung \u00fcber systemoffene kinounabh\u00e4ngige Wiederga-besysteme\r\n\t\r\n\r\n\r\n\r\n\r\n\r\n\r\nKino-\r\nf\u00f6rderung\r\n\t\r\n\uf0a7\t\u00a7 113: Teilautomatisierung der Kinof\u00f6rderung \r\n\r\n\uf0a7\t\u00a7 115: Anhebung des Zuschussanteils auf 50 Prozent\t\r\n\r\n\t\r\n\uf0a7\t\u00a7 113: Wegfall der Abspielf\u00f6rderung f\u00fcr Kurzfilme nach ehem. \u00a7 134(6)\r\n\r\n\uf0a7\t\u00a7115 Absatz 3: Gleichbehandlung der Antragssteller muss gew\u00e4hrleistet sein.\r\n\r\n\uf0a7\t\u00a7 117: Regelung des Vergabeverfahrens unklar \u2013 Mit-wirkung der Kinoverb\u00e4nde sollte festgelegt werden\t\r\n\r\n\r\n\r\n\r\n\r\n\t\r\n\r\n\r\nFilm-\r\nabgabe\r\n\t\r\n\uf0a7\t\u00a7 127: Umstellung von leinwand- auf kinobasierte Ab-rechnung mit ver\u00e4nderten Umsatzschwellen bei gleichbleibenden Abgabes\u00e4tzen f\u00fchrt zu einer erheb-lichen Mehrbelastung der kleinen und mittleren Film-theater \u2013 vor allem im l\u00e4ndlichen Raum\t\r\n\r\n\r\n\r\n\r\nVerwen-dung der Mittel\r\n\t\r\n\uf0a7\t\u00a7 135: Verdoppelung der Mittel zur Erf\u00fcllung des \u00a7 3 Abs. 2 nicht notwendig  \r\n\r\n\uf0a7\t10 Prozent der Kinof\u00f6rderung zuschlagen, damit diese auf 25 Prozent steigt und eine Gleichbehandlung auf Auswertungsseite geschaffen wird\r\n\t\r\n\r\n\r\n\r\n\r\n\r\nSperrfristen\r\n\r\n\r\n\r\n\t\r\n\uf0a7\t\u00a7 24: Verlagerung der Entscheidungskompetenz zum Vorstand anstelle des Pr\u00e4sidiums und damit Wegfall des Vetorechts f\u00fcr Kinoverb\u00e4nde bei Sperrfristenver-k\u00fcrzungen \r\n\r\n\uf0a7\t\u00a7 58: Reduzierung der Antragsperre von vier auf zwei Jahre\r\n\t\r\n\r\n\r\n\r\n\u2003\r\n \r\n\r\nNotwendiger Handlungsbedarf\r\n\r\n \r\nWir begr\u00fc\u00dfen die Aufnahme der Vor-schl\u00e4ge des HDF KINO in Bezug auf die Ausgestaltung der Kinof\u00f6rderung. Damit wird die M\u00f6glichkeit geschaf-fen eine unb\u00fcrokratische und effizi-ente F\u00f6rderung zu beantragen. Aus Sicht des HDF KINO ist der Referen-tenentwurf aufgrund der Erh\u00f6hung der Abgabenlast f\u00fcr die Kinos bei gleichzeitiger Stagnation der F\u00f6rder-mittel unausgewogen und die Film-theater werden \u00fcberm\u00e4\u00dfig belastet. Zus\u00e4tzlich droht eine Aufweichung der etablierten Auswertungsfenster zu Lasten der Kinos.\r\nDer HDF KINO sieht daher vor allem in den folgenden Bereichen dringen-den Korrektur- bzw. Handlungsbe-darf:\t\r\n1.\tAbgabeumstellung der Kinos f\u00fchrt zur Mehrbelastung durch die Hintert\u00fcr\r\nDie Umstellung der Regelung zur Filmabgabe der Kinos in \u00a7 127 FFG-RefE vom bisherigen Lein-wand-Modell hin zum Gesamtum-satz eines Filmtheaterbetriebes und der diesbez\u00fcglich vorgesehen Schwellen und Stufen der Abga-bens\u00e4tze f\u00fchrt vor allem bei klei-neren und mittelgro\u00dfen Filmthea-terbetrieben, die insbesondere im l\u00e4ndlichen Raum zu finden sind, zu einer deutlichen Erh\u00f6hung der Abgabenlast um bis zu 186 Pro-zent.\r\nDabei kommt es zu einer einseiti-gen Mehrbelastung der Kinos, die weiterhin mit den st\u00e4rksten Besu-cherr\u00fcckg\u00e4ngen im Vergleich zu den Jahren vor der Pandemie zu k\u00e4mpfen haben (siehe FFA-Ver\u00f6ffentlichung \u201eDas Kinojahr 2023\u201c).\r\nDer HDF KINO versteht zwar die  dieser Umstellung zugrunde lie-genden \u00dcberlegungen einer Ver-waltungsvereinfachung, aber die-se darf nicht dazu f\u00fchren, dass nun in nicht unerheblichem Ma\u00dfe Filmtheaterbetriebe mit deutlich h\u00f6heren Abgaben belastet wer-den. Hierdurch l\u00e4uft dieses Modell auch dem gemeinsamen Ziel des Ausbaus der Filmtheater-Infrastruktur im l\u00e4ndlichen Raum zuwider. Hier sollten die BKM, FFA und Kinos zusammen ein ausge-wogenes Abgabemodell erarbei-ten.\r\n\r\n2.\tAusgestaltung des Verfahrens der Kinof\u00f6rderung\r\nDer HDF KINO begr\u00fc\u00dft, dass der Referentenentwurf die Vorschl\u00e4ge bez\u00fcglich der Kinof\u00f6rderung wei-testgehend \u00fcbernommen hat. Al-lerdings k\u00f6nnen die Regelungen von \u00a7\u00a7 113 ff. FFG-RefE nicht iso-liert von den \u00fcbrigen Ma\u00dfnahmen der Kinof\u00f6rderung beurteilt wer-den. Insofern verweist der HDF KINO nochmals auf seine Position bez\u00fcglich des Ausbaus des Zu-kunftsprogramms Kino bzw. sons-tiger investitionsst\u00fctzender Ma\u00df-nahmen (wie diese derzeit f\u00fcr die Produktionswirtschaft geplant sind), wonach ein j\u00e4hrlicher F\u00f6r-derungsbedarf in H\u00f6he von 50 Millionen Euro \u00fcber die n\u00e4chsten Jahre zur Verbesserung der Ki-noinfrastruktur besteht. \r\nDer HDF KINO pl\u00e4diert daf\u00fcr das der \u00a7115 Abs. 3 gestrichen wird. Da die fachliche Eignung (\u00a7114 Abs. 2) bereits gepr\u00fcft wurde, ist es nicht ersichtlich, warum es bei den Antragsstellern keine Gleich-behandlung bzgl. des Zuschus-santeils gibt. \r\nEbenso sollten die Regeln zum Verfahren, insbesondere ange-messene Verteilung der F\u00f6rderhil-fen, in Absprache mit den Kino-verb\u00e4nden erfolgen.\r\nDer Wegfall der Abspielf\u00f6rderung f\u00fcr Kurzfilme sollte in jedem Fall \u00fcberdacht werden. Gerade f\u00fcr Ki-nos im l\u00e4ndlichen Raum, aber auch gro\u00dfe Kinobetriebe ist die F\u00f6rderung ein Anreiz, um \u00fcber-haupt Kurzfilme zu zeigen. Daher pl\u00e4diert der HDF KINO f\u00fcr die Bei-behaltung mit geringeren Mitteln.\r\n\r\n3.\tKeine weitere Aufweichung des Kinofensters im FFG \r\n\u00a7 54 FFG-RefE sieht nun als re-gelm\u00e4\u00dfige Sperrfristen die vom HDF KINO mit den anderen Bran-chenverb\u00e4nden in der sogenann-ten Branchenvereinbarung verab-redeten Sperrfristen vor, die deut-lich unterhalb der bisher gesetz-lich vorgesehenen Sperrfristdau-ern liegen. Einer weiteren Verk\u00fcr-zung \u2013 wie im Referentenentwurf im \u00a7 55 Abs. 1 ff vorgesehen \u2013 kann daher nur mit Zustimmung der Kinos erfolgen. \r\nGrunds\u00e4tzlich muss klargestellt werden, dass es eine absolute Ausnahme bleibt, dass Filme, die mit Mitteln der Kinoabgabe finan-ziert werden, auf 6 Monate f\u00fcr Free-TV verk\u00fcrzt oder \u00fcberhaupt nicht im Kino gezeigt werden. Um diesem besonderen Ausnahme-charakter gerecht zu werden, kann ein derartiger Antrag von einem Produzenten richtigerweise nur al-le vier Jahre gestellt werden. Der HDF KINO stimmt daher der Re-duzierung der Frist in \u00a7 58 Abs. 3 FFG-RefE von vier auf zwei Jahre nicht zu.  \r\nDie Sperrfristen sind f\u00fcr die Film-theater ein essenzielles Element des FFG. Gerade f\u00fcr die kleineren und unabh\u00e4ngigen Kinos, die Filme erst im sp\u00e4teren Verlauf der Kinoauswertung einsetzen k\u00f6n-nen. Aus diesem Grund ist in \u00a7 60 FFG-RefE vorzusehen, dass s\u00e4mt-liche Richtlinien, die die Sperrfris-ten betreffen, der Zustimmung der Mitglieder der Kinoverb\u00e4nde be-d\u00fcrfen. \u00a7 60 Abs. 2 FFG-RefE sieht aber derzeit vor, dass Richtlinien, die der Ausgestaltung der Aus-nahmen von \u00a7\u00a7 56-59 FFG-RefE betreffen, im Gegensatz zu den Richtlinien gem\u00e4\u00df \u00a7 60 Abs. 1 FFG-RefE nicht der Zustimmung der Mitglieder der Kinoverb\u00e4nde bed\u00fcrfen. \r\nAus gleichem Grund pl\u00e4diert der HDF KINO daf\u00fcr, dass es bei den bisherigen Regelungen von \u00a7 19 FFG bleibt, wonach das Pr\u00e4sidium \u00fcber au\u00dferordentliche Verk\u00fcrzun-gen der Sperrfristen entscheidet und es insofern der Zustimmung des Vertreters bzw. der Vertreterin der Kinoverb\u00e4nde bedarf. \r\nAuch wenn die weiteren S\u00e4ulen der Reform noch nicht vorliegen, weisen wir jetzt schon daraufhin, dass alle Kinofilme, welche mit \u00f6ffentlichen Geldern gef\u00f6rdert werden, den Sperrfristen des FFGs unterliegen m\u00fcssen!\t\r\n\r\n4.\tBedarfsgerechte Mittelverwen-dung\r\nDie Aufteilung der Einnahmen ist unausgewogen und geht eindeu-tig zu Lasten der Kinos. Gerade diese haben in den letzten Jahren immer wieder nachgewiesen, dass es einen Investitionsbedarf und -willen in H\u00f6he von 112 Mio. Euro pro Jahr gibt. Dieser Investitions-stau kann nicht allein von den Ki-nos getragen werden. Dabei zeigt auch eine aktuelle Ausarbeitung, dass renovierte H\u00e4user bis zu 30% mehr Besucher anlocken. Dies ist vor allen Dingen auch mit Blick auf die zuk\u00fcnftige Abgabe an die FFA elementar, je mehr Besucher ins Kino kommen, umso mehr Ab-gabe zahlen die Kinos. Da keine weitere F\u00f6rderung \u00fcber bspw. ein Steueranreizmodell vorgesehen ist und das erfolgreiche Zukunfts-programm Kino in den letzten Jahren nach regelm\u00e4\u00dfig nach kur-zer Zeit \u00fcberzeichnet war, muss der prozentuale Anteil der Ki-nof\u00f6rderung an den Gesamtmit-teln um 10% angehoben werden. Damit wird die Auswertungsseite (Verleih & Kino) in sich gleichbe-handelt - wovon letztlich der deutsche Kinofilm profitiert. Eine Verdoppelung der Mittel f\u00fcr \u00a7 3 ist aus unserer Sicht nicht notwen-dig, da reine kulturelle F\u00f6rder-ma\u00dfnahmen wie \u201eFilmisches Erbe\u201c \u00fcber die BKM zuk\u00fcnftig abgedeckt werden soll(t)en.\r\n\r\n \r\n\u00dcBER DEN HDF KINO \r\nDer HDF KINO e.V. ist die zentrale Interessensgemeinschaft der Kinobetrei-ber*innen in Deutschland und vertritt deren Belange gegen\u00fcber Politik und Wirt-schaft. Mit mehr als 600 Mitgliedsunternehmen, die etwa 80 Prozent der deut-schen Leinw\u00e4nde       bespielen, repr\u00e4sentieren wir ein breites Spektrum an Be-triebstypen \u2013 von kleinen Lichtspielh\u00e4usern auf dem Land \u00fcber Filmkunsttheater und mittelst\u00e4ndische Kinos bis hin zu Multiplexen. Unser Ziel ist es, die Vielfalt und Qualit\u00e4t der deutschen Kinolandschaft zu st\u00e4rken und Filmen eine optimale Auswertung auf der gro\u00dfen Leinwand zu erm\u00f6glichen.\r\nANSPRECHPARTNER ZUM THEMA\r\nVorstandsvorsitzende \t\t\t\t\r\nChristine Berg \t\t\t\t\t\r\nberg@hdf-kino.de \t\t\t\t\t\r\n"
+                        }
+                    }
+                ],
+                "title": "FFG Novellierung - Einflussnahme zu Gunsten der Kinobetriebe"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/e7/a3/286760/Stellungnahme-Gutachten-SG2405060001.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                "de": "Bundeskanzleramt (BKAmt)",
+                                "en": "Bundeskanzleramt (BKAmt)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-01"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0001711",
+                "regulatoryProjectTitle": "FFG Novellierung - Einflussnahme zu Gunsten der Kinobetriebe",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "\r\n\r\n\r\n\r\n\r\n\r\n    \t\r\nSTELLUNGNAHME \r\nZUM REFERENTENENTWURF \r\nDES FILMF\u00d6RDERUNGSGESETZES \r\nUNTER BER\u00dcCKSICHTIGUNG DER WEITEREN DISKUSSIONSVORSCHL\u00c4GE\r\nZUR NEUGESTALTUNG DER FILMF\u00d6RDERINSTRUMENTE DES BUNDES\r\n\r\n[Stand: Berlin, 1. M\u00e4rz 2024]\r\n                      \r\n\r\n\r\n\r\n\r\n\r\n\t\r\nMit ihrem \u201egro\u00dfen Wurf\u201c an verschiedenen Gesetzesinitiativen zielt die Beauftragte f\u00fcr Kultur und Medien nach eigenen Aussagen darauf ab, den deutschen Film sowie den hiesigen Filmstandort und damit die Filmbranche insgesamt wirkungsvoller als bisher zu unterst\u00fctzen. Unbestritten best\u00e4tigt der analytische Blick auf die Marktentwicklun-gen unserer Branche die Notwendigkeit, mit einem ganzheitlich abge-stimmten Ma\u00dfnahmenpaket effektivere Anreize f\u00fcr eine re\u00fcssierende Filmwirtschaft zu setzen. W\u00e4hrend die vorgelegten Instrumente durchaus versprechen, ein Booster f\u00fcr den produzierenden Teil der Branche zu werden, herrscht mit Blick auf die zur Wertsch\u00f6pfung von Filmen ma\u00dfgeblichen Auswertung im Kino noch eine erschreckende L\u00fccke. Der HDF KINO e.V. appelliert vor diesem Hintergrund daf\u00fcr, im weiteren politischen Prozess komplement\u00e4r zu den vorgestellten Mei-lensteinen f\u00fcr filmische Inhalte aus Deutschland auch erfolgsverspre-chende Rahmenbedingungen f\u00fcr eine leistungsf\u00e4hige inl\u00e4ndische Ki-no-Infrastruktur mitzudenken. \r\n \r\nDie Zugkraft des Kinos ist f\u00fcr den notwendigen Aufschwung des Gesamtmarktes nicht zu ersetzen. Zwei Voraussetzungen sind essenziell, um aus dem vorgelegten Referentenentwurf des FFG sowie den \u00dcberlegungen zu den weiteren Gesetzes-vorhaben ein Gesamtgef\u00fcge zu machen, dessen Zahnr\u00e4der effektiv ineinandergrei-fen:\r\n1.) Zum einen die F\u00e4higkeit, fl\u00e4chendeckend Investitionen in deutsche Kinostand-orte t\u00e4tigen zu k\u00f6nnen \u2013 und damit nicht nur das seit der Pandemie z\u00f6gerliche Publikum wieder zur\u00fcckzugewinnen, sondern auch den Return of Investment aller Branchenakteure zu steigern. Verschiedene Untersuchungen haben nachweislich belegt, dass investive F\u00f6rderinstrumente eine veritable Hilfe zur Selbsthilfe der Kinobetreiber*innen sind und unabdingbar, um den enormen Investitionsstau von 112 Mio. Euro pro Jahr stemmen zu k\u00f6nnen. Nur mit dieser Unterst\u00fctzung k\u00f6nnen die Kinos ihrer gesellschaftlichen Aufgabe als niedrigschwelliges Kulturangebot langfristig nachkommen. Gerade im l\u00e4ndlichen Raum stellen sie den oft einzigen Ort kulturellen Austausches dar und tragen somit auch ma\u00dfgeblich zur F\u00f6rderung demokratischer Werte bei. Umso fataler ist es, dass neben der abgabefinanzierten F\u00f6rderung der FFA keine steuermittelfinanzierte Kino- und Verleihinvestitionsf\u00f6r-derung mehr vorgesehen scheint. Dabei hat gerade erst die erneut hohe Nachfrage beim Zukunftsprogramm Kino ganz konkret gezeigt, wie hoch der Bedarf und die Notwendigkeit eines solchen F\u00f6rderinstruments ist. Die St\u00e4rkung des Verleihs sei hier auch von Kinoseite nochmal klar gefordert, die Filmbranche muss die produ-zierten Filme auch sichtbar machen und das kann nur \u00fcber die Verleiht\u00e4tigkeit ge-schehen.\r\n2.) Genauso wichtig wie eine ausreichende monet\u00e4re Unterst\u00fctzung ist der ord-nungspolitischer Schutzraum einer exklusiven Auswertung von gef\u00f6rderten Fil-men im Kino. Eine weitere Reduzierung der Sperrfristen, abweichend wie sie in der sog. Branchenvereinbarung geregelt sind, wird den erfolgreichen Einsatz dieser Produktionen auf der gro\u00dfen Leinwand erheblich schm\u00e4lern. Das auch von den Produzenten ausgesprochene Ziel, mit deutschen Filmen 35 Mio. Zuschauer pro Jahr zu erreichen, wird mit dieser Aufweichung untergraben.\r\nDie Zugkraft des Kinos ist f\u00fcr die Prosperit\u00e4t des Gesamtmarktes nicht zu ersetzen. Die deutsche Filmwirtschaft hat ein Interesse daran, diesen Motor, von dem alle Partner profitieren, nicht zu Schaden kommen zu lassen, damit das Kino weiterhin ein attraktives und niedrigschwelliges Kulturangebot f\u00fcr alle bleibt. Unserem Pub-likum sollte es auch in Zukunft freistehen, gro\u00dfartige Filme auf der gro\u00dfen Lein-wand genie\u00dfen zu d\u00fcrfen. Und der Politik muss es ein Anliegen sein, das Ver-m\u00e4chtnis einer \u00fcber 127-j\u00e4hrigen Kulturinstitution nicht unter die R\u00e4der von glo-balen Plattformen geraten zu lassen. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBewertung einzelner \u00c4nderungsvorschl\u00e4ge laut FFG-RefE\r\n\r\n\r\n\r\nThema\r\n\t\r\n\u00c4nderung laut Referentenentwurf\t\r\nBewertung\r\n\r\nBarriere-freie\r\nFassung\t\r\n\uf0a7\t\u00a7 46: Verbesserter Zugang zu barrierefreien Filmfas-sung \u00fcber systemoffene kinounabh\u00e4ngige Wiederga-besysteme\r\n\t\r\n\r\n\r\n\r\n\r\n\r\n\r\nKino-\r\nf\u00f6rderung\r\n\t\r\n\uf0a7\t\u00a7 113: Teilautomatisierung der Kinof\u00f6rderung \r\n\r\n\uf0a7\t\u00a7 115: Anhebung des Zuschussanteils auf 50 Prozent\t\r\n\r\n\t\r\n\uf0a7\t\u00a7 113: Wegfall der Abspielf\u00f6rderung f\u00fcr Kurzfilme nach ehem. \u00a7 134(6)\r\n\r\n\uf0a7\t\u00a7115 Absatz 3: Gleichbehandlung der Antragssteller muss gew\u00e4hrleistet sein.\r\n\r\n\uf0a7\t\u00a7 117: Regelung des Vergabeverfahrens unklar \u2013 Mit-wirkung der Kinoverb\u00e4nde sollte festgelegt werden\t\r\n\r\n\r\n\r\n\r\n\r\n\t\r\n\r\n\r\nFilm-\r\nabgabe\r\n\t\r\n\uf0a7\t\u00a7 127: Umstellung von leinwand- auf kinobasierte Ab-rechnung mit ver\u00e4nderten Umsatzschwellen bei gleichbleibenden Abgabes\u00e4tzen f\u00fchrt zu einer erheb-lichen Mehrbelastung der kleinen und mittleren Film-theater \u2013 vor allem im l\u00e4ndlichen Raum\t\r\n\r\n\r\n\r\n\r\nVerwen-dung der Mittel\r\n\t\r\n\uf0a7\t\u00a7 135: Verdoppelung der Mittel zur Erf\u00fcllung des \u00a7 3 Abs. 2 nicht notwendig  \r\n\r\n\uf0a7\t10 Prozent der Kinof\u00f6rderung zuschlagen, damit diese auf 25 Prozent steigt und eine Gleichbehandlung auf Auswertungsseite geschaffen wird\r\n\t\r\n\r\n\r\n\r\n\r\n\r\nSperrfristen\r\n\r\n\r\n\r\n\t\r\n\uf0a7\t\u00a7 24: Verlagerung der Entscheidungskompetenz zum Vorstand anstelle des Pr\u00e4sidiums und damit Wegfall des Vetorechts f\u00fcr Kinoverb\u00e4nde bei Sperrfristenver-k\u00fcrzungen \r\n\r\n\uf0a7\t\u00a7 58: Reduzierung der Antragsperre von vier auf zwei Jahre\r\n\t\r\n\r\n\r\n\r\n\u2003\r\n \r\n\r\nNotwendiger Handlungsbedarf\r\n\r\n \r\nWir begr\u00fc\u00dfen die Aufnahme der Vor-schl\u00e4ge des HDF KINO in Bezug auf die Ausgestaltung der Kinof\u00f6rderung. Damit wird die M\u00f6glichkeit geschaf-fen eine unb\u00fcrokratische und effizi-ente F\u00f6rderung zu beantragen. Aus Sicht des HDF KINO ist der Referen-tenentwurf aufgrund der Erh\u00f6hung der Abgabenlast f\u00fcr die Kinos bei gleichzeitiger Stagnation der F\u00f6rder-mittel unausgewogen und die Film-theater werden \u00fcberm\u00e4\u00dfig belastet. Zus\u00e4tzlich droht eine Aufweichung der etablierten Auswertungsfenster zu Lasten der Kinos.\r\nDer HDF KINO sieht daher vor allem in den folgenden Bereichen dringen-den Korrektur- bzw. Handlungsbe-darf:\t\r\n1.\tAbgabeumstellung der Kinos f\u00fchrt zur Mehrbelastung durch die Hintert\u00fcr\r\nDie Umstellung der Regelung zur Filmabgabe der Kinos in \u00a7 127 FFG-RefE vom bisherigen Lein-wand-Modell hin zum Gesamtum-satz eines Filmtheaterbetriebes und der diesbez\u00fcglich vorgesehen Schwellen und Stufen der Abga-bens\u00e4tze f\u00fchrt vor allem bei klei-neren und mittelgro\u00dfen Filmthea-terbetrieben, die insbesondere im l\u00e4ndlichen Raum zu finden sind, zu einer deutlichen Erh\u00f6hung der Abgabenlast um bis zu 186 Pro-zent.\r\nDabei kommt es zu einer einseiti-gen Mehrbelastung der Kinos, die weiterhin mit den st\u00e4rksten Besu-cherr\u00fcckg\u00e4ngen im Vergleich zu den Jahren vor der Pandemie zu k\u00e4mpfen haben (siehe FFA-Ver\u00f6ffentlichung \u201eDas Kinojahr 2023\u201c).\r\nDer HDF KINO versteht zwar die  dieser Umstellung zugrunde lie-genden \u00dcberlegungen einer Ver-waltungsvereinfachung, aber die-se darf nicht dazu f\u00fchren, dass nun in nicht unerheblichem Ma\u00dfe Filmtheaterbetriebe mit deutlich h\u00f6heren Abgaben belastet wer-den. Hierdurch l\u00e4uft dieses Modell auch dem gemeinsamen Ziel des Ausbaus der Filmtheater-Infrastruktur im l\u00e4ndlichen Raum zuwider. Hier sollten die BKM, FFA und Kinos zusammen ein ausge-wogenes Abgabemodell erarbei-ten.\r\n\r\n2.\tAusgestaltung des Verfahrens der Kinof\u00f6rderung\r\nDer HDF KINO begr\u00fc\u00dft, dass der Referentenentwurf die Vorschl\u00e4ge bez\u00fcglich der Kinof\u00f6rderung wei-testgehend \u00fcbernommen hat. Al-lerdings k\u00f6nnen die Regelungen von \u00a7\u00a7 113 ff. FFG-RefE nicht iso-liert von den \u00fcbrigen Ma\u00dfnahmen der Kinof\u00f6rderung beurteilt wer-den. Insofern verweist der HDF KINO nochmals auf seine Position bez\u00fcglich des Ausbaus des Zu-kunftsprogramms Kino bzw. sons-tiger investitionsst\u00fctzender Ma\u00df-nahmen (wie diese derzeit f\u00fcr die Produktionswirtschaft geplant sind), wonach ein j\u00e4hrlicher F\u00f6r-derungsbedarf in H\u00f6he von 50 Millionen Euro \u00fcber die n\u00e4chsten Jahre zur Verbesserung der Ki-noinfrastruktur besteht. \r\nDer HDF KINO pl\u00e4diert daf\u00fcr das der \u00a7115 Abs. 3 gestrichen wird. Da die fachliche Eignung (\u00a7114 Abs. 2) bereits gepr\u00fcft wurde, ist es nicht ersichtlich, warum es bei den Antragsstellern keine Gleich-behandlung bzgl. des Zuschus-santeils gibt. \r\nEbenso sollten die Regeln zum Verfahren, insbesondere ange-messene Verteilung der F\u00f6rderhil-fen, in Absprache mit den Kino-verb\u00e4nden erfolgen.\r\nDer Wegfall der Abspielf\u00f6rderung f\u00fcr Kurzfilme sollte in jedem Fall \u00fcberdacht werden. Gerade f\u00fcr Ki-nos im l\u00e4ndlichen Raum, aber auch gro\u00dfe Kinobetriebe ist die F\u00f6rderung ein Anreiz, um \u00fcber-haupt Kurzfilme zu zeigen. Daher pl\u00e4diert der HDF KINO f\u00fcr die Bei-behaltung mit geringeren Mitteln.\r\n\r\n3.\tKeine weitere Aufweichung des Kinofensters im FFG \r\n\u00a7 54 FFG-RefE sieht nun als re-gelm\u00e4\u00dfige Sperrfristen die vom HDF KINO mit den anderen Bran-chenverb\u00e4nden in der sogenann-ten Branchenvereinbarung verab-redeten Sperrfristen vor, die deut-lich unterhalb der bisher gesetz-lich vorgesehenen Sperrfristdau-ern liegen. Einer weiteren Verk\u00fcr-zung \u2013 wie im Referentenentwurf im \u00a7 55 Abs. 1 ff vorgesehen \u2013 kann daher nur mit Zustimmung der Kinos erfolgen. \r\nGrunds\u00e4tzlich muss klargestellt werden, dass es eine absolute Ausnahme bleibt, dass Filme, die mit Mitteln der Kinoabgabe finan-ziert werden, auf 6 Monate f\u00fcr Free-TV verk\u00fcrzt oder \u00fcberhaupt nicht im Kino gezeigt werden. Um diesem besonderen Ausnahme-charakter gerecht zu werden, kann ein derartiger Antrag von einem Produzenten richtigerweise nur al-le vier Jahre gestellt werden. Der HDF KINO stimmt daher der Re-duzierung der Frist in \u00a7 58 Abs. 3 FFG-RefE von vier auf zwei Jahre nicht zu.  \r\nDie Sperrfristen sind f\u00fcr die Film-theater ein essenzielles Element des FFG. Gerade f\u00fcr die kleineren und unabh\u00e4ngigen Kinos, die Filme erst im sp\u00e4teren Verlauf der Kinoauswertung einsetzen k\u00f6n-nen. Aus diesem Grund ist in \u00a7 60 FFG-RefE vorzusehen, dass s\u00e4mt-liche Richtlinien, die die Sperrfris-ten betreffen, der Zustimmung der Mitglieder der Kinoverb\u00e4nde be-d\u00fcrfen. \u00a7 60 Abs. 2 FFG-RefE sieht aber derzeit vor, dass Richtlinien, die der Ausgestaltung der Aus-nahmen von \u00a7\u00a7 56-59 FFG-RefE betreffen, im Gegensatz zu den Richtlinien gem\u00e4\u00df \u00a7 60 Abs. 1 FFG-RefE nicht der Zustimmung der Mitglieder der Kinoverb\u00e4nde bed\u00fcrfen. \r\nAus gleichem Grund pl\u00e4diert der HDF KINO daf\u00fcr, dass es bei den bisherigen Regelungen von \u00a7 19 FFG bleibt, wonach das Pr\u00e4sidium \u00fcber au\u00dferordentliche Verk\u00fcrzun-gen der Sperrfristen entscheidet und es insofern der Zustimmung des Vertreters bzw. der Vertreterin der Kinoverb\u00e4nde bedarf. \r\nAuch wenn die weiteren S\u00e4ulen der Reform noch nicht vorliegen, weisen wir jetzt schon daraufhin, dass alle Kinofilme, welche mit \u00f6ffentlichen Geldern gef\u00f6rdert werden, den Sperrfristen des FFGs unterliegen m\u00fcssen!\t\r\n\r\n4.\tBedarfsgerechte Mittelverwen-dung\r\nDie Aufteilung der Einnahmen ist unausgewogen und geht eindeu-tig zu Lasten der Kinos. Gerade diese haben in den letzten Jahren immer wieder nachgewiesen, dass es einen Investitionsbedarf und -willen in H\u00f6he von 112 Mio. Euro pro Jahr gibt. Dieser Investitions-stau kann nicht allein von den Ki-nos getragen werden. Dabei zeigt auch eine aktuelle Ausarbeitung, dass renovierte H\u00e4user bis zu 30% mehr Besucher anlocken. Dies ist vor allen Dingen auch mit Blick auf die zuk\u00fcnftige Abgabe an die FFA elementar, je mehr Besucher ins Kino kommen, umso mehr Ab-gabe zahlen die Kinos. Da keine weitere F\u00f6rderung \u00fcber bspw. ein Steueranreizmodell vorgesehen ist und das erfolgreiche Zukunfts-programm Kino in den letzten Jahren nach regelm\u00e4\u00dfig nach kur-zer Zeit \u00fcberzeichnet war, muss der prozentuale Anteil der Ki-nof\u00f6rderung an den Gesamtmit-teln um 10% angehoben werden. Damit wird die Auswertungsseite (Verleih & Kino) in sich gleichbe-handelt - wovon letztlich der deutsche Kinofilm profitiert. Eine Verdoppelung der Mittel f\u00fcr \u00a7 3 ist aus unserer Sicht nicht notwen-dig, da reine kulturelle F\u00f6rder-ma\u00dfnahmen wie \u201eFilmisches Erbe\u201c \u00fcber die BKM zuk\u00fcnftig abgedeckt werden soll(t)en.\r\n\r\n \r\n\u00dcBER DEN HDF KINO \r\nDer HDF KINO e.V. ist die zentrale Interessensgemeinschaft der Kinobetrei-ber*innen in Deutschland und vertritt deren Belange gegen\u00fcber Politik und Wirt-schaft. Mit mehr als 600 Mitgliedsunternehmen, die etwa 80 Prozent der deut-schen Leinw\u00e4nde       bespielen, repr\u00e4sentieren wir ein breites Spektrum an Be-triebstypen \u2013 von kleinen Lichtspielh\u00e4usern auf dem Land \u00fcber Filmkunsttheater und mittelst\u00e4ndische Kinos bis hin zu Multiplexen. Unser Ziel ist es, die Vielfalt und Qualit\u00e4t der deutschen Kinolandschaft zu st\u00e4rken und Filmen eine optimale Auswertung auf der gro\u00dfen Leinwand zu erm\u00f6glichen.\r\nANSPRECHPARTNER ZUM THEMA\r\nVorstandsvorsitzende \t\t\t\t\r\nChristine Berg \t\t\t\t\t\r\nberg@hdf-kino.de \t\t\t\t\t\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

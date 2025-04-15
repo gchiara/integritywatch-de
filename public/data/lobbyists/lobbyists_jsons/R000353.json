@@ -1,0 +1,528 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-09-28T13:01:07.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-08T16:29:30.000+01:00",
+        "lastUpdateDate": "2024-07-02T11:02:10.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 40612,
+                "validFromDate": "2024-07-02T11:02:10.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 38726,
+                "validFromDate": "2024-06-24T11:48:35.000+02:00",
+                "validUntilDate": "2024-07-02T11:02:10.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 31232,
+                "validFromDate": "2024-06-24T10:48:02.000+02:00",
+                "validUntilDate": "2024-06-24T11:48:35.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 34526,
+                "validFromDate": "2024-05-28T10:05:47.000+02:00",
+                "validUntilDate": "2024-06-24T10:48:02.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25448,
+                "validFromDate": "2023-09-05T15:28:59.000+02:00",
+                "validUntilDate": "2024-05-28T10:05:47.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22081,
+                "validFromDate": "2023-06-22T10:45:08.000+02:00",
+                "validUntilDate": "2023-09-05T15:28:59.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 5088,
+                "validFromDate": "2022-09-28T13:01:07.000+02:00",
+                "validUntilDate": "2023-06-22T10:45:08.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_NONPROFIT_ORGA_V2",
+            "de": "Nichtregierungsorganisation (NGO)",
+            "en": "Non-governmental organization (NGO)"
+        },
+        "activityDescription": "Wir setzen uns f\u00fcr eine nachhaltige Rohstoff- und Handelspolitik ein, die den Menschen n\u00fctzt und das Klima sch\u00fctzt. Hierzu erstellen wir Studien, \u00dcberblickspublikationen und Analysen, die wir in die breite \u00d6ffentlichkeit tragen. Auch Politiker*innen schreiben wir an, senden unsere Druckerzeugnisse zu und suchen den Austausch zu unseren Themen. In der Klima- und Energiepolitik setzen wir uns f\u00fcr einen baldigen Ausstieg aus der Nutzung fossiler Energietr\u00e4ger sowie eine global gerechte Energiewende und Wasserstoffwirtschaft ein. Durch Anschreiben, Gespr\u00e4che und Einladungen zu Austausch- und Informationsveranstaltungen suchen wir auch direkten Kontakt zu Politikerinnen und Politikern, insbesondere Mitgliedern des Deutschen Bundestages, um diese von unseren Positionen zu \u00fcberzeugen.\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ECONOMY_AUTOMOBILE",
+                "de": "Automobilwirtschaft",
+                "en": "Automotive industry"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_FA_BRD",
+                "de": "Au\u00dfenpolitik",
+                "en": "Foreign policy of the federal republic of Germany"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_OTHER",
+                "de": "Sonstige Interessenbereiche",
+                "en": "Other areas",
+                "fieldOfInterestText": "Rohstoffpolitik"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/ab/c7/329113/PowerShift-Bilanz-GuV-Stand-12-04-24-ohne-Namen.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 110001,
+            "to": 120000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 5.25,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "PowerShift e.V.",
+            "street": "Greifswalder Str.",
+            "streetNumber": "4",
+            "type": "NATIONAL",
+            "zipCode": "10405"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@power-shift.de"
+                },
+                {
+                    "email": "tine.laufer@power-shift.de"
+                }
+            ],
+            "phoneNumber": "+493027875736",
+            "websites": [
+                {
+                    "website": "power-shift.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Alessa",
+                "lastName": "Hartmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Reckordt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Fabian",
+                "lastName": "Flues",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Hannah",
+                "lastName": "Pilgrim",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Bettina",
+                "lastName": "M\u00fcller",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Hendrik",
+                "lastName": "Schnittker",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Fritz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Neelke",
+                "lastName": "Wagner",
+                "recentGovernmentFunction": {
+                    "endDate": "2021-10",
+                    "ended": true,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_PARLIAMENTARY_GROUP",
+                            "de": "Funktion f\u00fcr eine Fraktion/Gruppe im Deutschen Bundestag",
+                            "en": "Function for a parliamentary group/group in the German Bundestag"
+                        },
+                        "functionPosition": "Referentin f\u00fcr Energie und Klima"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "firstName": "Vanessa",
+                "lastName": "Fischer",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Peter",
+                "function": "gesch\u00e4ftsf\u00fchrender Vorstand",
+                "lastName": "Fuchs",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Bernd",
+                "function": "Vorstand",
+                "lastName": "Brouns",
+                "recentGovernmentFunction": {
+                    "endDate": "2021-12",
+                    "ended": true,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_PARLIAMENTARY_GROUP",
+                            "de": "Funktion f\u00fcr eine Fraktion/Gruppe im Deutschen Bundestag",
+                            "en": "Function for a parliamentary group/group in the German Bundestag"
+                        },
+                        "functionPosition": "Referent f\u00fcr eine BT-Fraktion"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Tine",
+                "function": "gesch\u00e4ftsf\u00fchrender Vorstand",
+                "lastName": "Laufer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Merle",
+                "function": "Vorstand",
+                "lastName": "Groneweg",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-05-07",
+            "naturalPersons": 34,
+            "organizations": 0,
+            "totalCount": 34
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Allianz Rechtssicherheit"
+            },
+            {
+                "membership": "Berliner Entwicklungspolitischer Ratschlag"
+            },
+            {
+                "membership": "B\u00fcndnis Berliner Stra\u00dfen f\u00fcr alle"
+            },
+            {
+                "membership": "Berlin Global Village e.V"
+            },
+            {
+                "membership": "Climate Action Network Europe (CAN)"
+            },
+            {
+                "membership": "Netzwerk Gerechter Welthandel "
+            },
+            {
+                "membership": "Seattle to Brussels-Netzwerk"
+            },
+            {
+                "membership": "AK Rohstoffe"
+            },
+            {
+                "membership": "CorA-Corporate Accountability"
+            },
+            {
+                "membership": "Netzwerk f\u00fcr Unternehmensverantwortung"
+            },
+            {
+                "membership": "Treaty Alliance"
+            },
+            {
+                "membership": " EU Raw Materials Coalition"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "PowerShift e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 1,
+            "to": 10000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Projektf\u00f6rderung f\u00fcr zwei Projekte im Bereich Handels- und Klimapolitik",
+                "location": "Greifswalder Stra\u00dfe 33a, 10405 Berlin",
+                "name": "Stiftung Nord S\u00fcd Br\u00fccken",
+                "publicAllowanceEuro": {
+                    "from": 70001,
+                    "to": 80000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Projektf\u00f6rderung f\u00fcr ein Projekt im Bereich rohstoffpolitische Bildung",
+                "location": "Friedrich-Ebert-Allee 40, 53113 Bonn",
+                "name": "Engagement Global gGmbH",
+                "publicAllowanceEuro": {
+                    "from": 50001,
+                    "to": 60000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "F\u00f6rderung eines Projekts im Bereich Umwelt und Rohstoffe",
+                "location": "W\u00f6rlitzer Platz 1, 06844 Dessau-Ro\u00dflau",
+                "name": "Umweltbundesamt",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000353/40612",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-07-02T11:02:10.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/78/95/329114/Lobbyregister-Detailansicht-R000353-2024-07-02_11-02-10.pdf",
+        "validFromDate": "2024-07-02T11:02:10.000+02:00",
+        "version": 9
+    },
+    "registerEntryId": 40612,
+    "registerNumber": "R000353",
+    "regulatoryProjects": {
+        "regulatoryProjects": [],
+        "regulatoryProjectsPresent": false
+    },
+    "statements": {}
+}

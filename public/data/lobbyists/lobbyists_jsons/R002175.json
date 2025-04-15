@@ -1,0 +1,981 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-10-07T13:57:59.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-28T15:11:53.000+01:00",
+        "lastUpdateDate": "2024-06-26T17:45:37.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 39605,
+                "validFromDate": "2024-06-26T17:45:37.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 31114,
+                "validFromDate": "2024-06-25T14:07:00.000+02:00",
+                "validUntilDate": "2024-06-26T17:45:37.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23273,
+                "validFromDate": "2023-08-02T14:19:14.000+02:00",
+                "validUntilDate": "2024-06-25T14:07:00.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 9938,
+                "validFromDate": "2022-10-07T13:57:59.000+02:00",
+                "validUntilDate": "2023-08-02T14:19:14.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PROFESSION_ASSOC",
+            "de": "Berufsverband",
+            "en": "Professional association"
+        },
+        "activityDescription": "Der Deutsche Bauernverband e.V. (DBV) ist Unternehmerverband und Interessenvertreter f\u00fcr alle Landwirtinnen und Landwirte, ihre Familien sowie f\u00fcr die l\u00e4ndlichen R\u00e4ume. Der DBV steht mit politischen Entscheidungstr\u00e4gern, mit den Akteuren der Agrarwirtschaft sowie mit Medien und gesellschaftlichen Vertretern in st\u00e4ndigem Kontakt, um die Interessen seiner Mitglieder zu vertreten. \u00dcber die B\u00fcros in Berlin und Br\u00fcssel ist der DBV der zentrale Ansprechpartner f\u00fcr alle politischen Parteien, Verb\u00e4nde und Organisationen des \u00f6ffentlichen Lebens auf nationaler und europ\u00e4ischer Ebene.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_AF_FOOD_SAFETY",
+                "de": "Lebensmittelsicherheit",
+                "en": "Food safety"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/d7/64/316522/Deutscher-Bauernverband-e-V-_GuV-2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 32.23,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 4480001,
+            "to": 4490000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Claire-Waldoff-Stra\u00dfe",
+            "streetNumber": "7",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "presse@bauernverband.net"
+                }
+            ],
+            "phoneNumber": "+4930319040",
+            "websites": [
+                {
+                    "website": "www.bauernverband.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Joachim",
+                "lastName": "Rukwied",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "G\u00fcnther",
+                "lastName": "Fel\u00dfner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Bernhard",
+                "lastName": "Kr\u00fcsken",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Gerald",
+                "lastName": "Dohme",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Holger",
+                "lastName": "Hennies",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Torsten",
+                "lastName": "Krawczyk",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Karsten",
+                "lastName": "Schmal",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Susanne",
+                "lastName": "Schulze Bockeloh",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Leonie",
+                "lastName": "Langeneck",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Annett",
+                "lastName": "Brinckmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Florian",
+                "lastName": "Dalstein",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Wolfram",
+                "lastName": "Dienel",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Christopher",
+                "lastName": "Drees",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Roger",
+                "lastName": "Fechler",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Christian",
+                "lastName": "Gaebel",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Katharina",
+                "lastName": "Geiger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Victoria",
+                "lastName": "Graskemper",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Anders-Maximilian",
+                "lastName": "Gyllenstig",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Julia",
+                "lastName": "Hammermeister",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Theresa",
+                "lastName": "K\u00e4rtner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Kero",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Sophie",
+                "lastName": "Freiin Sch\u00fctz von Leerodt-Wrede",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Johann",
+                "lastName": "Meierh\u00f6fer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Petra",
+                "lastName": "N\u00fcssle",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Steffen",
+                "lastName": "Pingen",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Wiebke",
+                "lastName": "Porsch",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Franziska",
+                "lastName": "Schmieg",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Friederike",
+                "lastName": "Schulze H\u00fclshorst",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Nicole",
+                "lastName": "Spie\u00df",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Stefan",
+                "lastName": "V\u00f6ll",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Benjamin",
+                "lastName": "Walker",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Peter",
+                "lastName": "Jantsch",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Heinz",
+                "lastName": "M\u00f6ddel",
+                "recentGovernmentFunction": {
+                    "endDate": "2023-12",
+                    "ended": true,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_MEMBER",
+                            "de": "Funktion f\u00fcr ein Mitglied des Deutschen Bundestages",
+                            "en": "Function for a member of the German Bundestag"
+                        },
+                        "functionPosition": "Wissenschaftlicher Mitarbeiter"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "firstName": "Lisa",
+                "lastName": "Sbitnew",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Joachim",
+                "function": "Pr\u00e4sident",
+                "lastName": "Rukwied",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "G\u00fcnther",
+                "function": "Vizepr\u00e4sident",
+                "lastName": "Fel\u00dfner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Holger",
+                "function": "Vizepr\u00e4sident",
+                "lastName": "Hennies",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Torsten",
+                "function": "Vizepr\u00e4sident",
+                "lastName": "Krawczyk",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Karsten",
+                "function": "Vizepr\u00e4sident",
+                "lastName": "Schmal",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Susanne",
+                "function": "Vizepr\u00e4sidentin",
+                "lastName": "Schulze Bockeloh",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-03-26",
+            "naturalPersons": 0,
+            "organizations": 20,
+            "totalCount": 20
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "COPA-COGECA"
+            },
+            {
+                "membership": "Aktionsb\u00fcndnis Forum Natur GbR"
+            },
+            {
+                "membership": "Andreas Hermes Akademie im Bildungswerk der Deutschen Landwirtschaft e.V."
+            },
+            {
+                "membership": "Bundesarbeitsgemeinschaft f\u00fcr Urlaub auf dem Bauernhof und Landtourismus in Deutschland e.V. "
+            },
+            {
+                "membership": "Bundesmarktverband f\u00fcr Vieh und Fleisch"
+            },
+            {
+                "membership": "Bundesverband Bioenergie e.V."
+            },
+            {
+                "membership": "Bundesverband der deutschen Bioethanolwirtschaft e.V."
+            },
+            {
+                "membership": "Deutsche Gesellschaft f\u00fcr Agrarrecht e.V."
+            },
+            {
+                "membership": "Deutscher Forstwirtschaftsrat e.V."
+            },
+            {
+                "membership": "Forum Moderne Landwirtschaft e.V."
+            },
+            {
+                "membership": "German Export Association for Food and Agriproducts GEFA e.V."
+            },
+            {
+                "membership": "Global Forum for Food and Agriculture Berlin e.V."
+            },
+            {
+                "membership": "i.m.a information.medien.agrar e.V."
+            },
+            {
+                "membership": "ifo Institut - Leibniz-Institut f\u00fcr Wirtschaftsforschung an der Universit\u00e4t M\u00fcnchen e.V."
+            },
+            {
+                "membership": "Kuratorium der Deutschen Wirtschaft f\u00fcr Berufsbildung e.V. "
+            },
+            {
+                "membership": "Lebensmittelverband Deutschland e.V."
+            },
+            {
+                "membership": "QM-Milch e.V."
+            },
+            {
+                "membership": "Union der deutschen Kartoffelwirtschaft e.V."
+            },
+            {
+                "membership": "Union zur F\u00f6rderung von Oel- und Proteinpflanzen e.V."
+            },
+            {
+                "membership": "Verband der Deutschen Milchwirtschaft e.V."
+            },
+            {
+                "membership": "Verbindungsstelle Landwirtschaft-Industrie e.V."
+            },
+            {
+                "membership": "World Farmer\u00b4s Organisation"
+            },
+            {
+                "membership": "Zentrale Koordination Handel-Landwirtschaft e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Deutscher Bauernverband e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "Bayerischer Bauernverband K\u00f6rperschaft des \u00f6ffentlichen Rechts"
+            },
+            {
+                "name": "Landvolk Niedersachsen Landesbauernverband e.V."
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 6940001,
+            "to": 6950000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "HumusKlimaNetz\r\nDas HumusKlimaNetz ist ein Modell- und Demonstrationsvorhaben zum Humusaufbau in Ackerb\u00f6den. Es soll bis zun\u00e4chst Ende 2027 in bundesweit 150 Betrieben innovative und langfristig wirkende Ma\u00dfnahmen zum Humuserhalt und -aufbau erproben und in der Breite etablieren. Die Gesamtkoordination f\u00fcr das Vorhaben verantworten der Bund \u00d6kologische Lebensmittelwirtschaft (B\u00d6LW) und der Deutsche Bauernverband (DBV). Die wissenschaftliche Begleitung erfolgt durch das Th\u00fcnen-Institut. \r\nWeitere Informationen finden Sie unter: https://humus-klima-netz.de/ ",
+                "location": "Bonn",
+                "name": "Bundesanstalt f\u00fcr Landwirtschaft und Ern\u00e4hrung (BLE)",
+                "publicAllowanceEuro": {
+                    "from": 1510001,
+                    "to": 1520000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Berufswettbewerb der deutschen Landjugend\r\nDie Tr\u00e4ger des Berufswettbewerbs der deutschen Landjugend (BWB) wollen mit dem Wettbewerb die Lust zur Weiterqualifizierung im beruflichen und pers\u00f6nlichen Bereich wecken. Berufswettbewerb bedeutet zu lernen\r\nund dabei Spa\u00df zu haben, Leute in den gleichen Berufs- und Lebenszusammenh\u00e4ngen kennenzulernen und sich zu vernetzen. Gleichzeitig geht es darum, die Vielfalt der Gr\u00fcnen Berufe und das, was sie an Qualifikation verlangen, in die \u00d6ffentlichkeit zu tragen. \r\nWeitere Informationen finden Sie hier: https://www.landjugend.de/projekte/berufswettbewerb ",
+                "location": "Bonn",
+                "name": "Bundesanstalt f\u00fcr Landwirtschaft und Ern\u00e4hrung (BLE)",
+                "publicAllowanceEuro": {
+                    "from": 140001,
+                    "to": 150000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "EU-F\u00f6rdermittelprojekt \u00fcber das Leibniz-Zentrum f\u00fcr Agrarlandschaftsforschung \"Contracts 2.0\"\r\nDas in den vergangenen vier Jahren (2019-2023) durch die EU unter Horizon 2020 gef\u00f6rderte Projekt Contracts 2.0 erarbeitete mit einer gro\u00dfen Bandbreite an wissenschaftlicher Forschung und partizipativen Prozessen zwischen Landwirtschaft, Naturschutz und Administration innovative Gestaltungs- und Vertragsans\u00e4tze f\u00fcr wirksame und tragf\u00e4hige Agrarumweltprogramme. Insgesamt wirkten 28 europ\u00e4ische Forschungs- und Praxispartner unter der Leitung des Leibniz-Zentrums f\u00fcr Agrarlandschaftsforschung (ZALF) in M\u00fcncheberg mit. ",
+                "location": "M\u00fcncheberg",
+                "name": "Leibniz-Zentrum f\u00fcr Agrarlandschaftsforschung",
+                "publicAllowanceEuro": {
+                    "from": 50001,
+                    "to": 60000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002175/39605",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-25T14:07:00.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/2a/5a/316523/Lobbyregister-Detailansicht-R002175-2024-06-26_17-45-37.pdf",
+        "validFromDate": "2024-06-26T17:45:37.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 39605,
+    "registerNumber": "R002175",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Der Deutsche Bauernverband e.V. setzt sich f\u00fcr einen nachhaltigen und fachlich fundierten Schutz land- und forstwirtschaftlicher Kulturen vor Sch\u00e4dlingen, Krankheiten und Konkurrenz ein. Mit dem Einsatz moderner Technik und Digitalisierung, Innovation und Beratung kann sehr viel gezielter der Einsatz von Pflanzenschutzmitteln reduziert werden, ohne die Nahrungsmittelsicherheit zu gef\u00e4hrden, als mit pauschalen Mengenreduktionszielen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0005351",
+                "statements": [],
+                "title": "Reduktionsprogramm Pflanzenschutz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "D\u00fcngG",
+                        "title": "D\u00fcngegesetz",
+                        "url": "https://www.gesetze-im-internet.de/d_ngg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Ziel ist die Schaffung verh\u00e4ltnism\u00e4\u00dfiger, praxistauglicher und m\u00f6glichst unb\u00fcrokratischer Regelungen f\u00fcr die Stoffstrombilanz sowie die Verankerung von Regelungen f\u00fcr eine Verursachergerechtigkeit in Roten Gebieten. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/086/2008658.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMEL",
+                                "title": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft",
+                                "url": "https://www.bmel.de/DE/Home/home_node.html"
+                            }
+                        ],
+                        "printingNumber": "20/8658",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/zweites-gesetz-zur-%C3%A4nderung-des-d%C3%BCngegesetzes/302749",
+                        "title": "Entwurf eines Zweiten Gesetzes zur \u00c4nderung des D\u00fcngegesetzes"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0005352",
+                "statements": [],
+                "title": "D\u00fcngegesetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "TierSchG",
+                        "title": "Tierschutzgesetz",
+                        "url": "https://www.gesetze-im-internet.de/tierschg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Der Deutsche Bauernverband e.V. steht zur Weiterentwicklung und zu weiteren Ver\u00e4nderungen in der\r\nTierhaltung im Einklang mit gesellschaftlichen Anforderungen und wissenschaftlichen Erkenntnis-\r\nsen. Der DBV setzt sich daf\u00fcr ein, einen ausgewogenen Ansatz zu finden, der sowohl die berechtigten Anliegen des Tierschutzes als auch die Realit\u00e4ten und Herausforderungen in der landwirtschaftlichen Praxis ber\u00fccksichtigt. Weitreichende gesetzliche Ver\u00e4nderungen, wie sie im Referentenentwurf zur \u00c4nderung des Tierschutzgesetz vorgesehen sind, f\u00fcr die praxistaugliche L\u00f6sungen fehlen und die einen angemessenen zeitlichen Rahmen sowie eine Ber\u00fccksichtigung der Wettbewerbsf\u00e4higkeit im EU-Binnenmarkt vermissen lassen, lehnt der Verband ab. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_ANIMAL",
+                        "de": "Tierschutz",
+                        "en": "Animal welfare"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/brd/2024/0256-24.pdf",
+                        "issuer": "BR",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMEL",
+                                "title": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft",
+                                "url": "https://www.bmel.de/DE/Home/home_node.html"
+                            }
+                        ],
+                        "printingNumber": "256/24",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-%C3%A4nderung-des-tierschutzgesetzes-und-des-tiererzeugnisse-handels-verbotsgesetzes/312317",
+                        "title": "Entwurf eines Gesetzes zur \u00c4nderung des Tierschutzgesetzes und des Tiererzeugnisse-Handels-Verbotsgesetzes"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0005353",
+                "statements": [],
+                "title": "Gesetz zur \u00c4nderung des Tierschutzgesetzes und des Tiererzeugnisse-Handels-Verbotsgesetzes"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Der Deutsche Bauernverband e.V. setzt sich f\u00fcr steuerliche Entlastungsma\u00dfnahmen f\u00fcr land- und forstwirtschaftliche Betriebe ein; insbesondere f\u00fcr die Entfristung der Tarifgl\u00e4ttung und Einf\u00fchrung einer Risikor\u00fccklage ein. Au\u00dferdem m\u00fcssen die Rahmenbedingungen f\u00fcr die Umsatzsteuerpauschalierung angepasst werden. ",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_IV/20_Legislaturperiode/2024-06-05-JStG-2024/1-Referentenentwurf.pdf?__blob=publicationFile&v=2",
+                            "draftBillProjectUrl": "https://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_IV/20_Legislaturperiode/2024-06-05-JStG-2024/0-Gesetz.html",
+                            "shortTitle": "BMF",
+                            "title": "Bundesministerium der Finanzen",
+                            "url": "https://www.bundesfinanzministerium.de/Web/DE/Home/home.html"
+                        }
+                    ],
+                    "publicationDate": "2024-05-17",
+                    "title": "Entwurf eines Jahressteuergesetzes 2024 (Jahressteuergesetz 2024 \u2013 JStG 2024)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_COMPETITION_LAW",
+                        "de": "Wettbewerbsrecht",
+                        "en": "Competition law"
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0005354",
+                "statements": [],
+                "title": "Jahressteuergesetz 2024"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

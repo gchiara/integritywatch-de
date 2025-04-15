@@ -1,0 +1,856 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-01-09T14:00:58.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-17T09:25:30.000+01:00",
+        "lastUpdateDate": "2024-07-08T10:01:44.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 41111,
+                "validFromDate": "2024-07-08T10:01:44.000+02:00",
+                "version": 10,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 40888,
+                "validFromDate": "2024-07-03T16:32:50.000+02:00",
+                "validUntilDate": "2024-07-08T10:01:44.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 32710,
+                "validFromDate": "2024-06-21T10:37:05.000+02:00",
+                "validUntilDate": "2024-07-03T16:32:50.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27951,
+                "validFromDate": "2024-01-04T11:22:15.000+01:00",
+                "validUntilDate": "2024-06-21T10:37:05.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21969,
+                "validFromDate": "2023-06-20T14:32:18.000+02:00",
+                "validUntilDate": "2024-01-04T11:22:15.000+01:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21966,
+                "validFromDate": "2023-06-20T14:28:47.000+02:00",
+                "validUntilDate": "2023-06-20T14:32:18.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 14770,
+                "validFromDate": "2023-01-09T14:00:58.000+01:00",
+                "validUntilDate": "2023-06-20T14:28:47.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Die Bundesvereinigung Recycling-Baustoffe e.V. vertritt bundesweit die Interessen der Recycling-Baustoff-Industrie, d.h. derjenigen Unternehmen, die Abbruch- und Bauabf\u00e4lle zu neuen (mineralischen) Baustoffen aufbereiten.\r\nGemeinsam mit unseren Landesverb\u00e4nden, unseren Direkt- und unseren F\u00f6rdermitgliedern verfolgen wir das Ziel, nat\u00fcrliche Ressourcen zu schonen und die Kreislaufwirtschaft in Deutschland zu f\u00f6rdern. Unseren Beitrag leisten wir durch R\u00fcckf\u00fchrung von mineralischen Baustoffen in den Stoffkreislauf im Wege eines hochwertigen, umweltvertr\u00e4glichen und g\u00fctegesicherten Baustoff-Recyclings.\r\nDiese Ziele verfolgen wir u.a. in Form von Informationsveranstaltungen, Durchf\u00fchrung und Unterst\u00fctzung von Branchenbefragungen und der Beteiligung als befragte Interessensvertretung in regul\u00e4ren Gesetzgebungsverfahren.\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_RP_RESIDE",
+                "de": "Wohnen",
+                "en": "Reside"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/bf/da/331811/JA-BRB-2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.1,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 10001,
+            "to": 20000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Von-der-Heydt-Stra\u00dfe",
+            "streetNumber": "2",
+            "type": "NATIONAL",
+            "zipCode": "10785"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@recyclingbaustoffe.de"
+                }
+            ],
+            "phoneNumber": "+4930590033570",
+            "websites": [
+                {
+                    "website": "https://recyclingbaustoffe.de/"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Michael",
+                "lastName": "Stoll",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "firstName": "Sandra",
+                "lastName": "Giern",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "firstName": "Stefan",
+                "lastName": "Janssen",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Maximilian",
+                "lastName": "Meyer",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Michael",
+                "function": "Vorstandsvorsitzender",
+                "lastName": "Stoll",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-04-26",
+            "naturalPersons": 0,
+            "organizations": 21,
+            "totalCount": 21
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "F\u00e9d\u00e9ration Internationale du Recyclage (FIR)"
+            },
+            {
+                "membership": "Bundesverband Baustoffe - Steine und Erden e.V. (bbs)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Bundesvereinigung Recycling-Baustoffe e.V. (BRB)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "Industrieverband Steine und Erden Baden-W\u00fcrttemberg e.V. (ISTE)"
+            },
+            {
+                "name": "vero - Verband der Bau- und Rohstoffindustrie e.V. "
+            },
+            {
+                "name": "Industrieverband Steine und Erden e. V. Neustadt/Weinstra\u00dfe"
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 120001,
+            "to": 130000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000578/41111",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-21T10:37:05.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/50/1d/331812/Lobbyregister-Detailansicht-R000578-2024-07-08_10-01-44.pdf",
+        "validFromDate": "2024-07-08T10:01:44.000+02:00",
+        "version": 10
+    },
+    "registerEntryId": 41111,
+    "registerNumber": "R000578",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "ErsatzbaustoffV",
+                        "title": "Verordnung \u00fcber Anforderungen an den Einbau von mineralischen Ersatzbaustoffen in technische Bauwerke",
+                        "url": "https://www.gesetze-im-internet.de/ersatzbaustoffv"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Korrektur einzelner Fehler und redaktioneller Imperfektionen, so z.B. Anpassung von \u00a7 19 Abs. 8 und Anlage 2 EBV, damit eine Verwendung von Baustoffrecycling-Material auf kiesigem Untergrund nicht wie aktuell komplett ausgeschlossen wird. Weiterf\u00fchrende \u00dcberarbeitung der Ersatzbaustoffverordnung im Sinne der Praxistauglichkeit. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                        "de": "Verkehrsinfrastruktur",
+                        "en": "Infrastructure"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003820",
+                "statements": [],
+                "title": "Novellierung der Ersatzbaustoffverordnung"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "ErsatzbaustoffV",
+                        "title": "Verordnung \u00fcber Anforderungen an den Einbau von mineralischen Ersatzbaustoffen in technische Bauwerke",
+                        "url": "https://www.gesetze-im-internet.de/ersatzbaustoffv"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Schaffung einer Abfallende-Verordnung, welche das Abfallende f\u00fcr alle in der EBV genannten MEB festlegt in Verbindung mit den entsprechenden Einbauweisen und nach Durchlaufen der G\u00fctesicherung. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                        "de": "Verkehrsinfrastruktur",
+                        "en": "Infrastructure"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003821",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a0/44/302877/Stellungnahme-Gutachten-SG2406170111.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-31"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0003821",
+                        "regulatoryProjectTitle": "Schaffung einer umfassende Abfallende-Verordnung f\u00fcr mineralische Ersatzbaustoffe",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Sehr geehrte Frau Staatssekret\u00e4rin\r\nsehr geehrte Frau\r\nsehr geehrte Frau\r\n\r\nder BDE Bundesverband der Deutschen Entsorgungs-, Wasser- und Kreislaufwirtschaft e.V., der Bundesverband Mineralische Rohstoffe e.V. (MIRO), der Bundesverband Sekund\u00e4rrohstoffe und Entsorgung e.V. (bvse), die Bundesvereinigung Recycling-Baustoffe e.V. (BRB), das FEhS \u2013 Institut f\u00fcr Baustoff-Forschung e.V., die G\u00fctegemeinschaft Metallh\u00fcttenschlacken (GGMHS) e.V., die Interessengemeinschaft der Aufbereiter und Verwerter von M\u00fcllverbrennungsschlacken (IGAM) und die Interessengemeinschaft der Thermischen Abfallbehandlungsanlagen in Deutschland e.V. (ITAD) haben die Prognos AG mit der Durchf\u00fchrung einer Studie zum Einsatz von Mineralischen Ersatzbaustoffen (MEB) beauftragt.  Konkret wurde bei den Abnehmern von MEB abgefragt, wie sich deren Einsatz vor dem Hintergrund einer m\u00f6glichen Regelung zum Produktstatus f\u00fcr bestimmte MEB ver\u00e4ndern w\u00fcrde. Die Ergebnisse der Umfrage sind diesem Anschreiben als Anlage 1 beigef\u00fcgt.\r\nWie bereits in den Stellungnahmen der unterzeichnenden Verb\u00e4nde zum Eckpunktepapier f\u00fcr die geplante Verordnung zum Ende der Abfalleigenschaft f\u00fcr bestimmte mineralische Ersatzbaustoffe (AZ: 3049/000-2023.0001) vom 29. Dezember 2023 deutlich wurde, sprechen sich die genannten Verb\u00e4nde ausdr\u00fccklich f\u00fcr eine umfassende Regelung zum Produktstatus aus. Eine Abfallende-Verordnung, die nur einen Teil der Materialklassen der Ersatzbaustoffverordnung (EBV) abdeckt, ist f\u00fcr die in der EBV vorgesehenen Verwendungen nicht sachgerecht und zweckm\u00e4\u00dfig und wird dem wichtigen Ziel einer nachhaltigen Kreislauff\u00fchrung in der Bauwirtschaft nicht gerecht. \r\nDie unterzeichnenden Verb\u00e4nde sehen au\u00dferdem einen klaren Widerspruch zwischen dem Eckpunktepapier auf der einen Seite und dem Kreislaufwirtschaftsgesetz (KrWG) sowie der EBV auf der anderen Seite. Mit der EBV werden bundeseinheitlich und verbindlich f\u00fcr alle MEB \u2013 nicht nur f\u00fcr die besten Klassen \u2013 klare Materialklassen und Einbauweisen vorgegeben, nach denen das entsprechende Material eingesetzt werden kann, ohne dass Sch\u00e4den f\u00fcr Gesundheit und Umwelt zu besorgen sind.\r\nNeben dieser bereits mehrfach dargestellten Kritik an einer Regelung zum Produktstatus f\u00fcr nur einen Teil der MEB, stellt sich aus Sicht der beteiligten Verb\u00e4nde insbesondere die Frage, ob es anschlie\u00dfend f\u00fcr die restlichen Materialklassen, welche den Produktstatus nicht erreichen k\u00f6nnen, \u00fcberhaupt noch einen Markt geben wird und ob diese Mengen dann k\u00fcnftig m\u00f6glicherweise sogar beseitigt werden m\u00fcssen. Die nun vorliegenden Ergebnisse der Prognos-Umfrage best\u00e4tigen diese Bef\u00fcrchtungen eindrucksvoll.\r\n\r\nSo gingen 77 % der Teilnehmenden davon aus, dass die Umsetzung des Produktstatus f\u00fcr alle MEB in allen Materialklassen nach EBV zu einer Erh\u00f6hung der Einbaumengen f\u00fchren wird. 75 % gingen davon aus, dass eine Regelung zum Produktstatus von MEB nur f\u00fcr die besten Materialklassen nach EBV dazu f\u00fchrt, dass es k\u00fcnftig eine noch st\u00e4rker fokussierte Nachfrage f\u00fcr diese Materialklassen gibt. Die Vermutung, dass sich die Nachfrage nach bisher vergleichsweise gut gefragten Materialstr\u00f6men wie RC-1 noch weiter fokussieren wird, hat sich somit best\u00e4tigt.\r\n\r\nDes Weiteren beantworteten 79% der Teilnehmenden die Frage, ob zuk\u00fcnftig eine Regelung zum Produktstatus von MEB nur f\u00fcr die besten Materialklassen nach EBV dazu f\u00fchren wird, dass MEB der anderen Materialklassen k\u00fcnftig voraussichtlich auf Deponien verwertet bzw. beseitigt werden, grunds\u00e4tzlich mit einem Ja.\r\n\r\nIm Lichte dieser Umfrage-Ergebnisse bitten wir Sie mit Nachdruck, von einer restriktiven Regelung zum Produktstatus, so wie es im Eckpunktepapier dargestellt wird, abzusehen. Die Aussagen der Abnehmer von MEB machen deutlich, dass mit umfassenden negativen Auswirkungen und Stoffstrom-verschiebungen zu rechnen ist. \r\n\u00dcber einen Gespr\u00e4chstermin mit Ihnen w\u00fcrden wir uns ausdr\u00fccklich freuen, um die negativen Folgen einer restriktiven Regelung zum Produktstatus diskutieren zu k\u00f6nnen.\r\nAnliegend zu diesem Anschreiben erhalten Sie die Gesamtauswertung der Umfrage in Form einer Pr\u00e4sentation (Anlage 1) und die Pressemitteilung, welche zu Beginn der 24. Kalenderwoche ver\u00f6ffentlicht wird (Anlage 2).\r\n\r\n\r\nMit freundlichen Gr\u00fc\u00dfen\t\t\r\n"
+                        }
+                    }
+                ],
+                "title": "Schaffung einer umfassende Abfallende-Verordnung f\u00fcr mineralische Ersatzbaustoffe"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GewAbfV",
+                        "title": "Verordnung \u00fcber die Bewirtschaftung von gewerblichen Siedlungsabf\u00e4llen und von bestimmten Bau- und Abbruchabf\u00e4llen",
+                        "url": "https://www.gesetze-im-internet.de/gewabfv_2017"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Ausgestaltung der Getrenntsammlung an Baustellen und Implementierung der Regelungen aus der LAGA M23 in der GewerbeabfallVO. ",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmuv.de/fileadmin/Daten_BMU/Download_PDF/Gesetze/gewabfv_novelle_bf.pdf",
+                            "draftBillProjectUrl": "https://www.bmuv.de/gesetz/referentenentwurf-erste-verordnung-zur-aenderung-der-gewerbeabfallverordnung",
+                            "shortTitle": "BMUV",
+                            "title": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+                            "url": "https://www.bmuv.de/"
+                        }
+                    ],
+                    "publicationDate": "2024-04-30",
+                    "title": "Erste Verordnung zur \u00c4nderung der Gewerbeabfallverordnung"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                        "de": "Verkehrsinfrastruktur",
+                        "en": "Infrastructure"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003822",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/ab/fa/302879/Stellungnahme-Gutachten-SG2405220001.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-10"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0003822",
+                        "regulatoryProjectTitle": "Novelle der Gewerbeabfallverordnung",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Referentenentwurf der Ersten Verordnung zur \r\n\u00c4nderung der Gewerbeabfallverordnung (Bearbeitungsstand: 30.04.2024 09:28)\r\nIhre E-Mail vom 30. April 2024 \r\n\r\nsehr geehrte Damen und Herren,\r\n\r\nvielen Dank f\u00fcr die \u00dcberlassung des (innerhalb der Bundesregierung noch nicht abschlie\u00dfend abgestimmten) oben genannten Referentenentwurfs zur Novelle der Gewerbeabfallverordnung (nachfolgend: GewAbfV-Novelle 2024). Wir danken f\u00fcr die M\u00f6glichkeit der Stellungnahme und machen davon gerne Gebrauch.\r\n\r\nWir begr\u00fc\u00dfen ausdr\u00fccklich das Ziel der GewAbfV-Novelle 2024, die bisherigen Regelungen der Gewerbeabfallverordnung stringenter und vollzugstauglicher zu gestalten und die beh\u00f6rdliche Kontrolle der getrennten Sammlung von gewerblichen Siedlungsabf\u00e4llen und Bau- und Abbruchabf\u00e4llen zu st\u00e4rken, um so die getrennte Sammlung zu verbessern.\r\n\r\nFolgende Anmerkungen, welche sich insbesondere aber nicht ausschlie\u00dflich auf die Regelungen zum Umgang mit asbesthaltigen Abf\u00e4llen beziehen, haben wir zur GewAbfV-Novelle 2024:\r\n\r\nZu \u00a7 3a \u00dcberwachung der getrennten Sammlung \r\n\r\nZu \u00a7 3a Abs. 2 Satz 3 neu GewAbfV-Novelle 2024: \r\n\u201eDie Kontrollen haben nach dem Zufallsprinzip aufgrund einer vorherigen Risikoanalyse zu erfolgen.\u201c \r\n\r\nWir bezweifeln, dass es sich dann de facto noch um ein Zufallsprinzip handelt. Wir schlagen vor, den Satz wie folgt umzuschreiben: \r\n\r\n\u201eDie Kontrollen haben nach dem Zufallsprinzip aufgrund einer vorherigen Risikoanalyse zu erfolgen.\u201c\r\n(in Rot \u00c4nderung durch Verfasser)\r\n\r\nWir weisen in diesem Zusammenhang jedoch darauf hin, dass eine Risikoanalyse u.a. Fachwissen \u00fcber die m\u00f6glichen Folgen und die \u201eGef\u00e4hrlichkeit\u201c / \u201eUngef\u00e4hrlichkeit\u201c der verschiedenen Abfallfraktionen voraussetzt. Es stellt sich die Frage, ob jeder  \r\nBeh\u00f6rdenvertreter \u00fcber entsprechendes Fachwissen verf\u00fcgt, anhand dessen im Rahmen der Risikoanalyse eine Bewertung erfolgt. \r\n\r\n\r\nZu \u00a7 8 Getrennte Sammlung, Vorbereitung zur Wiederverwendung und Recycling von bestimmten Bau- und Abbruchabf\u00e4llen\r\n\r\nIn \u00a7 8 Absatz 1 GewAbfV-Novelle 2024 soll folgender Satz 2 eingef\u00fcgt werden:\r\n\r\nUnbeschadet der Nummern 1 bis 10 sind nicht gef\u00e4hrliche asbesthaltige Abf\u00e4lle getrennt von den \u00fcbrigen Abfallfraktionen zu sammeln und ordnungsgem\u00e4\u00df und schadlos zu entsorgen.\u201c\r\n\r\nDie Formulierung des neuen Satz 2 sollte unserer Meinung nach an Satz 1 angepasst werden. Wie dort sollte der Adressat der Pflicht klar benannt werden (aktive Sprache). Zudem sollte in Satz 2 auch nicht von \u201eentsorgen\u201c gesprochen werden, sondern wie in Satz 1 und anderen Paragraphen der GewAbfV von einem \u201ezuf\u00fchren\u201c zur Entsorgung. Wir schlagen daher folgende Formulierung von Satz 2 vor:\r\n\r\nUnbeschadet der Nummern 1 bis 10 sind haben Erzeuger und Besitzer nicht gef\u00e4hrliche asbesthaltige Abf\u00e4lle getrennt von den \u00fcbrigen Abfallfraktionen zu sammeln und ordnungsgem\u00e4\u00df und schadlos zu entsorgen, zu bef\u00f6rdern und einer geordneten und schadlosen Entsorgung zuzuf\u00fchren.\r\n(in Rot \u00c4nderung durch Verfasser)\r\n\r\nDes Weiteren: Die GewAbfV-Novelle 2024 bezieht sich mit der Formulierung \u201enicht gef\u00e4hrliche asbesthaltige Abf\u00e4lle\u201c offenbar auf die Mitteilung der Bund/L\u00e4nder-Arbeitsgemeinschaft Abfall (LAGA) 23 Vollzugshilfe zur Entsorgung asbesthaltiger Abf\u00e4lle (LAGA M 23). Dies wird in der Begr\u00fcndung deutlich. Im Anlage 4 zu \u00a7 8 wird in der Auflistung die Unterscheidung \u201egef\u00e4hrlich\u201c \u201enicht gef\u00e4hrlich\u201c nicht mehr vorgenommen, sondern lediglich als 11. Gruppe \u201eAsbesthaltige Bau- und Abbruchabf\u00e4lle\u201c ausgewiesen. \r\n\r\nWeiterhin wird Folgendes in der Begr\u00fcndung zu \u00a7 8 GewAbfV-Novelle 2024 erkl\u00e4rt (vgl. Seite 34):\r\n\r\nNicht gef\u00e4hrliche asbesthaltige Bau- und Abbruchabf\u00e4lle sind unabh\u00e4ngig von ihrer sonstigen Beschaffenheit getrennt von anderen Bau- und Abbruchabf\u00e4llen zu sammeln. Die getrennte Sammlung von nicht gef\u00e4hrlichen asbesthaltigen Abf\u00e4llen in einem eigenen Beh\u00e4lter wird voraussichtlich nicht oder nur zu einem geringf\u00fcgigen Mehraufwand f\u00fchren. Sie ist bereits durch die im Jahr 2022 eigef\u00fchrten neuen Vorgaben zur Entsorgung asbesthaltiger Abf\u00e4lle Standard (vgl. LAGA-Merkblatt 23, S. 27 ff unter 6.2). Es entsteht kein oder nur geringf\u00fcgiger Erf\u00fcllungsaufwand\r\n\r\nEs ist fraglich, wie eine LAGA M 23 (vom 08.05.2023) bereits als gegeben angenommen werden kann, wenn der Vollzug in den Bundesl\u00e4ndern bis dato nicht vollst\u00e4ndig erkl\u00e4rt wurde und bundesweit nicht einheitlich erfolgt. In lediglich f\u00fcnf Bundesl\u00e4ndern (Mecklenburg-Vorpommern, Nordrhein-Westfalen, Schleswig-Holstein, Niedersachsen, Baden-W\u00fcrttemberg) haben wir vom jeweils zust\u00e4ndigen Landesministerium Hinweise zur Beachtung im Vollzug oder Erlasse zur Umsetzung erhalten (teilweise sind diese nicht \u00f6ffentlich einsehbar), von einer bundesweit einheitlichen Anwendung sind wir weit entfernt und eine tats\u00e4chlich rechtliche Verankerung der Vorgaben im KrWG, der DepV, der AVV etc. ist nicht gegeben, sodass an dieser Stelle eigentlich die Frage im Raum steht, wie das BMUV zu der Ausweisung der Fraktion \u201enicht gef\u00e4hrliche asbesthaltige Abf\u00e4lle\u201c gelangt, wenn diese bis dato im deutschen Abfallrecht, das insoweit ma\u00dfgeblich auf Europarecht beruht, nicht definiert wurde.\r\n\r\nW\u00e4hrend so die beabsichtigten Erg\u00e4nzungen in den Stoffgruppen 5 (D\u00e4mmmaterial) und 7 (Baustoffe auf Gipsbasis) (\u00a7 8 Abs. 1 GewAbfV-Novelle 2024) zu begr\u00fc\u00dfen sind, ist die blo\u00dfe Wiedergabe von Inhalten aus der LAGA M 23 in der GewAbfV-Novelle 2024 nicht ausreichend. LAGA-Mitteilungen geben regelm\u00e4\u00dfig nur die Meinung eines fachkundigen Gremiums wieder und ihre rechtliche Bindungswirkung ist eng begrenzt. Werden sie per Erlass in einem Bundesland eingef\u00fchrt, haben sie lediglich eine nach innen, in die Verwaltung, gerichtete Wirkung. Die unmittelbar Betroffenen (z.B. Abfallerzeuger und Entsorger) erreichen LAGA-Mitteilungen lediglich mittelbar \u00fcber den im Zweifel uneinheitlichen Verwaltungsvollzug. Das BMUV muss die gew\u00fcnschten Regelungen aus der LAGA M 23 also in der Verordnung und im deutschen Abfallrecht insgesamt selbst regeln und origin\u00e4re Pflichten adressatenbezogen gestalten, um die erforderliche Rechtssicherheit herzustellen.\r\n\r\nInhaltlich ist festzustellen, dass eine verpflichtende Beseitigung asbesthaltiger Bestandteile ab der ersten Faser dem Anhang II Nummer 1 Absatz 2 der Gefahrstoffverordnung (GefStoffV) widerspricht und dazu f\u00fchren d\u00fcrfte, dass gro\u00dfe Mengen an Beton- und Betonmischabf\u00e4lle aus dem Stoffkreislauf ausgeschleust werden m\u00fcssen. Sogenannte \u201eCircular Ecomomy\u201c-Ans\u00e4tze lassen sich im Bausektor aber nicht realisieren, wenn der mengenm\u00e4\u00dfig gr\u00f6\u00dfte und hinsichtlich seiner Verwendbarkeit beste Stoffstrom nicht genutzt werden kann. Zudem ist das erforderliche Deponievolumen schlichtweg nicht vorhanden.\r\n\r\nEs ist deshalb dringend erforderlich, im Rahmen einer Definition von \u201enicht gef\u00e4hrlichen asbesthaltigen Bau- und Abbruchabf\u00e4llen\u201c den Beurteilungswert aus der LAGA M23, bei dessen Unterschreitung eine Verwertung m\u00f6glich bleibt, rechtlich verbindlich und bundesweit in der AVV einzuf\u00fchren.\r\n\r\nIn diesem Zusammenhang verweisen wir auf die folgenden Textpassagen der LAGA M 23, welche f\u00fcr eine Definition herangezogen werden k\u00f6nnen:\r\n\r\nVgl. LAGA M 23 Seite 10 (2.3 Begriffsbestimmungen, Bau- und Abbruchabf\u00e4lle mit geringen Asbestgehalten):\r\n\r\nBau- und Abbruchabf\u00e4lle mit geringen Asbestgehalten sind mineralische Abf\u00e4lle mit weniger als 0,1 M.-% Asbest, die bei Abbruch-, Sanierungs- oder Instandhaltungsarbeiten in geordneten Ma\u00dfnahmen anfallen und schwer selektierbare, asbesthaltige Baustoffe enthalten, deren Abtrennung technisch nicht m\u00f6glich oder wirtschaftlich nicht zumutbar ist. Dieses trifft nicht zu f\u00fcr separierbare asbesthaltige Baustoffe, insbesondere Faserzementplatten, deren vorherige Abtrennung grunds\u00e4tzlich technisch m\u00f6glich und wirtschaftlich zumutbar ist.\r\n\r\ni.V.m. LAGA M 23 Seite 24 (5.1.3 Analytischer Nachweis der Asbestfreiheit):\r\n\r\nHaufwerke mineralischen Ursprungs, bei denen die Regelvermutung oder ein begr\u00fcndeter Verdacht auf Asbest besteht, k\u00f6nnen nur dann als asbestfrei eingestuft werden, wenn eine Beprobung nach den einschl\u00e4gigen Vorgaben (LAGA PN 98, DIN 19698) und eine Untersuchung nach VDI 3876 stattgefunden hat und der Beurteilungswert von 0,010 M.-% unterschritten wird.\r\n\r\n\r\nDefinition geringe Menge\r\n\r\nIn \u00a7 8 GewAbfV-Novelle 2024 soll \u201egeringe Menge\u201c definiert werden (vgl. \u00a7 8 Absatz 2 Satz 5 neu GewAbfV-Novelle 2024): \r\n\r\nEine sehr geringe Menge ist nicht anzunehmen, wenn von einer Einzelfraktion pro Bau- oder Abbruchma\u00dfnahme mehr als 0,5 Kubikmeter anf\u00e4llt.\r\n\r\nDie Absenkung der Mengenschwelle f\u00fcr die \u201egeringf\u00fcgige Menge\u201c von 1 m\u00b3 je Bau- oder Ab-bruchma\u00dfnahme auf 0,5 m\u00b3 je Bau- oder Abbruchma\u00dfnahme erscheint wenig hilfreich. Die hierbei m\u00f6glicherweise zu erfassenden Mengen rechtfertigen vielfach keine Erfassung durch separate Abfallbeh\u00e4lter. Es wird vorgeschlagen, die bestehende Mengenschwelle von 1 m\u00b3 je Abfallart und Baustelle beizubehalten, da auf den meisten Baustellen bereits bei dieser mengenschwelle Platzprobleme auftreten.\r\n\r\nWir schlagen daher folgende Anpassung vor:\r\n\r\nEine sehr geringe Menge ist nicht anzunehmen, wenn von einer Einzelfraktion pro Bau- oder Abbruchma\u00dfnahme mehr als 0,5 ein Kubikmeter anf\u00e4llt.\r\n(in Rot \u00c4nderung durch Verfasser)\r\n\r\n\r\nZu \u00a7 9a Kennzeichnung von Abfallbeh\u00e4ltern\r\n\r\n\u00a7 9a GewAbfV-Novelle 2024 sieht Regeln zur Kennzeichnung von Abfallbeh\u00e4ltern vor:\r\n \r\nErzeuger und Besitzer, die Abf\u00e4lle gem\u00e4\u00df \u00a7 3 Absatz 1 und \u00a7 8 Absatz 1 getrennt zu sammeln haben, haben die dazu verwendeten Abfallbeh\u00e4lter so zu kennzeichnen, dass eine ordnungsgem\u00e4\u00dfe getrennte Sammlung sichergestellt wird. Dazu ist an der Au\u00dfenfl\u00e4che des Beh\u00e4lters gut sichtbar und in deutscher Sprache die in dem Beh\u00e4lter zu sammelnde Abfallfraktion zu bezeichnen. Abfallbeh\u00e4lter, in denen gemischte Abf\u00e4lle gesammelt werden, haben die in dem Gemisch nicht zugelassenen Abfallfraktionen zu bezeichnen.\r\n\r\nWir halten dies grunds\u00e4tzlich f\u00fcr praxisnah. Es sollte aber eine gewisse Beinfreiheit gegeben sein, da Gewerbeeinheiten ja in der Regel auf mehreren Etagen bzw. Fl\u00e4chen/Arbeitsstationen Abf\u00e4lle dezentral erfassen und sp\u00e4ter erst in gr\u00f6\u00dferen Gef\u00e4\u00dfen zentral b\u00fcndeln. Auch sollte bedacht werden, dass gewerbliche Arbeitnehmer h\u00e4ufig auch andere Sprachen als Deutsch sprechen. Auch sollte die Formulierung zu nicht zugelassenen Materialien in Gef\u00e4\u00dfen f\u00fcr Gemische offener erfolgen. \r\n\r\nWir regen folgende \u00c4nderung an:\r\n\r\nErzeuger und Besitzer, die Abf\u00e4lle gem\u00e4\u00df \u00a7 3 Absatz 1 und \u00a7 8 Absatz 1 getrennt zu sammeln haben, sollen haben die dazu verwendeten Abfallbeh\u00e4lter so kennzeichnen, dass eine ordnungsgem\u00e4\u00dfe getrennte Sammlung sichergestellt wird. Dazu ist an der Au\u00dfenfl\u00e4che des Beh\u00e4lters gut sichtbar und mindestens in deutscher Sprache die in dem Beh\u00e4lter zu sammelnde Abfallfraktion zu bezeichnen. Abfallbeh\u00e4lter, in denen gemischte Abf\u00e4lle gesammelt werden, haben die wichtige, in dem Gemisch nicht zugelassene Materialstr\u00f6me zugelassenen Abfallfraktionen zu bezeichnen.\r\n(in Rot \u00c4nderung durch Verfasser)\r\n\r\n\r\nZu \u00a7 13 Register \u00fcber Vorbehandlungsanlagen\r\n\r\nBei dem Vorschlag sehen wir die Gefahr, dass in dem Register nur die Anlagen gelistet sind, die als Entsorgungsfachbetrieb (Efb) zertifiziert sind. Damit werden diejenigen in den Fokus ger\u00fcckt, die sich freiwillig einer Efb-Zertifizierung unterziehen. Es sollten jedoch eher die Anlagen verst\u00e4rkt kontrolliert werden, die diese freiwilligen Anforderungen nicht erf\u00fcllen. Der Verweis auf das Efb-Register sollte daher entfernt werden.\r\n\r\nWir regen folgende \u00c4nderung an:\r\n\r\nDie L\u00e4nder f\u00fchren ein bundesweit einheitliches elektronisches Register \u00fcber Vorbehandlungsanlagen. Soweit m\u00f6glich nutzen sie dazu Daten aus dem Entsorgungsfachbetrieberegister nach \u00a7 28 der Entsorgungsfachbetriebeverordnung.\r\n\t(in Rot \u00c4nderung durch Verfasser)\r\n\r\nDes Weiteren bitten wir um Klarstellung, ob das Register \u00fcber Vorbehandlungsanlagen vom Bund gestellt und programmiert wird.\r\n\r\n\r\nZu \u00a7 15 Inkrafttreten, Au\u00dferkrafttreten\r\n\r\nIn \u00a7 15 Abs. 1 Nr. 1 GewAbfV-Novelle 2024 muss zwingend das Bu\u00dfgeld f\u00fcr Verst\u00f6\u00dfe gegen die Pflichten nach \u00a7 8 Abs. 1 S. 2 erg\u00e4nzt werden. Grunds\u00e4tzlich vermuten wir, dass die Effektivit\u00e4t der GewAbfV eher durch eine Erh\u00f6hung der Bu\u00dfgelder gest\u00e4rkt wird als durch die Einf\u00fchrung neuer Dokumentations- und \u00dcberwachungspflichten.\r\n\r\n\r\nAnlage 4 - Dokumentation \u00fcber die getrennte Sammlung von Bau- und Abbruchabf\u00e4llen nach \u00a7 8 Absatz 3 Gewerbeabfallverordnung\r\n\r\nIn Eintrag 11 fehlt zumindest der Hinweis auf nicht gef\u00e4hrliche asbesthaltige Bau- und Abbruchabf\u00e4lle. Bei der derzeit gew\u00e4hlten Formulierung wird diese Spalte stets leer bleiben, da sie sich entsprechend der AVV auf gef\u00e4hrliche Abf\u00e4lle bezieht, die jedoch nicht der GewAbfV unterliegen.\r\n\r\n\r\n\u00dcbergangsfristen\r\n\r\nF\u00fcr die Vorbehandlungsanlagen sollte eine \u00dcbergangsfrist f\u00fcr die Ausr\u00fcstung mit Nahinfratorger\u00e4ten geschaffen werden. Die Begrenzung auf zwei Kaskadenteile wird in der Praxis zu erheblichen Schwierigkeiten mit m\u00f6glicherweise negativen finanziellen Folgen f\u00fchren, auch hier sollte eine entsprechende \u00dcbergangsfrist geregelt werden, da Kaskadenvertr\u00e4ge h\u00e4ufig lange Laufzeiten haben.\r\n\r\n\r\n\r\nF\u00fcr die Ber\u00fccksichtigung der genannten Punkte im weiteren Verfahren danken wir Ihnen vorab. F\u00fcr R\u00fcckfragen stehen wir jederzeit gerne zur Verf\u00fcgung.\r\n"
+                        }
+                    }
+                ],
+                "title": "Novelle der Gewerbeabfallverordnung"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "ErsatzbaustoffVEV/BBodSchVNeuf/DepV2009ua\u00c4ndV",
+                        "title": "Verordnung zur Einf\u00fchrung einer Ersatzbaustoffverordnung, zur Neufassung der Bundes-Bodenschutz- und Altlastenverordnung und zur \u00c4nderung der Deponieverordnung und der Gewerbeabfallverordnung",
+                        "url": "https://www.gesetze-im-internet.de/ersatzbaustoffvev_bbodschvneuf_depv2009ua_ndv"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die BRB setzt sich f\u00fcr die Anpassung der Vollzugshilfe zu \u00a7\u00a7 6 \u2013 8 BBodSchV (Stand 10.08.2023) ein, welche im Zuge des Inkrafttretens der Mantelverordnung durch die Bund/L\u00e4nder-Arbeitsgemeinschaft Bodenschutz (LABO) erarbeitet wurde. Speziell geht es um die Streichung bzw. weiterf\u00fchrende Erl\u00e4uterung der Beispiele f\u00fcr die Abgrenzung von boden\u00e4hnlichen Anwendungen zu Einbauweisen von technischen Bauwerken nach der Ersatzbaustoffverordnung.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                        "de": "Verkehrsinfrastruktur",
+                        "en": "Infrastructure"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003823",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d9/c3/302881/Stellungnahme-Gutachten-SG2406170112.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-06"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0003823",
+                        "regulatoryProjectTitle": "Bundes-Bodenschutz- und Altlastenverordnung - Anpassung der LABO-Vollzugshilfe zu \u00a7\u00a7 6 - 8 BBodSchV",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Vollzugshilfe zu \u00a7\u00a7 6 \u2013 8 BBodSchV (Stand 10.08.2023)\r\nHier: Beispiele f\u00fcr die Abgrenzung von boden\u00e4hnlichen Anwendungen zu Einbau-weisen von technischen Bauwerken nach der ErsatzbaustoffV (S. 40 ff.)\r\n\r\nSehr geehrte Damen und Herren,\r\nsehr geehrte\r\n\r\nder BDE Bundesverband der Deutschen Entsorgungs-, Wasser- und Kreislaufwirtschaft e.V. und die BRB Bundesvereinigung Recycling-Baustoffe e.V. hatten in einem gemeinsamen Anschreiben an die Gesch\u00e4ftsstelle der Bund/L\u00e4nder-Arbeitsgemeinschaft Bodenschutz (LABO) vom 11.12.2023 auf Vollzugsprobleme in Bezug auf die in der Vollzugshilfe zu \u00a7\u00a76-8 BBodSchV dargestellten Beispiele f\u00fcr die Abgrenzung von boden\u00e4hnlichen Anwendungen zu Einbauweisen von technischen Bauwerken nach der ErsatzbaustoffV hingewiesen. \r\nSo werden aus Sicht der Verb\u00e4nde in den Abbildungen 3 bis 6 (Prinzipskizzen) auf S. 40 ff. der Vollzugshilfe viel zu gro\u00dfe Bereiche als boden\u00e4hnliche Anwendung in die BBodSchV gezogen.\r\nErste R\u00fcckmeldungen aus der Praxis erreichen uns, dass bisher m\u00f6gliche und hochwertige Einsatzm\u00f6glichkeiten von MEB in technischen Bauwerken nach EBV unsachgem\u00e4\u00df stark eingeschr\u00e4nkt werden. Dies sei auch insbesondere darauf zur\u00fcckzuf\u00fchren, dass die Prinzipskizzen regelm\u00e4\u00dfig von unteren Vollzugsbeh\u00f6rden so interpretiert werden, dass sie 1-zu-1 in der Praxis umgesetzt werden m\u00fcssen.\r\nWir weisen erneut darauf hin, dass die Prinzipskizzen Einzelf\u00e4lle in der Praxis nicht darstellen k\u00f6nnen und zu einem \u00fcberm\u00e4\u00dfig starken Einschnitt des Anwendungsbereichs der EBV verleiten k\u00f6nnen. Vielmehr gilt aus Sicht der Verb\u00e4nde auch weiterhin eine Einzelfallentscheidung in Abh\u00e4ngigkeit der bautechnischen Rahmenbedingungen als sachgem\u00e4\u00df. \r\nAus Sicht der Verb\u00e4nde w\u00e4re also entweder eine komplette Streichung der Prinzipskizzen angebracht, oder es m\u00fcsste zumindest eine Klarstellung in einer \u00fcberarbeiteten Version der Vollzugshilfe erfolgen, dass es sich lediglich um beispielhafte Darstellungen handelt.\r\nDie BRB-Gesch\u00e4ftsf\u00fchrerin hatte im Rahmen des LABO-Verb\u00e4ndegespr\u00e4chs am 13. Dezember 2023 bereits die M\u00f6glichkeit, diese Punkte mit der Vorsitzenden des St\u00e4ndigen Ausschusses \u201eVorsorgender Bodenschutz\u201c (BOVA) zu besprechen. Unsere Hinweise schienen auf Verst\u00e4ndnis zu sto\u00dfen und eine erneute Diskussion der Thematik im BOVA wurde m\u00fcndlich zugesagt.\r\nDer LABO-Webseite konnten wir entnehmen, dass die letzte BOVA-Sitzung am 10. und 11. Januar 2024 stattfand und die n\u00e4chste LABO-Sitzung am 20. und 21. M\u00e4rz stattfinden wird. Vor diesem Hintergrund w\u00fcrden wir gerne erfragen, ob die Prinzipskizzen bereits im BOVA diskutiert werden konnten, ob eine Befassung in der kommenden LABO-Sitzung geplant ist und ob mit einer zeitnahen Anpassung der Vollzugshilfe zu \u00a7\u00a7 6-8 BBodSchV gerechnet werden kann.\r\nSehr gerne stehen wir f\u00fcr R\u00fcckfragen jederzeit zur Verf\u00fcgung. \r\n\r\nMit freundlichen Gr\u00fc\u00dfen\t\r\n"
+                        }
+                    }
+                ],
+                "title": "Bundes-Bodenschutz- und Altlastenverordnung - Anpassung der LABO-Vollzugshilfe zu \u00a7\u00a7 6 - 8 BBodSchV"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GefStoffV",
+                        "title": "Verordnung zum Schutz vor Gefahrstoffen",
+                        "url": "https://www.gesetze-im-internet.de/gefstoffv_2010"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die BRB h\u00e4lt den 4. Referentenentwurf zur GefahrstoffVO f\u00fcr unzureichend und spricht sich gegen dessen Beschluss in der aktuellen Fassung aus. Insbesondere ist die Veran-lasserpflicht unzureichend ausgestaltet und es fehlt an einer eindeutigen Stichtagsregelung f\u00fcr die Asbestvermutung. ",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmas.de/SharedDocs/Downloads/DE/Gesetze/Referentenentwuerfe/ref-verordnung-zur-aenderung-der-gefahrstoffverordnung-und-anderer-vos-2.pdf?__blob=publicationFile&v=3",
+                            "draftBillProjectUrl": "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/verordnung-zur-aenderung-der-gefahrstoffverordnung-und-anderer.html",
+                            "shortTitle": "BMAS",
+                            "title": "Bundesministerium f\u00fcr Arbeit und Soziales",
+                            "url": "https://www.bmas.de/DE/Startseite/start.html"
+                        }
+                    ],
+                    "publicationDate": "2023-03-03",
+                    "title": "Verordnung zur \u00c4nderung der Gefahrstoffverordnung und anderer Arbeitsschutzverordnungen"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010822",
+                "statements": [],
+                "title": "Verordnung zur \u00c4nderung der Gefahrstoffverordnung und anderer Arbeitsschutzverordnungen (4. Referentenentwurf vom 18.06.2024)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die BRB spricht sich gegen eine Neueinstufung nach REACH von RC-Gesteinsk\u00f6rnungen aus.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010823",
+                "statements": [],
+                "title": "Vorschlag der ECHA-Borderline Working Group (BWG) zur REACH-Neueinstufung von RC-Gesteinsk\u00f6rnungen"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die BRB begr\u00fc\u00dft die Ver\u00f6ffentlichung des Entwurfs der NKWS und fordert Anpassungen u.a. mit Blick auf das Kapitel 4.8. Bau- und Geb\u00e4udebereich. Eine erneute Befassung mit dem zuk\u00fcnftig zur Verf\u00fcgung stehenden Umfang an Prim\u00e4r- und Sekund\u00e4rrohstoffen, Pr\u00e4zisierungen im Bereich des Umgangs mit dem Baubestand und insb. der Schadstoffausschleusung sowie Anpassungen mit Blick auf bestimmte Ma\u00dfnahmen wie eine Deponieabgabe werden gefordert.\r\n\r\n",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010893",
+                "statements": [],
+                "title": "Anpassung des Entwurfs der Nationalen Kreislaufwirtschaftsstrategie (NKWS) der Bundesregierung"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a0/44/302877/Stellungnahme-Gutachten-SG2406170111.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-31"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0003821",
+                "regulatoryProjectTitle": "Schaffung einer umfassende Abfallende-Verordnung f\u00fcr mineralische Ersatzbaustoffe",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Sehr geehrte Frau Staatssekret\u00e4rin\r\nsehr geehrte Frau\r\nsehr geehrte Frau\r\n\r\nder BDE Bundesverband der Deutschen Entsorgungs-, Wasser- und Kreislaufwirtschaft e.V., der Bundesverband Mineralische Rohstoffe e.V. (MIRO), der Bundesverband Sekund\u00e4rrohstoffe und Entsorgung e.V. (bvse), die Bundesvereinigung Recycling-Baustoffe e.V. (BRB), das FEhS \u2013 Institut f\u00fcr Baustoff-Forschung e.V., die G\u00fctegemeinschaft Metallh\u00fcttenschlacken (GGMHS) e.V., die Interessengemeinschaft der Aufbereiter und Verwerter von M\u00fcllverbrennungsschlacken (IGAM) und die Interessengemeinschaft der Thermischen Abfallbehandlungsanlagen in Deutschland e.V. (ITAD) haben die Prognos AG mit der Durchf\u00fchrung einer Studie zum Einsatz von Mineralischen Ersatzbaustoffen (MEB) beauftragt.  Konkret wurde bei den Abnehmern von MEB abgefragt, wie sich deren Einsatz vor dem Hintergrund einer m\u00f6glichen Regelung zum Produktstatus f\u00fcr bestimmte MEB ver\u00e4ndern w\u00fcrde. Die Ergebnisse der Umfrage sind diesem Anschreiben als Anlage 1 beigef\u00fcgt.\r\nWie bereits in den Stellungnahmen der unterzeichnenden Verb\u00e4nde zum Eckpunktepapier f\u00fcr die geplante Verordnung zum Ende der Abfalleigenschaft f\u00fcr bestimmte mineralische Ersatzbaustoffe (AZ: 3049/000-2023.0001) vom 29. Dezember 2023 deutlich wurde, sprechen sich die genannten Verb\u00e4nde ausdr\u00fccklich f\u00fcr eine umfassende Regelung zum Produktstatus aus. Eine Abfallende-Verordnung, die nur einen Teil der Materialklassen der Ersatzbaustoffverordnung (EBV) abdeckt, ist f\u00fcr die in der EBV vorgesehenen Verwendungen nicht sachgerecht und zweckm\u00e4\u00dfig und wird dem wichtigen Ziel einer nachhaltigen Kreislauff\u00fchrung in der Bauwirtschaft nicht gerecht. \r\nDie unterzeichnenden Verb\u00e4nde sehen au\u00dferdem einen klaren Widerspruch zwischen dem Eckpunktepapier auf der einen Seite und dem Kreislaufwirtschaftsgesetz (KrWG) sowie der EBV auf der anderen Seite. Mit der EBV werden bundeseinheitlich und verbindlich f\u00fcr alle MEB \u2013 nicht nur f\u00fcr die besten Klassen \u2013 klare Materialklassen und Einbauweisen vorgegeben, nach denen das entsprechende Material eingesetzt werden kann, ohne dass Sch\u00e4den f\u00fcr Gesundheit und Umwelt zu besorgen sind.\r\nNeben dieser bereits mehrfach dargestellten Kritik an einer Regelung zum Produktstatus f\u00fcr nur einen Teil der MEB, stellt sich aus Sicht der beteiligten Verb\u00e4nde insbesondere die Frage, ob es anschlie\u00dfend f\u00fcr die restlichen Materialklassen, welche den Produktstatus nicht erreichen k\u00f6nnen, \u00fcberhaupt noch einen Markt geben wird und ob diese Mengen dann k\u00fcnftig m\u00f6glicherweise sogar beseitigt werden m\u00fcssen. Die nun vorliegenden Ergebnisse der Prognos-Umfrage best\u00e4tigen diese Bef\u00fcrchtungen eindrucksvoll.\r\n\r\nSo gingen 77 % der Teilnehmenden davon aus, dass die Umsetzung des Produktstatus f\u00fcr alle MEB in allen Materialklassen nach EBV zu einer Erh\u00f6hung der Einbaumengen f\u00fchren wird. 75 % gingen davon aus, dass eine Regelung zum Produktstatus von MEB nur f\u00fcr die besten Materialklassen nach EBV dazu f\u00fchrt, dass es k\u00fcnftig eine noch st\u00e4rker fokussierte Nachfrage f\u00fcr diese Materialklassen gibt. Die Vermutung, dass sich die Nachfrage nach bisher vergleichsweise gut gefragten Materialstr\u00f6men wie RC-1 noch weiter fokussieren wird, hat sich somit best\u00e4tigt.\r\n\r\nDes Weiteren beantworteten 79% der Teilnehmenden die Frage, ob zuk\u00fcnftig eine Regelung zum Produktstatus von MEB nur f\u00fcr die besten Materialklassen nach EBV dazu f\u00fchren wird, dass MEB der anderen Materialklassen k\u00fcnftig voraussichtlich auf Deponien verwertet bzw. beseitigt werden, grunds\u00e4tzlich mit einem Ja.\r\n\r\nIm Lichte dieser Umfrage-Ergebnisse bitten wir Sie mit Nachdruck, von einer restriktiven Regelung zum Produktstatus, so wie es im Eckpunktepapier dargestellt wird, abzusehen. Die Aussagen der Abnehmer von MEB machen deutlich, dass mit umfassenden negativen Auswirkungen und Stoffstrom-verschiebungen zu rechnen ist. \r\n\u00dcber einen Gespr\u00e4chstermin mit Ihnen w\u00fcrden wir uns ausdr\u00fccklich freuen, um die negativen Folgen einer restriktiven Regelung zum Produktstatus diskutieren zu k\u00f6nnen.\r\nAnliegend zu diesem Anschreiben erhalten Sie die Gesamtauswertung der Umfrage in Form einer Pr\u00e4sentation (Anlage 1) und die Pressemitteilung, welche zu Beginn der 24. Kalenderwoche ver\u00f6ffentlicht wird (Anlage 2).\r\n\r\n\r\nMit freundlichen Gr\u00fc\u00dfen\t\t\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/ab/fa/302879/Stellungnahme-Gutachten-SG2405220001.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-10"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0003822",
+                "regulatoryProjectTitle": "Novelle der Gewerbeabfallverordnung",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Referentenentwurf der Ersten Verordnung zur \r\n\u00c4nderung der Gewerbeabfallverordnung (Bearbeitungsstand: 30.04.2024 09:28)\r\nIhre E-Mail vom 30. April 2024 \r\n\r\nsehr geehrte Damen und Herren,\r\n\r\nvielen Dank f\u00fcr die \u00dcberlassung des (innerhalb der Bundesregierung noch nicht abschlie\u00dfend abgestimmten) oben genannten Referentenentwurfs zur Novelle der Gewerbeabfallverordnung (nachfolgend: GewAbfV-Novelle 2024). Wir danken f\u00fcr die M\u00f6glichkeit der Stellungnahme und machen davon gerne Gebrauch.\r\n\r\nWir begr\u00fc\u00dfen ausdr\u00fccklich das Ziel der GewAbfV-Novelle 2024, die bisherigen Regelungen der Gewerbeabfallverordnung stringenter und vollzugstauglicher zu gestalten und die beh\u00f6rdliche Kontrolle der getrennten Sammlung von gewerblichen Siedlungsabf\u00e4llen und Bau- und Abbruchabf\u00e4llen zu st\u00e4rken, um so die getrennte Sammlung zu verbessern.\r\n\r\nFolgende Anmerkungen, welche sich insbesondere aber nicht ausschlie\u00dflich auf die Regelungen zum Umgang mit asbesthaltigen Abf\u00e4llen beziehen, haben wir zur GewAbfV-Novelle 2024:\r\n\r\nZu \u00a7 3a \u00dcberwachung der getrennten Sammlung \r\n\r\nZu \u00a7 3a Abs. 2 Satz 3 neu GewAbfV-Novelle 2024: \r\n\u201eDie Kontrollen haben nach dem Zufallsprinzip aufgrund einer vorherigen Risikoanalyse zu erfolgen.\u201c \r\n\r\nWir bezweifeln, dass es sich dann de facto noch um ein Zufallsprinzip handelt. Wir schlagen vor, den Satz wie folgt umzuschreiben: \r\n\r\n\u201eDie Kontrollen haben nach dem Zufallsprinzip aufgrund einer vorherigen Risikoanalyse zu erfolgen.\u201c\r\n(in Rot \u00c4nderung durch Verfasser)\r\n\r\nWir weisen in diesem Zusammenhang jedoch darauf hin, dass eine Risikoanalyse u.a. Fachwissen \u00fcber die m\u00f6glichen Folgen und die \u201eGef\u00e4hrlichkeit\u201c / \u201eUngef\u00e4hrlichkeit\u201c der verschiedenen Abfallfraktionen voraussetzt. Es stellt sich die Frage, ob jeder  \r\nBeh\u00f6rdenvertreter \u00fcber entsprechendes Fachwissen verf\u00fcgt, anhand dessen im Rahmen der Risikoanalyse eine Bewertung erfolgt. \r\n\r\n\r\nZu \u00a7 8 Getrennte Sammlung, Vorbereitung zur Wiederverwendung und Recycling von bestimmten Bau- und Abbruchabf\u00e4llen\r\n\r\nIn \u00a7 8 Absatz 1 GewAbfV-Novelle 2024 soll folgender Satz 2 eingef\u00fcgt werden:\r\n\r\nUnbeschadet der Nummern 1 bis 10 sind nicht gef\u00e4hrliche asbesthaltige Abf\u00e4lle getrennt von den \u00fcbrigen Abfallfraktionen zu sammeln und ordnungsgem\u00e4\u00df und schadlos zu entsorgen.\u201c\r\n\r\nDie Formulierung des neuen Satz 2 sollte unserer Meinung nach an Satz 1 angepasst werden. Wie dort sollte der Adressat der Pflicht klar benannt werden (aktive Sprache). Zudem sollte in Satz 2 auch nicht von \u201eentsorgen\u201c gesprochen werden, sondern wie in Satz 1 und anderen Paragraphen der GewAbfV von einem \u201ezuf\u00fchren\u201c zur Entsorgung. Wir schlagen daher folgende Formulierung von Satz 2 vor:\r\n\r\nUnbeschadet der Nummern 1 bis 10 sind haben Erzeuger und Besitzer nicht gef\u00e4hrliche asbesthaltige Abf\u00e4lle getrennt von den \u00fcbrigen Abfallfraktionen zu sammeln und ordnungsgem\u00e4\u00df und schadlos zu entsorgen, zu bef\u00f6rdern und einer geordneten und schadlosen Entsorgung zuzuf\u00fchren.\r\n(in Rot \u00c4nderung durch Verfasser)\r\n\r\nDes Weiteren: Die GewAbfV-Novelle 2024 bezieht sich mit der Formulierung \u201enicht gef\u00e4hrliche asbesthaltige Abf\u00e4lle\u201c offenbar auf die Mitteilung der Bund/L\u00e4nder-Arbeitsgemeinschaft Abfall (LAGA) 23 Vollzugshilfe zur Entsorgung asbesthaltiger Abf\u00e4lle (LAGA M 23). Dies wird in der Begr\u00fcndung deutlich. Im Anlage 4 zu \u00a7 8 wird in der Auflistung die Unterscheidung \u201egef\u00e4hrlich\u201c \u201enicht gef\u00e4hrlich\u201c nicht mehr vorgenommen, sondern lediglich als 11. Gruppe \u201eAsbesthaltige Bau- und Abbruchabf\u00e4lle\u201c ausgewiesen. \r\n\r\nWeiterhin wird Folgendes in der Begr\u00fcndung zu \u00a7 8 GewAbfV-Novelle 2024 erkl\u00e4rt (vgl. Seite 34):\r\n\r\nNicht gef\u00e4hrliche asbesthaltige Bau- und Abbruchabf\u00e4lle sind unabh\u00e4ngig von ihrer sonstigen Beschaffenheit getrennt von anderen Bau- und Abbruchabf\u00e4llen zu sammeln. Die getrennte Sammlung von nicht gef\u00e4hrlichen asbesthaltigen Abf\u00e4llen in einem eigenen Beh\u00e4lter wird voraussichtlich nicht oder nur zu einem geringf\u00fcgigen Mehraufwand f\u00fchren. Sie ist bereits durch die im Jahr 2022 eigef\u00fchrten neuen Vorgaben zur Entsorgung asbesthaltiger Abf\u00e4lle Standard (vgl. LAGA-Merkblatt 23, S. 27 ff unter 6.2). Es entsteht kein oder nur geringf\u00fcgiger Erf\u00fcllungsaufwand\r\n\r\nEs ist fraglich, wie eine LAGA M 23 (vom 08.05.2023) bereits als gegeben angenommen werden kann, wenn der Vollzug in den Bundesl\u00e4ndern bis dato nicht vollst\u00e4ndig erkl\u00e4rt wurde und bundesweit nicht einheitlich erfolgt. In lediglich f\u00fcnf Bundesl\u00e4ndern (Mecklenburg-Vorpommern, Nordrhein-Westfalen, Schleswig-Holstein, Niedersachsen, Baden-W\u00fcrttemberg) haben wir vom jeweils zust\u00e4ndigen Landesministerium Hinweise zur Beachtung im Vollzug oder Erlasse zur Umsetzung erhalten (teilweise sind diese nicht \u00f6ffentlich einsehbar), von einer bundesweit einheitlichen Anwendung sind wir weit entfernt und eine tats\u00e4chlich rechtliche Verankerung der Vorgaben im KrWG, der DepV, der AVV etc. ist nicht gegeben, sodass an dieser Stelle eigentlich die Frage im Raum steht, wie das BMUV zu der Ausweisung der Fraktion \u201enicht gef\u00e4hrliche asbesthaltige Abf\u00e4lle\u201c gelangt, wenn diese bis dato im deutschen Abfallrecht, das insoweit ma\u00dfgeblich auf Europarecht beruht, nicht definiert wurde.\r\n\r\nW\u00e4hrend so die beabsichtigten Erg\u00e4nzungen in den Stoffgruppen 5 (D\u00e4mmmaterial) und 7 (Baustoffe auf Gipsbasis) (\u00a7 8 Abs. 1 GewAbfV-Novelle 2024) zu begr\u00fc\u00dfen sind, ist die blo\u00dfe Wiedergabe von Inhalten aus der LAGA M 23 in der GewAbfV-Novelle 2024 nicht ausreichend. LAGA-Mitteilungen geben regelm\u00e4\u00dfig nur die Meinung eines fachkundigen Gremiums wieder und ihre rechtliche Bindungswirkung ist eng begrenzt. Werden sie per Erlass in einem Bundesland eingef\u00fchrt, haben sie lediglich eine nach innen, in die Verwaltung, gerichtete Wirkung. Die unmittelbar Betroffenen (z.B. Abfallerzeuger und Entsorger) erreichen LAGA-Mitteilungen lediglich mittelbar \u00fcber den im Zweifel uneinheitlichen Verwaltungsvollzug. Das BMUV muss die gew\u00fcnschten Regelungen aus der LAGA M 23 also in der Verordnung und im deutschen Abfallrecht insgesamt selbst regeln und origin\u00e4re Pflichten adressatenbezogen gestalten, um die erforderliche Rechtssicherheit herzustellen.\r\n\r\nInhaltlich ist festzustellen, dass eine verpflichtende Beseitigung asbesthaltiger Bestandteile ab der ersten Faser dem Anhang II Nummer 1 Absatz 2 der Gefahrstoffverordnung (GefStoffV) widerspricht und dazu f\u00fchren d\u00fcrfte, dass gro\u00dfe Mengen an Beton- und Betonmischabf\u00e4lle aus dem Stoffkreislauf ausgeschleust werden m\u00fcssen. Sogenannte \u201eCircular Ecomomy\u201c-Ans\u00e4tze lassen sich im Bausektor aber nicht realisieren, wenn der mengenm\u00e4\u00dfig gr\u00f6\u00dfte und hinsichtlich seiner Verwendbarkeit beste Stoffstrom nicht genutzt werden kann. Zudem ist das erforderliche Deponievolumen schlichtweg nicht vorhanden.\r\n\r\nEs ist deshalb dringend erforderlich, im Rahmen einer Definition von \u201enicht gef\u00e4hrlichen asbesthaltigen Bau- und Abbruchabf\u00e4llen\u201c den Beurteilungswert aus der LAGA M23, bei dessen Unterschreitung eine Verwertung m\u00f6glich bleibt, rechtlich verbindlich und bundesweit in der AVV einzuf\u00fchren.\r\n\r\nIn diesem Zusammenhang verweisen wir auf die folgenden Textpassagen der LAGA M 23, welche f\u00fcr eine Definition herangezogen werden k\u00f6nnen:\r\n\r\nVgl. LAGA M 23 Seite 10 (2.3 Begriffsbestimmungen, Bau- und Abbruchabf\u00e4lle mit geringen Asbestgehalten):\r\n\r\nBau- und Abbruchabf\u00e4lle mit geringen Asbestgehalten sind mineralische Abf\u00e4lle mit weniger als 0,1 M.-% Asbest, die bei Abbruch-, Sanierungs- oder Instandhaltungsarbeiten in geordneten Ma\u00dfnahmen anfallen und schwer selektierbare, asbesthaltige Baustoffe enthalten, deren Abtrennung technisch nicht m\u00f6glich oder wirtschaftlich nicht zumutbar ist. Dieses trifft nicht zu f\u00fcr separierbare asbesthaltige Baustoffe, insbesondere Faserzementplatten, deren vorherige Abtrennung grunds\u00e4tzlich technisch m\u00f6glich und wirtschaftlich zumutbar ist.\r\n\r\ni.V.m. LAGA M 23 Seite 24 (5.1.3 Analytischer Nachweis der Asbestfreiheit):\r\n\r\nHaufwerke mineralischen Ursprungs, bei denen die Regelvermutung oder ein begr\u00fcndeter Verdacht auf Asbest besteht, k\u00f6nnen nur dann als asbestfrei eingestuft werden, wenn eine Beprobung nach den einschl\u00e4gigen Vorgaben (LAGA PN 98, DIN 19698) und eine Untersuchung nach VDI 3876 stattgefunden hat und der Beurteilungswert von 0,010 M.-% unterschritten wird.\r\n\r\n\r\nDefinition geringe Menge\r\n\r\nIn \u00a7 8 GewAbfV-Novelle 2024 soll \u201egeringe Menge\u201c definiert werden (vgl. \u00a7 8 Absatz 2 Satz 5 neu GewAbfV-Novelle 2024): \r\n\r\nEine sehr geringe Menge ist nicht anzunehmen, wenn von einer Einzelfraktion pro Bau- oder Abbruchma\u00dfnahme mehr als 0,5 Kubikmeter anf\u00e4llt.\r\n\r\nDie Absenkung der Mengenschwelle f\u00fcr die \u201egeringf\u00fcgige Menge\u201c von 1 m\u00b3 je Bau- oder Ab-bruchma\u00dfnahme auf 0,5 m\u00b3 je Bau- oder Abbruchma\u00dfnahme erscheint wenig hilfreich. Die hierbei m\u00f6glicherweise zu erfassenden Mengen rechtfertigen vielfach keine Erfassung durch separate Abfallbeh\u00e4lter. Es wird vorgeschlagen, die bestehende Mengenschwelle von 1 m\u00b3 je Abfallart und Baustelle beizubehalten, da auf den meisten Baustellen bereits bei dieser mengenschwelle Platzprobleme auftreten.\r\n\r\nWir schlagen daher folgende Anpassung vor:\r\n\r\nEine sehr geringe Menge ist nicht anzunehmen, wenn von einer Einzelfraktion pro Bau- oder Abbruchma\u00dfnahme mehr als 0,5 ein Kubikmeter anf\u00e4llt.\r\n(in Rot \u00c4nderung durch Verfasser)\r\n\r\n\r\nZu \u00a7 9a Kennzeichnung von Abfallbeh\u00e4ltern\r\n\r\n\u00a7 9a GewAbfV-Novelle 2024 sieht Regeln zur Kennzeichnung von Abfallbeh\u00e4ltern vor:\r\n \r\nErzeuger und Besitzer, die Abf\u00e4lle gem\u00e4\u00df \u00a7 3 Absatz 1 und \u00a7 8 Absatz 1 getrennt zu sammeln haben, haben die dazu verwendeten Abfallbeh\u00e4lter so zu kennzeichnen, dass eine ordnungsgem\u00e4\u00dfe getrennte Sammlung sichergestellt wird. Dazu ist an der Au\u00dfenfl\u00e4che des Beh\u00e4lters gut sichtbar und in deutscher Sprache die in dem Beh\u00e4lter zu sammelnde Abfallfraktion zu bezeichnen. Abfallbeh\u00e4lter, in denen gemischte Abf\u00e4lle gesammelt werden, haben die in dem Gemisch nicht zugelassenen Abfallfraktionen zu bezeichnen.\r\n\r\nWir halten dies grunds\u00e4tzlich f\u00fcr praxisnah. Es sollte aber eine gewisse Beinfreiheit gegeben sein, da Gewerbeeinheiten ja in der Regel auf mehreren Etagen bzw. Fl\u00e4chen/Arbeitsstationen Abf\u00e4lle dezentral erfassen und sp\u00e4ter erst in gr\u00f6\u00dferen Gef\u00e4\u00dfen zentral b\u00fcndeln. Auch sollte bedacht werden, dass gewerbliche Arbeitnehmer h\u00e4ufig auch andere Sprachen als Deutsch sprechen. Auch sollte die Formulierung zu nicht zugelassenen Materialien in Gef\u00e4\u00dfen f\u00fcr Gemische offener erfolgen. \r\n\r\nWir regen folgende \u00c4nderung an:\r\n\r\nErzeuger und Besitzer, die Abf\u00e4lle gem\u00e4\u00df \u00a7 3 Absatz 1 und \u00a7 8 Absatz 1 getrennt zu sammeln haben, sollen haben die dazu verwendeten Abfallbeh\u00e4lter so kennzeichnen, dass eine ordnungsgem\u00e4\u00dfe getrennte Sammlung sichergestellt wird. Dazu ist an der Au\u00dfenfl\u00e4che des Beh\u00e4lters gut sichtbar und mindestens in deutscher Sprache die in dem Beh\u00e4lter zu sammelnde Abfallfraktion zu bezeichnen. Abfallbeh\u00e4lter, in denen gemischte Abf\u00e4lle gesammelt werden, haben die wichtige, in dem Gemisch nicht zugelassene Materialstr\u00f6me zugelassenen Abfallfraktionen zu bezeichnen.\r\n(in Rot \u00c4nderung durch Verfasser)\r\n\r\n\r\nZu \u00a7 13 Register \u00fcber Vorbehandlungsanlagen\r\n\r\nBei dem Vorschlag sehen wir die Gefahr, dass in dem Register nur die Anlagen gelistet sind, die als Entsorgungsfachbetrieb (Efb) zertifiziert sind. Damit werden diejenigen in den Fokus ger\u00fcckt, die sich freiwillig einer Efb-Zertifizierung unterziehen. Es sollten jedoch eher die Anlagen verst\u00e4rkt kontrolliert werden, die diese freiwilligen Anforderungen nicht erf\u00fcllen. Der Verweis auf das Efb-Register sollte daher entfernt werden.\r\n\r\nWir regen folgende \u00c4nderung an:\r\n\r\nDie L\u00e4nder f\u00fchren ein bundesweit einheitliches elektronisches Register \u00fcber Vorbehandlungsanlagen. Soweit m\u00f6glich nutzen sie dazu Daten aus dem Entsorgungsfachbetrieberegister nach \u00a7 28 der Entsorgungsfachbetriebeverordnung.\r\n\t(in Rot \u00c4nderung durch Verfasser)\r\n\r\nDes Weiteren bitten wir um Klarstellung, ob das Register \u00fcber Vorbehandlungsanlagen vom Bund gestellt und programmiert wird.\r\n\r\n\r\nZu \u00a7 15 Inkrafttreten, Au\u00dferkrafttreten\r\n\r\nIn \u00a7 15 Abs. 1 Nr. 1 GewAbfV-Novelle 2024 muss zwingend das Bu\u00dfgeld f\u00fcr Verst\u00f6\u00dfe gegen die Pflichten nach \u00a7 8 Abs. 1 S. 2 erg\u00e4nzt werden. Grunds\u00e4tzlich vermuten wir, dass die Effektivit\u00e4t der GewAbfV eher durch eine Erh\u00f6hung der Bu\u00dfgelder gest\u00e4rkt wird als durch die Einf\u00fchrung neuer Dokumentations- und \u00dcberwachungspflichten.\r\n\r\n\r\nAnlage 4 - Dokumentation \u00fcber die getrennte Sammlung von Bau- und Abbruchabf\u00e4llen nach \u00a7 8 Absatz 3 Gewerbeabfallverordnung\r\n\r\nIn Eintrag 11 fehlt zumindest der Hinweis auf nicht gef\u00e4hrliche asbesthaltige Bau- und Abbruchabf\u00e4lle. Bei der derzeit gew\u00e4hlten Formulierung wird diese Spalte stets leer bleiben, da sie sich entsprechend der AVV auf gef\u00e4hrliche Abf\u00e4lle bezieht, die jedoch nicht der GewAbfV unterliegen.\r\n\r\n\r\n\u00dcbergangsfristen\r\n\r\nF\u00fcr die Vorbehandlungsanlagen sollte eine \u00dcbergangsfrist f\u00fcr die Ausr\u00fcstung mit Nahinfratorger\u00e4ten geschaffen werden. Die Begrenzung auf zwei Kaskadenteile wird in der Praxis zu erheblichen Schwierigkeiten mit m\u00f6glicherweise negativen finanziellen Folgen f\u00fchren, auch hier sollte eine entsprechende \u00dcbergangsfrist geregelt werden, da Kaskadenvertr\u00e4ge h\u00e4ufig lange Laufzeiten haben.\r\n\r\n\r\n\r\nF\u00fcr die Ber\u00fccksichtigung der genannten Punkte im weiteren Verfahren danken wir Ihnen vorab. F\u00fcr R\u00fcckfragen stehen wir jederzeit gerne zur Verf\u00fcgung.\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d9/c3/302881/Stellungnahme-Gutachten-SG2406170112.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-06"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0003823",
+                "regulatoryProjectTitle": "Bundes-Bodenschutz- und Altlastenverordnung - Anpassung der LABO-Vollzugshilfe zu \u00a7\u00a7 6 - 8 BBodSchV",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Vollzugshilfe zu \u00a7\u00a7 6 \u2013 8 BBodSchV (Stand 10.08.2023)\r\nHier: Beispiele f\u00fcr die Abgrenzung von boden\u00e4hnlichen Anwendungen zu Einbau-weisen von technischen Bauwerken nach der ErsatzbaustoffV (S. 40 ff.)\r\n\r\nSehr geehrte Damen und Herren,\r\nsehr geehrte\r\n\r\nder BDE Bundesverband der Deutschen Entsorgungs-, Wasser- und Kreislaufwirtschaft e.V. und die BRB Bundesvereinigung Recycling-Baustoffe e.V. hatten in einem gemeinsamen Anschreiben an die Gesch\u00e4ftsstelle der Bund/L\u00e4nder-Arbeitsgemeinschaft Bodenschutz (LABO) vom 11.12.2023 auf Vollzugsprobleme in Bezug auf die in der Vollzugshilfe zu \u00a7\u00a76-8 BBodSchV dargestellten Beispiele f\u00fcr die Abgrenzung von boden\u00e4hnlichen Anwendungen zu Einbauweisen von technischen Bauwerken nach der ErsatzbaustoffV hingewiesen. \r\nSo werden aus Sicht der Verb\u00e4nde in den Abbildungen 3 bis 6 (Prinzipskizzen) auf S. 40 ff. der Vollzugshilfe viel zu gro\u00dfe Bereiche als boden\u00e4hnliche Anwendung in die BBodSchV gezogen.\r\nErste R\u00fcckmeldungen aus der Praxis erreichen uns, dass bisher m\u00f6gliche und hochwertige Einsatzm\u00f6glichkeiten von MEB in technischen Bauwerken nach EBV unsachgem\u00e4\u00df stark eingeschr\u00e4nkt werden. Dies sei auch insbesondere darauf zur\u00fcckzuf\u00fchren, dass die Prinzipskizzen regelm\u00e4\u00dfig von unteren Vollzugsbeh\u00f6rden so interpretiert werden, dass sie 1-zu-1 in der Praxis umgesetzt werden m\u00fcssen.\r\nWir weisen erneut darauf hin, dass die Prinzipskizzen Einzelf\u00e4lle in der Praxis nicht darstellen k\u00f6nnen und zu einem \u00fcberm\u00e4\u00dfig starken Einschnitt des Anwendungsbereichs der EBV verleiten k\u00f6nnen. Vielmehr gilt aus Sicht der Verb\u00e4nde auch weiterhin eine Einzelfallentscheidung in Abh\u00e4ngigkeit der bautechnischen Rahmenbedingungen als sachgem\u00e4\u00df. \r\nAus Sicht der Verb\u00e4nde w\u00e4re also entweder eine komplette Streichung der Prinzipskizzen angebracht, oder es m\u00fcsste zumindest eine Klarstellung in einer \u00fcberarbeiteten Version der Vollzugshilfe erfolgen, dass es sich lediglich um beispielhafte Darstellungen handelt.\r\nDie BRB-Gesch\u00e4ftsf\u00fchrerin hatte im Rahmen des LABO-Verb\u00e4ndegespr\u00e4chs am 13. Dezember 2023 bereits die M\u00f6glichkeit, diese Punkte mit der Vorsitzenden des St\u00e4ndigen Ausschusses \u201eVorsorgender Bodenschutz\u201c (BOVA) zu besprechen. Unsere Hinweise schienen auf Verst\u00e4ndnis zu sto\u00dfen und eine erneute Diskussion der Thematik im BOVA wurde m\u00fcndlich zugesagt.\r\nDer LABO-Webseite konnten wir entnehmen, dass die letzte BOVA-Sitzung am 10. und 11. Januar 2024 stattfand und die n\u00e4chste LABO-Sitzung am 20. und 21. M\u00e4rz stattfinden wird. Vor diesem Hintergrund w\u00fcrden wir gerne erfragen, ob die Prinzipskizzen bereits im BOVA diskutiert werden konnten, ob eine Befassung in der kommenden LABO-Sitzung geplant ist und ob mit einer zeitnahen Anpassung der Vollzugshilfe zu \u00a7\u00a7 6-8 BBodSchV gerechnet werden kann.\r\nSehr gerne stehen wir f\u00fcr R\u00fcckfragen jederzeit zur Verf\u00fcgung. \r\n\r\nMit freundlichen Gr\u00fc\u00dfen\t\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

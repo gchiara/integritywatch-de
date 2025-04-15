@@ -1,0 +1,808 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-23T15:25:04.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-28T17:13:35.000+01:00",
+        "lastUpdateDate": "2024-08-30T15:00:13.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 43329,
+                "validFromDate": "2024-08-30T15:00:13.000+02:00",
+                "version": 10,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37391,
+                "validFromDate": "2024-06-29T15:26:08.000+02:00",
+                "validUntilDate": "2024-08-30T15:00:13.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26547,
+                "validFromDate": "2023-10-31T17:27:33.000+01:00",
+                "validUntilDate": "2024-06-29T15:26:08.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22631,
+                "validFromDate": "2023-06-29T14:53:24.000+02:00",
+                "validUntilDate": "2023-10-31T17:27:33.000+01:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 10436,
+                "validFromDate": "2023-02-23T15:25:04.000+01:00",
+                "validUntilDate": "2023-06-29T14:53:24.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_CONSULTING",
+            "de": "Beratungsunternehmen, selbst\u00e4ndige Beraterin oder selbst\u00e4ndiger Berater",
+            "en": "Consulting company, independent consultant"
+        },
+        "activityDescription": "Seit 1990 begleitet EUTOP als struktureller Prozesspartner die Arbeit der Interessenvertretungen von privaten Unternehmen, Verb\u00e4nden und Organisationen bei den Institutionen der Europ\u00e4ischen Union und ausgew\u00e4hlter EU-Mitgliedstaaten.\r\n\r\nZum Zwecke der Interessenvertretung werden Gespr\u00e4che mit Vertreterinnen und Vertretern der Bundesregierung und der Bundesministerien sowie des Deutschen Bundestages zur Kontaktvermittlung, Sachstandsaufkl\u00e4rung sowie Erl\u00e4uterung von \u00c4nderungsnotwendigkeiten hinsichtlich einer Vielzahl von Themenfeldern gef\u00fchrt. Zweck der Interessenvertretung ist es, die Sicht der beauftragenden Organisationen zu vermitteln.\r\n\r\nDar\u00fcber hinaus werden in Einzelf\u00e4llen auch Stellungnahmen und Gutachten zu konkreten Regelungsvorhaben erarbeitet und \u00fcbermittelt.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_MEDIA_ADVERTISEMENT",
+                "de": "Werbung",
+                "en": "Advertising"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "ON_BEHALF_OF_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird im Auftrag Dritter selbst wahrgenommen",
+                "en": "Representation of interests is carried out on behalf of third parties themselves"
+            },
+            {
+                "code": "CONTRACTS_OPERATED_ON_BEHALF_OF_THIRD_PARTY_BY_SUBPARTY",
+                "de": "Die Interessenvertretung wird im Auftrag Dritter durch die Beauftragung weiterer Dritter wahrgenommen",
+                "en": "Contracts are awarded to subcontractors for the representation of interests on behalf of third parties"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/7f/7a/348982/Jahresabschluss_EUTOP-Brussels-SRL_Geschaeftsjahr-2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "financialResourcesReceived": {
+                                "from": 50001,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 100000
+                            },
+                            "referenceDetailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000873",
+                            "referenceName": "British American Tobacco (Industrie) GmbH"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [
+                        {
+                            "referenceDetailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001078",
+                            "referenceName": "Dr. Hans Bernhard Beus"
+                        },
+                        {
+                            "referenceDetailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R005750",
+                            "referenceName": "Ursula Heinen-Esser"
+                        },
+                        {
+                            "referenceDetailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000986",
+                            "referenceName": "Clemens  Neumann"
+                        }
+                    ],
+                    "entrustedPersons": [
+                        {
+                            "firstName": "Karen",
+                            "lastName": "Sticht",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "Im Rahmen des Auftrags wird Kontakt mit Vertreterinnen und Vertretern der Bundesregierung und der Bundesministerien sowie dem Deutschen Bundestag zur Sachstandsaufkl\u00e4rung sowie etwaiger Erl\u00e4uterung von \u00c4nderungsnotwendigkeiten hinsichtlich jeglicher Themen im Bereich Tabak und alternativer Produkte aufgenommen.",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_OTHER",
+                        "de": "Sonstiges im Bereich \"Gesundheit\"",
+                        "en": "Other in the field of \"Health\""
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_ADVERTISEMENT",
+                        "de": "Werbung",
+                        "en": "Advertising"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_INDUSTRY",
+                        "de": "Lebens- und Genussmittelindustrie",
+                        "en": "Food and luxury food industry"
+                    },
+                    {
+                        "code": "FOI_AF_OTHER",
+                        "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                        "en": "Other in the field of \"Agriculture and food\""
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    }
+                ],
+                "regulatoryProjects": [
+                    {
+                        "regulatoryProjectNumber": "RV0010432",
+                        "regulatoryProjectTitle": "\u00c4nderung des Produktregelwerks innerhalb des Tabakerzeugnisgesetz und der Tabakerzeugnisverordnung"
+                    },
+                    {
+                        "regulatoryProjectNumber": "RV0010433",
+                        "regulatoryProjectTitle": "Beibehaltung bestehender rechtlicher Regelungen im Bereich des Tabaksteuergesetzes"
+                    },
+                    {
+                        "regulatoryProjectNumber": "RV0010434",
+                        "regulatoryProjectTitle": "Einf\u00fchrung einer Pflicht zur R\u00fccknahme der Produkte f\u00fcr alle Vertreiber von elektronischen Einweg-Zigaretten"
+                    },
+                    {
+                        "regulatoryProjectNumber": "RV0010435",
+                        "regulatoryProjectTitle": "\u00c4nderung der EU-Mindestverbrauchsteuers\u00e4tze f\u00fcr klassische Tabakwaren und harmonisierte Besteuerung bei neuartigen Produkten"
+                    },
+                    {
+                        "regulatoryProjectNumber": "RV0010436",
+                        "regulatoryProjectTitle": "Evidenzbasierte Anpassung des EU-Rechtsrahmens f\u00fcr Tabakprodukte"
+                    }
+                ]
+            }
+        ],
+        "contractsPresent": true
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.0,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 90001,
+            "to": 100000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "1050 Br\u00fcssel",
+            "country": {
+                "code": "BE",
+                "de": "Belgien",
+                "en": "Belgium"
+            },
+            "internationalAdditional1": "Rue d'Arlon 15",
+            "type": "FOREIGN"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "berlin@eutop.eu",
+            "nationalAdditional1": "EUTOP Berlin GmbH",
+            "phoneNumber": "+493052000550",
+            "street": "Unter den Linden",
+            "streetNumber": "38",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "brussels@eutop.eu"
+                }
+            ],
+            "phoneNumber": "+3222868080",
+            "websites": [
+                {
+                    "website": "www.eutop.eu"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Karen",
+                "lastName": "Sticht",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_OTHER_JP_INTERNATIONAL",
+            "de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+            "en": "Other juristic person",
+            "legalFormText": "Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Christian",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Schaufler",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "European Policy Centre"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "EUTOP Brussels SRL (EUTOP)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002284/43329",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-29T15:26:08.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/e7/43/348983/Lobbyregister-Detailansicht-R002284-2024-08-30_15-00-13.pdf",
+        "validFromDate": "2024-08-30T15:00:13.000+02:00",
+        "version": 10
+    },
+    "registerEntryId": 43329,
+    "registerNumber": "R002284",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "TabakerzG",
+                        "title": "Gesetz \u00fcber Tabakerzeugnisse und verwandte Erzeugnisse",
+                        "url": "https://www.gesetze-im-internet.de/tabakerzg"
+                    },
+                    {
+                        "shortTitle": "TabakerzV",
+                        "title": "Verordnung \u00fcber Tabakerzeugnisse und verwandte Erzeugnisse",
+                        "url": "https://www.gesetze-im-internet.de/tabakerzv"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Anpassung des Produktregelwerks innerhalb des Tabakerzeugnisgesetz (TabakerzG) und der Tabakerzeugnisverordnung (TabakerzV) mit Einf\u00fchrung einer Regulierung nach Schadenspotenziel (Tobacco Harm Reduction) sowie Regulierung tabakfreier Nikotinbeutel in Anlehnung an das Regelungsregime der E-Zigarette.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_INDUSTRY",
+                        "de": "Lebens- und Genussmittelindustrie",
+                        "en": "Food and luxury food industry"
+                    },
+                    {
+                        "code": "FOI_HEALTH_OTHER",
+                        "de": "Sonstiges im Bereich \"Gesundheit\"",
+                        "en": "Other in the field of \"Health\""
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_AF_OTHER",
+                        "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                        "en": "Other in the field of \"Agriculture and food\""
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_ADVERTISEMENT",
+                        "de": "Werbung",
+                        "en": "Advertising"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010432",
+                "statements": [],
+                "title": "\u00c4nderung des Produktregelwerks innerhalb des Tabakerzeugnisgesetz und der Tabakerzeugnisverordnung"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "TabStG",
+                        "title": "Tabaksteuergesetz",
+                        "url": "https://www.gesetze-im-internet.de/tabstg_2009"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Beibehaltung bestehender rechtlicher Regelungen im Bereich des Tabaksteuergesetzes (TabStG).",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_IV/20_Legislaturperiode/2024-06-05-JStG-2024/1-Referentenentwurf.pdf?__blob=publicationFile&v=2",
+                            "draftBillProjectUrl": "https://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_IV/20_Legislaturperiode/2024-06-05-JStG-2024/0-Gesetz.html",
+                            "shortTitle": "BMF",
+                            "title": "Bundesministerium der Finanzen",
+                            "url": "https://www.bundesfinanzministerium.de/Web/DE/Home/home.html"
+                        }
+                    ],
+                    "publicationDate": "2024-05-17",
+                    "title": "Entwurf eines Jahressteuergesetzes 2024 (Jahressteuergesetz 2024 \u2013 JStG 2024)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_INDUSTRY",
+                        "de": "Lebens- und Genussmittelindustrie",
+                        "en": "Food and luxury food industry"
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010433",
+                "statements": [],
+                "title": "Beibehaltung bestehender rechtlicher Regelungen im Bereich des Tabaksteuergesetzes"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "ElektroG",
+                        "title": "Gesetz \u00fcber das Inverkehrbringen, die R\u00fccknahme und die umweltvertr\u00e4gliche Entsorgung von Elektro- und Elektronikger\u00e4ten",
+                        "url": "https://www.gesetze-im-internet.de/elektrog_2015"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Einf\u00fchrung einer Pflicht zur R\u00fccknahme der Produkte f\u00fcr alle Vertreiber von elektronischen Einweg-Zigaretten sowohl im station\u00e4ren Handel als auch im Fernabsatz unabh\u00e4ngig von der Gr\u00f6\u00dfe der Verkaufs- oder Lagerfl\u00e4che sowie einheitliche j\u00e4hrliche Regelung von Mitteilungspflichten f\u00fcr Hersteller.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmuv.de/fileadmin/Daten_BMU/Download_PDF/Glaeserne_Gesetze/20._Lp/elektrog_novelle_3/Entwurf/elektrog_novelle_3_refe_bf.pdf",
+                            "draftBillProjectUrl": "https://www.bmuv.de/gesetz/referentenentwurf-eines-dritten-gesetzes-zur-aenderung-des-elektro-und-elektronikgeraetegesetzes",
+                            "shortTitle": "BMUV",
+                            "title": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+                            "url": "https://www.bmuv.de/"
+                        }
+                    ],
+                    "publicationDate": "2024-04-15",
+                    "title": "Referentenentwurf eines Dritten Gesetzes zur \u00c4nderung des Elektro- und Elektronikger\u00e4tegesetzes"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_INDUSTRY",
+                        "de": "Lebens- und Genussmittelindustrie",
+                        "en": "Food and luxury food industry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010434",
+                "statements": [],
+                "title": "Einf\u00fchrung einer Pflicht zur R\u00fccknahme der Produkte f\u00fcr alle Vertreiber von elektronischen Einweg-Zigaretten"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "\u00c4nderung der EU-Mindestverbrauchsteuers\u00e4tze f\u00fcr klassische Tabakwaren, Einf\u00fchren einer \u00fcberarbeiteten Richtlinie mit harmonisierter Besteuerung bei den neuartigen Produkten nach Schadenspotential (Tobacco Harm Reduction-Ansatz).",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_INDUSTRY",
+                        "de": "Lebens- und Genussmittelindustrie",
+                        "en": "Food and luxury food industry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010435",
+                "statements": [],
+                "title": "\u00c4nderung der EU-Mindestverbrauchsteuers\u00e4tze f\u00fcr klassische Tabakwaren und harmonisierte Besteuerung bei neuartigen Produkten"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die Evaluierung und ggf. punktuelle Anpassung des EU-Rechtsrahmens m\u00fcssen auf belastbarer Evidenz basieren und insbesondere ber\u00fccksichtigen, ob vorliegende Ma\u00dfnahmen zu einem verbesserten Schutz der \u00f6ffentlichen Gesundheit, d.h. einer Senkung der Raucherpr\u00e4valenz, wirksam beigetragen haben. Die Regulierung von neuartigen Erzeugnissen muss darauf abzielen, das volle Potenzial dieser schadstoff\u00e4rmeren Produkte zur Schadensminimierung auszusch\u00f6pfen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_INDUSTRY",
+                        "de": "Lebens- und Genussmittelindustrie",
+                        "en": "Food and luxury food industry"
+                    },
+                    {
+                        "code": "FOI_HEALTH_OTHER",
+                        "de": "Sonstiges im Bereich \"Gesundheit\"",
+                        "en": "Other in the field of \"Health\""
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_ADVERTISEMENT",
+                        "de": "Werbung",
+                        "en": "Advertising"
+                    },
+                    {
+                        "code": "FOI_AF_OTHER",
+                        "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                        "en": "Other in the field of \"Agriculture and food\""
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010436",
+                "statements": [],
+                "title": "Evidenzbasierte Anpassung des EU-Rechtsrahmens f\u00fcr Tabakprodukte"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

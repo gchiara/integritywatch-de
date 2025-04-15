@@ -1,0 +1,274 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-09-29T09:42:42.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-03T09:09:28.000+01:00",
+        "lastUpdateDate": "2024-06-12T17:13:06.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 36755,
+                "validFromDate": "2024-06-12T17:13:06.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 36754,
+                "validFromDate": "2024-06-12T17:11:26.000+02:00",
+                "validUntilDate": "2024-06-12T17:13:06.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 36753,
+                "validFromDate": "2024-06-12T17:05:28.000+02:00",
+                "validUntilDate": "2024-06-12T17:11:26.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 36330,
+                "validFromDate": "2024-06-10T15:33:14.000+02:00",
+                "validUntilDate": "2024-06-12T17:05:28.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23521,
+                "validFromDate": "2023-07-10T14:24:29.000+02:00",
+                "validUntilDate": "2024-06-10T15:33:14.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 11955,
+                "validFromDate": "2022-09-29T09:42:42.000+02:00",
+                "validUntilDate": "2023-07-10T14:24:29.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_CONSULTING",
+            "de": "Beratungsunternehmen, selbst\u00e4ndige Beraterin oder selbst\u00e4ndiger Berater",
+            "en": "Consulting company, independent consultant"
+        },
+        "activityDescription": "Senior Adviser Public Affairs",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_AF_FOOD_SAFETY",
+                "de": "Lebensmittelsicherheit",
+                "en": "Food safety"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "ON_BEHALF_OF_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird im Auftrag Dritter selbst wahrgenommen",
+                "en": "Representation of interests is carried out on behalf of third parties themselves"
+            }
+        ]
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "address": {
+                                "city": "M\u00fcnchen",
+                                "country": {
+                                    "code": "DE",
+                                    "de": "Deutschland",
+                                    "en": "Germany"
+                                },
+                                "street": "K\u00f6niginstra\u00dfe",
+                                "streetNumber": "19",
+                                "type": "NATIONAL",
+                                "zipCode": "80539"
+                            },
+                            "capitalCityRepresentationPresent": false,
+                            "contactDetails": {
+                                "emails": [
+                                    {
+                                        "email": "info@allianzagrar.de"
+                                    }
+                                ],
+                                "phoneNumber": "+49896782970",
+                                "websites": [
+                                    {
+                                        "website": "www.allianzagrar.de"
+                                    }
+                                ]
+                            },
+                            "financialResourcesReceived": {
+                                "from": 1,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 50000
+                            },
+                            "legalForm": {
+                                "code": "LF_AG",
+                                "de": "Aktiengesellschaft (AG)",
+                                "en": "Stock company (AG)"
+                            },
+                            "legalFormType": {
+                                "code": "JURISTIC_PERSON",
+                                "de": "Juristische Person",
+                                "en": "Legal person"
+                            },
+                            "legalRepresentatives": [
+                                {
+                                    "firstName": "Petra",
+                                    "function": "Vorstand",
+                                    "lastName": "Bauke"
+                                },
+                                {
+                                    "firstName": "Alexander",
+                                    "function": "Vortstandsvorsitzender",
+                                    "lastName": "L\u00fchrig"
+                                }
+                            ],
+                            "name": "Allianz Agrar AG"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [],
+                    "lobbyingIsCarriedOutByLobbyist": true
+                },
+                "description": "Senior Adviser Public Affairs ",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    },
+                    {
+                        "code": "FOI_AF_OTHER",
+                        "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                        "en": "Other in the field of \"Agriculture and food\""
+                    }
+                ],
+                "regulatoryProjects": []
+            }
+        ],
+        "contractsPresent": true
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.25,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 10001,
+            "to": 20000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "entrustedPersonsPresent": false,
+        "firstName": "Hans-Gerd",
+        "identity": "NATURAL",
+        "lastName": "Behrens",
+        "membershipsPresent": false,
+        "naturalPersonType": {
+            "code": "OTHER",
+            "de": "Andere nat\u00fcrliche Person",
+            "en": "Other natural person"
+        },
+        "recentGovernmentFunctionPresent": false
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002708/36755",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-10T15:33:14.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/e6/0e/289460/Lobbyregister-Detailansicht-R002708-2024-06-12_17-13-06.pdf",
+        "validFromDate": "2024-06-12T17:13:06.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 36755,
+    "registerNumber": "R002708",
+    "regulatoryProjects": {
+        "regulatoryProjects": [],
+        "regulatoryProjectsPresent": false
+    },
+    "statements": {}
+}

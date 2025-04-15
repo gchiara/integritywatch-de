@@ -1,0 +1,797 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-11-09T10:58:35.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-25T15:57:17.000+01:00",
+        "lastUpdateDate": "2024-06-30T18:48:11.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 31587,
+                "validFromDate": "2024-06-30T18:48:11.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26916,
+                "validFromDate": "2023-11-28T16:30:52.000+01:00",
+                "validUntilDate": "2024-06-30T18:48:11.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22860,
+                "validFromDate": "2023-07-07T00:04:21.000+02:00",
+                "validUntilDate": "2023-11-28T16:30:52.000+01:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 14030,
+                "validFromDate": "2023-06-07T11:53:39.000+02:00",
+                "validUntilDate": "2023-07-07T00:04:21.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 12946,
+                "validFromDate": "2022-11-09T10:58:35.000+01:00",
+                "validUntilDate": "2023-06-07T11:53:39.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Der Bundesverband Trans* (BVT*) wurde 2015 als ein Zusammenschluss von Einzelpersonen, Gruppen, Vereinen und Initiativen auf Regional-, Landes- und Bundesebene gegr\u00fcndet. Das gemeinsame Bestreben ist der Einsatz f\u00fcr geschlechtliche Selbstbestimmung und Vielfalt. Der BVT* engagiert sich f\u00fcr die Menschenrechte im Sinne von Respekt, Anerkennung, Gleichberechtigung, gesellschaftlicher Teilhabe und Gesundheit von trans* bzw. nicht im bin\u00e4ren Geschlechtersystem verorteter Personen.\r\n\r\nDurch \u00d6ffentlichkeits- und Kampagnenarbeit st\u00e4rkt der Bundesverband Trans* die Sichtbarkeit von trans*politischen Anliegen. Politische Entscheidungstr\u00e4ger*innen informiert der BVT* \u00fcber dringende Handlungsbedarfe, um die Grundrechte von trans* und nicht-bin\u00e4ren Personen zu sch\u00fctzen. Gesetzgebungsverfahren, welche die Lebensrealit\u00e4t von trans* und nicht-bin\u00e4ren Personen betreffen, begleitet der Verband durch Stellungnahmen und Fachgespr\u00e4che. Konkrete Ziele, f\u00fcr die sich der BVT* einsetzt, sind: \r\n\r\n- Abl\u00f6sung des Transsexuellengesetzes (TSG) durch ein Selbstbestimmungsgesetz, das eine \u00c4nderung des Namens und Geschlechtseintrags vor dem Standesamt auf Basis der Selbstauskunft erm\u00f6glicht und wirksam vor Fremdoutings sch\u00fctzt.\r\n- Gesetzesvorhaben zu einem TSG-Entsch\u00e4digungsfonds.\r\n- Reform des Familien- und Abstammungsrechts.\r\n- Erg\u00e4nzung Artikel 3 Grundgesetz. \r\n- Sicherung und Verbesserung der Gesundheitsversorgung.\r\n- Abbau von (Psycho-)Pathologisierung und Stigmatisierung.\r\n- Wahrung der Menschenrechte von queeren Gefl\u00fcchteten.\r\n- St\u00e4rkung von Trans*community-Strukturen wie Selbsthilfegruppen, Netzwerken und Vereinen.\r\n- Ausbau des Antidiskriminierungsrechts und St\u00e4rkung des Schutzes vor Hasskriminalit\u00e4t.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_SP_FAMILY",
+                "de": "Familienpolitik",
+                "en": "Family policy"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_SP_ELDERLY",
+                "de": "Seniorenpolitik",
+                "en": "Elderly/senior citizens policy"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_RPI_REFUGEE",
+                "de": "Asyl und Fl\u00fcchtlingsschutz",
+                "en": "Asylum and refugee protection"
+            },
+            {
+                "code": "FOI_SP_CHILDREN",
+                "de": "Kinder- und Jugendpolitik",
+                "en": "Child and youth policy"
+            },
+            {
+                "code": "FOI_SP_DISABILITY",
+                "de": "Rechte von Menschen mit Behinderung",
+                "en": "Rights of people with disabilities"
+            },
+            {
+                "code": "FOI_RPI_MIGRATION",
+                "de": "Migration",
+                "en": "Migration and residence"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_SP_DIVERSITY",
+                "de": "Diversit\u00e4tspolitik",
+                "en": "Diversity policy"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_SP_GENDER",
+                "de": "Geschlechterpolitik",
+                "en": "Gender politics"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/bd/e8/327216/Lobbregister_BVT_23Jahresbericht.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.96,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 10001,
+            "to": 20000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Prinzregentenstra\u00dfe",
+            "streetNumber": "84",
+            "type": "NATIONAL",
+            "zipCode": "10717"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@bv-trans.de"
+                }
+            ],
+            "phoneNumber": "+493023949896",
+            "websites": [
+                {
+                    "website": "www.bv-trans.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Kalle",
+                "lastName": "H\u00fcmpfner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Nora",
+                "lastName": "Eckert",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Ben Manu\u0161",
+                "lastName": "Liehr",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Robin",
+                "function": "Vorstand",
+                "lastName": "Osterkamp",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Nora",
+                "function": "Vorstandsmitglied",
+                "lastName": "Eckert",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Ben Manu\u0161",
+                "function": "Vorstand",
+                "lastName": "Liehr",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Mary",
+                "function": "Vorstand",
+                "lastName": "Gonz\u00e1lez Leal",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-12-31",
+            "naturalPersons": 209,
+            "organizations": 57,
+            "totalCount": 266
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Deutscher Parit\u00e4tischer Wohlfahrtsverband - Gesamtverband e.V."
+            },
+            {
+                "membership": "DAG SHG e.V."
+            },
+            {
+                "membership": "ILGA Europe"
+            },
+            {
+                "membership": "TGEU (Transgender Europe) e.V. "
+            },
+            {
+                "membership": "Deutscher Frauenrat e.V. - CEDAW Alliance"
+            },
+            {
+                "membership": "Bundesverband Queere Bildung e.V."
+            },
+            {
+                "membership": "Lesben- und Schwulenverband Deutschland e.V."
+            },
+            {
+                "membership": "TGNS (Transgender Network Switzerland)"
+            },
+            {
+                "membership": "Forum Menschenrechte"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Bundesverband Trans* e.V. (BVT)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 1,
+            "to": 10000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Zuwendung im Rahmen des Bundesprogramms des Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend \"Demokratie leben!\" als Teil des Projektes \"Kompetenznetzwerkes zum Abbau von Homosexuellen- und Transfeindlichkeit / BVT*. F\u00fcr die Akzeptanz von sexueller und geschlechtlicher Selbstbestimmung und Vielfalt!\".",
+                "location": "Spremberger Str. 31, 02959 Schleife",
+                "name": "\"Demokratie leben!\" - Bundesprogramm des Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend",
+                "publicAllowanceEuro": {
+                    "from": 590001,
+                    "to": 600000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projekt Trans*feindlichkeit: Kontexte, aktuelle Dynamiken und Auswirkungen\r\nWeiterleitungsvertrag des Institut f\u00fcr Demokratie und Zivilgesellschaft in Tr\u00e4gerschaft der Amadeu Antonio Stiftung, Jena",
+                "location": "Schleife",
+                "name": "\"Demokratie leben!\" - Bundesprogramm des Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend \u00fcber Weiterleitungsvertrag IDZ Jena",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Gastorganisation f\u00fcr Schutzaufenthalt einer Menschenrechtsverteidigerin",
+                "location": "Berlin",
+                "name": "ifa Institut f\u00fcr Auslandsbeziehungen",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001715/31587",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-30T18:48:11.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b2/67/327219/Lobbyregister-Detailansicht-R001715-2024-06-30_18-48-11.pdf",
+        "validFromDate": "2024-06-30T18:48:11.000+02:00",
+        "version": 8
+    },
+    "registerEntryId": 31587,
+    "registerNumber": "R001715",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "PStG",
+                        "title": "Personenstandsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/pstg"
+                    },
+                    {
+                        "shortTitle": "TSG",
+                        "title": "Gesetz \u00fcber die \u00c4nderung der Vornamen und die Feststellung der Geschlechtszugeh\u00f6rigkeit in besonderen F\u00e4llen",
+                        "url": "https://www.gesetze-im-internet.de/tsg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Abl\u00f6sung des Transsexuellengesetzes (TSG) durch ein Selbstbestimmungsgesetz, das eine \u00c4nderung des Namens und Geschlechtseintrags vor dem Standesamt auf Basis der Selbstauskunft erm\u00f6glicht und wirksam vor Fremdoutings sch\u00fctzt.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_DIVERSITY",
+                        "de": "Diversit\u00e4tspolitik",
+                        "en": "Diversity policy"
+                    },
+                    {
+                        "code": "FOI_SP_GENDER",
+                        "de": "Geschlechterpolitik",
+                        "en": "Gender politics"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/090/2009049.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMJ",
+                                "title": "Bundesministerium der Justiz",
+                                "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                            },
+                            {
+                                "shortTitle": "BMFSFJ",
+                                "title": "Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend",
+                                "url": "https://www.bmfsfj.de/"
+                            }
+                        ],
+                        "printingNumber": "20/9049",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-%C3%BCber-die-selbstbestimmung-in-bezug-auf-den-geschlechtseintrag-und/303278",
+                        "title": "Entwurf eines Gesetzes \u00fcber die Selbstbestimmung in Bezug auf den Geschlechtseintrag und zur \u00c4nderung weiterer Vorschriften"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0010594",
+                "statements": [],
+                "title": "Einf\u00fchrung eines Selbstbestimmungsgesetzes"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "TSG",
+                        "title": "Gesetz \u00fcber die \u00c4nderung der Vornamen und die Feststellung der Geschlechtszugeh\u00f6rigkeit in besonderen F\u00e4llen",
+                        "url": "https://www.gesetze-im-internet.de/tsg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Einrichtung eines Entsch\u00e4digungsfonds f\u00fcr trans* Personen, die im Rahmen ihrer \u00c4nderung des Geschlechtseintrags nach \u00a7 8 Abs. 1 Nr. 2-4 TSG (\"Transsexuellengesetz\") Grundrechtsverletzungen erfahren haben, bis entsprechende Regelungen durch das Bundesverfassungsgericht au\u00dfer Kraft gesetzt wurden.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_GENDER",
+                        "de": "Geschlechterpolitik",
+                        "en": "Gender politics"
+                    },
+                    {
+                        "code": "FOI_SP_DIVERSITY",
+                        "de": "Diversit\u00e4tspolitik",
+                        "en": "Diversity policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010595",
+                "statements": [],
+                "title": "Einf\u00fchrung eines Entsch\u00e4digungsfonds f\u00fcr Grundrechtsverletzungen in TSG-Verfahren"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BGB",
+                        "title": "B\u00fcrgerliches Gesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Umfassende abstammungsrechtliche Reform, welche die Benachteiligung von LSBTIQ*-Personen im Abstammungsrecht abbauen soll: dies umfasst u.a. Abschaffung der Stiefkindadoption f\u00fcr Regenbogenfamilien, Einf\u00fchrung von pr\u00e4konzeptionellen Vereinbarungen zu Elternschaft, Anerkennung von trans*, intergeschlechtlichen und nicht-bin\u00e4ren Eltern im Identit\u00e4tsgeschlecht und entsprechende Aufnahme im Geburtsregister (Anpassungen notwendig in \u00a7\u00a7 1591, 1592 BGB)",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_DIVERSITY",
+                        "de": "Diversit\u00e4tspolitik",
+                        "en": "Diversity policy"
+                    },
+                    {
+                        "code": "FOI_SP_GENDER",
+                        "de": "Geschlechterpolitik",
+                        "en": "Gender politics"
+                    },
+                    {
+                        "code": "FOI_SP_FAMILY",
+                        "de": "Familienpolitik",
+                        "en": "Family policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010596",
+                "statements": [],
+                "title": "Reform des Abstammungsrechts"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "AGG",
+                        "title": "Allgemeines Gleichbehandlungsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/agg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Reform des AGG, um bestehende Schutzl\u00fccken zu schlie\u00dfen und gesellschaftlich benachteiligten Bev\u00f6lkerungsgruppen mehr Teilhabe zu erm\u00f6glichen: dies umfasst u.a. die St\u00e4rkung des Diskriminierungsschutzes durch die Erweiterung von Diskriminierungskategorien und -formen, die Verbesserung der Rechtsdurchsetzung durch Verl\u00e4ngerung von Geltendmachungsfristen und Einf\u00fchrung des Verbandsklagerechts sowie eine St\u00e4rkung der Anti-Diskriminierungsstelle des Bundes (ADS). ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_DIVERSITY",
+                        "de": "Diversit\u00e4tspolitik",
+                        "en": "Diversity policy"
+                    },
+                    {
+                        "code": "FOI_SP_DISABILITY",
+                        "de": "Rechte von Menschen mit Behinderung",
+                        "en": "Rights of people with disabilities"
+                    },
+                    {
+                        "code": "FOI_SP_CHILDREN",
+                        "de": "Kinder- und Jugendpolitik",
+                        "en": "Child and youth policy"
+                    },
+                    {
+                        "code": "FOI_SP_ELDERLY",
+                        "de": "Seniorenpolitik",
+                        "en": "Elderly/senior citizens policy"
+                    },
+                    {
+                        "code": "FOI_SP_FAMILY",
+                        "de": "Familienpolitik",
+                        "en": "Family policy"
+                    },
+                    {
+                        "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                        "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                        "en": "Migration, refugee policy and integration"
+                    },
+                    {
+                        "code": "FOI_RPI_REFUGEE",
+                        "de": "Asyl und Fl\u00fcchtlingsschutz",
+                        "en": "Asylum and refugee protection"
+                    },
+                    {
+                        "code": "FOI_SP_GENDER",
+                        "de": "Geschlechterpolitik",
+                        "en": "Gender politics"
+                    },
+                    {
+                        "code": "FOI_RPI_MIGRATION",
+                        "de": "Migration",
+                        "en": "Migration and residence"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010597",
+                "statements": [],
+                "title": "Reform des AGG (Allgemeinen Gleichbehandlungsgesetzes)"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "SGB 5",
+                        "title": "Sozialgesetzbuch (SGB) F\u00fcnftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)",
+                        "url": "https://www.gesetze-im-internet.de/sgb_5"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Gesetzliche Reform der Trans*gesundheitsversorgung: Fokus liegt hierbei auf die Regelungen im SGB V, welche die Kosten\u00fcbernahme durch die gesetzlichen Krankenkassen betreffen. Die aktuellen Regelungen sind mit Blick auf die fortlaufenden Entwicklungen in medizinischen und psychologischen Diskursen anzupassen, damit eine dem wissenschaftlichen Stand angemessene und wirtschaftliche Behandlung von trans* Personen stattfinden kann.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_DIVERSITY",
+                        "de": "Diversit\u00e4tspolitik",
+                        "en": "Diversity policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010598",
+                "statements": [],
+                "title": "Reform der Trans*gesundheitsversorgung"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GG",
+                        "title": "Grundgesetz f\u00fcr die Bundesrepublik Deutschland",
+                        "url": "https://www.gesetze-im-internet.de/gg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Erg\u00e4nzung des Art. 3 Abs. 3 GG, damit auch LSBTIQA*-Personen unmissverst\u00e4ndlich durch die Verfassung vor Diskriminierung gesch\u00fctzt sind.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_GENDER",
+                        "de": "Geschlechterpolitik",
+                        "en": "Gender politics"
+                    },
+                    {
+                        "code": "FOI_SP_DIVERSITY",
+                        "de": "Diversit\u00e4tspolitik",
+                        "en": "Diversity policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010599",
+                "statements": [],
+                "title": "Erg\u00e4nzung des Art. 3 Abs. 3 GG"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Einf\u00fchrung eines Gewalthilfegesetz, das das Recht von Betroffenen geschlechtsspezifischer Gewalt auf Beratung und Unterst\u00fctzung gew\u00e4hrleistet. Ein entsprechendes Gesetz muss auch die spezifischen Bedarfe trans*, inter und nicht-bin\u00e4rer Personen ber\u00fccksichtigen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_GENDER",
+                        "de": "Geschlechterpolitik",
+                        "en": "Gender politics"
+                    },
+                    {
+                        "code": "FOI_SP_DIVERSITY",
+                        "de": "Diversit\u00e4tspolitik",
+                        "en": "Diversity policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010600",
+                "statements": [],
+                "title": "Einf\u00fchrung eines Gewalthilfegesetzes"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "TTDSG",
+                        "title": "Gesetz \u00fcber den Datenschutz und den Schutz der Privatsph\u00e4re in der Telekommunikation und bei Telemedien",
+                        "url": "https://www.gesetze-im-internet.de/ttdsg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Einf\u00fchrung eines Gesetz gegen digitale Gewalt, das auch vor dem Hintergrund geschlechtlicher Vielfalt die Rechte und M\u00f6glichkeiten Betroffener digitaler Gewalt und Hassrede st\u00e4rkt. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_DIVERSITY",
+                        "de": "Diversit\u00e4tspolitik",
+                        "en": "Diversity policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010601",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/f4/72/327217/Stellungnahme-Gutachten-SG2406280071.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                        "de": "Bundesministerium der Justiz (BMJ)",
+                                        "en": "Bundesministerium der Justiz (BMJ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-31"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0010601",
+                        "regulatoryProjectTitle": "Einf\u00fchrung eines Gesetzes gegen digitale Gewalt",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Stellungnahme zu den\r\nEckpunkten f\u00fcr ein Gesetz gegen digitale Gewalt\r\ndes Bundesministeriums der Justiz\r\n(Mai 2023)\r\nA. Einleitung\r\nDigitale Gewalt und Desinformation sind in ihrer organisierten und massiven Form\r\neine der gr\u00f6\u00dften Gefahren f\u00fcr unsere Demokratie. Nicht nur Einzelpersonen werden\r\ndurch sie aus digitalen R\u00e4umen herausgedr\u00e4ngt. Strukturell diskriminierende Angriffe\r\nzielen vor allem darauf ab, ganze Personengruppen wie Frauen, LGBTQIA+, Juden und\r\nJ\u00fcdinnen und viele andere marginalisierte Gruppen, aber auch\r\nKommunalpolitiker*innen, Aktivist*innen und Journalist*innen, einzusch\u00fcchtern und\r\naus dem \u00f6ffentlichen Diskurs herauszudr\u00e4ngen. Ein digitales Gewaltschutzgesetz\r\nmuss den Anspruch haben, allen B\u00fcrger*innen effektiven und effizienten Schutz und\r\ndie Durchsetzung ihrer Rechte zu erm\u00f6glichen. Nur so kann sichergestellt werden,\r\ndass in einer offenen und liberalen Demokratie freie Meinungs\u00e4u\u00dferung im\r\n\u00f6ffentlichen Raum langfristig gew\u00e4hrt bleibt.\r\nDaf\u00fcr ist in den vergangenen Jahren vor allem im Bereich des Strafrechts durch die\r\nSchaffung neuer Straftatbest\u00e4nde viel getan worden. Durch umfangreiche\r\nGesetzespakete konnten einige wichtige Schutzl\u00fccken geschlossen werden, sodass\r\ndurchaus nicht mehr vom \u201erechtsfreien Raum Internet\u201c gesprochen werden kann.\r\nDennoch ist das Internet leider noch immer ein rechtsdurchsetzungsfreier Raum.\r\nDies gilt in Teilen f\u00fcr das Strafrecht, wo Ermittler*innen allzu oft an der Identifizierung\r\nder T\u00e4ter*innen scheitern. Es gilt aber vor allem auch f\u00fcr das Zivilrecht, wo die\r\nH\u00fcrden der Rechtsdurchsetzung f\u00fcr Betroffene schier un\u00fcberwindbar erscheinen. Es\r\nsind nicht nur die Verfahrenslaufzeiten von mehreren Monaten oder die ungewissen\r\nErfolgsaussichten, die Betroffene von der Inanspruchnahme eines zivilrechtlichen\r\nVerfahrens abschrecken. Es sind vor allem die exorbitant hohen Kostenrisiken. In der\r\nRegel betr\u00e4gt der Gegenstandswert bei der Geltendmachung eines\r\nUnterlassungsanspruchs 5.000 bis 10.000 Euro pro \u00c4u\u00dferung, was Verfahrenskosten\r\nin H\u00f6he von mehreren tausend Euro mit sich bringt. Die wenigsten Betroffenen ziehen\r\ndaher eine zivilrechtliche Rechtsdurchsetzung \u00fcberhaupt f\u00fcr sich in Erw\u00e4gung.\r\nBeratungsstellen beobachten in der Folge einen erschreckenden Vertrauensverlust in\r\nstaatliche Institutionen und die Wehrhaftigkeit des Rechtsstaats, wenn es um die\r\nBek\u00e4mpfung digitaler Gewalt geht. Das Recht scheint den Betroffenen nicht\r\nzug\u00e4nglich und ist es bei objektiver Betrachtung auch nicht, zumindest nicht f\u00fcr\r\nPrivatpersonen.\r\nWir begr\u00fc\u00dfen es daher, dass das Eckpunktepapier nun mehr konkrete\r\nverfahrensrechtliche Erleichterungen schaffen will. Diese werden von uns im\r\nGrundsatz \u00fcberwiegend bef\u00fcrwortet. Wir glauben jedoch, dass es einer weiteren\r\nKonkretisierung und Erg\u00e4nzung um weitere Ma\u00dfnahmen zur F\u00f6rderung der\r\nRechtsdurchsetzung bei digitaler Gewalt bedarf. Alle angedachten Ma\u00dfnahmen\r\nsollten immer vor dem Hintergrund ihrer Effektivit\u00e4t und Praktikabilit\u00e4t f\u00fcr\r\nPrivatpersonen bewertet werden.\r\nKonkret geht es hierbei vor allem darum, Verfahren nicht nur zu beschleunigen,\r\nsondern auch niedrigschwelliger auszugestalten und kosteng\u00fcnstiger zu machen.\r\n\r\nDigitalisierung kann hierbei helfen, Antr\u00e4ge bei den Gerichten durch elektronische\r\nFormulare zu erm\u00f6glichen. Auskunftsanspr\u00fcche sollten aus Effizienzgr\u00fcnden\r\nverbunden werden. Dar\u00fcber hinaus m\u00fcssen Gegenstandswerte von Verfahren bei\r\n\u00c4u\u00dferungsdelikten herabgesetzt werden, um die Kosten zu senken.\r\nWir m\u00fcssen Betroffene wehrhaft machen und bef\u00e4higen, ihr Recht nicht nur auf dem\r\nPapier zu haben, sondern auch in der Praxis durchzusetzen. Dies bedeutet\r\nzwangsl\u00e4ufig nicht nur neue Rechtsgrundlagen zu schaffen, sondern deren\r\nUmsetzbarkeit f\u00fcr Privatpersonen auch verfahrensrechtlich abzusichern. Das Internet\r\nhat in wesentlichen Bereichen auch die Natur von Rechtsverletzungen ver\u00e4ndert. Das\r\nRecht muss hierauf reagieren. Andernfalls droht das Allgemeine Pers\u00f6nlichkeitsrecht\r\nim Internet in der Praxis zur leeren Floskel zu verkommen.\r\nB. Der Auskunftsanspruch, \u00a7 21 TTDSG\r\nDas Eckpunktepapier legt zu Recht einen Fokus auf eine Reform der\r\nBestandsdatenauskunft gem\u00e4\u00df \u00a7 21 Abs. 2, 3 TTDSG. Diese hat aktuell f\u00fcr\r\nBetroffene digitaler Gewalt kaum eine praktische Relevanz, was nicht allein den\r\nKosten des Verfahrens geschuldet ist. Vor allem der Umstand, dass das Verfahren\r\nderzeit auf die reine Freigabe von Bestandsdaten beschr\u00e4nkt ist, macht es faktisch\r\nobsolet. Denn als Bestandsdaten liegen den sozialen Netzwerken oftmals nur ein\r\nPseudonym der jeweiligen Accountinhaber*innen vor, welches im besten Fall auf\r\neinen Klarnamen schlie\u00dfen l\u00e4sst und im schlechtesten Fall keinen zus\u00e4tzlichen\r\nErkenntniswert mit sich bringt. Ggf. liegt noch eine E-Mail-Adresse oder\r\nTelefonnummer vor, die aber nur selten eine Ermittlung der T\u00e4ter*innen zul\u00e4sst.\r\nLiegen diese Daten vor, k\u00f6nnen Betroffene sie an die Staatsanwaltschaft weiterleiten,\r\nwenn gleichzeitig eine Strafanzeige erstattet wurde. \u00dcber eine Akteneinsicht, f\u00fcr die\r\nin der Regel eine kostenpflichtige anwaltliche Vertretung erforderlich ist, k\u00f6nnen sie\r\nso mit etwas Gl\u00fcck an die Identit\u00e4t von T\u00e4ter*innen gelangen. Das aufw\u00e4ndige\r\nProzedere ist aber nur selten erfolgreich. Denn in den meisten F\u00e4llen sind die im Zuge\r\ndes Auskunftsverfahrens nach \u00a7 21 TTDSG aktuell beauskunfteten Daten f\u00fcr\r\nPrivatpersonen schlicht nicht verwertbar.\r\nAus diesem Grund ist es unbedingt erforderlich und begr\u00fc\u00dfenswert, den\r\nAuskunftsanspruch zu reformieren. Das Eckpunktepapier ist in vielerlei Hinsicht\r\nerfreulich detailliert, bedarf jedoch vor allem im Hinblick auf den prozessualen Ablauf\r\nder Datenherausgabe weiterer Konkretisierung.\r\n1. Herausgabe von Nutzungsdaten\r\nDie explizite Erstreckung des Auskunftsanspruchs auf die Herausgabe von\r\nNutzungsdaten ist unbedingt zu begr\u00fc\u00dfen. W\u00e4hrend diese fr\u00fcher unter der Geltung\r\ndes Auskunftsanspruchs gem\u00e4\u00df TMG aufgrund des Verweises in \u00a7 15 Abs. 5 S. 4\r\nTMG a.F. bereits m\u00f6glich war, sieht das TTDSG eine solche M\u00f6glichkeit bisher nicht\r\nvor. Die Rechtsprechung ist bzgl. der Auslegung der Norm in ihrer aktuellen Fassung\r\njedenfalls eindeutig (OLG Schleswig [9. Zivilsenat], Beschluss vom 23.03.2022 \u2013 9 Wx\r\n23/21), so dass es einer Gesetzes\u00e4nderung bedarf.\r\nDie Erstreckung der Auskunft auf Nutzungsdaten erm\u00f6glicht in erster Linie die\r\nzus\u00e4tzliche Beauskunftung von IP-Adressen. Auch wenn kein Nutzungs- oder\r\nBestandsdatum die Identifizierung der Accountinhaber*innen garantieren kann, ist die\r\nIP-Adresse wesentlich wertvoller als ein beim sozialen Netzwerk hinterlegtes\r\nPseudonym oder eine E-Mail-Adresse. Sie sollte daher Bestandteil jeder Auskunft\r\nsein.\r\nDa es in Deutschland berechtigterweise keine Vorratsdatenspeicherung gibt, sollte\r\nsich der Auskunftsanspruch jedoch nicht lediglich auf die IP-Adresse des Uploads\r\nbeschr\u00e4nken. Er sollte vielmehr auch die IP-Adresse des letzten Logins enthalten.\r\nDiese wurde bereits in fr\u00fcheren von HateAid unterst\u00fctzen Auskunftsverfahren auf\r\nGrundlage des TMG von Diensteanbietern beauskunftet und sollte k\u00fcnftig auch\r\nexplizit erfasst sein.\r\nIP-Adressen werden abh\u00e4ngig vom Zugangsanbietenden (Access-Provider) nur f\u00fcnf\r\nbis sieben Tage, zum Teil jedoch auch nur wenige Stunden, gespeichert. Aus diesem\r\nGrund droht selbst im einstweiligen Rechtsschutz und bei Durchf\u00fchrung einer\r\nSicherungsanordnung immer ein Datenverlust, wenn der Zugangsanbietende die\r\nIP-Adresse bereits gel\u00f6scht haben sollte. Ist diese bereits gel\u00f6scht, k\u00f6nnen auch\r\nkeine Daten mehr gesichert werden. Die IP-Adresse des letzten Logins ist ein\r\nzus\u00e4tzliches Datum, welches dieses Risiko nicht ausr\u00e4umt, aber wenigstens\r\neind\u00e4mmt.\r\nDar\u00fcber hinaus sollte das befasste Gericht auf Antrag aussprechen k\u00f6nnen, dass die\r\nDiensteanbietenden relevante und konkret bezeichnete Nutzungsdaten wie bspw. die\r\nIP-Adresse einer k\u00fcnftigen Anmeldung unverz\u00fcglich gegen\u00fcber dem Gericht mitteilen\r\nmuss. Auf diese Weise kann eine Ermittlung der T\u00e4ter*innen auch in den F\u00e4llen\r\ngest\u00e4rkt werden, in welchen die IP-Adressen bereits gel\u00f6scht wurden oder f\u00fcr\r\nFallgestaltungen, in welchen bspw. eine Online-Plattform von der Speicherung sonst\r\nabsieht.\r\n2. Erstreckung auf F\u00e4lle der Verletzung absoluter Rechte\r\nAuch diese Anpassung ist grunds\u00e4tzlich zu begr\u00fc\u00dfen. Aktuell gilt durch die\r\nBeschr\u00e4nkung auf ausgew\u00e4hlte Straftaten f\u00fcr den Auskunftsanspruch nach \u00a7 21\r\nTTDSG eine h\u00f6here Schwelle als f\u00fcr die zivilrechtliche Rechtsdurchsetzung, die die\r\nAuskunft vorbereiten soll. F\u00fcr die Geltendmachung von Unterlassungs- und\r\nErsatzanspr\u00fcchen reicht eine Verletzung von Pers\u00f6nlichkeitsrechten n\u00e4mlich aus,\r\nw\u00e4hrend die Auskunft nur in Bezug auf ganz bestimmte strafbare \u00c4u\u00dferungen in\r\nBetracht kommt. Dies f\u00fchrt in der Praxis zu Rechtsunsicherheiten, da um die\r\nAbgrenzung zwischen \u201eeinfachen\u201d und strafbaren Pers\u00f6nlichkeitsrechtsverletzungen\r\numfangreich gestritten werden kann. Es erscheint sachgerecht, f\u00fcr die Auskunft die\r\ngleiche Schwelle anzusetzen, wie f\u00fcr die zivilrechtliche Rechtsdurchsetzung, die sie\r\nim Nachgang erm\u00f6glichen soll.\r\nDie im Eckpunktepapier angedachte Ausweitung auf alle absoluten Rechte, halten wir\r\njedoch f\u00fcr zu weitreichend. Dies gilt insbesondere wegen der sich hieraus\r\nergebenden Erstreckung auf die Verletzung gewerblicher Schutzrechte, die nicht\r\nzwangsl\u00e4ufig als \u201cdigitale Gewalt\u201d einzustufen w\u00e4re und daher ohnehin au\u00dferhalb\r\ndes Gesetzeszwecks liegt. Insbesondere, weil das Verfahren gerichtskostenfrei\r\nausgestaltet werden sollte, sollte genau hinterfragt werden, welchen Interessen\r\nhiermit gedient werden soll. Dies ist auch deswegen w\u00fcnschenswert, weil so\r\nKonkurrenzen zu anderen Rechtsgebieten vermieden werden k\u00f6nnen. Der\r\n\u00fcberwiegende Teil der hier relevanten F\u00e4lle digitaler Gewalt sollte durch eine\r\nErfassung des Allgemeinen Pers\u00f6nlichkeitsrechts abgedeckt sein. Dies erscheint\r\nvorzugsw\u00fcrdig gegen\u00fcber der limitierenden Einschr\u00e4nkung auf bestimmte Straftaten.\r\nHierdurch k\u00f6nnte eine unbeabsichtigte Erstreckung auf gewerbliche Schutzrechte\r\nnach unserem Daf\u00fcrhalten ausger\u00e4umt werden. Unerw\u00fcnschte Konkurrenzen\r\nk\u00f6nnten sich bspw. beim Richtervorbehalt f\u00fcr eine Drittauskunft in Bezug auf \u00a7 101\r\nUrhG ergeben. Dieser ist n\u00e4mlich weniger streng ausgestaltet und auf die F\u00e4lle des \u00a7\r\n101 Abs. 9 UrhG beschr\u00e4nkt. Hieraus ergeben sich unter Umst\u00e4nden auch\r\nKonkurrenzen mit der dortigen Kostenregelung (Nr. 15213 Anlage 1 GNotKG).\r\nEine Ausweitung des status quo ist jedoch insbesondere deswegen erforderlich, weil\r\nder aktuell geltende Katalog der erfassten Delikte gem\u00e4\u00df \u00a7 1 Abs. 3 NetzDG zu kurz\r\ngreift. Er bildet in der Praxis bedeutsame Erscheinungsformen digitaler Gewalt\r\nn\u00e4mlich nicht ab. Hierzu z\u00e4hlen nicht nur Pers\u00f6nlichkeitsverletzungen unterhalb der\r\nStrafbarkeitsschwelle, sondern auch Bildrechtsverletzungen, sowie diverse erst\r\nk\u00fcrzlich hinzugef\u00fcgte Straftatbest\u00e4nde, u. a. die gef\u00e4hrdende Verbreitung\r\npersonenbezogener Daten gem\u00e4\u00df \u00a7 126a StGB. Sollte also erneut der\r\nAnwendungsbereich des Auskunftsanspruchs \u00fcber einen Straftatenkatalog erwogen\r\nwerden, sollte dieser nicht die auf die aktuelle Fassung des NetzDG beschr\u00e4nkt,\r\nsondern wenigstens noch um die \u00a7\u00a7 192a, 126a, 238, 184, 184c, 184k, 188, 238 StGB,\r\nsowie \u00a7 33 KUG ausgeweitet werden.\r\n3. Erstreckung auf Anbieter von Messenger- und Internetzugangsdiensten\r\nDie Erstreckung des Anspruchs auf Messenger- und Internetzugangsdienste\r\n(Telekommunikationsunternehmen) ist unbedingt erforderlich, um dem\r\nAuskunftsanspruch zu einer praktischen Relevanz zu verhelfen. Insbesondere die\r\npraxisrelevante IP-Adresse ist f\u00fcr Privatpersonen in Bezug auf eine zivilrechtliche\r\nRechtsdurchsetzung nur nutzbringend, wenn sie mit den dazugeh\u00f6rigen\r\nAnschlussinhaber*innendaten verbunden werden kann. Diese k\u00f6nnen nur von den\r\nZugangsanbietenden beauskunftet werden. Durch weitere Auskunft der\r\nZugangsanbietenden kann dann ein Bezug zum Klarnamen des*der\r\nAccountinhaber*in hergestellt werden kann. Es ist daher unentbehrlich, dass k\u00fcnftig\r\nauch ein Anspruch gegen Zugangs- bzw. Telekommunikationsanbietende besteht, um\r\ndie vom sozialen Netzwerk erhaltenen Daten nutzbringend zu verwerten.\r\nDas Eckpunktepapier l\u00e4sst jedoch den konkreten Ablauf der Datenherausgabe offen.\r\nWir halten es f\u00fcr unerl\u00e4sslich, dass ein nutzungsfreundliches Verfahren eingef\u00fchrt\r\nwird. Dieses w\u00fcrde voraussetzen, dass Betroffene digitaler Gewalt mit einer einzigen\r\nAntragstellung sowohl die Auskunft vom sozialen Netzwerk als auch den Zugangs\u0002bzw. Telekommunikationsanbietenden erhalten. Praktisch w\u00fcrde dies bedeuten, dass\r\nbeide Ausk\u00fcnfte aufgrund des gleichen Gerichtsbeschlusses direkt an die\r\nBetroffenen zu erteilen sind oder durch das Gericht eingeholt werden m\u00fcssen.\r\nZudem sollte sichergestellt werden, dass sich der Anspruch auch auf E-Mail-Provider\r\nund Telefonanbietende erstreckt. Regelm\u00e4\u00dfig sind die E-Mail-Adresse oder eine\r\nTelefonnummer die einzigen Bestandsdaten, die beauskunftet werden k\u00f6nnen. Sie\r\nsollten daher auch mit den jeweiligen beim E-Mail-Provider oder Telefonanbietenden\r\nhinterlegten Informationen verkn\u00fcpft werden k\u00f6nnen.\r\nNicht durch das Eckpunktepapier gekl\u00e4rt ist die Frage, ob die weiteren Anbietenden\r\nu.a. von Telekommunikationsdienstleistungen gem\u00e4\u00df \u00a7 21 Abs. 4 S. 1 TTDSG auch\r\nals Beteiligte im Verfahren auftreten m\u00fcssen. Obwohl dies dogmatisch richtig w\u00e4re,\r\nh\u00e4tte dies bedenkliche Auswirkungen auf die Kosten des Verfahrens, so dass\r\njedenfalls bez\u00fcglich der Kostenregelung eine Klarstellung geboten erscheint. Auf\r\ndiese wird unter Punkt 4. d) noch eingegangen.\r\n4. Effektivere Ausgestaltung des Auskunftsverfahrens\r\nWie bereits dargelegt, halten wir eine effektive Ausgestaltung des Verfahrens f\u00fcr\r\nunerl\u00e4sslich, um dem Auskunftsverfahren zu praktischer Relevanz zu verhelfen. Das\r\nAuskunftsverfahren sollte insbesondere einstufig ausgestaltet werden.\r\na) Beweissicherungsanordnung\r\nDie geplante, an die g\u00e4ngige Praxis im Urheberrecht angelehnte Sicherung von\r\nverfahrensgegenst\u00e4ndlichen Daten, ist uneingeschr\u00e4nkt zu begr\u00fc\u00dfen. W\u00e4hrend\r\nsoziale Netzwerke sowohl Bestandsdaten als auch IP-Adressen ohnehin \u00fcber lange\r\nZeitr\u00e4ume hinweg speichern, gilt dies nicht f\u00fcr Telekommunikationsanbietende. Eine\r\nanlassbezogene Speicherung von IP-Adressen, bzw. deren Zuordnung zu\r\nAccountinhaber*innendaten ist von einer anlasslosen Vorratsdatenspeicherung zu\r\nunterscheiden. Sie unterliegt nicht den diesbez\u00fcglich einschl\u00e4gigen Bedenken, da die\r\nSpeicherung der IP-Adressen zu Sicherungszwecken beim Zugangs- bzw.\r\nTelekommunikationsanbietenden dann gerade nicht anlasslos, sondern\r\nanlassbezogen wegen des Verdachts einer konkreten\r\nPers\u00f6nlichkeitsrechtsverletzung erfolgt. Sie sollte zun\u00e4chst f\u00fcr die gesamte Dauer\r\ndes Verfahrens angeordnet werden. Sofern die Einholung der Daten den Betroffenen\r\n\u00fcberlassen werden soll, auch f\u00fcr einen klar umgrenzten Zeitraum nach dessen\r\nAbschluss (vgl. Punkt 3). F\u00fcr diesen Fall ist zu ber\u00fccksichtigen, dass sich Betroffene\r\nnach Zustellung des Auskunftsbeschlusses durch das Gericht zun\u00e4chst postalisch\r\nund unter Fristsetzung von in der Regel zwei Wochen an den Anbietenden, z. B. das\r\nsoziale Netzwerk wenden m\u00fcssen, um die Herausgabe der IP-Adresse zu verlangen.\r\nErst im Anschluss daran, k\u00f6nnten sich Betroffene \u00fcberhaupt an die Zugangsdienst\u0002oder Telekommunikationsanbietenden wenden, um die Herausgabe der\r\ndazugeh\u00f6rigen Anschlussinhaber*innendaten zu verlangen. Die Speicherung sollte\r\nnach Abschluss des Verfahrens f\u00fcr drei bis sechs Monate gew\u00e4hrleistet sein.\r\nIn der Kommunikation des Gesetzgebungsverfahrens sollte Missverst\u00e4ndnissen zum\r\nUmfang der Datenspeicherung proaktiv entgegengewirkt werden, um die Akzeptanz\r\ndes Vorschlags in der Bev\u00f6lkerung zu erh\u00f6hen. Bereits nach Ver\u00f6ffentlichung des\r\nEckpunktepapiers wurde dies z. T. als Vorratsdatenspeicherung durch die Hintert\u00fcr\r\ninterpretiert, weil der Eindruck entstand, dass eine neue Pflicht f\u00fcr soziale Netzwerke\r\noder sogar Messengerdienste eingef\u00fchrt werden solle, Daten von Nutzenden\r\nanlasslos zu speichern. Dies ist jedoch nicht der Fall. Das Eckpunktepapier deutet\r\nnicht einmal an, dass zus\u00e4tzliche Speicherpflichten geschaffen werden sollen. F\u00fcr\r\ndas Auskunftsverfahren gilt vielmehr: Was nicht gespeichert wird, kann auch nicht\r\nherausgegeben werden. Dies muss kommunikativ herausgestellt werden. Es sollte\r\nzudem betont werden, dass der Richtervorbehalt eine besonders hohe H\u00fcrde\r\ndarstellt, die vor Missbrauch sch\u00fctzt.\r\nb) Einstweilige Anordnung\r\nDie Geltendmachung des Auskunftsanspruchs per einstweiliger Anordnung ist\r\nebenfalls zu begr\u00fc\u00dfen. Es erm\u00f6glicht einerseits, Datenverlust vorzubeugen und\r\nandererseits, Betroffenen digitaler Gewalt eine schnellstm\u00f6gliche Abhilfe in Aussicht\r\nzu stellen. Da das Internet sehr schnelllebig ist und Inhalte digitaler Gewalt hier in\r\nk\u00fcrzester Zeit breite Verbreitung finden, ist Geschwindigkeit auch bei der\r\nRechtsdurchsetzung entscheidend.\r\nc) Video-Verhandlung\r\nUm gerichtliche Verfahren zu beschleunigen und zu modernisieren, ist der Einsatz\r\nvon Videotechnik begr\u00fc\u00dfenswert. In Bezug auf das Auskunftsverfahren wird der\r\npraktische Nutzen geringer sein als in anderen Bereichen. Er schadet jedoch nach\r\nunserer Einsch\u00e4tzung nicht.\r\nd) Klarstellung zur Kostentragung und Deckelung der Streitwerte\r\nDie Auskunftsverfahren sind aktuell mit niedrigen Erfolgsaussichten und hohen\r\nVerfahrenskosten verbunden. Die Gerichte erlegen den Antragstellenden regelm\u00e4\u00dfig\r\nnicht nur die Gerichtskosten, sondern auch die eigenen au\u00dfergerichtlichen\r\nAnwaltskosten und die der beteiligten Plattformanbietenden auf. Dies geschieht vor\r\nallem unter Berufung auf die Kostenregelung des \u00a7 21 Abs. 3 S. 7 TTDSG, die\r\ndahingehend ausgelegt wird, dass die gesamten Kosten des Verfahrens von den\r\nAntragstellenden zu tragen sind. Dies d\u00fcrfte wohl dem Wortlaut und der Intention des\r\nGesetzes widersprechen. Denn obwohl gem\u00e4\u00df \u00a7 21 Abs. 3 S. 7 TTDSG die Kosten der\r\n\u201erichterlichen Anordnung\u201c durch den*die Verletzte*n zu tragen sind, erm\u00f6glicht \u00a7 81\r\nAbs. 1 FamFG die Teilung der weiteren Verfahrenskosten nach Ermessen des\r\nGerichts. Von dieser Option wird nach der Erfahrung u.a. von HateAid jedoch kaum je\r\nGebrauch gemacht.\r\nNach unserer Auffassung besteht daher Anlass zu Klarstellungen bei den\r\nKostenregelungen zum Auskunftsverfahren, vor allem in Bezug auf au\u00dfergerichtliche\r\nKosten. Denn die Praxis, den Antragstellenden die gesamten Kosten des Verfahrens\r\naufzuerlegen, gest\u00fctzt auf \u00a7 21 Abs. 3 S. 7 TTDSG, widerspricht sowohl dem\r\nRegelungswortlaut, als auch der gesetzlichen Intention. So war mit dem\r\nRegelungsvorbild zu \u00a7 21 TTDSG in \u00a7 14 Abs. 3 - 5 TMG a.F. bezweckt, dass sich das\r\nVerfahren an \u00a7 101 Abs. 9 UrhG anlehnt (BT-Drs. 18/13013, S. 24). Dort ist anerkannt,\r\ndass sich die gleichlautende Formulierung in \u00a7 101 Abs. 9 S. 5 UrhG lediglich auf\r\netwaige Gerichtskosten bezieht. Die Kosten der anwaltlichen Vertretung im Verfahren\r\nhingegen sind nach den allgemeinen Regeln zur Kostentragung in \u00a7\u00a7 81 ff. FamFG\r\nnach Ermessen des Gerichts zu verteilen (BeckOK UrhR/Reber, 37. Ed. 15.01.2022,\r\nUrhG \u00a7 101 Rn. 20). So kann in der Praxis auch eine entsprechend getrennte\r\nKostentragung ausgesprochen werden (z. B. Schleswig-Holsteinisches\r\nOberlandesgericht, Beschluss vom 5. Februar 2010 \u2013 6 W 26/09). Praktisch bedeutet\r\ndies, dass die jeweilige Kostentragung auch separat tenoriert werden muss.\r\nUm hier der jetzigen Praxis entgegenzuwirken, bedarf es einer Klarstellung\r\ndahingehend, dass die Antragstellenden nicht automatisch auch die Kosten der\r\nanwaltlichen Vertretung der Beteiligten zu tragen haben. Dies ist entscheidend daf\u00fcr,\r\ndass das Verfahren von Betroffenen \u00fcberhaupt in Anspruch genommen wird. Denn\r\ndas einseitige Aufkommen f\u00fcr die Anwaltskosten aller Beteiligten stellt schon jetzt\r\neine enorme finanzielle Belastung von mehreren hundert Euro dar und schreckt von\r\nder Verfahrensaufnahme ab. Kommen nun weitere Beteiligte im Verfahren hinzu, wie\r\nz. B. Zugangsanbietende, k\u00f6nnten sich diese Kosten sogar noch mehr erh\u00f6hen.\r\nAngesichts dessen, dass im Auskunftsverfahren nach dem FamFG kein\r\nAnwaltszwang besteht und der Amtsermittlungsgrundsatz gilt, ist eine anwaltliche\r\nVertretung f\u00fcr professionelle Akteur*innen nicht erforderlich. Diese sollte daher auf\r\neigene Kosten erfolgen.\r\nInsofern ist es uns ein wichtiges Anliegen, dass die Gesetzesbegr\u00fcndung bei der\r\nNeuregelung deutlich zum Ausdruck bringen muss, welche Kostenverteilung das\r\nGesetz intendiert. Sollte es hierf\u00fcr einer Klarstellung im Regelungstext bed\u00fcrfen,\r\nw\u00fcrde HateAid dies ebenso begr\u00fc\u00dfen.\r\nDar\u00fcber hinaus treiben exorbitant hohen Streitwerte die Kosten f\u00fcr ein solches\r\nAuskunftsverfahren in die H\u00f6he. Aktuell wird regelm\u00e4\u00dfig ein Gegenstandswert von\r\n2.000 bis 5.000 Euro pro \u00c4u\u00dferung angenommen.\r\nMan gelangt demnach f\u00fcr eine Auskunft zu einer \u00c4u\u00dferung zu folgender Kalkulation,\r\nwonach f\u00fcr die Kosten einer anwaltlichen Vertretung ca. 400 Euro f\u00fcr die erste\r\nInstanz anfallen. Das bedeutet Kosten von mindestens 800 Euro, wenn ein beteiligter\r\nAnbieter ebenfalls anwaltlich vertreten ist. Dies sind nur die Kosten f\u00fcr die erste\r\nInstanz. Leider kam es in der Vergangenheit in von HateAid unterst\u00fctzten F\u00e4llen\r\nbereits vor, dass Diensteanbietende Beschwerde gegen den Beschluss einlegten.\r\nSelbst wenn diese unmittelbar zur\u00fcckgenommen wurde, l\u00f6st dies regelm\u00e4\u00dfig die\r\nGeb\u00fchren der zweiten Instanz aus, welche ebenfalls den Betroffenen auferlegt\r\nwurden.\r\nWir pl\u00e4dieren daher, wie bereits an anderer Stelle im Familienrecht (z. B. \u00a7 51 Abs. 3\r\nFamGKG) geregelt, f\u00fcr das Auskunftsverfahren einen pauschalen Gegenstandswert\r\nvon 250 Euro, maximal jedoch 500 Euro pro \u00c4u\u00dferung festzusetzen. Wir betrachten\r\ndies als vorl\u00e4ufige Sofortma\u00dfnahme bis bessere Wege zur Digitalisierung und\r\nVereinfachung des Zivilverfahrens ausgereift sind, die das Verfahren zug\u00e4nglicher\r\nund g\u00fcnstiger machen.\r\ne) Amtsermittlungsgrundsatz\r\nDie Beibehaltung des Amtsermittlungsgrundsatzes nach FamFG ist zu begr\u00fc\u00dfen.\r\nInsbesondere verringert dieser f\u00fcr nicht anwaltlich vertretene Antragstellende die\r\nGefahr einer Pr\u00e4klusion mit Tatsachenvortrag und macht das Verfahren so\r\nniedrigschwelliger.\r\nNach unserem Daf\u00fcrhalten sollte grunds\u00e4tzlich bei der Rechtsdurchsetzung gegen\r\ndigitale Gewalt erwogen werden, Digitalisierung zu nutzen, um Gerichte f\u00fcr Betroffene\r\nzug\u00e4nglich zu machen. \u00dcber digitale Formulare k\u00f6nnten Vorf\u00e4lle digitaler Gewalt f\u00fcr\r\neinen strukturierten Tatsachenvortrag leicht abgebildet werden. Insbesondere f\u00fcr\r\neinen Auskunftsantrag best\u00fcnde wegen der Geltung des\r\nAmtsermittlungsgrundsatzes durchaus die M\u00f6glichkeit, dass Betroffene den Antrag\r\n\u00fcber ein standardisiertes Formular oder sogar \u00fcber eine digitale Eingabemaske\r\nstellen. Eine Pr\u00e4klusion mit Tatsachenvortrag steht hier gerade nicht zu bef\u00fcrchten.\r\nVielmehr k\u00f6nnten die notwendigen Informationen (URL, die in Rede stehende\r\n\u00c4u\u00dferung, der in Bezug genommene Inhalte, sowie Screenshots) sehr\r\nniedrigschwellig \u00fcber eine Eingabemaske erfasst werden. Wegen der klaren\r\nZust\u00e4ndigkeitsregel w\u00e4re dies sogar recht unkompliziert m\u00f6glich.\r\nf) B\u00fcndelung gerichtlicher Zust\u00e4ndigkeit\r\nAufgrund der hohen Streitwerte kommt der B\u00fcndelung der gerichtlichen\r\nZust\u00e4ndigkeit aktuell keine praktische Relevanz zu. Bei einer Klage auf Unterlassung\r\ngegen rechtsverletzende \u00c4u\u00dferungen wird regelm\u00e4\u00dfig ein Streitwert von 5.000 bis\r\n10.000 Euro pro \u00c4u\u00dferung angesetzt. Eine B\u00fcndelung der Verfahren wird jedenfalls\r\nwegen der unterschiedlichen Verfahrensordnungen nicht m\u00f6glich sein.\r\nEinen echten Mehrwert w\u00fcrde nicht nur eine B\u00fcndelung der gerichtlichen\r\nZust\u00e4ndigkeiten beim Landgericht generieren, sondern eine B\u00fcndelung des\r\nAuskunftsverfahrens mit dem Verfahren zur Entfernung rechtsverletzender Inhalte.\r\nDenn obwohl ein Auskunftsverfahren den Plattformen grunds\u00e4tzlich Kenntnis einer\r\nrechtsverletzenden \u00c4u\u00dferungen verschaffen kann, kann die Entfernung dieser Inhalte\r\ndurch die Plattformen damit nicht immer vorausgesetzt werden.\r\nC. Richterlich angeordnete Accountsperren\r\nWir bef\u00fcrworten grunds\u00e4tzlich die durch das BMJ angedachte Einf\u00fchrung\r\nrichterlicher Accountsperren als weiteren Baustein zur Rechtsdurchsetzung f\u00fcr\r\nBetroffene digitaler Gewalt in hierf\u00fcr geeigneten F\u00e4llen. Der Vorschlag bedarf jedoch\r\nan einigen Stellen einer Konkretisierung und Nachbesserung, um die praktische\r\nRelevanz zu erh\u00f6hen. Dies kann insbesondere durch eine Einbindung\r\nzivilgesellschaftlicher Organisationen in die Durchsetzung der Accountsperre erreicht\r\nwerden. Zudem muss ein Referentenentwurf die Effektivit\u00e4t eines solchen Verfahrens\r\nadressieren, die nach unserem Daf\u00fcrhalten wegen der hohen Umgehungsgefahr nicht\r\n\u00fcbersch\u00e4tzt werden sollte.\r\n1. Effektivit\u00e4t der Ma\u00dfnahme\r\nBedenken in Bezug auf die Effektivit\u00e4t der Ma\u00dfnahme ergeben sich vor allem aus der\r\nTatsache, dass diese sehr leicht umgangen werden kann. Es liegt auf der Hand, dass\r\nsich die gesperrten Accountinhaber*innen jederzeit binnen Minuten neue Accounts\r\nanlegen k\u00f6nnen oder ohnehin bereits \u00fcber mehrere Accounts verf\u00fcgen. Zuweilen ist\r\ndies sogar offensichtlich. Nach unserer Beobachtung gehen die gr\u00f6bsten\r\nRechtsverletzungen h\u00e4ufig von Accounts aus, die nur wenige Vernetzungen, bspw.\r\nFreund*innen oder Follower*innen, haben und deren Aktivit\u00e4ten sich vor allem auf\r\ndas Schreiben von Kommentaren und Teilen von Inhalten beschr\u00e4nken. Dies ist nicht\r\nverwunderlich: Um mit gewaltvollen Inhalten eine gro\u00dfe Reichweite zu erreichen,\r\nbraucht ein Account nicht zwingend selbst eine eigene gro\u00dfe Reichweite. Es gen\u00fcgt,\r\ndie eigenen Inhalte in Kommentarspalten anderer gro\u00dfer Accounts zu platzieren und\r\nso von deren Reichweite zu profitieren. Denn in der Regel sollen mit diesen Inhalten\r\nohnehin nicht die Personen der eigenen Filterblase erreicht werden. Es geht vielmehr\r\ndarum, die Betroffenen und ihre Communities einzusch\u00fcchtern und mundtot zu\r\nmachen. Gehen Angriffe von Inhaber*innen sehr gro\u00dfer Accounts aus, sind diese oft\r\n(gerade so) nicht rechtsverletzend oder die Identit\u00e4t des*der T\u00e4ter*in ist bekannt.\r\nDies betrachten wir vor allem aus Sicht der Betroffenen digitaler Gewalt, die sich dazu\r\nentschlie\u00dfen auf eigenes (Kosten-)Risiko ein solches Verfahren zu f\u00fchren, als\r\nkritisch. Denn ein solches Verfahren zu f\u00fchren ist nicht nur mit dem Einsatz nicht\r\nunerheblicher Ressourcen, sondern auch mit einer emotionalen Belastung verbunden.\r\nAus diesem Grund w\u00e4re es f\u00fcr Betroffene besonders entt\u00e4uschend nach Abschluss\r\ndes Verfahrens festzustellen, dass dieses wirkungslos geblieben ist und die\r\nT\u00e4ter*innen ihnen nun \u00fcber andere Accounts nachstellen. Die Gefahr der Umgehung\r\neiner solchen Accountsperre sollte daher durch den Gesetzgeber adressiert und mit\r\nentsprechenden Ma\u00dfnahmen zu ihrer Minimierung bedacht werden. Andernfalls\r\nk\u00f6nnte die Ma\u00dfnahme das ohnehin schon niedrige Vertrauen der Betroffenen in das\r\nFunktionieren des Rechtsstaats im Internet weiter schw\u00e4chen.\r\nEs ist zudem nicht so, dass Betroffene nach der aktuellen Gesetzeslage gegen\u00fcber\r\nunbekannten T\u00e4ter*innen schutzlos gestellt sind. Es besteht bereits jetzt in der Regel\r\neine St\u00f6rerhaftung der jeweiligen Plattform, wenn diese Inhalte auf eine Meldung hin\r\nnicht entfernen. Dies macht es f\u00fcr Betroffene langfristig erfolgversprechender, die\r\nPlattform selbst in Anspruch zu nehmen, wenn sie unt\u00e4tig bleibt. Infolgedessen\r\nk\u00f6nnen Betroffene \u2013 bei Vorliegen der Voraussetzungen sogar im einstweiligen\r\nRechtsschutz1 \u2013 von der Plattform auch Unterlassen k\u00fcnftiger Verletzungen\r\nverlangen, und zwar nicht nur auf den Account des*der T\u00e4ters*in beschr\u00e4nkt. In\r\nBezug auf die rechtsverletzende \u00c4u\u00dferung ist dieser Anspruch durchaus\r\nweitreichend, da er eine Verbreitung des Inhalts auch f\u00fcr die Zukunft unterbindet und\r\nkeiner zeitlichen Beschr\u00e4nkung unterliegt. Dieser Anspruch ist weitreichend und\r\nerstreckt sich auch auf gleiche und sinngleiche Inhalte2\r\n. Wenn die Plattform den\r\nInhalt trotz Kenntnis nicht entfernt, kommt sogar ein Anspruch auf Schadenersatz3\r\nbereits jetzt in Betracht (LG Frankfurt am Main, Urteil vom 10.12.2021, Az.: 2-03 O\r\n422/20, nicht rechtskr\u00e4ftig). Diese Verfahren werden von Betroffenen jedoch nur\r\nselten proaktiv in Anspruch genommen.\r\nWir betrachten es zudem als richtig, dass die Accountsperre die ultima ratio bleiben\r\nmuss. Die Sperrung eines Accounts ist selbst dann, wenn sie vor\u00fcbergehend ist, eine\r\ndrastische Ma\u00dfnahme. Ihre Wirkung im Verh\u00e4ltnis zum*zur Accountinhaber*in geht\r\nweit \u00fcber die Entfernung eines Inhalts hinaus. Dies gilt zumindest dann, wenn es sich\r\ntats\u00e4chlich um eine Person handelt, die nur diesen einen Account unterh\u00e4lt. Dies\r\nl\u00e4sst sich nicht zweifelsfrei \u00fcberpr\u00fcfen. Es ist daher richtig, die Accountsperre an\r\nhohe H\u00fcrden zu kn\u00fcpfen. Solche sieht das Eckpunktepapier vor. Es sollte jedoch\r\ndarauf geachtet werden, dass angesichts der hohen H\u00fcrden ein Anwendungsbereich\r\nverbleibt. Es ist daher zu hinterfragen, ob eine schwerwiegende und wiederholte\r\nRechtsverletzung wirklich kumulativ vorliegen muss. Denkbar w\u00e4re es, diese\r\nalternativ auszugestalten oder eine einfache, wiederholte Rechtsverletzung generell\r\nausreichen zu lassen. Denkbar ist sonst allenfalls noch eine Anwendung auf\r\nStalkingf\u00e4lle oder Accounts, welche sich die gezielte Diffamierung von Politiker*innen\r\nund Aktivist*innen zum Ziel gesetzt haben.\r\n2. Alternativen im Digital Services Act\r\nDas Modell der Accountsperre findet jedenfalls bereits im Digital Services Act\r\nBer\u00fccksichtigung. Dort ist bereits eine generelle Pflicht von Online-Plattformen zur\r\nVornahme von Accountsperren bei wiederholten Rechtsverletzungen vorgesehen, Art.\r\n23 Abs. 1 DSA. Im Gegensatz zum Vorschlag der richterlich angeordneten\r\nAccountsperren im Eckpunktepapier ist es hierf\u00fcr gerade nicht notwendig, dass eine\r\nPerson mehrfach von einem Account angegriffen wurde. Es gen\u00fcgt vielmehr auch,\r\nwenn von einem Account wiederholte Verst\u00f6\u00dfe ausgingen. Die Accountsperren auf\r\nGrundlage des DSA haben somit einen breiteren Anwendungsbereich und demnach\r\nauch eine h\u00f6here praktische Relevanz. Durchgesetzt werden k\u00f6nnen diese gem\u00e4\u00df\r\n3 LG Frankfurt am Main, Urt. v. 10.12.2021; Az.: 2 03 O 422/20; Urteilstext:\r\nhttps://hateaid.org/twitter-geldentschaedigung/\r\n2 LG Frankfurt am Main, Urt. v. 8.4.2022, Az.: 2 03 O 188/21; mehr Informationen unter:\r\nhttps://hateaid.org/urteil-kuenast-facebook/\r\n1 LG Frankfurt am Main, Urt. v. 14.12.2022, Az.: 2 03 O 325/22; mehr Informationen unter:\r\nhttps://hateaid.org/einstweilige-verfuegung-gegen-twitter/\r\nArt. 23 Abs. 1 DSA durch die Aufsichtsbeh\u00f6rde und auch auf Antrag der Betroffenen.\r\nEs erscheint uns vorzugsw\u00fcrdig, die Durchsetzung der Aufsichtsbeh\u00f6rde zuzuweisen,\r\nanstatt sie den Betroffenen aufzub\u00fcrden.\r\nWir regen daher an, dass auch in Deutschland die diesbez\u00fcglichen Beh\u00f6rden\r\nhandlungsf\u00e4hig ausgestattet werden. Ggfs. sollte gesondert \u00fcberlegt werden, welche\r\nBeh\u00f6rde die Zust\u00e4ndigkeit f\u00fcr die Durchsetzung von Accountsperren nach dem DSA\r\nin Deutschland \u00fcbernehmen soll. Denkbar erscheint, dass die\r\nLandesmedienanstalten, welche bereits jetzt f\u00fcr bestimmte Einzelfallanordnungen\r\ngegen\u00fcber Online-Plattformen zust\u00e4ndig sind, diese Aufgabe \u00fcbernehmen. Auch dies\r\nwurde bereits an anderer Stelle vorgeschlagen4\r\n.\r\n3. Durchsetzung durch NGOs?\r\nDen Praktikabilit\u00e4tsbedenken k\u00f6nnte man dadurch begegnen, dass gemeinn\u00fctzige\r\nOrganisation in Anlehnung an die Vertretungsbefugnis in Art. 86 DSA bef\u00e4higt\r\nw\u00fcrden, die Accountsperre durchzusetzen. Sie sollten zudem die M\u00f6glichkeit haben,\r\nnicht nur gegen Accounts vorzugehen, die in der Vergangenheit schon mehrfach eine\r\nPerson angegriffen haben, sondern auch gegen solche, die wiederholt strafbare und\r\ngegen die Allgemeinheit gerichtete Inhalte verbreitet haben. In der Regel wird es sich\r\nhierbei wohl auch nicht um unbekannte Accountinhaber*innen handeln, sondern\r\nvielmehr um solche, gegen die man andernfalls kaum eine Handhabe hat. Dies\r\nentspricht einem Vorschlag5, den die Gesellschaft f\u00fcr Freiheitsrechte bereits fr\u00fcher in\r\nden Diskurs einbrachte.\r\nDies setzt jedoch voraus, dass zivilgesellschaftliche Organisationen auch mit den\r\nentsprechenden Ressourcen ausgestattet werden, um dieser Verantwortung\r\nnachzukommen. Zivilgesellschaftlichen Organisationen mangelt es bekanntlich an\r\nfinanziellen und personellen Ressourcen, sodass diese Verantwortung eine\r\nzus\u00e4tzliche Belastung darstellen w\u00fcrde. F\u00fcr zivilgesellschaftliche\r\nBeratungsorganisationen k\u00e4me der Aufwand f\u00fcr ein solches Verfahren wohl nur in\r\nBezug auf Accounts in Betracht, die entweder Klient*innen der Organisation\r\nregelm\u00e4\u00dfig angreifen oder von denen regelm\u00e4\u00dfig eine provozierende Agitation\r\nausgeht, welche Klient*innen gef\u00e4hrdet. Dies setzt nat\u00fcrlich voraus, dass diese\r\nAgitationen rechtsverletzend sind. Dies ist gerade bei professionellen Akteur*innen\r\noft nicht der Fall.\r\n5 Gesellschaft f\u00fcr Freiheitsrechte e.V.:\r\nhttps://freiheitsrechte.org/ueber-die-gff/presse/pressemitteilungen-der-gesellschaft-fur-freiheitsrechte\r\n/pm-eckpunkte-gewaltschutzgesetz\r\n4 Daniel Holznagel, CR-online, 13.4.2023:\r\nhttps://www.cr-online.de/blog/2023/04/13/bmj-stellt-eckpunkte-fuer-ein-gesetz-gegen-digitale-gewalt\u0002vor/\r\n4. Verbindung mit dem Auskunftsverfahren, gleichzeitige\r\nL\u00f6schanordnung\r\nWill der Gesetzgeber trotz der genannten Bedenken an dem Vorhaben der Anordnung\r\nrichterlicher Accountsperren festhalten, sollten gewisse Verfahrenserleichterungen\r\nerfolgen:\r\nDie Accountsperre sollte mit dem Auskunftsverfahren verbunden werden k\u00f6nnen. So\r\nk\u00f6nnten Betroffene, die ohnehin schon zu einer Rechtsdurchsetzung entschlossen\r\nsind und den Weg ins Gericht gefunden haben, gleichzeitig eine Accountsperre als\r\nAnnex beantragen, wenn sie mehrfach angegriffen wurden.\r\nZuletzt ist eine tempor\u00e4re Sperre von Accounts ohnehin nur dann hilfreich, wenn\r\ngleichzeitig die Entfernung der rechtsverletzenden Inhalte bei erneuter Freischaltung\r\nsichergestellt wird. Zwar ist eine Onlineplattform theoretisch ab Kenntniserlangung\r\nzur Entfernung rechtsverletzender Inhalte nach dem NetzDG verpflichtet und eine\r\nsolche Kenntnis kann auch durch die Beteiligung in einem solchen Verfahren erlangt\r\nwerden, allerdings ist nach unserer Erfahrung die bestehende Verpflichtung allein\r\nkeinesfalls ein Garant f\u00fcr die tats\u00e4chliche Entfernung von Inhalten durch die\r\nPlattformen. Wird die Entfernung also nicht explizit sichergestellt, werden nach dem\r\nAblauf einer tempor\u00e4ren Accountsperre nicht nur die betreffenden Accounts wieder\r\nfreigeschaltet, sondern mit ihnen auch die gleichen rechtsverletzenden Inhalte, die zu\r\neiner Sperrung gef\u00fchrt haben.\r\nD. Zustellungsbevollm\u00e4chtigte im Inland\r\nDie Einrichtung von Zustellungsbevollm\u00e4chtigten im Inland ist aus rein praktischen\r\nGr\u00fcnden uneingeschr\u00e4nkt zu begr\u00fc\u00dfen. Denn die aktuelle Rechtslage bei der\r\nDurchf\u00fchrung zivilrechtlicher Verfahren wird uneinheitlich gehandhabt. Der\r\nZustellungsbevollm\u00e4chtigte gem\u00e4\u00df \u00a7 5 NetzDG hat nur einen eng umgrenzten\r\nAnwendungsbereich (BGH, Beschluss vom 10.11.2022 \u2013 I ZB 10/22). Ist dieser\r\nAnwendungsbereich nicht gegeben, wird eine Zustellung bei zuf\u00e4lliger Kenntnis der\r\n\u00fcblichen Prozessbevollm\u00e4chtigten direkt an diese unternommen. Andernfalls bleibt\r\naber nur eine Zustellung ins Ausland. Im Fall der gro\u00dfen sozialen Netzwerke ist dies\r\nmeistens Irland. Im au\u00dfergerichtlichen Bereich kann eine Zustellung oftmals nicht\r\nrechtssicher nachvollzogen werden, was die Einleitung gerichtlicher Schritte\r\nverkomplizieren kann. Gelegentlich verlangen die Gerichte auch eine beglaubigte\r\n\u00dcbersetzung ins Englische, bevor eine Zustellung unternommen wird, und fordern\r\nhierf\u00fcr schnell Vorsch\u00fcsse von bis zu 2.000 Euro ein. Die Bundesregierung sollte hier\r\nalle vorhandenen Spielr\u00e4ume aussch\u00f6pfen, statt wegen der blo\u00dfen M\u00f6glichkeit von\r\neuroparechtlichen Bedenken auf eine Regelung zu verzichten. Die Vorgaben des DSA\r\nsind aus Sicht von Betroffenen digitaler Gewalt unzureichend. Dieser sieht die\r\nEinrichtung eines*r Zustellungsbevollm\u00e4chtigten in lediglich f\u00fcr Beh\u00f6rden und in\r\neinem einzigen europ\u00e4ischen Mitgliedstaat vor. Nutzende von Onlineplattformen\r\nwerden indes an eine elektronische Kontaktstelle verwiesen oder sollen eine\r\nBeschwerde bei der Aufsichtsbeh\u00f6rde einreichen. Beide Verfahren erlauben den\r\nNutzenden jedoch keine rechtssichere Zustellung von Dokumenten, z. B. zur\r\nVorbereitung oder Durchf\u00fchrung gerichtlicher Verfahren.\r\nLangfristig scheint es im Interesse der Betroffenen geboten, einfache und\r\nrechtssichere Zustellm\u00f6glichkeiten innerhalb der EU durch gesamteurop\u00e4ische\r\nRegeln zum elektronischen Rechtsverkehr zu sichern. So sollte sich die\r\nBundesregierung daf\u00fcr einsetzen, dass eine rechtssichere und wirksame Zustellung\r\nauch auf elektronischem Wege z. B. an eine Kontaktstelle gem\u00e4\u00df Art. 12 DSA\r\nerfolgen kann.\r\nE. Weitere Empfehlungen\r\nEin Gesetz zum Schutz vor digitaler Gewalt sollte \u00fcber die Vorschl\u00e4ge des\r\nEckpunktepapiers hinaus au\u00dferdem Regelungen enthalten, um Betroffene bei der\r\nRechtsdurchsetzung zu st\u00e4rken.\r\n1. Anzeigeformulare und Schriftform des Strafantrags\r\nEine nicht zu verkennende H\u00fcrde bei der Anzeige von Beleidigungsdelikten ist das\r\nStrafantragserfordernis gem\u00e4\u00df \u00a7 194 StGB. Dies gilt vor allem deswegen, weil ein\r\nStrafantrag gem\u00e4\u00df \u00a7 158 Abs. 2 StPO schriftlich gestellt werden muss. Dass eine\r\nelektronische Antragstellung, z. B. per E-Mail nicht m\u00f6glich ist, hat der BGH erst\r\nk\u00fcrzlich durch Beschluss vom 12.05.2022, Az.: 5 StR 398/21, bekr\u00e4ftigt. Die extrem\r\nengen Voraussetzungen f\u00fcr den elektronischen Rechtsverkehr im Strafprozessrecht\r\nsind in \u00a7 32a Abs. 3 StPO geregelt und setzen eine qualifizierte elektronische\r\nSignatur sowie einen sicheren \u00dcbermittlungsweg voraus. Ob die \u00dcbersendung eines\r\ngescannten und handschriftlich unterzeichneten Dokuments diesen Anforderungen\r\ngen\u00fcgen k\u00f6nnte, lie\u00df der BGH dabei offen.\r\nPraktisch bedeutet dies f\u00fcr Betroffene von Hasskriminalit\u00e4t im Internet, dass diese\r\naktuell sicherheitshalber immer binnen drei Monaten ab der Kenntnisnahme der\r\nrechtsverletzenden Inhalte einen handschriftlich unterzeichneten Strafantrag in\r\nPapierform einreichen m\u00fcssen. Dies gilt selbst dann, wenn sie regelm\u00e4\u00dfig von einer\r\nVielzahl von Hasskommentaren oder -nachrichten betroffen sind. Betroffenen von\r\ndigitaler Gewalt ist dieser Aufwand aus Kapazit\u00e4tsgr\u00fcnden nicht zumutbar. Im\r\nErgebnis werden viele Delikte auf diese Weise nur aufgrund b\u00fcrokratischer H\u00fcrden\r\nnicht angezeigt. Das Schriftformerfordernis des \u00a7 158 Abs. 2 StPO ist schlicht nicht\r\nmehr zeitgem\u00e4\u00df und sollte in eine Textform umgewandelt werden.\r\nAuf diese Weise w\u00e4re sichergestellt, dass wenigstens eine \u00dcbersendung eines\r\nStrafantrags als PDF-Dokument (\u00a7 32a Abs. 2 StPO; BeckOK StPO/Valerius, 44. Ed.\r\n1.7.2022, StPO \u00a7 32a Rn. 6.1) m\u00f6glich w\u00e4re, welches jedoch nicht an die weiteren\r\nVoraussetzungen des \u00a7 32a StPO gebunden ist. Eine einfache E-Mail w\u00e4re jedoch\r\nnoch immer nicht ausreichend. Fraglich bleibt zudem, ob eine Antragstellung \u00fcber\r\neine Onlinewache den Vorgaben gen\u00fcgen kann. Da das Schriftformerfordernis hier\r\nwohl nach dem Verst\u00e4ndnis des BGH unstreitig nicht gewahrt sein wird, k\u00e4me es\r\ndarauf an, ob dies der Antragstellung \u201ezu Protokoll\u201c bei der Staatsanwaltschaft\r\ngleichgestellt werden kann, \u00a7 158 Abs. 2 StPO. Dies ist ebenfalls fraglich.\r\nBedauerlicherweise stellt der BGH darauf ab, dass dem Schriftformerfordernis vor\r\nallem eine Verifizierungsfunktion zukommen soll. Ausweislich der\r\nGesetzesbegr\u00fcndung ist dies jedoch gerade nicht der vorrangige Zweck. Das\r\nSchriftformerfordernis soll vielmehr eigentlich sicherstellen, dass nicht versehentlich\r\nEntw\u00fcrfe in den Umlauf gelangen. Dieser Zweck kann aber auch ohne ein\r\nSchriftformerfordernis gewahrt werden. Um die Verifizierung zu gew\u00e4hrleisten,\r\nk\u00f6nnten auch technische Wege zur sicheren \u00dcbermittlung erwogen werden, solange\r\ndiese die Belange des Zeug*innenschutzes nicht konterkarieren. Eine Registrierung\r\nmit einem Personalausweis z. B. w\u00e4re daher abzulehnen.\r\nWir begr\u00fc\u00dfen au\u00dferdem ausdr\u00fccklich die Intention der Bundesregierung, eine\r\nbundeseinheitliche M\u00f6glichkeit der elektronischen Anzeigeerstattung zu schaffen. In\r\nvielen Bundesl\u00e4ndern haben sich Online-Meldeportale bew\u00e4hrt , die speziell auf die\r\nMeldung von \u00c4u\u00dferungsdelikten im Netz zugeschnitten sind (z. B. Hessen gegen\r\nHetze\r\n6\r\n). Hierbei werden systematisch die relevanten Informationen abgefragt,\r\nScreenshots k\u00f6nnen hochgeladen und URLs eingef\u00fcgt werden. Zudem werden an\r\nden relevanten Stellen auf M\u00f6glichkeiten des Zeug*innenschutzes hingewiesen oder\r\nsogar eine (zun\u00e4chst) anonyme Anzeigeerstattung erm\u00f6glicht. Diese Angebote\r\nhalten wir f\u00fcr geeignet, die Zahl der Strafanzeigen zu erh\u00f6hen. Ein solches Angebot\r\nsollte es fl\u00e4chendeckend geben, wobei ein bundeseinheitliches Formular sinnhaft\r\nerscheint. Denn ein umfangreiches Angebot an gut ausgestatteten Anzeigeportalen\r\nist eben nicht einheitlich in allen Bundesl\u00e4ndern vorhanden. Dadurch entstehen\r\nB\u00fcrger*innen in Bundesl\u00e4ndern mit unzureichenden Meldem\u00f6glichkeiten Nachteile.\r\nWie bereits dargelegt, sollten diese Online-Meldeformulare das Stellen\r\nformwirksamer Strafantr\u00e4ge erm\u00f6glichen.\r\nStrafverfolgung ist L\u00e4ndersache. Dem kann und muss in der Ausgestaltung des\r\nbundeseinheitlichen Meldeformulars Rechnung getragen werden. So k\u00f6nnte ein\r\nsolches Meldeformular bspw. durch die Abfrage der Postleitzahl des Wohnsitzes\r\nAnzeigeerstatter*innen eine Zuordnung der \u00f6rtlichen Zust\u00e4ndigkeit erm\u00f6glichen und\r\nan die zust\u00e4ndigen Stellen in den L\u00e4ndern ausgeleitet werden. Die Weiterleitung von\r\nSachverhalten innerhalb der L\u00e4nder sollte zudem unmittelbar an eine auf\r\n6 https://hessengegenhetze.de/\r\nInternetkriminalit\u00e4t spezialisierte Stelle beim Landeskriminalamt oder der\r\nStaatsanwaltschaft erfolgen, wo zeitnah Ermittlungen aufzunehmen sind, um\r\nDatenverlust vorzubeugen.\r\nJedoch haben nicht alle Bundesl\u00e4nder eine solche Stelle und/oder k\u00f6nnen eine\r\nschnelle Bearbeitung der F\u00e4lle sicherstellen. Gesteigert werden k\u00f6nnte die Effizienz\r\neines solchen Systems ggf. dadurch, dass eine zentrale Stelle eine Vorsortierung der\r\nSachverhalte vornimmt, wodurch u. a. Duplikate festgestellt werden k\u00f6nnten. Ggf.\r\nW\u00e4re das Bundeskriminalamt als Zentralstelle (\u00a7 2 BKAG) hierf\u00fcr geeignet. Dieses\r\nhat immerhin Stellen aufgestockt, um der gescheiterten Meldepflicht gem\u00e4\u00df \u00a7 3b\r\nNetzDG gerecht zu werden.\r\nZur Sicherstellung eines effektiven Zeug*innenschutzes sollte sowohl in der\r\nOnlinewache, als auch bei der analogen Anzeigeerstattung eine verpflichtende\r\nBelehrung \u00fcber die Angabe einer Erreichbarkeitsanschrift (c/o Adresse) erfolgen, \u00a7\r\n68 Abs. 2 S. 1 StPO. Bisher h\u00e4lt die vermeintliche Pflicht zur Angabe einer\r\nPrivatanschrift Betroffene digitaler Gewalt h\u00e4ufig von der Erstattung einer Anzeige\r\nab.\r\n2. Bildbasierte digitale Gewalt\r\nImmer h\u00e4ufiger erreichen qualifizierte Beratungsstellen F\u00e4lle bildbasierter digitaler\r\nGewalt. Vor allem sexualisierte Gewalt gegen weiblich gelesene Personen steht\r\nhierbei im Vordergrund. Wir betrachten bildbasierte digitale Gewalt als gef\u00e4hrlichste\r\naktuelle Entwicklung im Bereich der digitalen Gewalt. Durch neue Mittel, wie z. B. sog.\r\nFaceSwap-Apps7 oder einschl\u00e4gige Internetseiten sind der Allgemeinheit\r\nTechnologien zur einfachen, schnellen und professionellen Herstellung sog.\r\nDeepfakes zug\u00e4nglich gemachtworden. Anhand der Inhalte, die in den\r\nBeratungsstellen vorgetragen werden, ist l\u00e4ngst erkennbar, dass T\u00e4ter*innen nicht\r\nl\u00e4nger intime Bilder stehlen m\u00fcssen, um diese zu ver\u00f6ffentlichen und Frauen\r\nblo\u00dfzustellen. Intime Bilder, vor allem pornografische Videos, k\u00f6nnen jetzt durch die\r\nNutzung entsprechender Apps einfach selbst produziert werden. Dies bringt es mit\r\nsich, dass sich die Verbreitung pornographischer Deepfakes zu einem\r\nMassenph\u00e4nomen entwickelt, das sich gegen weiblich gelesene Personen richtet. Es\r\nwird gezielt genutzt, um sie \u00f6ffentlich zu besch\u00e4men, zu erniedrigen und mundtot zu\r\nmachen. So wird entsprechend manipulierte Hardcorepornografie von weiblich\r\ngelesenen Personen an ihre Arbeitgeber geschickt, im Kolleg*innenkreis verbreitet\r\noder auf Pornoplattformen zum Download angeboten. Vor allem politisch oder\r\naktivistisch t\u00e4tige Frauen werden auf diese Weise in Kampagnen und Wahlk\u00e4mpfen\r\n\u00f6ffentlich unter Druck gesetzt. Drohungen entsprechend manipulierte Videos an\r\n7 Mehr Informationen unter: https://hateaid.org/petition/porno-manipulation/\r\nFamilienangeh\u00f6rige und Kinder zu versenden, sind nicht selten. Die Gefahr, dass die\r\nFamilie in der Schule oder im Bekanntenkreis mit entsprechenden Bildern konfrontiert\r\nwird, ist gro\u00df.\r\nGleichzeitig beobachten wir in diesen F\u00e4llen die gr\u00f6\u00dften Schutzl\u00fccken. In der\r\n\u00fcberwiegenden Zahl der F\u00e4lle handelt es sich bei derartigen Vorf\u00e4llen n\u00e4mlich in der\r\njuristischen Bewertung lediglich um eine Verletzung des Rechts am eigenen Bild\r\ngem\u00e4\u00df \u00a7 33 KunstUhrG. Hierbei handelt es sich nicht nur um ein absolutes\r\nAntragsdelikt, sondern auch um ein Privatklagedelikt. Dar\u00fcber hinaus kommt\r\nallenfalls eine Strafbarkeit gem\u00e4\u00df \u00a7 187 StGB in Betracht, selten auch gem\u00e4\u00df \u00a7 201a\r\nAbs.1, 2 StG, wobei umstritten ist, ob dieser auch die Verbreitung manipulierter\r\nAufnahmen umfasst. Faktisch werden diese Delikte kaum verfolgt und stattdessen\r\nauf den Privatklageweg verwiesen. Dies steht au\u00dfer Verh\u00e4ltnis zu den gravierenden\r\nund lebensver\u00e4ndernden Folgen f\u00fcr die Betroffenen.\r\nUm einer massenhaften Einstellung von Ermittlungsverfahren bei\r\nBeleidigungsdelikten und der Verletzung des Rechts am eigenen Bild unter Verweis\r\nauf den Privatklageweg (\u00a7\u00a7 374 ff. StPO) vorzubeugen, empfehlen wir diese Delikte,\r\nwenn sie \u00f6ffentlich oder durch Verbreiten von Schriften (\u00a7 11 Abs. 3 StPO) begangen\r\nwerden, aus dem Katalog der Privatklagedelikte herauszunehmen. Die Einstellung\r\nunter Verweis auf \u00a7 374 StPO geschieht oftmals reflexhaft und ist f\u00fcr\r\nAnzeigeerstatter*innen auch bei pers\u00f6nlicher Betroffenheit nicht anfechtbar.\r\nPraktisch bedeutet das, dass Betroffene selbst dann, wenn intime Bilder von ihnen\r\nohne ihre Einwilligung im Internet kursieren oder sie von unter Pseudonym\r\nagierenden unbekannten T\u00e4ter*innen beleidigt und verleumdet werden, auf den\r\nPrivatklageweg verwiesen werden. Dieser ist mit hohen Kostenrisiken behaftet und in\r\nder Praxis faktisch bedeutungslos. Durch eine solche Praxis wird Betroffenen\r\nsignalisiert, dass Strafverfolgung in diesen F\u00e4llen ihre Privatsache sei. Damit werden\r\ndie gesamtgesellschaftlichen Folgen von Hasskriminalit\u00e4t im Netz verkannt.\r\nSchlie\u00dflich sind die Ermittlungsbeh\u00f6rden noch immer ma\u00dfgeblich auf Hinweise aus\r\nder Bev\u00f6lkerung angewiesen, um Hasskriminalit\u00e4t \u00fcberhaupt zu verfolgen.\r\n3. Gerichte zug\u00e4nglich machen\r\nPers\u00f6nlichkeitsrechtsverletzungen k\u00f6nnen im Zeitalter sozialer Netzwerke jede*n\r\ntreffen \u2013 und dies viel und oft. W\u00e4hrend presserechtliche Verfahren mit einer\r\nentsprechenden wirtschaftlichen Incentivierung der Parteien seit Jahrzehnten die\r\nGerichte besch\u00e4ftigen, kommen Pers\u00f6nlichkeitsrechtsverletzungen von\r\nNormalb\u00fcrger*innen, Aktivist*innen, Journalist*innen und anderen in sozialen\r\nNetzwerken dort jedoch kaum an. Laut einer europaweiten Umfrage von HateAid\r\nhaben lediglich ca. 14 % der Nutzenden einmal dar\u00fcber nachgedacht, die Gerichte mit\r\ndigitaler Gewalt zu befassen und lediglich 3 % geben an, es versucht zu haben.8\r\nDie H\u00fcrden sind vielf\u00e4ltig. W\u00e4hrend ein zivilrechtliches Vorgehen gegen T\u00e4ter*innen\r\nallzu h\u00e4ufig daran scheitert, dass diese nicht identifiziert werden k\u00f6nnen, schrecken\r\nNutzende - obwohl es wie oben beschrieben bereits wirkungsvolle Anspr\u00fcche gibt -\r\nvor einer Inanspruchnahme der Diensteanbietenden wegen der ungleichen\r\nMachtverh\u00e4ltnisse zur\u00fcck. In beiden Konstellationen gehen die Betroffenen\r\nKostenrisiken von mehreren tausend Euro ein. Hinzu kommen lange\r\nVerfahrenslaufzeiten von mehreren Monaten oder Jahren.\r\nDer Koalitionsvertrag hat sich zum Ziel gesetzt: \u201eKleinforderungen sollen in\r\nb\u00fcrgerfreundlichen digitalen Verfahren einfacher gerichtlich durchgesetzt werden\r\nk\u00f6nnen.\u201c (S. 84 Zeile 10 des Unterkapitels \u201eJustiz\u201c).\r\nNach unserem Daf\u00fcrhalten sollten derartige Verfahren, welche den Zugang zum\r\nRecht verbessern sollen, Pers\u00f6nlichkeitsrechtsverletzungen in elektronischen\r\nInformations- und Kommunikationsdiensten (Wortlaut: TMG; DSA:\r\nVermittlungsdienste) umfassen.\r\n4. Impressumspflicht, \u00a7 5 TMG\r\nEine weitere Schutzl\u00fccke offenbart sich im Bereich der Impressumspflicht. Diese\r\ngef\u00e4hrdet vor allem diejenigen, die als Aktivist*innen oder freischaffende\r\nJournalist*innen Webseiten und Blogs betreiben und hierf\u00fcr \u2013 mangels\r\nB\u00fcror\u00e4umlichkeiten \u2013 ihre Privatanschrift als \u201eladungsf\u00e4hige Anschrift\u201c angeben\r\nm\u00fcssen. Dadurch sind sie gezwungen, sich auf eine Weise im Privatbereich\r\nverwundbar zu machen, die unmittelbare Folgen f\u00fcr sie selbst und ihre Familien hat.\r\nDenn gerade bei konzertierten und massiven Angriffen von digitaler Gewalt wird\r\ndurch T\u00e4ter*innen versucht, private Daten \u00fcber Betroffene zu erlangen und diese im\r\nInternet zu ver\u00f6ffentlichen. Gelingt dies, beobachten wir in der Folge regelm\u00e4\u00dfig\r\nanaloge Gewalt\u00fcbergriffe vor der eigenen Haust\u00fcr oder dem Arbeitgeber. Die\r\nPrivatanschrift als \u201eladungsf\u00e4hige Anschrift\u201c angeben zu m\u00fcssen, stellt daher f\u00fcr\r\nviele Menschen eine unn\u00f6tige Exponierung ihres Privatbereiches und eine unn\u00f6tige\r\nGef\u00e4hrdung ihrer privaten Sicherheit dar. Hier bedarf es dringend einer Klarstellung,\r\ndenn sogar die Auslegung des Begriffs \u201eladungsf\u00e4hige Anschrift\u201c ist umstritten. Es ist\r\nbisher nicht einmal h\u00f6chstrichterlich gekl\u00e4rt, ob bspw. die Vertretung durch\r\nRechtsanw\u00e4lt*innen im Impressum zul\u00e4ssig ist. Personen, die die Vorgaben bewusst\r\numgehen wollen, melden ihre Webseite als Briefkastenfirma im Ausland an.\r\nWir empfehlen daher, Abhilfe f\u00fcr diejenigen zu schaffen, die sich gesetzeskonform\r\nverhalten wollen. Es wurden bereits vielfach Vorschl\u00e4ge vorgebracht, die z. B. die\r\n8 HateAid-Report \u201eUnsatisfied and helpless \u2013 how social media platforms are failing users\u201c\r\nhttps://hateaid.org/wp-content/uploads/2022/05/hateaid-eu-report-redress-social-media-platforms.pd\r\nf\r\n\r\nEinf\u00fchrung eines beh\u00f6rdlich gef\u00fchrten Registers vorsehen. Diese sind\r\ndiskussionsw\u00fcrdig. Denkbar w\u00e4re jedoch auch eine Aufweichung, bzw.\r\nKonkretisierung des Begriffs \u201eladungsf\u00e4hige Anschrift\u201c, der verdeutlicht, dass es vor\r\nallem auf die Erreichbarkeit unter dieser Anschrift ankommt und so\r\nRechtsanw\u00e4lt*innen oder Co-Working-Spaces genutzt werden k\u00f6nnten.\r\n5. Melderegistersperre, \u00a7 51 BMG\r\nDie Verbesserung von Auskunftssperren im Melderegister hat ebenfalls Eingang in\r\nden Koalitionsvertrag gefunden. Unklar ist, was damit gemeint ist. \u00a7 51 BMG wurde\r\nzuletzt zu Gunsten der Betroffenen digitaler Gewalt nachgebessert. Weitere\r\nMa\u00dfnahmen, welche Melderegistersperren f\u00fcr sie niedrigschwelliger machen oder\r\ndiese beschleunigen, sind selbstverst\u00e4ndlich w\u00fcnschenswert. Zudem ist es\r\nerforderlich, dass die Neuregelung des \u00a7 51 BMG auch bundesweit einheitlich\r\nAnwendung findet.\r\nDabei m\u00fcssen vor allem die Voraussetzungen zur Erlangung einer\r\nMelderegistersperre immer im Zusammenhang mit denen zur Erlangung einer\r\neinfachen Auskunft gem\u00e4\u00df \u00a7 44 BMG gesehen werden. Angesichts dessen, dass \u00a7\r\n51 BMG bereits die Darlegung von Tatsachen erfordert, welche die Annahme einer\r\nGefahr rechtfertigen, sind erstmals und manchmal aus heiterem Himmel Betroffene\r\nhier schutzlos gestellt. Nach unserem Daf\u00fcrhalten sollte daher jede Abfrage im\r\nMelderegister, also auch die einfache Abfrage gem\u00e4\u00df \u00a7 44 BMG, die\r\nGlaubhaftmachung von berechtigten Interessen erfordern. Dies w\u00fcrde die Schwelle\r\nder Beantragung einer solchen zum Zweck der Einsch\u00fcchterung erh\u00f6hen und w\u00e4re\r\nzugleich dem Zweck der Vorschrift unsch\u00e4dlich. Diejenigen, die eine solche Abfrage\r\nberechtigt durchf\u00fchren, werden in der Regel ein solches Interesse problemlos\r\ndarlegen k\u00f6nnen. An dieser Stelle m\u00f6chten wir deutlich machen, dass die\r\nVer\u00f6ffentlichung der Privatanschrift im Netz f\u00fcr Betroffene beinahe immer im\r\nWohnungswechsel m\u00fcndet, da die langfristige analoge Gefahr zu hoch ist. Noch nach\r\nJahren kann es zu analogen \u00dcbergriffen kommen, ist die Adresse erst einmal\r\nbekannt. Eine zuverl\u00e4ssige Entfernung der Privatadresse in sozialen Netzwerken ist\r\nzudem unter den jetzigen Bedingungen nicht m\u00f6glich.\r\n\r\n___________________________________________________________________________________\r\nDies ist eine gemeinsame Stellungnahme zu den Eckpunkten f\u00fcr ein Gesetz gegen\r\nDigitale Gewalt des Bundesministeriums der Justiz vom 25. April 2023 von:\r\nBundesverband Trans* e.V. (info@bv-trans.de)\r\nDeutscher Juristinnenbund e.V. (djb) (geschaeftsstelle@djb.de)\r\nichbinhier e.V. (info@ichbinhier.online)\r\nHateAid gGmbH (kontakt@hateaid.org)\r\nLesben- und Schwulenverband (LSVD) e.V. (lsvd@lsvd.de)\r\nRechtsanwalt Chan-jo Jun (info@kanzlei-jun.de)"
+                        }
+                    }
+                ],
+                "title": "Einf\u00fchrung eines Gesetzes gegen digitale Gewalt"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/f4/72/327217/Stellungnahme-Gutachten-SG2406280071.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                "de": "Bundesministerium der Justiz (BMJ)",
+                                "en": "Bundesministerium der Justiz (BMJ)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-31"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0010601",
+                "regulatoryProjectTitle": "Einf\u00fchrung eines Gesetzes gegen digitale Gewalt",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Stellungnahme zu den\r\nEckpunkten f\u00fcr ein Gesetz gegen digitale Gewalt\r\ndes Bundesministeriums der Justiz\r\n(Mai 2023)\r\nA. Einleitung\r\nDigitale Gewalt und Desinformation sind in ihrer organisierten und massiven Form\r\neine der gr\u00f6\u00dften Gefahren f\u00fcr unsere Demokratie. Nicht nur Einzelpersonen werden\r\ndurch sie aus digitalen R\u00e4umen herausgedr\u00e4ngt. Strukturell diskriminierende Angriffe\r\nzielen vor allem darauf ab, ganze Personengruppen wie Frauen, LGBTQIA+, Juden und\r\nJ\u00fcdinnen und viele andere marginalisierte Gruppen, aber auch\r\nKommunalpolitiker*innen, Aktivist*innen und Journalist*innen, einzusch\u00fcchtern und\r\naus dem \u00f6ffentlichen Diskurs herauszudr\u00e4ngen. Ein digitales Gewaltschutzgesetz\r\nmuss den Anspruch haben, allen B\u00fcrger*innen effektiven und effizienten Schutz und\r\ndie Durchsetzung ihrer Rechte zu erm\u00f6glichen. Nur so kann sichergestellt werden,\r\ndass in einer offenen und liberalen Demokratie freie Meinungs\u00e4u\u00dferung im\r\n\u00f6ffentlichen Raum langfristig gew\u00e4hrt bleibt.\r\nDaf\u00fcr ist in den vergangenen Jahren vor allem im Bereich des Strafrechts durch die\r\nSchaffung neuer Straftatbest\u00e4nde viel getan worden. Durch umfangreiche\r\nGesetzespakete konnten einige wichtige Schutzl\u00fccken geschlossen werden, sodass\r\ndurchaus nicht mehr vom \u201erechtsfreien Raum Internet\u201c gesprochen werden kann.\r\nDennoch ist das Internet leider noch immer ein rechtsdurchsetzungsfreier Raum.\r\nDies gilt in Teilen f\u00fcr das Strafrecht, wo Ermittler*innen allzu oft an der Identifizierung\r\nder T\u00e4ter*innen scheitern. Es gilt aber vor allem auch f\u00fcr das Zivilrecht, wo die\r\nH\u00fcrden der Rechtsdurchsetzung f\u00fcr Betroffene schier un\u00fcberwindbar erscheinen. Es\r\nsind nicht nur die Verfahrenslaufzeiten von mehreren Monaten oder die ungewissen\r\nErfolgsaussichten, die Betroffene von der Inanspruchnahme eines zivilrechtlichen\r\nVerfahrens abschrecken. Es sind vor allem die exorbitant hohen Kostenrisiken. In der\r\nRegel betr\u00e4gt der Gegenstandswert bei der Geltendmachung eines\r\nUnterlassungsanspruchs 5.000 bis 10.000 Euro pro \u00c4u\u00dferung, was Verfahrenskosten\r\nin H\u00f6he von mehreren tausend Euro mit sich bringt. Die wenigsten Betroffenen ziehen\r\ndaher eine zivilrechtliche Rechtsdurchsetzung \u00fcberhaupt f\u00fcr sich in Erw\u00e4gung.\r\nBeratungsstellen beobachten in der Folge einen erschreckenden Vertrauensverlust in\r\nstaatliche Institutionen und die Wehrhaftigkeit des Rechtsstaats, wenn es um die\r\nBek\u00e4mpfung digitaler Gewalt geht. Das Recht scheint den Betroffenen nicht\r\nzug\u00e4nglich und ist es bei objektiver Betrachtung auch nicht, zumindest nicht f\u00fcr\r\nPrivatpersonen.\r\nWir begr\u00fc\u00dfen es daher, dass das Eckpunktepapier nun mehr konkrete\r\nverfahrensrechtliche Erleichterungen schaffen will. Diese werden von uns im\r\nGrundsatz \u00fcberwiegend bef\u00fcrwortet. Wir glauben jedoch, dass es einer weiteren\r\nKonkretisierung und Erg\u00e4nzung um weitere Ma\u00dfnahmen zur F\u00f6rderung der\r\nRechtsdurchsetzung bei digitaler Gewalt bedarf. Alle angedachten Ma\u00dfnahmen\r\nsollten immer vor dem Hintergrund ihrer Effektivit\u00e4t und Praktikabilit\u00e4t f\u00fcr\r\nPrivatpersonen bewertet werden.\r\nKonkret geht es hierbei vor allem darum, Verfahren nicht nur zu beschleunigen,\r\nsondern auch niedrigschwelliger auszugestalten und kosteng\u00fcnstiger zu machen.\r\n\r\nDigitalisierung kann hierbei helfen, Antr\u00e4ge bei den Gerichten durch elektronische\r\nFormulare zu erm\u00f6glichen. Auskunftsanspr\u00fcche sollten aus Effizienzgr\u00fcnden\r\nverbunden werden. Dar\u00fcber hinaus m\u00fcssen Gegenstandswerte von Verfahren bei\r\n\u00c4u\u00dferungsdelikten herabgesetzt werden, um die Kosten zu senken.\r\nWir m\u00fcssen Betroffene wehrhaft machen und bef\u00e4higen, ihr Recht nicht nur auf dem\r\nPapier zu haben, sondern auch in der Praxis durchzusetzen. Dies bedeutet\r\nzwangsl\u00e4ufig nicht nur neue Rechtsgrundlagen zu schaffen, sondern deren\r\nUmsetzbarkeit f\u00fcr Privatpersonen auch verfahrensrechtlich abzusichern. Das Internet\r\nhat in wesentlichen Bereichen auch die Natur von Rechtsverletzungen ver\u00e4ndert. Das\r\nRecht muss hierauf reagieren. Andernfalls droht das Allgemeine Pers\u00f6nlichkeitsrecht\r\nim Internet in der Praxis zur leeren Floskel zu verkommen.\r\nB. Der Auskunftsanspruch, \u00a7 21 TTDSG\r\nDas Eckpunktepapier legt zu Recht einen Fokus auf eine Reform der\r\nBestandsdatenauskunft gem\u00e4\u00df \u00a7 21 Abs. 2, 3 TTDSG. Diese hat aktuell f\u00fcr\r\nBetroffene digitaler Gewalt kaum eine praktische Relevanz, was nicht allein den\r\nKosten des Verfahrens geschuldet ist. Vor allem der Umstand, dass das Verfahren\r\nderzeit auf die reine Freigabe von Bestandsdaten beschr\u00e4nkt ist, macht es faktisch\r\nobsolet. Denn als Bestandsdaten liegen den sozialen Netzwerken oftmals nur ein\r\nPseudonym der jeweiligen Accountinhaber*innen vor, welches im besten Fall auf\r\neinen Klarnamen schlie\u00dfen l\u00e4sst und im schlechtesten Fall keinen zus\u00e4tzlichen\r\nErkenntniswert mit sich bringt. Ggf. liegt noch eine E-Mail-Adresse oder\r\nTelefonnummer vor, die aber nur selten eine Ermittlung der T\u00e4ter*innen zul\u00e4sst.\r\nLiegen diese Daten vor, k\u00f6nnen Betroffene sie an die Staatsanwaltschaft weiterleiten,\r\nwenn gleichzeitig eine Strafanzeige erstattet wurde. \u00dcber eine Akteneinsicht, f\u00fcr die\r\nin der Regel eine kostenpflichtige anwaltliche Vertretung erforderlich ist, k\u00f6nnen sie\r\nso mit etwas Gl\u00fcck an die Identit\u00e4t von T\u00e4ter*innen gelangen. Das aufw\u00e4ndige\r\nProzedere ist aber nur selten erfolgreich. Denn in den meisten F\u00e4llen sind die im Zuge\r\ndes Auskunftsverfahrens nach \u00a7 21 TTDSG aktuell beauskunfteten Daten f\u00fcr\r\nPrivatpersonen schlicht nicht verwertbar.\r\nAus diesem Grund ist es unbedingt erforderlich und begr\u00fc\u00dfenswert, den\r\nAuskunftsanspruch zu reformieren. Das Eckpunktepapier ist in vielerlei Hinsicht\r\nerfreulich detailliert, bedarf jedoch vor allem im Hinblick auf den prozessualen Ablauf\r\nder Datenherausgabe weiterer Konkretisierung.\r\n1. Herausgabe von Nutzungsdaten\r\nDie explizite Erstreckung des Auskunftsanspruchs auf die Herausgabe von\r\nNutzungsdaten ist unbedingt zu begr\u00fc\u00dfen. W\u00e4hrend diese fr\u00fcher unter der Geltung\r\ndes Auskunftsanspruchs gem\u00e4\u00df TMG aufgrund des Verweises in \u00a7 15 Abs. 5 S. 4\r\nTMG a.F. bereits m\u00f6glich war, sieht das TTDSG eine solche M\u00f6glichkeit bisher nicht\r\nvor. Die Rechtsprechung ist bzgl. der Auslegung der Norm in ihrer aktuellen Fassung\r\njedenfalls eindeutig (OLG Schleswig [9. Zivilsenat], Beschluss vom 23.03.2022 \u2013 9 Wx\r\n23/21), so dass es einer Gesetzes\u00e4nderung bedarf.\r\nDie Erstreckung der Auskunft auf Nutzungsdaten erm\u00f6glicht in erster Linie die\r\nzus\u00e4tzliche Beauskunftung von IP-Adressen. Auch wenn kein Nutzungs- oder\r\nBestandsdatum die Identifizierung der Accountinhaber*innen garantieren kann, ist die\r\nIP-Adresse wesentlich wertvoller als ein beim sozialen Netzwerk hinterlegtes\r\nPseudonym oder eine E-Mail-Adresse. Sie sollte daher Bestandteil jeder Auskunft\r\nsein.\r\nDa es in Deutschland berechtigterweise keine Vorratsdatenspeicherung gibt, sollte\r\nsich der Auskunftsanspruch jedoch nicht lediglich auf die IP-Adresse des Uploads\r\nbeschr\u00e4nken. Er sollte vielmehr auch die IP-Adresse des letzten Logins enthalten.\r\nDiese wurde bereits in fr\u00fcheren von HateAid unterst\u00fctzen Auskunftsverfahren auf\r\nGrundlage des TMG von Diensteanbietern beauskunftet und sollte k\u00fcnftig auch\r\nexplizit erfasst sein.\r\nIP-Adressen werden abh\u00e4ngig vom Zugangsanbietenden (Access-Provider) nur f\u00fcnf\r\nbis sieben Tage, zum Teil jedoch auch nur wenige Stunden, gespeichert. Aus diesem\r\nGrund droht selbst im einstweiligen Rechtsschutz und bei Durchf\u00fchrung einer\r\nSicherungsanordnung immer ein Datenverlust, wenn der Zugangsanbietende die\r\nIP-Adresse bereits gel\u00f6scht haben sollte. Ist diese bereits gel\u00f6scht, k\u00f6nnen auch\r\nkeine Daten mehr gesichert werden. Die IP-Adresse des letzten Logins ist ein\r\nzus\u00e4tzliches Datum, welches dieses Risiko nicht ausr\u00e4umt, aber wenigstens\r\neind\u00e4mmt.\r\nDar\u00fcber hinaus sollte das befasste Gericht auf Antrag aussprechen k\u00f6nnen, dass die\r\nDiensteanbietenden relevante und konkret bezeichnete Nutzungsdaten wie bspw. die\r\nIP-Adresse einer k\u00fcnftigen Anmeldung unverz\u00fcglich gegen\u00fcber dem Gericht mitteilen\r\nmuss. Auf diese Weise kann eine Ermittlung der T\u00e4ter*innen auch in den F\u00e4llen\r\ngest\u00e4rkt werden, in welchen die IP-Adressen bereits gel\u00f6scht wurden oder f\u00fcr\r\nFallgestaltungen, in welchen bspw. eine Online-Plattform von der Speicherung sonst\r\nabsieht.\r\n2. Erstreckung auf F\u00e4lle der Verletzung absoluter Rechte\r\nAuch diese Anpassung ist grunds\u00e4tzlich zu begr\u00fc\u00dfen. Aktuell gilt durch die\r\nBeschr\u00e4nkung auf ausgew\u00e4hlte Straftaten f\u00fcr den Auskunftsanspruch nach \u00a7 21\r\nTTDSG eine h\u00f6here Schwelle als f\u00fcr die zivilrechtliche Rechtsdurchsetzung, die die\r\nAuskunft vorbereiten soll. F\u00fcr die Geltendmachung von Unterlassungs- und\r\nErsatzanspr\u00fcchen reicht eine Verletzung von Pers\u00f6nlichkeitsrechten n\u00e4mlich aus,\r\nw\u00e4hrend die Auskunft nur in Bezug auf ganz bestimmte strafbare \u00c4u\u00dferungen in\r\nBetracht kommt. Dies f\u00fchrt in der Praxis zu Rechtsunsicherheiten, da um die\r\nAbgrenzung zwischen \u201eeinfachen\u201d und strafbaren Pers\u00f6nlichkeitsrechtsverletzungen\r\numfangreich gestritten werden kann. Es erscheint sachgerecht, f\u00fcr die Auskunft die\r\ngleiche Schwelle anzusetzen, wie f\u00fcr die zivilrechtliche Rechtsdurchsetzung, die sie\r\nim Nachgang erm\u00f6glichen soll.\r\nDie im Eckpunktepapier angedachte Ausweitung auf alle absoluten Rechte, halten wir\r\njedoch f\u00fcr zu weitreichend. Dies gilt insbesondere wegen der sich hieraus\r\nergebenden Erstreckung auf die Verletzung gewerblicher Schutzrechte, die nicht\r\nzwangsl\u00e4ufig als \u201cdigitale Gewalt\u201d einzustufen w\u00e4re und daher ohnehin au\u00dferhalb\r\ndes Gesetzeszwecks liegt. Insbesondere, weil das Verfahren gerichtskostenfrei\r\nausgestaltet werden sollte, sollte genau hinterfragt werden, welchen Interessen\r\nhiermit gedient werden soll. Dies ist auch deswegen w\u00fcnschenswert, weil so\r\nKonkurrenzen zu anderen Rechtsgebieten vermieden werden k\u00f6nnen. Der\r\n\u00fcberwiegende Teil der hier relevanten F\u00e4lle digitaler Gewalt sollte durch eine\r\nErfassung des Allgemeinen Pers\u00f6nlichkeitsrechts abgedeckt sein. Dies erscheint\r\nvorzugsw\u00fcrdig gegen\u00fcber der limitierenden Einschr\u00e4nkung auf bestimmte Straftaten.\r\nHierdurch k\u00f6nnte eine unbeabsichtigte Erstreckung auf gewerbliche Schutzrechte\r\nnach unserem Daf\u00fcrhalten ausger\u00e4umt werden. Unerw\u00fcnschte Konkurrenzen\r\nk\u00f6nnten sich bspw. beim Richtervorbehalt f\u00fcr eine Drittauskunft in Bezug auf \u00a7 101\r\nUrhG ergeben. Dieser ist n\u00e4mlich weniger streng ausgestaltet und auf die F\u00e4lle des \u00a7\r\n101 Abs. 9 UrhG beschr\u00e4nkt. Hieraus ergeben sich unter Umst\u00e4nden auch\r\nKonkurrenzen mit der dortigen Kostenregelung (Nr. 15213 Anlage 1 GNotKG).\r\nEine Ausweitung des status quo ist jedoch insbesondere deswegen erforderlich, weil\r\nder aktuell geltende Katalog der erfassten Delikte gem\u00e4\u00df \u00a7 1 Abs. 3 NetzDG zu kurz\r\ngreift. Er bildet in der Praxis bedeutsame Erscheinungsformen digitaler Gewalt\r\nn\u00e4mlich nicht ab. Hierzu z\u00e4hlen nicht nur Pers\u00f6nlichkeitsverletzungen unterhalb der\r\nStrafbarkeitsschwelle, sondern auch Bildrechtsverletzungen, sowie diverse erst\r\nk\u00fcrzlich hinzugef\u00fcgte Straftatbest\u00e4nde, u. a. die gef\u00e4hrdende Verbreitung\r\npersonenbezogener Daten gem\u00e4\u00df \u00a7 126a StGB. Sollte also erneut der\r\nAnwendungsbereich des Auskunftsanspruchs \u00fcber einen Straftatenkatalog erwogen\r\nwerden, sollte dieser nicht die auf die aktuelle Fassung des NetzDG beschr\u00e4nkt,\r\nsondern wenigstens noch um die \u00a7\u00a7 192a, 126a, 238, 184, 184c, 184k, 188, 238 StGB,\r\nsowie \u00a7 33 KUG ausgeweitet werden.\r\n3. Erstreckung auf Anbieter von Messenger- und Internetzugangsdiensten\r\nDie Erstreckung des Anspruchs auf Messenger- und Internetzugangsdienste\r\n(Telekommunikationsunternehmen) ist unbedingt erforderlich, um dem\r\nAuskunftsanspruch zu einer praktischen Relevanz zu verhelfen. Insbesondere die\r\npraxisrelevante IP-Adresse ist f\u00fcr Privatpersonen in Bezug auf eine zivilrechtliche\r\nRechtsdurchsetzung nur nutzbringend, wenn sie mit den dazugeh\u00f6rigen\r\nAnschlussinhaber*innendaten verbunden werden kann. Diese k\u00f6nnen nur von den\r\nZugangsanbietenden beauskunftet werden. Durch weitere Auskunft der\r\nZugangsanbietenden kann dann ein Bezug zum Klarnamen des*der\r\nAccountinhaber*in hergestellt werden kann. Es ist daher unentbehrlich, dass k\u00fcnftig\r\nauch ein Anspruch gegen Zugangs- bzw. Telekommunikationsanbietende besteht, um\r\ndie vom sozialen Netzwerk erhaltenen Daten nutzbringend zu verwerten.\r\nDas Eckpunktepapier l\u00e4sst jedoch den konkreten Ablauf der Datenherausgabe offen.\r\nWir halten es f\u00fcr unerl\u00e4sslich, dass ein nutzungsfreundliches Verfahren eingef\u00fchrt\r\nwird. Dieses w\u00fcrde voraussetzen, dass Betroffene digitaler Gewalt mit einer einzigen\r\nAntragstellung sowohl die Auskunft vom sozialen Netzwerk als auch den Zugangs\u0002bzw. Telekommunikationsanbietenden erhalten. Praktisch w\u00fcrde dies bedeuten, dass\r\nbeide Ausk\u00fcnfte aufgrund des gleichen Gerichtsbeschlusses direkt an die\r\nBetroffenen zu erteilen sind oder durch das Gericht eingeholt werden m\u00fcssen.\r\nZudem sollte sichergestellt werden, dass sich der Anspruch auch auf E-Mail-Provider\r\nund Telefonanbietende erstreckt. Regelm\u00e4\u00dfig sind die E-Mail-Adresse oder eine\r\nTelefonnummer die einzigen Bestandsdaten, die beauskunftet werden k\u00f6nnen. Sie\r\nsollten daher auch mit den jeweiligen beim E-Mail-Provider oder Telefonanbietenden\r\nhinterlegten Informationen verkn\u00fcpft werden k\u00f6nnen.\r\nNicht durch das Eckpunktepapier gekl\u00e4rt ist die Frage, ob die weiteren Anbietenden\r\nu.a. von Telekommunikationsdienstleistungen gem\u00e4\u00df \u00a7 21 Abs. 4 S. 1 TTDSG auch\r\nals Beteiligte im Verfahren auftreten m\u00fcssen. Obwohl dies dogmatisch richtig w\u00e4re,\r\nh\u00e4tte dies bedenkliche Auswirkungen auf die Kosten des Verfahrens, so dass\r\njedenfalls bez\u00fcglich der Kostenregelung eine Klarstellung geboten erscheint. Auf\r\ndiese wird unter Punkt 4. d) noch eingegangen.\r\n4. Effektivere Ausgestaltung des Auskunftsverfahrens\r\nWie bereits dargelegt, halten wir eine effektive Ausgestaltung des Verfahrens f\u00fcr\r\nunerl\u00e4sslich, um dem Auskunftsverfahren zu praktischer Relevanz zu verhelfen. Das\r\nAuskunftsverfahren sollte insbesondere einstufig ausgestaltet werden.\r\na) Beweissicherungsanordnung\r\nDie geplante, an die g\u00e4ngige Praxis im Urheberrecht angelehnte Sicherung von\r\nverfahrensgegenst\u00e4ndlichen Daten, ist uneingeschr\u00e4nkt zu begr\u00fc\u00dfen. W\u00e4hrend\r\nsoziale Netzwerke sowohl Bestandsdaten als auch IP-Adressen ohnehin \u00fcber lange\r\nZeitr\u00e4ume hinweg speichern, gilt dies nicht f\u00fcr Telekommunikationsanbietende. Eine\r\nanlassbezogene Speicherung von IP-Adressen, bzw. deren Zuordnung zu\r\nAccountinhaber*innendaten ist von einer anlasslosen Vorratsdatenspeicherung zu\r\nunterscheiden. Sie unterliegt nicht den diesbez\u00fcglich einschl\u00e4gigen Bedenken, da die\r\nSpeicherung der IP-Adressen zu Sicherungszwecken beim Zugangs- bzw.\r\nTelekommunikationsanbietenden dann gerade nicht anlasslos, sondern\r\nanlassbezogen wegen des Verdachts einer konkreten\r\nPers\u00f6nlichkeitsrechtsverletzung erfolgt. Sie sollte zun\u00e4chst f\u00fcr die gesamte Dauer\r\ndes Verfahrens angeordnet werden. Sofern die Einholung der Daten den Betroffenen\r\n\u00fcberlassen werden soll, auch f\u00fcr einen klar umgrenzten Zeitraum nach dessen\r\nAbschluss (vgl. Punkt 3). F\u00fcr diesen Fall ist zu ber\u00fccksichtigen, dass sich Betroffene\r\nnach Zustellung des Auskunftsbeschlusses durch das Gericht zun\u00e4chst postalisch\r\nund unter Fristsetzung von in der Regel zwei Wochen an den Anbietenden, z. B. das\r\nsoziale Netzwerk wenden m\u00fcssen, um die Herausgabe der IP-Adresse zu verlangen.\r\nErst im Anschluss daran, k\u00f6nnten sich Betroffene \u00fcberhaupt an die Zugangsdienst\u0002oder Telekommunikationsanbietenden wenden, um die Herausgabe der\r\ndazugeh\u00f6rigen Anschlussinhaber*innendaten zu verlangen. Die Speicherung sollte\r\nnach Abschluss des Verfahrens f\u00fcr drei bis sechs Monate gew\u00e4hrleistet sein.\r\nIn der Kommunikation des Gesetzgebungsverfahrens sollte Missverst\u00e4ndnissen zum\r\nUmfang der Datenspeicherung proaktiv entgegengewirkt werden, um die Akzeptanz\r\ndes Vorschlags in der Bev\u00f6lkerung zu erh\u00f6hen. Bereits nach Ver\u00f6ffentlichung des\r\nEckpunktepapiers wurde dies z. T. als Vorratsdatenspeicherung durch die Hintert\u00fcr\r\ninterpretiert, weil der Eindruck entstand, dass eine neue Pflicht f\u00fcr soziale Netzwerke\r\noder sogar Messengerdienste eingef\u00fchrt werden solle, Daten von Nutzenden\r\nanlasslos zu speichern. Dies ist jedoch nicht der Fall. Das Eckpunktepapier deutet\r\nnicht einmal an, dass zus\u00e4tzliche Speicherpflichten geschaffen werden sollen. F\u00fcr\r\ndas Auskunftsverfahren gilt vielmehr: Was nicht gespeichert wird, kann auch nicht\r\nherausgegeben werden. Dies muss kommunikativ herausgestellt werden. Es sollte\r\nzudem betont werden, dass der Richtervorbehalt eine besonders hohe H\u00fcrde\r\ndarstellt, die vor Missbrauch sch\u00fctzt.\r\nb) Einstweilige Anordnung\r\nDie Geltendmachung des Auskunftsanspruchs per einstweiliger Anordnung ist\r\nebenfalls zu begr\u00fc\u00dfen. Es erm\u00f6glicht einerseits, Datenverlust vorzubeugen und\r\nandererseits, Betroffenen digitaler Gewalt eine schnellstm\u00f6gliche Abhilfe in Aussicht\r\nzu stellen. Da das Internet sehr schnelllebig ist und Inhalte digitaler Gewalt hier in\r\nk\u00fcrzester Zeit breite Verbreitung finden, ist Geschwindigkeit auch bei der\r\nRechtsdurchsetzung entscheidend.\r\nc) Video-Verhandlung\r\nUm gerichtliche Verfahren zu beschleunigen und zu modernisieren, ist der Einsatz\r\nvon Videotechnik begr\u00fc\u00dfenswert. In Bezug auf das Auskunftsverfahren wird der\r\npraktische Nutzen geringer sein als in anderen Bereichen. Er schadet jedoch nach\r\nunserer Einsch\u00e4tzung nicht.\r\nd) Klarstellung zur Kostentragung und Deckelung der Streitwerte\r\nDie Auskunftsverfahren sind aktuell mit niedrigen Erfolgsaussichten und hohen\r\nVerfahrenskosten verbunden. Die Gerichte erlegen den Antragstellenden regelm\u00e4\u00dfig\r\nnicht nur die Gerichtskosten, sondern auch die eigenen au\u00dfergerichtlichen\r\nAnwaltskosten und die der beteiligten Plattformanbietenden auf. Dies geschieht vor\r\nallem unter Berufung auf die Kostenregelung des \u00a7 21 Abs. 3 S. 7 TTDSG, die\r\ndahingehend ausgelegt wird, dass die gesamten Kosten des Verfahrens von den\r\nAntragstellenden zu tragen sind. Dies d\u00fcrfte wohl dem Wortlaut und der Intention des\r\nGesetzes widersprechen. Denn obwohl gem\u00e4\u00df \u00a7 21 Abs. 3 S. 7 TTDSG die Kosten der\r\n\u201erichterlichen Anordnung\u201c durch den*die Verletzte*n zu tragen sind, erm\u00f6glicht \u00a7 81\r\nAbs. 1 FamFG die Teilung der weiteren Verfahrenskosten nach Ermessen des\r\nGerichts. Von dieser Option wird nach der Erfahrung u.a. von HateAid jedoch kaum je\r\nGebrauch gemacht.\r\nNach unserer Auffassung besteht daher Anlass zu Klarstellungen bei den\r\nKostenregelungen zum Auskunftsverfahren, vor allem in Bezug auf au\u00dfergerichtliche\r\nKosten. Denn die Praxis, den Antragstellenden die gesamten Kosten des Verfahrens\r\naufzuerlegen, gest\u00fctzt auf \u00a7 21 Abs. 3 S. 7 TTDSG, widerspricht sowohl dem\r\nRegelungswortlaut, als auch der gesetzlichen Intention. So war mit dem\r\nRegelungsvorbild zu \u00a7 21 TTDSG in \u00a7 14 Abs. 3 - 5 TMG a.F. bezweckt, dass sich das\r\nVerfahren an \u00a7 101 Abs. 9 UrhG anlehnt (BT-Drs. 18/13013, S. 24). Dort ist anerkannt,\r\ndass sich die gleichlautende Formulierung in \u00a7 101 Abs. 9 S. 5 UrhG lediglich auf\r\netwaige Gerichtskosten bezieht. Die Kosten der anwaltlichen Vertretung im Verfahren\r\nhingegen sind nach den allgemeinen Regeln zur Kostentragung in \u00a7\u00a7 81 ff. FamFG\r\nnach Ermessen des Gerichts zu verteilen (BeckOK UrhR/Reber, 37. Ed. 15.01.2022,\r\nUrhG \u00a7 101 Rn. 20). So kann in der Praxis auch eine entsprechend getrennte\r\nKostentragung ausgesprochen werden (z. B. Schleswig-Holsteinisches\r\nOberlandesgericht, Beschluss vom 5. Februar 2010 \u2013 6 W 26/09). Praktisch bedeutet\r\ndies, dass die jeweilige Kostentragung auch separat tenoriert werden muss.\r\nUm hier der jetzigen Praxis entgegenzuwirken, bedarf es einer Klarstellung\r\ndahingehend, dass die Antragstellenden nicht automatisch auch die Kosten der\r\nanwaltlichen Vertretung der Beteiligten zu tragen haben. Dies ist entscheidend daf\u00fcr,\r\ndass das Verfahren von Betroffenen \u00fcberhaupt in Anspruch genommen wird. Denn\r\ndas einseitige Aufkommen f\u00fcr die Anwaltskosten aller Beteiligten stellt schon jetzt\r\neine enorme finanzielle Belastung von mehreren hundert Euro dar und schreckt von\r\nder Verfahrensaufnahme ab. Kommen nun weitere Beteiligte im Verfahren hinzu, wie\r\nz. B. Zugangsanbietende, k\u00f6nnten sich diese Kosten sogar noch mehr erh\u00f6hen.\r\nAngesichts dessen, dass im Auskunftsverfahren nach dem FamFG kein\r\nAnwaltszwang besteht und der Amtsermittlungsgrundsatz gilt, ist eine anwaltliche\r\nVertretung f\u00fcr professionelle Akteur*innen nicht erforderlich. Diese sollte daher auf\r\neigene Kosten erfolgen.\r\nInsofern ist es uns ein wichtiges Anliegen, dass die Gesetzesbegr\u00fcndung bei der\r\nNeuregelung deutlich zum Ausdruck bringen muss, welche Kostenverteilung das\r\nGesetz intendiert. Sollte es hierf\u00fcr einer Klarstellung im Regelungstext bed\u00fcrfen,\r\nw\u00fcrde HateAid dies ebenso begr\u00fc\u00dfen.\r\nDar\u00fcber hinaus treiben exorbitant hohen Streitwerte die Kosten f\u00fcr ein solches\r\nAuskunftsverfahren in die H\u00f6he. Aktuell wird regelm\u00e4\u00dfig ein Gegenstandswert von\r\n2.000 bis 5.000 Euro pro \u00c4u\u00dferung angenommen.\r\nMan gelangt demnach f\u00fcr eine Auskunft zu einer \u00c4u\u00dferung zu folgender Kalkulation,\r\nwonach f\u00fcr die Kosten einer anwaltlichen Vertretung ca. 400 Euro f\u00fcr die erste\r\nInstanz anfallen. Das bedeutet Kosten von mindestens 800 Euro, wenn ein beteiligter\r\nAnbieter ebenfalls anwaltlich vertreten ist. Dies sind nur die Kosten f\u00fcr die erste\r\nInstanz. Leider kam es in der Vergangenheit in von HateAid unterst\u00fctzten F\u00e4llen\r\nbereits vor, dass Diensteanbietende Beschwerde gegen den Beschluss einlegten.\r\nSelbst wenn diese unmittelbar zur\u00fcckgenommen wurde, l\u00f6st dies regelm\u00e4\u00dfig die\r\nGeb\u00fchren der zweiten Instanz aus, welche ebenfalls den Betroffenen auferlegt\r\nwurden.\r\nWir pl\u00e4dieren daher, wie bereits an anderer Stelle im Familienrecht (z. B. \u00a7 51 Abs. 3\r\nFamGKG) geregelt, f\u00fcr das Auskunftsverfahren einen pauschalen Gegenstandswert\r\nvon 250 Euro, maximal jedoch 500 Euro pro \u00c4u\u00dferung festzusetzen. Wir betrachten\r\ndies als vorl\u00e4ufige Sofortma\u00dfnahme bis bessere Wege zur Digitalisierung und\r\nVereinfachung des Zivilverfahrens ausgereift sind, die das Verfahren zug\u00e4nglicher\r\nund g\u00fcnstiger machen.\r\ne) Amtsermittlungsgrundsatz\r\nDie Beibehaltung des Amtsermittlungsgrundsatzes nach FamFG ist zu begr\u00fc\u00dfen.\r\nInsbesondere verringert dieser f\u00fcr nicht anwaltlich vertretene Antragstellende die\r\nGefahr einer Pr\u00e4klusion mit Tatsachenvortrag und macht das Verfahren so\r\nniedrigschwelliger.\r\nNach unserem Daf\u00fcrhalten sollte grunds\u00e4tzlich bei der Rechtsdurchsetzung gegen\r\ndigitale Gewalt erwogen werden, Digitalisierung zu nutzen, um Gerichte f\u00fcr Betroffene\r\nzug\u00e4nglich zu machen. \u00dcber digitale Formulare k\u00f6nnten Vorf\u00e4lle digitaler Gewalt f\u00fcr\r\neinen strukturierten Tatsachenvortrag leicht abgebildet werden. Insbesondere f\u00fcr\r\neinen Auskunftsantrag best\u00fcnde wegen der Geltung des\r\nAmtsermittlungsgrundsatzes durchaus die M\u00f6glichkeit, dass Betroffene den Antrag\r\n\u00fcber ein standardisiertes Formular oder sogar \u00fcber eine digitale Eingabemaske\r\nstellen. Eine Pr\u00e4klusion mit Tatsachenvortrag steht hier gerade nicht zu bef\u00fcrchten.\r\nVielmehr k\u00f6nnten die notwendigen Informationen (URL, die in Rede stehende\r\n\u00c4u\u00dferung, der in Bezug genommene Inhalte, sowie Screenshots) sehr\r\nniedrigschwellig \u00fcber eine Eingabemaske erfasst werden. Wegen der klaren\r\nZust\u00e4ndigkeitsregel w\u00e4re dies sogar recht unkompliziert m\u00f6glich.\r\nf) B\u00fcndelung gerichtlicher Zust\u00e4ndigkeit\r\nAufgrund der hohen Streitwerte kommt der B\u00fcndelung der gerichtlichen\r\nZust\u00e4ndigkeit aktuell keine praktische Relevanz zu. Bei einer Klage auf Unterlassung\r\ngegen rechtsverletzende \u00c4u\u00dferungen wird regelm\u00e4\u00dfig ein Streitwert von 5.000 bis\r\n10.000 Euro pro \u00c4u\u00dferung angesetzt. Eine B\u00fcndelung der Verfahren wird jedenfalls\r\nwegen der unterschiedlichen Verfahrensordnungen nicht m\u00f6glich sein.\r\nEinen echten Mehrwert w\u00fcrde nicht nur eine B\u00fcndelung der gerichtlichen\r\nZust\u00e4ndigkeiten beim Landgericht generieren, sondern eine B\u00fcndelung des\r\nAuskunftsverfahrens mit dem Verfahren zur Entfernung rechtsverletzender Inhalte.\r\nDenn obwohl ein Auskunftsverfahren den Plattformen grunds\u00e4tzlich Kenntnis einer\r\nrechtsverletzenden \u00c4u\u00dferungen verschaffen kann, kann die Entfernung dieser Inhalte\r\ndurch die Plattformen damit nicht immer vorausgesetzt werden.\r\nC. Richterlich angeordnete Accountsperren\r\nWir bef\u00fcrworten grunds\u00e4tzlich die durch das BMJ angedachte Einf\u00fchrung\r\nrichterlicher Accountsperren als weiteren Baustein zur Rechtsdurchsetzung f\u00fcr\r\nBetroffene digitaler Gewalt in hierf\u00fcr geeigneten F\u00e4llen. Der Vorschlag bedarf jedoch\r\nan einigen Stellen einer Konkretisierung und Nachbesserung, um die praktische\r\nRelevanz zu erh\u00f6hen. Dies kann insbesondere durch eine Einbindung\r\nzivilgesellschaftlicher Organisationen in die Durchsetzung der Accountsperre erreicht\r\nwerden. Zudem muss ein Referentenentwurf die Effektivit\u00e4t eines solchen Verfahrens\r\nadressieren, die nach unserem Daf\u00fcrhalten wegen der hohen Umgehungsgefahr nicht\r\n\u00fcbersch\u00e4tzt werden sollte.\r\n1. Effektivit\u00e4t der Ma\u00dfnahme\r\nBedenken in Bezug auf die Effektivit\u00e4t der Ma\u00dfnahme ergeben sich vor allem aus der\r\nTatsache, dass diese sehr leicht umgangen werden kann. Es liegt auf der Hand, dass\r\nsich die gesperrten Accountinhaber*innen jederzeit binnen Minuten neue Accounts\r\nanlegen k\u00f6nnen oder ohnehin bereits \u00fcber mehrere Accounts verf\u00fcgen. Zuweilen ist\r\ndies sogar offensichtlich. Nach unserer Beobachtung gehen die gr\u00f6bsten\r\nRechtsverletzungen h\u00e4ufig von Accounts aus, die nur wenige Vernetzungen, bspw.\r\nFreund*innen oder Follower*innen, haben und deren Aktivit\u00e4ten sich vor allem auf\r\ndas Schreiben von Kommentaren und Teilen von Inhalten beschr\u00e4nken. Dies ist nicht\r\nverwunderlich: Um mit gewaltvollen Inhalten eine gro\u00dfe Reichweite zu erreichen,\r\nbraucht ein Account nicht zwingend selbst eine eigene gro\u00dfe Reichweite. Es gen\u00fcgt,\r\ndie eigenen Inhalte in Kommentarspalten anderer gro\u00dfer Accounts zu platzieren und\r\nso von deren Reichweite zu profitieren. Denn in der Regel sollen mit diesen Inhalten\r\nohnehin nicht die Personen der eigenen Filterblase erreicht werden. Es geht vielmehr\r\ndarum, die Betroffenen und ihre Communities einzusch\u00fcchtern und mundtot zu\r\nmachen. Gehen Angriffe von Inhaber*innen sehr gro\u00dfer Accounts aus, sind diese oft\r\n(gerade so) nicht rechtsverletzend oder die Identit\u00e4t des*der T\u00e4ter*in ist bekannt.\r\nDies betrachten wir vor allem aus Sicht der Betroffenen digitaler Gewalt, die sich dazu\r\nentschlie\u00dfen auf eigenes (Kosten-)Risiko ein solches Verfahren zu f\u00fchren, als\r\nkritisch. Denn ein solches Verfahren zu f\u00fchren ist nicht nur mit dem Einsatz nicht\r\nunerheblicher Ressourcen, sondern auch mit einer emotionalen Belastung verbunden.\r\nAus diesem Grund w\u00e4re es f\u00fcr Betroffene besonders entt\u00e4uschend nach Abschluss\r\ndes Verfahrens festzustellen, dass dieses wirkungslos geblieben ist und die\r\nT\u00e4ter*innen ihnen nun \u00fcber andere Accounts nachstellen. Die Gefahr der Umgehung\r\neiner solchen Accountsperre sollte daher durch den Gesetzgeber adressiert und mit\r\nentsprechenden Ma\u00dfnahmen zu ihrer Minimierung bedacht werden. Andernfalls\r\nk\u00f6nnte die Ma\u00dfnahme das ohnehin schon niedrige Vertrauen der Betroffenen in das\r\nFunktionieren des Rechtsstaats im Internet weiter schw\u00e4chen.\r\nEs ist zudem nicht so, dass Betroffene nach der aktuellen Gesetzeslage gegen\u00fcber\r\nunbekannten T\u00e4ter*innen schutzlos gestellt sind. Es besteht bereits jetzt in der Regel\r\neine St\u00f6rerhaftung der jeweiligen Plattform, wenn diese Inhalte auf eine Meldung hin\r\nnicht entfernen. Dies macht es f\u00fcr Betroffene langfristig erfolgversprechender, die\r\nPlattform selbst in Anspruch zu nehmen, wenn sie unt\u00e4tig bleibt. Infolgedessen\r\nk\u00f6nnen Betroffene \u2013 bei Vorliegen der Voraussetzungen sogar im einstweiligen\r\nRechtsschutz1 \u2013 von der Plattform auch Unterlassen k\u00fcnftiger Verletzungen\r\nverlangen, und zwar nicht nur auf den Account des*der T\u00e4ters*in beschr\u00e4nkt. In\r\nBezug auf die rechtsverletzende \u00c4u\u00dferung ist dieser Anspruch durchaus\r\nweitreichend, da er eine Verbreitung des Inhalts auch f\u00fcr die Zukunft unterbindet und\r\nkeiner zeitlichen Beschr\u00e4nkung unterliegt. Dieser Anspruch ist weitreichend und\r\nerstreckt sich auch auf gleiche und sinngleiche Inhalte2\r\n. Wenn die Plattform den\r\nInhalt trotz Kenntnis nicht entfernt, kommt sogar ein Anspruch auf Schadenersatz3\r\nbereits jetzt in Betracht (LG Frankfurt am Main, Urteil vom 10.12.2021, Az.: 2-03 O\r\n422/20, nicht rechtskr\u00e4ftig). Diese Verfahren werden von Betroffenen jedoch nur\r\nselten proaktiv in Anspruch genommen.\r\nWir betrachten es zudem als richtig, dass die Accountsperre die ultima ratio bleiben\r\nmuss. Die Sperrung eines Accounts ist selbst dann, wenn sie vor\u00fcbergehend ist, eine\r\ndrastische Ma\u00dfnahme. Ihre Wirkung im Verh\u00e4ltnis zum*zur Accountinhaber*in geht\r\nweit \u00fcber die Entfernung eines Inhalts hinaus. Dies gilt zumindest dann, wenn es sich\r\ntats\u00e4chlich um eine Person handelt, die nur diesen einen Account unterh\u00e4lt. Dies\r\nl\u00e4sst sich nicht zweifelsfrei \u00fcberpr\u00fcfen. Es ist daher richtig, die Accountsperre an\r\nhohe H\u00fcrden zu kn\u00fcpfen. Solche sieht das Eckpunktepapier vor. Es sollte jedoch\r\ndarauf geachtet werden, dass angesichts der hohen H\u00fcrden ein Anwendungsbereich\r\nverbleibt. Es ist daher zu hinterfragen, ob eine schwerwiegende und wiederholte\r\nRechtsverletzung wirklich kumulativ vorliegen muss. Denkbar w\u00e4re es, diese\r\nalternativ auszugestalten oder eine einfache, wiederholte Rechtsverletzung generell\r\nausreichen zu lassen. Denkbar ist sonst allenfalls noch eine Anwendung auf\r\nStalkingf\u00e4lle oder Accounts, welche sich die gezielte Diffamierung von Politiker*innen\r\nund Aktivist*innen zum Ziel gesetzt haben.\r\n2. Alternativen im Digital Services Act\r\nDas Modell der Accountsperre findet jedenfalls bereits im Digital Services Act\r\nBer\u00fccksichtigung. Dort ist bereits eine generelle Pflicht von Online-Plattformen zur\r\nVornahme von Accountsperren bei wiederholten Rechtsverletzungen vorgesehen, Art.\r\n23 Abs. 1 DSA. Im Gegensatz zum Vorschlag der richterlich angeordneten\r\nAccountsperren im Eckpunktepapier ist es hierf\u00fcr gerade nicht notwendig, dass eine\r\nPerson mehrfach von einem Account angegriffen wurde. Es gen\u00fcgt vielmehr auch,\r\nwenn von einem Account wiederholte Verst\u00f6\u00dfe ausgingen. Die Accountsperren auf\r\nGrundlage des DSA haben somit einen breiteren Anwendungsbereich und demnach\r\nauch eine h\u00f6here praktische Relevanz. Durchgesetzt werden k\u00f6nnen diese gem\u00e4\u00df\r\n3 LG Frankfurt am Main, Urt. v. 10.12.2021; Az.: 2 03 O 422/20; Urteilstext:\r\nhttps://hateaid.org/twitter-geldentschaedigung/\r\n2 LG Frankfurt am Main, Urt. v. 8.4.2022, Az.: 2 03 O 188/21; mehr Informationen unter:\r\nhttps://hateaid.org/urteil-kuenast-facebook/\r\n1 LG Frankfurt am Main, Urt. v. 14.12.2022, Az.: 2 03 O 325/22; mehr Informationen unter:\r\nhttps://hateaid.org/einstweilige-verfuegung-gegen-twitter/\r\nArt. 23 Abs. 1 DSA durch die Aufsichtsbeh\u00f6rde und auch auf Antrag der Betroffenen.\r\nEs erscheint uns vorzugsw\u00fcrdig, die Durchsetzung der Aufsichtsbeh\u00f6rde zuzuweisen,\r\nanstatt sie den Betroffenen aufzub\u00fcrden.\r\nWir regen daher an, dass auch in Deutschland die diesbez\u00fcglichen Beh\u00f6rden\r\nhandlungsf\u00e4hig ausgestattet werden. Ggfs. sollte gesondert \u00fcberlegt werden, welche\r\nBeh\u00f6rde die Zust\u00e4ndigkeit f\u00fcr die Durchsetzung von Accountsperren nach dem DSA\r\nin Deutschland \u00fcbernehmen soll. Denkbar erscheint, dass die\r\nLandesmedienanstalten, welche bereits jetzt f\u00fcr bestimmte Einzelfallanordnungen\r\ngegen\u00fcber Online-Plattformen zust\u00e4ndig sind, diese Aufgabe \u00fcbernehmen. Auch dies\r\nwurde bereits an anderer Stelle vorgeschlagen4\r\n.\r\n3. Durchsetzung durch NGOs?\r\nDen Praktikabilit\u00e4tsbedenken k\u00f6nnte man dadurch begegnen, dass gemeinn\u00fctzige\r\nOrganisation in Anlehnung an die Vertretungsbefugnis in Art. 86 DSA bef\u00e4higt\r\nw\u00fcrden, die Accountsperre durchzusetzen. Sie sollten zudem die M\u00f6glichkeit haben,\r\nnicht nur gegen Accounts vorzugehen, die in der Vergangenheit schon mehrfach eine\r\nPerson angegriffen haben, sondern auch gegen solche, die wiederholt strafbare und\r\ngegen die Allgemeinheit gerichtete Inhalte verbreitet haben. In der Regel wird es sich\r\nhierbei wohl auch nicht um unbekannte Accountinhaber*innen handeln, sondern\r\nvielmehr um solche, gegen die man andernfalls kaum eine Handhabe hat. Dies\r\nentspricht einem Vorschlag5, den die Gesellschaft f\u00fcr Freiheitsrechte bereits fr\u00fcher in\r\nden Diskurs einbrachte.\r\nDies setzt jedoch voraus, dass zivilgesellschaftliche Organisationen auch mit den\r\nentsprechenden Ressourcen ausgestattet werden, um dieser Verantwortung\r\nnachzukommen. Zivilgesellschaftlichen Organisationen mangelt es bekanntlich an\r\nfinanziellen und personellen Ressourcen, sodass diese Verantwortung eine\r\nzus\u00e4tzliche Belastung darstellen w\u00fcrde. F\u00fcr zivilgesellschaftliche\r\nBeratungsorganisationen k\u00e4me der Aufwand f\u00fcr ein solches Verfahren wohl nur in\r\nBezug auf Accounts in Betracht, die entweder Klient*innen der Organisation\r\nregelm\u00e4\u00dfig angreifen oder von denen regelm\u00e4\u00dfig eine provozierende Agitation\r\nausgeht, welche Klient*innen gef\u00e4hrdet. Dies setzt nat\u00fcrlich voraus, dass diese\r\nAgitationen rechtsverletzend sind. Dies ist gerade bei professionellen Akteur*innen\r\noft nicht der Fall.\r\n5 Gesellschaft f\u00fcr Freiheitsrechte e.V.:\r\nhttps://freiheitsrechte.org/ueber-die-gff/presse/pressemitteilungen-der-gesellschaft-fur-freiheitsrechte\r\n/pm-eckpunkte-gewaltschutzgesetz\r\n4 Daniel Holznagel, CR-online, 13.4.2023:\r\nhttps://www.cr-online.de/blog/2023/04/13/bmj-stellt-eckpunkte-fuer-ein-gesetz-gegen-digitale-gewalt\u0002vor/\r\n4. Verbindung mit dem Auskunftsverfahren, gleichzeitige\r\nL\u00f6schanordnung\r\nWill der Gesetzgeber trotz der genannten Bedenken an dem Vorhaben der Anordnung\r\nrichterlicher Accountsperren festhalten, sollten gewisse Verfahrenserleichterungen\r\nerfolgen:\r\nDie Accountsperre sollte mit dem Auskunftsverfahren verbunden werden k\u00f6nnen. So\r\nk\u00f6nnten Betroffene, die ohnehin schon zu einer Rechtsdurchsetzung entschlossen\r\nsind und den Weg ins Gericht gefunden haben, gleichzeitig eine Accountsperre als\r\nAnnex beantragen, wenn sie mehrfach angegriffen wurden.\r\nZuletzt ist eine tempor\u00e4re Sperre von Accounts ohnehin nur dann hilfreich, wenn\r\ngleichzeitig die Entfernung der rechtsverletzenden Inhalte bei erneuter Freischaltung\r\nsichergestellt wird. Zwar ist eine Onlineplattform theoretisch ab Kenntniserlangung\r\nzur Entfernung rechtsverletzender Inhalte nach dem NetzDG verpflichtet und eine\r\nsolche Kenntnis kann auch durch die Beteiligung in einem solchen Verfahren erlangt\r\nwerden, allerdings ist nach unserer Erfahrung die bestehende Verpflichtung allein\r\nkeinesfalls ein Garant f\u00fcr die tats\u00e4chliche Entfernung von Inhalten durch die\r\nPlattformen. Wird die Entfernung also nicht explizit sichergestellt, werden nach dem\r\nAblauf einer tempor\u00e4ren Accountsperre nicht nur die betreffenden Accounts wieder\r\nfreigeschaltet, sondern mit ihnen auch die gleichen rechtsverletzenden Inhalte, die zu\r\neiner Sperrung gef\u00fchrt haben.\r\nD. Zustellungsbevollm\u00e4chtigte im Inland\r\nDie Einrichtung von Zustellungsbevollm\u00e4chtigten im Inland ist aus rein praktischen\r\nGr\u00fcnden uneingeschr\u00e4nkt zu begr\u00fc\u00dfen. Denn die aktuelle Rechtslage bei der\r\nDurchf\u00fchrung zivilrechtlicher Verfahren wird uneinheitlich gehandhabt. Der\r\nZustellungsbevollm\u00e4chtigte gem\u00e4\u00df \u00a7 5 NetzDG hat nur einen eng umgrenzten\r\nAnwendungsbereich (BGH, Beschluss vom 10.11.2022 \u2013 I ZB 10/22). Ist dieser\r\nAnwendungsbereich nicht gegeben, wird eine Zustellung bei zuf\u00e4lliger Kenntnis der\r\n\u00fcblichen Prozessbevollm\u00e4chtigten direkt an diese unternommen. Andernfalls bleibt\r\naber nur eine Zustellung ins Ausland. Im Fall der gro\u00dfen sozialen Netzwerke ist dies\r\nmeistens Irland. Im au\u00dfergerichtlichen Bereich kann eine Zustellung oftmals nicht\r\nrechtssicher nachvollzogen werden, was die Einleitung gerichtlicher Schritte\r\nverkomplizieren kann. Gelegentlich verlangen die Gerichte auch eine beglaubigte\r\n\u00dcbersetzung ins Englische, bevor eine Zustellung unternommen wird, und fordern\r\nhierf\u00fcr schnell Vorsch\u00fcsse von bis zu 2.000 Euro ein. Die Bundesregierung sollte hier\r\nalle vorhandenen Spielr\u00e4ume aussch\u00f6pfen, statt wegen der blo\u00dfen M\u00f6glichkeit von\r\neuroparechtlichen Bedenken auf eine Regelung zu verzichten. Die Vorgaben des DSA\r\nsind aus Sicht von Betroffenen digitaler Gewalt unzureichend. Dieser sieht die\r\nEinrichtung eines*r Zustellungsbevollm\u00e4chtigten in lediglich f\u00fcr Beh\u00f6rden und in\r\neinem einzigen europ\u00e4ischen Mitgliedstaat vor. Nutzende von Onlineplattformen\r\nwerden indes an eine elektronische Kontaktstelle verwiesen oder sollen eine\r\nBeschwerde bei der Aufsichtsbeh\u00f6rde einreichen. Beide Verfahren erlauben den\r\nNutzenden jedoch keine rechtssichere Zustellung von Dokumenten, z. B. zur\r\nVorbereitung oder Durchf\u00fchrung gerichtlicher Verfahren.\r\nLangfristig scheint es im Interesse der Betroffenen geboten, einfache und\r\nrechtssichere Zustellm\u00f6glichkeiten innerhalb der EU durch gesamteurop\u00e4ische\r\nRegeln zum elektronischen Rechtsverkehr zu sichern. So sollte sich die\r\nBundesregierung daf\u00fcr einsetzen, dass eine rechtssichere und wirksame Zustellung\r\nauch auf elektronischem Wege z. B. an eine Kontaktstelle gem\u00e4\u00df Art. 12 DSA\r\nerfolgen kann.\r\nE. Weitere Empfehlungen\r\nEin Gesetz zum Schutz vor digitaler Gewalt sollte \u00fcber die Vorschl\u00e4ge des\r\nEckpunktepapiers hinaus au\u00dferdem Regelungen enthalten, um Betroffene bei der\r\nRechtsdurchsetzung zu st\u00e4rken.\r\n1. Anzeigeformulare und Schriftform des Strafantrags\r\nEine nicht zu verkennende H\u00fcrde bei der Anzeige von Beleidigungsdelikten ist das\r\nStrafantragserfordernis gem\u00e4\u00df \u00a7 194 StGB. Dies gilt vor allem deswegen, weil ein\r\nStrafantrag gem\u00e4\u00df \u00a7 158 Abs. 2 StPO schriftlich gestellt werden muss. Dass eine\r\nelektronische Antragstellung, z. B. per E-Mail nicht m\u00f6glich ist, hat der BGH erst\r\nk\u00fcrzlich durch Beschluss vom 12.05.2022, Az.: 5 StR 398/21, bekr\u00e4ftigt. Die extrem\r\nengen Voraussetzungen f\u00fcr den elektronischen Rechtsverkehr im Strafprozessrecht\r\nsind in \u00a7 32a Abs. 3 StPO geregelt und setzen eine qualifizierte elektronische\r\nSignatur sowie einen sicheren \u00dcbermittlungsweg voraus. Ob die \u00dcbersendung eines\r\ngescannten und handschriftlich unterzeichneten Dokuments diesen Anforderungen\r\ngen\u00fcgen k\u00f6nnte, lie\u00df der BGH dabei offen.\r\nPraktisch bedeutet dies f\u00fcr Betroffene von Hasskriminalit\u00e4t im Internet, dass diese\r\naktuell sicherheitshalber immer binnen drei Monaten ab der Kenntnisnahme der\r\nrechtsverletzenden Inhalte einen handschriftlich unterzeichneten Strafantrag in\r\nPapierform einreichen m\u00fcssen. Dies gilt selbst dann, wenn sie regelm\u00e4\u00dfig von einer\r\nVielzahl von Hasskommentaren oder -nachrichten betroffen sind. Betroffenen von\r\ndigitaler Gewalt ist dieser Aufwand aus Kapazit\u00e4tsgr\u00fcnden nicht zumutbar. Im\r\nErgebnis werden viele Delikte auf diese Weise nur aufgrund b\u00fcrokratischer H\u00fcrden\r\nnicht angezeigt. Das Schriftformerfordernis des \u00a7 158 Abs. 2 StPO ist schlicht nicht\r\nmehr zeitgem\u00e4\u00df und sollte in eine Textform umgewandelt werden.\r\nAuf diese Weise w\u00e4re sichergestellt, dass wenigstens eine \u00dcbersendung eines\r\nStrafantrags als PDF-Dokument (\u00a7 32a Abs. 2 StPO; BeckOK StPO/Valerius, 44. Ed.\r\n1.7.2022, StPO \u00a7 32a Rn. 6.1) m\u00f6glich w\u00e4re, welches jedoch nicht an die weiteren\r\nVoraussetzungen des \u00a7 32a StPO gebunden ist. Eine einfache E-Mail w\u00e4re jedoch\r\nnoch immer nicht ausreichend. Fraglich bleibt zudem, ob eine Antragstellung \u00fcber\r\neine Onlinewache den Vorgaben gen\u00fcgen kann. Da das Schriftformerfordernis hier\r\nwohl nach dem Verst\u00e4ndnis des BGH unstreitig nicht gewahrt sein wird, k\u00e4me es\r\ndarauf an, ob dies der Antragstellung \u201ezu Protokoll\u201c bei der Staatsanwaltschaft\r\ngleichgestellt werden kann, \u00a7 158 Abs. 2 StPO. Dies ist ebenfalls fraglich.\r\nBedauerlicherweise stellt der BGH darauf ab, dass dem Schriftformerfordernis vor\r\nallem eine Verifizierungsfunktion zukommen soll. Ausweislich der\r\nGesetzesbegr\u00fcndung ist dies jedoch gerade nicht der vorrangige Zweck. Das\r\nSchriftformerfordernis soll vielmehr eigentlich sicherstellen, dass nicht versehentlich\r\nEntw\u00fcrfe in den Umlauf gelangen. Dieser Zweck kann aber auch ohne ein\r\nSchriftformerfordernis gewahrt werden. Um die Verifizierung zu gew\u00e4hrleisten,\r\nk\u00f6nnten auch technische Wege zur sicheren \u00dcbermittlung erwogen werden, solange\r\ndiese die Belange des Zeug*innenschutzes nicht konterkarieren. Eine Registrierung\r\nmit einem Personalausweis z. B. w\u00e4re daher abzulehnen.\r\nWir begr\u00fc\u00dfen au\u00dferdem ausdr\u00fccklich die Intention der Bundesregierung, eine\r\nbundeseinheitliche M\u00f6glichkeit der elektronischen Anzeigeerstattung zu schaffen. In\r\nvielen Bundesl\u00e4ndern haben sich Online-Meldeportale bew\u00e4hrt , die speziell auf die\r\nMeldung von \u00c4u\u00dferungsdelikten im Netz zugeschnitten sind (z. B. Hessen gegen\r\nHetze\r\n6\r\n). Hierbei werden systematisch die relevanten Informationen abgefragt,\r\nScreenshots k\u00f6nnen hochgeladen und URLs eingef\u00fcgt werden. Zudem werden an\r\nden relevanten Stellen auf M\u00f6glichkeiten des Zeug*innenschutzes hingewiesen oder\r\nsogar eine (zun\u00e4chst) anonyme Anzeigeerstattung erm\u00f6glicht. Diese Angebote\r\nhalten wir f\u00fcr geeignet, die Zahl der Strafanzeigen zu erh\u00f6hen. Ein solches Angebot\r\nsollte es fl\u00e4chendeckend geben, wobei ein bundeseinheitliches Formular sinnhaft\r\nerscheint. Denn ein umfangreiches Angebot an gut ausgestatteten Anzeigeportalen\r\nist eben nicht einheitlich in allen Bundesl\u00e4ndern vorhanden. Dadurch entstehen\r\nB\u00fcrger*innen in Bundesl\u00e4ndern mit unzureichenden Meldem\u00f6glichkeiten Nachteile.\r\nWie bereits dargelegt, sollten diese Online-Meldeformulare das Stellen\r\nformwirksamer Strafantr\u00e4ge erm\u00f6glichen.\r\nStrafverfolgung ist L\u00e4ndersache. Dem kann und muss in der Ausgestaltung des\r\nbundeseinheitlichen Meldeformulars Rechnung getragen werden. So k\u00f6nnte ein\r\nsolches Meldeformular bspw. durch die Abfrage der Postleitzahl des Wohnsitzes\r\nAnzeigeerstatter*innen eine Zuordnung der \u00f6rtlichen Zust\u00e4ndigkeit erm\u00f6glichen und\r\nan die zust\u00e4ndigen Stellen in den L\u00e4ndern ausgeleitet werden. Die Weiterleitung von\r\nSachverhalten innerhalb der L\u00e4nder sollte zudem unmittelbar an eine auf\r\n6 https://hessengegenhetze.de/\r\nInternetkriminalit\u00e4t spezialisierte Stelle beim Landeskriminalamt oder der\r\nStaatsanwaltschaft erfolgen, wo zeitnah Ermittlungen aufzunehmen sind, um\r\nDatenverlust vorzubeugen.\r\nJedoch haben nicht alle Bundesl\u00e4nder eine solche Stelle und/oder k\u00f6nnen eine\r\nschnelle Bearbeitung der F\u00e4lle sicherstellen. Gesteigert werden k\u00f6nnte die Effizienz\r\neines solchen Systems ggf. dadurch, dass eine zentrale Stelle eine Vorsortierung der\r\nSachverhalte vornimmt, wodurch u. a. Duplikate festgestellt werden k\u00f6nnten. Ggf.\r\nW\u00e4re das Bundeskriminalamt als Zentralstelle (\u00a7 2 BKAG) hierf\u00fcr geeignet. Dieses\r\nhat immerhin Stellen aufgestockt, um der gescheiterten Meldepflicht gem\u00e4\u00df \u00a7 3b\r\nNetzDG gerecht zu werden.\r\nZur Sicherstellung eines effektiven Zeug*innenschutzes sollte sowohl in der\r\nOnlinewache, als auch bei der analogen Anzeigeerstattung eine verpflichtende\r\nBelehrung \u00fcber die Angabe einer Erreichbarkeitsanschrift (c/o Adresse) erfolgen, \u00a7\r\n68 Abs. 2 S. 1 StPO. Bisher h\u00e4lt die vermeintliche Pflicht zur Angabe einer\r\nPrivatanschrift Betroffene digitaler Gewalt h\u00e4ufig von der Erstattung einer Anzeige\r\nab.\r\n2. Bildbasierte digitale Gewalt\r\nImmer h\u00e4ufiger erreichen qualifizierte Beratungsstellen F\u00e4lle bildbasierter digitaler\r\nGewalt. Vor allem sexualisierte Gewalt gegen weiblich gelesene Personen steht\r\nhierbei im Vordergrund. Wir betrachten bildbasierte digitale Gewalt als gef\u00e4hrlichste\r\naktuelle Entwicklung im Bereich der digitalen Gewalt. Durch neue Mittel, wie z. B. sog.\r\nFaceSwap-Apps7 oder einschl\u00e4gige Internetseiten sind der Allgemeinheit\r\nTechnologien zur einfachen, schnellen und professionellen Herstellung sog.\r\nDeepfakes zug\u00e4nglich gemachtworden. Anhand der Inhalte, die in den\r\nBeratungsstellen vorgetragen werden, ist l\u00e4ngst erkennbar, dass T\u00e4ter*innen nicht\r\nl\u00e4nger intime Bilder stehlen m\u00fcssen, um diese zu ver\u00f6ffentlichen und Frauen\r\nblo\u00dfzustellen. Intime Bilder, vor allem pornografische Videos, k\u00f6nnen jetzt durch die\r\nNutzung entsprechender Apps einfach selbst produziert werden. Dies bringt es mit\r\nsich, dass sich die Verbreitung pornographischer Deepfakes zu einem\r\nMassenph\u00e4nomen entwickelt, das sich gegen weiblich gelesene Personen richtet. Es\r\nwird gezielt genutzt, um sie \u00f6ffentlich zu besch\u00e4men, zu erniedrigen und mundtot zu\r\nmachen. So wird entsprechend manipulierte Hardcorepornografie von weiblich\r\ngelesenen Personen an ihre Arbeitgeber geschickt, im Kolleg*innenkreis verbreitet\r\noder auf Pornoplattformen zum Download angeboten. Vor allem politisch oder\r\naktivistisch t\u00e4tige Frauen werden auf diese Weise in Kampagnen und Wahlk\u00e4mpfen\r\n\u00f6ffentlich unter Druck gesetzt. Drohungen entsprechend manipulierte Videos an\r\n7 Mehr Informationen unter: https://hateaid.org/petition/porno-manipulation/\r\nFamilienangeh\u00f6rige und Kinder zu versenden, sind nicht selten. Die Gefahr, dass die\r\nFamilie in der Schule oder im Bekanntenkreis mit entsprechenden Bildern konfrontiert\r\nwird, ist gro\u00df.\r\nGleichzeitig beobachten wir in diesen F\u00e4llen die gr\u00f6\u00dften Schutzl\u00fccken. In der\r\n\u00fcberwiegenden Zahl der F\u00e4lle handelt es sich bei derartigen Vorf\u00e4llen n\u00e4mlich in der\r\njuristischen Bewertung lediglich um eine Verletzung des Rechts am eigenen Bild\r\ngem\u00e4\u00df \u00a7 33 KunstUhrG. Hierbei handelt es sich nicht nur um ein absolutes\r\nAntragsdelikt, sondern auch um ein Privatklagedelikt. Dar\u00fcber hinaus kommt\r\nallenfalls eine Strafbarkeit gem\u00e4\u00df \u00a7 187 StGB in Betracht, selten auch gem\u00e4\u00df \u00a7 201a\r\nAbs.1, 2 StG, wobei umstritten ist, ob dieser auch die Verbreitung manipulierter\r\nAufnahmen umfasst. Faktisch werden diese Delikte kaum verfolgt und stattdessen\r\nauf den Privatklageweg verwiesen. Dies steht au\u00dfer Verh\u00e4ltnis zu den gravierenden\r\nund lebensver\u00e4ndernden Folgen f\u00fcr die Betroffenen.\r\nUm einer massenhaften Einstellung von Ermittlungsverfahren bei\r\nBeleidigungsdelikten und der Verletzung des Rechts am eigenen Bild unter Verweis\r\nauf den Privatklageweg (\u00a7\u00a7 374 ff. StPO) vorzubeugen, empfehlen wir diese Delikte,\r\nwenn sie \u00f6ffentlich oder durch Verbreiten von Schriften (\u00a7 11 Abs. 3 StPO) begangen\r\nwerden, aus dem Katalog der Privatklagedelikte herauszunehmen. Die Einstellung\r\nunter Verweis auf \u00a7 374 StPO geschieht oftmals reflexhaft und ist f\u00fcr\r\nAnzeigeerstatter*innen auch bei pers\u00f6nlicher Betroffenheit nicht anfechtbar.\r\nPraktisch bedeutet das, dass Betroffene selbst dann, wenn intime Bilder von ihnen\r\nohne ihre Einwilligung im Internet kursieren oder sie von unter Pseudonym\r\nagierenden unbekannten T\u00e4ter*innen beleidigt und verleumdet werden, auf den\r\nPrivatklageweg verwiesen werden. Dieser ist mit hohen Kostenrisiken behaftet und in\r\nder Praxis faktisch bedeutungslos. Durch eine solche Praxis wird Betroffenen\r\nsignalisiert, dass Strafverfolgung in diesen F\u00e4llen ihre Privatsache sei. Damit werden\r\ndie gesamtgesellschaftlichen Folgen von Hasskriminalit\u00e4t im Netz verkannt.\r\nSchlie\u00dflich sind die Ermittlungsbeh\u00f6rden noch immer ma\u00dfgeblich auf Hinweise aus\r\nder Bev\u00f6lkerung angewiesen, um Hasskriminalit\u00e4t \u00fcberhaupt zu verfolgen.\r\n3. Gerichte zug\u00e4nglich machen\r\nPers\u00f6nlichkeitsrechtsverletzungen k\u00f6nnen im Zeitalter sozialer Netzwerke jede*n\r\ntreffen \u2013 und dies viel und oft. W\u00e4hrend presserechtliche Verfahren mit einer\r\nentsprechenden wirtschaftlichen Incentivierung der Parteien seit Jahrzehnten die\r\nGerichte besch\u00e4ftigen, kommen Pers\u00f6nlichkeitsrechtsverletzungen von\r\nNormalb\u00fcrger*innen, Aktivist*innen, Journalist*innen und anderen in sozialen\r\nNetzwerken dort jedoch kaum an. Laut einer europaweiten Umfrage von HateAid\r\nhaben lediglich ca. 14 % der Nutzenden einmal dar\u00fcber nachgedacht, die Gerichte mit\r\ndigitaler Gewalt zu befassen und lediglich 3 % geben an, es versucht zu haben.8\r\nDie H\u00fcrden sind vielf\u00e4ltig. W\u00e4hrend ein zivilrechtliches Vorgehen gegen T\u00e4ter*innen\r\nallzu h\u00e4ufig daran scheitert, dass diese nicht identifiziert werden k\u00f6nnen, schrecken\r\nNutzende - obwohl es wie oben beschrieben bereits wirkungsvolle Anspr\u00fcche gibt -\r\nvor einer Inanspruchnahme der Diensteanbietenden wegen der ungleichen\r\nMachtverh\u00e4ltnisse zur\u00fcck. In beiden Konstellationen gehen die Betroffenen\r\nKostenrisiken von mehreren tausend Euro ein. Hinzu kommen lange\r\nVerfahrenslaufzeiten von mehreren Monaten oder Jahren.\r\nDer Koalitionsvertrag hat sich zum Ziel gesetzt: \u201eKleinforderungen sollen in\r\nb\u00fcrgerfreundlichen digitalen Verfahren einfacher gerichtlich durchgesetzt werden\r\nk\u00f6nnen.\u201c (S. 84 Zeile 10 des Unterkapitels \u201eJustiz\u201c).\r\nNach unserem Daf\u00fcrhalten sollten derartige Verfahren, welche den Zugang zum\r\nRecht verbessern sollen, Pers\u00f6nlichkeitsrechtsverletzungen in elektronischen\r\nInformations- und Kommunikationsdiensten (Wortlaut: TMG; DSA:\r\nVermittlungsdienste) umfassen.\r\n4. Impressumspflicht, \u00a7 5 TMG\r\nEine weitere Schutzl\u00fccke offenbart sich im Bereich der Impressumspflicht. Diese\r\ngef\u00e4hrdet vor allem diejenigen, die als Aktivist*innen oder freischaffende\r\nJournalist*innen Webseiten und Blogs betreiben und hierf\u00fcr \u2013 mangels\r\nB\u00fcror\u00e4umlichkeiten \u2013 ihre Privatanschrift als \u201eladungsf\u00e4hige Anschrift\u201c angeben\r\nm\u00fcssen. Dadurch sind sie gezwungen, sich auf eine Weise im Privatbereich\r\nverwundbar zu machen, die unmittelbare Folgen f\u00fcr sie selbst und ihre Familien hat.\r\nDenn gerade bei konzertierten und massiven Angriffen von digitaler Gewalt wird\r\ndurch T\u00e4ter*innen versucht, private Daten \u00fcber Betroffene zu erlangen und diese im\r\nInternet zu ver\u00f6ffentlichen. Gelingt dies, beobachten wir in der Folge regelm\u00e4\u00dfig\r\nanaloge Gewalt\u00fcbergriffe vor der eigenen Haust\u00fcr oder dem Arbeitgeber. Die\r\nPrivatanschrift als \u201eladungsf\u00e4hige Anschrift\u201c angeben zu m\u00fcssen, stellt daher f\u00fcr\r\nviele Menschen eine unn\u00f6tige Exponierung ihres Privatbereiches und eine unn\u00f6tige\r\nGef\u00e4hrdung ihrer privaten Sicherheit dar. Hier bedarf es dringend einer Klarstellung,\r\ndenn sogar die Auslegung des Begriffs \u201eladungsf\u00e4hige Anschrift\u201c ist umstritten. Es ist\r\nbisher nicht einmal h\u00f6chstrichterlich gekl\u00e4rt, ob bspw. die Vertretung durch\r\nRechtsanw\u00e4lt*innen im Impressum zul\u00e4ssig ist. Personen, die die Vorgaben bewusst\r\numgehen wollen, melden ihre Webseite als Briefkastenfirma im Ausland an.\r\nWir empfehlen daher, Abhilfe f\u00fcr diejenigen zu schaffen, die sich gesetzeskonform\r\nverhalten wollen. Es wurden bereits vielfach Vorschl\u00e4ge vorgebracht, die z. B. die\r\n8 HateAid-Report \u201eUnsatisfied and helpless \u2013 how social media platforms are failing users\u201c\r\nhttps://hateaid.org/wp-content/uploads/2022/05/hateaid-eu-report-redress-social-media-platforms.pd\r\nf\r\n\r\nEinf\u00fchrung eines beh\u00f6rdlich gef\u00fchrten Registers vorsehen. Diese sind\r\ndiskussionsw\u00fcrdig. Denkbar w\u00e4re jedoch auch eine Aufweichung, bzw.\r\nKonkretisierung des Begriffs \u201eladungsf\u00e4hige Anschrift\u201c, der verdeutlicht, dass es vor\r\nallem auf die Erreichbarkeit unter dieser Anschrift ankommt und so\r\nRechtsanw\u00e4lt*innen oder Co-Working-Spaces genutzt werden k\u00f6nnten.\r\n5. Melderegistersperre, \u00a7 51 BMG\r\nDie Verbesserung von Auskunftssperren im Melderegister hat ebenfalls Eingang in\r\nden Koalitionsvertrag gefunden. Unklar ist, was damit gemeint ist. \u00a7 51 BMG wurde\r\nzuletzt zu Gunsten der Betroffenen digitaler Gewalt nachgebessert. Weitere\r\nMa\u00dfnahmen, welche Melderegistersperren f\u00fcr sie niedrigschwelliger machen oder\r\ndiese beschleunigen, sind selbstverst\u00e4ndlich w\u00fcnschenswert. Zudem ist es\r\nerforderlich, dass die Neuregelung des \u00a7 51 BMG auch bundesweit einheitlich\r\nAnwendung findet.\r\nDabei m\u00fcssen vor allem die Voraussetzungen zur Erlangung einer\r\nMelderegistersperre immer im Zusammenhang mit denen zur Erlangung einer\r\neinfachen Auskunft gem\u00e4\u00df \u00a7 44 BMG gesehen werden. Angesichts dessen, dass \u00a7\r\n51 BMG bereits die Darlegung von Tatsachen erfordert, welche die Annahme einer\r\nGefahr rechtfertigen, sind erstmals und manchmal aus heiterem Himmel Betroffene\r\nhier schutzlos gestellt. Nach unserem Daf\u00fcrhalten sollte daher jede Abfrage im\r\nMelderegister, also auch die einfache Abfrage gem\u00e4\u00df \u00a7 44 BMG, die\r\nGlaubhaftmachung von berechtigten Interessen erfordern. Dies w\u00fcrde die Schwelle\r\nder Beantragung einer solchen zum Zweck der Einsch\u00fcchterung erh\u00f6hen und w\u00e4re\r\nzugleich dem Zweck der Vorschrift unsch\u00e4dlich. Diejenigen, die eine solche Abfrage\r\nberechtigt durchf\u00fchren, werden in der Regel ein solches Interesse problemlos\r\ndarlegen k\u00f6nnen. An dieser Stelle m\u00f6chten wir deutlich machen, dass die\r\nVer\u00f6ffentlichung der Privatanschrift im Netz f\u00fcr Betroffene beinahe immer im\r\nWohnungswechsel m\u00fcndet, da die langfristige analoge Gefahr zu hoch ist. Noch nach\r\nJahren kann es zu analogen \u00dcbergriffen kommen, ist die Adresse erst einmal\r\nbekannt. Eine zuverl\u00e4ssige Entfernung der Privatadresse in sozialen Netzwerken ist\r\nzudem unter den jetzigen Bedingungen nicht m\u00f6glich.\r\n\r\n___________________________________________________________________________________\r\nDies ist eine gemeinsame Stellungnahme zu den Eckpunkten f\u00fcr ein Gesetz gegen\r\nDigitale Gewalt des Bundesministeriums der Justiz vom 25. April 2023 von:\r\nBundesverband Trans* e.V. (info@bv-trans.de)\r\nDeutscher Juristinnenbund e.V. (djb) (geschaeftsstelle@djb.de)\r\nichbinhier e.V. (info@ichbinhier.online)\r\nHateAid gGmbH (kontakt@hateaid.org)\r\nLesben- und Schwulenverband (LSVD) e.V. (lsvd@lsvd.de)\r\nRechtsanwalt Chan-jo Jun (info@kanzlei-jun.de)"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

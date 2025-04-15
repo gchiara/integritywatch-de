@@ -1,0 +1,851 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-01-20T11:52:34.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-06-27T09:40:37.000+02:00",
+        "lastUpdateDate": "2024-08-07T13:46:40.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42611,
+                "validFromDate": "2024-08-07T13:46:40.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 30636,
+                "validFromDate": "2024-06-20T14:02:32.000+02:00",
+                "validUntilDate": "2024-08-07T13:46:40.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 15241,
+                "validFromDate": "2023-07-13T13:40:13.000+02:00",
+                "validUntilDate": "2024-06-20T14:02:32.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 14699,
+                "validFromDate": "2023-01-20T11:52:34.000+01:00",
+                "validUntilDate": "2023-07-13T13:40:13.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Die DLG ist ein gemeinn\u00fctziger Verein aus dem Agrar- und Ern\u00e4hrungsbereich, der es sich zur Aufgabe gemacht hat, Wissenschaft und Forschung, insbesondere des technischen, biologischen und organisatorischen Fortschritts in der Agrar- und Ern\u00e4hrungswirtschaft zu f\u00f6rdern. Vereinsziel ist au\u00dferdem die F\u00f6rderung von Bildung und Erziehung sowie Verbraucherschutz und Verbraucherberatung sowie die Intensivierung der internationalen Entwicklungszusammenarbeit. \r\n\r\nSie ist politisch ungebundener Mittel- und Sammelpunkt f\u00fcr alle Fragen der sachlichen und ideellen land- und ern\u00e4hrungswirtschaftlichen F\u00f6rderung. Sie versteht sich als \u201efachliche Stimme der Landwirtschaft\u201c. Als offenes, internationales Netzwerk erarbeitet die DLG mit Experten aus aller Welt zukunftsorientierte L\u00f6sungen f\u00fcr die Herausforderungen der Branche. \r\n\r\nSie organisiert international f\u00fchrende Messen und Veranstaltungen in den Kompetenzfeldern Pflanzenbau, Tierhaltung, Land- und Forsttechnik, Energieversorgung und Lebensmitteltechnologie. \r\nIhre Qualit\u00e4tspr\u00fcfungen f\u00fcr Lebensmittel sowie Landtechnik und Betriebsmittel sind international f\u00fchrend. Durch ihre Facharbeit und ihr Expertennetzwerk verleiht die DLG der Praxis immer wieder neue Impulse.  \r\n\r\nZum Zwecke der Interessenvertretung werden Gespr\u00e4che mit Vertreterinnen und Vertretern der Bundesministerien sowie mit Mitgliedern des Deutschen Bundestages gef\u00fchrt zur Erl\u00e4uterung von \u00c4nderungsnotwendigkeiten hinsichtlich einer Vielzahl von Themenfeldern, die als Rahmenbedingungen f\u00fcr die unternehmerische T\u00e4tigkeit der Landwirte, auch im Hinblick auf die Situation der Landwirte im europ\u00e4ischen Wettbewerb, von gro\u00dfer Bedeutung sind. Dabei geht es unter anderem um den Fachkr\u00e4ftemangel, den Wert der dualen Ausbildung, Lieferketten und Nachhaltigkeit bis hin zum B\u00fcrokratieabbau. Zweck der Interessenvertretung ist es, die Sicht der Praxis zu vermitteln und Impulse zur Verbesserung der gesamtwirtschaftlichen Lage zu geben.\r\n\r\nZudem werden Austausch- und Informationsveranstaltungen organisiert, zu denen regelm\u00e4\u00dfig auch Mitglieder des Deutschen Bundestages und der Bundesministerien eingeladen werden, um diese von unseren Positionen zu \u00fcberzeugen.\r\n\r\nDar\u00fcber hinaus werden in Einzelf\u00e4llen auch Stellungnahmen und Gutachten zu konkreten Regelungsvorhaben erarbeitet und \u00fcbermittelt.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_AF_FOOD_SAFETY",
+                "de": "Lebensmittelsicherheit",
+                "en": "Food safety"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_AF_AQUACULTURE",
+                "de": "Fischerei/Aquakultur",
+                "en": "Fishery/aquaculture"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/79/e4/341505/Jahresbericht_2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.5,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 340001,
+            "to": 350000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Frankfurt am Main",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Eschborner Landstra\u00dfe",
+            "streetNumber": "122",
+            "type": "NATIONAL",
+            "zipCode": "60489"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "s.zwoll@dlg.org",
+            "phoneNumber": "+493084318574",
+            "street": "Podbielskiallee",
+            "streetNumber": "25 - 27",
+            "type": "NATIONAL",
+            "zipCode": "14195"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "lobbyregister@dlg.org"
+                }
+            ],
+            "phoneNumber": "+4969247880",
+            "websites": [
+                {
+                    "website": "www.dlg.org"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Dipl.-Ing. agr.",
+                "firstName": "Hubertus",
+                "lastName": "Paetow",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Lothar",
+                "lastName": "H\u00f6velmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Rudolf",
+                "lastName": "Hepp",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Stefan",
+                "lastName": "Zwoll",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Tobias",
+                "lastName": "Eichberg",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Jens",
+                "lastName": "Kremer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr.",
+                "firstName": "Nils",
+                "lastName": "Borchard",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Freya",
+                "lastName": "von Czettritz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Erik",
+                "lastName": "Guttulsr\u00f6d",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Christian",
+                "lastName": "Grachtrup",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Dipl.-Ing. agr.",
+                "entrustedPerson": true,
+                "firstName": "Hubertus",
+                "function": "Pr\u00e4sident und Vorstandsvorsitzender",
+                "lastName": "Paetow",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Lothar",
+                "function": "Hauptgesch\u00e4ftsf\u00fchrer",
+                "lastName": "H\u00f6velmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Rudolf",
+                "function": "Stellvertretender Hauptgesch\u00e4ftsf\u00fchrer",
+                "lastName": "Hepp",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "Dr. med. vet.",
+                "academicDegreeBefore": "Prof.",
+                "entrustedPerson": false,
+                "firstName": "Katharina",
+                "function": "Vizepr\u00e4sidentin und stellvertretende Vorstandsvorsitzende",
+                "lastName": "Riehn",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Ing. agr.",
+                "entrustedPerson": false,
+                "firstName": "Ren\u00e9",
+                "function": "Vizepr\u00e4sident und stellvertretender Vorstandsvorsitzender",
+                "lastName": "D\u00f6belt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "Dr.",
+                "academicDegreeBefore": "Prof.",
+                "entrustedPerson": false,
+                "firstName": "Till",
+                "function": "Vizepr\u00e4sident und stellvertretender Vorstandsvorsitzender",
+                "lastName": "Meinel",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": false,
+                "firstName": "Diedrich",
+                "function": "Vizepr\u00e4sident und stellvertretender Vorstandsvorsitzender",
+                "lastName": "Harms ",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Msc. agr.",
+                "entrustedPerson": false,
+                "firstName": "Philipp",
+                "function": "Vizepr\u00e4sident und stellvertretender Vorstandsvorsitzender",
+                "lastName": "Schulze Esking",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-12-31",
+            "naturalPersons": 30597,
+            "organizations": 827,
+            "totalCount": 31424
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "ADT - Arbeitsgemeinschaft Deutscher Tierz\u00fcchter e.V."
+            },
+            {
+                "membership": "AFEMA - Arbeitsgruppe zur F\u00f6rderung von Eutergesundheit und Milchhygiene in den Alpenl\u00e4ndern e.V"
+            },
+            {
+                "membership": "AGF - Arbeitsgemeinschaft Getreideforschung e.V."
+            },
+            {
+                "membership": "Aktionsb\u00fcndnis Forum Natur "
+            },
+            {
+                "membership": "ALB Hessen - Arbeitsgemeinschaft f\u00fcr Rationalisierung, Landtechnik und Bauwesen in der Landwirtschaft Hessen e.V."
+            },
+            {
+                "membership": "Bauernverband Salzland e.V. "
+            },
+            {
+                "membership": "BerufsVerband Oectrophologie e.V."
+            },
+            {
+                "membership": "BFL - Bauf\u00f6rderung Landwirtschaft"
+            },
+            {
+                "membership": "Bundesverband Rind und Schwein e.V."
+            },
+            {
+                "membership": "BVE - Bundesvereinigung der Deutschen Ern\u00e4hrungsindustrie e.V."
+            },
+            {
+                "membership": "COPA-COGECA"
+            },
+            {
+                "membership": "DBV - Deutscher Bauernverband e.V."
+            },
+            {
+                "membership": "DGAR - Deutsche Gesellschaft f\u00fcr Agrarrecht - Vereinigung f\u00fcr Agrar- und Umweltrecht e.V."
+            },
+            {
+                "membership": "Deutsche Gesellschaft f\u00fcr Sensorik DGSens"
+            },
+            {
+                "membership": "DGFZ - Deutsche Gesellschaft f\u00fcr Z\u00fcchtungskunde e.V."
+            },
+            {
+                "membership": "DIN - Deutsches Institut f\u00fcr Normung e.V."
+            },
+            {
+                "membership": "DJH - Deutsches Jugendherbergswerk"
+            },
+            {
+                "membership": "dti - Deutsches Tiefk\u00fchlinstitut e.V."
+            },
+            {
+                "membership": "DWV - Deutscher Weinbauverband e.V."
+            },
+            {
+                "membership": "FEI - Forschungskreis der Ern\u00e4hrungsindustrie e.V."
+            },
+            {
+                "membership": "FML Forum Moderne Landwirtschaft e.V."
+            },
+            {
+                "membership": "FN - Deutsche Reiterliche Vereinigung e.V. (F\u00e9d\u00e9ration \u00c9questre Nationale)"
+            },
+            {
+                "membership": "F\u00f6rderergesellschaft f\u00fcr Fleischforschung e.V. - FG Kulmbach"
+            },
+            {
+                "membership": "F\u00f6rderverein Deutsches Landwirtschaftsmuseum e.V. Stuttgart (Hohenheim)"
+            },
+            {
+                "membership": "GDL Gesellschaft Deutscher Lebensmitteltechnologeben"
+            },
+            {
+                "membership": "GEFA - German Export Association for Food and Agri Products"
+            },
+            {
+                "membership": "Gemeinschaft der F\u00f6rderer und Freunde der Milchforschung in Kiel e.V."
+            },
+            {
+                "membership": "Geschmackstage Deutschland e.V. "
+            },
+            {
+                "membership": "Gesellschaft der Freunde des vTI e.V. - Johann Heinrich von Th\u00fcnen Institut "
+            },
+            {
+                "membership": "Gesellschaft f\u00fcr Pflanzenbauwissenschaften e.V."
+            },
+            {
+                "membership": "GfA - Gesellschaft f\u00fcr Agrargeschichte e.V."
+            },
+            {
+                "membership": "GKL - Gesellschaft f\u00fcr Kunststoffe im Landbau"
+            },
+            {
+                "membership": "IHK Frankfurt am Main"
+            },
+            {
+                "membership": "KWF - Kuratorium f\u00fcr Waldarbeit und Forsttechnik e.V."
+            },
+            {
+                "membership": "RAL - Deutsches Institut f\u00fcr G\u00fctesicherung und Kennzeichnung"
+            },
+            {
+                "membership": "Stiftung f\u00fcr Begabtenf\u00f6rderung der Deutschen Landwirtschaft"
+            },
+            {
+                "membership": "UFI - Union des Foires Internationales - The Global Association of the Exhibition Industry"
+            },
+            {
+                "membership": "UNIKA - Union der Deutschen Kartoffelwirtschaft e.V."
+            },
+            {
+                "membership": "VDBI - Verband der deutschen Binnenfischerei und Aquakultur e.V."
+            },
+            {
+                "membership": "VDLUFA - Verband deutscher landwirtschaftlicher Forschungs- und Untersuchungsanstalten e.V."
+            },
+            {
+                "membership": "VDVO - Verband der Veranstaltungsorganisatoren e.V."
+            },
+            {
+                "membership": "Verband Deutsches Reisemanagement e.V."
+            },
+            {
+                "membership": "Vereinigung zur F\u00f6rderung der Milchwissenschaftlichen Forschung an der Technischen Universit\u00e4t M\u00fcnchen in Freising-Weihenstephan e.V."
+            },
+            {
+                "membership": "VFT - Verein Futtermitteltest e.V."
+            },
+            {
+                "membership": "VLI - Verbindungsstelle Landwirtschaft-Industrie e.V."
+            },
+            {
+                "membership": "VLK - Verband der Landwirtschaftskammern e.V."
+            },
+            {
+                "membership": "Zentrale zur Bek\u00e4mpfung unlauteren Wettbewerbs Frankfurt am Main e.V."
+            },
+            {
+                "membership": "ZDG - Zentralverband der Deutschen Gefl\u00fcgelwirtschaft e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Deutsche Landwirtschafts-Gesellschaft e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 2390001,
+            "to": 2400000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Kollektive Modelle zur F\u00f6rderung der Biodiversit\u00e4t / Bundesprogramm Biologische Vielfalt (KoMBI), Teilvorhaben: Kommunikation in der Praxis",
+                "location": "K\u00f6ln",
+                "name": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt e.V.",
+                "publicAllowanceEuro": {
+                    "from": 360001,
+                    "to": 370000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "D4AgEcol will show the potentials of digitalisation as enabler for agroecological farming\r\nsystems in Europe based on available knowledge and actors' and stakeholders' co-innovation\r\ncapacity . Partners from seven countries across a wide spectrum of pedoclimatic zones in Europe\r\nwill assemble a holistic evaluation of digital tools and technologies. This will be based on indicators\r\nfor agroecology, economic considerations and investigations about perceived benefits for user\r\nand stakeholder. Drivers, barriers and risks of digital technologies for a transformation towards\r\nagroecology will be identified. The results of this analysis will feed in national and European\r\nroadmaps for agroecology, indicating the need for adjusted policies and a technology research\r\nand innovation agenda.",
+                "location": "Br\u00fcssel",
+                "name": "EU",
+                "publicAllowanceEuro": {
+                    "from": 60001,
+                    "to": 70000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Smart Transformation Labs als virtuelle Zukunftsbetriebe f\u00fcr die Region\r\nMitteldeutschland zur Begleitung von betrieblichen digitalen Transformationsprozessen f\u00fcr eine\r\nmoderne und nachhaltige Landbewirtschaftung/TRANSFORM",
+                "location": "Bonn",
+                "name": "BLE",
+                "publicAllowanceEuro": {
+                    "from": 240001,
+                    "to": 250000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "K\u00f6rnerleguminosen und andere Sommerungen f\u00fcr klimaangepasste und\r\nnachhaltige Fruchtfolgen aus und f\u00fcr Forschung und Praxis (RotaKlim) im Rahmen der \"Ackerbaustrategie 2035\" des BMEL",
+                "location": "Bonn",
+                "name": "BLE",
+                "publicAllowanceEuro": {
+                    "from": 490001,
+                    "to": 500000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "ERASMUS+ Horizon / Das Projekt verfolgt mehrere Ziele: 1) Develop ecological restoration curricula for VETs\r\ntargeting pressing needs of (future) professionals\u2019 across sectors to successfully implement\r\nEuropean green strategies; 2) Design and implement vocational education programs in ecological\r\nrestoration, engaging multiple actors from the public, private and non-profit sectors; 3) Use and\r\nadvancement of demonstration sites to spur hands-on skills and competences for VET on\r\necological restoration; 4) Develop a digital toolbox for VET in ecological restoration;",
+                "location": "Br\u00fcssel",
+                "name": "EU",
+                "publicAllowanceEuro": {
+                    "from": 90001,
+                    "to": 100000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Advanced biodiversity monitoring for results-based and effective\r\nagricultural policy and transformation / BioMonitor4CAP Unsustainable agricultural practices are major drivers affecting habitat and species diversity in agricultural landscapes of the EU. However, peatland, grassland, and species associated with agriculture are of most concern. The ongoing negative impacts of unsustainable agricultural\r\npractices emphasize the need for a fully integrated approach between the EU 2030 Biodiversity and Farm to Fork Strategies.",
+                "location": "Br\u00fcssel",
+                "name": "EU",
+                "publicAllowanceEuro": {
+                    "from": 1100001,
+                    "to": 1110000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Entwicklung einer praxistauglichen Methodik zur ganzheitlichen und systematischen Nachhaltigkeitsbewertung von Lebensmittelverpackungen zur Optimierung der Nachhaltigkeit von Verpackungen entlang der Wertsch\u00f6pfungskette",
+                "location": "Osnabr\u00fcck",
+                "name": "Deutsche Bundesstiftung Umwelt",
+                "publicAllowanceEuro": {
+                    "from": 90001,
+                    "to": 100000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Living-lab approach to floral enrichment as a tool to conserve biodiversity\r\nand maximising ecosystem services in European agricultural landscapes / ConservES",
+                "location": "Br\u00fcssel",
+                "name": "EU",
+                "publicAllowanceEuro": {
+                    "from": 50001,
+                    "to": 60000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "StronGER: Stressreduktion durch (teil-)mobile Schlachtung\r\n",
+                "location": "Bonn/Berlin",
+                "name": "BMEL",
+                "publicAllowanceEuro": {
+                    "from": 80001,
+                    "to": 90000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "KoMBi: Kollektive Modelle zur F\u00f6rderung der Biodiversit\u00e4t\r\n",
+                "location": "Bonn",
+                "name": "BfN",
+                "publicAllowanceEuro": {
+                    "from": 610001,
+                    "to": 620000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R004830/42611",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-08-07T13:46:40.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/73/c5/341506/Lobbyregister-Detailansicht-R004830-2024-08-07_13-46-40.pdf",
+        "validFromDate": "2024-08-07T13:46:40.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 42611,
+    "registerNumber": "R004830",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "TierSchG",
+                        "title": "Tierschutzgesetz",
+                        "url": "https://www.gesetze-im-internet.de/tierschg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Verbot der Anbindehaltung; Reduzierung der Durchf\u00fchrung nicht-kurativer Eingriffe bei Tieren",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_ANIMAL",
+                        "de": "Tierschutz",
+                        "en": "Animal welfare"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/brd/2024/0256-24.pdf",
+                        "issuer": "BR",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMEL",
+                                "title": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft",
+                                "url": "https://www.bmel.de/DE/Home/home_node.html"
+                            }
+                        ],
+                        "printingNumber": "256/24",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-%C3%A4nderung-des-tierschutzgesetzes-und-des-tiererzeugnisse-handels-verbotsgesetzes/312317",
+                        "title": "Entwurf eines Gesetzes zur \u00c4nderung des Tierschutzgesetzes und des Tiererzeugnisse-Handels-Verbotsgesetzes"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0003524",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/7d/b3/301167/Stellungnahme-Gutachten-SG2406190016.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                        "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                        "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-01"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0003524",
+                        "regulatoryProjectTitle": "Gesetzes\u00e4nderungsvorhaben Tierschutzgesetz",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Stellungnahme des DLG-Ausschusses Milchproduktion und Rinderhaltung im \r\nRahmen der Beteiligung nach \u00a7 47 der Gemeinsamen Gesch\u00e4ftsordnung der \r\nBundesministerien zum Referentenentwurf eines Gesetzes zur \u00c4nderung des \r\nTierschutzgesetzes und des Tiererzeugnisse-Handels-Verbotsgesetzes\r\nSehr geehrte Frau Dr. Schertl, \r\nsehr geehrte Damen und Herren, \r\nvielen Dank f\u00fcr die M\u00f6glichkeit zur Stellungnahme zum Referentenentwurf eines \r\nGesetzes zur \u00c4nderung des Tierschutzgesetzes und des Tiererzeugnisse-Handels\u0002Verbotsgesetzes. Im Folgenden bringen wir einige Punkte vor, die nach unserer \r\nAuffassung eine Anpassung erfordern:\r\nGrunds\u00e4tzliches Verbot Tiere angebunden zu halten:\r\nIn Artikel 1 \u00a7 2b (1) sind Umst\u00e4nde aufgef\u00fchrt, im Rahmen derer die Anbindung von \r\nTieren zul\u00e4ssig ist. Hier ist der Unterpunkt \u201eTierschauen, Tierausstellungen, Tierauk\u0002tionen, Messen\u201c einzuf\u00fcgen. Die Tiere werden dort nur f\u00fcr einen kurzen und vertret\u0002baren Zeitraum angebunden. Sie stammen in der Regel aus verschiedenen Her\u0002k\u00fcnften. Das Aufstallen in Anbindung verhindert Rangk\u00e4mpfe unter den Tieren und \r\nvermeidet damit Stress und unn\u00f6tige Verletzungen. \r\nIm Referentenentwurf ist in \u00a7 21 (1 a) eine f\u00fcnfj\u00e4hrige \u00dcbergangszeit f\u00fcr Betriebe \r\nmit Anbindehaltung vorgesehen. Insbesondere f\u00fcr Betriebe, die ihre Tierhaltung wei\u0002terf\u00fchren m\u00f6chten, ist diese \u00dcbergangsfrist zu kurz gew\u00e4hlt, denn f\u00fcr die Planung \r\nbetrieblicher Alternativen, Sicherstellung der Finanzierung, Bauantragstellung, Bau\u0002genehmigung und Finalisierung einer Bauma\u00dfnahme, ist ein F\u00fcnfjahreszeitraum zu \r\nkurz. Eine zehnj\u00e4hrige \u00dcbergangsfrist schafft mehr Umsetzungsspielraum und ist an \r\ndieser Stelle angemessen.\r\nReduzierung der Durchf\u00fchrung nicht-kurativer Eingriffe:\r\nDer vorgesehene Einsatz von Bet\u00e4ubungsmitteln bei der Enthornung von K\u00e4lbern \r\nw\u00fcrde zwingend die Durchf\u00fchrung gemeinsam mit dem Tierarzt erfordern. Dies \r\nw\u00fcrde die personellen Kapazit\u00e4ten der Gro\u00dftierarztpraxen in Deutschland schlicht\u0002weg \u00fcberfordern. Diese personelle L\u00fccke ist mangels Bewerber f\u00fcr Gro\u00dftierpraxen \r\nnicht schlie\u00dfbar.\r\n2\r\nDie Folge wird sein, dass weder f\u00fcr die Bestandsbetreuung, f\u00fcr kurative Arbeiten, \r\nnoch f\u00fcr die zunehmende Arbeit, auch im Hinblick auf die Antibiotikadatenbank und \r\ndie Verbesserungspl\u00e4ne f\u00fcr die 25% abfallenden Betriebe, genug Zeit zur Verf\u00fc\u0002gung steht, mit allen negativen Folgen auch im Bereich des Tierschutzes. \r\nEin wichtiger Aspekt ist, dass ein Teil der Betriebe ggf. nicht mehr Enthornen w\u00fcrde. \r\nDies h\u00e4tte zur Folge, dass in den Herden genetisch hornlose Tiere sowie enthornte\r\nzusammen mit horntragenden Tieren laufen. Aus Tierschutzsicht ist dies bedenk\u0002lich, da dies zu erheblichen Verletzungen in Rahmen von Rangk\u00e4mpfen bei den Tie\u0002ren f\u00fchren kann.\r\nWenn eine Sedierung mittels Lokalan\u00e4sthesie vorgeschrieben wird, muss hierf\u00fcr \r\ndas Bet\u00e4ubungsmittelgesetz ge\u00e4ndert werden, so dass die Enthornung, \u00e4hnlich wie \r\nin der Schweiz, nach vorheriger Schulung, durch den Landwirt durchgef\u00fchrt werden \r\nkann.\r\nEs gibt eine praktikable Alternative zur lokalen Schmerzausschaltung f\u00fcr die eine \r\n\u00c4nderung des Tierschutzgesetzes nicht erforderlich ist: Mittels lokaler Bet\u00e4ubung \r\ndurch Eisspray in Kombination mit einem Sedativum und Schmerzmittel. Dies f\u00fchrt \r\nzu deutlich geringeren Abwehrreaktionen. Dazu gibt es eine Studie des Tiergesund\u0002heitsdienst Bayern und der LMU M\u00fcnchen: https://www.lfl.bay\u0002ern.de/mam/cms07/publikationen/daten/informationen/schonendes-vero\u0002eden-hornanlagen-kaelber_lfl-information.pdf"
+                        }
+                    }
+                ],
+                "title": "Gesetzes\u00e4nderungsvorhaben Tierschutzgesetz"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/7d/b3/301167/Stellungnahme-Gutachten-SG2406190016.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-01"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0003524",
+                "regulatoryProjectTitle": "Gesetzes\u00e4nderungsvorhaben Tierschutzgesetz",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Stellungnahme des DLG-Ausschusses Milchproduktion und Rinderhaltung im \r\nRahmen der Beteiligung nach \u00a7 47 der Gemeinsamen Gesch\u00e4ftsordnung der \r\nBundesministerien zum Referentenentwurf eines Gesetzes zur \u00c4nderung des \r\nTierschutzgesetzes und des Tiererzeugnisse-Handels-Verbotsgesetzes\r\nSehr geehrte Frau Dr. Schertl, \r\nsehr geehrte Damen und Herren, \r\nvielen Dank f\u00fcr die M\u00f6glichkeit zur Stellungnahme zum Referentenentwurf eines \r\nGesetzes zur \u00c4nderung des Tierschutzgesetzes und des Tiererzeugnisse-Handels\u0002Verbotsgesetzes. Im Folgenden bringen wir einige Punkte vor, die nach unserer \r\nAuffassung eine Anpassung erfordern:\r\nGrunds\u00e4tzliches Verbot Tiere angebunden zu halten:\r\nIn Artikel 1 \u00a7 2b (1) sind Umst\u00e4nde aufgef\u00fchrt, im Rahmen derer die Anbindung von \r\nTieren zul\u00e4ssig ist. Hier ist der Unterpunkt \u201eTierschauen, Tierausstellungen, Tierauk\u0002tionen, Messen\u201c einzuf\u00fcgen. Die Tiere werden dort nur f\u00fcr einen kurzen und vertret\u0002baren Zeitraum angebunden. Sie stammen in der Regel aus verschiedenen Her\u0002k\u00fcnften. Das Aufstallen in Anbindung verhindert Rangk\u00e4mpfe unter den Tieren und \r\nvermeidet damit Stress und unn\u00f6tige Verletzungen. \r\nIm Referentenentwurf ist in \u00a7 21 (1 a) eine f\u00fcnfj\u00e4hrige \u00dcbergangszeit f\u00fcr Betriebe \r\nmit Anbindehaltung vorgesehen. Insbesondere f\u00fcr Betriebe, die ihre Tierhaltung wei\u0002terf\u00fchren m\u00f6chten, ist diese \u00dcbergangsfrist zu kurz gew\u00e4hlt, denn f\u00fcr die Planung \r\nbetrieblicher Alternativen, Sicherstellung der Finanzierung, Bauantragstellung, Bau\u0002genehmigung und Finalisierung einer Bauma\u00dfnahme, ist ein F\u00fcnfjahreszeitraum zu \r\nkurz. Eine zehnj\u00e4hrige \u00dcbergangsfrist schafft mehr Umsetzungsspielraum und ist an \r\ndieser Stelle angemessen.\r\nReduzierung der Durchf\u00fchrung nicht-kurativer Eingriffe:\r\nDer vorgesehene Einsatz von Bet\u00e4ubungsmitteln bei der Enthornung von K\u00e4lbern \r\nw\u00fcrde zwingend die Durchf\u00fchrung gemeinsam mit dem Tierarzt erfordern. Dies \r\nw\u00fcrde die personellen Kapazit\u00e4ten der Gro\u00dftierarztpraxen in Deutschland schlicht\u0002weg \u00fcberfordern. Diese personelle L\u00fccke ist mangels Bewerber f\u00fcr Gro\u00dftierpraxen \r\nnicht schlie\u00dfbar.\r\n2\r\nDie Folge wird sein, dass weder f\u00fcr die Bestandsbetreuung, f\u00fcr kurative Arbeiten, \r\nnoch f\u00fcr die zunehmende Arbeit, auch im Hinblick auf die Antibiotikadatenbank und \r\ndie Verbesserungspl\u00e4ne f\u00fcr die 25% abfallenden Betriebe, genug Zeit zur Verf\u00fc\u0002gung steht, mit allen negativen Folgen auch im Bereich des Tierschutzes. \r\nEin wichtiger Aspekt ist, dass ein Teil der Betriebe ggf. nicht mehr Enthornen w\u00fcrde. \r\nDies h\u00e4tte zur Folge, dass in den Herden genetisch hornlose Tiere sowie enthornte\r\nzusammen mit horntragenden Tieren laufen. Aus Tierschutzsicht ist dies bedenk\u0002lich, da dies zu erheblichen Verletzungen in Rahmen von Rangk\u00e4mpfen bei den Tie\u0002ren f\u00fchren kann.\r\nWenn eine Sedierung mittels Lokalan\u00e4sthesie vorgeschrieben wird, muss hierf\u00fcr \r\ndas Bet\u00e4ubungsmittelgesetz ge\u00e4ndert werden, so dass die Enthornung, \u00e4hnlich wie \r\nin der Schweiz, nach vorheriger Schulung, durch den Landwirt durchgef\u00fchrt werden \r\nkann.\r\nEs gibt eine praktikable Alternative zur lokalen Schmerzausschaltung f\u00fcr die eine \r\n\u00c4nderung des Tierschutzgesetzes nicht erforderlich ist: Mittels lokaler Bet\u00e4ubung \r\ndurch Eisspray in Kombination mit einem Sedativum und Schmerzmittel. Dies f\u00fchrt \r\nzu deutlich geringeren Abwehrreaktionen. Dazu gibt es eine Studie des Tiergesund\u0002heitsdienst Bayern und der LMU M\u00fcnchen: https://www.lfl.bay\u0002ern.de/mam/cms07/publikationen/daten/informationen/schonendes-vero\u0002eden-hornanlagen-kaelber_lfl-information.pdf"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-01-17T15:43:52.000+01:00",
+                "untilDate": "2023-12-11T11:53:51.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-01-08T16:11:21.000+01:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2023-12-11T11:53:51.000+01:00"
+            }
+        ],
+        "lastUpdateDate": "2023-07-09T12:09:47.000+02:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2023-12-11T11:53:51.000+01:00",
+                "legislation": "GL2022",
+                "registerEntryId": 23198,
+                "validFromDate": "2023-07-09T12:09:47.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 13956,
+                "validFromDate": "2023-01-10T17:24:41.000+01:00",
+                "validUntilDate": "2023-07-09T12:09:47.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 951,
+                "validFromDate": "2022-01-17T15:43:52.000+01:00",
+                "validUntilDate": "2023-01-10T17:24:41.000+01:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Beratung und Informationen mit dem Schwerpunkten Mittelstand, Media und Entertainment Industrie, Veranstaltungswirtschaft, zu den Themen Innovation, Digitalisierung, Nachhaltigkeit, Kreislaufwirtschaft und Remanufacturing.",
+        "activityOperationType": "BOTH",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ECONOMY_HANDCRAFT",
+                "de": "Handwerk",
+                "en": "Handcraft"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_MEDIA_OTHER",
+                "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                "en": "Other in the field of \"Media, communication and information technology\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_CULTURE",
+                "de": "Kultur",
+                "en": "Culture"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "annualReports": {
+        "annualReportExists": false,
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true
+    },
+    "clientIdentity": {
+        "clientOrganizations": [
+            {
+                "address": {
+                    "city": "Backnang",
+                    "country": {
+                        "code": "DE",
+                        "de": "Deutschland",
+                        "en": "Germany"
+                    },
+                    "street": "Eugen-Adolff-Stra\u00dfe",
+                    "streetNumber": "134",
+                    "type": "NATIONAL",
+                    "zipCode": "71522"
+                },
+                "contactDetails": {
+                    "emails": [
+                        {
+                            "email": "robert.trebus@dbaudio.com"
+                        }
+                    ],
+                    "phoneNumber": "+4915157100848",
+                    "websites": [
+                        {
+                            "website": "www.dbaudio.com"
+                        }
+                    ]
+                },
+                "legalForm": {
+                    "code": "LF_GMBH",
+                    "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+                    "en": "Limited liability company (GmbH)"
+                },
+                "legalFormType": {
+                    "code": "JURISTIC_PERSON",
+                    "de": "Juristische Person",
+                    "en": "Legal person"
+                },
+                "legalRepresentatives": [
+                    {
+                        "commonFirstName": "Robert",
+                        "emails": [
+                            {
+                                "email": "robert.trebus@dbaudio.com"
+                            }
+                        ],
+                        "function": "Direktor",
+                        "lastName": "Trebus",
+                        "phoneNumber": "+4915157100848"
+                    }
+                ],
+                "name": "d&b audiotechnik GmbH&Co KG"
+            }
+        ],
+        "clientsPresent": true
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Backnang",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Eugen-Adolf-Str.",
+            "streetNumber": "134",
+            "type": "NATIONAL",
+            "zipCode": "71522"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "robert.trebus@dbaudio.com"
+                }
+            ],
+            "phoneNumber": "+4971919669756",
+            "websites": [
+                {
+                    "website": "www.dbaudio.com"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Robert",
+                "emails": [
+                    {
+                        "email": "robert.trebus@dbaudio.com"
+                    }
+                ],
+                "function": "Direktor Global Sustainability",
+                "lastName": "Trebus",
+                "phoneNumber": "+4915157100848"
+            }
+        ],
+        "membersPresent": false,
+        "membershipsPresent": false,
+        "name": "d&b audiotechnik GmbH&CoKG",
+        "namedEmployeesPresent": false
+    },
+    "publicAllowances": {
+        "refusePublicAllowancesInformation": true
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-07-09T12:09:47.000+02:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000020/23198",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/ca/2f/220434/Lobbyregister-Detailansicht-R000020-2023-07-09_12-09-47.pdf",
+        "refusedAnything": true,
+        "validFromDate": "2023-07-09T12:09:47.000+02:00",
+        "version": 4
+    },
+    "registerEntryId": 23198,
+    "registerNumber": "R000020"
+}

@@ -10,19 +10,19 @@
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Andere IntegrityWatch-Plattformen
+          Europäische Integrity-Watch-Plattformen
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="https://www.integritywatch.eu/" target="_blank">EU</a>
-          <a class="dropdown-item" href="https://www.integritywatch.fr/" target="_blank">France</a>
-          <a class="dropdown-item" href="https://www.integritywatch.gr/" target="_blank">Greece</a>
-          <a class="dropdown-item" href="http://www.soldiepolitica.it/" target="_blank">Italy</a>
-          <a class="dropdown-item" href="https://deputatiuzdelnas.lv/" target="_blank">Latvia</a>
-          <a class="dropdown-item" href="https://manoseimas.lt/" target="_blank">Lithuania</a>
-          <a class="dropdown-item" href="https://www.integritywatch.nl/" target="_blank">Netherlands</a>
-          <a class="dropdown-item" href="http://varuhintegritete.transparency.si/" target="_blank">Slovenia</a>
-          <a class="dropdown-item" href="https://integritywatch.es/" target="_blank">Spain</a>
-          <a class="dropdown-item" href="https://openaccess.transparency.org.uk/" target="_blank">United Kingdom</a>
+          <a class="dropdown-item" href="https://www.integritywatch.fr/" target="_blank">Frankreich</a>
+          <a class="dropdown-item" href="https://www.integritywatch.gr/" target="_blank">Griechenland</a>
+          <a class="dropdown-item" href="http://www.soldiepolitica.it/" target="_blank">Italien</a>
+          <a class="dropdown-item" href="https://deputatiuzdelnas.lv/" target="_blank">Lettland</a>
+          <a class="dropdown-item" href="https://manoseimas.lt/" target="_blank">Litauen</a>
+          <a class="dropdown-item" href="https://www.integritywatch.nl/" target="_blank">Niederlande</a>
+          <a class="dropdown-item" href="http://varuhintegritete.transparency.si/" target="_blank">Slowenien</a>
+          <a class="dropdown-item" href="https://integritywatch.es/" target="_blank">Spanien</a>
+          <a class="dropdown-item" href="https://openaccess.transparency.org.uk/" target="_blank">Vereinigtes Königreich</a>
         </div>
       </li>
       <li class="nav-item">
@@ -30,6 +30,9 @@
       </li>
     </ul>
     <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a href="https://www.transparency.de/jetzt-spenden" target="_blank" class="nav-link red-link">JETZT SPENDEN</a>
+      </li>
       <li class="nav-item">
         <a href="./about" class="nav-link nav-link-about">Über uns</a>
       </li>

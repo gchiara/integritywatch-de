@@ -1,0 +1,554 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-02-21T13:15:55.000+01:00",
+                "untilDate": "2024-07-02T00:12:09.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-21T13:15:55.000+01:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-07-02T00:12:09.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2023-02-21T09:30:18.000+01:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2024-07-02T00:12:09.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 16585,
+                "validFromDate": "2023-02-21T09:30:18.000+01:00",
+                "version": 2,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 2595,
+                "validFromDate": "2022-02-21T13:15:55.000+01:00",
+                "validUntilDate": "2023-02-21T09:30:18.000+01:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Der VCI NRW vertritt die wirtschaftspolitischen Interessen von etwa 500 in NRW ans\u00e4ssigen deutschen Chemieunternehmen und deutschen Tochterunternehmen ausl\u00e4ndischer Konzerne gegen\u00fcber Politik, Beh\u00f6rden, anderen Bereichen der Wirtschaft, der Wissenschaft und den Medien. Die Branche setzte 2020 rund 50 Milliarden Euro um und besch\u00e4ftigte \u00fcber 100.000 Mitarbeiter. Sitz des VCI NRW ist D\u00fcsseldorf.  Die Verbandspolitik wird von einem ehrenamtlichen Vorstand und der Gesch\u00e4ftsf\u00fchrung unter Mitarbeit einiger Fachaussch\u00fcsse gestaltet.",
+        "activityOperationType": "SELF_OPERATED",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_LAW_CRIMINAL",
+                "de": "Strafrecht",
+                "en": "Criminal law"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_EP_CHILDHOOD",
+                "de": "Vorschulische Bildung",
+                "en": "Early childhood education"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_HEALTH_MEDICINE",
+                "de": "Arzneimittel",
+                "en": "Medicine"
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "clientIdentity": {
+        "clientsPresent": false
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 20001,
+            "to": 30000
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "D\u00fcsseldorf",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "postBox": "260104",
+            "type": "POSTBOX",
+            "zipCode": "40094"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "muehlen@nrw.vci.de"
+                }
+            ],
+            "phoneNumber": "+492116793143",
+            "websites": [
+                {
+                    "website": "www.vci.de/nrw"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_NIA",
+            "de": "Nicht rechtsf\u00e4higer Verein",
+            "en": "Non-incorporated association"
+        },
+        "legalFormType": {
+            "code": "OTHER_ASSOCIATION_OF_PERSONS",
+            "de": "Sonstige Personenvereinigungen",
+            "en": "Other associations of persons"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Thomas",
+                "emails": [
+                    {
+                        "email": "info@nrw.vci.de"
+                    }
+                ],
+                "function": "Vorsitzender des Vorstandes",
+                "lastName": "Wessel",
+                "phoneNumber": "+492116793143"
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Klaus",
+                "emails": [
+                    {
+                        "email": "info@nrw.vci.de"
+                    }
+                ],
+                "function": "Stellvertretender Vorsitzender des Vorstandes",
+                "lastName": "Sch\u00e4fer",
+                "phoneNumber": "+492116793143"
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Dirk",
+                "emails": [
+                    {
+                        "email": "info@nrw.vci.de"
+                    }
+                ],
+                "function": "Mitglied des Vorstandes",
+                "lastName": "Backhaus",
+                "phoneNumber": "+492116793143"
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Anno",
+                "emails": [
+                    {
+                        "email": "info@nrw.vci.de"
+                    }
+                ],
+                "function": "Mitglied des Vorstandes",
+                "lastName": "Borkowsky",
+                "phoneNumber": "+492116793143"
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Patrick",
+                "emails": [
+                    {
+                        "email": "info@nrw.vci.de"
+                    }
+                ],
+                "function": "Mitglied des Vorstandes",
+                "lastName": "Giefers",
+                "phoneNumber": "+492116793143"
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Daniel",
+                "emails": [
+                    {
+                        "email": "info@nrw.vci.de"
+                    }
+                ],
+                "function": "Mitglied des Vorstandes",
+                "lastName": "Kleine",
+                "phoneNumber": "+492116793143"
+            },
+            {
+                "commonFirstName": "Gilles",
+                "emails": [
+                    {
+                        "email": "info@nrw.vci.de"
+                    }
+                ],
+                "function": "Mitglied des Vorstandes",
+                "lastName": "Le Van",
+                "phoneNumber": "+492116793143"
+            },
+            {
+                "commonFirstName": "Ralf",
+                "emails": [
+                    {
+                        "email": "info@nrw.vci.de"
+                    }
+                ],
+                "function": "Mitglied des Vorstandes",
+                "lastName": "Nitscke",
+                "phoneNumber": "+492116793143"
+            },
+            {
+                "commonFirstName": "Frank",
+                "emails": [
+                    {
+                        "email": "info@nrw.vci.de"
+                    }
+                ],
+                "function": "Mitglied des Vorstandes",
+                "lastName": "Hyldmar",
+                "phoneNumber": "+492116793143"
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Tammo",
+                "emails": [
+                    {
+                        "email": "info@nrw.vci.de"
+                    }
+                ],
+                "function": "Mitglied des Vorstandes",
+                "lastName": "Boinowitz",
+                "phoneNumber": "+492116793143"
+            },
+            {
+                "commonFirstName": "Hans-J\u00fcrgen",
+                "emails": [
+                    {
+                        "email": "muehlen@nrw.vci.de"
+                    }
+                ],
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Mittelstaedt",
+                "phoneNumber": "+492116793143"
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Matthias",
+                "emails": [
+                    {
+                        "email": "info@nrw.vci.de"
+                    }
+                ],
+                "function": "Mitglied des Vorstandes",
+                "lastName": "Gotta",
+                "phoneNumber": "+492116793143"
+            },
+            {
+                "commonFirstName": "Matthias",
+                "emails": [
+                    {
+                        "email": "info@nrw.vci.de"
+                    }
+                ],
+                "function": "Mitglied des Vorstandes",
+                "lastName": "Oekmicke",
+                "phoneNumber": "+492117693143"
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-02-16",
+            "totalCount": 455
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Unternehmer NRW e.V."
+            },
+            {
+                "membership": "Cluster industrielle Biotechnologie e.V."
+            },
+            {
+                "membership": "BioRiver e.V."
+            },
+            {
+                "membership": "Klimadiskurs NRW e.V."
+            },
+            {
+                "membership": "Zukunft durch Industrie e.V."
+            },
+            {
+                "membership": "Rheinisch-Westf\u00e4lisches Institut f\u00fcr Wirtschaftsforschung e.V."
+            },
+            {
+                "membership": "Kunststoffland NRW e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Verband der chemischen Industrie e.V. Landesverband Nordrhein-Westfalen",
+        "namedEmployeesPresent": false
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "publicAllowancesPresent": false,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-02-21T09:30:18.000+01:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000741/16585",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/09/74/193592/Lobbyregister-Detailansicht-R000741-2023-02-21_09-30-18.pdf",
+        "refusedAnything": false,
+        "validFromDate": "2023-02-21T09:30:18.000+01:00",
+        "version": 2
+    },
+    "registerEntryId": 16585,
+    "registerNumber": "R000741"
+}

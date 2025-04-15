@@ -1,0 +1,732 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-01-27T16:50:04.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-28T12:31:58.000+01:00",
+        "lastUpdateDate": "2024-08-02T12:37:24.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 38771,
+                "validFromDate": "2024-08-02T12:37:24.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37447,
+                "validFromDate": "2024-06-17T16:03:31.000+02:00",
+                "validUntilDate": "2024-08-02T12:37:24.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 33936,
+                "validFromDate": "2024-05-27T09:47:54.000+02:00",
+                "validUntilDate": "2024-06-17T16:03:31.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 30942,
+                "validFromDate": "2024-04-15T13:07:20.000+02:00",
+                "validUntilDate": "2024-05-27T09:47:54.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 13919,
+                "validFromDate": "2023-01-27T16:50:04.000+01:00",
+                "validUntilDate": "2024-04-15T13:07:20.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION_V2",
+            "de": "Sonstiges Unternehmen",
+            "en": "Other company"
+        },
+        "activityDescription": "Qualcomm ist weltweit f\u00fchrender Entwickler von Halbleitern, Informations- und Mobilfunktechnologie und K\u00fcnstlicher Intelligenz. In Deutschland arbeitet Qualcomm an acht Standorten mit ca. 2.000 hochqualifizierten Mitarbeitern an Technologien, die f\u00fcr die erfolgreiche digitale Transformation deutscher und europ\u00e4ischer Industrien von strategisch wichtiger Bedeutung sind. Weltweit besch\u00e4ftigt Qualcomm ca. 40.000 Mitarbeitende und erzielte im Jahr 2023 einen Umsatz von 36 Mrd. USD.\r\n \r\nIm Zuge der Interessenvertretung werden Gespr\u00e4che mit Vertreterinnen und Vertretern des Deutschen Bundestages und der Bundesregierung zu den aufgef\u00fchrten Themen gef\u00fchrt. Dar\u00fcber hinaus werden die Mitgliedschaften in den aufgef\u00fchrten Verb\u00e4nden genutzt, um auf Veranstaltungen mit Entscheidungstr\u00e4gern und Entscheidungstr\u00e4gerinnen in Kontakt zu treten. Regelm\u00e4\u00dfig werden Anh\u00f6rungen und Fachveranstaltungen besucht, um die eigenen Positionen zu vertreten ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_EU_SAFETY_POLICY",
+                "de": "Gemeinsame Au\u00dfen- und Sicherheitspolitik der EU",
+                "en": "Common foreign and security policy of the EU"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_IS_CYBER",
+                "de": "Cybersicherheit",
+                "en": "Cyber security"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_ECONOMY_AUTOMOBILE",
+                "de": "Automobilwirtschaft",
+                "en": "Automotive industry"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_ECONOMY_ECOMMERCE",
+                "de": "E-Commerce",
+                "en": "E-commerce"
+            },
+            {
+                "code": "FOI_FA_BRD",
+                "de": "Au\u00dfenpolitik",
+                "en": "Foreign policy of the federal republic of Germany"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_MEDIA_COPYRIGHT",
+                "de": "Urheberrecht",
+                "en": "Copyright"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/e5/34/340115/QualcommCDMAGmbHTestat2022.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-09-30",
+        "relatedFiscalYearStart": "2021-10-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.0,
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 650001,
+            "to": 660000
+        },
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "M\u00fcnchen",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Anzinger Str.",
+            "streetNumber": "13",
+            "type": "NATIONAL",
+            "zipCode": "81671"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "bsokolow@qti.qualcomm.com"
+                }
+            ],
+            "phoneNumber": "+4915155478942",
+            "websites": [
+                {
+                    "website": "https://www.qualcomm.com"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Juliana",
+                "lastName": "Koza",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Benjamin",
+                "lastName": "Sokolowski",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Wassim",
+                "lastName": "Chourbaji",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Alex",
+                "lastName": "Rogers",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Anne-Lise",
+                "lastName": "Thieblemont",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Hamid",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Nazeman",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Benjamin",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Sokolowski",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Kathryn Elizabeth",
+                "function": "Managing Director",
+                "lastName": "Turner",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Bitkom e.V."
+            },
+            {
+                "membership": "Gr\u00fcner Wirtschaftsdialog e.V."
+            },
+            {
+                "membership": "American Chamber of Commerce Germany e.V."
+            },
+            {
+                "membership": "ZVEI e.V. "
+            },
+            {
+                "membership": "Wirtschaftsrat der CDU e.V."
+            },
+            {
+                "membership": "SPD Wirtschaftsforum e.V."
+            },
+            {
+                "membership": "Verband der Automobilindustrie e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Qualcomm Germany GmbH"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002043/38771",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-08-02T12:37:24.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/15/df/340116/Lobbyregister-Detailansicht-R002043-2024-08-02_12-37-24.pdf",
+        "validFromDate": "2024-08-02T12:37:24.000+02:00",
+        "version": 8
+    },
+    "registerEntryId": 38771,
+    "registerNumber": "R002043",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Der Vorschlag der EU-Kommission f\u00fcr eine Verordnung \u00fcber standardessentielle Patente stellt einen weitreichenden Eingriff in das aktuelle Lizensierungs- und Standardisierungssystem standardessentieller Patente dar. Wir streben gegen\u00fcber Entscheidungstr\u00e4gern eine Verbesserung des Vorschlags der EU-Kommission in seinen westentlichen Bereichen (Rechtsgrundlage der vorgeschlagenen Ma\u00dfnahmen, Einrichtung eines Kompetenzzentrums, SEP-Registrierung, Pr\u00fcfung der Essentialit\u00e4t, Kumulierte Lizenzgeb\u00fchren) an.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0000320",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/6d/3a/294687/Stellungnahme-Gutachten-SG2406170115.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                        "de": "Bundeskanzleramt (BKAmt)",
+                                        "en": "Bundeskanzleramt (BKAmt)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-30"
+                            },
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-17"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0000320",
+                        "regulatoryProjectTitle": "\u00c4nderung des Vorschlags der EU Kommission zu standardessentiellen Patenten (EU 2017/1001)",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "1\r\nKonsultation des Bundesministeriums der Justiz zum Verordnungsvorschlag der Europ\u00e4ischen Kommission zum Thema \u201eStandardessentielle Patente\u201c\r\nStellungnahme von Qualcomm\r\nEinf\u00fchrung\r\nQualcomm dankt dem Bundesministerium der Justiz f\u00fcr die Gelegenheit, zum j\u00fcngsten Vorschlag der Europ\u00e4ischen Kommission zur Regulierung standardessenzieller Patente (SEPs) Stellung zu nehmen. Wir freuen uns, als eines der erfahrensten Unternehmen in diesem Bereich, unsere Gedanken und Einsch\u00e4tzungen hierzu mitzuteilen. Derzeit kann sich Qualcomm auf mehrere Hundert in Kraft stehende SEP-Lizenzvereinbarungen berufen (darunter \u00fcber 150 im Bereich 5G), \u00fcber die mehr als 18 Milliarden Mobilfunkger\u00e4te weltweit und \u00fcber 250 Millionen vernetzte Fahrzeuge lizensiert sind.\r\n\u00dcber Qualcomm\r\nQualcomm ist ein Pionier im Bereich Mobilfunk und nimmt damit eine f\u00fchrende Rolle in der kontinuierlichen Weiterentwicklung von Mobilfunksystemen ein. Gerne berufen wir uns bei Qualcomm auf eine reiche Vergangenheit an grundlegenden technologischen Durchbr\u00fcchen, die f\u00fcr die Konzeption und Implementierung von 2G-, 3G- und 4G-Mobilfunksystemen entscheidend waren. Wir sind nicht nur ein Vorreiter bei 5G, sondern streben auch an, eine vergleichbare Rolle bei der Umstellung auf 6G einzunehmen.\r\nDas Gesch\u00e4ftsmodell von Qualcomm basiert auf Offenheit und gegenseitiger Kooperation. Wir sind ein starker Bef\u00fcrworter und langj\u00e4hriger Mitwirkender des vor 35 Jahren geschaffenen europ\u00e4ischen Standardisierungssystems. Unserer Ansicht nach sind gemeinsame Standards entscheidend f\u00fcr den Aufbau offener \u00d6kosysteme, in denen alle Marktteilnehmer gemeinsam an der Entwicklung neuer Technologien mitwirken, indem sie ihre besten Innovationen einbringen. Der konsensbasierte und leistungsorientierte Charakter des kollaborativen Standardisierungsprozesses hat zur Entwicklung von Spitzentechnologien gef\u00fchrt.\r\nUnser umfassendes und flexibles Lizenzierungs- und Technologie-Transferprogramm im Bereich Mobilfunk sorgt f\u00fcr einen raschen technologischen Fortschritt und mehr Wettbewerb im gesamten \u00d6kosystem. Durch eine f\u00fchrende Rolle bei unseren Standardisierungsbem\u00fchungen k\u00f6nnen wir bedeutsame technologische Entwicklungen den Lizenznehmern zur Verf\u00fcgung stellen, die Ihnen die Herstellung weltweit fortschrittlichster Produkte und Ger\u00e4te erm\u00f6glicht. Unser Lizenzierungs- und\r\n5775 Morehouse Drive, San Diego, CA 92121\r\nwww.qualcomm.com\r\nQualcomm Incorporated\r\n2\r\nTechnologie-Transferprogramm, unsere Partnerschaften mit dem gesamten \u00d6kosystem und unsere Dienstleistungen beschleunigen das Wachstum der Mobilfunkbranche, senken die Eintrittsbarrieren, f\u00f6rdern den Wettbewerb, schaffen gleiche Wettbewerbsbedingungen und machen letztendlich so technologische Fortschritte im Mobilfunkt f\u00fcr mehr Menschen \u00fcber alle sozio\u00f6konomischen Schichten hinweg zug\u00e4nglich.\r\nIn den letzten vier Jahren hat Qualcomm \u00fcber drei Milliarden Euro in Deutschland investiert. Qualcomm besch\u00e4ftigt in Deutschland derzeit rund 2.000 Mitarbeitende, \u00fcberwiegend Ingenieurinnen und Ingenieure, an acht Standorten, darunter in M\u00fcnchen, wo Halbleiter und mikroelektronische Komponenten entwickelt und produziert werden. In Ingolstadt, N\u00fcrnberg und Berlin liegt der Schwerpunkt unserer Aktivit\u00e4ten auf der Forschung und Entwicklung rund um das \"digitale Chassis\" f\u00fcr die Automobilindustrie. Dar\u00fcber hinaus ist Qualcomm mit Standorten in Freiburg, Gelsenkirchen, Unterschlei\u00dfheim und Sulzbach vertreten. Qualcomm unterh\u00e4lt langj\u00e4hrige und intensive Partnerschaften mit der deutschen Industrie, darunter Telekommunikationsunternehmen (z. B. Deutsche Telekom, Vodafone Deutschland), Automobil-hersteller (BMW, Volkswagen, Mercedes), industrielle IoT-Anbieter (Bosch, Siemens), Infrastrukturanbieter (Ericsson, Nokia), Forschungsorganisationen (z. B. Fraunhofer-Institute) und Universit\u00e4ten (z. B. Technische Universit\u00e4t M\u00fcnchen, Technische Universit\u00e4t Kaiserslautern).\r\n\u00dcberblick \u00fcber unsere Stellungnahme\r\nWir haben unsere Stellungnahme nach den neun in der Konsultation genannten Themen gegliedert. Dennoch ermutigen wir das Ministerium, nicht nur diese neun Themen, sondern auch den Gesamtkontext der vorgeschlagenen Verordnung \u2013 das globale Standardisierungssystem \u2013 zu ber\u00fccksichtigen.\r\nDas globale Standardisierungssystem funktioniert gut, weil es zum einen Anreize f\u00fcr Unternehmen schafft, ihre fortschrittlichsten Technologien innerhalb der Standardisierung einzubringen, und zum anderen, da speziell durch FRAND-Verpflichtungen sichergestellt wird, dass Implementierer gleiche Wettbewerbsbedingungen vorfinden. Diese FRAND-Verpflichtung sorgt daf\u00fcr, dass Implementierer einen Zugang zu der jeweiligen standardisierten Technologie zu fairen, angemessenen und nichtdiskriminierenden Bedingungen erhalten. Das System ist jedoch freiwillig. Die Innovatoren entscheiden freiwillig, ob sie mit ihren entwickelten Technologien zu Standards beitragen oder nicht; auch entscheiden die Implementierer freiwillig, ob sie Produkte unter Umsetzung von Standards herstellen oder eben nicht. Analog gilt dies auch f\u00fcr standardessenzielle Patente (SEPs). SEPs sind keine eigenst\u00e4ndige und losgel\u00f6ste Gattung von Rechten des geistigen Eigentums. Vielmehr sind SEPs in erster Linie Patente \u2013 ungeachtet ob standardessenziell oder nicht \u2013 bei denen sich der Patentinhaber freiwillig daf\u00fcr entschieden hat, die zugrundeliegende Technologie in den formalen Standardisierung-Prozess einzubringen. Eine derartige Entscheidung birgt jedoch Unw\u00e4gbarkeiten:\r\n3\r\nOb die zugrundeliegende Technologie anschlie\u00dfend tats\u00e4chlich auch in den Standard aufgenommen wird, entzieht sich \u00fcblicherweise dem Einfluss des Patentinhabers.\r\nDie politischen Entscheidungstr\u00e4ger sollten sehr vorsichtig sein, wenn sie unterschiedliche Anforderungen an die Lizenzierung von standardessenziellen Patenten gegen\u00fcber denen f\u00fcr die Lizenzierung von anderen Patenten stellen. W\u00fcrden gegen\u00fcber dem Status quo mehr SEPs lizenziert als andere Patente, dann w\u00fcrden Implementierer standardisierter Technologien h\u00e4ufiger mit Lizenzierungsforderungen konfrontiert und m\u00fcssten dabei mit absolut gesehen h\u00f6heren Lizenzgeb\u00fchren rechnen. Unter sonst gleichen Bedingungen k\u00f6nnten Implementierer daraufhin geneigt sein, nicht-standardisierte L\u00f6sungen den standardisierten Technologien vorzuziehen. W\u00fcrden gegen\u00fcber dem Status quo weniger SEPs lizenziert als andere Patente, dann k\u00f6nnten die Patentinhaber erw\u00e4gen, ihre Erfindungen aus dem formalen Standardisierungs-Prozess herauszuhalten \u2013 insbesondere die besten und innovativsten Erfindungen.\r\nSo oder so, wenn sich die Anforderungen f\u00fcr die Lizenzierung von SEPs stark von denen f\u00fcr die Lizenzierung anderer Patente unterscheiden, besteht ein hohes Risiko, dass das globale Standardisierungssystems destabilisiert wird, welches, insbesondere durch ETSI, der europ\u00e4ischen Industrie und den Verbrauchern bisher sehr gute Dienste geleistet hat, indem es die technologische Souver\u00e4nit\u00e4t von Europa untermauert. Dies st\u00e4nde im Widerspruch zu, unter anderem, der j\u00fcngst ver\u00f6ffentlichte China-Strategie der Bundesregierung und der angestrebten St\u00e4rkung des europ\u00e4ischen Standardisierungssystems.\r\nWir kommen nun zu den neun Themen.\r\n1. Rechtsgrundlage der Ma\u00dfnahmen\r\nEs gibt keine Grundlage f\u00fcr die Annahme, dass es durch die unterschiedlichen Ans\u00e4tze der Gerichte der Mitgliedstaaten zu Handelshemmnissen zwischen den Mitgliedstaaten kommen k\u00f6nnte. Klar ist: Standardessentielle Patente (SEPs) sind Patentrechte. Die europ\u00e4ischen Institutionen haben jahrzehntelang an der Harmonisierung des Patentrechts gearbeitet, unter anderem mit dem im Oktober 1970 in M\u00fcnchen unterzeichneten Europ\u00e4ischen Patent\u00fcbereinkommen (EP\u00dc), der Richtlinie 2004/48/EG des Europ\u00e4ischen Parlaments und des Rates vom 29. April 2004 zur Durchsetzung der Rechte des geistigen Eigentums (sog. Enforcement Directive) und der Einrichtung und Er\u00f6ffnung des Einheitlichen Patentgerichts (engl.: Unified Patent Court, UPC) am 1. Juni 2023. Es gibt keine Anzeichen daf\u00fcr, dass verbleibende Unterschiede im Patentrecht \u201eHandelshemmnisse zwischen den Mitgliedstaaten\" schaffen. Vielmehr wird das Patentrecht in der Union in Zukunft unzweifelhaft weiter harmonisiert werden, z.B. indem die zu erwartende umfangreiche und ausdifferenzierte Rechtsprechung des UPCs \u00fcber nationale Grenzen hinweg Anwendung findet.\r\n4\r\nAuch die Behauptung, dass \u201ees f\u00fcr die Gerichte der Mitgliedstaaten schwierig [sei], eine genaue und konsistente Bestimmung der jeweiligen FRAND-Lizenzen vorzunehmen\", rechtfertigt die vorgeschlagenen Ma\u00dfnahmen nicht. Erstens gibt es keinen genauen Satz von Bedingungen, die \u201eFRAND\u201c sind. Die Gerichte haben vielmehr einheitlich anerkannt, dass ein Bereich von Bedingungen (eine sog. \u201eFRAND range\u201c) FRAND sein kann. Ein Patentinhaber erf\u00fcllt seine FRAND-Verpflichtungen, indem er einen beliebigen Satz von Bedingungen innerhalb dieses FRAND-Bereichs anbietet. So entschied beispielsweise das Berufungsgericht von England und Wales in [2018] EWCA Civ 23441:\r\n\"121. Wir sind zu einer anderen Schlussfolgerung als der Richter gekommen, was die Frage angeht, ob es nur einen Satz von FRAND-Bedingungen f\u00fcr einen bestimmten Sachverhalt geben kann. Patentlizenzen sind komplex und k\u00f6nnen unter Ber\u00fccksichtigung der gesch\u00e4ftlichen Priorit\u00e4ten der beteiligten Unternehmen und der Erfahrungen und Pr\u00e4ferenzen der beteiligten Personen unterschiedlich strukturiert sein, z. B. in Bezug auf die einzelnen Vertragsparteien, die in die Lizenz einzubeziehenden Rechte, den geografischen Geltungsbereich der Lizenz, die zu lizenzierenden Produkte, die Lizenzgeb\u00fchren und deren Bemessung sowie die Zahlungsbedingungen. Au\u00dferdem lassen sich Begriffe wie Fairness und Angemessenheit nicht ohne weiteres mit einem solch starren Ansatz vereinbaren. Unseres Erachtens ist es irreal zu glauben, dass zwei Parteien, die fair und angemessen handeln, zwangsl\u00e4ufig zu genau denselben Lizenzbedingungen kommen wie zwei andere Parteien, die ebenfalls fair und angemessen handeln und mit denselben Umst\u00e4nden konfrontiert sind. Im Gegenteil, die Realit\u00e4t sieht so aus, dass ein Bereich von Bedingungen unter bestimmten Umst\u00e4nden fair und angemessen sein kann.\r\nZweitens gibt es keinen Grund zu der Annahme, dass es dem vorgeschlagenen beh\u00f6rdlichen EUIPO \u201eKompetenzzentrum\u201c leichter fallen w\u00fcrde, \u201eeine genaue und einheitliche Bestimmung der jeweiligen FRAND-Lizenzen vorzunehmen\" als den Gerichten der Mitgliedstaaten. Im Gegenteil, die Gerichte verf\u00fcgen \u00fcber bekannte und wohl etablierte Vorschriften und Verfahren, z.B. in Bezug auf die Beweisaufnahme, die M\u00f6glichkeit zur Stellungnahme, zum Kreuzverh\u00f6r von Zeugen und f\u00fcr die Beauftragung von Sachverst\u00e4ndigen, die in den vorgeschlagenen Ma\u00dfnahmen schlicht fehlen. Dar\u00fcber hinaus sind die Gerichte der Mitgliedstaaten und das UPC bereits mit Richtern besetzt, die \u00fcber fundierte Erfahrungen bei der Entscheidung von Patentstreitigkeiten verf\u00fcgen und deren Integrit\u00e4t unbestritten ist. Das vorgeschlagene Kompetenzzentrum wird demgegen\u00fcber erst fachkundige Schlichter (engl. Conciliators) rekrutieren bzw. an sich binden m\u00fcssen, indem es beispielsweise erst derzeitige und ehemalige, mit Patentstreitigkeiten betraute Richter der Gerichte der Mitgliedstaaten abwirbt.\r\n1 Berufungsgericht von England and Wales Entscheidung [2018] EWCA Civ 2344 (23. Oktober 2018)\r\n5\r\n2. Einrichtung eines Kompetenzzentrums beim Amt der Europ\u00e4ischen Union f\u00fcr geistiges\r\nEigentum (EUIPO)\r\nDie Ma\u00dfnahmen w\u00fcrden ein umfangreiches Regelwerk schaffen, welches eine gro\u00dfe Zahl hochspezialisierter Mitarbeiter und erheblichen Verwaltungsaufwand erfordern w\u00fcrde. Wie weiter unten n\u00e4her ausgef\u00fchrt wird, ist ein Gro\u00dfteil des vorgeschlagenen \u201eKompetenzzentrums\" eine unn\u00f6tige Duplizierung von Strukturen, die bereits an anderer Stelle bereitgestellt werden. Dar\u00fcber hinaus verf\u00fcgt das EUIPO \u00fcber keinerlei Erfahrungen oder Fachwissen in Bezug auf die vorgeschlagenen Aufgaben des Kompetenzzentrums au\u00dfer der Verwaltung eines Registers f\u00fcr SEPs. In einem Interview vom Juni 2023 sagte der Exekutivdirektor des EUIPO, Christian Archambeau, Folgendes \u00fcber die Rolle des Kompetenzzentrums2 : \"Wie man sieht, wird das EUIPO kein \u201eExperte\u201c in Patentfragen sein, sondern als Verwaltungseinheit mit einem transparenten Registrierungssystem und einer Datenbank arbeiten, Informationen \u00fcber SEPs und Lizenzgeb\u00fchren sammeln sowie externes Fachpersonal wie Gutachter und Schlichter koordinieren, um eine breite Palette von Informationen \u00fcber SEPs und Verfahren zur Erleichterung von SEP-Lizenzverhandlungen anzubieten.\" Doch selbst f\u00fcr die Sammlung von Informationen \u00fcber SEPs und Lizenzgeb\u00fchren muss eine Beh\u00f6rde \u00fcber Erfahrung und Fachwissen auf dem entsprechenden Gebiet verf\u00fcgen, um sorgf\u00e4ltig, unparteiisch und gewissenhaft zu arbeiten.\r\nSollte somit weiterhin die Schaffung eines beh\u00f6rdlich gef\u00fchrten, transparenten Registrierungssystem und einer Datenbank beabsichtigt sein, l\u00e4sst sich lediglich feststellen, dass es unter der Zust\u00e4ndigkeit der Europ\u00e4ischen Kommission keine einzige Beh\u00f6rde gibt, die \u00fcber einschl\u00e4gige Erfahrungen oder Fachkenntnisse im Bereich der SEPs verf\u00fcgt. Damit gibt es auch keinen Grund zu der Annahme, dass wenn, ungeachtet des Fehlens einer nachweislichen Notwendigkeit, ein Kompetenzzentrum im EUIPO eingerichtet w\u00fcrde, dieses wesentlich schlechter funktionieren w\u00fcrde als anderswo. Zus\u00e4tzlich w\u00e4re aber zu bedenken, dass aus Gr\u00fcnden, die weiter unten erl\u00e4utert werden, die Aufgaben, f\u00fcr die das EUIPO Experten als Schlichter (engl. Conciliators) einstellen bzw. an sich binden m\u00fcsste, entweder schlecht konzipiert sind oder schon heute besser von bereits bestehenden Institutionen jenseitig der Zust\u00e4ndigkeit der Europ\u00e4ischen Kommission erledigt werden. Daher sollten zumindest diese in dem Verordnungsentwurf ersatzlos gestrichen werden. Mit der Abschaffung des Bedarfs an Schlichtern w\u00fcrde sich die komplexe Aufgabe des Aufbaus des EUIPO-Apparats erheblich vereinfachen und das EUIPO in die Lage versetzt, sich besser auf die Unterst\u00fctzung von kleinen und mittleren Unternehmen (KMU) konzentrieren zu k\u00f6nnen, wie z.B. die Bereitstellung von Beratungs-Dienstleistungen f\u00fcr KMUs.\r\n2 IAM Medien: Die Rolle des EUIPO wird die eines Vermittlers sein, nicht die eines SEP-Deal-Makers (6. Juli 2023)\r\n6\r\n3. SEP-Registrierung\r\nDas Konzept eines SEP-Registers ist sinnvoll, wenn ein allgemeiner Bedarf besteht und dadurch praktische Hindernisse beseitigt werden. Dies k\u00f6nnte z.B. bei SEPs im Mobilfunkbereich gegeben sein, weil (a) in der Mobilfunkbranche viele Lizenzen vergeben werden und (b) die \u00f6ffentlich zug\u00e4nglichen Informationen innerhalb einer Datenbank (d.h. der ETSI-Datenbank) in Form von Erkl\u00e4rungen zu einer m\u00f6glichen Essentialit\u00e4t organisiert sind und diese oft schon sehr fr\u00fch im Standardisierungsprozess abgegeben werden (die ETSI-IPR Richtlinie verlangt die Informationen \"zeitnah\"). Ungeachtet dessen wird die ETSI-Datenbank oft als Ersatz f\u00fcr Informationen \u00fcber tats\u00e4chlich standardessenzielle Patente missbraucht.\r\nDiese Unzul\u00e4nglichkeiten im Mobilfunkbereich rechtfertigen jedoch nicht eine allgemeing\u00fcltige Pflicht zur Registrierung von SEPs, f\u00fcr jedwede Standards, inklusive derer, f\u00fcr die nur eine unerhebliche Anzahl an Lizenzen vergeben werden. Die Registrierung an sich ist mit erheblichen Kosten verbunden und die Pr\u00fcfung der Essentialit\u00e4t (siehe unten) w\u00fcrde noch mehr Kosten verursachen. Es ist unwahrscheinlich, dass diese Kosten in angemessener Relation zu einem Bedarf stehen, wenn keine erhebliche Lizenzierungst\u00e4tigkeit stattfindet. Dementsprechend sollten die Ma\u00dfnahmen dahingehend abge\u00e4ndert werden, dass eine Registrierung nur f\u00fcr die Standards vorgeschrieben ist, bei denen eindeutig nachgewiesen ist, dass der allgemeine Bedarf f\u00fcr die Registrierung von SEPs gegen\u00fcber den Kosten \u00fcberwiegt.\r\nEs sollte auch ber\u00fccksichtigt werden, dass die Industrie selbst daran arbeitet, die Transparenz bei essenziellen Patenten zu erh\u00f6hen. Innerhalb des ETSI laufen Diskussionen \u00fcber Verbesserungen der ETSI-Datenbank, und die Akteure der Branche er\u00f6rtern auch alternative L\u00f6sungen au\u00dferhalb des ETSI. Zudem haben kommerzielle Drittanbieter von Informationen sich bereits bem\u00fcht, diesen Markt zu erschlie\u00dfen. Vor diesem Hintergrund sind die vorgeschlagenen Ma\u00dfnahmen m\u00f6glicherweise nicht einmal f\u00fcr SEPs im Mobilfunkbereich notwendig.\r\nWenn die allgemeing\u00fcltige Pflicht zur Registrierung tats\u00e4chlich beabsichtig ist, dann sollte sie auch in ausgewogener Weise umgesetzt werden. Derzeit scheint dies nicht gegeben zu sein, da die vorgeschlagenen Ma\u00dfnahmen den Patentinhabern alle Verpflichtungen und praktisch alle direkten und indirekten Kosten auferlegen. Somit w\u00e4re es vielmehr interessengerecht auch von den Implementierern dieselbe Transparenz zu verlangen, und zwar in Form eines Registers, das alle standard-konformen Produkte auflistet, in dem auch die jeweiligen Aspekte des Standards offengelegt werden, die von dem Produkt angewandt werden.\r\n7\r\n4. Pr\u00fcfung der Essentialit\u00e4t\r\nEine vollst\u00e4ndige Bewertung der vorgeschlagenen Ma\u00dfnahmen zur Pr\u00fcfung der Essentialit\u00e4t ist aufgrund der Unvollst\u00e4ndigkeit des Vorschlags aktuell nicht m\u00f6glich. Bisher sehen die Ma\u00dfnahmen eine stichprobenartige \u00dcberpr\u00fcfung eines Teils der registrierten SEPs gro\u00dfer Unternehmen vor. Ziel der Stichprobe ist es, das Verh\u00e4ltnis zwischen positiv gepr\u00fcften SEPs gegen\u00fcber allen registrierten SEPs von jedem SEP-Inhaber zu ver\u00f6ffentlichen.\r\nOb ein solches ver\u00f6ffentlichtes Verh\u00e4ltnis eine n\u00fctzliche Information darstellt, oder zu Fehlinformationen f\u00fchrt, h\u00e4ngt davon ab, wie zuverl\u00e4ssig die Pr\u00fcfung der Essentialit\u00e4t und wie solide die Stichprobenmethodik ist. In den vorgeschlagenen Ma\u00dfnahmen werden jedoch weder die Methodik f\u00fcr die Pr\u00fcfung der Essentialit\u00e4t noch die Methodik f\u00fcr die Stichproben festgelegt. Stattdessen werden sie einer sp\u00e4teren Festlegung \u00fcberlassen. In Anbetracht der ehrgeizigen Ziele, die in der Pressemitteilung3 der Kommission dargelegt werden, n\u00e4mlich \"...einen weltweiten Ma\u00dfstab f\u00fcr die Transparenz von SEPs zu setzen...\", ist dieses Vorgehen unangemessen und unzureichend. Wenn die Pr\u00fcfung der Essentialit\u00e4t \u00fcberhaupt in die Ma\u00dfnahmen einbezogen werden soll, dann m\u00fcssten darin auch von vornherein verl\u00e4ssliche Methoden verankert sein.\r\nDies ist insbesondere angesichts der Auswirkungen auf eine zweckm\u00e4\u00dfige Nutzung der ver\u00f6ffentlichten Informationen von Bedeutung. Wie in der Studie: Baron J. et. al., \u201eEssentiality Checks for Potential SEPs - A Framework for Assessing the Impact of Different Policy Options\u201c European Commission, DG GRow, 2023, die im Auftrag der Europ\u00e4ischen Kommission als Teil der Erarbeitung der vorgeschlagenen Ma\u00dfnahmen durchgef\u00fchrt wurde, erl\u00e4utert wird, ist ein Verh\u00e4ltnis, das \"pr\u00e4zise und sehr zuverl\u00e4ssig\" ist \u2013 d. h. das potenziell in einer auf Patentz\u00e4hlung basierenden Bewertungsmethode verwendet werden k\u00f6nnte \u2013 \"nur f\u00fcr gro\u00dfe Portfolios m\u00f6glich\" (S. 73-74). Au\u00dferdem w\u00fcrde eine solche Kennzahl eine sehr gro\u00dfe Anzahl von zu pr\u00fcfenden Patenten erfordern (S. 74). Eine alternative Methode, bei der \"bei Portfolios mit weniger als 100 potenziellen SEPs nahezu alle Patente \u00fcberpr\u00fcft werden, w\u00e4hrend der Umfang, der aus gr\u00f6\u00dferen Portfolios gezogenen Stichproben zwischen 100 und 200 Patenten liegt, ... wird nicht zu Sch\u00e4tzungen der Essentialit\u00e4tsquoten in einzelnen Portfolios f\u00fchren, die sowohl sehr pr\u00e4zise als auch \u00e4u\u00dferst zuverl\u00e4ssig sind.\" (Baron J., a.a.O.) Eine solche alternative Methodik k\u00f6nnte potenziell n\u00fctzlich sein, um die Gesamtzahl der essentiellen Patente genau zu sch\u00e4tzen, und k\u00f6nnte zur Eingrenzung von Streitigkeiten oder sogar zur Sch\u00e4tzung der Essentialit\u00e4tsraten einzelner Portfolios zu Verhandlungszwecken durch \"bereitwillige Parteien\", die sich daf\u00fcr \"entscheiden\", verwendet werden. [Baron J., a.a.O., Hervorhebung im Original]. Aber diese alternative Methodik k\u00f6nnte ansonsten nicht zuverl\u00e4ssig in einer auf Patentz\u00e4hlung basierenden Bewertungsmethode verwendet werden.\r\n3 Pressemitteilung der Europ\u00e4ischen Kommission zu geistigem Eigentum: Harmonisierte EU-Patentvorschriften f\u00f6rdern Innovation, Investitionen und Wettbewerbsf\u00e4higkeit im Binnenmarkt (27. April 2023)\r\n8\r\nObwohl weder die Methodik f\u00fcr die Pr\u00fcfung der Essentialit\u00e4t noch die Stichprobenmethodik spezifiziert werden, lassen die Kostensch\u00e4tzungen in der Folgenabsch\u00e4tzung vermuten, dass die von der Kommission im Rahmen der Verordnung vorgesehene Methodik f\u00fcr die Pr\u00fcfung der Essentialit\u00e4t bezogen auf die Robustheit noch hinter der oben beschriebene Methode zur\u00fcckbleibt, die nach Aussage des von ihr beauftragten Sachverst\u00e4ndigen \"keine Sch\u00e4tzungen der Essentialit\u00e4tsquoten in den einzelnen Portfolios liefern w\u00fcrde, die sowohl sehr pr\u00e4zise als auch \u00e4u\u00dferst zuverl\u00e4ssig sind\". Wenn dies der Fall w\u00e4re, w\u00fcrde weder klar werden, was der beabsichtigte Nutzen (oder die Vorteile) solcher Pr\u00fcfungen sein k\u00f6nnten, noch ist es m\u00f6glich zu beurteilen, ob die von der Kommission behaupteten Vorteile auch nur ansatzweise realisiert w\u00fcrden.\r\n5. Kumulierte Lizenzgeb\u00fchren\r\nArtikel 1 (10) den Ma\u00dfnahmen definiert \"Gesamtlizenzgeb\u00fchr\" als \"der H\u00f6chstbetrag der Lizenzgeb\u00fchr f\u00fcr alle Patente, die f\u00fcr einen Standard essentiell sind\". Aus der Folgenabsch\u00e4tzung und anderen Texten, die dem Verordnungsvorschlag beigef\u00fcgt sind, geht weiterhin hervor, dass damit der tats\u00e4chliche Wert der Patente gemeint ist und nicht ein k\u00fcnstlich herabgesetzter Wert. Zudem legen die Ma\u00dfnahmen fest, dass das Kompetenzzentrum pro Standard zwei Arten von Informationen ver\u00f6ffentlichen w\u00fcrde: eine oder mehrere Erkl\u00e4rungen von SEP-Inhabern und eine \"nicht bindende Expertenmeinung\".\r\nIn Erw\u00e4gungsgrund (15) des Verordnungsvorschlags werden drei Ziele der Bestimmungen der Gesamtlizenzgeb\u00fchren genannt: (1) die Hersteller sollen wissen, was sie f\u00fcr die Lizensierung aller SEPs des durch ihre Produkte verwendeten Standards zahlen m\u00fcssen; (2) die Inhaber von SEP sollen ihre voraussichtliche Kapitalrendite planen k\u00f6nnen; und (3) soll ein Beitrag zur Erleichterung der Lizenzierung von SEP und zur Senkung der Kosten f\u00fcr die Lizenzierung von SEP geleistet werden. Damit einer dieser Vorteile zum Tragen kommt, m\u00fcssen die ver\u00f6ffentlichten Informationen pr\u00e4zise sein und die erwartete tats\u00e4chliche Lizenzgeb\u00fchr widerspiegeln. In ihrer jetzigen Form werden die Ma\u00dfnahmen keine zuverl\u00e4ssigen Informationen \u00fcber die Gesamtbelastung durch Lizenzgeb\u00fchren liefern.\r\nIn Bezug auf die Ver\u00f6ffentlichung von Erkl\u00e4rungen zur kumulierten Gesamtlizenzgeb\u00fchr von Patentinhabern haben Gerichte zu Recht festgestellt, dass solche Erkl\u00e4rungen eigenn\u00fctzig und daher von Natur aus unzuverl\u00e4ssig sind. So entschied beispielsweise der High Court of Justice von England und Wales in [2017] EWHC 711 (Pat)4:\r\n269. Meines Erachtens sind die oben genannten Aussagen aus mehreren Gr\u00fcnden f\u00fcr die Festlegung eines Referenzwertes heute wenig hilfreich. Die\r\n4 High Court of Justice von England und Wales, Entscheidung [2017] EWHC 711 (Pat) (5. April 2017)\r\n9\r\nBehauptungen sind offensichtlich eigenn\u00fctzig. Insbesondere die Aussagen \u00fcber die Gesamtlizenzgeb\u00fchren sind Aussagen \u00fcber das Geld anderer Personen auf der Grundlage, dass die Person, die die Aussage macht, gleichzeitig sagt, dass der Kuchen ziemlich klein ist, sie aber Anspruch auf ein gro\u00dfes St\u00fcck davon hat.\r\n270. Au\u00dferdem wird bei der Gewichtung dieser Erkl\u00e4rungen nicht ber\u00fccksichtigt, worauf sich Umsetzer und SEP-Inhaber in den vergangenen Jahren tats\u00e4chlich geeinigt haben. Im Vergleich zu \u00f6ffentlichen Erkl\u00e4rungen sind vergleichbare Lizenzen konkrete Datenpunkte.\r\nDa einige SEP-Inhaber auch wichtige Implementierer der Patente sind, die sicherlich auch an einer Abwertung von SEPs Interesse haben, wird es voraussichtlich auch Standards geben, bei denen es sogar widerspr\u00fcchliche Erkl\u00e4rungen von Patentinhabern zur kumulierten Gesamtlizenzgeb\u00fchr gibt.\r\nDas Verfahren f\u00fcr eine \"nicht bindende Expertenmeinung\" ist von vornherein unzuverl\u00e4ssig: Das Verfahren steht einer unbegrenzten Anzahl von Parteien offen (sie m\u00fcssen lediglich \"ein Interesse an SEPs nachweisen\" und eine Geb\u00fchr entrichten) (Artikel 18 Absatz 5), und sie alle k\u00f6nnen Dokumente einreichen, scheinbar ohne Begrenzung und einschlie\u00dflich vertraulicher Teile, die offenbar nicht an andere Teilnehmer weitergegeben werden (Artikel 18 Absatz 7). Es gibt keine Verfahrensordnung und insbesondere kein Recht einer Partei, auf die Eingaben anderer zu antworten oder von anderen Parteien Offenlegung bestimmter Informationen zu verlangen. Erschwerend kommt hinzu, dass die Beh\u00f6rde verpflichtet ist, das Verfahren durchzuf\u00fchren und innerhalb von acht Monaten eine Stellungnahme abzugeben.\r\nIn zwei der letzten drei gro\u00dfen FRAND-Entscheidungen aus England und Wales - Unwired Planet gegen Huawei und IDC gegen Lenovo \u2013 war es den sehr erfahrene Parteien nicht m\u00f6glich, zuverl\u00e4ssige Beweise vorzulegen, anhand derer die Gerichte eine Gesamtlizenzgeb\u00fchr ermitteln konnte, obgleich f\u00fcr beide Parteien Hunderte von Millionen Dollar an Lizenzgeb\u00fchren auf dem Spiel standen, beide Parteien Zugang zu den besten Experten und Anw\u00e4lten der Welt hatten, und die Gerichte nach wohl etablierten Vorschriften und Verfahren und mit viel mehr Zeit f\u00fcr die Entwicklung eines Falles operierten als das f\u00fcr in dem Verordnungsvorschlag vorgesehen ist (dort: acht Monate). In der dritten gro\u00dfen FRAND-Entscheidung aus England und Wales - Optis gegen Apple - wies das Gericht auch die Argumente beider Parteien zur\u00fcck, dass es einen einzigen korrekten, f\u00fcr alle geltenden Gesamtlizenzsatz gebe. Stattdessen berechnete es auf der Grundlage einer Untergruppe von Apples eigenen Lizenzvereinbarungen einen nur f\u00fcr Apple geltenden Gesamtlizenzsatz. Trotz aller Bem\u00fchungen der Parteien in jedem dieser F\u00e4lle fanden die Gerichte also keine zuverl\u00e4ssigen Beweise, aus denen sie einen allgemein anwendbaren Gesamtlizenzsatz ableiten konnten. Es gibt demnach keinen Grund zu glauben \u2013 und viele Gr\u00fcnde zu bezweifeln \u2013 dass das verk\u00fcrzte Verfahren f\u00fcr eine \"nicht bindende Expertenmeinung\" zu einem anderen Ergebnis f\u00fchren w\u00fcrde.\r\n10\r\nIm Ergebnis gibt es keinen Beweis daf\u00fcr, dass die Ver\u00f6ffentlichung von Erkl\u00e4rungen von SEP-Inhabern oder ein Verfahren f\u00fcr eine \u201enicht bindende Expertenmeinung\" \u00fcber eine Gesamtlizenzgeb\u00fchr brauchbare Informationen \u00fcber die kumulativen Gesamtlizenzkosten liefern oder Streitigkeiten \u00fcber Lizenzen verringern k\u00f6nnte. Im Gegenteil: die Rechtsstreitigkeiten zwischen bestimmten Autoherstellern und bestimmten SEP-Inhabern aus dem Mobilfunkbereich, die von Mitgliedern der Autoindustrie oft als Rechtfertigung f\u00fcr die Notwendigkeit einer Regulierung angef\u00fchrt werden, fanden statt, obwohl Informationen \u00fcber die Gesamtlizenzgeb\u00fchr verf\u00fcgbar waren. Die \"Gesamtkosten\" f\u00fcr das Avanci-Angebot betrug bekannterma\u00dfen 15 US-Dollar und wurde zwischen Avanci und den ersten beiden Auto-OEM-Lizenznehmern ohne Rechtsstreitigkeiten ausgehandelt. Es ist daher stark zu bezweifeln, ob die Ver\u00f6ffentlichung selbst genauer Informationen zu Gesamtkosten durch das EUIPO irgendeinen n\u00fctzlichen Zweck erf\u00fcllen w\u00fcrde. Selbst wenn dies der Fall w\u00e4re, w\u00fcrden die Ma\u00dfnahmen aus den oben genannten Gr\u00fcnden und aus der Unverbindlichkeit der ver\u00f6ffentlichten Informationen keine genauen Aussagen \u00fcber die tats\u00e4chlichen Kosten zulassen.\r\nSollten jedoch Informationen \u00fcber die kumulativen Gesamtlizenzkosten als n\u00fctzlich erachtet werden, dann k\u00f6nnte die Unsicherheit in den vorgeschlagenen Ma\u00dfnahmen zumindest teilweise dadurch beseitigt werden, dass die Implementierer aufgefordert werden, ihre bestehenden Lizenzvereinbarungen f\u00fcr SEPs vorzulegen. Aus den bestehenden Lizenzvereinbarungen k\u00f6nnte das Kompetenzzentrum die tats\u00e4chlichen Lizenzzahlungen zusammenstellen, anonymisieren und in einer Datenbank ver\u00f6ffentlichen. Die Datenbank w\u00fcrde die tats\u00e4chlichen kumulativen Lizenzzahlungen f\u00fcr jeden Implementierer, der ein Produkt auf dem EU-Markt vertreibt, und f\u00fcr jede Implementierung der Standards auf dem EU-Markt enthalten. Dabei w\u00e4re zwingend erforderlich, dass die Vorlage durch die Implementierer und nicht durch die Lizenzgeber erfolgt, da bei Lizenzen, bei denen die Verg\u00fctung als Pauschalzahlung vereinbart wurde, nur der Implementierer \u00fcber alle Informationen verf\u00fcgt (z.B. die Anzahl der im Rahmen der Lizenz verkauften Produkte), die das Kompetenzzentrum zur Berechnung der tats\u00e4chlichen Gesamtlizenzzahlungen ben\u00f6tigt. Da die Informationen in der Datenbank aus realen Lizenzen stammen w\u00fcrden, w\u00e4ren sie zuverl\u00e4ssiger.\r\n6. FRAND-Verfahren\r\nDie Teile der Ma\u00dfnahmen, die das FRAND-Verfahren betreffen, haben im Gro\u00dfen und Ganzen drei Ziele: a) Schaffung eines neuen beh\u00f6rdlichen Streitbeilegungsverfahrens f\u00fcr FRAND-Streitigkeiten, b) obligatorische Einleitung des neuen Verfahrens und c) Beschr\u00e4nkung des Zugangs zu EU-Gerichten f\u00fcr solche Streitigkeiten. Da der letztgenannte Punkt bereits Gegenstand von Abschnitt 8 ist, befasst sich dieser Abschnitt nur mit den beiden erstgenannten Punkten: die Schaffung und den obligatorischen Charakter des Verfahrens.\r\nIn ihrer jetzigen Form sind die Teile der Ma\u00dfnahmen, die das FRAND-Verfahren betreffen, so unzusammenh\u00e4ngend ausgestaltet, dass unklar ist, wie die Kommission das FRAND-Verfahren zu\r\n11\r\nhandhaben gedenkt. Einerseits sehen die Ma\u00dfnahmen vor, dass die Parteien zu Beginn des Verfahrens erkl\u00e4ren m\u00fcssen, ob sie an das Ergebnis des Verfahrens gebunden sind. Andererseits deuten einige Bestimmungen darauf hin, dass eine Partei ihren Standpunkt \u00e4ndern und sp\u00e4ter die Bindung verweigern kann, unabh\u00e4ngig davon, was sie zu Beginn des Verfahrens gesagt hat. Aus den Erw\u00e4gungsgr\u00fcnden5 ist lediglich zu entnehmen, dass f\u00fcr das FRAND-Verfahren nicht einmal beabsichtigt ist, dass es f\u00fcr irgendeine Partei zur Verpflichtung f\u00fchren soll, das Ergebnis zu befolgen. Stattdessen wird den Parteien die Wahl gelassen, ob sie sich an das Ergebnis halten wollen oder nicht \u2013 unklar ist dabei, ob diese Wahl von Anfang an getroffen werden muss oder aufgeschoben werden kann, bis das Ergebnis bekannt ist. Somit ist das FRAND-Verfahren faktisch freiwillig \u2013 die Teile, die die Einleitung des FRAND-Verfahrens zwingend vorschreiben, sind bestenfalls als ein Mechanismus zu verstehen, der die grundlegenden Rechte der Parteien auf Zugang zu Gerichten bei FRAND-Streitigkeiten (wenn auch vor\u00fcbergehend) beschr\u00e4nkt.\r\nAls freiwilliger Streitbeilegungsmechanismus erf\u00fcllt das FRAND-Verfahren dieselbe Funktion wie bestehende alternative Streitbeilegungsverfahren (engl.: Alternative Dispute Resolution, ADR), insbesondere Mediation und Schiedsverfahren unter der Schirmherrschaft bereits etablierter ADR-Einrichtungen wie der Weltorganisation f\u00fcr geistiges Eigentum (engl., World Intellectual Property Organization, WIPO) oder der Internationalen Handelskammer (engl.: International Chamber of Commerce, ICC). Da das FRAND-Verfahren im Rahmen der Ma\u00dfnahmen keine Entscheidung verlangt, ob das Ergebnis befolgt werden soll oder nicht, bis das Ergebnis bekannt ist, ist es im Wesentlichen identisch mit einer freiwilligen Schlichtung. Es gibt keinen Grund zur Annahme, dass ein FRAND-Verfahren vor dem EUIPO f\u00fcr die Parteien attraktiver oder f\u00fcr die Beilegung von Streitigkeiten n\u00fctzlicher w\u00e4re als die bestehenden Mediationsdienste. Ganz im Gegenteil: Da die derzeitigen Dienste bekannt sind und \u00fcber wohlverstandene und vertrauensw\u00fcrdige Vorschriften und Verfahren verf\u00fcgen, wird das EUIPO wahrscheinlich weniger attraktiv und weniger effektiv sein als die bereits bestehenden Mediationsdienste.\r\nW\u00fcrde hingegen das FRAND-Verfahren im Rahmen der Ma\u00dfnahmen von Anfang an eine bindende Erkl\u00e4rung erfordern (die sp\u00e4ter nicht mehr widerrufen werden kann), m\u00fcsste es am ehesten mit einem freiwilligen Schiedsverfahren verglichen werden. Daher erscheint es hilfreich, die Attraktivit\u00e4t des FRAND-Verfahrens mit den bereits bew\u00e4hrten Schiedsverfahren zu vergleichen.\r\n5 Verordnungsentwurf, Erw\u00e4gungsgrund (42).\r\n12\r\nMerkmal FRAND-Verfahren Ma\u00dfnahmen Bew\u00e4hrte Schiedsgerichtsbarkeit\r\nAuswahl des Schiedsrichters\r\nVom EUIPO ausgew\u00e4hlt, Identit\u00e4t den Parteien zum Zeitpunkt der Verpflichtungserkl\u00e4rung nicht bekannt\r\nZumindest teilweise von den Parteien aus einer bekannten Liste nach festgelegten Verfahren ausgew\u00e4hlt\r\nVerfahrensordnung\r\nMinimal und unvollst\u00e4ndig\r\nRobust, getestet und gut verstanden\r\nVollstreckbarkeit der Entscheidung vor ausl\u00e4ndischen Gerichten\r\nUnbekannt\r\nJa, gem\u00e4\u00df New Yorker \u00dcbereinkommen\r\nZeitrahmen f\u00fcr die Entscheidung\r\nUnabh\u00e4ngig von der Komplexit\u00e4t des Streitfalls auf neun Monate festgelegt\r\nFlexibel je nach Komplexit\u00e4t der Streitigkeit oder nach Vereinbarung der Parteien\r\nAnfechtbarkeit\r\nKeine\r\nM\u00f6glich durch Vereinbarung der Parteien\r\nUngeachtet der Unterschiede bei der Bindung durch das FRAND-Verfahren, ist dieses gem\u00e4\u00df obigem Vergleich in jeder Hinsicht weniger attraktiv als die bew\u00e4hrten Schiedsverfahren. Daher gibt es auch keinen Grund zur Annahme, dass das FRAND-Verfahren bei der Beilegung von Streitigkeiten n\u00fctzlich w\u00e4re, sollten bindende Erkl\u00e4rungen nicht mehr sp\u00e4ter widerrufen werden k\u00f6nnen.\r\nDas FRAND-Verfahren unterscheidet sich in einem wesentlichen Punkt von den bestehenden Mediations- und Schiedsverfahren: Eine Partei kann das Verfahren fortsetzen und eine Bestimmung von FRAND Bedingen erwirken, auch wenn die andere Partei nicht an dem Verfahren teilnimmt und auch nicht daran gebunden sein m\u00f6chte. Dieser Unterschied wird jedoch nicht zu einer effizienteren Streitbeilegung f\u00fchren. Eine einseitige Beweisf\u00fchrung f\u00fchrt zwangsl\u00e4ufig zu einem einseitigen und damit bedeutungslosen Ergebnis. Stelle man sich vor, wie das Urteil des High Court of Justice von England und Wales in der Rechtssache IDC gegen Lenovo6 ausgegangen w\u00e4re, wenn nur IDC Beweise und Argumente vorgelegt h\u00e4tte und somit nur die von IDC ausgew\u00e4hlten, vergleichbaren Vereinbarungen dem Gericht vorgelegen h\u00e4tten. Oder wie das Urteil in der Rechtssache Optis gegen Apple7 des High Court of Justice in England und Wales ausgefallen w\u00e4re, wenn Apple nicht teilgenommen h\u00e4tte und das Gericht nur Zugang zu den Vereinbarungen von Optis gehabt h\u00e4tte. Keine Partei und kein Gericht werden eine solche Entscheidung f\u00fcr sinnvoll halten, es sei denn, sie richtet sich gegen die Interessen der allein beteiligten Partei. Und wenn klar ist, dass eine\r\n6 High Court of Justice von England und Wales, Entscheidung [2023] EWHC 539 (Pat) (16. M\u00e4rz 2023) 7 High Court of Justice von England und Wales, Entscheidung [2023] EWHC 1095 (Ch) (10. Mai 2023)\r\n13\r\nEntscheidung auf diese Weise nur gegen die teilnehmende Partei durchgesetzt werden kann, werden vern\u00fcnftige Unternehmen das Verfahren \u00fcberhaupt nicht mehr nutzen.\r\nAus all diesen Gr\u00fcnden und weil die vorgeschlagenen Ma\u00dfnahmen das Grundrecht der Parteien auf Zugang zu den Gerichten (wenn auch nur vor\u00fcbergehend) beschr\u00e4nken, sollte das FRAND-Verfahren ganz aus den Ma\u00dfnahmen ersatzlos gestrichen werden (siehe unten). Wenn eine F\u00f6rderung der au\u00dfergerichtlichen Streitbeilegung w\u00fcnschenswert ist, kann dies mit Hilfe bestehender ADR-Dienste, einschlie\u00dflich der Mediationsdienste des Einheitlichen Patentgerichts (engl. Unified Patent Court, UPC), erreicht werden. Es gibt keinen Grund, viele Millionen Euro auszugeben, um eine unattraktive Alternative zu bestehenden ADR-Verfahren f\u00fcr FRAND-Streitigkeiten zu schaffen.\r\n7. Unterst\u00fctzungsma\u00dfnahmen f\u00fcr KMU\r\nKleine und mittlere Unternehmen (KMUs) werden in der Regel nicht mit hohen Lizenzforderungen konfrontiert, insbesondere nicht im IoT-Bereich, in dem die Lizenzkosten und Produktvolumina tendenziell geringer sind. Es ist daher nicht \u00fcberraschend, dass nur ein winziger Prozentsatz der Millionen von KMUs in Europa auf die auf KMUs ausgerichtete Konsultation der Europ\u00e4ischen Kommission zu SEPs geantwortet hat. Konkret erhielt die Kommission nur 39 Antworten, obwohl sie sch\u00e4tzt, dass 3.200 europ\u00e4ische KMUs FRAND-basierte Standards anwenden. Das entspricht einer R\u00fccklaufquote von weniger als 1,25 %. Dar\u00fcber hinaus waren zwei der antwortenden Unternehmen tats\u00e4chlich Gro\u00dfunternehmen und keine KMUs, und nur sieben antwortende Unternehmen (d. h. weniger als 0,3 % der KMUs, die Standards anwenden) hatten jemals eine SEP-Lizenz erworben.\r\nDaher scheinen Zweifel angebracht, ob die im Rahmen der Ma\u00dfnahmen vorgeschlagenen \"Beratungsdienste\" f\u00fcr KMUs tats\u00e4chlich h\u00e4ufig in Anspruch genommen werden. Noch unwahrscheinlicher ist, dass eine solche Inanspruchnahme die Kosten f\u00fcr eine neue Regierungsbeh\u00f6rde rechtfertigen k\u00f6nnte. Au\u00dferdem sind, wie oben erl\u00e4utert, weder die Gesamtlizenzgeb\u00fchr noch das FRAND-Verfahren f\u00fcr irgendjemanden n\u00fctzlich, geschweige denn f\u00fcr KMUs. Dessen ungeachtet sind die Teile der Ma\u00dfnahmen, die vorsehen, dass KMUs kostenlose Beratungsdienste und erm\u00e4\u00dfigte Geb\u00fchren f\u00fcr die Registrierung von SEPs, die Pr\u00fcfung der Essentialit\u00e4t und den Zugang zum SEP-Register angeboten werden, nicht zu beanstanden.\r\nIm Unterschied dazu wirken die Anregungen zu g\u00fcnstigeren FRAND-Bedingungen f\u00fcr KMUs durch die Ma\u00dfnahmen arg fragw\u00fcrdig, weil sie keinen Schutz oder sicheren Hafen f\u00fcr SEP-Inhaber bieten. W\u00fcrden SEP-Inhaber tats\u00e4chlich KMUs g\u00fcnstigere Bedingungen anbieten, s\u00e4hen sie sich dem Risiko ausgesetzt, dass Gerichte nach den Grunds\u00e4tzen der Nichtdiskriminierung dieselben Bedingungen auch anderen, gr\u00f6\u00dferen Implementierern zusprechen k\u00f6nnten. Da eine nachtr\u00e4gliche Ab\u00e4nderung der bereits vertraglichen vereinbarten FRAND-Verpflichtungen auch nicht einfach m\u00f6glich ist, lie\u00dfe sich dem Risko auch nicht im Rahmen der Vertragsgestaltung begegnen.\r\n14\r\n8. Beschr\u00e4nkung der Patentanspr\u00fcche\r\nDer Zugang zu den Gerichten ist ein Grundrecht8, das in der EU-Grundrechtecharta verankert ist. Die Kommission r\u00e4umt ein, dass bei der Einschr\u00e4nkung dieses Rechts der Grundsatz der Verh\u00e4ltnism\u00e4\u00dfigkeit gewahrt werden muss, und behauptet, dass die in den Ma\u00dfnahmen vorgesehenen Beschr\u00e4nkungen dieses Kriterium erf\u00fcllen. Diese Behauptung ist schlicht falsch.\r\nWas die Beschr\u00e4nkung wegen der Nichtregistrierung von SEPs betrifft, so muss die Pr\u00fcfung der Verh\u00e4ltnism\u00e4\u00dfigkeit mit dem \u00fcbergeordneten Ziel des Regelwerks beginnen. In diesem Fall besteht das \u00fcbergeordnete Ziel nicht darin, absolute Transparenz mit einer Datenbank zu schaffen, in der zuverl\u00e4ssige Informationen f\u00fcr jedes einzelne standardessenzielle Patent erfasst werden. Vielmehr zeigt die von der Kommission in Auftrag gegebene Studie (siehe oben), dass ein solches Unterfangen massive Essentialit\u00e4tspr\u00fcfungen erfordern w\u00fcrde, um eine zuverl\u00e4ssige Ann\u00e4herung bei der Erfassung der tats\u00e4chlich standardessenzielle Patente zu erm\u00f6glichen, und die Ma\u00dfnahmen sehen keine Essentialit\u00e4tspr\u00fcfungen in einem solchen Umfang vor. Stattdessen sehen die Ma\u00dfnahmen bestenfalls Essentialit\u00e4tspr\u00fcfungen vor, die \"keine Sch\u00e4tzungen der Essentialit\u00e4tsquoten in einzelnen Portfolios ergeben, die sowohl sehr genau als auch sehr zuverl\u00e4ssig sind\". Insbesondere w\u00fcrden einige registrierte SEPs, n\u00e4mlich die von KMUs, \u00fcberhaupt keiner Essentialit\u00e4tspr\u00fcfung unterzogen werden.\r\nDie versehentliche Nichtregistrierung eines SEP beeintr\u00e4chtigt daher nicht das dem Regelwerk \u00fcbergeordnete Ziel und sollte somit nicht zum Verlust des Rechts auf Zugang zu den Gerichten f\u00fchren. Dies gilt insbesondere f\u00fcr gro\u00dfe Portfolios, bei denen das Vorhandensein oder Nichtvorhandensein der Registrierung eines einzigen SEPs unerheblich scheint, oder auch f\u00fcr SEPs von KMUs, deren SEPs ohnehin keiner Essentialit\u00e4tspr\u00fcfung unterzogen werden. Eine verh\u00e4ltnism\u00e4\u00dfigere Ma\u00dfnahme w\u00e4re beispielsweise eine Bestimmung, die besagt, dass ein Verletzer im Falle einer unterlassenen Registrierung den f\u00fcr die Verletzung zu zahlenden Schadensersatz reduzieren kann (z.B. um 50 %), wenn er in einem Verletzungsverfahren nachweist, dass diese Unterlassung der Registrierung vors\u00e4tzlich erfolgte.\r\nHinsichtlich der Beschr\u00e4nkung des Zugangs zu den Gerichten w\u00e4hrend der Anh\u00e4ngigkeit des FRAND-Verfahrens macht die Kommission geltend, dass die Beschr\u00e4nkung mit dem EuGH-Urteil zu italienischen Gesetzen im Einklang steht, die bei Streitigkeiten zwischen Verbrauchern und Telekommunikationsanbietern eine nicht bindende Streitbeilegung vor einem Gerichtsverfahren vorschreibt. (vgl. Erw\u00e4gungsgrund (43)). Allerdings betrug die H\u00f6chstdauer der Streitbeilegung in jenen F\u00e4llen drei\u00dfig Tage \u2013 nicht neun Monate. Au\u00dferdem ist eine zeitlich begrenzte Beschr\u00e4nkung eines Gerichtsverfahrens \u00fcber eine Erstattung oder Entsch\u00e4digung von Verbrauchern nicht dasselbe\r\n8 Art. 47, 1. Absatz, der EU-Grundrechtecharta besagt: \"Jede Person, deren durch das Recht der Union garantierte Rechte oder Freiheiten verletzt worden sind, hat das Recht, nach Ma\u00dfgabe der in diesem Artikel vorgesehenen Bedingungen bei einem Gericht einen wirksamen Rechtsbehelf einzulegen.\"\r\n15\r\nwie eine Beschr\u00e4nkung des Zugangs zu den Gerichten, wenn der Schaden \u2013 in diesem Fall durch die Verletzung von Eigentumsrechten \u2013 andauert und von Tag zu Tag zunimmt. Und w\u00e4hrend das Verfahren in den Verbraucherurteilen keine nennenswerten Kosten verursachte, w\u00fcrde ein neunmonatiges FRAND-Verfahren offensichtlich erhebliche Ausgaben f\u00fcr Anwaltskosten und Sachverst\u00e4ndige erfordern.\r\nEs ist auch nicht der Fall, dass die Beschr\u00e4nkung des Zugangs zu den Gerichten f\u00fcr das FRAND-Verfahren f\u00fcr das von der Kommission behauptete \u00f6ffentliche Interesse notwendig sei, \u201eeine einheitliche, offene und vorhersehbare Information und ein einheitliches, vorhersehbares Ergebnis in Bezug auf SEPs zu gew\u00e4hrleisten\" (vgl. Erw\u00e4gungsgrund (42)). Wie bereits erw\u00e4hnt, ist es unter den Ma\u00dfnahmen in ihrer jetzigen Form m\u00f6glich, dass eine Partei das FRAND-Verfahren ohne die Beteiligung der anderen Partei durchf\u00fchrt. In solchen F\u00e4llen w\u00e4re das Ergebnis nicht vorhersehbar, sinnvoll oder einheitlich. Au\u00dferdem unterschl\u00e4gt die Kommission in ihrer Argumentation zum FRAND-Verfahren, dass das italienische Gesetz die Entlastung der Gerichte durch andersartige Beilegung von verbraucherrechtlichen Streitigkeiten verfolgt, obgleich dies einen wesentlichen Aspekt in der Begr\u00fcndung des \u00f6ffentlichen Interesses durch den EuGH darstellte. Das k\u00f6nnte die Kommission auch nicht \u2013 die an SEP-Streitigkeiten beteiligten Parteien sind keine unbedarften Verbraucher, sondern erfahrene Wirtschaftsakteure, die die verschiedenen ADR-M\u00f6glichkeiten gut kennen. In dem Ma\u00dfe, in dem ADR zur Entlastung der Gerichte bei SEP-Streitigkeiten beitr\u00e4gt, wird dieser Effekt auch ohne die vorgeschlagene Verordnung eintreten, da ADR f\u00fcr SEP-Streitigkeiten bereits existiert.\r\n9. Anwendungsbereich des Verordnungsentwurfs\r\nIn Erw\u00e4gungsgrund 4 erl\u00e4utert die Kommission die M\u00f6glichkeit, bestimmte Umsetzungen spezifischer Standards von den Verfahren der Gesamtlizenzgeb\u00fchr und des FRAND-Verfahrens auszunehmen:\r\nF\u00fcr bestimmte Anwendungsf\u00e4lle von Standards, wie z. B. die Standards f\u00fcr die drahtlose Kommunikation, gibt es gut etablierte Gesch\u00e4ftsbeziehungen und Lizenzierungspraktiken, die \u00fcber mehrere Generationen hinweg zu einer betr\u00e4chtlichen gegenseitigen Abh\u00e4ngigkeit f\u00fchren und sowohl den Inhabern von SEPs als auch den Implementierern einen erheblichen Wert verschaffen. Es gibt andere, typischerweise neuere Anwendungsf\u00e4lle \u2013 manchmal f\u00fcr dieselben Standards oder Untergruppen \u2013 mit weniger ausgereiften M\u00e4rkten, diffuseren und weniger konsolidierten Anwendergemeinschaften, bei denen die Unvorhersehbarkeit von Lizenzgeb\u00fchren und anderen Lizenzbedingungen sowie die Aussicht auf komplexe Patentbewertungen und -absch\u00e4tzungen und damit verbundene Rechtsstreitigkeiten die Anreize f\u00fcr den Einsatz standardisierter Technologien in innovativen Produkten st\u00e4rker belasten. Um eine verh\u00e4ltnism\u00e4\u00dfige und zielgerichtete Reaktion zu gew\u00e4hrleisten, sollten daher\r\n16\r\nbestimmte Verfahren im Rahmen dieser Verordnung, n\u00e4mlich die Festlegung von Gesamtlizenzgeb\u00fchren und die obligatorische Festlegung von FRAND-Bedingungen vor Rechtsstreitigkeiten, nicht auf bestimmte Anwendungsf\u00e4lle bestimmter Standards oder Teile davon angewandt werden, bei denen hinreichend nachgewiesen ist, dass SEP-Lizenzverhandlungen zu FRAND-Bedingungen nicht zu erheblichen Schwierigkeiten oder Ineffizienzen f\u00fchren.\r\nEs versteht sich von selbst, dass eine Regulierung nicht erforderlich ist, wenn Verhandlungen \u00fcber SEP-Lizenzen zu FRAND-Bedingungen keine erheblichen Schwierigkeiten oder Ineffizienzen verursachen, die den Binnenmarkt beeintr\u00e4chtigen. Die Logik des Verordnungsvorschlags besteht darin, dass bis zum Beweis des Gegenteils davon ausgegangen wird, dass \"erhebliche Schwierigkeiten oder Ineffizienzen\" bestehen. Die Kommission rechtfertigt diese Annahme jedoch nicht. Im Gegenteil, die empirische Studie, die im Auftrag der Kommission im Rahmen der Folgenabsch\u00e4tzung durchgef\u00fchrt wurde, ergab, dass:\r\nDie vorhandenen empirischen Belege f\u00fcr die kausalen Auswirkungen der derzeitigen SEP-Lizenzierungsbedingungen sind weitgehend nicht schl\u00fcssig. Empirisch beobachtbare Ergebnisse deuten nicht auf einen weit verbreiteten \"Ausstieg\" aus standardbezogenen Innovationen als Folge der SEP-Lizenzierungsbedingungen hin; d. h. es scheint nicht, dass die beobachteten Herausforderungen bei der SEP-Lizenzierung so schwerwiegend sind, dass sie potenzielle Mitwirkende systematisch von der Teilnahme an der Entwicklung von Standards abhalten oder potenzielle Anwender davon abhalten, Produkte zu entwickeln, die technologische Standards nutzen, die potenziellen SEPs unterliegen. Baron et al., Empirical Assessment of Potential Challenges in SEP Licensing 185 (2023).\r\nDaher w\u00e4re es angemessen, in der Verordnung substanzielle Beweise f\u00fcr \u201eerhebliche Schwierigkeiten oder Ineffizienzen\" zu verlangen, die den Binnenmarkt stark beeintr\u00e4chtigen, bevor komplexe und aufw\u00e4ndige Regulierungsverfahren auferlegt werden, anstatt solche Probleme zu vermuten und Beweise daf\u00fcr zu verlangen, um die Vermutung zu widerlegen.\r\nSoweit hinreichende Beweise daf\u00fcr erforderlich sind, dass \"Verhandlungen \u00fcber SEP-Lizenzen zu FRAND-Bedingungen nicht zu erheblichen Schwierigkeiten oder Ineffizienzen f\u00fchren, die das Funktionieren des Binnenmarktes beeintr\u00e4chtigen\" (Artikel 1 Absatz 4), liegen solche Beweise f\u00fcr mindestens zwei Produktkategorien vor, bei denen mobilfunkbasierte SEPs eingesetzt werden: Smartphones und Fahrzeuge.\r\n17\r\nMobiltelefone werden seit Jahrzehnten unter FRAND-Bedingungen lizenziert, und Smartphones werden seit weit \u00fcber einem Jahrzehnt lizenziert (d. h. mindestens seit der kommerziellen Einf\u00fchrung der 4G-Mobilfunktechnologie). Die \u00fcberw\u00e4ltigende Mehrheit der in der Europ\u00e4ischen Union verkauften Smartphones ist bezogen auf die Patente aller gro\u00dfen SEP-Inhaber im Mobilfunkbereich mit Lizenzprogrammen lizenziert, und die meisten von ihnen sind auch f\u00fcr andere Portfolios lizenziert. Obwohl es auf dem Smartphone-Markt zu einigen Streitigkeiten, einschlie\u00dflich Rechtsstreitigkeiten, kommt, beeintr\u00e4chtigen diese das Funktionieren des Binnenmarktes nicht. Diese Streitigkeiten f\u00fchren entweder zu lizenzierten Produkten oder dazu, dass nicht lizenzierte Produkte vom Markt genommen werden. Die Verbraucher in der EU haben \u2013 und werden auch zuk\u00fcnftig \u2013 eine Vielzahl von Smartphones zur Auswahl haben.\r\nDie Mobilfunklizenzierung f\u00fcr Fahrzeuge ist noch nicht so lange etabliert wie die Lizenzierung f\u00fcr Smartphones, aber genauso weit verbreitet. Praktisch alle in der EU verkauften Fahrzeuge, die 3G/4G-Mobilfunktechnologie einsetzen, sind \u00fcber die Avanci-Plattform f\u00fcr die \u00fcberwiegende Mehrheit der Mobilfunk-SEP lizenziert, darunter auch f\u00fcr die Portfolios aller gro\u00dfen Mobilfunk-SEP-Inhaber. Alle Fahrzeughersteller zahlen den gleichen, transparenten Geb\u00fchrensatz.\r\nIn j\u00fcngster Zeit haben einige Automobilhersteller im Rahmen ihrer Lobbyt\u00e4tigkeit hinsichtlich des Verordnungsvorschlags Beschwerden \u00fcber das Avanci-Programm und die Tatsache vorgebracht, dass sie von deutschen Gerichten mit einstweiligen Verf\u00fcgungen wegen SEP-Verletzungen belegt wurden, und dies angebliche \u201eIneffizienzen\" bei der Lizensierung belegen w\u00fcrde. Diese Vorw\u00fcrfe sollten mit \u00e4u\u00dferster Skepsis betrachtet werden. Die von Avanci berechneten Geb\u00fchren wurden nicht willk\u00fcrlich festgelegt. Vielmehr erteilten die Gr\u00fcndungsmitglieder von Avanci - darunter auch Qualcomm - Avanci die Befugnis, Vereinbarungen innerhalb einer bestimmten Spanne auszuhandeln, die auf der Erfahrung dieser Mitglieder als Lizenzgeber beruhte - im Falle von Qualcomm auch bei der Lizenzierung von SEPs f\u00fcr Mobilfunkger\u00e4te zur Verwendung in Fahrzeugen auf der Stufe 1 und 2. Avanci f\u00fchrte daraufhin die Verhandlungen mit bestimmten Automobilherstellern. Die ersten beiden Avanci-Lizenzen wurden ohne Rechtsstreitigkeiten abgeschlossen, allerdings nicht innerhalb der urspr\u00fcnglich von den Avanci-Gr\u00fcndungsmitgliedern festgelegten Spanne. Vielmehr wurde zwischen Avanci und diesen Automobilherstellern (bei denen es sich um gro\u00dfe Automobilunternehmen handelt) eine andere Tarifstruktur ausgehandelt, und Avanci wandte sich dann erneut an die Patentinhaber, um die ausgehandelten Tarife zu genehmigen, was auch erfolgte.\r\nSeitdem verwendet Avanci diese ausgehandelten Tarife in seinen Angeboten an andere Automobilhersteller. Einige weigerten sich, Lizenzen zu diesen Tarifen anzunehmen, woraufhin es zu dem Rechtsstreit kam, der Gegenstand der Klagen war, auf die besagte Automobilhersteller Bezug genommen haben. Das Ergebnis des Rechtsstreits waren jedoch keine h\u00f6heren Tarife als die, die zwischen Avanci und den ersten Lizenznehmern ausgehandelt worden waren. Vielmehr wurden allen Autoherstellern - auch denjenigen, die von den Gerichten als unwillige Lizenznehmer eingestuft\r\n18\r\nworden waren - Lizenzen zu demselben Tarif gew\u00e4hrt, den die urspr\u00fcnglichen Lizenznehmer ausgehandelt hatten. Dabei umfassten die Avanci-Lizenzen am Ende weit mehr Patente, als die urspr\u00fcnglichen Mitglieder je erwartet hatten.\r\nIm Ergebnis gibt es keine Anzeichen f\u00fcr Auswirkungen auf den Binnenmarkt - geschweige denn f\u00fcr \u201eIneffizienzen\u201c, die durch Streitigkeiten \u00fcber Mobilfunklizenzen f\u00fcr Fahrzeuge verursacht werden. Die Automobilhersteller haben die Implementierung von Mobilfunktechnologie weiter vorangetrieben - und profitieren davon ma\u00dfgeblich. Und die Verbraucher in der EU kommen zunehmend in den Genuss der Vorteile von vernetzten Fahrzeugen.\r\nAus dieser Erfahrung lassen sich wichtige Lehren f\u00fcr politische Entscheidungstr\u00e4ger ziehen. Das Vorhandensein von Streitigkeiten ist nicht an sich ein Hinweis auf Ineffizienzen, die eine Regulierung rechtfertigen. W\u00e4re dies der Fall, k\u00f6nnten diejenigen, die eine Regulierung anstreben, diese allein durch die Produktion von Streitigkeiten und Rechtsstreitigkeiten erreichen. Vielmehr sollten die politischen Entscheidungstr\u00e4ger darauf achten, wie sich die derzeitigen Institutionen und Branchen auf Streitigkeiten einstellen und wie diese Streitigkeiten beigelegt werden.\r\n* * *\r\nWir bedanken uns f\u00fcr die M\u00f6glichkeit, unsere Kommentare abzugeben und stehen f\u00fcr R\u00fcckfragen und weitere Informationen gerne zur Verf\u00fcgung."
+                        }
+                    }
+                ],
+                "title": "\u00c4nderung des Vorschlags der EU Kommission zu standardessentiellen Patenten (EU 2017/1001)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Wir streben die Einbindung der Industrie zum Umfang bevorstehender Pflichten wie der Umsetzung der Konformit\u00e4tsbewertung sowie der Meldepflichten innerhalb der vorgegebenen und umsetzbaren Fristen an.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CYBER",
+                        "de": "Cybersicherheit",
+                        "en": "Cyber security"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0000321",
+                "statements": [],
+                "title": "\u00c4nderung des EU Cyber Resilience Acts (COM/2022/454 final)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Monitoring des Gesetzesvorhabens auf EU-Ebene und Umsetzung auf nationaler Ebene zu den Themen Cyber-Risikomanagement, Kontrolle und \u00dcberwachung sowie Umgang mit cyber-kritischen Zwischenf\u00e4llen",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CYBER",
+                        "de": "Cybersicherheit",
+                        "en": "Cyber security"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/brd/2022/0532-22.pdf",
+                        "issuer": "BR",
+                        "leadingMinistries": [],
+                        "printingNumber": "532/22",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/vorschlag-f%C3%BCr-eine-empfehlung-des-rates-f%C3%BCr-eine-koordinierte-vorgehensweise/292709",
+                        "title": "Vorschlag f\u00fcr eine Empfehlung des Rates f\u00fcr eine koordinierte Vorgehensweise der Union zur St\u00e4rkung der Resilienz kritischer Infrastruktur"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0000322",
+                "statements": [],
+                "title": "\u00c4nderung des Vorschlags zur Network and Information Security Directive, EU 02022 L2555-20221227"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Bef\u00fcrwortung der Schaffung eines Rahmens f\u00fcr digitale Identit\u00e4ten und Authentifizierung im EU-Raum (gegenseitigen Anerkennung von eIDs). Bereitstellung von technischen L\u00f6sungen hinsichtlich des EUdi-Wallets (Architektur). ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    },
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CYBER",
+                        "de": "Cybersicherheit",
+                        "en": "Cyber security"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0000323",
+                "statements": [],
+                "title": "\u00c4nderung der eIDAS2 Regulation, (EU 32014R0910)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Sicherstellung einer verantwortlichen KI-Technologieentwicklung mit dem Ziel als verantwortungsvolle Verwalter der KI zu agieren - Auf Grundlage von Privatsph\u00e4re, Sicherheit, Transparenz, Fairness, Rechenschaftspflicht, Nachhaltigkeit",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CYBER",
+                        "de": "Cybersicherheit",
+                        "en": "Cyber security"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0000324",
+                "statements": [],
+                "title": "\u00c4nderung der KI-Verordnung/AI Act (EU 52021PC0206)"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/6d/3a/294687/Stellungnahme-Gutachten-SG2406170115.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                "de": "Bundeskanzleramt (BKAmt)",
+                                "en": "Bundeskanzleramt (BKAmt)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-30"
+                    },
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-06-17"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0000320",
+                "regulatoryProjectTitle": "\u00c4nderung des Vorschlags der EU Kommission zu standardessentiellen Patenten (EU 2017/1001)",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "1\r\nKonsultation des Bundesministeriums der Justiz zum Verordnungsvorschlag der Europ\u00e4ischen Kommission zum Thema \u201eStandardessentielle Patente\u201c\r\nStellungnahme von Qualcomm\r\nEinf\u00fchrung\r\nQualcomm dankt dem Bundesministerium der Justiz f\u00fcr die Gelegenheit, zum j\u00fcngsten Vorschlag der Europ\u00e4ischen Kommission zur Regulierung standardessenzieller Patente (SEPs) Stellung zu nehmen. Wir freuen uns, als eines der erfahrensten Unternehmen in diesem Bereich, unsere Gedanken und Einsch\u00e4tzungen hierzu mitzuteilen. Derzeit kann sich Qualcomm auf mehrere Hundert in Kraft stehende SEP-Lizenzvereinbarungen berufen (darunter \u00fcber 150 im Bereich 5G), \u00fcber die mehr als 18 Milliarden Mobilfunkger\u00e4te weltweit und \u00fcber 250 Millionen vernetzte Fahrzeuge lizensiert sind.\r\n\u00dcber Qualcomm\r\nQualcomm ist ein Pionier im Bereich Mobilfunk und nimmt damit eine f\u00fchrende Rolle in der kontinuierlichen Weiterentwicklung von Mobilfunksystemen ein. Gerne berufen wir uns bei Qualcomm auf eine reiche Vergangenheit an grundlegenden technologischen Durchbr\u00fcchen, die f\u00fcr die Konzeption und Implementierung von 2G-, 3G- und 4G-Mobilfunksystemen entscheidend waren. Wir sind nicht nur ein Vorreiter bei 5G, sondern streben auch an, eine vergleichbare Rolle bei der Umstellung auf 6G einzunehmen.\r\nDas Gesch\u00e4ftsmodell von Qualcomm basiert auf Offenheit und gegenseitiger Kooperation. Wir sind ein starker Bef\u00fcrworter und langj\u00e4hriger Mitwirkender des vor 35 Jahren geschaffenen europ\u00e4ischen Standardisierungssystems. Unserer Ansicht nach sind gemeinsame Standards entscheidend f\u00fcr den Aufbau offener \u00d6kosysteme, in denen alle Marktteilnehmer gemeinsam an der Entwicklung neuer Technologien mitwirken, indem sie ihre besten Innovationen einbringen. Der konsensbasierte und leistungsorientierte Charakter des kollaborativen Standardisierungsprozesses hat zur Entwicklung von Spitzentechnologien gef\u00fchrt.\r\nUnser umfassendes und flexibles Lizenzierungs- und Technologie-Transferprogramm im Bereich Mobilfunk sorgt f\u00fcr einen raschen technologischen Fortschritt und mehr Wettbewerb im gesamten \u00d6kosystem. Durch eine f\u00fchrende Rolle bei unseren Standardisierungsbem\u00fchungen k\u00f6nnen wir bedeutsame technologische Entwicklungen den Lizenznehmern zur Verf\u00fcgung stellen, die Ihnen die Herstellung weltweit fortschrittlichster Produkte und Ger\u00e4te erm\u00f6glicht. Unser Lizenzierungs- und\r\n5775 Morehouse Drive, San Diego, CA 92121\r\nwww.qualcomm.com\r\nQualcomm Incorporated\r\n2\r\nTechnologie-Transferprogramm, unsere Partnerschaften mit dem gesamten \u00d6kosystem und unsere Dienstleistungen beschleunigen das Wachstum der Mobilfunkbranche, senken die Eintrittsbarrieren, f\u00f6rdern den Wettbewerb, schaffen gleiche Wettbewerbsbedingungen und machen letztendlich so technologische Fortschritte im Mobilfunkt f\u00fcr mehr Menschen \u00fcber alle sozio\u00f6konomischen Schichten hinweg zug\u00e4nglich.\r\nIn den letzten vier Jahren hat Qualcomm \u00fcber drei Milliarden Euro in Deutschland investiert. Qualcomm besch\u00e4ftigt in Deutschland derzeit rund 2.000 Mitarbeitende, \u00fcberwiegend Ingenieurinnen und Ingenieure, an acht Standorten, darunter in M\u00fcnchen, wo Halbleiter und mikroelektronische Komponenten entwickelt und produziert werden. In Ingolstadt, N\u00fcrnberg und Berlin liegt der Schwerpunkt unserer Aktivit\u00e4ten auf der Forschung und Entwicklung rund um das \"digitale Chassis\" f\u00fcr die Automobilindustrie. Dar\u00fcber hinaus ist Qualcomm mit Standorten in Freiburg, Gelsenkirchen, Unterschlei\u00dfheim und Sulzbach vertreten. Qualcomm unterh\u00e4lt langj\u00e4hrige und intensive Partnerschaften mit der deutschen Industrie, darunter Telekommunikationsunternehmen (z. B. Deutsche Telekom, Vodafone Deutschland), Automobil-hersteller (BMW, Volkswagen, Mercedes), industrielle IoT-Anbieter (Bosch, Siemens), Infrastrukturanbieter (Ericsson, Nokia), Forschungsorganisationen (z. B. Fraunhofer-Institute) und Universit\u00e4ten (z. B. Technische Universit\u00e4t M\u00fcnchen, Technische Universit\u00e4t Kaiserslautern).\r\n\u00dcberblick \u00fcber unsere Stellungnahme\r\nWir haben unsere Stellungnahme nach den neun in der Konsultation genannten Themen gegliedert. Dennoch ermutigen wir das Ministerium, nicht nur diese neun Themen, sondern auch den Gesamtkontext der vorgeschlagenen Verordnung \u2013 das globale Standardisierungssystem \u2013 zu ber\u00fccksichtigen.\r\nDas globale Standardisierungssystem funktioniert gut, weil es zum einen Anreize f\u00fcr Unternehmen schafft, ihre fortschrittlichsten Technologien innerhalb der Standardisierung einzubringen, und zum anderen, da speziell durch FRAND-Verpflichtungen sichergestellt wird, dass Implementierer gleiche Wettbewerbsbedingungen vorfinden. Diese FRAND-Verpflichtung sorgt daf\u00fcr, dass Implementierer einen Zugang zu der jeweiligen standardisierten Technologie zu fairen, angemessenen und nichtdiskriminierenden Bedingungen erhalten. Das System ist jedoch freiwillig. Die Innovatoren entscheiden freiwillig, ob sie mit ihren entwickelten Technologien zu Standards beitragen oder nicht; auch entscheiden die Implementierer freiwillig, ob sie Produkte unter Umsetzung von Standards herstellen oder eben nicht. Analog gilt dies auch f\u00fcr standardessenzielle Patente (SEPs). SEPs sind keine eigenst\u00e4ndige und losgel\u00f6ste Gattung von Rechten des geistigen Eigentums. Vielmehr sind SEPs in erster Linie Patente \u2013 ungeachtet ob standardessenziell oder nicht \u2013 bei denen sich der Patentinhaber freiwillig daf\u00fcr entschieden hat, die zugrundeliegende Technologie in den formalen Standardisierung-Prozess einzubringen. Eine derartige Entscheidung birgt jedoch Unw\u00e4gbarkeiten:\r\n3\r\nOb die zugrundeliegende Technologie anschlie\u00dfend tats\u00e4chlich auch in den Standard aufgenommen wird, entzieht sich \u00fcblicherweise dem Einfluss des Patentinhabers.\r\nDie politischen Entscheidungstr\u00e4ger sollten sehr vorsichtig sein, wenn sie unterschiedliche Anforderungen an die Lizenzierung von standardessenziellen Patenten gegen\u00fcber denen f\u00fcr die Lizenzierung von anderen Patenten stellen. W\u00fcrden gegen\u00fcber dem Status quo mehr SEPs lizenziert als andere Patente, dann w\u00fcrden Implementierer standardisierter Technologien h\u00e4ufiger mit Lizenzierungsforderungen konfrontiert und m\u00fcssten dabei mit absolut gesehen h\u00f6heren Lizenzgeb\u00fchren rechnen. Unter sonst gleichen Bedingungen k\u00f6nnten Implementierer daraufhin geneigt sein, nicht-standardisierte L\u00f6sungen den standardisierten Technologien vorzuziehen. W\u00fcrden gegen\u00fcber dem Status quo weniger SEPs lizenziert als andere Patente, dann k\u00f6nnten die Patentinhaber erw\u00e4gen, ihre Erfindungen aus dem formalen Standardisierungs-Prozess herauszuhalten \u2013 insbesondere die besten und innovativsten Erfindungen.\r\nSo oder so, wenn sich die Anforderungen f\u00fcr die Lizenzierung von SEPs stark von denen f\u00fcr die Lizenzierung anderer Patente unterscheiden, besteht ein hohes Risiko, dass das globale Standardisierungssystems destabilisiert wird, welches, insbesondere durch ETSI, der europ\u00e4ischen Industrie und den Verbrauchern bisher sehr gute Dienste geleistet hat, indem es die technologische Souver\u00e4nit\u00e4t von Europa untermauert. Dies st\u00e4nde im Widerspruch zu, unter anderem, der j\u00fcngst ver\u00f6ffentlichte China-Strategie der Bundesregierung und der angestrebten St\u00e4rkung des europ\u00e4ischen Standardisierungssystems.\r\nWir kommen nun zu den neun Themen.\r\n1. Rechtsgrundlage der Ma\u00dfnahmen\r\nEs gibt keine Grundlage f\u00fcr die Annahme, dass es durch die unterschiedlichen Ans\u00e4tze der Gerichte der Mitgliedstaaten zu Handelshemmnissen zwischen den Mitgliedstaaten kommen k\u00f6nnte. Klar ist: Standardessentielle Patente (SEPs) sind Patentrechte. Die europ\u00e4ischen Institutionen haben jahrzehntelang an der Harmonisierung des Patentrechts gearbeitet, unter anderem mit dem im Oktober 1970 in M\u00fcnchen unterzeichneten Europ\u00e4ischen Patent\u00fcbereinkommen (EP\u00dc), der Richtlinie 2004/48/EG des Europ\u00e4ischen Parlaments und des Rates vom 29. April 2004 zur Durchsetzung der Rechte des geistigen Eigentums (sog. Enforcement Directive) und der Einrichtung und Er\u00f6ffnung des Einheitlichen Patentgerichts (engl.: Unified Patent Court, UPC) am 1. Juni 2023. Es gibt keine Anzeichen daf\u00fcr, dass verbleibende Unterschiede im Patentrecht \u201eHandelshemmnisse zwischen den Mitgliedstaaten\" schaffen. Vielmehr wird das Patentrecht in der Union in Zukunft unzweifelhaft weiter harmonisiert werden, z.B. indem die zu erwartende umfangreiche und ausdifferenzierte Rechtsprechung des UPCs \u00fcber nationale Grenzen hinweg Anwendung findet.\r\n4\r\nAuch die Behauptung, dass \u201ees f\u00fcr die Gerichte der Mitgliedstaaten schwierig [sei], eine genaue und konsistente Bestimmung der jeweiligen FRAND-Lizenzen vorzunehmen\", rechtfertigt die vorgeschlagenen Ma\u00dfnahmen nicht. Erstens gibt es keinen genauen Satz von Bedingungen, die \u201eFRAND\u201c sind. Die Gerichte haben vielmehr einheitlich anerkannt, dass ein Bereich von Bedingungen (eine sog. \u201eFRAND range\u201c) FRAND sein kann. Ein Patentinhaber erf\u00fcllt seine FRAND-Verpflichtungen, indem er einen beliebigen Satz von Bedingungen innerhalb dieses FRAND-Bereichs anbietet. So entschied beispielsweise das Berufungsgericht von England und Wales in [2018] EWCA Civ 23441:\r\n\"121. Wir sind zu einer anderen Schlussfolgerung als der Richter gekommen, was die Frage angeht, ob es nur einen Satz von FRAND-Bedingungen f\u00fcr einen bestimmten Sachverhalt geben kann. Patentlizenzen sind komplex und k\u00f6nnen unter Ber\u00fccksichtigung der gesch\u00e4ftlichen Priorit\u00e4ten der beteiligten Unternehmen und der Erfahrungen und Pr\u00e4ferenzen der beteiligten Personen unterschiedlich strukturiert sein, z. B. in Bezug auf die einzelnen Vertragsparteien, die in die Lizenz einzubeziehenden Rechte, den geografischen Geltungsbereich der Lizenz, die zu lizenzierenden Produkte, die Lizenzgeb\u00fchren und deren Bemessung sowie die Zahlungsbedingungen. Au\u00dferdem lassen sich Begriffe wie Fairness und Angemessenheit nicht ohne weiteres mit einem solch starren Ansatz vereinbaren. Unseres Erachtens ist es irreal zu glauben, dass zwei Parteien, die fair und angemessen handeln, zwangsl\u00e4ufig zu genau denselben Lizenzbedingungen kommen wie zwei andere Parteien, die ebenfalls fair und angemessen handeln und mit denselben Umst\u00e4nden konfrontiert sind. Im Gegenteil, die Realit\u00e4t sieht so aus, dass ein Bereich von Bedingungen unter bestimmten Umst\u00e4nden fair und angemessen sein kann.\r\nZweitens gibt es keinen Grund zu der Annahme, dass es dem vorgeschlagenen beh\u00f6rdlichen EUIPO \u201eKompetenzzentrum\u201c leichter fallen w\u00fcrde, \u201eeine genaue und einheitliche Bestimmung der jeweiligen FRAND-Lizenzen vorzunehmen\" als den Gerichten der Mitgliedstaaten. Im Gegenteil, die Gerichte verf\u00fcgen \u00fcber bekannte und wohl etablierte Vorschriften und Verfahren, z.B. in Bezug auf die Beweisaufnahme, die M\u00f6glichkeit zur Stellungnahme, zum Kreuzverh\u00f6r von Zeugen und f\u00fcr die Beauftragung von Sachverst\u00e4ndigen, die in den vorgeschlagenen Ma\u00dfnahmen schlicht fehlen. Dar\u00fcber hinaus sind die Gerichte der Mitgliedstaaten und das UPC bereits mit Richtern besetzt, die \u00fcber fundierte Erfahrungen bei der Entscheidung von Patentstreitigkeiten verf\u00fcgen und deren Integrit\u00e4t unbestritten ist. Das vorgeschlagene Kompetenzzentrum wird demgegen\u00fcber erst fachkundige Schlichter (engl. Conciliators) rekrutieren bzw. an sich binden m\u00fcssen, indem es beispielsweise erst derzeitige und ehemalige, mit Patentstreitigkeiten betraute Richter der Gerichte der Mitgliedstaaten abwirbt.\r\n1 Berufungsgericht von England and Wales Entscheidung [2018] EWCA Civ 2344 (23. Oktober 2018)\r\n5\r\n2. Einrichtung eines Kompetenzzentrums beim Amt der Europ\u00e4ischen Union f\u00fcr geistiges\r\nEigentum (EUIPO)\r\nDie Ma\u00dfnahmen w\u00fcrden ein umfangreiches Regelwerk schaffen, welches eine gro\u00dfe Zahl hochspezialisierter Mitarbeiter und erheblichen Verwaltungsaufwand erfordern w\u00fcrde. Wie weiter unten n\u00e4her ausgef\u00fchrt wird, ist ein Gro\u00dfteil des vorgeschlagenen \u201eKompetenzzentrums\" eine unn\u00f6tige Duplizierung von Strukturen, die bereits an anderer Stelle bereitgestellt werden. Dar\u00fcber hinaus verf\u00fcgt das EUIPO \u00fcber keinerlei Erfahrungen oder Fachwissen in Bezug auf die vorgeschlagenen Aufgaben des Kompetenzzentrums au\u00dfer der Verwaltung eines Registers f\u00fcr SEPs. In einem Interview vom Juni 2023 sagte der Exekutivdirektor des EUIPO, Christian Archambeau, Folgendes \u00fcber die Rolle des Kompetenzzentrums2 : \"Wie man sieht, wird das EUIPO kein \u201eExperte\u201c in Patentfragen sein, sondern als Verwaltungseinheit mit einem transparenten Registrierungssystem und einer Datenbank arbeiten, Informationen \u00fcber SEPs und Lizenzgeb\u00fchren sammeln sowie externes Fachpersonal wie Gutachter und Schlichter koordinieren, um eine breite Palette von Informationen \u00fcber SEPs und Verfahren zur Erleichterung von SEP-Lizenzverhandlungen anzubieten.\" Doch selbst f\u00fcr die Sammlung von Informationen \u00fcber SEPs und Lizenzgeb\u00fchren muss eine Beh\u00f6rde \u00fcber Erfahrung und Fachwissen auf dem entsprechenden Gebiet verf\u00fcgen, um sorgf\u00e4ltig, unparteiisch und gewissenhaft zu arbeiten.\r\nSollte somit weiterhin die Schaffung eines beh\u00f6rdlich gef\u00fchrten, transparenten Registrierungssystem und einer Datenbank beabsichtigt sein, l\u00e4sst sich lediglich feststellen, dass es unter der Zust\u00e4ndigkeit der Europ\u00e4ischen Kommission keine einzige Beh\u00f6rde gibt, die \u00fcber einschl\u00e4gige Erfahrungen oder Fachkenntnisse im Bereich der SEPs verf\u00fcgt. Damit gibt es auch keinen Grund zu der Annahme, dass wenn, ungeachtet des Fehlens einer nachweislichen Notwendigkeit, ein Kompetenzzentrum im EUIPO eingerichtet w\u00fcrde, dieses wesentlich schlechter funktionieren w\u00fcrde als anderswo. Zus\u00e4tzlich w\u00e4re aber zu bedenken, dass aus Gr\u00fcnden, die weiter unten erl\u00e4utert werden, die Aufgaben, f\u00fcr die das EUIPO Experten als Schlichter (engl. Conciliators) einstellen bzw. an sich binden m\u00fcsste, entweder schlecht konzipiert sind oder schon heute besser von bereits bestehenden Institutionen jenseitig der Zust\u00e4ndigkeit der Europ\u00e4ischen Kommission erledigt werden. Daher sollten zumindest diese in dem Verordnungsentwurf ersatzlos gestrichen werden. Mit der Abschaffung des Bedarfs an Schlichtern w\u00fcrde sich die komplexe Aufgabe des Aufbaus des EUIPO-Apparats erheblich vereinfachen und das EUIPO in die Lage versetzt, sich besser auf die Unterst\u00fctzung von kleinen und mittleren Unternehmen (KMU) konzentrieren zu k\u00f6nnen, wie z.B. die Bereitstellung von Beratungs-Dienstleistungen f\u00fcr KMUs.\r\n2 IAM Medien: Die Rolle des EUIPO wird die eines Vermittlers sein, nicht die eines SEP-Deal-Makers (6. Juli 2023)\r\n6\r\n3. SEP-Registrierung\r\nDas Konzept eines SEP-Registers ist sinnvoll, wenn ein allgemeiner Bedarf besteht und dadurch praktische Hindernisse beseitigt werden. Dies k\u00f6nnte z.B. bei SEPs im Mobilfunkbereich gegeben sein, weil (a) in der Mobilfunkbranche viele Lizenzen vergeben werden und (b) die \u00f6ffentlich zug\u00e4nglichen Informationen innerhalb einer Datenbank (d.h. der ETSI-Datenbank) in Form von Erkl\u00e4rungen zu einer m\u00f6glichen Essentialit\u00e4t organisiert sind und diese oft schon sehr fr\u00fch im Standardisierungsprozess abgegeben werden (die ETSI-IPR Richtlinie verlangt die Informationen \"zeitnah\"). Ungeachtet dessen wird die ETSI-Datenbank oft als Ersatz f\u00fcr Informationen \u00fcber tats\u00e4chlich standardessenzielle Patente missbraucht.\r\nDiese Unzul\u00e4nglichkeiten im Mobilfunkbereich rechtfertigen jedoch nicht eine allgemeing\u00fcltige Pflicht zur Registrierung von SEPs, f\u00fcr jedwede Standards, inklusive derer, f\u00fcr die nur eine unerhebliche Anzahl an Lizenzen vergeben werden. Die Registrierung an sich ist mit erheblichen Kosten verbunden und die Pr\u00fcfung der Essentialit\u00e4t (siehe unten) w\u00fcrde noch mehr Kosten verursachen. Es ist unwahrscheinlich, dass diese Kosten in angemessener Relation zu einem Bedarf stehen, wenn keine erhebliche Lizenzierungst\u00e4tigkeit stattfindet. Dementsprechend sollten die Ma\u00dfnahmen dahingehend abge\u00e4ndert werden, dass eine Registrierung nur f\u00fcr die Standards vorgeschrieben ist, bei denen eindeutig nachgewiesen ist, dass der allgemeine Bedarf f\u00fcr die Registrierung von SEPs gegen\u00fcber den Kosten \u00fcberwiegt.\r\nEs sollte auch ber\u00fccksichtigt werden, dass die Industrie selbst daran arbeitet, die Transparenz bei essenziellen Patenten zu erh\u00f6hen. Innerhalb des ETSI laufen Diskussionen \u00fcber Verbesserungen der ETSI-Datenbank, und die Akteure der Branche er\u00f6rtern auch alternative L\u00f6sungen au\u00dferhalb des ETSI. Zudem haben kommerzielle Drittanbieter von Informationen sich bereits bem\u00fcht, diesen Markt zu erschlie\u00dfen. Vor diesem Hintergrund sind die vorgeschlagenen Ma\u00dfnahmen m\u00f6glicherweise nicht einmal f\u00fcr SEPs im Mobilfunkbereich notwendig.\r\nWenn die allgemeing\u00fcltige Pflicht zur Registrierung tats\u00e4chlich beabsichtig ist, dann sollte sie auch in ausgewogener Weise umgesetzt werden. Derzeit scheint dies nicht gegeben zu sein, da die vorgeschlagenen Ma\u00dfnahmen den Patentinhabern alle Verpflichtungen und praktisch alle direkten und indirekten Kosten auferlegen. Somit w\u00e4re es vielmehr interessengerecht auch von den Implementierern dieselbe Transparenz zu verlangen, und zwar in Form eines Registers, das alle standard-konformen Produkte auflistet, in dem auch die jeweiligen Aspekte des Standards offengelegt werden, die von dem Produkt angewandt werden.\r\n7\r\n4. Pr\u00fcfung der Essentialit\u00e4t\r\nEine vollst\u00e4ndige Bewertung der vorgeschlagenen Ma\u00dfnahmen zur Pr\u00fcfung der Essentialit\u00e4t ist aufgrund der Unvollst\u00e4ndigkeit des Vorschlags aktuell nicht m\u00f6glich. Bisher sehen die Ma\u00dfnahmen eine stichprobenartige \u00dcberpr\u00fcfung eines Teils der registrierten SEPs gro\u00dfer Unternehmen vor. Ziel der Stichprobe ist es, das Verh\u00e4ltnis zwischen positiv gepr\u00fcften SEPs gegen\u00fcber allen registrierten SEPs von jedem SEP-Inhaber zu ver\u00f6ffentlichen.\r\nOb ein solches ver\u00f6ffentlichtes Verh\u00e4ltnis eine n\u00fctzliche Information darstellt, oder zu Fehlinformationen f\u00fchrt, h\u00e4ngt davon ab, wie zuverl\u00e4ssig die Pr\u00fcfung der Essentialit\u00e4t und wie solide die Stichprobenmethodik ist. In den vorgeschlagenen Ma\u00dfnahmen werden jedoch weder die Methodik f\u00fcr die Pr\u00fcfung der Essentialit\u00e4t noch die Methodik f\u00fcr die Stichproben festgelegt. Stattdessen werden sie einer sp\u00e4teren Festlegung \u00fcberlassen. In Anbetracht der ehrgeizigen Ziele, die in der Pressemitteilung3 der Kommission dargelegt werden, n\u00e4mlich \"...einen weltweiten Ma\u00dfstab f\u00fcr die Transparenz von SEPs zu setzen...\", ist dieses Vorgehen unangemessen und unzureichend. Wenn die Pr\u00fcfung der Essentialit\u00e4t \u00fcberhaupt in die Ma\u00dfnahmen einbezogen werden soll, dann m\u00fcssten darin auch von vornherein verl\u00e4ssliche Methoden verankert sein.\r\nDies ist insbesondere angesichts der Auswirkungen auf eine zweckm\u00e4\u00dfige Nutzung der ver\u00f6ffentlichten Informationen von Bedeutung. Wie in der Studie: Baron J. et. al., \u201eEssentiality Checks for Potential SEPs - A Framework for Assessing the Impact of Different Policy Options\u201c European Commission, DG GRow, 2023, die im Auftrag der Europ\u00e4ischen Kommission als Teil der Erarbeitung der vorgeschlagenen Ma\u00dfnahmen durchgef\u00fchrt wurde, erl\u00e4utert wird, ist ein Verh\u00e4ltnis, das \"pr\u00e4zise und sehr zuverl\u00e4ssig\" ist \u2013 d. h. das potenziell in einer auf Patentz\u00e4hlung basierenden Bewertungsmethode verwendet werden k\u00f6nnte \u2013 \"nur f\u00fcr gro\u00dfe Portfolios m\u00f6glich\" (S. 73-74). Au\u00dferdem w\u00fcrde eine solche Kennzahl eine sehr gro\u00dfe Anzahl von zu pr\u00fcfenden Patenten erfordern (S. 74). Eine alternative Methode, bei der \"bei Portfolios mit weniger als 100 potenziellen SEPs nahezu alle Patente \u00fcberpr\u00fcft werden, w\u00e4hrend der Umfang, der aus gr\u00f6\u00dferen Portfolios gezogenen Stichproben zwischen 100 und 200 Patenten liegt, ... wird nicht zu Sch\u00e4tzungen der Essentialit\u00e4tsquoten in einzelnen Portfolios f\u00fchren, die sowohl sehr pr\u00e4zise als auch \u00e4u\u00dferst zuverl\u00e4ssig sind.\" (Baron J., a.a.O.) Eine solche alternative Methodik k\u00f6nnte potenziell n\u00fctzlich sein, um die Gesamtzahl der essentiellen Patente genau zu sch\u00e4tzen, und k\u00f6nnte zur Eingrenzung von Streitigkeiten oder sogar zur Sch\u00e4tzung der Essentialit\u00e4tsraten einzelner Portfolios zu Verhandlungszwecken durch \"bereitwillige Parteien\", die sich daf\u00fcr \"entscheiden\", verwendet werden. [Baron J., a.a.O., Hervorhebung im Original]. Aber diese alternative Methodik k\u00f6nnte ansonsten nicht zuverl\u00e4ssig in einer auf Patentz\u00e4hlung basierenden Bewertungsmethode verwendet werden.\r\n3 Pressemitteilung der Europ\u00e4ischen Kommission zu geistigem Eigentum: Harmonisierte EU-Patentvorschriften f\u00f6rdern Innovation, Investitionen und Wettbewerbsf\u00e4higkeit im Binnenmarkt (27. April 2023)\r\n8\r\nObwohl weder die Methodik f\u00fcr die Pr\u00fcfung der Essentialit\u00e4t noch die Stichprobenmethodik spezifiziert werden, lassen die Kostensch\u00e4tzungen in der Folgenabsch\u00e4tzung vermuten, dass die von der Kommission im Rahmen der Verordnung vorgesehene Methodik f\u00fcr die Pr\u00fcfung der Essentialit\u00e4t bezogen auf die Robustheit noch hinter der oben beschriebene Methode zur\u00fcckbleibt, die nach Aussage des von ihr beauftragten Sachverst\u00e4ndigen \"keine Sch\u00e4tzungen der Essentialit\u00e4tsquoten in den einzelnen Portfolios liefern w\u00fcrde, die sowohl sehr pr\u00e4zise als auch \u00e4u\u00dferst zuverl\u00e4ssig sind\". Wenn dies der Fall w\u00e4re, w\u00fcrde weder klar werden, was der beabsichtigte Nutzen (oder die Vorteile) solcher Pr\u00fcfungen sein k\u00f6nnten, noch ist es m\u00f6glich zu beurteilen, ob die von der Kommission behaupteten Vorteile auch nur ansatzweise realisiert w\u00fcrden.\r\n5. Kumulierte Lizenzgeb\u00fchren\r\nArtikel 1 (10) den Ma\u00dfnahmen definiert \"Gesamtlizenzgeb\u00fchr\" als \"der H\u00f6chstbetrag der Lizenzgeb\u00fchr f\u00fcr alle Patente, die f\u00fcr einen Standard essentiell sind\". Aus der Folgenabsch\u00e4tzung und anderen Texten, die dem Verordnungsvorschlag beigef\u00fcgt sind, geht weiterhin hervor, dass damit der tats\u00e4chliche Wert der Patente gemeint ist und nicht ein k\u00fcnstlich herabgesetzter Wert. Zudem legen die Ma\u00dfnahmen fest, dass das Kompetenzzentrum pro Standard zwei Arten von Informationen ver\u00f6ffentlichen w\u00fcrde: eine oder mehrere Erkl\u00e4rungen von SEP-Inhabern und eine \"nicht bindende Expertenmeinung\".\r\nIn Erw\u00e4gungsgrund (15) des Verordnungsvorschlags werden drei Ziele der Bestimmungen der Gesamtlizenzgeb\u00fchren genannt: (1) die Hersteller sollen wissen, was sie f\u00fcr die Lizensierung aller SEPs des durch ihre Produkte verwendeten Standards zahlen m\u00fcssen; (2) die Inhaber von SEP sollen ihre voraussichtliche Kapitalrendite planen k\u00f6nnen; und (3) soll ein Beitrag zur Erleichterung der Lizenzierung von SEP und zur Senkung der Kosten f\u00fcr die Lizenzierung von SEP geleistet werden. Damit einer dieser Vorteile zum Tragen kommt, m\u00fcssen die ver\u00f6ffentlichten Informationen pr\u00e4zise sein und die erwartete tats\u00e4chliche Lizenzgeb\u00fchr widerspiegeln. In ihrer jetzigen Form werden die Ma\u00dfnahmen keine zuverl\u00e4ssigen Informationen \u00fcber die Gesamtbelastung durch Lizenzgeb\u00fchren liefern.\r\nIn Bezug auf die Ver\u00f6ffentlichung von Erkl\u00e4rungen zur kumulierten Gesamtlizenzgeb\u00fchr von Patentinhabern haben Gerichte zu Recht festgestellt, dass solche Erkl\u00e4rungen eigenn\u00fctzig und daher von Natur aus unzuverl\u00e4ssig sind. So entschied beispielsweise der High Court of Justice von England und Wales in [2017] EWHC 711 (Pat)4:\r\n269. Meines Erachtens sind die oben genannten Aussagen aus mehreren Gr\u00fcnden f\u00fcr die Festlegung eines Referenzwertes heute wenig hilfreich. Die\r\n4 High Court of Justice von England und Wales, Entscheidung [2017] EWHC 711 (Pat) (5. April 2017)\r\n9\r\nBehauptungen sind offensichtlich eigenn\u00fctzig. Insbesondere die Aussagen \u00fcber die Gesamtlizenzgeb\u00fchren sind Aussagen \u00fcber das Geld anderer Personen auf der Grundlage, dass die Person, die die Aussage macht, gleichzeitig sagt, dass der Kuchen ziemlich klein ist, sie aber Anspruch auf ein gro\u00dfes St\u00fcck davon hat.\r\n270. Au\u00dferdem wird bei der Gewichtung dieser Erkl\u00e4rungen nicht ber\u00fccksichtigt, worauf sich Umsetzer und SEP-Inhaber in den vergangenen Jahren tats\u00e4chlich geeinigt haben. Im Vergleich zu \u00f6ffentlichen Erkl\u00e4rungen sind vergleichbare Lizenzen konkrete Datenpunkte.\r\nDa einige SEP-Inhaber auch wichtige Implementierer der Patente sind, die sicherlich auch an einer Abwertung von SEPs Interesse haben, wird es voraussichtlich auch Standards geben, bei denen es sogar widerspr\u00fcchliche Erkl\u00e4rungen von Patentinhabern zur kumulierten Gesamtlizenzgeb\u00fchr gibt.\r\nDas Verfahren f\u00fcr eine \"nicht bindende Expertenmeinung\" ist von vornherein unzuverl\u00e4ssig: Das Verfahren steht einer unbegrenzten Anzahl von Parteien offen (sie m\u00fcssen lediglich \"ein Interesse an SEPs nachweisen\" und eine Geb\u00fchr entrichten) (Artikel 18 Absatz 5), und sie alle k\u00f6nnen Dokumente einreichen, scheinbar ohne Begrenzung und einschlie\u00dflich vertraulicher Teile, die offenbar nicht an andere Teilnehmer weitergegeben werden (Artikel 18 Absatz 7). Es gibt keine Verfahrensordnung und insbesondere kein Recht einer Partei, auf die Eingaben anderer zu antworten oder von anderen Parteien Offenlegung bestimmter Informationen zu verlangen. Erschwerend kommt hinzu, dass die Beh\u00f6rde verpflichtet ist, das Verfahren durchzuf\u00fchren und innerhalb von acht Monaten eine Stellungnahme abzugeben.\r\nIn zwei der letzten drei gro\u00dfen FRAND-Entscheidungen aus England und Wales - Unwired Planet gegen Huawei und IDC gegen Lenovo \u2013 war es den sehr erfahrene Parteien nicht m\u00f6glich, zuverl\u00e4ssige Beweise vorzulegen, anhand derer die Gerichte eine Gesamtlizenzgeb\u00fchr ermitteln konnte, obgleich f\u00fcr beide Parteien Hunderte von Millionen Dollar an Lizenzgeb\u00fchren auf dem Spiel standen, beide Parteien Zugang zu den besten Experten und Anw\u00e4lten der Welt hatten, und die Gerichte nach wohl etablierten Vorschriften und Verfahren und mit viel mehr Zeit f\u00fcr die Entwicklung eines Falles operierten als das f\u00fcr in dem Verordnungsvorschlag vorgesehen ist (dort: acht Monate). In der dritten gro\u00dfen FRAND-Entscheidung aus England und Wales - Optis gegen Apple - wies das Gericht auch die Argumente beider Parteien zur\u00fcck, dass es einen einzigen korrekten, f\u00fcr alle geltenden Gesamtlizenzsatz gebe. Stattdessen berechnete es auf der Grundlage einer Untergruppe von Apples eigenen Lizenzvereinbarungen einen nur f\u00fcr Apple geltenden Gesamtlizenzsatz. Trotz aller Bem\u00fchungen der Parteien in jedem dieser F\u00e4lle fanden die Gerichte also keine zuverl\u00e4ssigen Beweise, aus denen sie einen allgemein anwendbaren Gesamtlizenzsatz ableiten konnten. Es gibt demnach keinen Grund zu glauben \u2013 und viele Gr\u00fcnde zu bezweifeln \u2013 dass das verk\u00fcrzte Verfahren f\u00fcr eine \"nicht bindende Expertenmeinung\" zu einem anderen Ergebnis f\u00fchren w\u00fcrde.\r\n10\r\nIm Ergebnis gibt es keinen Beweis daf\u00fcr, dass die Ver\u00f6ffentlichung von Erkl\u00e4rungen von SEP-Inhabern oder ein Verfahren f\u00fcr eine \u201enicht bindende Expertenmeinung\" \u00fcber eine Gesamtlizenzgeb\u00fchr brauchbare Informationen \u00fcber die kumulativen Gesamtlizenzkosten liefern oder Streitigkeiten \u00fcber Lizenzen verringern k\u00f6nnte. Im Gegenteil: die Rechtsstreitigkeiten zwischen bestimmten Autoherstellern und bestimmten SEP-Inhabern aus dem Mobilfunkbereich, die von Mitgliedern der Autoindustrie oft als Rechtfertigung f\u00fcr die Notwendigkeit einer Regulierung angef\u00fchrt werden, fanden statt, obwohl Informationen \u00fcber die Gesamtlizenzgeb\u00fchr verf\u00fcgbar waren. Die \"Gesamtkosten\" f\u00fcr das Avanci-Angebot betrug bekannterma\u00dfen 15 US-Dollar und wurde zwischen Avanci und den ersten beiden Auto-OEM-Lizenznehmern ohne Rechtsstreitigkeiten ausgehandelt. Es ist daher stark zu bezweifeln, ob die Ver\u00f6ffentlichung selbst genauer Informationen zu Gesamtkosten durch das EUIPO irgendeinen n\u00fctzlichen Zweck erf\u00fcllen w\u00fcrde. Selbst wenn dies der Fall w\u00e4re, w\u00fcrden die Ma\u00dfnahmen aus den oben genannten Gr\u00fcnden und aus der Unverbindlichkeit der ver\u00f6ffentlichten Informationen keine genauen Aussagen \u00fcber die tats\u00e4chlichen Kosten zulassen.\r\nSollten jedoch Informationen \u00fcber die kumulativen Gesamtlizenzkosten als n\u00fctzlich erachtet werden, dann k\u00f6nnte die Unsicherheit in den vorgeschlagenen Ma\u00dfnahmen zumindest teilweise dadurch beseitigt werden, dass die Implementierer aufgefordert werden, ihre bestehenden Lizenzvereinbarungen f\u00fcr SEPs vorzulegen. Aus den bestehenden Lizenzvereinbarungen k\u00f6nnte das Kompetenzzentrum die tats\u00e4chlichen Lizenzzahlungen zusammenstellen, anonymisieren und in einer Datenbank ver\u00f6ffentlichen. Die Datenbank w\u00fcrde die tats\u00e4chlichen kumulativen Lizenzzahlungen f\u00fcr jeden Implementierer, der ein Produkt auf dem EU-Markt vertreibt, und f\u00fcr jede Implementierung der Standards auf dem EU-Markt enthalten. Dabei w\u00e4re zwingend erforderlich, dass die Vorlage durch die Implementierer und nicht durch die Lizenzgeber erfolgt, da bei Lizenzen, bei denen die Verg\u00fctung als Pauschalzahlung vereinbart wurde, nur der Implementierer \u00fcber alle Informationen verf\u00fcgt (z.B. die Anzahl der im Rahmen der Lizenz verkauften Produkte), die das Kompetenzzentrum zur Berechnung der tats\u00e4chlichen Gesamtlizenzzahlungen ben\u00f6tigt. Da die Informationen in der Datenbank aus realen Lizenzen stammen w\u00fcrden, w\u00e4ren sie zuverl\u00e4ssiger.\r\n6. FRAND-Verfahren\r\nDie Teile der Ma\u00dfnahmen, die das FRAND-Verfahren betreffen, haben im Gro\u00dfen und Ganzen drei Ziele: a) Schaffung eines neuen beh\u00f6rdlichen Streitbeilegungsverfahrens f\u00fcr FRAND-Streitigkeiten, b) obligatorische Einleitung des neuen Verfahrens und c) Beschr\u00e4nkung des Zugangs zu EU-Gerichten f\u00fcr solche Streitigkeiten. Da der letztgenannte Punkt bereits Gegenstand von Abschnitt 8 ist, befasst sich dieser Abschnitt nur mit den beiden erstgenannten Punkten: die Schaffung und den obligatorischen Charakter des Verfahrens.\r\nIn ihrer jetzigen Form sind die Teile der Ma\u00dfnahmen, die das FRAND-Verfahren betreffen, so unzusammenh\u00e4ngend ausgestaltet, dass unklar ist, wie die Kommission das FRAND-Verfahren zu\r\n11\r\nhandhaben gedenkt. Einerseits sehen die Ma\u00dfnahmen vor, dass die Parteien zu Beginn des Verfahrens erkl\u00e4ren m\u00fcssen, ob sie an das Ergebnis des Verfahrens gebunden sind. Andererseits deuten einige Bestimmungen darauf hin, dass eine Partei ihren Standpunkt \u00e4ndern und sp\u00e4ter die Bindung verweigern kann, unabh\u00e4ngig davon, was sie zu Beginn des Verfahrens gesagt hat. Aus den Erw\u00e4gungsgr\u00fcnden5 ist lediglich zu entnehmen, dass f\u00fcr das FRAND-Verfahren nicht einmal beabsichtigt ist, dass es f\u00fcr irgendeine Partei zur Verpflichtung f\u00fchren soll, das Ergebnis zu befolgen. Stattdessen wird den Parteien die Wahl gelassen, ob sie sich an das Ergebnis halten wollen oder nicht \u2013 unklar ist dabei, ob diese Wahl von Anfang an getroffen werden muss oder aufgeschoben werden kann, bis das Ergebnis bekannt ist. Somit ist das FRAND-Verfahren faktisch freiwillig \u2013 die Teile, die die Einleitung des FRAND-Verfahrens zwingend vorschreiben, sind bestenfalls als ein Mechanismus zu verstehen, der die grundlegenden Rechte der Parteien auf Zugang zu Gerichten bei FRAND-Streitigkeiten (wenn auch vor\u00fcbergehend) beschr\u00e4nkt.\r\nAls freiwilliger Streitbeilegungsmechanismus erf\u00fcllt das FRAND-Verfahren dieselbe Funktion wie bestehende alternative Streitbeilegungsverfahren (engl.: Alternative Dispute Resolution, ADR), insbesondere Mediation und Schiedsverfahren unter der Schirmherrschaft bereits etablierter ADR-Einrichtungen wie der Weltorganisation f\u00fcr geistiges Eigentum (engl., World Intellectual Property Organization, WIPO) oder der Internationalen Handelskammer (engl.: International Chamber of Commerce, ICC). Da das FRAND-Verfahren im Rahmen der Ma\u00dfnahmen keine Entscheidung verlangt, ob das Ergebnis befolgt werden soll oder nicht, bis das Ergebnis bekannt ist, ist es im Wesentlichen identisch mit einer freiwilligen Schlichtung. Es gibt keinen Grund zur Annahme, dass ein FRAND-Verfahren vor dem EUIPO f\u00fcr die Parteien attraktiver oder f\u00fcr die Beilegung von Streitigkeiten n\u00fctzlicher w\u00e4re als die bestehenden Mediationsdienste. Ganz im Gegenteil: Da die derzeitigen Dienste bekannt sind und \u00fcber wohlverstandene und vertrauensw\u00fcrdige Vorschriften und Verfahren verf\u00fcgen, wird das EUIPO wahrscheinlich weniger attraktiv und weniger effektiv sein als die bereits bestehenden Mediationsdienste.\r\nW\u00fcrde hingegen das FRAND-Verfahren im Rahmen der Ma\u00dfnahmen von Anfang an eine bindende Erkl\u00e4rung erfordern (die sp\u00e4ter nicht mehr widerrufen werden kann), m\u00fcsste es am ehesten mit einem freiwilligen Schiedsverfahren verglichen werden. Daher erscheint es hilfreich, die Attraktivit\u00e4t des FRAND-Verfahrens mit den bereits bew\u00e4hrten Schiedsverfahren zu vergleichen.\r\n5 Verordnungsentwurf, Erw\u00e4gungsgrund (42).\r\n12\r\nMerkmal FRAND-Verfahren Ma\u00dfnahmen Bew\u00e4hrte Schiedsgerichtsbarkeit\r\nAuswahl des Schiedsrichters\r\nVom EUIPO ausgew\u00e4hlt, Identit\u00e4t den Parteien zum Zeitpunkt der Verpflichtungserkl\u00e4rung nicht bekannt\r\nZumindest teilweise von den Parteien aus einer bekannten Liste nach festgelegten Verfahren ausgew\u00e4hlt\r\nVerfahrensordnung\r\nMinimal und unvollst\u00e4ndig\r\nRobust, getestet und gut verstanden\r\nVollstreckbarkeit der Entscheidung vor ausl\u00e4ndischen Gerichten\r\nUnbekannt\r\nJa, gem\u00e4\u00df New Yorker \u00dcbereinkommen\r\nZeitrahmen f\u00fcr die Entscheidung\r\nUnabh\u00e4ngig von der Komplexit\u00e4t des Streitfalls auf neun Monate festgelegt\r\nFlexibel je nach Komplexit\u00e4t der Streitigkeit oder nach Vereinbarung der Parteien\r\nAnfechtbarkeit\r\nKeine\r\nM\u00f6glich durch Vereinbarung der Parteien\r\nUngeachtet der Unterschiede bei der Bindung durch das FRAND-Verfahren, ist dieses gem\u00e4\u00df obigem Vergleich in jeder Hinsicht weniger attraktiv als die bew\u00e4hrten Schiedsverfahren. Daher gibt es auch keinen Grund zur Annahme, dass das FRAND-Verfahren bei der Beilegung von Streitigkeiten n\u00fctzlich w\u00e4re, sollten bindende Erkl\u00e4rungen nicht mehr sp\u00e4ter widerrufen werden k\u00f6nnen.\r\nDas FRAND-Verfahren unterscheidet sich in einem wesentlichen Punkt von den bestehenden Mediations- und Schiedsverfahren: Eine Partei kann das Verfahren fortsetzen und eine Bestimmung von FRAND Bedingen erwirken, auch wenn die andere Partei nicht an dem Verfahren teilnimmt und auch nicht daran gebunden sein m\u00f6chte. Dieser Unterschied wird jedoch nicht zu einer effizienteren Streitbeilegung f\u00fchren. Eine einseitige Beweisf\u00fchrung f\u00fchrt zwangsl\u00e4ufig zu einem einseitigen und damit bedeutungslosen Ergebnis. Stelle man sich vor, wie das Urteil des High Court of Justice von England und Wales in der Rechtssache IDC gegen Lenovo6 ausgegangen w\u00e4re, wenn nur IDC Beweise und Argumente vorgelegt h\u00e4tte und somit nur die von IDC ausgew\u00e4hlten, vergleichbaren Vereinbarungen dem Gericht vorgelegen h\u00e4tten. Oder wie das Urteil in der Rechtssache Optis gegen Apple7 des High Court of Justice in England und Wales ausgefallen w\u00e4re, wenn Apple nicht teilgenommen h\u00e4tte und das Gericht nur Zugang zu den Vereinbarungen von Optis gehabt h\u00e4tte. Keine Partei und kein Gericht werden eine solche Entscheidung f\u00fcr sinnvoll halten, es sei denn, sie richtet sich gegen die Interessen der allein beteiligten Partei. Und wenn klar ist, dass eine\r\n6 High Court of Justice von England und Wales, Entscheidung [2023] EWHC 539 (Pat) (16. M\u00e4rz 2023) 7 High Court of Justice von England und Wales, Entscheidung [2023] EWHC 1095 (Ch) (10. Mai 2023)\r\n13\r\nEntscheidung auf diese Weise nur gegen die teilnehmende Partei durchgesetzt werden kann, werden vern\u00fcnftige Unternehmen das Verfahren \u00fcberhaupt nicht mehr nutzen.\r\nAus all diesen Gr\u00fcnden und weil die vorgeschlagenen Ma\u00dfnahmen das Grundrecht der Parteien auf Zugang zu den Gerichten (wenn auch nur vor\u00fcbergehend) beschr\u00e4nken, sollte das FRAND-Verfahren ganz aus den Ma\u00dfnahmen ersatzlos gestrichen werden (siehe unten). Wenn eine F\u00f6rderung der au\u00dfergerichtlichen Streitbeilegung w\u00fcnschenswert ist, kann dies mit Hilfe bestehender ADR-Dienste, einschlie\u00dflich der Mediationsdienste des Einheitlichen Patentgerichts (engl. Unified Patent Court, UPC), erreicht werden. Es gibt keinen Grund, viele Millionen Euro auszugeben, um eine unattraktive Alternative zu bestehenden ADR-Verfahren f\u00fcr FRAND-Streitigkeiten zu schaffen.\r\n7. Unterst\u00fctzungsma\u00dfnahmen f\u00fcr KMU\r\nKleine und mittlere Unternehmen (KMUs) werden in der Regel nicht mit hohen Lizenzforderungen konfrontiert, insbesondere nicht im IoT-Bereich, in dem die Lizenzkosten und Produktvolumina tendenziell geringer sind. Es ist daher nicht \u00fcberraschend, dass nur ein winziger Prozentsatz der Millionen von KMUs in Europa auf die auf KMUs ausgerichtete Konsultation der Europ\u00e4ischen Kommission zu SEPs geantwortet hat. Konkret erhielt die Kommission nur 39 Antworten, obwohl sie sch\u00e4tzt, dass 3.200 europ\u00e4ische KMUs FRAND-basierte Standards anwenden. Das entspricht einer R\u00fccklaufquote von weniger als 1,25 %. Dar\u00fcber hinaus waren zwei der antwortenden Unternehmen tats\u00e4chlich Gro\u00dfunternehmen und keine KMUs, und nur sieben antwortende Unternehmen (d. h. weniger als 0,3 % der KMUs, die Standards anwenden) hatten jemals eine SEP-Lizenz erworben.\r\nDaher scheinen Zweifel angebracht, ob die im Rahmen der Ma\u00dfnahmen vorgeschlagenen \"Beratungsdienste\" f\u00fcr KMUs tats\u00e4chlich h\u00e4ufig in Anspruch genommen werden. Noch unwahrscheinlicher ist, dass eine solche Inanspruchnahme die Kosten f\u00fcr eine neue Regierungsbeh\u00f6rde rechtfertigen k\u00f6nnte. Au\u00dferdem sind, wie oben erl\u00e4utert, weder die Gesamtlizenzgeb\u00fchr noch das FRAND-Verfahren f\u00fcr irgendjemanden n\u00fctzlich, geschweige denn f\u00fcr KMUs. Dessen ungeachtet sind die Teile der Ma\u00dfnahmen, die vorsehen, dass KMUs kostenlose Beratungsdienste und erm\u00e4\u00dfigte Geb\u00fchren f\u00fcr die Registrierung von SEPs, die Pr\u00fcfung der Essentialit\u00e4t und den Zugang zum SEP-Register angeboten werden, nicht zu beanstanden.\r\nIm Unterschied dazu wirken die Anregungen zu g\u00fcnstigeren FRAND-Bedingungen f\u00fcr KMUs durch die Ma\u00dfnahmen arg fragw\u00fcrdig, weil sie keinen Schutz oder sicheren Hafen f\u00fcr SEP-Inhaber bieten. W\u00fcrden SEP-Inhaber tats\u00e4chlich KMUs g\u00fcnstigere Bedingungen anbieten, s\u00e4hen sie sich dem Risiko ausgesetzt, dass Gerichte nach den Grunds\u00e4tzen der Nichtdiskriminierung dieselben Bedingungen auch anderen, gr\u00f6\u00dferen Implementierern zusprechen k\u00f6nnten. Da eine nachtr\u00e4gliche Ab\u00e4nderung der bereits vertraglichen vereinbarten FRAND-Verpflichtungen auch nicht einfach m\u00f6glich ist, lie\u00dfe sich dem Risko auch nicht im Rahmen der Vertragsgestaltung begegnen.\r\n14\r\n8. Beschr\u00e4nkung der Patentanspr\u00fcche\r\nDer Zugang zu den Gerichten ist ein Grundrecht8, das in der EU-Grundrechtecharta verankert ist. Die Kommission r\u00e4umt ein, dass bei der Einschr\u00e4nkung dieses Rechts der Grundsatz der Verh\u00e4ltnism\u00e4\u00dfigkeit gewahrt werden muss, und behauptet, dass die in den Ma\u00dfnahmen vorgesehenen Beschr\u00e4nkungen dieses Kriterium erf\u00fcllen. Diese Behauptung ist schlicht falsch.\r\nWas die Beschr\u00e4nkung wegen der Nichtregistrierung von SEPs betrifft, so muss die Pr\u00fcfung der Verh\u00e4ltnism\u00e4\u00dfigkeit mit dem \u00fcbergeordneten Ziel des Regelwerks beginnen. In diesem Fall besteht das \u00fcbergeordnete Ziel nicht darin, absolute Transparenz mit einer Datenbank zu schaffen, in der zuverl\u00e4ssige Informationen f\u00fcr jedes einzelne standardessenzielle Patent erfasst werden. Vielmehr zeigt die von der Kommission in Auftrag gegebene Studie (siehe oben), dass ein solches Unterfangen massive Essentialit\u00e4tspr\u00fcfungen erfordern w\u00fcrde, um eine zuverl\u00e4ssige Ann\u00e4herung bei der Erfassung der tats\u00e4chlich standardessenzielle Patente zu erm\u00f6glichen, und die Ma\u00dfnahmen sehen keine Essentialit\u00e4tspr\u00fcfungen in einem solchen Umfang vor. Stattdessen sehen die Ma\u00dfnahmen bestenfalls Essentialit\u00e4tspr\u00fcfungen vor, die \"keine Sch\u00e4tzungen der Essentialit\u00e4tsquoten in einzelnen Portfolios ergeben, die sowohl sehr genau als auch sehr zuverl\u00e4ssig sind\". Insbesondere w\u00fcrden einige registrierte SEPs, n\u00e4mlich die von KMUs, \u00fcberhaupt keiner Essentialit\u00e4tspr\u00fcfung unterzogen werden.\r\nDie versehentliche Nichtregistrierung eines SEP beeintr\u00e4chtigt daher nicht das dem Regelwerk \u00fcbergeordnete Ziel und sollte somit nicht zum Verlust des Rechts auf Zugang zu den Gerichten f\u00fchren. Dies gilt insbesondere f\u00fcr gro\u00dfe Portfolios, bei denen das Vorhandensein oder Nichtvorhandensein der Registrierung eines einzigen SEPs unerheblich scheint, oder auch f\u00fcr SEPs von KMUs, deren SEPs ohnehin keiner Essentialit\u00e4tspr\u00fcfung unterzogen werden. Eine verh\u00e4ltnism\u00e4\u00dfigere Ma\u00dfnahme w\u00e4re beispielsweise eine Bestimmung, die besagt, dass ein Verletzer im Falle einer unterlassenen Registrierung den f\u00fcr die Verletzung zu zahlenden Schadensersatz reduzieren kann (z.B. um 50 %), wenn er in einem Verletzungsverfahren nachweist, dass diese Unterlassung der Registrierung vors\u00e4tzlich erfolgte.\r\nHinsichtlich der Beschr\u00e4nkung des Zugangs zu den Gerichten w\u00e4hrend der Anh\u00e4ngigkeit des FRAND-Verfahrens macht die Kommission geltend, dass die Beschr\u00e4nkung mit dem EuGH-Urteil zu italienischen Gesetzen im Einklang steht, die bei Streitigkeiten zwischen Verbrauchern und Telekommunikationsanbietern eine nicht bindende Streitbeilegung vor einem Gerichtsverfahren vorschreibt. (vgl. Erw\u00e4gungsgrund (43)). Allerdings betrug die H\u00f6chstdauer der Streitbeilegung in jenen F\u00e4llen drei\u00dfig Tage \u2013 nicht neun Monate. Au\u00dferdem ist eine zeitlich begrenzte Beschr\u00e4nkung eines Gerichtsverfahrens \u00fcber eine Erstattung oder Entsch\u00e4digung von Verbrauchern nicht dasselbe\r\n8 Art. 47, 1. Absatz, der EU-Grundrechtecharta besagt: \"Jede Person, deren durch das Recht der Union garantierte Rechte oder Freiheiten verletzt worden sind, hat das Recht, nach Ma\u00dfgabe der in diesem Artikel vorgesehenen Bedingungen bei einem Gericht einen wirksamen Rechtsbehelf einzulegen.\"\r\n15\r\nwie eine Beschr\u00e4nkung des Zugangs zu den Gerichten, wenn der Schaden \u2013 in diesem Fall durch die Verletzung von Eigentumsrechten \u2013 andauert und von Tag zu Tag zunimmt. Und w\u00e4hrend das Verfahren in den Verbraucherurteilen keine nennenswerten Kosten verursachte, w\u00fcrde ein neunmonatiges FRAND-Verfahren offensichtlich erhebliche Ausgaben f\u00fcr Anwaltskosten und Sachverst\u00e4ndige erfordern.\r\nEs ist auch nicht der Fall, dass die Beschr\u00e4nkung des Zugangs zu den Gerichten f\u00fcr das FRAND-Verfahren f\u00fcr das von der Kommission behauptete \u00f6ffentliche Interesse notwendig sei, \u201eeine einheitliche, offene und vorhersehbare Information und ein einheitliches, vorhersehbares Ergebnis in Bezug auf SEPs zu gew\u00e4hrleisten\" (vgl. Erw\u00e4gungsgrund (42)). Wie bereits erw\u00e4hnt, ist es unter den Ma\u00dfnahmen in ihrer jetzigen Form m\u00f6glich, dass eine Partei das FRAND-Verfahren ohne die Beteiligung der anderen Partei durchf\u00fchrt. In solchen F\u00e4llen w\u00e4re das Ergebnis nicht vorhersehbar, sinnvoll oder einheitlich. Au\u00dferdem unterschl\u00e4gt die Kommission in ihrer Argumentation zum FRAND-Verfahren, dass das italienische Gesetz die Entlastung der Gerichte durch andersartige Beilegung von verbraucherrechtlichen Streitigkeiten verfolgt, obgleich dies einen wesentlichen Aspekt in der Begr\u00fcndung des \u00f6ffentlichen Interesses durch den EuGH darstellte. Das k\u00f6nnte die Kommission auch nicht \u2013 die an SEP-Streitigkeiten beteiligten Parteien sind keine unbedarften Verbraucher, sondern erfahrene Wirtschaftsakteure, die die verschiedenen ADR-M\u00f6glichkeiten gut kennen. In dem Ma\u00dfe, in dem ADR zur Entlastung der Gerichte bei SEP-Streitigkeiten beitr\u00e4gt, wird dieser Effekt auch ohne die vorgeschlagene Verordnung eintreten, da ADR f\u00fcr SEP-Streitigkeiten bereits existiert.\r\n9. Anwendungsbereich des Verordnungsentwurfs\r\nIn Erw\u00e4gungsgrund 4 erl\u00e4utert die Kommission die M\u00f6glichkeit, bestimmte Umsetzungen spezifischer Standards von den Verfahren der Gesamtlizenzgeb\u00fchr und des FRAND-Verfahrens auszunehmen:\r\nF\u00fcr bestimmte Anwendungsf\u00e4lle von Standards, wie z. B. die Standards f\u00fcr die drahtlose Kommunikation, gibt es gut etablierte Gesch\u00e4ftsbeziehungen und Lizenzierungspraktiken, die \u00fcber mehrere Generationen hinweg zu einer betr\u00e4chtlichen gegenseitigen Abh\u00e4ngigkeit f\u00fchren und sowohl den Inhabern von SEPs als auch den Implementierern einen erheblichen Wert verschaffen. Es gibt andere, typischerweise neuere Anwendungsf\u00e4lle \u2013 manchmal f\u00fcr dieselben Standards oder Untergruppen \u2013 mit weniger ausgereiften M\u00e4rkten, diffuseren und weniger konsolidierten Anwendergemeinschaften, bei denen die Unvorhersehbarkeit von Lizenzgeb\u00fchren und anderen Lizenzbedingungen sowie die Aussicht auf komplexe Patentbewertungen und -absch\u00e4tzungen und damit verbundene Rechtsstreitigkeiten die Anreize f\u00fcr den Einsatz standardisierter Technologien in innovativen Produkten st\u00e4rker belasten. Um eine verh\u00e4ltnism\u00e4\u00dfige und zielgerichtete Reaktion zu gew\u00e4hrleisten, sollten daher\r\n16\r\nbestimmte Verfahren im Rahmen dieser Verordnung, n\u00e4mlich die Festlegung von Gesamtlizenzgeb\u00fchren und die obligatorische Festlegung von FRAND-Bedingungen vor Rechtsstreitigkeiten, nicht auf bestimmte Anwendungsf\u00e4lle bestimmter Standards oder Teile davon angewandt werden, bei denen hinreichend nachgewiesen ist, dass SEP-Lizenzverhandlungen zu FRAND-Bedingungen nicht zu erheblichen Schwierigkeiten oder Ineffizienzen f\u00fchren.\r\nEs versteht sich von selbst, dass eine Regulierung nicht erforderlich ist, wenn Verhandlungen \u00fcber SEP-Lizenzen zu FRAND-Bedingungen keine erheblichen Schwierigkeiten oder Ineffizienzen verursachen, die den Binnenmarkt beeintr\u00e4chtigen. Die Logik des Verordnungsvorschlags besteht darin, dass bis zum Beweis des Gegenteils davon ausgegangen wird, dass \"erhebliche Schwierigkeiten oder Ineffizienzen\" bestehen. Die Kommission rechtfertigt diese Annahme jedoch nicht. Im Gegenteil, die empirische Studie, die im Auftrag der Kommission im Rahmen der Folgenabsch\u00e4tzung durchgef\u00fchrt wurde, ergab, dass:\r\nDie vorhandenen empirischen Belege f\u00fcr die kausalen Auswirkungen der derzeitigen SEP-Lizenzierungsbedingungen sind weitgehend nicht schl\u00fcssig. Empirisch beobachtbare Ergebnisse deuten nicht auf einen weit verbreiteten \"Ausstieg\" aus standardbezogenen Innovationen als Folge der SEP-Lizenzierungsbedingungen hin; d. h. es scheint nicht, dass die beobachteten Herausforderungen bei der SEP-Lizenzierung so schwerwiegend sind, dass sie potenzielle Mitwirkende systematisch von der Teilnahme an der Entwicklung von Standards abhalten oder potenzielle Anwender davon abhalten, Produkte zu entwickeln, die technologische Standards nutzen, die potenziellen SEPs unterliegen. Baron et al., Empirical Assessment of Potential Challenges in SEP Licensing 185 (2023).\r\nDaher w\u00e4re es angemessen, in der Verordnung substanzielle Beweise f\u00fcr \u201eerhebliche Schwierigkeiten oder Ineffizienzen\" zu verlangen, die den Binnenmarkt stark beeintr\u00e4chtigen, bevor komplexe und aufw\u00e4ndige Regulierungsverfahren auferlegt werden, anstatt solche Probleme zu vermuten und Beweise daf\u00fcr zu verlangen, um die Vermutung zu widerlegen.\r\nSoweit hinreichende Beweise daf\u00fcr erforderlich sind, dass \"Verhandlungen \u00fcber SEP-Lizenzen zu FRAND-Bedingungen nicht zu erheblichen Schwierigkeiten oder Ineffizienzen f\u00fchren, die das Funktionieren des Binnenmarktes beeintr\u00e4chtigen\" (Artikel 1 Absatz 4), liegen solche Beweise f\u00fcr mindestens zwei Produktkategorien vor, bei denen mobilfunkbasierte SEPs eingesetzt werden: Smartphones und Fahrzeuge.\r\n17\r\nMobiltelefone werden seit Jahrzehnten unter FRAND-Bedingungen lizenziert, und Smartphones werden seit weit \u00fcber einem Jahrzehnt lizenziert (d. h. mindestens seit der kommerziellen Einf\u00fchrung der 4G-Mobilfunktechnologie). Die \u00fcberw\u00e4ltigende Mehrheit der in der Europ\u00e4ischen Union verkauften Smartphones ist bezogen auf die Patente aller gro\u00dfen SEP-Inhaber im Mobilfunkbereich mit Lizenzprogrammen lizenziert, und die meisten von ihnen sind auch f\u00fcr andere Portfolios lizenziert. Obwohl es auf dem Smartphone-Markt zu einigen Streitigkeiten, einschlie\u00dflich Rechtsstreitigkeiten, kommt, beeintr\u00e4chtigen diese das Funktionieren des Binnenmarktes nicht. Diese Streitigkeiten f\u00fchren entweder zu lizenzierten Produkten oder dazu, dass nicht lizenzierte Produkte vom Markt genommen werden. Die Verbraucher in der EU haben \u2013 und werden auch zuk\u00fcnftig \u2013 eine Vielzahl von Smartphones zur Auswahl haben.\r\nDie Mobilfunklizenzierung f\u00fcr Fahrzeuge ist noch nicht so lange etabliert wie die Lizenzierung f\u00fcr Smartphones, aber genauso weit verbreitet. Praktisch alle in der EU verkauften Fahrzeuge, die 3G/4G-Mobilfunktechnologie einsetzen, sind \u00fcber die Avanci-Plattform f\u00fcr die \u00fcberwiegende Mehrheit der Mobilfunk-SEP lizenziert, darunter auch f\u00fcr die Portfolios aller gro\u00dfen Mobilfunk-SEP-Inhaber. Alle Fahrzeughersteller zahlen den gleichen, transparenten Geb\u00fchrensatz.\r\nIn j\u00fcngster Zeit haben einige Automobilhersteller im Rahmen ihrer Lobbyt\u00e4tigkeit hinsichtlich des Verordnungsvorschlags Beschwerden \u00fcber das Avanci-Programm und die Tatsache vorgebracht, dass sie von deutschen Gerichten mit einstweiligen Verf\u00fcgungen wegen SEP-Verletzungen belegt wurden, und dies angebliche \u201eIneffizienzen\" bei der Lizensierung belegen w\u00fcrde. Diese Vorw\u00fcrfe sollten mit \u00e4u\u00dferster Skepsis betrachtet werden. Die von Avanci berechneten Geb\u00fchren wurden nicht willk\u00fcrlich festgelegt. Vielmehr erteilten die Gr\u00fcndungsmitglieder von Avanci - darunter auch Qualcomm - Avanci die Befugnis, Vereinbarungen innerhalb einer bestimmten Spanne auszuhandeln, die auf der Erfahrung dieser Mitglieder als Lizenzgeber beruhte - im Falle von Qualcomm auch bei der Lizenzierung von SEPs f\u00fcr Mobilfunkger\u00e4te zur Verwendung in Fahrzeugen auf der Stufe 1 und 2. Avanci f\u00fchrte daraufhin die Verhandlungen mit bestimmten Automobilherstellern. Die ersten beiden Avanci-Lizenzen wurden ohne Rechtsstreitigkeiten abgeschlossen, allerdings nicht innerhalb der urspr\u00fcnglich von den Avanci-Gr\u00fcndungsmitgliedern festgelegten Spanne. Vielmehr wurde zwischen Avanci und diesen Automobilherstellern (bei denen es sich um gro\u00dfe Automobilunternehmen handelt) eine andere Tarifstruktur ausgehandelt, und Avanci wandte sich dann erneut an die Patentinhaber, um die ausgehandelten Tarife zu genehmigen, was auch erfolgte.\r\nSeitdem verwendet Avanci diese ausgehandelten Tarife in seinen Angeboten an andere Automobilhersteller. Einige weigerten sich, Lizenzen zu diesen Tarifen anzunehmen, woraufhin es zu dem Rechtsstreit kam, der Gegenstand der Klagen war, auf die besagte Automobilhersteller Bezug genommen haben. Das Ergebnis des Rechtsstreits waren jedoch keine h\u00f6heren Tarife als die, die zwischen Avanci und den ersten Lizenznehmern ausgehandelt worden waren. Vielmehr wurden allen Autoherstellern - auch denjenigen, die von den Gerichten als unwillige Lizenznehmer eingestuft\r\n18\r\nworden waren - Lizenzen zu demselben Tarif gew\u00e4hrt, den die urspr\u00fcnglichen Lizenznehmer ausgehandelt hatten. Dabei umfassten die Avanci-Lizenzen am Ende weit mehr Patente, als die urspr\u00fcnglichen Mitglieder je erwartet hatten.\r\nIm Ergebnis gibt es keine Anzeichen f\u00fcr Auswirkungen auf den Binnenmarkt - geschweige denn f\u00fcr \u201eIneffizienzen\u201c, die durch Streitigkeiten \u00fcber Mobilfunklizenzen f\u00fcr Fahrzeuge verursacht werden. Die Automobilhersteller haben die Implementierung von Mobilfunktechnologie weiter vorangetrieben - und profitieren davon ma\u00dfgeblich. Und die Verbraucher in der EU kommen zunehmend in den Genuss der Vorteile von vernetzten Fahrzeugen.\r\nAus dieser Erfahrung lassen sich wichtige Lehren f\u00fcr politische Entscheidungstr\u00e4ger ziehen. Das Vorhandensein von Streitigkeiten ist nicht an sich ein Hinweis auf Ineffizienzen, die eine Regulierung rechtfertigen. W\u00e4re dies der Fall, k\u00f6nnten diejenigen, die eine Regulierung anstreben, diese allein durch die Produktion von Streitigkeiten und Rechtsstreitigkeiten erreichen. Vielmehr sollten die politischen Entscheidungstr\u00e4ger darauf achten, wie sich die derzeitigen Institutionen und Branchen auf Streitigkeiten einstellen und wie diese Streitigkeiten beigelegt werden.\r\n* * *\r\nWir bedanken uns f\u00fcr die M\u00f6glichkeit, unsere Kommentare abzugeben und stehen f\u00fcr R\u00fcckfragen und weitere Informationen gerne zur Verf\u00fcgung."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

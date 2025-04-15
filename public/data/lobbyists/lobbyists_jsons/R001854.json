@@ -1,0 +1,912 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-13T15:53:53.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-27T19:52:22.000+01:00",
+        "lastUpdateDate": "2024-06-13T08:37:48.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 34844,
+                "validFromDate": "2024-06-13T08:37:48.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25038,
+                "validFromDate": "2023-08-16T16:49:33.000+02:00",
+                "validUntilDate": "2024-06-13T08:37:48.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 15694,
+                "validFromDate": "2023-02-13T15:53:53.000+01:00",
+                "validUntilDate": "2023-08-16T16:49:33.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_NONPROFIT_ORGA_V2",
+            "de": "Nichtregierungsorganisation (NGO)",
+            "en": "Non-governmental organization (NGO)"
+        },
+        "activityDescription": "In Ausgestaltung des Sozialstaatsgebots des Grundgesetzes tritt die BAG SELBSTHILFE unter den Grunds\u00e4tzen der Selbstbestimmung, Selbstvertretung, Normalisierung, Inklusion und Teilhabe f\u00fcr die rechtliche und tats\u00e4chliche Gleichstellung behinderter und chronisch kranker Menschen ein.\r\nDurch sozialpolitische Einflussnahme auf allen staatlichen Ebenen sowie durch Aufkl\u00e4rung und Information der \u00d6ffentlichkeit wirkt die BAG SELBSTHILFE darauf hin, behinderte und chronisch kranke Menschen an allen sie betreffenden Entscheidungen wirksam zu beteiligen.\r\nSie setzt sich f\u00fcr die F\u00f6rderung der Selbsthilfebewegung in Deutschland ein.\r\n\r\nAls ma\u00dfgebliche Patientenorganisation nach \u00a7 140f SGB V vertritt sie nicht nur die Interessen der Patientinnen und Patienten im Gesundheitswesen, sondern koordiniert f\u00fcr alle ma\u00dfgeblichen Patientenorganisationen die Patientenbeteiligung in gesundheitspolitischen Gremien.\r\n\r\nAls koordinierender Verband der sog. zweiten S\u00e4ule des Deutschen Behindertenrats ist die BAG SELBSTHILFE einer der ma\u00dfgeblichen Behindertenverb\u00e4nde in Deutschland, die sich f\u00fcr die Umsetzung der UN-Behindertenrechtskonvention und die Schaffung einer inklusiven Gesellschaft in Deutschland einsetzen.\r\n\r\nDa die Selbsthilfebewegung eine der zentralen S\u00e4ulen des b\u00fcrgerschaftlichen Engagements in Deutschland ist, setzt sich die BAG SELBSTHILFE im Wege der Interessenvertretung auch f\u00fcr eine St\u00e4rkung der Rolle der Zivilgesellschaft und des b\u00fcrgerschaftlichen Engagements insbesondere im Gesundheits- und Sozialwesen ein.\r\n\r\nDie BAG SELBSTHILFE ist als nationaler Dachverband der Selbsthilfeorganisationen chronisch kranker und behinderter Menschen sowie deren Angeh\u00f6rigen auch im st\u00e4ndigen Austausch mit den Dachorganisationen anderer L\u00e4nder und ihrerseits Mitglied in europ\u00e4ischen Dachverb\u00e4nden behinderter und chronisch kranker Menschen.\r\n\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_SP_OTHER",
+                "de": "Sonstiges im Bereich \"Gesellschaftspolitik und soziale Gruppen\"",
+                "en": "Other in the field of \"Social politics and social groups\""
+            },
+            {
+                "code": "FOI_SP_FAMILY",
+                "de": "Familienpolitik",
+                "en": "Family policy"
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_SS_LONGTERM",
+                "de": "Pflegeversicherung",
+                "en": "Long term care"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_OTHER",
+                "de": "Sonstiges im Bereich \"Verkehr\"",
+                "en": "Other in the field of \"Transportation\""
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_HEALTH_MEDICINE",
+                "de": "Arzneimittel",
+                "en": "Medicine"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_LAS_OTHER",
+                "de": "Sonstiges im Bereich \"Sport, Freizeit und Tourismus\"",
+                "en": "Other in the field of \"Sports, leisure and tourism\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_SP_CHILDREN",
+                "de": "Kinder- und Jugendpolitik",
+                "en": "Child and youth policy"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_HEALTH_CARE",
+                "de": "Pflege",
+                "en": "Health care"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_SP_DISABILITY",
+                "de": "Rechte von Menschen mit Behinderung",
+                "en": "Rights of people with disabilities"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_SS_OLD_AGE",
+                "de": "Rente/Alterssicherung",
+                "en": "Old-age insurance"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_SS_HEALTH",
+                "de": "Krankenversicherung",
+                "en": "Health insurance"
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/78/00/289799/BAG_Jahresabschluss_2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/a5/d9/289798/Leitsaetze_2022.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "Erbschaft",
+                "donationEuro": {
+                    "from": 130001,
+                    "to": 140000
+                },
+                "name": "Klara Hedwig Bo\u00dfmann"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 130001,
+            "to": 140000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 24.0,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 30001,
+            "to": 40000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "D\u00fcsseldorf",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "BAG SELBSTHILFE e.V.",
+            "street": "Kirchfeldstra\u00dfe",
+            "streetNumber": "149",
+            "type": "NATIONAL",
+            "zipCode": "40215"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "info@bag-selbsthilfe.de",
+            "nationalAdditional1": "BAG SELBSTHILFE e.V.",
+            "phoneNumber": "+49211310060",
+            "street": "Mariendorfer Damm ",
+            "streetNumber": "159",
+            "type": "NATIONAL",
+            "zipCode": "12107"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@bag-selbsthilfe.de"
+                },
+                {
+                    "email": "geschaeftsfuehrer@bag-selbsthilfe.de"
+                }
+            ],
+            "phoneNumber": "+492113100649",
+            "websites": [
+                {
+                    "website": "www.bag-selbsthilfe.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Hannelore",
+                "lastName": "Loskill",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Rolf",
+                "lastName": "Flathmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Barbara",
+                "lastName": "Kleinow",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Martin",
+                "lastName": "Danner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Siiri",
+                "lastName": "Doka",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Sonja",
+                "lastName": "Arens",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Daniel",
+                "lastName": "Koller",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Bettina",
+                "lastName": "Stevener-Peters",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Jana",
+                "lastName": "Hassel",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Martin",
+                "lastName": "Danner",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Hannelore",
+                "function": "Bundesvorsitzende",
+                "lastName": "Loskill",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Rolf",
+                "function": "stellvertretender Bundesvorsitzender",
+                "lastName": "Flathmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr.",
+                "entrustedPerson": false,
+                "firstName": "Joachim",
+                "function": "Bundesschatzmeister",
+                "lastName": "Baltes",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Birgit",
+                "function": "Bundesvorstandsmitglied",
+                "lastName": "Dembski",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Barbara",
+                "function": "Bundesvorstandsmitglied",
+                "lastName": "Kleinow",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Johannes",
+                "function": "Bundesvorstandsmitglied",
+                "lastName": "Schweizer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Sonja",
+                "function": "Bundesvorstandsmitglied",
+                "lastName": "Arens",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Daniel",
+                "function": "Bundesvorstandsmitglied",
+                "lastName": "Koller",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Martin",
+                "function": "Bundesgesch\u00e4ftsf\u00fchrer",
+                "lastName": "Danner",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-01-01",
+            "naturalPersons": 0,
+            "organizations": 127,
+            "totalCount": 127
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Deutscher Verein f\u00fcr \u00f6ffentliche und private F\u00fcrsorge"
+            },
+            {
+                "membership": "Deutsche Vereinigung f\u00fcr die Rehabilitation behinderter Menschen"
+            },
+            {
+                "membership": "Bundevereinigung Pr\u00e4vention und Gesundheitsf\u00f6rderung"
+            },
+            {
+                "membership": "Deutscher Behindertenrat"
+            },
+            {
+                "membership": "European Patient Forum"
+            },
+            {
+                "membership": "Aktionsb\u00fcndnis Patientensicherheit"
+            },
+            {
+                "membership": "Deutsches Zentralinstitut f\u00fcr soziale Fragen"
+            },
+            {
+                "membership": "Institut Mensch, Ethik und Wissenschaft gmbH"
+            },
+            {
+                "membership": "Bundesnetzwerk B\u00fcrgerschaftliches Engagment "
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "BAG SELBSTHILFE Bundesarbeitsgemeinschaft Selbsthilfe von Menschen mit Behinderung, chronischer Erkrankungen und ihren Angeh\u00f6rigen e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 220001,
+            "to": 230000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Teilhabe 4.0 \r\n\r\nIm Rahmen des Projekts werden Sensibilisierungs- und Informationsveranstaltungen f\u00fcr kleine und mittlere Unternehmen sowie f\u00fcr die Verantwortlichen in der Verwaltung zum Thema digitale Barrierefreiheit konzipiert und umgesetzt.\r\n",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Arbeit und Soziales",
+                "publicAllowanceEuro": {
+                    "from": 310001,
+                    "to": 320000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Workshops zur Erstellung von Empfehlungen zur St\u00e4rkung der Teilnahme von Rehabilitand*innen an (virtuellen) Selbsthilfeaktivit\u00e4ten\r\n\r\nZiel des Projektes ist es, innovative Ans\u00e4tze aufzuzeigen, wie die Kooperation zwischen der gesundheitsbezogenen Selbsthilfe und Rehabilitationseinrichtungen gest\u00e4rkt und optimiert werden kann.\r\nDabei soll besonders durch Praxisorientierung die Weiterentwicklung von Implementationsstrategien der optimierten F\u00f6rderung der digitalen (Selbsthilfe-) Kompetenz und Motivation und der digitalen Kooperation und Vernetzung der (wohnortnahen) Selbsthilfe in (wohnortfernen) Reha-Ma\u00dfnahmen im Fokus stehen.\r\n",
+                "location": "Berlin",
+                "name": "Deutsche Rentenversicherung Bund",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "ESCAPE-Projekt, EU-Programm Horizon\r\n\r\nDas multinationale Projekt befasst sich mit einem patientenzentrierten Behandlungsansatz f\u00fcr \u00e4ltere multimorbide Patienten*innen mit chronischer Herzschw\u00e4che und psychischer Belastung, um neue Behandlungs- und Betreuungspfade zu entwickeln\r\n",
+                "location": "Br\u00fcssel",
+                "name": "Europ\u00e4ische Union",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Health Technology Assessment (HTA-Verfahren)",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Gesundheit",
+                "publicAllowanceEuro": {
+                    "from": 160001,
+                    "to": 170000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Long Covid - Empowerment",
+                "location": "Berlin",
+                "name": "Deutsche Rentenversicherung Bund",
+                "publicAllowanceEuro": {
+                    "from": 180001,
+                    "to": 190000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Proaktive Beteiligungsprozesse von Menschen mit Behinderungen organisieren.",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Arbeit und Soziales",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projektf\u00f6rderung Tagungen und Schriften",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Gesundheit",
+                "publicAllowanceEuro": {
+                    "from": 90001,
+                    "to": 100000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Erweiterte und \u00fcberarbeitete Brosch\u00fcre zur Vernetzung und Kooperation von Rehabilitation und Selbsthilfe",
+                "location": "Berlin",
+                "name": "Deutsche Rentenversicherung Bund",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Jahresspiegel",
+                "location": "Berlin",
+                "name": "Deutsche Rentenversicherung Bund",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Long Covid - Plattform",
+                "location": "Berlin",
+                "name": "Deutsche Rentenversicherung Bund",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projektf\u00f6rderung Tagung und Schriften",
+                "location": "Berlin",
+                "name": "Deutsche Rentenversicherung Bund",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001854/34844",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-13T08:37:48.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/3a/3f/289802/Lobbyregister-Detailansicht-R001854-2024-06-13_08-37-48.pdf",
+        "validFromDate": "2024-06-13T08:37:48.000+02:00",
+        "version": 4
+    },
+    "registerEntryId": 34844,
+    "registerNumber": "R001854",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "as Gesetz sieht umfangreiche Ver\u00e4nderungen des Versorgungsgeschehens insbesondere im SGB V vor.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/G/GDAG_RefE.pdf",
+                            "draftBillProjectUrl": "https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/gesundheits-digitalagentur-gesetz-gdag.html",
+                            "shortTitle": "BMG",
+                            "title": "Bundesministerium f\u00fcr Gesundheit",
+                            "url": "https://www.bundesgesundheitsministerium.de/"
+                        }
+                    ],
+                    "publicationDate": "2024-05-15",
+                    "title": "Entwurf eines Gesetzes zur Schaffung einer Digitalagentur f\u00fcr Gesundheit (Gesundheits-Digitalagentur-Gesetz \u2013 GDAG)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    },
+                    {
+                        "code": "FOI_HEALTH_OTHER",
+                        "de": "Sonstiges im Bereich \"Gesundheit\"",
+                        "en": "Other in the field of \"Health\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002140",
+                "statements": [],
+                "title": "Gesundheits Digitalagentur Gesetz  GDAG"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Das Gesetz sieht eine Neuordnung der station\u00e4ren Versorgung vor.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/K/KHVVG_RefE.pdf",
+                            "draftBillProjectUrl": "https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/krankenhausversorgungsverbesserungsgesetz-khvvg.html",
+                            "shortTitle": "BMG",
+                            "title": "Bundesministerium f\u00fcr Gesundheit",
+                            "url": "https://www.bundesgesundheitsministerium.de/"
+                        }
+                    ],
+                    "publicationDate": "2024-04-15",
+                    "title": "Entwurf eines Gesetzes zur Verbesserung der Versorgungsqualit\u00e4t im Krankenhaus und zur Reform der Verg\u00fctungsstrukturen (Krankenhausversorgungsverbesserungsgesetz \u2013 KHVVG)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_OTHER",
+                        "de": "Sonstiges im Bereich \"Gesundheit\"",
+                        "en": "Other in the field of \"Health\""
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002141",
+                "statements": [],
+                "title": "Krankenhausversorgungsverbesserungsgesetz "
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die Verordnung betrifft Rahmenbedingungen der IT-Infrastruktur im deutschen Gesundheitswesen.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/G/GIGV_RefE_Novelle-I.pdf",
+                            "draftBillProjectUrl": "https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/gesundheits-it-interoperabilitaets-governance-verordnung-iop-governance-verordnung-gigv.html",
+                            "shortTitle": "BMG",
+                            "title": "Bundesministerium f\u00fcr Gesundheit",
+                            "url": "https://www.bundesgesundheitsministerium.de/"
+                        }
+                    ],
+                    "publicationDate": "2024-04-24",
+                    "title": "Gesundheits-IT-Interoperabilit\u00e4ts-Governance-Verordnung (Neufassung)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    },
+                    {
+                        "code": "FOI_HEALTH_OTHER",
+                        "de": "Sonstiges im Bereich \"Gesundheit\"",
+                        "en": "Other in the field of \"Health\""
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002142",
+                "statements": [],
+                "title": "Gesundheits IT Interoperabilit\u00e4ts"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Das Gesetz betrifft Ver\u00e4nderungen im Bereich klinischer Studien sowie im Registerwesen und der Preisgestaltung im Arzneimittelbereich",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/M/Referentenentwurf_Medizinforschungsgesetz.pdf",
+                            "draftBillProjectUrl": "https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/medizinforschungsgesetz.html",
+                            "shortTitle": "BMG",
+                            "title": "Bundesministerium f\u00fcr Gesundheit",
+                            "url": "https://www.bundesgesundheitsministerium.de/"
+                        }
+                    ],
+                    "publicationDate": "2024-01-17",
+                    "title": "Medizinforschungsgesetz (MFG)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_MEDICINE",
+                        "de": "Arzneimittel",
+                        "en": "Medicine"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002143",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/2f/74/289800/Stellungnahme-Gutachten-SG2406110017.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                        "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                        "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-01"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002143",
+                        "regulatoryProjectTitle": "Medzinforschungsgesetz",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "\r\n\r\n \r\n\t\r\n\r\nBundesarbeitsgemeinschaft Selbsthilfe von\r\nMenschen mit Behinderung und chronischer \r\nErkrankung und ihren Angeh\u00f6rigen e.V. \r\nBAG SELBSTHILFE \r\nKirchfeldstr. 149\r\n40215 D\u00fcsseldorf\r\nTel. 0211/31006-0\r\nFax. 0211/31006-48\r\n\r\n\r\n\r\n\r\n\r\nStellungnahme der\r\n\r\n\r\nBundesarbeitsgemeinschaft SELBSTHILFE \r\nvon Menschen mit Behinderung, \r\nchronischer Erkrankung und ihren Angeh\u00f6rigen e.V. \r\n(BAG SELBSTHILFE) \r\n\r\nzum \r\n\r\nEntwurf eines Medizinforschungsgesetzes\r\n(MFG)\r\n\t\r\n\r\n-\tAnh\u00f6rung im Bundesministerium f\u00fcr Gesundheit\r\n am 20.02.2024 - \r\n\r\n\r\nAls Dachverband von 123 Bundesverb\u00e4nden der Selbsthilfe chronisch kranker und behinderter Menschen und deren Angeh\u00f6rigen sowie von 13 Landesarbeitsge-meinschaften begr\u00fc\u00dft es die BAG SELBSTHILFE, dass die Durchf\u00fchrung von Stu-dien in Deutschland vorangetrieben werden soll. Gerade f\u00fcr Menschen mit chro-nischen Erkrankungen und Behinderungen ist medizinische Forschung zur Verbes-serung ihrer Behandlungsm\u00f6glichkeiten nach wie vor elementar. Dies gilt insbe-sondere f\u00fcr Indikationsbereiche, in denen es keine oder nur ungen\u00fcgende Stan-dardversorgung gibt. Eine Studiendurchf\u00fchrung in Deutschland hat f\u00fcr die Be-troffenen dabei zum einen den Vorteil, dass die \u00dcbertragung der Studienergebnis-se auf den deutschen Versorgungskontext sp\u00e4ter bei der Bewertung leichter m\u00f6g-lich ist; zum anderen er\u00f6ffnet dies den Patient*innen auch die M\u00f6glichkeit, selbst an Studien teilzunehmen: Gerade dann, wenn die bisherigen (Standard-) Thera-pien ausgesch\u00f6pft sind, k\u00f6nnen derartige Studienteilnahmen eine Chance f\u00fcr Pa-tient*innen sein.\r\n\r\nAuch die Verringerung b\u00fcrokratischer H\u00fcrden sowie die Harmonisierung bearbei-tender Beh\u00f6rden (z.B. bei Strahlenschutzgenehmigungen) begr\u00fc\u00dft die BAG SELBSTHILFE ausdr\u00fccklich; sie fordert jedoch dar\u00fcber hinaus substantielle b\u00fcro-kratische Entlastung von medizinischem Personal in klinischen Studien. Besonde-res Augenmerk sollte in diesem Zusammenhang auch auf den B\u00fcrokratieabbau bei den Investigator Initiated Trails (universit\u00e4re Forschung) gelegt werden, da diese \u00fcblicherweise \u00fcber geringere personelle und finanzielle Ressourcen verf\u00fc-gen.\r\n\r\nZu den Regelungen im Einzelnen:\r\n\r\n1.\tEinf\u00fchrung der elektronischen Signatur (\u00a7 40b AMG RefE)\r\n\r\nDie BAG SELBSTHILFE begr\u00fc\u00dft es im Grundsatz, dass weitere M\u00f6glichkeiten zur Erf\u00fcllung des Formerfordernisses der Einwilligung er\u00f6ffnet werden. Angesichts dessen, dass \u00fcber diese Einwilligung in das Rechtsgut der k\u00f6rperlichen Unver-sehrtheit eingegriffen werden kann, geht der Entwurf zu Recht davon aus, dass eine fortgeschrittene elektronische Signatur anstatt der bisherigen strengen Schriftform erforderlich sein muss - und nicht etwa nur eine Einwilligung etwa in Textform per einfacher E-Mail ausreichend ist. Diese fortgeschrittene elektroni-sche Signatur muss jedoch nach der UN-BRK barrierefrei ausgestaltet sein, damit alle Menschen \u2013 auch Menschen mit Behinderung - gleicherma\u00dfen Zugang zu die-ser M\u00f6glichkeit haben.\r\n\r\nGleiches gilt auch f\u00fcr das Aufkl\u00e4rungsgespr\u00e4ch; auch bei diesem muss angesichts der Bedeutung f\u00fcr die k\u00f6rperliche Unversehrtheit sichergestellt sein, dass dieses barrierefrei ausgestaltet ist, etwa wenn eine Teleaufkl\u00e4rung erfolgt. Dabei bein-haltet das Erfordernis der Barrierefreiheit nicht nur technische Vorkehrungen, etwa f\u00fcr Sehbehinderte, sondern auch die ggf. die Verwendung leichter Sprache, damit sichergestellt ist, dass der Betroffene die Risiken auch verstanden hat.\r\n\r\n2.\tBundes-Ethikkommission und Vereinheitlichung der Arbeit der Ethikkom-missionen (\u00a7\u00a7 41c, d AMG, 32a MPDVO RefE)\r\n\r\nDie BAG SELBSTHILFE teilt die Auffassung der Bundesregierung, dass die Arbeit der Ethikkommissionen st\u00e4rker vereinheitlicht werden sollte. Voraussetzung daf\u00fcr sind einheitliche Vorgaben hinsichtlich inhaltlicher Standards und formaler Abl\u00e4u-fe f\u00fcr die Studienbegutachtungen, die dem von \u00c4rzt*innen und Forscher*innen oft beschriebenen \u201eheterogenen Wildwuchs\u201c bei Abstimmungen und Konsultationen durch die unterschiedlichen Ethikkommissionen ein Ende bereitet. Insoweit wird die vorgesehene Richtlinienkompetenz durch den Arbeitskreis Medizinischer Ethikkommissionen explizit durch die BAG SELBSTHILFE begr\u00fc\u00dft.\r\n\r\nBei der vorgesehenen Bundes-Ethikkommission stellt sich hingegen die Frage, ob hier nicht durch zus\u00e4tzliche Strukturen \u2013 zumindest anf\u00e4nglich \u2013 eine Verkompli-zierung der vorhandenen Verfahren stattfindet und neue Unsicherheiten entste-hen. Zudem best\u00fcnde das Problem, dass erfahrene Vertreter*innen f\u00fcr die Bunde-sethikkommissionen nur aus den Landesethikkommissionen kommen k\u00f6nnen, was dann wiederum zu einer Schw\u00e4chung dieser Institutionen f\u00fchren d\u00fcrfte. Schlie\u00dflich fehlen bisher die Ma\u00dfnahmen, die sicherstellen, dass die Anzahl der Ethikvoten f\u00fcr klinische Studien stark reduziert wird (\u201eone vote\u201c).\r\n\r\nInsgesamt d\u00fcrfte die Teilnahme an den Ethikkommissionen auf Bundes- und Lan-desebene sowie die entsprechende Abstimmung auch f\u00fcr die Patientenvertre-ter*innen eine Herausforderung darstellen, die durch eine Unterst\u00fctzungsstruktur abgesichert werden sollte. Dies k\u00f6nnte eine Stabsstelle sein, die auch die ande-ren Aufgaben der Patientenvertreter*innen beim BfArM (etwa zum Thema Lie-ferengp\u00e4sse) begleitet. Insoweit fordert die BAG SELBSTHILFE schon seit l\u00e4ngerem die Einrichtung einer entsprechenden Stabsstelle beim BfArM, die als zus\u00e4tzliche Aufgabe auch die Unterst\u00fctzung und Vernetzung der Patientenvertreter*innen in den Ethikkommissionen auf Bundes- und Landesebene \u00fcbernehmen k\u00f6nnte.\r\n\r\nSchlie\u00dflich sollte die Anzahl der zu beteiligenden Patientenvertreter*innen mit mindestens zwei Personen festgelegt werden: Denn in der Regel handelt es sich um Betroffene, die eine oder mehrere chronische Erkrankungen haben; hier kann es immer wieder zu Ausf\u00e4llen kommen. Auch wenn nat\u00fcrlich mit Stellvertre-ter*innen gearbeitet werden kann, so ist die Kontinuit\u00e4t der Beratungen bei einer abwechselnden Teilnahme nur schwer sicherzustellen.\r\n\r\n3.\tVertraulichkeit der Erstattungspreise (\u00a7 35 Abs. 1c, 4a SGB V)\r\n\r\nDie BAG SELBSTHILFE sieht die vorgesehen Wahlm\u00f6glichkeit des pharmazeuti-schen Herstellers hinsichtlich der Vertraulichkeit des Erstattungspreises kritisch. Generell gibt es im Gesundheitssystem kein Zuviel an Transparenz, sondern eher ein Zuwenig. Hinzu kommt, dass sich die Regelung der Vertraulichkeit bei Pati-ent*innen, die sich in der PKV entscheiden, Selbstzahler ohne Erstattung zu sein (etwa wegen Selbstbehalt oder R\u00fcckerstattungen), negativ auswirkt, da sie kei-nen Anspruch auf Erstattung haben. Insgesamt ist ohnehin fraglich, woher Pati-ent*innen erfahren, dass sie ggf. in der PKV und der GKV Anspruch auf entspre-chende Erstattung haben; dieses Wissen ben\u00f6tigen sie jedoch f\u00fcr dessen Bean-tragung. Denn im GKV-Bereich kann die Vertraulichkeit Auswirkungen auf die H\u00f6-he der Zu- und Aufzahlungen haben, etwa wenn der Betroffene bereit ist, die Mehrkosten als Aufzahlungen f\u00fcr \u201esein\u201c Medikament selbst zu tragen. Schlie\u00dflich bleibt die Frage, wie sich die Vertraulichkeit auf die Wirtschaftlichkeitspr\u00fcfungen der \u00c4rzte auswirkt, da diese im Grunde kaum noch m\u00f6glich sind. Auch wenn die BAG SELBSTHILFE die Durchf\u00fchrung von Wirtschaftlichkeitspr\u00fcfungen wegen h\u00e4ufig negativen Auswirkungen auf die Patientenversorgung durchaus kritisch sieht, d\u00fcrfte ihr genereller Wegfall eventuell beitragsrelevanten Kostensteigerungen im Gesundheitswesen zur Folge haben, die dann wiederum die Patient*innen als Bei-tragszahler treffen.\r\n\r\nInfolgedessen h\u00e4lt die BAG SELBSTHILFE an ihrer schon in der letzten Legislatur-periode vertretenen Auffassung fest, dass die Erstattungspreise weiterhin trans-parent bleiben sollten.\r\n\r\n\r\n\r\n4.\tDezentralisierung durch Direktabgabe der Pr\u00fcfpr\u00e4parate (\u00a7 47 AMG RefE)\r\n\r\nDie BAG SELBSTHILFE begr\u00fc\u00dft die Dezentralisierung der Studiendurchf\u00fchrung ebenso wie die Ma\u00dfgabe, dass die Direktabgabe nur erfolgen darf, wenn sicher-gestellt ist, dass der Sponsor keinen Zugriff auf die Daten der Proband*innen hat. Eine solche Regelung ist aus ihrer Sicht aus Gr\u00fcnden des Schutzes der sensiblen Gesundheitsdaten unabdinglich.\r\n\r\n\r\n\r\nD\u00fcsseldorf/ Berlin, 22. Februar 2024\r\n"
+                        }
+                    }
+                ],
+                "title": "Medzinforschungsgesetz"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/2f/74/289800/Stellungnahme-Gutachten-SG2406110017.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-01"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002143",
+                "regulatoryProjectTitle": "Medzinforschungsgesetz",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "\r\n\r\n \r\n\t\r\n\r\nBundesarbeitsgemeinschaft Selbsthilfe von\r\nMenschen mit Behinderung und chronischer \r\nErkrankung und ihren Angeh\u00f6rigen e.V. \r\nBAG SELBSTHILFE \r\nKirchfeldstr. 149\r\n40215 D\u00fcsseldorf\r\nTel. 0211/31006-0\r\nFax. 0211/31006-48\r\n\r\n\r\n\r\n\r\n\r\nStellungnahme der\r\n\r\n\r\nBundesarbeitsgemeinschaft SELBSTHILFE \r\nvon Menschen mit Behinderung, \r\nchronischer Erkrankung und ihren Angeh\u00f6rigen e.V. \r\n(BAG SELBSTHILFE) \r\n\r\nzum \r\n\r\nEntwurf eines Medizinforschungsgesetzes\r\n(MFG)\r\n\t\r\n\r\n-\tAnh\u00f6rung im Bundesministerium f\u00fcr Gesundheit\r\n am 20.02.2024 - \r\n\r\n\r\nAls Dachverband von 123 Bundesverb\u00e4nden der Selbsthilfe chronisch kranker und behinderter Menschen und deren Angeh\u00f6rigen sowie von 13 Landesarbeitsge-meinschaften begr\u00fc\u00dft es die BAG SELBSTHILFE, dass die Durchf\u00fchrung von Stu-dien in Deutschland vorangetrieben werden soll. Gerade f\u00fcr Menschen mit chro-nischen Erkrankungen und Behinderungen ist medizinische Forschung zur Verbes-serung ihrer Behandlungsm\u00f6glichkeiten nach wie vor elementar. Dies gilt insbe-sondere f\u00fcr Indikationsbereiche, in denen es keine oder nur ungen\u00fcgende Stan-dardversorgung gibt. Eine Studiendurchf\u00fchrung in Deutschland hat f\u00fcr die Be-troffenen dabei zum einen den Vorteil, dass die \u00dcbertragung der Studienergebnis-se auf den deutschen Versorgungskontext sp\u00e4ter bei der Bewertung leichter m\u00f6g-lich ist; zum anderen er\u00f6ffnet dies den Patient*innen auch die M\u00f6glichkeit, selbst an Studien teilzunehmen: Gerade dann, wenn die bisherigen (Standard-) Thera-pien ausgesch\u00f6pft sind, k\u00f6nnen derartige Studienteilnahmen eine Chance f\u00fcr Pa-tient*innen sein.\r\n\r\nAuch die Verringerung b\u00fcrokratischer H\u00fcrden sowie die Harmonisierung bearbei-tender Beh\u00f6rden (z.B. bei Strahlenschutzgenehmigungen) begr\u00fc\u00dft die BAG SELBSTHILFE ausdr\u00fccklich; sie fordert jedoch dar\u00fcber hinaus substantielle b\u00fcro-kratische Entlastung von medizinischem Personal in klinischen Studien. Besonde-res Augenmerk sollte in diesem Zusammenhang auch auf den B\u00fcrokratieabbau bei den Investigator Initiated Trails (universit\u00e4re Forschung) gelegt werden, da diese \u00fcblicherweise \u00fcber geringere personelle und finanzielle Ressourcen verf\u00fc-gen.\r\n\r\nZu den Regelungen im Einzelnen:\r\n\r\n1.\tEinf\u00fchrung der elektronischen Signatur (\u00a7 40b AMG RefE)\r\n\r\nDie BAG SELBSTHILFE begr\u00fc\u00dft es im Grundsatz, dass weitere M\u00f6glichkeiten zur Erf\u00fcllung des Formerfordernisses der Einwilligung er\u00f6ffnet werden. Angesichts dessen, dass \u00fcber diese Einwilligung in das Rechtsgut der k\u00f6rperlichen Unver-sehrtheit eingegriffen werden kann, geht der Entwurf zu Recht davon aus, dass eine fortgeschrittene elektronische Signatur anstatt der bisherigen strengen Schriftform erforderlich sein muss - und nicht etwa nur eine Einwilligung etwa in Textform per einfacher E-Mail ausreichend ist. Diese fortgeschrittene elektroni-sche Signatur muss jedoch nach der UN-BRK barrierefrei ausgestaltet sein, damit alle Menschen \u2013 auch Menschen mit Behinderung - gleicherma\u00dfen Zugang zu die-ser M\u00f6glichkeit haben.\r\n\r\nGleiches gilt auch f\u00fcr das Aufkl\u00e4rungsgespr\u00e4ch; auch bei diesem muss angesichts der Bedeutung f\u00fcr die k\u00f6rperliche Unversehrtheit sichergestellt sein, dass dieses barrierefrei ausgestaltet ist, etwa wenn eine Teleaufkl\u00e4rung erfolgt. Dabei bein-haltet das Erfordernis der Barrierefreiheit nicht nur technische Vorkehrungen, etwa f\u00fcr Sehbehinderte, sondern auch die ggf. die Verwendung leichter Sprache, damit sichergestellt ist, dass der Betroffene die Risiken auch verstanden hat.\r\n\r\n2.\tBundes-Ethikkommission und Vereinheitlichung der Arbeit der Ethikkom-missionen (\u00a7\u00a7 41c, d AMG, 32a MPDVO RefE)\r\n\r\nDie BAG SELBSTHILFE teilt die Auffassung der Bundesregierung, dass die Arbeit der Ethikkommissionen st\u00e4rker vereinheitlicht werden sollte. Voraussetzung daf\u00fcr sind einheitliche Vorgaben hinsichtlich inhaltlicher Standards und formaler Abl\u00e4u-fe f\u00fcr die Studienbegutachtungen, die dem von \u00c4rzt*innen und Forscher*innen oft beschriebenen \u201eheterogenen Wildwuchs\u201c bei Abstimmungen und Konsultationen durch die unterschiedlichen Ethikkommissionen ein Ende bereitet. Insoweit wird die vorgesehene Richtlinienkompetenz durch den Arbeitskreis Medizinischer Ethikkommissionen explizit durch die BAG SELBSTHILFE begr\u00fc\u00dft.\r\n\r\nBei der vorgesehenen Bundes-Ethikkommission stellt sich hingegen die Frage, ob hier nicht durch zus\u00e4tzliche Strukturen \u2013 zumindest anf\u00e4nglich \u2013 eine Verkompli-zierung der vorhandenen Verfahren stattfindet und neue Unsicherheiten entste-hen. Zudem best\u00fcnde das Problem, dass erfahrene Vertreter*innen f\u00fcr die Bunde-sethikkommissionen nur aus den Landesethikkommissionen kommen k\u00f6nnen, was dann wiederum zu einer Schw\u00e4chung dieser Institutionen f\u00fchren d\u00fcrfte. Schlie\u00dflich fehlen bisher die Ma\u00dfnahmen, die sicherstellen, dass die Anzahl der Ethikvoten f\u00fcr klinische Studien stark reduziert wird (\u201eone vote\u201c).\r\n\r\nInsgesamt d\u00fcrfte die Teilnahme an den Ethikkommissionen auf Bundes- und Lan-desebene sowie die entsprechende Abstimmung auch f\u00fcr die Patientenvertre-ter*innen eine Herausforderung darstellen, die durch eine Unterst\u00fctzungsstruktur abgesichert werden sollte. Dies k\u00f6nnte eine Stabsstelle sein, die auch die ande-ren Aufgaben der Patientenvertreter*innen beim BfArM (etwa zum Thema Lie-ferengp\u00e4sse) begleitet. Insoweit fordert die BAG SELBSTHILFE schon seit l\u00e4ngerem die Einrichtung einer entsprechenden Stabsstelle beim BfArM, die als zus\u00e4tzliche Aufgabe auch die Unterst\u00fctzung und Vernetzung der Patientenvertreter*innen in den Ethikkommissionen auf Bundes- und Landesebene \u00fcbernehmen k\u00f6nnte.\r\n\r\nSchlie\u00dflich sollte die Anzahl der zu beteiligenden Patientenvertreter*innen mit mindestens zwei Personen festgelegt werden: Denn in der Regel handelt es sich um Betroffene, die eine oder mehrere chronische Erkrankungen haben; hier kann es immer wieder zu Ausf\u00e4llen kommen. Auch wenn nat\u00fcrlich mit Stellvertre-ter*innen gearbeitet werden kann, so ist die Kontinuit\u00e4t der Beratungen bei einer abwechselnden Teilnahme nur schwer sicherzustellen.\r\n\r\n3.\tVertraulichkeit der Erstattungspreise (\u00a7 35 Abs. 1c, 4a SGB V)\r\n\r\nDie BAG SELBSTHILFE sieht die vorgesehen Wahlm\u00f6glichkeit des pharmazeuti-schen Herstellers hinsichtlich der Vertraulichkeit des Erstattungspreises kritisch. Generell gibt es im Gesundheitssystem kein Zuviel an Transparenz, sondern eher ein Zuwenig. Hinzu kommt, dass sich die Regelung der Vertraulichkeit bei Pati-ent*innen, die sich in der PKV entscheiden, Selbstzahler ohne Erstattung zu sein (etwa wegen Selbstbehalt oder R\u00fcckerstattungen), negativ auswirkt, da sie kei-nen Anspruch auf Erstattung haben. Insgesamt ist ohnehin fraglich, woher Pati-ent*innen erfahren, dass sie ggf. in der PKV und der GKV Anspruch auf entspre-chende Erstattung haben; dieses Wissen ben\u00f6tigen sie jedoch f\u00fcr dessen Bean-tragung. Denn im GKV-Bereich kann die Vertraulichkeit Auswirkungen auf die H\u00f6-he der Zu- und Aufzahlungen haben, etwa wenn der Betroffene bereit ist, die Mehrkosten als Aufzahlungen f\u00fcr \u201esein\u201c Medikament selbst zu tragen. Schlie\u00dflich bleibt die Frage, wie sich die Vertraulichkeit auf die Wirtschaftlichkeitspr\u00fcfungen der \u00c4rzte auswirkt, da diese im Grunde kaum noch m\u00f6glich sind. Auch wenn die BAG SELBSTHILFE die Durchf\u00fchrung von Wirtschaftlichkeitspr\u00fcfungen wegen h\u00e4ufig negativen Auswirkungen auf die Patientenversorgung durchaus kritisch sieht, d\u00fcrfte ihr genereller Wegfall eventuell beitragsrelevanten Kostensteigerungen im Gesundheitswesen zur Folge haben, die dann wiederum die Patient*innen als Bei-tragszahler treffen.\r\n\r\nInfolgedessen h\u00e4lt die BAG SELBSTHILFE an ihrer schon in der letzten Legislatur-periode vertretenen Auffassung fest, dass die Erstattungspreise weiterhin trans-parent bleiben sollten.\r\n\r\n\r\n\r\n4.\tDezentralisierung durch Direktabgabe der Pr\u00fcfpr\u00e4parate (\u00a7 47 AMG RefE)\r\n\r\nDie BAG SELBSTHILFE begr\u00fc\u00dft die Dezentralisierung der Studiendurchf\u00fchrung ebenso wie die Ma\u00dfgabe, dass die Direktabgabe nur erfolgen darf, wenn sicher-gestellt ist, dass der Sponsor keinen Zugriff auf die Daten der Proband*innen hat. Eine solche Regelung ist aus ihrer Sicht aus Gr\u00fcnden des Schutzes der sensiblen Gesundheitsdaten unabdinglich.\r\n\r\n\r\n\r\nD\u00fcsseldorf/ Berlin, 22. Februar 2024\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

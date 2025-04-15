@@ -1,0 +1,403 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-02-25T11:50:48.000+01:00",
+                "untilDate": "2024-07-02T00:34:53.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-25T11:50:48.000+01:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-07-02T00:34:53.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2024-01-25T09:04:35.000+01:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2024-07-02T00:34:53.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 28504,
+                "validFromDate": "2024-01-25T09:04:35.000+01:00",
+                "version": 3,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16434,
+                "validFromDate": "2023-02-20T14:18:46.000+01:00",
+                "validUntilDate": "2024-01-25T09:04:35.000+01:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 3183,
+                "validFromDate": "2022-02-25T11:50:48.000+01:00",
+                "validUntilDate": "2023-02-20T14:18:46.000+01:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Der Verband der Chemischen Industrie e.V., Landesverband Nordost (VCI Nordost) vertritt die wirtschaftspolitischen Interessen der chemischen und pharmazeutischen Industrie in Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Th\u00fcringen.  Zu diesem Zweck verfasst der Verband Stellungnahmen zu Gesetzgebungsverfahren und f\u00fchrt Gespr\u00e4che mit Bundestagsabgeordneten und Mitgliedern der Bundesregierung.",
+        "activityOperationType": "SELF_OPERATED",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_FA_CULTURE",
+                "de": "Ausw\u00e4rtige Kultur- und Bildungspolitik",
+                "en": "Foreign cultural and educational policy"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_FA_BRD",
+                "de": "Au\u00dfenpolitik",
+                "en": "Foreign policy of the federal republic of Germany"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_HEALTH_MEDICINE",
+                "de": "Arzneimittel",
+                "en": "Medicine"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_EP_CHILDHOOD",
+                "de": "Vorschulische Bildung",
+                "en": "Early childhood education"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "clientIdentity": {
+        "clientsPresent": false
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/82/f3/254295/vci-compliance-leitfaden.pdf",
+        "ownCodeOfConduct": true
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 70001,
+            "to": 80000
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "VCI",
+            "nationalAdditional2": "Landesverband Nordost",
+            "street": "Lietzenburger Stra\u00dfe",
+            "streetNumber": "51",
+            "type": "NATIONAL",
+            "zipCode": "10789"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "vci@nordostchemie.de"
+                }
+            ],
+            "phoneNumber": "+49303438160",
+            "websites": [
+                {
+                    "website": "https://www.nordostchemie.de/"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_NIA",
+            "de": "Nicht rechtsf\u00e4higer Verein",
+            "en": "Non-incorporated association"
+        },
+        "legalFormType": {
+            "code": "OTHER_ASSOCIATION_OF_PERSONS",
+            "de": "Sonstige Personenvereinigungen",
+            "en": "Other associations of persons"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Nora",
+                "emails": [
+                    {
+                        "email": "schmidt-kesseler@nordostchemie.de"
+                    }
+                ],
+                "function": "Hauptgesch\u00e4ftsf\u00fchrerin",
+                "lastName": "Schmidt-Kesseler",
+                "phoneNumber": "+49303438160"
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-12-31",
+            "totalCount": 207
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Vereinigung der S\u00e4chsischen Wirtschaft e.V."
+            },
+            {
+                "membership": "Arbeitgeber- und Wirtschaftsverb\u00e4nde Sachsen-Anhalt e.V."
+            },
+            {
+                "membership": "Vereinigung der Unternehmensverb\u00e4nde in Berlin und Brandenburg e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Verband der Chemischen Industrie e.V., Landesverband Nordost",
+        "namedEmployees": [
+            {
+                "commonFirstName": "Nora",
+                "lastName": "Schmidt-Kesseler"
+            },
+            {
+                "commonFirstName": "Fabian",
+                "lastName": "Hoppe"
+            },
+            {
+                "commonFirstName": "Torben",
+                "lastName": "Sch\u00fctz"
+            },
+            {
+                "commonFirstName": "Jens",
+                "lastName": "Geyer-Lie\u00df"
+            }
+        ],
+        "namedEmployeesPresent": true
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "publicAllowancesPresent": false,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-02-20T14:18:46.000+01:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001566/28504",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/2f/ee/254296/Lobbyregister-Detailansicht-R001566-2024-01-25_09-04-35.pdf",
+        "refusedAnything": false,
+        "validFromDate": "2024-01-25T09:04:35.000+01:00",
+        "version": 3
+    },
+    "registerEntryId": 28504,
+    "registerNumber": "R001566"
+}

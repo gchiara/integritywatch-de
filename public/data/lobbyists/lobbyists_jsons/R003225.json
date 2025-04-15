@@ -1,0 +1,777 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-24T16:20:36.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-09T16:30:00.000+01:00",
+        "lastUpdateDate": "2024-06-24T10:38:42.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 33763,
+                "validFromDate": "2024-06-24T10:38:42.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26307,
+                "validFromDate": "2023-10-20T10:36:15.000+02:00",
+                "validUntilDate": "2024-06-24T10:38:42.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21649,
+                "validFromDate": "2023-06-14T16:34:22.000+02:00",
+                "validUntilDate": "2023-10-20T10:36:15.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21648,
+                "validFromDate": "2023-06-14T16:32:04.000+02:00",
+                "validUntilDate": "2023-06-14T16:34:22.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 14700,
+                "validFromDate": "2023-02-24T16:20:36.000+01:00",
+                "validUntilDate": "2023-06-14T16:32:04.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Das Deutsche Studierendenwerk (DSW) ist der bundesweite Verband der Studenten- und Studierendenwerke, mit Sitz in Berlin. Unsere Mitglieder sind als Anstalten des \u00f6ffentlichen Rechts nach den jeweiligen Regelungen der L\u00e4nder f\u00fcr die wirtschaftliche, soziale, gesundheitliche und kulturelle F\u00f6rderung der Studierenden an deutschen Hochschulen zust\u00e4ndig. Die Studenten- und Studierendenwerke sind gemeinn\u00fctzige Einrichtungen, die nach kaufm\u00e4nnischen Grunds\u00e4tzen arbeiten. Das Deutsche Studierendenwerk unterst\u00fctzt sie auf \u00fcberregionaler Ebene. Wir informieren und beraten die \u00d6ffentlichkeit und politische Entscheidungstr\u00e4ger \u00fcber die Arbeit unserer Mitglieder und wirken bei der Gestaltung der sozialen Rahmenbedingungen des Studiums mit. Im Rahmen unserer Arbeit finden regelm\u00e4\u00dfig Gespr\u00e4che mit Abgeordneten des Deutschen Bundestages sowie auf verschiedenen Ebenen innerhalb der Bundesregierung statt. Wir geben zu unterschiedlichen Regelungsvorhaben Stellungnahmen ab und treten als Expert*innen in \u00f6ffentlichen Anh\u00f6rungen auf. Auch in Experten-Gremien wie dem Beirat des Deutschlandstipendiums wirkt der Vorstand des Deutschen Studierendenwerks mit. ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EP_CHILDHOOD",
+                "de": "Vorschulische Bildung",
+                "en": "Early childhood education"
+            },
+            {
+                "code": "FOI_SP_FAMILY",
+                "de": "Familienpolitik",
+                "en": "Family policy"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_RP_RESIDE",
+                "de": "Wohnen",
+                "en": "Reside"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_SP_DIVERSITY",
+                "de": "Diversit\u00e4tspolitik",
+                "en": "Diversity policy"
+            },
+            {
+                "code": "FOI_SP_DISABILITY",
+                "de": "Rechte von Menschen mit Behinderung",
+                "en": "Rights of people with disabilities"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/92/7e/305961/DSW-JA22Pruefungsbericht.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.18,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 120001,
+            "to": 130000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Deutsches Studierendenwerk",
+            "street": "Monbijouplatz",
+            "streetNumber": "11",
+            "type": "NATIONAL",
+            "zipCode": "10178"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "dsw@studierendenwerke.de"
+                }
+            ],
+            "phoneNumber": "+493029772710",
+            "websites": [
+                {
+                    "website": "www.studierendenwerke.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Matthias",
+                "lastName": "Anbuhl",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Stefan",
+                "lastName": "Grob",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr. ",
+                "firstName": "Beate",
+                "lastName": "Sch\u00fccking",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Bernhard",
+                "lastName": "B\u00f6rsel",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Caroline",
+                "lastName": "Flockenhaus",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Petra",
+                "lastName": "Nau",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Angela",
+                "lastName": "Behrens",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Matthias",
+                "function": "Vorstand",
+                "lastName": "Anbuhl",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Stefan",
+                "function": "Besonderer Vertreter des Vorstands",
+                "lastName": "Grob",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-14",
+            "naturalPersons": 0,
+            "organizations": 57,
+            "totalCount": 57
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Der Parit\u00e4tische Gesamtverband "
+            },
+            {
+                "membership": "ECStA - European Council for Student Affairs"
+            },
+            {
+                "membership": "Kommunaler Arbeitgeberverband Berlin"
+            },
+            {
+                "membership": "Informationsdienst Wissenschaft"
+            },
+            {
+                "membership": "Wissenschaftszentrum Bonn"
+            },
+            {
+                "membership": "Deutsches Jugendherbergswerk"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Deutsches Studierendenwerk"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 3860001,
+            "to": 3870000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Das Deutsche Studierendenwerk erhielt 2023 vom Bundesministerium f\u00fcr Bildung und Forschung (BMBF) Zuwendungen f\u00fcr drei Servicestellen: Die Servicestelle Interkulturelle Kompetenz, die Servicestelle Familienfreundliches Studium und die Informations- und Beratungsstelle Studium und Behinderung. Dar\u00fcber hinaus hat das Deutsche Studierendenwerk im Jahr 2023 Zuwendungen vom BMBF f\u00fcr den 26. Bundeswettbewerb \"Bundespreis f\u00fcr Kunststudierende\" sowie den 37. und 38. Plakatwettbewerb bekommen. Zuwendungen des BMBF hat das Deutsche Studierendenwerk im Jahr 2023 weiterhin f\u00fcr die \u00dcberbr\u00fcckungshilfe f\u00fcr Studierende in pandemiebedingter Notlage und f\u00fcr die integrierte Studierendenbefragung erhalten.",
+                "location": "Berlin/Bonn",
+                "name": "Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 1130001,
+                    "to": 1140000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R003225/33763",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-24T10:38:42.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a4/1b/305970/Lobbyregister-Detailansicht-R003225-2024-06-24_10-38-42.pdf",
+        "validFromDate": "2024-06-24T10:38:42.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 33763,
+    "registerNumber": "R003225",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BAf\u00f6G",
+                        "title": "Bundesgesetz \u00fcber individuelle F\u00f6rderung der Ausbildung",
+                        "url": "https://www.gesetze-im-internet.de/baf_g"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Das Deutsche Studierendenwerk setzt sich im parlamentarischen Verfahren daf\u00fcr ein, dass die Bedarfss\u00e4tze angepasst werden, die Wohnkostenpauschale weiter angehoben wird und die zur Verf\u00fcgung stehenden Haushaltsmittel voll ausgesch\u00f6pft werden. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EDUCATION_PARENTING",
+                        "de": "Bildung und Erziehung",
+                        "en": "Education and parenting"
+                    },
+                    {
+                        "code": "FOI_EP_ACADEMIC",
+                        "de": "Hochschulbildung",
+                        "en": "Academic education"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/113/2011313.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMBF",
+                                "title": "Bundesministerium f\u00fcr Bildung und Forschung",
+                                "url": "https://www.bmbf.de/bmbf/de/home/home_node.html"
+                            }
+                        ],
+                        "printingNumber": "20/11313",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/neunundzwanzigstes-gesetz-zur-%C3%A4nderung-des-bundesausbildungsf%C3%B6rderungsgesetzes-29-baf%C3%B6g%C3%A4ndg/309829",
+                        "title": "Entwurf eines Neunundzwanzigsten Gesetzes zur \u00c4nderung des Bundesausbildungsf\u00f6rderungsgesetzes (29. BAf\u00f6G\u00c4ndG)"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0004449",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d8/38/305962/Stellungnahme-Gutachten-SG2406140048.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-05"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0004449",
+                        "regulatoryProjectTitle": "\u00c4nderungen an der BAf\u00f6G-Novelle (29. BAf\u00f6G\u00c4ndG)",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Stellungnahme des Deutschen Studierendenwerks anl\u00e4sslich der Sachverst\u00e4ndigenanh\u00f6rung am 5.6.2024 des Bundestags-Ausschusses f\u00fcr Bildung, Forschung und Technikfolgenabsch\u00e4tzung zum Entwurf eines 29. BAf\u00f6G-\u00c4nderungsgesetzes \r\nAls Dachverband aller Studierenden- und Studentenwerke in Deutschland, der satzungsgem\u00e4\u00df \u2013 abgeleitet aus den landesgesetzlichen Aufgaben der Studierenden- und Studentenwerke \u2013 auch sozialpolitische Belange von Studierenden wahrnimmt, nimmt das Deutsche Studierendenwerk (DSW) zum Gesetzentwurf Stellung.\r\nDas Deutsche Studierendenwerk appelliert eindringlich, \r\n\u2022\tdie vom Haushaltsausschuss des Deutschen Bundestags f\u00fcr 2024 angebotene Finanzaufstockung in H\u00f6he von 150 Millionen Euro als BAf\u00f6G-Zuschuss f\u00fcr Studierende mit der Zweckbindung  f\u00fcr eine echte BAf\u00f6G-Reform ist komplett auszusch\u00f6pfen. Dies hat auch der Bundesrat vorgeschlagen . \r\nDie 29. BAf\u00f6G-Novelle ist die letzte geplante Novelle dieser Legislaturperiode \u2013 sofern das Bundesverfassungsgericht  den Gesetzgeber nicht noch zu einer Anhebung der BAf\u00f6G-Bedarfss\u00e4tze zwingt. Erfolgt in dieser Legislaturperiode keine weitere BAf\u00f6G-Anpassung mehr, k\u00f6nnte \u2013 nach Herbst 2022 \u2013 die n\u00e4chste Bedarfsanhebung realistischer Weise, nach einer Regierungsbildung bis Jahresende 2025, fr\u00fchestens erst im Herbst 2026 erfolgen. \r\n\u2003\r\nWir halten fest:\r\n\u2022\tDie 29. BAf\u00f6G-Novelle muss s\u00e4mtliche im Koalitionsvertrag beschriebenen BAf\u00f6G-Vorhaben sowie den 10-Punkte-Parlamentsbeschluss des Deutschen Bundestags vom Juni 2022  ein-l\u00f6sen. \r\n\u2022\tDer 23. BAf\u00f6G-Bericht der Bundesregierung nach \u00a7 35 BAf\u00f6G vom Dezember 2023  ist zu beachten. Im Bericht wird festgestellt, dass im Anpassungszeitraum 2022-2024 die Nettol\u00f6hne und -geh\u00e4lter um 12,2 % und die Verbraucherpreise um 8,7 % gestiegen sein werden. Dies gleicht eine in der 29. BAf\u00f6G-Novelle vorgesehene f\u00fcnfprozentige Anhebung der BAf\u00f6G-Freibetr\u00e4ge und eine Nullrunde bei den BAf\u00f6G-Bedarfss\u00e4tzen keineswegs aus. \r\nMit der 29. BAf\u00f6G-Novelle werden zum Herbst 2024 die seit 1. Juli 2023 h\u00f6heren Pflegeversicherungszuschl\u00e4ge sowie die Minijobgrenze seit Jahresbeginn 2024 nachvollzogen.\r\nDie Dynamisierung der BAf\u00f6G-Parameter (Freibetr\u00e4ge, Bedarfss\u00e4tze, Kranken- und Pflegeversicherungszuschl\u00e4ge, Minijobgrenze) ist und bleibt politischer Auftrag in Koalitionsvertrag und Parlamentsbeschluss. \r\n\u2022\tDie BAf\u00f6G-Bedarfss\u00e4tze m\u00fcssen existenzsichernd sein , damit das Grundrecht auf Berufswahlfreiheit eingel\u00f6st werden kann. \r\n\u2022\tDie BAf\u00f6G-Wohnbedarfspauschale  ist chronisch zu niedrig. Als unteres Minimum f\u00fcr eine Erh\u00f6hung k\u00f6nnen die 410 \u20ac der D\u00fcsseldorfer Tabelle (seit 2023) herangezogen werden, die zum Jahreswechsel 2025 angepasst wird. \r\n\u2022\tAngesichts der rund 22.000 Studieng\u00e4nge in Deutschland  ist die Erweiterung der M\u00f6glichkeit eines Fachrichtungswechsels um ein Semester zu begr\u00fc\u00dfen.\r\n\u2022\tStatt einer Erweiterung der BAf\u00f6G-F\u00f6rderungsh\u00f6chstdauer um ein Flexibilit\u00e4tssemester ist die F\u00f6rderungsh\u00f6chstdauer an die Formel: Regelstudienzeit plus zwei Semester zu kn\u00fcpfen. Dies haben auch der Wissenschaftsrat  und der Bundesrat  empfohlen.\r\n\u2022\tDie Studienstarthilfe f\u00fcr Erstsemester aus Bedarfsgemeinschaften erf\u00fcllt dann ihren Zweck, \r\n-\twenn sie entstehende Kosten (Auswahlgespr\u00e4che/-tests vor Studienplatzzusage, Semesterbeitr\u00e4ge vor Immatrikulation, Mietkaution vor Mietvertrag) zeitnah deckt und nicht erst Monate sp\u00e4ter eine Refinanzierung stattfindet,\r\n-\twenn sie b\u00fcrokratiearm und aktenlos beantragt, bearbeitet sowie beschieden werden kann,\r\n-\tauch Erstsemester, die einen BAf\u00f6G-Anspruch haben  als auch diejenigen, in deren Familie bereits BAf\u00f6G-Empf\u00e4nger sind \u2013 und somit die BAf\u00f6G-Bed\u00fcrftigkeit der Familie schon vor Studienbeginn feststeht \u2013 sollen die Studienstarthilfe erhalten k\u00f6nnen.\r\n\u2022\tDie Ma\u00dfnahmen zur Verwaltungsvereinfachung des BAf\u00f6G sind weiterhin h\u00f6chstens rudiment\u00e4r. Eine wegfallende Pflicht des Bundes zur Abstimmung der BAf\u00f6G-Formbl\u00e4tter mit den Bundesl\u00e4ndern ist zwar eine Verwaltungsvereinfachung, aber ausschlie\u00dflich f\u00fcr den Bund selbst, nicht aber f\u00fcr die Studierenden. Der seit dem Bologna-Prozess 1999 anachronistische BAf\u00f6G-Leistungsnachweis (\u00a7 48 BAf\u00f6G) - weiterhin exakt zum Zeitpunkt des fr\u00fcheren Vordiploms - ist ersatzlos zu streichen.  Zudem ist eine Verl\u00e4ngerung der Bewilligungsdauer zielf\u00fchrend. \r\n\u2022\tDas BMBF hat aus dem Koalitionsvertrag sowie Bundestagsentschlie\u00dfung mehrere Pr\u00fcfauftr\u00e4ge. Es soll L\u00f6sungen vorlegen, z.B. zum Teilzeitstudium  oder Verstetigung . Schon allein aus Gr\u00fcnden der Transparenz sollten die Ergebnisse von Pr\u00fcfauftr\u00e4gen ver\u00f6ffentlicht werden. \r\n\u2003\r\nGrunds\u00e4tzlich wird aus Gr\u00fcnden der Glaubw\u00fcrdigkeit davon ausgegangen, dass s\u00e4mtliche Ank\u00fcndigungen im Koalitionsvertrag bzw. der Bundestagsentschlie\u00dfung Juni 2022 innerhalb dieser Legislaturperiode vollumf\u00e4nglich umgesetzt werden (Zum Beispiel: Darlehenssenkung ).\r\nDer Bundesfinanzminister hat betont, dass auch bei einer Haushaltskonsolidierung Bildung als Zukunftsinvestition ausgenommen sein m\u00fcsse.  Deshalb sind die vom Bundestags-Haushaltsausschuss f\u00fcr 2024 bereitgestellten 150 Mio. \u20ac f\u00fcr den BAf\u00f6G-Zuschuss Studierender  vollst\u00e4ndig zu verwenden. \r\nWenn wir nach Dringlichkeit priorisieren m\u00fcssten, w\u00fcrden wir so entscheiden:\r\n\u2022\tPriorit\u00e4t 1: Existenzsichernde Bedarfss\u00e4tze (wie BVerwG: eine Indexierung ist m\u00fc\u00dfig, wenn der Ausgangswert nicht existenzsichernd ist)\r\n\u2022\tPriorit\u00e4t 2: Automatische Dynamisierung von BAf\u00f6G-Freibetr\u00e4gen, -Bedarfss\u00e4tzen, -Sozialpauschalen, KV-/PV-Zuschl\u00e4gen, Minijobgrenze. Ohne Dynamisierung ist eine einmalige Existenzsicherung wertlos. \r\n\u2022\tPriorit\u00e4t 3: BAf\u00f6G-Freibetr\u00e4ge m\u00fcssen so sein, dass Familien nicht nur mit unteren Einkommen, sondern mittleren Einkommen erreicht werden (Zieldefinition im BAf\u00f6G 1971 ).\r\n\u2022\tPriorit\u00e4t 4: Sofern die \u201eKindergrundsicherung\u201c nicht in 2025 kommt: Die dort beschriebene \u00c4nderung des \u00a7 74 EStG (Direktauszahlung des Garantiebetrags/Kindergeldes an erwachsene Auszubildende) muss auch ohne das Gesetzespaket \u201eKindergrundsicherung\u201c umgesetzt werden. Damit wird zwar das BAf\u00f6G nicht elternunabh\u00e4ngiger, aber die Studierenden.\r\n\u2003\r\nIm Bewusstsein, dass die beiden folgenden Priorit\u00e4ten zeitnah begonnen, aber realistisch erst innerhalb von zwei Jahren umgesetzt werden k\u00f6nnten:\r\n\u2022\tPriorit\u00e4t 5: Bundeseinheitliche Digitalisierung aller BAf\u00f6G-Prozesse  im Wege einer Bund-L\u00e4nder-Kooperation  (in anderen Bildungsbereichen ist stets eine Bund-L\u00e4nder-Kooperation \u00fcblich)\r\n\u2022\tPriorit\u00e4t 6: Grundlegende Verwaltungsvereinfachung der gesetzlichen BAf\u00f6G-Vorgaben  (z.B. Streichung des anachronistischen BAf\u00f6G-Leistungsnachweises, Verl\u00e4ngerung des Bewilligungszeitraumes)\r\n\u2022\tPriorit\u00e4t f\u00fcr die Bundesl\u00e4nder: Die personelle und s\u00e4chliche Ausstattung muss z\u00fcgige BAf\u00f6G-Entscheidungen gew\u00e4hrleisten.  Dazu verpflichtet auch \u00a7 17 Abs. 1 Nr. 1 des SGB I .\r\n\r\nBerlin, 30. Mai 2024\r\nMatthias Anbuhl\r\nVorstandsvorsitzender des Deutschen Studierendenwerks\r\n"
+                        }
+                    }
+                ],
+                "title": "\u00c4nderungen an der BAf\u00f6G-Novelle (29. BAf\u00f6G\u00c4ndG)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Das Deutsche Studierendenwerk setzt sich f\u00fcr die Sicherung der Mobilit\u00e4t von Studierenden ein. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_POLICY",
+                        "de": "Verkehrspolitik",
+                        "en": "Transport policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004450",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/76/31/305964/Stellungnahme-Gutachten-SG2406140050.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMBF",
+                                        "de": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                                        "en": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                        "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                        "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-08"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0004450",
+                        "regulatoryProjectTitle": "Deutschlandticket f\u00fcr Studierende",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Stellungnahme des Deutschen Studierendenwerks e.V. zur Umsetzung des Deutschlandtickets f\u00fcr Studierende\r\nGrundlegende Festlegungen zu den Tarifbestimmungen f\u00fcr das Deutschland-Ticket vom 27.01.2023, aktualisiert am 27.11.2023 und 15.01.2024;\r\n\r\nMustervertrag mit Anlagen, insbesondere Beschluss \u00fcber die Tarifbestimmungen f\u00fcr das Deutschlandticket vom 08.03.2023, aktualisiert am 30.05.2023, 10.07.2023, 25.09.2023, 27.11.2023 und 11.12.2023, Anlage 1 zur Muster AV\r\n\r\nDas Deutsche Studierendenwerk (DSW) ist der Dachverband der 57 Studierendenwerke in Deutschland. Die Studierendenwerke nehmen auf Grundlage von Landeshochschul- bzw. Landesstudierendenwerksgesetzen Aufgaben der \u00f6ffentlichen Daseinsvorsorge, insbesondere der sozialen F\u00f6rderung von Studierenden, wahr. Dazu geh\u00f6rt an mehreren Hochschulstandorten auch die Verhandlung und Administration der \u00d6PNV-Tickets f\u00fcr Studierende. Das Deutsche Studierendenwerk nimmt auf Grundlage seiner Vereinssatzung sowohl die Interessen der Studierendenwerke als auch sozialpolitische Belange von Studierenden wahr.\r\n\r\nIm November 2023 haben sich Bund und L\u00e4nder auf die Einf\u00fchrung eines einheitlichen deutschlandweiten Mobilit\u00e4tstarifs f\u00fcr Studierende als Solidarmodell geeinigt. Als fr\u00fchester Starttermin wurde das Sommersemester 2024 bestimmt. An einigen Hochschulstandorten konnte die Einf\u00fchrung zum Sommersemester 2024 realisiert werden bzw. wird eine Umsetzung zum Wintersemester 2024/25 geplant. In anderen Regionen wurde das Angebot grunds\u00e4tzlich abgelehnt und demzufolge nicht eingef\u00fchrt oder es war eine Umsetzung zum Sommersemester 2024 bzw. eine Einf\u00fchrung zum Wintersemester 2024/25 h\u00e4ufig aus zeitlichen Gr\u00fcnden nicht m\u00f6glich.\r\n\r\nMit der nachfolgenden Stellungnahme m\u00f6chten wir auf relevante Besonderheiten des deutschen Hochschulsystems, vermeidbare Schwierigkeiten und Hindernisse bei der Umsetzung des Deutschlandtickets f\u00fcr Studierende hinweisen und zu einer sachgerechten Weiterentwicklung des Deutschlandtickets f\u00fcr Studierende und Steigerung der Akzeptanz beitragen.\r\n\r\nAllgemein\r\n\r\nNicht in jeder Region bzw. an jedem Hochschulstandort ist eine Einf\u00fchrung des Deutschland-Semestertickets gew\u00fcnscht, insbesondere wenn die Verkehrsanbindungen schlecht und das bisherige Semesterticket deutlich g\u00fcnstiger ist. Auch in Bayern und Baden-W\u00fcrttemberg besteht aktuell aufgrund der bestehenden besonderen kosteng\u00fcnstigen L\u00e4nderl\u00f6sungen f\u00fcr Studierende bzw. junge Menschen kaum Nachfrage nach dem Deutschlandticket f\u00fcr Studierende. Der Wechsel vom bisherigen Semesterticket zum Deutschland-Semesterticket ist vor allem dort attraktiv bzw. auch rechtlich geboten, wo eine gute Versorgung mit \u00d6PNV-Angeboten besteht und der Preis des Deutschland-Semestertickets \u00e4hnlich hoch wie oder sogar g\u00fcnstiger als das bisherige regionale Semesterticket ist (z.B. in den Ballungsr\u00e4umen).\r\n\r\nDie Verhandlungssituationen und die am Ende ausgehandelten Vertr\u00e4ge sind uneinheitlich. Der von den Verkehrsministerien zur Verf\u00fcgung gestellte Mustervertrag enth\u00e4lt fakultative Passagen, die von den Verhandlungsparteien individuell ge\u00e4ndert werden k\u00f6nnen. Von unseren Mitgliedern und den Studierendenvertretungen wurde \u00fcber unterschiedlichste Formulierungen in den Vertr\u00e4gen zu vergleichbaren Sachverhalten berichtet. Die Abweichungen betreffen zentrale Aspekte wie den berechtigten Personenkreis (z.B. Gasth\u00f6rer*innen, berufsbegleitend Studierende, Fernstudierende, Schwerbehinderte), die Laufzeit, die technischen Leistungen der Vertragspartner, K\u00fcndigungsm\u00f6glichkeiten und das Wiederaufleben der bisherigen Semesterticketvertr\u00e4ge. Sachliche Erw\u00e4gungen f\u00fcr eine Andersbehandlung sind h\u00e4ufig nicht erkennbar, vielmehr scheint die jeweilige Verhandlungsf\u00fchrung der Vertragsparteien den Ausschlag zu geben. Eine Ungleichbehandlung trotz vergleichbarer Sachverhalte ist vor dem Hintergrund, dass es sich um ein verpflichtendes Ticket handelt, nicht vertretbar. Daher schlagen wir eine Vereinheitlichung von Regelungen des Mustervertrags, z.B. durch Regelung von Mindestfristen, vor.\r\n\r\nHindernisse f\u00fcr die Einf\u00fchrung\r\n\r\nBei der Beschlussfassung am 27. November 2023 gab es vielerorts nicht mehr die notwendige Vorbereitungszeit f\u00fcr die Einf\u00fchrung des Deutschland-Semestertickets. Die \u00d6PNV-Versorgung in Deutschland ist bereits im Allgemeinen vielschichtig. F\u00fcr die Studierendentickets kommt hinzu, dass mehrere Seiten die Vertr\u00e4ge verhandeln und aufgrund der verpflichtenden Abnahme des Tickets f\u00fcr alle immatrikulierten Studierenden einer Hochschule im Vorfeld formale Schritte wie Gremienbeschl\u00fcsse, \u00c4nderung von Beitragsordnungen, z.T. auch Genehmigungen von Landesministerien erforderlich werden. Da die Ticketkosten Teil des Semesterbeitrags sind, die im Rahmen der Immatrikulation und R\u00fcckmeldung zum Studium f\u00e4llig werden, sind sie mit ausreichendem Vorlauf den Studierenden bekanntzugeben. Eine Einf\u00fchrung zum Sommersemester 2024 scheiterte daher an den meisten Standorten, aber auch zum Wintersemester 2024/25 wird es f\u00fcr viele Hochschulstandorte zeitlich eng.\r\n\r\nAuch haben sich Studierendenschaften gegen eine Einf\u00fchrung entschieden, wenn der Leistungsumfang der bisherigen Semestertickets beim Deutschlandticket nicht erreicht wird: Die Mitnahmem\u00f6glichkeit von Kindern im Alter von 6 bis 14 Jahren, die mit dem Deutschlandticket nicht mehr m\u00f6glich ist, ist f\u00fcr studierende Eltern ein entscheidender Kostenfaktor. Laut 22. Sozialerhebung zur sozialen und wirtschaftlichen Lage der Studierenden in Deutschland 2021 haben 8% der Studierenden ein oder mehr Kinder; auf Grundlage von 2,9 Mio. Studierenden gibt es damit rund 232.000 studierende Eltern. \u00dcber ein F\u00fcnftel der studentischen Kinder (22%) ist im schulpflichtigen Alter zwischen 7 \u2013 15 Jahren. Auch die kostenlose Mitnahme von Fahrr\u00e4dern in den \u00f6ffentlichen Verkehrsmitteln entf\u00e4llt zuk\u00fcnftig f\u00fcr Studierende im Deutschlandtickettarif und zwar in Regionen, in denen die Hochschulstandorte von dem Fern- und S-Bahnh\u00f6fen ohne ausreichende Busverbindung ausgestattet sind und so weit entfernt liegen, dass sie nicht mit vertretbarem Zeitaufwand zu Fu\u00df erreicht werden k\u00f6nnen.\r\n\r\nAus diesem Grund sind bestehende Mitnahmeregelungen aus den bisherigen Semestertickets f\u00fcr das Deutschlandsemesterticket beizubehalten. Zumindest sollte die M\u00f6glichkeit einger\u00e4umt werden, die Vertr\u00e4ge mit den Verkehrsunternehmen im Einzelfall entsprechend anzupassen.\r\n\r\nSicherung der Mobilit\u00e4t von Studierenden\r\n\r\nDie Erreichbarkeit der Hochschulstandorte muss f\u00fcr Studierende dauerhaft gesichert werden. Dazu geh\u00f6rt an erster Stelle ein garantiert sozialvertr\u00e4glicher Ticketpreis. Durch die Einf\u00fchrung des Deutschlandtickets ist aber die Ticketpreisentwicklung f\u00fcr Studierende langfristig praktisch nicht mehr vorhersehbar und planbar, da diese vom Ausgabepreis des Deutschlandtickets abh\u00e4ngt. Eine Erh\u00f6hung des Ticketpreises ist aufgrund der Inflation und der damit verbundenen wirtschaftlichen Situation der Studierenden nicht zumutbar und w\u00fcrde voraussichtlich zu einer R\u00fcckkehr zu regionalen Semestertickets oder Aufgabe von Semestertickets f\u00fchren.\r\n\r\nDaher wird dringend eine H\u00f6chstgrenze ben\u00f6tigt, um die Preise auf niedrigem Niveau zu halten. Dabei kann es keine L\u00f6sung sein, ein bundesweites verpflichtendes Ticket in allen Regionen einzuf\u00fchren, weil das Nahverkehrsangebot nicht \u00fcberall, z.B. in l\u00e4ndlichen Regionen, ausreichend ist. Die Orientierung der Preish\u00f6he an der Entwicklung des Deutschlandtickets ist daher nicht sachgerecht und aufgrund des verpflichtenden Charakters auch nicht zumutbar. Der Ticketpreis sollte sich vielmehr an den Lebensverh\u00e4ltnissen von Studierenden orientieren und k\u00f6nnte sich beispielsweise nach dem BAf\u00f6G-H\u00f6chstsatz richten.\r\nDie freiwillige Upgrade-L\u00f6sung muss insbesondere f\u00fcr Hochschulstandorte mit schlecht ausgebautem Nahverkehrsnetz auch \u00fcber das Wintersemester 2024/2025 hinaus beibehalten werden und darf nicht - wie aktuell geregelt - mit Ablauf des WS 2024/25 enden. Denn dort wird es voraussichtlich weiterhin beim Bezug des lokalen Semestertickets bleiben und zu einer Doppelbelastung durch zus\u00e4tzlichen Kauf des Deutschlandtickets zum regul\u00e4ren Preis kommen. Ein Upgrade muss f\u00fcr diese Studierenden also m\u00f6glich sein.\r\nK\u00fcndigung, Ruhen und Wiederaufleben bisheriger Semesterticketvertr\u00e4ge\r\n\r\nAufgrund der \u00e4u\u00dferst unklaren und nicht beeinflussbaren Preisentwicklung des Deutschlandsemestertickets und der langen Vorbereitungszeit f\u00fcr die Einf\u00fchrung von verpflichtenden Tickets (sowohl Deutschland-Semesterticket, als auch regionales Semesterticket) sind in den Vertr\u00e4gen mit den Verkehrsbetrieben folgende Punkte obligatorisch (und nicht wie aktuell geregelt fakultativ) aufzunehmen:\r\n\r\nSonderk\u00fcndigungsrecht bei Preiserh\u00f6hung\r\nR\u00fcckfall-Klausel f\u00fcr bisherige Semesterticketvertr\u00e4ge: Die bisher geltenden regionalen Semesterticketvertr\u00e4ge werden ruhend gestellt und leben bei Beendigung des Vertrags \u00fcber ein Deutschlandticket f\u00fcr Studierende wieder auf. Dieses muss im \u00dcbrigen auch f\u00fcr die L\u00e4nderl\u00f6sungen wie aktuell in Bayern und Baden-W\u00fcrttemberg gelten.\r\nRegelungen zu Vertragslaufzeiten, -beginn, -beendigung, -k\u00fcndigung m\u00fcssen wegen semesterweiser Immatrikulation und Beitragseinzug an Semester und nicht an das Kalenderjahr gekoppelt sein. Die beschriebenen langen Vorlaufzeiten sind zu ber\u00fccksichtigen und m\u00fcssen von den Vertragspartnern eingehalten werden (mindestens 8 Monate vor dem jeweiligen Semesterbeginn; Fristverl\u00e4ngerung muss im Einzelfall erm\u00f6glicht werden). Dabei ist je nach Standort zu ber\u00fccksichtigen, dass Semesterbeginn an den Universit\u00e4ten der 01.04. bzw. 01.10. und an den Fachhochschulen zum Teil am 01.03. bzw. am 01.09. ist und damit die R\u00fcckmeldezeitr\u00e4ume der Hochschulen unterschiedlich sein k\u00f6nnen.\r\nErstattungsm\u00f6glichkeiten/Ausnahmen von der Abnahmepflicht\r\n\r\nIn den Vertr\u00e4gen muss eine Pflicht zur monatsweisen Erstattung der Ticketkosten \u00fcber die benannten Tatbest\u00e4nde hinaus in berechtigten F\u00e4llen wie Exmatrikulation, z.B. bei erfolgreichem Abschluss des Studiums, Beurlaubung oder l\u00e4ngerer Klinik-/Krankenhausaufenthalt, die w\u00e4hrend des Semesters eintreten, gew\u00e4hrt werden. Ansonsten w\u00fcrden betroffene Studierende aufgrund des verpflichtenden Ticketbezugs f\u00fcr ein ganzes Semester Ticketkosten tragen, ohne die Bef\u00f6rderungsleistung in Anspruch nehmen zu k\u00f6nnen. Hinzu kommt, dass teilweise in den Hochschulgesetzen Erstattungsm\u00f6glichkeiten geregelt sind, vgl. z.B. \u00a7 19 Abs. 6 S. 4 NHG.\r\n\r\nBislang sieht das Vertragsmuster lediglich eine (Zwischen-)Meldung, sp\u00e4testens 4 Wochen nach Vorlesungsbeginn vor, bei deren Einhaltung eine Erstattung erfolgt. Diese Regelung greift in den oben beschriebenen F\u00e4llen, soweit sie w\u00e4hrend des laufenden Semesters eintreten, nicht.\r\n\r\nDigitale L\u00f6sung, Chipkarte, notwendige Datentransfers\r\n\r\nDas Deutschland-\u200bTicket ist ausschlie\u00dflich digital \u00fcber die Vertriebskan\u00e4le der Verkehrsunternehmen, Verkehrs-\u200b\u200b und Tarifverb\u00fcnde verf\u00fcgbar und kann entweder als Barcode in einer Smartphone-\u200b\u200bApp (Handy-Ticket) oder als elektronische Fahrkarte auf einer Chipkarte ausgegeben werden. Dabei ist die Kosten\u00fcbernahme f\u00fcr die Anschaffung der Chipkarten uneinheitlich geregelt, teilweise werden die Kosten von den Verkehrsunternehmen \u00fcbernommen, teilweise m\u00fcssen die Kosten von den Studierendenwerken bzw. Studierendenvertretungen, als Verhandlungs- und Vertragspartner der Verkehrsbetriebe, getragen werden. Hier sollte eine einheitliche Regelung getroffen werden, die die Verkehrsbetriebe als Aussteller von Chipkarten zur Kostentragung verpflichtet.\r\n\r\nDer Abschluss von Deutschland-Semesterticket-Vertr\u00e4gen scheiterte auch an der Weigerung von Hochschulen, die notwendigen Daten zur Durchf\u00fchrung des Deutschlandtickets an die Studierendenwerke bzw. Studierendenvertretungen weiterzugeben bzw. datenschutzkonforme L\u00f6sungen anzubieten. Nicht alle landesgesetzlichen Regelungen f\u00fcr den Hochschulbereich sehen entsprechende Klauseln vor, die eine Daten\u00fcbertragung z.B. der Hochschulen an die Studierendenwerke erlauben. Daher sollte es eine entsprechende Regelung \u00fcber die Verpflichtung der Hochschulen zur Daten\u00fcbertragung an alle beteiligten Vertragsparteien geben, soweit diese nicht bereits in Hochschulgesetzen oder Studierendenwerks-Gesetzen normiert ist.\r\n\r\nEinnahmeaufteilung, Postleitzahl der Hochschule\r\n\r\nDurch die deutschlandweite Nutzung des Deutschland-\u200bTickets muss das Einnahmenaufteilungsverfahren (EAV) besonders geregelt werden und die gerechte Aufteilung zwischen \u00d6ffentlichem Stra\u00dfenpersonenverkehr (\u00d6SPV) und des regionalem bzw. \u00fcberregionalem Schienenpersonenverkehr (SPNV) ber\u00fccksichtigen.\r\n\r\nNachdem f\u00fcr das Deutschlandticket f\u00fcr Studierende im Sommersemester 2024 auch eine Aufteilung der Einnahmen nach der Postleitzahl der jeweiligen Hochschule vorgesehen ist, soll sich ab dem Wintersemester 2024/25 die Aufteilung auf die Bundesl\u00e4nder allein nach den Wohnorten der Studierenden richten.\r\n\r\nDieses halten wir weder f\u00fcr praktikabel noch f\u00fcr sachgerecht. Die Adressdaten der Studierenden, die den Hochschulen vorliegen, sind teilweise nicht aktuell und weisen meistens die Heimatstandorte der Eltern aus. Nicht zu untersch\u00e4tzen ist auch der Anteil der (Programm-)Studierenden (z.B. Erasmus) mit Wohnsitz im EU-Ausland, aber auch im au\u00dfereurop\u00e4ischen Ausland. Die Studierenden nutzen jedoch das \u00d6PNV-Ticket in der Vorlesungszeit \u00fcberwiegend f\u00fcr Fahrten am Hochschulort. Insofern w\u00fcrden hier die Wohnort-Postleitzahlen das Ergebnis verzerren und die Aufteilung nicht richtig wiedergeben.\r\n\r\nAuch aus praktischer Sicht w\u00e4re die Aufteilung nach dem Hochschulort der Studierenden angezeigt. In der Praxis von Verkehrsbetrieben, die sich aktuell am Wohnsitz orientieren, geben die Studierenden beim Abruf des Tickets ihre Wohnortpostleitzahl an. Es ist davon auszugehen, dass nicht alle eingeschriebenen, beitragszahlenden Studierenden ein Ticket abrufen (z.B. nur 95 % der immatrikulierten Studierenden); verteilt werden m\u00fcssen aber alle Einnahmen aus dem Deutschland-Semesterticket an einer Hochschule, so dass f\u00fcr einen Teil der Einnahmen (in dem Beispiel 5%) ein Verteilungsschl\u00fcssel gebildet werden m\u00fcsste. Bei Zugrundelegung des Hochschulsitzes k\u00f6nnte die Verteilung direkt und unkompliziert erfolgen.\r\n\r\nErg\u00e4nzende Hinweise zu Fahrkontrollen\r\n\r\nDie Erhebung von Verwaltungsgeb\u00fchren, wenn ein g\u00fcltiges Deutschland-Semesterticket vorhanden ist, aber nicht vorgezeigt werden kann, sollte f\u00fcr eine \u00dcbergangszeit ausgesetzt werden. Die bisherigen Semestertickets waren gr\u00f6\u00dftenteils auf den Hochschul-Chipkarten gespeichert und verlieren dort, wo das Deutschlandsemesterticket eingef\u00fchrt wird, ihre G\u00fcltigkeit. Beim Deutschlandticket werden neue Tr\u00e4germedien oder Apps zur Verf\u00fcgung gestellt. Die Studierenden m\u00fcssen in der Regel selbst t\u00e4tig gegen\u00fcber den Verkehrsbetrieben werden, ansonsten k\u00f6nnten sie kein g\u00fcltiges Ticket vorweisen und es k\u00f6nnen Kosten durch ungewolltes Fahren ohne g\u00fcltigen Fahrausweis entstehen.\r\n\r\nBei Fahrkontrollen soll ber\u00fccksichtigt werden, dass die Hochschulen die immatrikulierten Studierende teilweise mit ihren K\u00fcnstler-/Aliasnamen speichern.  Insoweit kann der Name einer Person im Personalausweis von den Immatrikulationsdaten der Hochschulen abweichen. Bei Fahrkontrollen werden die von den Hochschulen \u00fcbermittelten Daten (Immatrikulationsdaten) mit denen im Personalausweis abgeglichen, so dass es zu Unstimmigkeiten in den Ausweisdokumenten kommen kann. Auch Erg\u00e4nzungsausweise (z.B. der dgti) sollten daher anerkannt werden, wenn die Namen im Immatrikulationsnachweis und im Personalausweis nicht \u00fcbereinstimmen.\r\n\r\n08. April 2024\r\n\r\nMatthias Anbuhl\r\nVorstandsvorsitzender des Deutschen Studierendenwerks"
+                        }
+                    }
+                ],
+                "title": "Deutschlandticket f\u00fcr Studierende"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "SGB 7",
+                        "title": "Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des Gesetzes vom 7. August 1996, BGBl. I S. 1254)",
+                        "url": "https://www.gesetze-im-internet.de/sgb_7"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Mit dem vorliegenden Referentenentwurf werden einige L\u00fccken in der gesetzlichen Unfallversicherung geschlossen. Insbesondere f\u00fcr Studierende soll zuk\u00fcnftig Unfallversicherungsschutz f\u00fcr Studierende bei der Anfertigung von Pflichtarbeiten sowie f\u00fcr Fr\u00fch- und Jungstudierende bestehen, was das Deutsche Studierendenwerk ausdr\u00fccklich begr\u00fc\u00dft.\r\nDas Deutsche Studierendenwerk macht auf zus\u00e4tzliche Aspekte des Hochschulstudiums und der sozialen Absicherung von Studierenden aufmerksam und m\u00f6chte damit zur Weiterentwicklung der gesetzlichen Unfallversicherung beitragen.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmas.de/SharedDocs/Downloads/DE/Gesetze/Referentenentwuerfe/ref-gesetz-zur-weiterentwicklung-der-gesetzlichen-unfallversicherung.pdf?__blob=publicationFile&v=1",
+                            "draftBillProjectUrl": "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/gesetz-zur-weiterentwicklung-der-gesetzlichen-unfallversicherung.html",
+                            "shortTitle": "BMAS",
+                            "title": "Bundesministerium f\u00fcr Arbeit und Soziales",
+                            "url": "https://www.bmas.de/DE/Startseite/start.html"
+                        }
+                    ],
+                    "publicationDate": "2024-02-21",
+                    "title": "Gesetz zur Weiterentwicklung der gesetzlichen Unfallversicherung"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EDUCATION_PARENTING",
+                        "de": "Bildung und Erziehung",
+                        "en": "Education and parenting"
+                    },
+                    {
+                        "code": "FOI_EP_ACADEMIC",
+                        "de": "Hochschulbildung",
+                        "en": "Academic education"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004451",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/4d/56/305966/Stellungnahme-Gutachten-SG2406140052.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMAS",
+                                        "de": "Bundesministerium f\u00fcr Arbeit und Soziales (BMAS)",
+                                        "en": "Bundesministerium f\u00fcr Arbeit und Soziales (BMAS)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-22"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0004451",
+                        "regulatoryProjectTitle": "Weiterentwicklung des Unfallversicherungsschutzes f\u00fcr Studierende ",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Stellungnahme des Deutschen Studierendenwerks e.V. zum Referentenentwurf des Bundesministeriums f\u00fcr Arbeit und Soziales\r\nEntwurf eines Gesetzes zur Weiterentwicklung der gesetzlichen Unfallversicherung\r\n\r\n(Unfallversicherungs-Weiterentwicklungsgesetz \u2013 UV-Weiterentwicklungsgesetz) vom 21.02.2024 (Bearbeitungsstand)\r\n\r\nWir bedanken uns f\u00fcr die M\u00f6glichkeit, zum Referentenentwurf f\u00fcr ein Unfallversicherungs-Weiterentwicklungsgesetz Stellung zu nehmen.\r\n\r\nDas Deutsche Studierendenwerk nimmt auf Grundlage seiner Satzung u.a. die sozialpolitischen Belange von Studierenden der Hochschulen wahr.\r\n\r\nMit dem vorliegenden Referentenentwurf werden einige L\u00fccken in der gesetzlichen Unfallversicherung geschlossen. Insbesondere f\u00fcr Studierende soll zuk\u00fcnftig Unfallversicherungsschutz f\u00fcr Studierende bei der Anfertigung von Pflichtarbeiten sowie f\u00fcr Fr\u00fch- und Jungstudierende bestehen, was wir ausdr\u00fccklich begr\u00fc\u00dfen.\r\n\r\nDar\u00fcber hinaus nutzen wir die Gelegenheit zur Stellungnahme um auf zus\u00e4tzliche Aspekte des Hochschulstudiums und der sozialen Absicherung von Studierenden aufmerksam zu machen und so zur Weiterentwicklung der gesetzlichen Unfallversicherung beizutragen:\r\n\r\nNeuregelung zum Schutz von Fr\u00fch- und Jungstudierenden in der gesetzlichen Unfallversicherung (\u00a7 2 Abs. 1 Nr. 8 Buchstabe d SGB VII)\r\n\r\nAn vielen Hochschulen gibt es inzwischen Programme zur F\u00f6rderung von begabten jungen Menschen/Sch\u00fcler*innen. Je nach Landesgesetzgebung k\u00f6nnen diese sog. Fr\u00fch- und Jungstudierenden an den Hochschulen immatrikuliert werden oder in anderer Weise z.B. als Gasth\u00f6rende zugelassen werden. Damit ist aktuell aber nur ein Teil dieser Studierendengruppe gesetzlich unfallversichert f\u00fcr F\u00e4lle, in denen er sich an der Hochschule zum Studieren und auf dem Weg dorthin oder von dort nach Hause bzw. in die Schule befindet. Die Unfallversicherung f\u00fcr Studierende kn\u00fcpft n\u00e4mlich an die Immatrikulation an, sonstige Zulassungsverfahren der Hochschulen sind nicht erfasst, obwohl die Angebote der Hochschulen an Fr\u00fch- und Jungstudierende vergleichbar sind und die Teilnahme an regul\u00e4ren Lehrveranstaltungen sowie den Erwerb von Studiennachweisen erm\u00f6glichen. Insofern ist die vorliegende Regelung im SGB VII notwendig und geeignet, um Fr\u00fch- und Jungstudierende einheitlich abzusichern.\r\n\r\nErg\u00e4nzung Unfallversicherungsschutz f\u00fcr Studierende (\u00a7 2 Abs. 1 Nr. 8 Buchstabe c SGB VII)\r\n\r\nMit dem Referentenentwurf wird der Unfallversicherungsschutz f\u00fcr Studierende auf T\u00e4tigkeiten der Erstellung von Studien- und Pr\u00fcfungsleistungen, auch au\u00dferhalb der Hochschule erweitert. Die Ableistung von Pr\u00fcfungen und Studienleistungen au\u00dferhalb der Hochschule entspricht der Studienwirklichkeit. Zahlreiche Lehrpl\u00e4ne sehen zudem Exkursionen, z.B. verpflichtende vom Lehrpersonal begleitete Studienreisen vor. Dieses Veranstaltungsformat sollte zumindest in der Gesetzesbegr\u00fcndung aus Gr\u00fcnden der Klarstellung benannt werden.\r\n\r\nDabei ist auch zu ber\u00fccksichtigen, dass in bestimmten Studieng\u00e4ngen verpflichtend Exkursionen oder auch Praktika im Ausland vorgesehen sind. F\u00fcr diese studiumsbezogenen Auslandsaufenthalte von Studierenden besteht aktuell kein gesetzlicher Sozialversicherungsschutz (in Europa lediglich ein eingeschr\u00e4nkter Krankenversicherungsschutz). Eine private Absicherung scheitert aus unserer Erfahrung an den begrenzten finanziellen Mitteln von Studierenden, was im Ungl\u00fccksfall erhebliche Folgen nach sich ziehen kann.\r\n\r\nEbenso geh\u00f6rt es regelm\u00e4\u00dfig zum Studium tempor\u00e4r sein Studium im Ausland zu absolvieren, insbesondere \u00fcber Austauschprogramme mit internationalen Partnerhochschulen oder im Rahmen von Auslandsstipendien (z.B. Erasmus). Dabei besteht regelm\u00e4\u00dfig kein Unfallversicherungsschutz.\r\n\r\nAbsicherung von Studienbewerber*innen bei Eignungs-/Aufnahmepr\u00fcfungen\r\n\r\nDie Zulassungsordnungen verschiedener Hochschulen sehen vor, dass Studieninteressierte ihre Eignung f\u00fcr das spezifische Studium insbesondere in praktischer Form in der Hochschule oder einer von der Hochschule benannten Einrichtung (z.B. Theater) gegen\u00fcber einer Zulassungskommission nachweisen m\u00fcssen, so beispielsweise f\u00fcr zahlreiche Studieng\u00e4nge der Kunsthochschulen. In diesen F\u00e4llen, die auf eine kleine Zahl von Studieninteressierten begrenzt ist, sollte \u2013 \u00e4hnlich wie f\u00fcr die Personalauswahlverfahren, \u00a7 2 Abs 1 Nr. 3 SGBVII \u2013 eine Regelung und Klarstellung f\u00fcr die Absicherung von Studienbewerber*innen bei vorgeschriebenen Eignungs- und Aufnahmepr\u00fcfungen im Rahmen von Zulassungsverfahren der Hochschulen eingef\u00fchrt werden. Die Risiken, die Studienbewerber*innen w\u00e4hrend der Aufnahmepr\u00fcfung, zu der sie ausdr\u00fccklich von der Hochschule eingeladen werden, ausgesetzt sind, sind mit denen der immatrikulierten Studierenden vergleichbar und befinden sich im Verantwortungsbereich der betreffenden Hochschule. Daher ist eine Gleichbehandlung zu immatrikulierten Studierenden in diesen besonderen Fachbereichen und Studieng\u00e4ngen gerechtfertigt."
+                        }
+                    }
+                ],
+                "title": "Weiterentwicklung des Unfallversicherungsschutzes f\u00fcr Studierende "
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Das Deutsche Studierendenwerk fordert, die Studierendenwerke als juristische Personen des \u00f6ffentlichen Rechts, die aufgrund von Landesgesetzen bzw. Satzungen nur mittelbar in den Anwendungsbereich des Gesetzes fallen, grunds\u00e4tzlich von der Verpflichtung einer Nachhaltigkeits-Berichterstattung im Umfang gro\u00dfer Kapitalgesellschaften auszunehmen.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmj.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/RefE_CSRD_UmsG.pdf?__blob=publicationFile&v=2",
+                            "draftBillProjectUrl": "https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2024_CSRD_UmsG.html?nn=110518",
+                            "shortTitle": "BMJ",
+                            "title": "Bundesministerium der Justiz",
+                            "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                        }
+                    ],
+                    "publicationDate": "2024-03-22",
+                    "title": "Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2022/2464 des Europ\u00e4ischen Parlaments und des Rates vom 14. Dezember 2022 zur \u00c4nderung der Verordnung (EU) Nr. 537/2014 und der Richtlinien 2004/109/EG, 2006/43/EG und 2013/34/EU hinsichtlich der Nachhaltigkeitsberichterstattung von Unternehmen"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004452",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/00/0b/305968/Stellungnahme-Gutachten-SG2406140056.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                        "de": "Bundesministerium der Justiz (BMJ)",
+                                        "en": "Bundesministerium der Justiz (BMJ)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMBF",
+                                        "de": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                                        "en": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-19"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0004452",
+                        "regulatoryProjectTitle": "Nachhaltigkeitsberichtspflicht f\u00fcr Studierenden- und Studentenwerke",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Unaufgeforderte Stellungnahme des Deutschen Studierendenwerks e.V. (DSW) zum Referentenentwurf des Bundesministeriums der Justiz (Stand 22.03.2024)\r\nEntwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2022/2464 des Europ\u00e4ischen\r\n\r\nParlaments und des Rates vom 14. Dezember 2022 zur \u00c4nderung der Verordnung (EU) Nr. 537/2014 und der Richtlinien 2004/109/EG, 2006/43/EG und 2013/34/EU hinsichtlich der Nachhaltigkeitsberichterstattung von Unternehmen\r\n\r\nDas Deutsche Studierendenwerk (DSW) ist der Dachverband der 57 Studenten- und Studierendenwerke in Deutschland. Zu unseren Satzungsaufgaben geh\u00f6rt die politische Vertretung der berechtigten Interessen unserer Mitglieder, die auf Grundlage von Landeshochschul- bzw. Landesstudierendenwerksgesetzen Aufgaben der \u00f6ffentlichen Daseinsvorsorge, insbesondere der sozialen F\u00f6rderung von Studierenden, wahrnehmen.\r\n\r\nGrunds\u00e4tzliche \u00dcberlegungen zur Nachhaltigkeitsberichtspflicht im \u00f6ffentlichen Sektor\r\n\r\nMit vorliegendem Referentenentwurf sollen die europ\u00e4ischen Vorgaben zur Nachhaltigkeitsberichterstattung in nationales Recht umgesetzt werden. Wesentliches Ziel ist, den Anlegern an den Kapitalm\u00e4rkten Informationen zu liefern. Dazu ist f\u00fcr die Vergleichbarkeit erforderlich, gleichwertige rechtliche Mindestanforderungen f\u00fcr den Umfang der Informationen, die von im Wettbewerb\r\nstehenden Unternehmen zu ver\u00f6ffentlichen sind, festzulegen.\r\n\r\nInsofern erfolgt eine Anpassung des \u00a7 289b Absatz 1 HGB an die Delegierte Richtlinie (EU) 2023/2775 (ABl. L, 2023/2775, 21.12.2023), dass zur Erstattung eines Nachhaltigkeitsberichts f\u00fcr Kapitalgesellschaften, die gro\u00df im Sinne des \u00a7 267 Absatz 3 Satz 1 und Abs\u00e4tze 4 bis 5 oder kapitalmarktorientiert im Sinne des \u00a7 264d und keine Kleinstkapitalgesellschaft (\u00a7 267a) sind, verpflichtet werden. Das Gesetz wird damit ausdr\u00fccklich an gro\u00dfe Kapitalgesellschaften bzw. kapitalmarktorientierte Organisationen, also juristische Personen des Privatrechts, adressiert. Es ist darauf ausgerichtet, den Share- und Stakeholdern von gro\u00dfen Kapitalgesellschaften und kapitalmarktorientierten Unternehmen, also u.a. Anlegern, Kreditgebern, Lieferanten Informationen zur wirtschaftlichen Situation bzw. Solidit\u00e4t des Unternehmens zu geben.\r\n\r\nDie europ\u00e4ische Richtlinie und der vorliegende Entwurf zur Umsetzung in nationales Recht zielen\r\ndaher ebenso wenig wie die EU-Bilanzrichtlinie (vgl. Anhang I und Anhang II der Richtlinie 2013/34/EU vom 26.06.2013) darauf ab, Einrichtungen in anderen Rechtsformen einzubeziehen. Insbesondere juristische Personen des \u00f6ffentlichen Rechts werden vom CSRD und dem vorliegenden Gesetzesentwurf nicht erfasst und zur Nachhaltigkeitsberichterstattung verpflichtet, weil die Vorgaben nicht zu den bestehenden Strukturen der \u00f6ffentlichen Hand passen.\r\n\r\nIn den letzten Jahrzehnten sind jedoch in Bundesl\u00e4ndern insbesondere aus Gr\u00fcnden der Transparenz entweder durch den Landesgesetzgeber oder durch freiwillige Selbstverpflichtungen (in der Grundordnung bzw. Satzung) Regelungen in Kraft, die f\u00fcr Einrichtungen des \u00f6ffentlichen Sektors, wie z.B. \u00f6ffentliche K\u00f6rperschaften bzw. Anstalten des \u00f6ffentlichen Rechts, eine erweiterte Jahresabschlusserstellung analog zu gro\u00dfen Kapitalgesellschaften vorsehen. Damit werden juristische Personen des \u00f6ffentlichen Rechts unabh\u00e4ngig von ihrer Rechtsform oder ihrer tats\u00e4chlichen Gr\u00f6\u00dfe verpflichtet, wie gro\u00dfe Kapitalgesellschaften zu bilanzieren und einen Lagebericht zu erstellen. Hierf\u00fcr gab und gibt es gute Gr\u00fcnde, die aber eben nichts mit der Frage der Nachhaltigkeitsberichterstattung zu tun hatten und haben. In der Folge w\u00fcrden aber durch diesen mittelbaren Bezug die EU-Neuerungen zur Nachhaltigkeitsberichterstattung nicht auf alle, aber indirekt auf einen erheblichen Teil \u00f6ffentlicher Einrichtungen in Deutschland Anwendung finden und zwar sofort mit Umsetzung der Richtlinie.\r\n\r\nDurch die beschriebene Dynamik w\u00fcrde die CSRD-Berichtspflicht nun auch f\u00fcr Einrichtungen aus dem Hochschul- und Wissenschaftsbereich wie Hochschulen und Studierendenwerke greifen, die strukturell \u00fcberhaupt nicht in die Systematik der Berichterstattung passen. Diese Einrichtungen sind mit den Anforderungen an die geplante Nachhaltigkeitsberichterstattung nach HGB in der Regel \u00fcberfordert. Die verschiedenen Akteure im Hochschulwesen tragen gemeinsam zum Gelingen akademischer Ausbildung, zu Innovationen und der L\u00f6sung von Zukunftsaufgaben bei. Der Betrachtungsrahmen f\u00fcr die Zukunftsthemen Klimaschutz und Nachhaltigkeit kann daher f\u00fcr zuwendungsgef\u00f6rderte juristische Personen aus dem Hochschulbereich nicht so gefasst sein wie f\u00fcr kapitalmarktorientierte Unternehmen.\r\n\r\nRechtslage f\u00fcr die Studenten- und Studierendenwerke aufgrund des Referentenentwurfs\r\n\r\nDie Studenten- und Studierendenwerke sind mehrheitlich als Landesanstalten des \u00f6ffentlichen Rechts organisiert. Sie \u00fcbernehmen Aufgaben der sozialen F\u00f6rderung von Studierenden aufgrund von Landeshochschul- bzw. Landesstudierendenwerksgesetzen. Im Rahmen der \u00f6ffentlichen Daseinsvorsorge sind sie als \u00c4mter f\u00fcr Ausbildungsf\u00f6rderung in 15 Bundesl\u00e4ndern beh\u00f6rdlich t\u00e4tig, dar\u00fcber hinaus sind sie zust\u00e4ndig f\u00fcr die hochschulnahe Grundversorgung der Studierenden mit Essen, f\u00fcr die studentische Wohnraumversorgung, f\u00fcr die psychosoziale Beratung der Studierenden und die Betreuung ihrer Kinder in Kitas.\r\n\r\nDie Studierendenwerke finanzieren sich entsprechend in erheblichem Umfang \u00fcber \u00f6ffentliche Zuwendungen und Beitr\u00e4ge der Studierenden. Sie sind nicht gewinnorientiert, geschweige denn kapitalmarktorientiert. Ein Teil der f\u00fcr die Studierendenwerke geltenden Landesgesetze (ca. 50%) sehen allerdings eine Bilanzierung wie f\u00fcr gro\u00dfe Kapitalgesellschaften vor; zum Teil ist eine Bilanzierungspflicht wie f\u00fcr gro\u00dfe Kapitalgesellschaften in Satzungen verortet. Damit w\u00e4re ein Teil unserer Mitglieder zur Anwendung des Gesetzes auf Unterlagen der Einzelrechnungslegung f\u00fcr ein nach dem 31. Dezember 2024 beginnendes Gesch\u00e4ftsjahr verpflichtet, ein Teil jedoch nicht. \r\n\r\nWelches Studierendenwerk von der Berichtspflicht betroffen ist und welches nicht, ist dabei rein zuf\u00e4llig, je nachdem ob ein entsprechende Landesregelung oder eine satzungsrechtliche Selbstverpflichtung vorliegt oder nicht. Auch wenn es in einzelnen L\u00e4ndern bereits entsprechende \u00c4nderungsschritte gibt: Eine \u00c4nderung von Landesgesetzen und Satzungen ist aufgrund der kurzen Umsetzungsfrist und der damit verbundenen verfahrenstechnischen Fragen umfassend nicht mehr oder nur schwer m\u00f6glich. Somit wird es aufgrund der unterschiedlichen Ausgestaltung der Landesgesetze und Satzungen zu uneinheitlichen Verh\u00e4ltnissen im Bundesgebiet kommen. Zur Wahrung der einheitlichen Verh\u00e4ltnisse w\u00e4re daher eine bundesrechtliche Regelung geboten.\r\n\r\nDie Studierendenwerke verf\u00fcgen nicht \u00fcber die notwendige sachliche und personelle Ausstattung, um f\u00fcr das n\u00e4chste Jahr wie gro\u00dfe Kapitalgesellschaften zu den geforderten Nachhaltigkeitsaspekten zu berichten. Zus\u00e4tzliche \u00f6ffentliche Mittel werden unseres Wissens nicht zur Verf\u00fcgung gestellt. Das bedeutet, dass es zu einer \u00dcberlastung unserer Mitglieder kommen w\u00fcrde und eine ordnungsgem\u00e4\u00dfe Berichterstattung voraussichtlich nur kompensiert werden k\u00f6nnte, indem Mittel f\u00fcr die Erf\u00fcllung der Kernaufgaben eingespart und f\u00fcr die Berichterstattung eingesetzt werden. Auch die EU hat die M\u00f6glichkeit von \u00dcberlastungen gesehen und ggf. Straffungen von Pflichten f\u00fcr bestimmte Unternehmensgruppen angeregt (vgl. Delegierte Richtlinie (EU) 2023/2775, Erw\u00e4gungsgrund 1).\r\n\r\nF\u00fcr die Studierendenwerke k\u00f6nnen wir im \u00dcbrigen darauf hinweisen, dass sie sich seit Jahren f\u00fcr nachhaltiges Wirtschaften einsetzen und beispielsweise im Bereich Gemeinschaftsverpflegung eine Vorreiterrolle einnehmen. Aktuell haben wir als Dachverband begonnen, Empfehlungen f\u00fcr eine Nachhaltigkeitsberichterstattung zu entwickeln, die auf das spezifische Leistungsspektrum der Studierendenwerke abstellen und die geltenden Rahmenbedingungen der Studierendenwerke als Landesanstalten des \u00f6ffentlichen Rechts ber\u00fccksichtigen.\r\n\r\nNotwendige Anpassungen des Referentenentwurfs\r\n\r\nWir fordern daher, die Studierendenwerke als juristische Personen des \u00f6ffentlichen Rechts, die aufgrund von Landesgesetzen bzw. Satzungen nur mittelbar in den Anwendungsbereich des Gesetzes fallen, grunds\u00e4tzlich von der Verpflichtung einer Nachhaltigkeits-Berichterstattung im Umfang gro\u00dfer Kapitalgesellschaften auszunehmen.\r\n\r\nHilfreich w\u00e4re eine Klarstellung im Gesetz, dass die Verpflichtung zur Nachhaltigkeitsberichterstattung gem\u00e4\u00df \u00a7 289 b HGB (neu) nur f\u00fcr die im 3. Buch, zweiter Abschnitt des Handelsgesetzbuches genannten Rechtsformen gelten und eine mittelbare Anwendung aufgrund landesrechtlicher oder sonstiger untergesetzlicher Regelungen ausgeschlossen ist.\r\n\r\nErsatzweise muss gepr\u00fcft werden, ob bzw. inwieweit in Abstimmung mit den EU-Vorgaben eine ausreichende \u00dcbergangsfrist zur Anpassung landespezifischer Regelungen und nachfolgender Bestimmungen (in Satzungen/Grundordnungen) einger\u00e4umt werden kann.  \r\n\r\n \r\n19. April 2024"
+                        }
+                    }
+                ],
+                "title": "Nachhaltigkeitsberichtspflicht f\u00fcr Studierenden- und Studentenwerke"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d8/38/305962/Stellungnahme-Gutachten-SG2406140048.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-06-05"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0004449",
+                "regulatoryProjectTitle": "\u00c4nderungen an der BAf\u00f6G-Novelle (29. BAf\u00f6G\u00c4ndG)",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Stellungnahme des Deutschen Studierendenwerks anl\u00e4sslich der Sachverst\u00e4ndigenanh\u00f6rung am 5.6.2024 des Bundestags-Ausschusses f\u00fcr Bildung, Forschung und Technikfolgenabsch\u00e4tzung zum Entwurf eines 29. BAf\u00f6G-\u00c4nderungsgesetzes \r\nAls Dachverband aller Studierenden- und Studentenwerke in Deutschland, der satzungsgem\u00e4\u00df \u2013 abgeleitet aus den landesgesetzlichen Aufgaben der Studierenden- und Studentenwerke \u2013 auch sozialpolitische Belange von Studierenden wahrnimmt, nimmt das Deutsche Studierendenwerk (DSW) zum Gesetzentwurf Stellung.\r\nDas Deutsche Studierendenwerk appelliert eindringlich, \r\n\u2022\tdie vom Haushaltsausschuss des Deutschen Bundestags f\u00fcr 2024 angebotene Finanzaufstockung in H\u00f6he von 150 Millionen Euro als BAf\u00f6G-Zuschuss f\u00fcr Studierende mit der Zweckbindung  f\u00fcr eine echte BAf\u00f6G-Reform ist komplett auszusch\u00f6pfen. Dies hat auch der Bundesrat vorgeschlagen . \r\nDie 29. BAf\u00f6G-Novelle ist die letzte geplante Novelle dieser Legislaturperiode \u2013 sofern das Bundesverfassungsgericht  den Gesetzgeber nicht noch zu einer Anhebung der BAf\u00f6G-Bedarfss\u00e4tze zwingt. Erfolgt in dieser Legislaturperiode keine weitere BAf\u00f6G-Anpassung mehr, k\u00f6nnte \u2013 nach Herbst 2022 \u2013 die n\u00e4chste Bedarfsanhebung realistischer Weise, nach einer Regierungsbildung bis Jahresende 2025, fr\u00fchestens erst im Herbst 2026 erfolgen. \r\n\u2003\r\nWir halten fest:\r\n\u2022\tDie 29. BAf\u00f6G-Novelle muss s\u00e4mtliche im Koalitionsvertrag beschriebenen BAf\u00f6G-Vorhaben sowie den 10-Punkte-Parlamentsbeschluss des Deutschen Bundestags vom Juni 2022  ein-l\u00f6sen. \r\n\u2022\tDer 23. BAf\u00f6G-Bericht der Bundesregierung nach \u00a7 35 BAf\u00f6G vom Dezember 2023  ist zu beachten. Im Bericht wird festgestellt, dass im Anpassungszeitraum 2022-2024 die Nettol\u00f6hne und -geh\u00e4lter um 12,2 % und die Verbraucherpreise um 8,7 % gestiegen sein werden. Dies gleicht eine in der 29. BAf\u00f6G-Novelle vorgesehene f\u00fcnfprozentige Anhebung der BAf\u00f6G-Freibetr\u00e4ge und eine Nullrunde bei den BAf\u00f6G-Bedarfss\u00e4tzen keineswegs aus. \r\nMit der 29. BAf\u00f6G-Novelle werden zum Herbst 2024 die seit 1. Juli 2023 h\u00f6heren Pflegeversicherungszuschl\u00e4ge sowie die Minijobgrenze seit Jahresbeginn 2024 nachvollzogen.\r\nDie Dynamisierung der BAf\u00f6G-Parameter (Freibetr\u00e4ge, Bedarfss\u00e4tze, Kranken- und Pflegeversicherungszuschl\u00e4ge, Minijobgrenze) ist und bleibt politischer Auftrag in Koalitionsvertrag und Parlamentsbeschluss. \r\n\u2022\tDie BAf\u00f6G-Bedarfss\u00e4tze m\u00fcssen existenzsichernd sein , damit das Grundrecht auf Berufswahlfreiheit eingel\u00f6st werden kann. \r\n\u2022\tDie BAf\u00f6G-Wohnbedarfspauschale  ist chronisch zu niedrig. Als unteres Minimum f\u00fcr eine Erh\u00f6hung k\u00f6nnen die 410 \u20ac der D\u00fcsseldorfer Tabelle (seit 2023) herangezogen werden, die zum Jahreswechsel 2025 angepasst wird. \r\n\u2022\tAngesichts der rund 22.000 Studieng\u00e4nge in Deutschland  ist die Erweiterung der M\u00f6glichkeit eines Fachrichtungswechsels um ein Semester zu begr\u00fc\u00dfen.\r\n\u2022\tStatt einer Erweiterung der BAf\u00f6G-F\u00f6rderungsh\u00f6chstdauer um ein Flexibilit\u00e4tssemester ist die F\u00f6rderungsh\u00f6chstdauer an die Formel: Regelstudienzeit plus zwei Semester zu kn\u00fcpfen. Dies haben auch der Wissenschaftsrat  und der Bundesrat  empfohlen.\r\n\u2022\tDie Studienstarthilfe f\u00fcr Erstsemester aus Bedarfsgemeinschaften erf\u00fcllt dann ihren Zweck, \r\n-\twenn sie entstehende Kosten (Auswahlgespr\u00e4che/-tests vor Studienplatzzusage, Semesterbeitr\u00e4ge vor Immatrikulation, Mietkaution vor Mietvertrag) zeitnah deckt und nicht erst Monate sp\u00e4ter eine Refinanzierung stattfindet,\r\n-\twenn sie b\u00fcrokratiearm und aktenlos beantragt, bearbeitet sowie beschieden werden kann,\r\n-\tauch Erstsemester, die einen BAf\u00f6G-Anspruch haben  als auch diejenigen, in deren Familie bereits BAf\u00f6G-Empf\u00e4nger sind \u2013 und somit die BAf\u00f6G-Bed\u00fcrftigkeit der Familie schon vor Studienbeginn feststeht \u2013 sollen die Studienstarthilfe erhalten k\u00f6nnen.\r\n\u2022\tDie Ma\u00dfnahmen zur Verwaltungsvereinfachung des BAf\u00f6G sind weiterhin h\u00f6chstens rudiment\u00e4r. Eine wegfallende Pflicht des Bundes zur Abstimmung der BAf\u00f6G-Formbl\u00e4tter mit den Bundesl\u00e4ndern ist zwar eine Verwaltungsvereinfachung, aber ausschlie\u00dflich f\u00fcr den Bund selbst, nicht aber f\u00fcr die Studierenden. Der seit dem Bologna-Prozess 1999 anachronistische BAf\u00f6G-Leistungsnachweis (\u00a7 48 BAf\u00f6G) - weiterhin exakt zum Zeitpunkt des fr\u00fcheren Vordiploms - ist ersatzlos zu streichen.  Zudem ist eine Verl\u00e4ngerung der Bewilligungsdauer zielf\u00fchrend. \r\n\u2022\tDas BMBF hat aus dem Koalitionsvertrag sowie Bundestagsentschlie\u00dfung mehrere Pr\u00fcfauftr\u00e4ge. Es soll L\u00f6sungen vorlegen, z.B. zum Teilzeitstudium  oder Verstetigung . Schon allein aus Gr\u00fcnden der Transparenz sollten die Ergebnisse von Pr\u00fcfauftr\u00e4gen ver\u00f6ffentlicht werden. \r\n\u2003\r\nGrunds\u00e4tzlich wird aus Gr\u00fcnden der Glaubw\u00fcrdigkeit davon ausgegangen, dass s\u00e4mtliche Ank\u00fcndigungen im Koalitionsvertrag bzw. der Bundestagsentschlie\u00dfung Juni 2022 innerhalb dieser Legislaturperiode vollumf\u00e4nglich umgesetzt werden (Zum Beispiel: Darlehenssenkung ).\r\nDer Bundesfinanzminister hat betont, dass auch bei einer Haushaltskonsolidierung Bildung als Zukunftsinvestition ausgenommen sein m\u00fcsse.  Deshalb sind die vom Bundestags-Haushaltsausschuss f\u00fcr 2024 bereitgestellten 150 Mio. \u20ac f\u00fcr den BAf\u00f6G-Zuschuss Studierender  vollst\u00e4ndig zu verwenden. \r\nWenn wir nach Dringlichkeit priorisieren m\u00fcssten, w\u00fcrden wir so entscheiden:\r\n\u2022\tPriorit\u00e4t 1: Existenzsichernde Bedarfss\u00e4tze (wie BVerwG: eine Indexierung ist m\u00fc\u00dfig, wenn der Ausgangswert nicht existenzsichernd ist)\r\n\u2022\tPriorit\u00e4t 2: Automatische Dynamisierung von BAf\u00f6G-Freibetr\u00e4gen, -Bedarfss\u00e4tzen, -Sozialpauschalen, KV-/PV-Zuschl\u00e4gen, Minijobgrenze. Ohne Dynamisierung ist eine einmalige Existenzsicherung wertlos. \r\n\u2022\tPriorit\u00e4t 3: BAf\u00f6G-Freibetr\u00e4ge m\u00fcssen so sein, dass Familien nicht nur mit unteren Einkommen, sondern mittleren Einkommen erreicht werden (Zieldefinition im BAf\u00f6G 1971 ).\r\n\u2022\tPriorit\u00e4t 4: Sofern die \u201eKindergrundsicherung\u201c nicht in 2025 kommt: Die dort beschriebene \u00c4nderung des \u00a7 74 EStG (Direktauszahlung des Garantiebetrags/Kindergeldes an erwachsene Auszubildende) muss auch ohne das Gesetzespaket \u201eKindergrundsicherung\u201c umgesetzt werden. Damit wird zwar das BAf\u00f6G nicht elternunabh\u00e4ngiger, aber die Studierenden.\r\n\u2003\r\nIm Bewusstsein, dass die beiden folgenden Priorit\u00e4ten zeitnah begonnen, aber realistisch erst innerhalb von zwei Jahren umgesetzt werden k\u00f6nnten:\r\n\u2022\tPriorit\u00e4t 5: Bundeseinheitliche Digitalisierung aller BAf\u00f6G-Prozesse  im Wege einer Bund-L\u00e4nder-Kooperation  (in anderen Bildungsbereichen ist stets eine Bund-L\u00e4nder-Kooperation \u00fcblich)\r\n\u2022\tPriorit\u00e4t 6: Grundlegende Verwaltungsvereinfachung der gesetzlichen BAf\u00f6G-Vorgaben  (z.B. Streichung des anachronistischen BAf\u00f6G-Leistungsnachweises, Verl\u00e4ngerung des Bewilligungszeitraumes)\r\n\u2022\tPriorit\u00e4t f\u00fcr die Bundesl\u00e4nder: Die personelle und s\u00e4chliche Ausstattung muss z\u00fcgige BAf\u00f6G-Entscheidungen gew\u00e4hrleisten.  Dazu verpflichtet auch \u00a7 17 Abs. 1 Nr. 1 des SGB I .\r\n\r\nBerlin, 30. Mai 2024\r\nMatthias Anbuhl\r\nVorstandsvorsitzender des Deutschen Studierendenwerks\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/76/31/305964/Stellungnahme-Gutachten-SG2406140050.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMBF",
+                                "de": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                                "en": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-08"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0004450",
+                "regulatoryProjectTitle": "Deutschlandticket f\u00fcr Studierende",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Stellungnahme des Deutschen Studierendenwerks e.V. zur Umsetzung des Deutschlandtickets f\u00fcr Studierende\r\nGrundlegende Festlegungen zu den Tarifbestimmungen f\u00fcr das Deutschland-Ticket vom 27.01.2023, aktualisiert am 27.11.2023 und 15.01.2024;\r\n\r\nMustervertrag mit Anlagen, insbesondere Beschluss \u00fcber die Tarifbestimmungen f\u00fcr das Deutschlandticket vom 08.03.2023, aktualisiert am 30.05.2023, 10.07.2023, 25.09.2023, 27.11.2023 und 11.12.2023, Anlage 1 zur Muster AV\r\n\r\nDas Deutsche Studierendenwerk (DSW) ist der Dachverband der 57 Studierendenwerke in Deutschland. Die Studierendenwerke nehmen auf Grundlage von Landeshochschul- bzw. Landesstudierendenwerksgesetzen Aufgaben der \u00f6ffentlichen Daseinsvorsorge, insbesondere der sozialen F\u00f6rderung von Studierenden, wahr. Dazu geh\u00f6rt an mehreren Hochschulstandorten auch die Verhandlung und Administration der \u00d6PNV-Tickets f\u00fcr Studierende. Das Deutsche Studierendenwerk nimmt auf Grundlage seiner Vereinssatzung sowohl die Interessen der Studierendenwerke als auch sozialpolitische Belange von Studierenden wahr.\r\n\r\nIm November 2023 haben sich Bund und L\u00e4nder auf die Einf\u00fchrung eines einheitlichen deutschlandweiten Mobilit\u00e4tstarifs f\u00fcr Studierende als Solidarmodell geeinigt. Als fr\u00fchester Starttermin wurde das Sommersemester 2024 bestimmt. An einigen Hochschulstandorten konnte die Einf\u00fchrung zum Sommersemester 2024 realisiert werden bzw. wird eine Umsetzung zum Wintersemester 2024/25 geplant. In anderen Regionen wurde das Angebot grunds\u00e4tzlich abgelehnt und demzufolge nicht eingef\u00fchrt oder es war eine Umsetzung zum Sommersemester 2024 bzw. eine Einf\u00fchrung zum Wintersemester 2024/25 h\u00e4ufig aus zeitlichen Gr\u00fcnden nicht m\u00f6glich.\r\n\r\nMit der nachfolgenden Stellungnahme m\u00f6chten wir auf relevante Besonderheiten des deutschen Hochschulsystems, vermeidbare Schwierigkeiten und Hindernisse bei der Umsetzung des Deutschlandtickets f\u00fcr Studierende hinweisen und zu einer sachgerechten Weiterentwicklung des Deutschlandtickets f\u00fcr Studierende und Steigerung der Akzeptanz beitragen.\r\n\r\nAllgemein\r\n\r\nNicht in jeder Region bzw. an jedem Hochschulstandort ist eine Einf\u00fchrung des Deutschland-Semestertickets gew\u00fcnscht, insbesondere wenn die Verkehrsanbindungen schlecht und das bisherige Semesterticket deutlich g\u00fcnstiger ist. Auch in Bayern und Baden-W\u00fcrttemberg besteht aktuell aufgrund der bestehenden besonderen kosteng\u00fcnstigen L\u00e4nderl\u00f6sungen f\u00fcr Studierende bzw. junge Menschen kaum Nachfrage nach dem Deutschlandticket f\u00fcr Studierende. Der Wechsel vom bisherigen Semesterticket zum Deutschland-Semesterticket ist vor allem dort attraktiv bzw. auch rechtlich geboten, wo eine gute Versorgung mit \u00d6PNV-Angeboten besteht und der Preis des Deutschland-Semestertickets \u00e4hnlich hoch wie oder sogar g\u00fcnstiger als das bisherige regionale Semesterticket ist (z.B. in den Ballungsr\u00e4umen).\r\n\r\nDie Verhandlungssituationen und die am Ende ausgehandelten Vertr\u00e4ge sind uneinheitlich. Der von den Verkehrsministerien zur Verf\u00fcgung gestellte Mustervertrag enth\u00e4lt fakultative Passagen, die von den Verhandlungsparteien individuell ge\u00e4ndert werden k\u00f6nnen. Von unseren Mitgliedern und den Studierendenvertretungen wurde \u00fcber unterschiedlichste Formulierungen in den Vertr\u00e4gen zu vergleichbaren Sachverhalten berichtet. Die Abweichungen betreffen zentrale Aspekte wie den berechtigten Personenkreis (z.B. Gasth\u00f6rer*innen, berufsbegleitend Studierende, Fernstudierende, Schwerbehinderte), die Laufzeit, die technischen Leistungen der Vertragspartner, K\u00fcndigungsm\u00f6glichkeiten und das Wiederaufleben der bisherigen Semesterticketvertr\u00e4ge. Sachliche Erw\u00e4gungen f\u00fcr eine Andersbehandlung sind h\u00e4ufig nicht erkennbar, vielmehr scheint die jeweilige Verhandlungsf\u00fchrung der Vertragsparteien den Ausschlag zu geben. Eine Ungleichbehandlung trotz vergleichbarer Sachverhalte ist vor dem Hintergrund, dass es sich um ein verpflichtendes Ticket handelt, nicht vertretbar. Daher schlagen wir eine Vereinheitlichung von Regelungen des Mustervertrags, z.B. durch Regelung von Mindestfristen, vor.\r\n\r\nHindernisse f\u00fcr die Einf\u00fchrung\r\n\r\nBei der Beschlussfassung am 27. November 2023 gab es vielerorts nicht mehr die notwendige Vorbereitungszeit f\u00fcr die Einf\u00fchrung des Deutschland-Semestertickets. Die \u00d6PNV-Versorgung in Deutschland ist bereits im Allgemeinen vielschichtig. F\u00fcr die Studierendentickets kommt hinzu, dass mehrere Seiten die Vertr\u00e4ge verhandeln und aufgrund der verpflichtenden Abnahme des Tickets f\u00fcr alle immatrikulierten Studierenden einer Hochschule im Vorfeld formale Schritte wie Gremienbeschl\u00fcsse, \u00c4nderung von Beitragsordnungen, z.T. auch Genehmigungen von Landesministerien erforderlich werden. Da die Ticketkosten Teil des Semesterbeitrags sind, die im Rahmen der Immatrikulation und R\u00fcckmeldung zum Studium f\u00e4llig werden, sind sie mit ausreichendem Vorlauf den Studierenden bekanntzugeben. Eine Einf\u00fchrung zum Sommersemester 2024 scheiterte daher an den meisten Standorten, aber auch zum Wintersemester 2024/25 wird es f\u00fcr viele Hochschulstandorte zeitlich eng.\r\n\r\nAuch haben sich Studierendenschaften gegen eine Einf\u00fchrung entschieden, wenn der Leistungsumfang der bisherigen Semestertickets beim Deutschlandticket nicht erreicht wird: Die Mitnahmem\u00f6glichkeit von Kindern im Alter von 6 bis 14 Jahren, die mit dem Deutschlandticket nicht mehr m\u00f6glich ist, ist f\u00fcr studierende Eltern ein entscheidender Kostenfaktor. Laut 22. Sozialerhebung zur sozialen und wirtschaftlichen Lage der Studierenden in Deutschland 2021 haben 8% der Studierenden ein oder mehr Kinder; auf Grundlage von 2,9 Mio. Studierenden gibt es damit rund 232.000 studierende Eltern. \u00dcber ein F\u00fcnftel der studentischen Kinder (22%) ist im schulpflichtigen Alter zwischen 7 \u2013 15 Jahren. Auch die kostenlose Mitnahme von Fahrr\u00e4dern in den \u00f6ffentlichen Verkehrsmitteln entf\u00e4llt zuk\u00fcnftig f\u00fcr Studierende im Deutschlandtickettarif und zwar in Regionen, in denen die Hochschulstandorte von dem Fern- und S-Bahnh\u00f6fen ohne ausreichende Busverbindung ausgestattet sind und so weit entfernt liegen, dass sie nicht mit vertretbarem Zeitaufwand zu Fu\u00df erreicht werden k\u00f6nnen.\r\n\r\nAus diesem Grund sind bestehende Mitnahmeregelungen aus den bisherigen Semestertickets f\u00fcr das Deutschlandsemesterticket beizubehalten. Zumindest sollte die M\u00f6glichkeit einger\u00e4umt werden, die Vertr\u00e4ge mit den Verkehrsunternehmen im Einzelfall entsprechend anzupassen.\r\n\r\nSicherung der Mobilit\u00e4t von Studierenden\r\n\r\nDie Erreichbarkeit der Hochschulstandorte muss f\u00fcr Studierende dauerhaft gesichert werden. Dazu geh\u00f6rt an erster Stelle ein garantiert sozialvertr\u00e4glicher Ticketpreis. Durch die Einf\u00fchrung des Deutschlandtickets ist aber die Ticketpreisentwicklung f\u00fcr Studierende langfristig praktisch nicht mehr vorhersehbar und planbar, da diese vom Ausgabepreis des Deutschlandtickets abh\u00e4ngt. Eine Erh\u00f6hung des Ticketpreises ist aufgrund der Inflation und der damit verbundenen wirtschaftlichen Situation der Studierenden nicht zumutbar und w\u00fcrde voraussichtlich zu einer R\u00fcckkehr zu regionalen Semestertickets oder Aufgabe von Semestertickets f\u00fchren.\r\n\r\nDaher wird dringend eine H\u00f6chstgrenze ben\u00f6tigt, um die Preise auf niedrigem Niveau zu halten. Dabei kann es keine L\u00f6sung sein, ein bundesweites verpflichtendes Ticket in allen Regionen einzuf\u00fchren, weil das Nahverkehrsangebot nicht \u00fcberall, z.B. in l\u00e4ndlichen Regionen, ausreichend ist. Die Orientierung der Preish\u00f6he an der Entwicklung des Deutschlandtickets ist daher nicht sachgerecht und aufgrund des verpflichtenden Charakters auch nicht zumutbar. Der Ticketpreis sollte sich vielmehr an den Lebensverh\u00e4ltnissen von Studierenden orientieren und k\u00f6nnte sich beispielsweise nach dem BAf\u00f6G-H\u00f6chstsatz richten.\r\nDie freiwillige Upgrade-L\u00f6sung muss insbesondere f\u00fcr Hochschulstandorte mit schlecht ausgebautem Nahverkehrsnetz auch \u00fcber das Wintersemester 2024/2025 hinaus beibehalten werden und darf nicht - wie aktuell geregelt - mit Ablauf des WS 2024/25 enden. Denn dort wird es voraussichtlich weiterhin beim Bezug des lokalen Semestertickets bleiben und zu einer Doppelbelastung durch zus\u00e4tzlichen Kauf des Deutschlandtickets zum regul\u00e4ren Preis kommen. Ein Upgrade muss f\u00fcr diese Studierenden also m\u00f6glich sein.\r\nK\u00fcndigung, Ruhen und Wiederaufleben bisheriger Semesterticketvertr\u00e4ge\r\n\r\nAufgrund der \u00e4u\u00dferst unklaren und nicht beeinflussbaren Preisentwicklung des Deutschlandsemestertickets und der langen Vorbereitungszeit f\u00fcr die Einf\u00fchrung von verpflichtenden Tickets (sowohl Deutschland-Semesterticket, als auch regionales Semesterticket) sind in den Vertr\u00e4gen mit den Verkehrsbetrieben folgende Punkte obligatorisch (und nicht wie aktuell geregelt fakultativ) aufzunehmen:\r\n\r\nSonderk\u00fcndigungsrecht bei Preiserh\u00f6hung\r\nR\u00fcckfall-Klausel f\u00fcr bisherige Semesterticketvertr\u00e4ge: Die bisher geltenden regionalen Semesterticketvertr\u00e4ge werden ruhend gestellt und leben bei Beendigung des Vertrags \u00fcber ein Deutschlandticket f\u00fcr Studierende wieder auf. Dieses muss im \u00dcbrigen auch f\u00fcr die L\u00e4nderl\u00f6sungen wie aktuell in Bayern und Baden-W\u00fcrttemberg gelten.\r\nRegelungen zu Vertragslaufzeiten, -beginn, -beendigung, -k\u00fcndigung m\u00fcssen wegen semesterweiser Immatrikulation und Beitragseinzug an Semester und nicht an das Kalenderjahr gekoppelt sein. Die beschriebenen langen Vorlaufzeiten sind zu ber\u00fccksichtigen und m\u00fcssen von den Vertragspartnern eingehalten werden (mindestens 8 Monate vor dem jeweiligen Semesterbeginn; Fristverl\u00e4ngerung muss im Einzelfall erm\u00f6glicht werden). Dabei ist je nach Standort zu ber\u00fccksichtigen, dass Semesterbeginn an den Universit\u00e4ten der 01.04. bzw. 01.10. und an den Fachhochschulen zum Teil am 01.03. bzw. am 01.09. ist und damit die R\u00fcckmeldezeitr\u00e4ume der Hochschulen unterschiedlich sein k\u00f6nnen.\r\nErstattungsm\u00f6glichkeiten/Ausnahmen von der Abnahmepflicht\r\n\r\nIn den Vertr\u00e4gen muss eine Pflicht zur monatsweisen Erstattung der Ticketkosten \u00fcber die benannten Tatbest\u00e4nde hinaus in berechtigten F\u00e4llen wie Exmatrikulation, z.B. bei erfolgreichem Abschluss des Studiums, Beurlaubung oder l\u00e4ngerer Klinik-/Krankenhausaufenthalt, die w\u00e4hrend des Semesters eintreten, gew\u00e4hrt werden. Ansonsten w\u00fcrden betroffene Studierende aufgrund des verpflichtenden Ticketbezugs f\u00fcr ein ganzes Semester Ticketkosten tragen, ohne die Bef\u00f6rderungsleistung in Anspruch nehmen zu k\u00f6nnen. Hinzu kommt, dass teilweise in den Hochschulgesetzen Erstattungsm\u00f6glichkeiten geregelt sind, vgl. z.B. \u00a7 19 Abs. 6 S. 4 NHG.\r\n\r\nBislang sieht das Vertragsmuster lediglich eine (Zwischen-)Meldung, sp\u00e4testens 4 Wochen nach Vorlesungsbeginn vor, bei deren Einhaltung eine Erstattung erfolgt. Diese Regelung greift in den oben beschriebenen F\u00e4llen, soweit sie w\u00e4hrend des laufenden Semesters eintreten, nicht.\r\n\r\nDigitale L\u00f6sung, Chipkarte, notwendige Datentransfers\r\n\r\nDas Deutschland-\u200bTicket ist ausschlie\u00dflich digital \u00fcber die Vertriebskan\u00e4le der Verkehrsunternehmen, Verkehrs-\u200b\u200b und Tarifverb\u00fcnde verf\u00fcgbar und kann entweder als Barcode in einer Smartphone-\u200b\u200bApp (Handy-Ticket) oder als elektronische Fahrkarte auf einer Chipkarte ausgegeben werden. Dabei ist die Kosten\u00fcbernahme f\u00fcr die Anschaffung der Chipkarten uneinheitlich geregelt, teilweise werden die Kosten von den Verkehrsunternehmen \u00fcbernommen, teilweise m\u00fcssen die Kosten von den Studierendenwerken bzw. Studierendenvertretungen, als Verhandlungs- und Vertragspartner der Verkehrsbetriebe, getragen werden. Hier sollte eine einheitliche Regelung getroffen werden, die die Verkehrsbetriebe als Aussteller von Chipkarten zur Kostentragung verpflichtet.\r\n\r\nDer Abschluss von Deutschland-Semesterticket-Vertr\u00e4gen scheiterte auch an der Weigerung von Hochschulen, die notwendigen Daten zur Durchf\u00fchrung des Deutschlandtickets an die Studierendenwerke bzw. Studierendenvertretungen weiterzugeben bzw. datenschutzkonforme L\u00f6sungen anzubieten. Nicht alle landesgesetzlichen Regelungen f\u00fcr den Hochschulbereich sehen entsprechende Klauseln vor, die eine Daten\u00fcbertragung z.B. der Hochschulen an die Studierendenwerke erlauben. Daher sollte es eine entsprechende Regelung \u00fcber die Verpflichtung der Hochschulen zur Daten\u00fcbertragung an alle beteiligten Vertragsparteien geben, soweit diese nicht bereits in Hochschulgesetzen oder Studierendenwerks-Gesetzen normiert ist.\r\n\r\nEinnahmeaufteilung, Postleitzahl der Hochschule\r\n\r\nDurch die deutschlandweite Nutzung des Deutschland-\u200bTickets muss das Einnahmenaufteilungsverfahren (EAV) besonders geregelt werden und die gerechte Aufteilung zwischen \u00d6ffentlichem Stra\u00dfenpersonenverkehr (\u00d6SPV) und des regionalem bzw. \u00fcberregionalem Schienenpersonenverkehr (SPNV) ber\u00fccksichtigen.\r\n\r\nNachdem f\u00fcr das Deutschlandticket f\u00fcr Studierende im Sommersemester 2024 auch eine Aufteilung der Einnahmen nach der Postleitzahl der jeweiligen Hochschule vorgesehen ist, soll sich ab dem Wintersemester 2024/25 die Aufteilung auf die Bundesl\u00e4nder allein nach den Wohnorten der Studierenden richten.\r\n\r\nDieses halten wir weder f\u00fcr praktikabel noch f\u00fcr sachgerecht. Die Adressdaten der Studierenden, die den Hochschulen vorliegen, sind teilweise nicht aktuell und weisen meistens die Heimatstandorte der Eltern aus. Nicht zu untersch\u00e4tzen ist auch der Anteil der (Programm-)Studierenden (z.B. Erasmus) mit Wohnsitz im EU-Ausland, aber auch im au\u00dfereurop\u00e4ischen Ausland. Die Studierenden nutzen jedoch das \u00d6PNV-Ticket in der Vorlesungszeit \u00fcberwiegend f\u00fcr Fahrten am Hochschulort. Insofern w\u00fcrden hier die Wohnort-Postleitzahlen das Ergebnis verzerren und die Aufteilung nicht richtig wiedergeben.\r\n\r\nAuch aus praktischer Sicht w\u00e4re die Aufteilung nach dem Hochschulort der Studierenden angezeigt. In der Praxis von Verkehrsbetrieben, die sich aktuell am Wohnsitz orientieren, geben die Studierenden beim Abruf des Tickets ihre Wohnortpostleitzahl an. Es ist davon auszugehen, dass nicht alle eingeschriebenen, beitragszahlenden Studierenden ein Ticket abrufen (z.B. nur 95 % der immatrikulierten Studierenden); verteilt werden m\u00fcssen aber alle Einnahmen aus dem Deutschland-Semesterticket an einer Hochschule, so dass f\u00fcr einen Teil der Einnahmen (in dem Beispiel 5%) ein Verteilungsschl\u00fcssel gebildet werden m\u00fcsste. Bei Zugrundelegung des Hochschulsitzes k\u00f6nnte die Verteilung direkt und unkompliziert erfolgen.\r\n\r\nErg\u00e4nzende Hinweise zu Fahrkontrollen\r\n\r\nDie Erhebung von Verwaltungsgeb\u00fchren, wenn ein g\u00fcltiges Deutschland-Semesterticket vorhanden ist, aber nicht vorgezeigt werden kann, sollte f\u00fcr eine \u00dcbergangszeit ausgesetzt werden. Die bisherigen Semestertickets waren gr\u00f6\u00dftenteils auf den Hochschul-Chipkarten gespeichert und verlieren dort, wo das Deutschlandsemesterticket eingef\u00fchrt wird, ihre G\u00fcltigkeit. Beim Deutschlandticket werden neue Tr\u00e4germedien oder Apps zur Verf\u00fcgung gestellt. Die Studierenden m\u00fcssen in der Regel selbst t\u00e4tig gegen\u00fcber den Verkehrsbetrieben werden, ansonsten k\u00f6nnten sie kein g\u00fcltiges Ticket vorweisen und es k\u00f6nnen Kosten durch ungewolltes Fahren ohne g\u00fcltigen Fahrausweis entstehen.\r\n\r\nBei Fahrkontrollen soll ber\u00fccksichtigt werden, dass die Hochschulen die immatrikulierten Studierende teilweise mit ihren K\u00fcnstler-/Aliasnamen speichern.  Insoweit kann der Name einer Person im Personalausweis von den Immatrikulationsdaten der Hochschulen abweichen. Bei Fahrkontrollen werden die von den Hochschulen \u00fcbermittelten Daten (Immatrikulationsdaten) mit denen im Personalausweis abgeglichen, so dass es zu Unstimmigkeiten in den Ausweisdokumenten kommen kann. Auch Erg\u00e4nzungsausweise (z.B. der dgti) sollten daher anerkannt werden, wenn die Namen im Immatrikulationsnachweis und im Personalausweis nicht \u00fcbereinstimmen.\r\n\r\n08. April 2024\r\n\r\nMatthias Anbuhl\r\nVorstandsvorsitzender des Deutschen Studierendenwerks"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/4d/56/305966/Stellungnahme-Gutachten-SG2406140052.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMAS",
+                                "de": "Bundesministerium f\u00fcr Arbeit und Soziales (BMAS)",
+                                "en": "Bundesministerium f\u00fcr Arbeit und Soziales (BMAS)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-22"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0004451",
+                "regulatoryProjectTitle": "Weiterentwicklung des Unfallversicherungsschutzes f\u00fcr Studierende ",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Stellungnahme des Deutschen Studierendenwerks e.V. zum Referentenentwurf des Bundesministeriums f\u00fcr Arbeit und Soziales\r\nEntwurf eines Gesetzes zur Weiterentwicklung der gesetzlichen Unfallversicherung\r\n\r\n(Unfallversicherungs-Weiterentwicklungsgesetz \u2013 UV-Weiterentwicklungsgesetz) vom 21.02.2024 (Bearbeitungsstand)\r\n\r\nWir bedanken uns f\u00fcr die M\u00f6glichkeit, zum Referentenentwurf f\u00fcr ein Unfallversicherungs-Weiterentwicklungsgesetz Stellung zu nehmen.\r\n\r\nDas Deutsche Studierendenwerk nimmt auf Grundlage seiner Satzung u.a. die sozialpolitischen Belange von Studierenden der Hochschulen wahr.\r\n\r\nMit dem vorliegenden Referentenentwurf werden einige L\u00fccken in der gesetzlichen Unfallversicherung geschlossen. Insbesondere f\u00fcr Studierende soll zuk\u00fcnftig Unfallversicherungsschutz f\u00fcr Studierende bei der Anfertigung von Pflichtarbeiten sowie f\u00fcr Fr\u00fch- und Jungstudierende bestehen, was wir ausdr\u00fccklich begr\u00fc\u00dfen.\r\n\r\nDar\u00fcber hinaus nutzen wir die Gelegenheit zur Stellungnahme um auf zus\u00e4tzliche Aspekte des Hochschulstudiums und der sozialen Absicherung von Studierenden aufmerksam zu machen und so zur Weiterentwicklung der gesetzlichen Unfallversicherung beizutragen:\r\n\r\nNeuregelung zum Schutz von Fr\u00fch- und Jungstudierenden in der gesetzlichen Unfallversicherung (\u00a7 2 Abs. 1 Nr. 8 Buchstabe d SGB VII)\r\n\r\nAn vielen Hochschulen gibt es inzwischen Programme zur F\u00f6rderung von begabten jungen Menschen/Sch\u00fcler*innen. Je nach Landesgesetzgebung k\u00f6nnen diese sog. Fr\u00fch- und Jungstudierenden an den Hochschulen immatrikuliert werden oder in anderer Weise z.B. als Gasth\u00f6rende zugelassen werden. Damit ist aktuell aber nur ein Teil dieser Studierendengruppe gesetzlich unfallversichert f\u00fcr F\u00e4lle, in denen er sich an der Hochschule zum Studieren und auf dem Weg dorthin oder von dort nach Hause bzw. in die Schule befindet. Die Unfallversicherung f\u00fcr Studierende kn\u00fcpft n\u00e4mlich an die Immatrikulation an, sonstige Zulassungsverfahren der Hochschulen sind nicht erfasst, obwohl die Angebote der Hochschulen an Fr\u00fch- und Jungstudierende vergleichbar sind und die Teilnahme an regul\u00e4ren Lehrveranstaltungen sowie den Erwerb von Studiennachweisen erm\u00f6glichen. Insofern ist die vorliegende Regelung im SGB VII notwendig und geeignet, um Fr\u00fch- und Jungstudierende einheitlich abzusichern.\r\n\r\nErg\u00e4nzung Unfallversicherungsschutz f\u00fcr Studierende (\u00a7 2 Abs. 1 Nr. 8 Buchstabe c SGB VII)\r\n\r\nMit dem Referentenentwurf wird der Unfallversicherungsschutz f\u00fcr Studierende auf T\u00e4tigkeiten der Erstellung von Studien- und Pr\u00fcfungsleistungen, auch au\u00dferhalb der Hochschule erweitert. Die Ableistung von Pr\u00fcfungen und Studienleistungen au\u00dferhalb der Hochschule entspricht der Studienwirklichkeit. Zahlreiche Lehrpl\u00e4ne sehen zudem Exkursionen, z.B. verpflichtende vom Lehrpersonal begleitete Studienreisen vor. Dieses Veranstaltungsformat sollte zumindest in der Gesetzesbegr\u00fcndung aus Gr\u00fcnden der Klarstellung benannt werden.\r\n\r\nDabei ist auch zu ber\u00fccksichtigen, dass in bestimmten Studieng\u00e4ngen verpflichtend Exkursionen oder auch Praktika im Ausland vorgesehen sind. F\u00fcr diese studiumsbezogenen Auslandsaufenthalte von Studierenden besteht aktuell kein gesetzlicher Sozialversicherungsschutz (in Europa lediglich ein eingeschr\u00e4nkter Krankenversicherungsschutz). Eine private Absicherung scheitert aus unserer Erfahrung an den begrenzten finanziellen Mitteln von Studierenden, was im Ungl\u00fccksfall erhebliche Folgen nach sich ziehen kann.\r\n\r\nEbenso geh\u00f6rt es regelm\u00e4\u00dfig zum Studium tempor\u00e4r sein Studium im Ausland zu absolvieren, insbesondere \u00fcber Austauschprogramme mit internationalen Partnerhochschulen oder im Rahmen von Auslandsstipendien (z.B. Erasmus). Dabei besteht regelm\u00e4\u00dfig kein Unfallversicherungsschutz.\r\n\r\nAbsicherung von Studienbewerber*innen bei Eignungs-/Aufnahmepr\u00fcfungen\r\n\r\nDie Zulassungsordnungen verschiedener Hochschulen sehen vor, dass Studieninteressierte ihre Eignung f\u00fcr das spezifische Studium insbesondere in praktischer Form in der Hochschule oder einer von der Hochschule benannten Einrichtung (z.B. Theater) gegen\u00fcber einer Zulassungskommission nachweisen m\u00fcssen, so beispielsweise f\u00fcr zahlreiche Studieng\u00e4nge der Kunsthochschulen. In diesen F\u00e4llen, die auf eine kleine Zahl von Studieninteressierten begrenzt ist, sollte \u2013 \u00e4hnlich wie f\u00fcr die Personalauswahlverfahren, \u00a7 2 Abs 1 Nr. 3 SGBVII \u2013 eine Regelung und Klarstellung f\u00fcr die Absicherung von Studienbewerber*innen bei vorgeschriebenen Eignungs- und Aufnahmepr\u00fcfungen im Rahmen von Zulassungsverfahren der Hochschulen eingef\u00fchrt werden. Die Risiken, die Studienbewerber*innen w\u00e4hrend der Aufnahmepr\u00fcfung, zu der sie ausdr\u00fccklich von der Hochschule eingeladen werden, ausgesetzt sind, sind mit denen der immatrikulierten Studierenden vergleichbar und befinden sich im Verantwortungsbereich der betreffenden Hochschule. Daher ist eine Gleichbehandlung zu immatrikulierten Studierenden in diesen besonderen Fachbereichen und Studieng\u00e4ngen gerechtfertigt."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/00/0b/305968/Stellungnahme-Gutachten-SG2406140056.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                "de": "Bundesministerium der Justiz (BMJ)",
+                                "en": "Bundesministerium der Justiz (BMJ)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMBF",
+                                "de": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                                "en": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-19"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0004452",
+                "regulatoryProjectTitle": "Nachhaltigkeitsberichtspflicht f\u00fcr Studierenden- und Studentenwerke",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Unaufgeforderte Stellungnahme des Deutschen Studierendenwerks e.V. (DSW) zum Referentenentwurf des Bundesministeriums der Justiz (Stand 22.03.2024)\r\nEntwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2022/2464 des Europ\u00e4ischen\r\n\r\nParlaments und des Rates vom 14. Dezember 2022 zur \u00c4nderung der Verordnung (EU) Nr. 537/2014 und der Richtlinien 2004/109/EG, 2006/43/EG und 2013/34/EU hinsichtlich der Nachhaltigkeitsberichterstattung von Unternehmen\r\n\r\nDas Deutsche Studierendenwerk (DSW) ist der Dachverband der 57 Studenten- und Studierendenwerke in Deutschland. Zu unseren Satzungsaufgaben geh\u00f6rt die politische Vertretung der berechtigten Interessen unserer Mitglieder, die auf Grundlage von Landeshochschul- bzw. Landesstudierendenwerksgesetzen Aufgaben der \u00f6ffentlichen Daseinsvorsorge, insbesondere der sozialen F\u00f6rderung von Studierenden, wahrnehmen.\r\n\r\nGrunds\u00e4tzliche \u00dcberlegungen zur Nachhaltigkeitsberichtspflicht im \u00f6ffentlichen Sektor\r\n\r\nMit vorliegendem Referentenentwurf sollen die europ\u00e4ischen Vorgaben zur Nachhaltigkeitsberichterstattung in nationales Recht umgesetzt werden. Wesentliches Ziel ist, den Anlegern an den Kapitalm\u00e4rkten Informationen zu liefern. Dazu ist f\u00fcr die Vergleichbarkeit erforderlich, gleichwertige rechtliche Mindestanforderungen f\u00fcr den Umfang der Informationen, die von im Wettbewerb\r\nstehenden Unternehmen zu ver\u00f6ffentlichen sind, festzulegen.\r\n\r\nInsofern erfolgt eine Anpassung des \u00a7 289b Absatz 1 HGB an die Delegierte Richtlinie (EU) 2023/2775 (ABl. L, 2023/2775, 21.12.2023), dass zur Erstattung eines Nachhaltigkeitsberichts f\u00fcr Kapitalgesellschaften, die gro\u00df im Sinne des \u00a7 267 Absatz 3 Satz 1 und Abs\u00e4tze 4 bis 5 oder kapitalmarktorientiert im Sinne des \u00a7 264d und keine Kleinstkapitalgesellschaft (\u00a7 267a) sind, verpflichtet werden. Das Gesetz wird damit ausdr\u00fccklich an gro\u00dfe Kapitalgesellschaften bzw. kapitalmarktorientierte Organisationen, also juristische Personen des Privatrechts, adressiert. Es ist darauf ausgerichtet, den Share- und Stakeholdern von gro\u00dfen Kapitalgesellschaften und kapitalmarktorientierten Unternehmen, also u.a. Anlegern, Kreditgebern, Lieferanten Informationen zur wirtschaftlichen Situation bzw. Solidit\u00e4t des Unternehmens zu geben.\r\n\r\nDie europ\u00e4ische Richtlinie und der vorliegende Entwurf zur Umsetzung in nationales Recht zielen\r\ndaher ebenso wenig wie die EU-Bilanzrichtlinie (vgl. Anhang I und Anhang II der Richtlinie 2013/34/EU vom 26.06.2013) darauf ab, Einrichtungen in anderen Rechtsformen einzubeziehen. Insbesondere juristische Personen des \u00f6ffentlichen Rechts werden vom CSRD und dem vorliegenden Gesetzesentwurf nicht erfasst und zur Nachhaltigkeitsberichterstattung verpflichtet, weil die Vorgaben nicht zu den bestehenden Strukturen der \u00f6ffentlichen Hand passen.\r\n\r\nIn den letzten Jahrzehnten sind jedoch in Bundesl\u00e4ndern insbesondere aus Gr\u00fcnden der Transparenz entweder durch den Landesgesetzgeber oder durch freiwillige Selbstverpflichtungen (in der Grundordnung bzw. Satzung) Regelungen in Kraft, die f\u00fcr Einrichtungen des \u00f6ffentlichen Sektors, wie z.B. \u00f6ffentliche K\u00f6rperschaften bzw. Anstalten des \u00f6ffentlichen Rechts, eine erweiterte Jahresabschlusserstellung analog zu gro\u00dfen Kapitalgesellschaften vorsehen. Damit werden juristische Personen des \u00f6ffentlichen Rechts unabh\u00e4ngig von ihrer Rechtsform oder ihrer tats\u00e4chlichen Gr\u00f6\u00dfe verpflichtet, wie gro\u00dfe Kapitalgesellschaften zu bilanzieren und einen Lagebericht zu erstellen. Hierf\u00fcr gab und gibt es gute Gr\u00fcnde, die aber eben nichts mit der Frage der Nachhaltigkeitsberichterstattung zu tun hatten und haben. In der Folge w\u00fcrden aber durch diesen mittelbaren Bezug die EU-Neuerungen zur Nachhaltigkeitsberichterstattung nicht auf alle, aber indirekt auf einen erheblichen Teil \u00f6ffentlicher Einrichtungen in Deutschland Anwendung finden und zwar sofort mit Umsetzung der Richtlinie.\r\n\r\nDurch die beschriebene Dynamik w\u00fcrde die CSRD-Berichtspflicht nun auch f\u00fcr Einrichtungen aus dem Hochschul- und Wissenschaftsbereich wie Hochschulen und Studierendenwerke greifen, die strukturell \u00fcberhaupt nicht in die Systematik der Berichterstattung passen. Diese Einrichtungen sind mit den Anforderungen an die geplante Nachhaltigkeitsberichterstattung nach HGB in der Regel \u00fcberfordert. Die verschiedenen Akteure im Hochschulwesen tragen gemeinsam zum Gelingen akademischer Ausbildung, zu Innovationen und der L\u00f6sung von Zukunftsaufgaben bei. Der Betrachtungsrahmen f\u00fcr die Zukunftsthemen Klimaschutz und Nachhaltigkeit kann daher f\u00fcr zuwendungsgef\u00f6rderte juristische Personen aus dem Hochschulbereich nicht so gefasst sein wie f\u00fcr kapitalmarktorientierte Unternehmen.\r\n\r\nRechtslage f\u00fcr die Studenten- und Studierendenwerke aufgrund des Referentenentwurfs\r\n\r\nDie Studenten- und Studierendenwerke sind mehrheitlich als Landesanstalten des \u00f6ffentlichen Rechts organisiert. Sie \u00fcbernehmen Aufgaben der sozialen F\u00f6rderung von Studierenden aufgrund von Landeshochschul- bzw. Landesstudierendenwerksgesetzen. Im Rahmen der \u00f6ffentlichen Daseinsvorsorge sind sie als \u00c4mter f\u00fcr Ausbildungsf\u00f6rderung in 15 Bundesl\u00e4ndern beh\u00f6rdlich t\u00e4tig, dar\u00fcber hinaus sind sie zust\u00e4ndig f\u00fcr die hochschulnahe Grundversorgung der Studierenden mit Essen, f\u00fcr die studentische Wohnraumversorgung, f\u00fcr die psychosoziale Beratung der Studierenden und die Betreuung ihrer Kinder in Kitas.\r\n\r\nDie Studierendenwerke finanzieren sich entsprechend in erheblichem Umfang \u00fcber \u00f6ffentliche Zuwendungen und Beitr\u00e4ge der Studierenden. Sie sind nicht gewinnorientiert, geschweige denn kapitalmarktorientiert. Ein Teil der f\u00fcr die Studierendenwerke geltenden Landesgesetze (ca. 50%) sehen allerdings eine Bilanzierung wie f\u00fcr gro\u00dfe Kapitalgesellschaften vor; zum Teil ist eine Bilanzierungspflicht wie f\u00fcr gro\u00dfe Kapitalgesellschaften in Satzungen verortet. Damit w\u00e4re ein Teil unserer Mitglieder zur Anwendung des Gesetzes auf Unterlagen der Einzelrechnungslegung f\u00fcr ein nach dem 31. Dezember 2024 beginnendes Gesch\u00e4ftsjahr verpflichtet, ein Teil jedoch nicht. \r\n\r\nWelches Studierendenwerk von der Berichtspflicht betroffen ist und welches nicht, ist dabei rein zuf\u00e4llig, je nachdem ob ein entsprechende Landesregelung oder eine satzungsrechtliche Selbstverpflichtung vorliegt oder nicht. Auch wenn es in einzelnen L\u00e4ndern bereits entsprechende \u00c4nderungsschritte gibt: Eine \u00c4nderung von Landesgesetzen und Satzungen ist aufgrund der kurzen Umsetzungsfrist und der damit verbundenen verfahrenstechnischen Fragen umfassend nicht mehr oder nur schwer m\u00f6glich. Somit wird es aufgrund der unterschiedlichen Ausgestaltung der Landesgesetze und Satzungen zu uneinheitlichen Verh\u00e4ltnissen im Bundesgebiet kommen. Zur Wahrung der einheitlichen Verh\u00e4ltnisse w\u00e4re daher eine bundesrechtliche Regelung geboten.\r\n\r\nDie Studierendenwerke verf\u00fcgen nicht \u00fcber die notwendige sachliche und personelle Ausstattung, um f\u00fcr das n\u00e4chste Jahr wie gro\u00dfe Kapitalgesellschaften zu den geforderten Nachhaltigkeitsaspekten zu berichten. Zus\u00e4tzliche \u00f6ffentliche Mittel werden unseres Wissens nicht zur Verf\u00fcgung gestellt. Das bedeutet, dass es zu einer \u00dcberlastung unserer Mitglieder kommen w\u00fcrde und eine ordnungsgem\u00e4\u00dfe Berichterstattung voraussichtlich nur kompensiert werden k\u00f6nnte, indem Mittel f\u00fcr die Erf\u00fcllung der Kernaufgaben eingespart und f\u00fcr die Berichterstattung eingesetzt werden. Auch die EU hat die M\u00f6glichkeit von \u00dcberlastungen gesehen und ggf. Straffungen von Pflichten f\u00fcr bestimmte Unternehmensgruppen angeregt (vgl. Delegierte Richtlinie (EU) 2023/2775, Erw\u00e4gungsgrund 1).\r\n\r\nF\u00fcr die Studierendenwerke k\u00f6nnen wir im \u00dcbrigen darauf hinweisen, dass sie sich seit Jahren f\u00fcr nachhaltiges Wirtschaften einsetzen und beispielsweise im Bereich Gemeinschaftsverpflegung eine Vorreiterrolle einnehmen. Aktuell haben wir als Dachverband begonnen, Empfehlungen f\u00fcr eine Nachhaltigkeitsberichterstattung zu entwickeln, die auf das spezifische Leistungsspektrum der Studierendenwerke abstellen und die geltenden Rahmenbedingungen der Studierendenwerke als Landesanstalten des \u00f6ffentlichen Rechts ber\u00fccksichtigen.\r\n\r\nNotwendige Anpassungen des Referentenentwurfs\r\n\r\nWir fordern daher, die Studierendenwerke als juristische Personen des \u00f6ffentlichen Rechts, die aufgrund von Landesgesetzen bzw. Satzungen nur mittelbar in den Anwendungsbereich des Gesetzes fallen, grunds\u00e4tzlich von der Verpflichtung einer Nachhaltigkeits-Berichterstattung im Umfang gro\u00dfer Kapitalgesellschaften auszunehmen.\r\n\r\nHilfreich w\u00e4re eine Klarstellung im Gesetz, dass die Verpflichtung zur Nachhaltigkeitsberichterstattung gem\u00e4\u00df \u00a7 289 b HGB (neu) nur f\u00fcr die im 3. Buch, zweiter Abschnitt des Handelsgesetzbuches genannten Rechtsformen gelten und eine mittelbare Anwendung aufgrund landesrechtlicher oder sonstiger untergesetzlicher Regelungen ausgeschlossen ist.\r\n\r\nErsatzweise muss gepr\u00fcft werden, ob bzw. inwieweit in Abstimmung mit den EU-Vorgaben eine ausreichende \u00dcbergangsfrist zur Anpassung landespezifischer Regelungen und nachfolgender Bestimmungen (in Satzungen/Grundordnungen) einger\u00e4umt werden kann.  \r\n\r\n \r\n19. April 2024"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

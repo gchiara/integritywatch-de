@@ -1,0 +1,700 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-28T08:26:25.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-25T09:23:00.000+01:00",
+        "lastUpdateDate": "2024-06-28T12:08:34.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 38268,
+                "validFromDate": "2024-06-28T12:08:34.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 13893,
+                "validFromDate": "2023-02-28T08:26:25.000+01:00",
+                "validUntilDate": "2024-06-28T12:08:34.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Die Wirtschaftliche Vereinigung Zucker hat die Aufgabe, die gemeinsamen Interessen ihrer Mitglieder politisch zu f\u00f6rdern und gegen\u00fcber Beh\u00f6rden, anderen Wirtschaftskreisen und in der \u00d6ffentlichkeit zu vertreten. Dies erfolgt insbesondere auf den Gebieten Anbau und Verarbeitung von Zuckerr\u00fcben, Zucker und Nebenerzeugnissen, Zuckermarkt- und Agrarpolitik sowie Au\u00dfenhandelsrecht und Handelspolitik.\r\nZur Erf\u00fcllung ihrer Aufgaben richtet die WVZ eigene Veranstaltungsformate aus, nimmt an Messen und Parteitagen teil. Sie ver\u00f6ffentlicht Stellungnahmen und Gutachten und/oder \u00fcbermittelt diese an Abgeordnete sowie an die Bundesregierung. Der Verband verfolgt keine eigenen wirtschaftlichen Interessen.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/ce/05/323440/WVZ-Jahresabschluss.pdf",
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearStart": "2022-10-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.9,
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 340001,
+            "to": 350000
+        },
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Friedrichstra\u00dfe",
+            "streetNumber": "69",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "wvz-vdz@zuckerverbaende.de"
+                }
+            ],
+            "phoneNumber": "+493020618950",
+            "websites": [
+                {
+                    "website": "www.zuckerverbaende.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Sandra",
+                "lastName": "F\u00fcrderer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Annie",
+                "lastName": "Martin",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Philip",
+                "lastName": "Prinz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Astrid",
+                "lastName": "Rewerts",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "G\u00fcnter",
+                "lastName": "Tissen",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Isabel",
+                "lastName": "Vollmer",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": false,
+                "firstName": "Stefan",
+                "function": "Vorsitzender",
+                "lastName": "Streng",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": false,
+                "firstName": "Niels",
+                "function": "1. stv. Vorsitzender",
+                "lastName": "P\u00f6rksen",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Robert",
+                "function": "2. stv. Vorsitzender",
+                "lastName": "Ernst",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-20",
+            "naturalPersons": 0,
+            "organizations": 12,
+            "totalCount": 12
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Bundesverband der deutschen Bioethanolwirtschaft"
+            },
+            {
+                "membership": "Forum Moderne Landwirtschaft "
+            },
+            {
+                "membership": "Lebensmittelverband Deutschland "
+            },
+            {
+                "membership": "Wirtschaftsforum der SPD"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Wirtschafliche Vereinigung Zucker e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "Nordzucker AG"
+            },
+            {
+                "name": "S\u00fcdzucker AG"
+            },
+            {
+                "name": "Pfeifer & Langen GmbH & Co. KG"
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01",
+        "totalMembershipFees": {
+            "from": 2220001,
+            "to": 2230000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001489/38268",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-28T12:08:34.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/6e/b2/323448/Lobbyregister-Detailansicht-R001489-2024-06-28_12-08-34.pdf",
+        "validFromDate": "2024-06-28T12:08:34.000+02:00",
+        "version": 3
+    },
+    "registerEntryId": 38268,
+    "registerNumber": "R001489",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die deutschen R\u00fcbenanbauer unterst\u00fctzen durch die konsequente Anwendung der Grunds\u00e4tze des integrierten Pflanzenschutzes sowie der Leitlinien des integrierten Pflanzenschutzes im Zuckerr\u00fcbenanbau das \u00fcbergeordnete Ziel, den Einsatz von Pflanzenschutzmitteln zu reduzieren. Pauschale quantitative Reduktionsziele gef\u00e4hrden jedoch die Wirtschaftlichkeit des Zuckerr\u00fcbenanbaus. Wirkstoffverluste erh\u00f6hen das Ertragsrisiko und erschweren ein sinnvolles Resistenzmanagement. Eine Verringerung des Pflanzenschutzmitteleinsatzes ist daher so zu gestalten, dass innerhalb der EU faire Wettbewerbsbedingungen bestehen und eine ausreichende Anzahl an Wirkstoffen vorhanden ist, um die f\u00fcr eine vielf\u00e4ltige Fruchtfolge wichtige Kultur Zuckerr\u00fcbe zu erhalten.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009034",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/23/01/323441/Stellungnahme-Gutachten-SG2406200195.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                        "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                        "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-15"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009034",
+                        "regulatoryProjectTitle": "Erhalt des Einsatzes von Pflanzenschutzmitteln f\u00fcr den Zuckerr\u00fcbenanbau",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Stellungnahme der Wirtschaftlichen Vereinigung Zucker zur\r\nDiskussionsgrundlage f\u00fcr die Erarbeitung eines\r\n\u201eZukunftsprogramms Pflanzenschutz\u201c des BMEL\r\nDie Wirtschaftliche Vereinigung Zucker e.V. (WVZ) ist die zentrale Organisation der deut-schen Zuckerwirtschaft. Ihr geh\u00f6ren die f\u00fcnf gebietlichen Zusammenschl\u00fcsse der 22.000 R\u00fcbenanbauer in Deutschland, vier zuckererzeugende Unternehmen und drei Firmen des Zuckerimport- und -exporthandels an. Die deutschen R\u00fcbenanbauer unterst\u00fctzen durch die konsequente Anwendung der Grunds\u00e4tze des integrierten Pflanzenschutzes sowie der Leitlinien des integrierten Pflanzenschutzes im Zuckerr\u00fcbenanbau das \u00fcbergeordnete Ziel, den Einsatz von Pflanzenschutzmitteln zu reduzieren.\r\nAllgemeine Anmerkungen\r\nDer vom BMEL initiierte Beteiligungsprozess bezieht sich bedauerlicherweise lediglich auf eine Diskussionsgrundlage f\u00fcr die Erarbeitung des \u201eZukunftsprogramms Pflanzenschutz\u201c. Gem\u00e4\u00df dem dargestellten Zeitplan erfolgt die Erarbeitung des eigentlichen Programms erst im Anschluss an den Beteiligungsprozess. Eine Verb\u00e4ndeanh\u00f6rung zum \u201eZukunfts-programm Pflanzenschutz\u201c selbst ist somit nach den bisherigen Darstellungen nicht vorge-sehen. Dies sieht die deutsche Zuckerwirtschaft kritisch, da die Diskussionsgrundlage le-diglich Ma\u00dfnahmen zur Verringerung des Pflanzenschutzmitteleinsatzes vorschl\u00e4gt, hin-sichtlich der Umsetzung der Ma\u00dfnahmen (Ordnungsrecht vs. Kooperationen) und deren Finanzierung werden die R\u00fcbenanbauer jedoch im Unklaren gelassen. Deshalb bitten wir, eine Verb\u00e4ndeanh\u00f6rung zum erarbeiteten \u201eZukunftsprogramm Pflanzenschutz\u201c zu einem geeigneten Zeitpunkt durchzuf\u00fchren.\r\nGrunds\u00e4tzlich zu kritisieren ist, dass das Eckpunktepapier in keiner Weise den Nutzen von Pflanzenschutzmitteln hervorhebt. Der Schutz der Kulturpflanzen vor Krankheiten und Sch\u00e4dlingen sowie vor der Konkurrenz durch Unkr\u00e4uter ist nicht nur essenziell, um Ertr\u00e4ge und damit die Wirtschaftlichkeit des R\u00fcbenanbaus zu sichern. Auch die Sicherheit von Le-bens- und Futtermitteln (z. B. Zuckerr\u00fcbenschnitzel) wird durch die pauschale Verringe-rung des Pflanzenschutzmitteleinsatzes beeintr\u00e4chtigt, wenn es in Ermangelung wirksa-mer Bek\u00e4mpfungsm\u00f6glichkeiten bspw. zu erh\u00f6hten Mykotoxingehalten kommt. Gleichzei-tig steigen aber die Anforderungen an einzuhaltende Grenzwerte.\r\nMit dem Eckpunktepapier h\u00e4lt das BMEL an dem in der Farm-to-Fork-Strategie veranker-ten Ziel, bis zum Jahr 2030 die Anwendung und das Risiko von Pflanzenschutzmitteln um\r\n2\r\n50 Prozent zu verringern, fest. Einerseits wurde die Farm-to-Fork-Strategie schon im Mai 2020 ver\u00f6ffentlicht, sodass sich der Umsetzungszeitraum bis zur Zielerreichung deutlich verk\u00fcrzt hat. Andererseits ist die Festlegung von pauschalen quantitativen Reduktionszie-len fachlich nicht sinnvoll und wurde von der WVZ schon im Zusammenhang mit dem Kommissionsvorschlag f\u00fcr eine Verordnung \u00fcber die nachhaltige Verwendung von Pflan-zenschutzmitteln (Sustainable Use Regulation, SUR) strikt abgelehnt. Die Reduktion der Verwendung und des Risikos chemischer Pflanzenschutzmittel um 50 Prozent ohne vor-handene Alternativen wird zu signifikanten Ertragseinbu\u00dfen bei Zuckerr\u00fcben f\u00fchren. Fer-ner kann die Qualit\u00e4t beeintr\u00e4chtigt werden, was zu Lebensmittelverlusten f\u00fchren wird.\r\nPauschale quantitative Reduktionsziele ber\u00fccksichtigen nicht, dass der Krankheits- und Sch\u00e4dlingsdruck in Abh\u00e4ngigkeit von der Witterung j\u00e4hrlichen Schwankungen unterliegt. Es k\u00f6nnen bestimmte Populationen zur\u00fcckgedr\u00e4ngt oder in ihrer Ausbreitung bef\u00f6rdert werden, wodurch die Notwendigkeit f\u00fcr den Einsatz von Pflanzenschutzmitteln steigt. Durch den Klimawandel ist in den kommenden Jahren zudem mit der Einwanderung neuer Schaderreger zu rechnen, f\u00fcr die es bisher noch keine Bek\u00e4mpfungsm\u00f6glichkeiten gibt und demzufolge entsprechende Bek\u00e4mpfungsstrategien, einschlie\u00dflich des Einsatzes von chemischen Pflanzenschutzmitteln, erst noch entwickelt werden m\u00fcssen. Vor diesem Hin-tergrund brauchen die Zuckerr\u00fcbenanbauer vielf\u00e4ltige Bek\u00e4mpfungsm\u00f6glichkeiten. Durch eine mechanische Unkrautregulierung k\u00f6nnen in Jahren mit daf\u00fcr g\u00fcnstigen Witterungs-verh\u00e4ltnissen zufriedenstellende Ergebnisse zwischen den R\u00fcbenreihen erzielt werden. Die R\u00fcbenreihen m\u00fcssen hingegen weiter mit Herbiziden behandelt werden, womit ein nicht unerheblicher Mehraufwand verbunden ist. Eine vollst\u00e4ndige mechanische Unkraut-regulierung erfordert mangels verf\u00fcgbarer Technologien umfangreiche Handarbeit und ist sowohl wegen nicht ausreichender Arbeitskr\u00e4ftekapazit\u00e4ten als auch aufgrund der zu ver-anschlagenden Personalkosten nicht wirtschaftlich.\r\nVon entscheidender Bedeutung f\u00fcr die Zielerreichung ist die Festlegung eines geeigneten Referenzzeitraums. Diesbez\u00fcglich trifft das BMEL in der Diskussionsgrundlage jedoch keine Aussage, was einem vertrauensvollen Austausch \u00fcber die M\u00f6glichkeiten einer Ver-ringerung des Pflanzenschutzmitteleinsatzes mit den betroffenen Wirtschaftsbeteiligten nicht zutr\u00e4glich ist. Wie das BMEL im Zusammenhang mit der SUR stets eingefordert hat, m\u00fcssen bereits erzielte Erfolge bei der Reduzierung von Pflanzenschutzmitteln ber\u00fcck-sichtigt werden. Dies wird durch die Festlegung eines geeigneten Referenzzeitraums er-m\u00f6glicht.\r\nDer Einsatz von chemisch-synthetischen Pflanzenschutzmitteln soll auf allen Fl\u00e4chen am-bitioniert reduziert werden. Dies ber\u00fccksichtigt nicht die in verschiedenen Kulturen erfor-derliche Intensit\u00e4t des Einsatzes von Pflanzenschutzmitteln. So sind junge Zuckerr\u00fcben-pflanzen \u00e4u\u00dferst empfindlich gegen\u00fcber der Konkurrenz durch Unkr\u00e4uter, weswegen de-ren Bek\u00e4mpfung bis zum Reihenschluss eine hohe Relevanz im Zuckerr\u00fcbenanbau hat. An alternativen Verfahren der mechanischen Beikrautregulierung, z. B. durch Hackmaschi-nen in Kombination mit einer Bandspritzung, Robotik-Technologien und Spot-Spray-Syste-men wird intensiv gearbeitet, sodass zuk\u00fcnftig Technologien zur Verf\u00fcgung stehen wer-den, die deutliche Einsparungen beim Einsatz von Pflanzenschutzmitteln erwarten lassen. Derzeit sind insbesondere digitale Technologien noch zu teuer, nicht ausreichend erprobt sowie zu gering in der Fl\u00e4chenleistung und stellen somit keine verf\u00fcgbare Alternative zur fl\u00e4chigen Applikation von Pflanzenschutzmitteln dar.\r\n3\r\nFerner erfordern tierische Sch\u00e4dlinge oftmals eine Bek\u00e4mpfung, weil von ihnen \u00fcbertra-gene Krankheitserreger (z. B. Vergilbungsviren \u00fcbertragen von Blattl\u00e4usen, Proteobakte-rien und Phytoplasmen \u00fcbertragen durch Zikaden) massive Ertragsverluste verursachen und damit die Wirtschaftlichkeit des Zuckerr\u00fcbenanbaus in Frage stellen. Die pauschale Reduktion des Einsatzes von Pflanzenschutzmitteln auf allen Fl\u00e4chen wird dem h\u00e4ufig al-ternierenden Auftreten von Schaderregern nicht gerecht. In Jahren mit einem vermehrten Aufkommen von Schaderregern besteht somit das Potenzial, die Rohstoffbasis einer Zu-ckerfabrik zu gef\u00e4hrden. Da aufgrund der Saisonalit\u00e4t des Zuckerr\u00fcbenanbaus und der -verarbeitung sowie der geringen Transportw\u00fcrdigkeit der Zuckerr\u00fcbe eine anderweitige Rohstoffbeschaffung nicht m\u00f6glich ist, droht die Produktionsmenge einer Zuckerfabrik so stark abzufallen, dass die Verarbeitung nicht mehr rentabel ist.\r\nZu den einzelnen, in der Diskussionsgrundlage vorgeschlagenen Ma\u00dfnahmen nimmt die WVZ wie folgt Stellung.\r\nIntegrierten Pflanzenschutz st\u00e4rken (Zeile 78)\r\nDie Anwendung verschiedener Ma\u00dfnahmen des integrierten Pflanzenschutzes ist im Zu-ckerr\u00fcbenanbau gute fachliche Praxis. So zeigen Ergebnisse der Betriebsbefragung zur Produktionstechnik, dass 2- und 3-j\u00e4hrige Anbauh\u00e4ufigkeiten von Zuckerr\u00fcben seit 2010 abnehmen und l\u00e4ngere Anbauh\u00e4ufigkeiten von vier und mehr Jahren zunehmen. Aus der oben genannten Befragung geht zudem hervor, dass im Jahr 2022 auf 81 Prozent der Schl\u00e4ge bodenschonende Mulchsaatverfahren angewandt und auf 72 Prozent der Schl\u00e4ge Zwischenfr\u00fcchte angebaut wurden.\r\nDar\u00fcber hinaus verf\u00fcgt die deutsche Zuckerwirtschaft \u00fcber ein in der EU einzigartiges inte-griertes Sortenpr\u00fcfsystem f\u00fcr Zuckerr\u00fcben, welches mitverantwortlich f\u00fcr die kontinuierli-che Ertragssteigerung und einen erheblichen Z\u00fcchtungsfortschritt bei Zuckerr\u00fcben ist. Nach erfolgreicher zweij\u00e4hriger Wertpr\u00fcfung und bei Erf\u00fcllung des landeskulturellen Wer-tes erfolgt die Zulassung und Eintragung einer neuen Zuckerr\u00fcbensorte durch das Bun-dessortenamt in das Sortenregister. Anschlie\u00dfend werden die Leistungen der neuen und alten Zuckerr\u00fcbensorten in bundesweit einheitlichen Sortenversuchen weiter verglichen. Durch die bundesweit einheitliche Durchf\u00fchrung der Versuche ist ein hohes Ma\u00df an Ver-gleichbarkeit und Reproduzierbarkeit gegeben. So stehen bereits ein Jahr nach der Zulas-sung dreij\u00e4hrige Leistungsdaten f\u00fcr neu zugelassene Sorten zur Verf\u00fcgung. Das inte-grierte Sortenpr\u00fcfsystem liefert damit wertvolle mehrj\u00e4hrige Daten \u00fcber die Leistungsf\u00e4hig-keit marktf\u00e4higer Sorten und bildet die Grundlage f\u00fcr die Sortenberatung im Zucker-r\u00fcbenanbau. Gerade in den letzten zehn Jahren sind erhebliche Fortschritte in den Wertei-genschaften Resistenz und Toleranz gegen\u00fcber Krankheiten und Sch\u00e4dlingen erzielt wor-den. Durch das integrierte Sortenpr\u00fcfsystem steht dem Zuckerr\u00fcbenanbau der Z\u00fcchtungs-fortschritt sehr schnell zur Verf\u00fcgung.\r\nDie Anwendung alternativer Pflanzenschutzverfahren unterliegt Hemmnissen au\u00dferhalb des Einflussbereichs des R\u00fcbenanbauers. So sind die Anwendbarkeit und Wirksamkeit ei-ner mechanischen Unkrautbek\u00e4mpfung stark von den Witterungsverh\u00e4ltnissen abh\u00e4ngig.\r\n4\r\nFerner kann eine mechanische Unkrautregulierung auch negative Auswirkungen auf die Biodiversit\u00e4t haben, wenn es z. B. zur Zerst\u00f6rung der Gelege von Bodenbr\u00fctern kommt. Bei der konservierenden Bodenbearbeitung bestehen zudem Zielkonflikte zur Verringe-rung des Einsatzes von Totalherbiziden bzw. kann sich die wendende Bodenbearbeitung aus phytosanit\u00e4ren Notwendigkeiten ergeben.\r\nZ\u00fcchtung resistenter Sorten (Zeile 85)\r\nDie Zuckerwirtschaft begr\u00fc\u00dft, dass das BMEL die z\u00fcchterische Verbesserung von Kultur-pflanzen im Hinblick auf Toleranz- und Resistenzeigenschaften weiter f\u00f6rdern will. Zur ge-zielten F\u00f6rderung von Toleranz- und Resistenzeigenschaften gegen\u00fcber Blattkrankheiten erfolgt ab dem Jahr 2024 das integrierte Pr\u00fcfwesen gemeinsam mit dem Bundessortenamt in einem einfaktoriellen System ohne Fungizidma\u00dfnahme. Durch diese Anpassung wird die Zuckerwirtschaft gemeinsam mit dem Bundessortenamt dem Ziel der F\u00f6rderung von toleranten und resistenten Sorten eigeninitiativ gerecht.\r\nIn der z\u00fcchterischen Anpassung von Kulturpflanzen an abiotische Stressfaktoren wie Hitze und Trockenheit sowie an biotische Stressfaktoren wie Krankheiten und Sch\u00e4dlinge ist nicht nur ein wichtiger Beitrag zur Anpassung an den Klimawandel zu sehen. Vielmehr birgt die Z\u00fcchtung resistenter/toleranter Sorten auch erhebliches Einsparpotenzial bei Be-triebsmitteln wie Pflanzenschutz und D\u00fcngung. Gerade mit den neuen genomischen Z\u00fcch-tungstechniken lie\u00dfen sich diese z\u00fcchterischen Anpassungen schneller und pr\u00e4ziser als mit herk\u00f6mmlichen Z\u00fcchtungsmethoden erzielen. Es ist daher vollkommen unverst\u00e4ndlich, dass das BMEL das Potenzial der neuen Z\u00fcchtungsmethoden in einem Zukunftspro-gramm nicht aussch\u00f6pfen will.\r\n\u00d6ko-Landbau bis 2030 auf 30 Prozent ausbauen (Zeile 88)\r\nAus Sicht der Zuckerwirtschaft ist ein Ausbau des \u00f6kologischen Landbaus ausschlie\u00dflich nachfrageorientiert wirtschaftlich sinnvoll. Dar\u00fcber hinaus sind Kulturpflanzen wie die Zu-ckerr\u00fcbe, die w\u00e4hrend ihrer Jugendentwicklung \u00e4u\u00dferst empfindlich auf die Konkurrenz durch Beikr\u00e4uter reagiert, nur schwer unter g\u00e4nzlichem Verzicht auf den Einsatz von Pflanzenschutzmitteln anzubauen. Der Anbau von \u00d6kor\u00fcben ist daher in der Regel mit dem Einsatz der Handhacke (zwischen 80 und 200 Arbeitsstunden pro Hektar) und dies wiederum mit erheblichen Arbeitserledigungskosten verbunden. Die Versorgung einer Zu-ckerfabrik mit dem Rohstoff R\u00fcbe ausschlie\u00dflich aus dem \u00f6kologischen Landbau ist folg-lich nicht darstellbar, auch weil das Ertragsrisiko im \u00f6kologischen Anbau von Zuckerr\u00fcben h\u00f6her einzusch\u00e4tzen ist und gr\u00f6\u00dfere Einzugsgebiete f\u00fcr den Rohstoff R\u00fcbe aufgrund der geringen Transportw\u00fcrdigkeit der Zuckerr\u00fcben und aus Gr\u00fcnden der Treibhausgasvermei-dung nicht sinnvoll sind.\r\nNAP weiterentwickeln (Zeile 111)\r\nDer Nationale Aktionsplan zur nachhaltigen Anwendung von Pflanzenschutzmitteln (NAP) wurde am 10. April 2013 von der Bundesregierung beschlossen. Vor diesem Hintergrund\r\n5\r\nerwartet die Zuckerwirtschaft, dass jegliche \u00c4nderung des NAP mit den \u00fcbrigen Regie-rungsparteien diskutiert und abgestimmt wird. Einseitig vom BMEL initiierte Vorhaben, die parallel zum bestehenden NAP entwickelt werden und \u00fcber diesen hinausgehen, lehnt die Zuckerwirtschaft ab.\r\nEine Aktualisierung der Leitlinien zum integrierten Pflanzenschutz hat unbedingt unter Be-teiligung der die Zuckerr\u00fcbenanbauer vertretenden Verb\u00e4nde, die als Multiplikatoren f\u00fcr die Umsetzung der aktualisierten Leitlinien einstehen m\u00fcssen, zu erfolgen. Anderenfalls kann die bisher vorhandene hohe Akzeptanz der Leitlinie zum integrierten Pflanzenschutz im Zuckerr\u00fcbenanbau nicht aufrechterhalten werden.\r\nRefugialfl\u00e4chenansatz \u2013 Schutzr\u00e4ume f\u00fcr Tiere und Pflanzen schaffen (Zeile 121)\r\nBereits im Jahr 2019 hat das Verwaltungsgericht Braunschweig entschieden, dass die Zu-lassung von Pflanzenschutzmitteln nicht mit einer Biodiversit\u00e4tsauflage, also einer fakti-schen Fl\u00e4chenstilllegung verkn\u00fcpft werden darf. Damit war die vom Umweltbundesamt ab dem 1. Januar 2020 geforderte Anwendungsbestimmung, die festlegte, dass Landwirte die betreffenden zugelassenen Pflanzenschutzmittel nur dann anwenden d\u00fcrfen, wenn sie zehn Prozent ihrer gesamten Ackerfl\u00e4che als sogenannte Biodiversit\u00e4tsfl\u00e4chen vorhalten, rechtswidrig. Es ist insofern v\u00f6llig unverst\u00e4ndlich, dass der Ansatz, bestimmte Pflanzen-schutzmittel nur unter der Ma\u00dfgabe Biodiversit\u00e4ts- oder Kompensationsfl\u00e4chen vorzuhal-ten, wiederholt unter der Begrifflichkeit des Refugialfl\u00e4chenansatzes vorgetragen wird. So wird in dem Eckpunktepapier vorgeschlagen, die Anwendung bestimmter Pflanzenschutz-mittel daran zu binden, dass mindestens zehn Prozent Refugialfl\u00e4chen vorhanden sind. Gleichzeitig will das BMEL die F\u00f6rderf\u00e4higkeit der entsprechenden Fl\u00e4chen sicherstellen. Wie dies gelingen kann, ist aus Sicht der Zuckerwirtschaft fraglich.\r\nAuch vor dem Hintergrund der erweiterten M\u00f6glichkeiten, die 4-prozentige Stilllegungsver-pflichtung im Jahr 2024 zu erf\u00fcllen und der aktuellen Diskussionen um die Abschaffung dieser Vorgabe des entsprechenden GL\u00d6Z-Standards 8 l\u00f6st der geplante Refugialfl\u00e4chen-ansatz mit einer faktischen Stilllegung in H\u00f6he von zehn Prozent absolutes Unverst\u00e4ndnis aus. Der Refugialfl\u00e4chenansatz widerspricht allen aktuellen Bestrebungen, b\u00fcrokratische Lasten f\u00fcr die Betriebe zu verringern und die Wettbewerbsposition der Landwirte zu ver-bessern. Im Gegensatz dazu stellt der Refugialfl\u00e4chenansatz allein auf nationaler Ebene eine Benachteiligung der deutschen R\u00fcbenanbauer im europ\u00e4ischen Binnenmarkt dar.\r\nAuf die Anwendung des Totalherbizids Glyphosat verzichten (Zeile 134)\r\nDie deutsche Zuckerwirtschaft erwartet vom BMEL eine 1:1-Umsetzung der auf europ\u00e4i-scher Ebene erteilten Genehmigung des Wirkstoffes Glyphosat. Anwendungseinschr\u00e4n-kungen wie die in der Pflanzenschutz-Anwendungsverordnung bestehenden Einschr\u00e4n-kungen sind eine Benachteiligung deutscher R\u00fcbenanbauer im europ\u00e4ischen Wettbewerb. Zudem ist das Anwendungsverbot von Glyphosat in Wasserschutzgebieten aus Sicht der landwirtschaftlichen Praxis problematisch und fachlich nicht gerechtfertigt. R\u00fcbenanbauer in Wasserschutzgebieten, die aus Gr\u00fcnden des Erosionsschutzes eine konservierende Bodenbearbeitung in Kombination mit einem glyphosathaltigen Totalherbizid durchgef\u00fchrt\r\n6\r\nhaben, sind nun gezwungen, eine intensive (mehrmalige) Bodenbearbeitung zur Unkraut-bek\u00e4mpfung vorzunehmen oder sogar eine wendende Bodenbearbeitung. Letzteres ist im Falle einer Einstufung der betreffenden Fl\u00e4che in eine Erosionsgef\u00e4hrdungsklasse unter Umst\u00e4nden jedoch nicht zul\u00e4ssig. Auch aus Gr\u00fcnden des Gew\u00e4sserschutzes ist das An-wendungsverbot von Glyphosat in Wasserschutzgebieten fragw\u00fcrdig. Als Ausweichreak-tion auf das Glyphosatverbot kommt es zu einer intensiveren Bodenbearbeitung, wodurch sich das Erosionsrisiko und die Stickstoffmobilisierung erh\u00f6hen. Mit dem vermehrten Bo-denabtrag einhergehend kommt es zu Eintr\u00e4gen von Phosphor und Krankheitserregern, die an Bodenpartikel gebunden sind, sowie dem Eintrag von Pflanzenschutzmitteln in Oberfl\u00e4chengew\u00e4sser. Der durch die intensivere Bodenbearbeitung mobilisierte Stickstoff kann zudem in Gew\u00e4sser (Grundwasser durch Versickerung sowie oberirdische Gew\u00e4s-ser) verlagert werden.\r\nUmgang mit behandeltem Saatgut verbessern (Zeile 147)\r\nHinsichtlich des Risikomanagements f\u00fcr behandeltes Saatgut ist zu beachten, dass sich die Pillierung der Zuckerr\u00fcbe grunds\u00e4tzlich von der Beizung anderer Kulturen unterschei-det. Das Auftragen einer ersten Schicht um das Zuckerr\u00fcbensaatgut dient zun\u00e4chst der Desinfektion und damit dem Schutz vor samenb\u00fcrtigen Schaderregern. Durch das Auftra-gen einer zweiten F\u00fcllschicht entsteht die runde Saatgutpille. Die dritte Schicht ist die ei-gentliche Schutzschicht mit den darin enthaltenen Wirkstoffen zum Schutz vor bodenb\u00fcrti-gen Schaderregern. Eine abschlie\u00dfende vierte Schicht dient dem Schutz vor Abrieb der Beizmittel der dritten Schicht. Durch diese vierte Schicht wird zudem der direkte Kontakt des Anwenders mit den Beizmitteln der dritten Schicht verhindert. Durch diesen Aufbau der R\u00fcbenpille wird bei Zuckerr\u00fcbensaatgut ein besonders ausgepr\u00e4gter Anwender- und Umweltschutz sichergestellt. Dies ist aus Sicht der Zuckerwirtschaft bei der Pr\u00fcfung von Risikomanagementma\u00dfnahmen f\u00fcr den Umgang mit behandeltem Saatgut zwingend zu beachten. Ein Risikomanagement f\u00fcr behandeltes Saatgut muss an die Kultur und die Me-thode, wie die Wirkstoffe an das Saatgut gebracht werden (Pillierung, Beizung), angepasst erfolgen.\r\nPrognosemodelle und Entscheidungshilfen kontinuierlich weiterentwickeln (Zeile 151)\r\nDie Zuckerwirtschaft begr\u00fc\u00dft die F\u00f6rderung der (Weiter-)Entwicklung von Prognose- und Entscheidungshilfen ausdr\u00fccklich. In diesem Zusammenhang erw\u00e4gt das BMEL auch, Be-k\u00e4mpfungs-/Schadschwellen anzupassen bzw. neu zu definieren. Eine Anpassung von Bek\u00e4mpfungs-/Schadschwellen vor dem Hintergrund des Ziels der Verringerung des Pflanzenschutzmitteleinsatzes darf nicht dazu f\u00fchren, dass Bek\u00e4mpfungs-/Schadschwel-len zwecks einer sp\u00e4teren Behandlung unter Inkaufnahme h\u00f6herer Sch\u00e4den heraufgesetzt werden. Denn ab einem bestimmten Punkt kann ein Schaderreger mit den noch vorhande-nen Wirkstoffen nicht mehr wirkungsvoll einged\u00e4mmt werden und ein Risiko von Resis-tenzentwicklung muss ber\u00fccksichtigt werden. Angesichts sich ver\u00e4ndernder klimatischer Bedingungen breiten sich Schaderreger in Abh\u00e4ngigkeit der Witterungsverh\u00e4ltnisse explo-sionsartig aus. In der Praxis zeigt sich daher vielmehr, dass eine Bek\u00e4mpfung fr\u00fcher erfol-\r\n7\r\ngen m\u00fcsste, um einen ausreichenden Bek\u00e4mpfungserfolg mit m\u00f6glichst wenig Aufwand-menge bzw. m\u00f6glichst wenig Behandlungen und gleichzeitigem Resistenzmanagement zu erzielen. Die Anpassung von Bek\u00e4mpfungs-/Schadschwellen muss wissenschaftlich fun-diert unter Einbeziehung der Erfahrungen aus der Praxis erfolgen.\r\nZulassungsverfahren f\u00fcr Pflanzenschutzmittel verbessern (Zeile 158)\r\nEine Verbesserung der Verfahren zur Zulassung von Pflanzenschutzmitteln \u2013 im beste-henden rechtlichen Rahmen \u2013 begr\u00fc\u00dft die Zuckerwirtschaft. Bei diesem Vorhaben sollte zwingend darauf hingewiesen werden, dass die Zulassung von Pflanzenschutzmitteln wie-der fakten- und wissenschaftsbasiert erfolgen sowie die wissenschaftliche Expertise der Europ\u00e4ischen Beh\u00f6rde f\u00fcr Lebensmittelsicherheit (EFSA) ber\u00fccksichtigt werden muss. Letzteres war beispielsweise im Zuge des Wiedergenehmigungsverfahrens f\u00fcr den Wirk-stoff Triflusulfuron nicht der Fall. So war die EFSA in ihrer Datenauswertung \u00fcber die Not-wendigkeit von Triflusulfuron als Herbizid zur Bek\u00e4mpfung einer ernsten Gefahr f\u00fcr die Pflanzengesundheit, die mit anderen verf\u00fcgbaren Mitteln, einschlie\u00dflich nicht chemischer Methoden nicht einged\u00e4mmt werden kann, zu der Schlussfolgerung gelangt, dass eine Ausnahmegenehmigung nach Art. 4 (7) der Verordnung (EG) Nr. 1107/2009 f\u00fcr den Zu-ckerr\u00fcbenanbau in Deutschland wissenschaftlich unterst\u00fctzt wird. Dar\u00fcber hinaus hatte die EFSA festgestellt, dass die Handhacke die einzige nicht-chemische Alternative mit ei-ner hohen Wirksamkeit darstellt, der Einsatz der Handhacke jedoch mit so hohen Kosten verbunden ist, dass diese Ma\u00dfnahme nicht als Alternative betrachtet werden kann. Den-noch hat die Europ\u00e4ische Kommission diese wissenschaftliche Empfehlung beim Erlass der Durchf\u00fchrungsverordnung zur Nichterneuerung der Genehmigung f\u00fcr den Wirkstoff Triflusulfuron nicht ber\u00fccksichtigt, da die Kommission \u2013 entgegen fr\u00fcheren gegenteiligen Aussagen \u2013 zu dem Schluss gelangt ist, dass Art. 4 (7) nicht auf Herbizide anzuwenden ist, da die mechanische Unkrautkontrolle bzw. die Handhacke immer eine nicht-chemische Alternative darstellt. Durch ein solches Vorgehen seitens der Zulassungsbeh\u00f6rden wird die Pflanzenschutzmittelzulassung f\u00fcr alle Wirtschaftsbeteiligten \u2013 Pflanzenschutzmittelher-steller und R\u00fcbenanbauer \u2013 zu einem unkalkulierbaren Risiko. Vielmehr sollten die rechtli-chen M\u00f6glichkeiten der Pflanzenschutzmittelzulassung, welche durch die Verordnung (EU) Nr. 1107/2009 einger\u00e4umt werden, auch ausgesch\u00f6pft werden.\r\nGAP (Zeile 200)\r\nDas BMEL sieht in der Gemeinsamen Agrarpolitik der EU (GAP) und in ihrer nationalen Umsetzung eine wesentliche Stellschraube f\u00fcr die Art und Intensit\u00e4t der landwirtschaftli-chen Nutzung. Ferner ist die GAP nach Aussage des BMEL ein wichtiger Hebel, um den Einsatz von chemisch-synthetischen Pflanzenschutzmitteln signifikant zu reduzieren. Hierzu ist dringend anzumahnen, dass die deutschen Zuckerr\u00fcbenanbauer aufgrund der in anderen EU-Mitgliedstaaten gew\u00e4hrten gekoppelten Zahlungen f\u00fcr Zuckerr\u00fcben bereits einem Wettbewerbsnachteil unterliegen. Nationale Alleing\u00e4nge bei der Verringerung des Pflanzenschutzmitteleinsatzes w\u00fcrden diese Situation versch\u00e4rfen und sind daher klar ab-zulehnen. Ein freiwilliger Verzicht auf den Einsatz von Pflanzenschutzmitteln ist durch eine angemessene Pr\u00e4mienh\u00f6he, die neben der Entsch\u00e4digungs- auch eine Anreizkomponente enthalten muss, zu entlohnen.\r\n8\r\nVerzicht auf chemisch-synthetische Pflanzenschutzmittel in Trinkwasserschutzge-bieten f\u00f6rdern (Zeile 224)\r\nDer in der Diskussionsgrundlage enthaltene Verweis, analog zu den bestehenden Rege-lungen zu Pflanzenschutzmitteln in Naturschutzgebieten, bei denen Landwirten ein Er-schwernisausgleich gew\u00e4hrt wird, Regeln f\u00fcr Trinkwasserschutzgebiete finden zu wollen, ist aus Sicht der Zuckerwirtschaft als verharmlosende Darstellung der derzeitigen Rechts-lage zu werten. De facto besteht in Naturschutzgebieten etc. ein Anwendungsverbot f\u00fcr Herbizide und bestimmte Insektizide. Die Zuckerwirtschaft lehnt eine \u00dcbertragung des An-wendungsverbots f\u00fcr Pflanzenschutzmittel auf Trinkwasserschutzgebiete \u2013 unabh\u00e4ngig davon, ob jegliche Pflanzenschutzmittel oder nur bestimmte Pflanzenschutzmittel, d.h. Fungizide, Insektizide oder Herbizide oder bestimmte nach Risikogruppen eingeteilte Pflanzenschutzmittel betroffen sind \u2013 entschieden ab.\r\nDieses Vorhaben des BMEL erweckt \u2013 wie bereits das im Vorschlag f\u00fcr eine SUR vorge-sehene pauschale Anwendungsverbot jeglicher Pflanzenschutzmittel in empfindlichen Ge-bieten \u2013 den Eindruck, dass eine bestehende Fl\u00e4chenkulisse zwecks Ausweisung von Verbotszonen herangezogen werden soll. Dar\u00fcber hinaus blendet dieses Vorgehen die Frage aus, ob die in Gew\u00e4ssern gefundenen R\u00fcckst\u00e4nde und Metaboliten von Pflanzen-schutzmitteln \u00fcberhaupt aus der Landwirtschaft stammen.\r\nEin Verbot der Anwendung von Pflanzenschutzmitteln in Trinkwasserschutzgebieten f\u00fchrt in seiner pauschalen Ausgestaltung zu weitreichenden und unverh\u00e4ltnism\u00e4\u00dfigen Be-schr\u00e4nkungen der landwirtschaftlichen Nutzung, vielerorts sogar zu einem Ende des An-baus von Zuckerr\u00fcben. Aufgrund der Besonderheiten des Zuckerr\u00fcbenanbaus und der Zu-ckerr\u00fcbenverarbeitung, allem voran dem regionalen Rohstoffbezug um den Fabrikstand-ort, bedroht ein Verbot der Anwendung von Pflanzenschutzmitteln in Trinkwasserschutz-gebieten den dortigen Zuckerr\u00fcbenanbau und damit die Rohstoffbasis der Zuckerfabrik. Denn in Folge der Pflanzenschutzanwendungsverbote werden landwirtschaftliche Betriebe aufgrund mangelnder Wirtschaftlichkeit aus dem Zuckerr\u00fcbenanbau aussteigen, was zwangsl\u00e4ufig Fabrikschlie\u00dfungen und damit den Verlust von Arbeitspl\u00e4tzen und Wert-sch\u00f6pfung gerade im l\u00e4ndlichen Raum nach sich ziehen wird. Als Konsequenz der Fabrik-schlie\u00dfung wird die Zuckerr\u00fcbe als wichtiges Fruchtfolgeglied dann auch au\u00dferhalb der Verbotszonen verloren gehen, da R\u00fcbenanbauer keinen Abnehmer ihrer Zuckerr\u00fcben mehr haben. Die mit dem Anwendungsverbot beabsichtigte Umstellung auf den Anbau von Bior\u00fcben wird diese Entwicklung nicht aufhalten k\u00f6nnen. Denn ein Bior\u00fcbenanbau ohne jegliche Pflanzenschutzmittel ist nicht durchf\u00fchrbar und wird deswegen in Trinkwas-serschutzgebieten nicht stattfinden. Zudem sind die Nachfrage und die Zahlungsbereit-schaft der Verbraucher f\u00fcr Bior\u00fcbenzucker nicht gro\u00df genug. Auch eine Erweiterung des Einzugsgebietes einer Zuckerfabrik stellt keine realistische L\u00f6sung dar, weil die Transport-w\u00fcrdigkeit der Zuckerr\u00fcbe gering ist und l\u00e4ngere Transportwege aus Gr\u00fcnden des Klima-schutzes vermieden werden sollten. Im Endeffekt kann eine Zuckerfabrik nur Bior\u00fcbenzu-cker produzieren, wenn im Anschluss an die Bio-Kampagne die wirtschaftliche Auslastung \u00fcber die Verarbeitung von konventionellen R\u00fcben erreicht wird.\r\nZudem ist neben der Bek\u00e4mpfung von Unkr\u00e4utern zur Vorbereitung des Saatbettes eine Unkrautbek\u00e4mpfung im Zuckerr\u00fcbenbestand zur Etablierung eines gesunden und ertrag-reichen Bestandes ebenso wie f\u00fcr die Ernte- und Verarbeitungsqualit\u00e4t von entscheiden-\r\n9\r\nder Bedeutung. Alternative nicht-chemische Unkrautbek\u00e4mpfungsverfahren, z. B. die me-chanische Unkrautbek\u00e4mpfung innerhalb der Reihe mithilfe von Feldrobotern, sind noch im Entwicklungsstadium.\r\nFerner kommt im Zuckerr\u00fcbenanbau der Bek\u00e4mpfung von Insekten, z. B. Blattl\u00e4usen als Virusvektoren, eine hohe Bedeutung zu, da von Insekten \u00fcbertragene Krankheiten, z. B. die vir\u00f6se Vergilbung, massive Ertragsverluste zur Folge haben. Das geplante Anwen-dungsverbot von Pflanzenschutzmitteln in Trinkwasserschutzgebieten w\u00fcrde somit eine existenzielle Bedrohung f\u00fcr den R\u00fcbenanbau in den betroffenen Regionen bedeuten.\r\nMit einem Verbot der Anwendung von Pflanzenschutzmitteln in Trinkwasserschutzgebie-ten werden den R\u00fcbenanbauern ohne jeglichen finanziellen Ausgleich massive zus\u00e4tzliche kostentr\u00e4chtige Auflagen aufgeb\u00fcrdet. Derartige ordnungsrechtliche Vorgaben und pau-schale Verbote zerst\u00f6ren F\u00f6rderm\u00f6glichkeiten und erfolgreich etablierte freiwillige Aktivit\u00e4-ten der R\u00fcbenanbauer im Rahmen des kooperativen Naturschutzes. Der derzeit im Zu-sammenhang mit den bestehenden Anwendungsverboten in Naturschutzgebieten etc. ge-w\u00e4hrte Erschwernisausgleich ist zu gering.\r\nM\u00f6glichkeiten und Wirkungen \u00f6konomischer Steuerungsinstrumente ausloten (Zeile 229)\r\nDie Pr\u00fcfung, mit welchen Instrumenten die externen Kosten des Einsatzes von Pflanzen-schutzmitteln internalisiert werden k\u00f6nnen, muss neben den Auswirkungen auf Anbauent-scheidungen, Ertr\u00e4ge, Einkommensh\u00f6he der landwirtschaftlichen Betriebe, Lebensmittel-preise und dem zus\u00e4tzlichen Verwaltungsaufwand auch m\u00f6gliche Ausweichreaktionen der R\u00fcbenanbauer beleuchten. So ist es denkbar, dass toxische und damit erwartbar h\u00f6her besteuerte Wirkstoffe durch weniger toxische Wirkstoffe ersetzt werden, diese weniger to-xischen Wirkstoffe dann jedoch in gr\u00f6\u00dferer Menge und/oder h\u00e4ufiger eingesetzt werden mit den entsprechenden negativen Auswirkungen auf das Resistenzmanagement.\r\nDar\u00fcber hinaus wird die Einf\u00fchrung einer Pflanzenschutzmittelabgabe bzw. eines Lizenz-systems bei fehlenden Alternativen zu einer Verteuerung der betroffenen Betriebsmittel f\u00fchren, worin eine Wettbewerbsbenachteiligung deutscher Betriebe im europ\u00e4ischen Bin-nenmarkt zu sehen ist. Diese die Pflanzenschutzmittel verteuernden Instrumente konterka-rieren die Bem\u00fchungen zur St\u00e4rkung der landwirtschaftlichen Einkommen, zur St\u00e4rkung der Position der Landwirte in der Wertsch\u00f6pfungskette und tragen zur Steigerung der Le-bensmittelpreise bei.\r\nAus- und Weiterbildung (Zeile 241)\r\nDie vorgesehene St\u00e4rkung der unabh\u00e4ngigen Beratung zum Pflanzenschutz und zu resili-enten Anbausystemen wird den zuk\u00fcnftigen Beratungsbedarf nicht abdecken k\u00f6nnen, wenn hier nur auf eine unabh\u00e4ngige Beratung im Sinne der Offizialberatung abgezielt wird. Auch private Beratungsunternehmen, die Pflanzenbauberatung im Rahmen des Ver-tragsanbaus, z. B. durch Anbauberater von Zuckerfabriken, und die die R\u00fcbenanbauer vertretenden Verb\u00e4nde m\u00fcssen bei nachgewiesener Sachkunde als unabh\u00e4ngig gelten. Denn die Anbauberater der Zuckerfabriken und Zuckerr\u00fcbenanbauerverb\u00e4nde verfolgen\r\n10\r\ndas gemeinsame Interesse mit dem R\u00fcbenanbauer, bei m\u00f6glichst geringem Aufwand ei-nen gesunden, vitalen und ertragreichen R\u00fcbenbestand zu etablieren. Ein Interessenskon-flikt ist in diesem Fall nicht erkennbar.\r\nReferenzzeitraum und Evaluierung (Zeile 273)\r\nWie bereits einleitend erw\u00e4hnt, ist es \u00e4u\u00dferst kritikw\u00fcrdig, dass das BMEL die wichtige Frage des Referenzzeitraums in dieser Diskussionsgrundlage nicht aufgreift.\r\nMonitoring ausbauen (Zeile 286)\r\nBeim Aufbau der genannten Datenbank f\u00fcr die Anwendung von Pflanzenschutzmitteln ist es unbedingt zu vermeiden, dass es durch diese Datenbank zu Dopplungen zu anderen Aufzeichnungen (z. B. Panel Pflanzenschutzmittel-Anwendungen \u2013 PAPA) kommt. Diese Datenbank sollte vielmehr daf\u00fcr genutzt werden, um der sich aus der Verordnung \u00fcber Statistiken zu landwirtschaftlichen Betriebsmitteln und zur landwirtschaftlichen Erzeugung ab dem 1. Januar 2026 ergebenden Verpflichtung zur maschinenlesbaren Aufzeichnung von Pflanzenschutzmittelanwendungen nachzukommen.\r\nHinsichtlich der Datenbank f\u00fcr die Anwendung von Pflanzenschutzmitteln fordert die deut-sche Zuckerwirtschaft die Einrichtung einer Plausibilit\u00e4tspr\u00fcfung der eingegebenen Daten, um versehentliche Eingabefehler zu vermeiden. Dar\u00fcber hinaus d\u00fcrfen die seitens der R\u00fc-benanbauer eingegebenen Daten \u00fcber erfolgte Pflanzenschutzanwendungen nicht zu Kontrollzwecken missbraucht werden."
+                        }
+                    },
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d6/01/323443/Stellungnahme-Gutachten-SG2406260298.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-13"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009034",
+                        "regulatoryProjectTitle": "Erhalt des Einsatzes von Pflanzenschutzmitteln f\u00fcr den Zuckerr\u00fcbenanbau",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Zum BMEL-Zukunftsprogramm Pflanzenschutz Pauschale Reduktionsziele  gef\u00e4hrden Zuckerr\u00fcbenanbau Die Zuckerwirtschaft sieht beim Vorschlag f\u00fcr das Zukunftsprogramm Pflanzenschutz  des BMEL erheblichen Verbesserungsbedarf. Pauschale Reduktionsziele sind nicht praktikabel.  Die Branche setzt vielmehr auf Innovationen und neue Technologien. Die deutsche Zuckerwirtschaft unterst\u00fctzt das \u00fcbergeordnete Ziel, den Einsatz von Pflanzenschutzmitteln zu reduzieren. Beim integrierten Pflanzenschutz ist sie sogar Vorreiter. Sie war die erste Branche, die daf\u00fcr Leitlinien entwickelte und diese erfolgreich in die Praxis umsetzt. Zus\u00e4tzlich investiert sie in fortschrittliche Technologien wie Robotik und Digitalisierung, um Pflanzenschutzmittel gezielter und somit deutlich reduzierter einzusetzen. Dagegen setzt der jetzt vorliegende Vorschlag des BMEL f\u00fcr das Zukunftsprogramm Pflanzenschutz auf pauschale Reduktion und Verbote. Das w\u00fcrde die bisherigen Investitionen und Bem\u00fchungen zunichtemachen. Ohne verf\u00fcgbare Alternativen f\u00fchrt die pauschale Reduktion chemischer Pflanzenschutzmittel zu erheblichen Ertragseinbu\u00dfen bei Zuckerr\u00fcben und w\u00fcrde damit den Zuckerr\u00fcbenanbau in Deutschland unwirtschaftlich machen.  Pflanzenschutzmittel leisten einen wichtigen Beitrag zur Versorgungssicherheit in Deutschland. Sie sichern Ernten und Ertr\u00e4ge, weil sie Feldfr\u00fcchte wie Zuckerr\u00fcben vor Sch\u00e4dlingen und Krankheiten sch\u00fctzen.  Jede Ackerfrucht und jede Region hat ihren spezifischen Schutzbedarf, der von Jahr zu Jahr variieren kann. Der Klimawandel erfordert zudem schnelle und flexible Reaktionen auf neue Sch\u00e4dlinge und Krankheiten. Daf\u00fcr muss ein breites Spektrum von Wirkstoffen und Ma\u00dfnahmen verf\u00fcgbar sein. Und auch das beste Spot-Spray-System hilft nicht, wenn es daf\u00fcr keine Wirkstoffe mehr gibt. Ein echtes Zukunftsprogramm Pflanzenschutz muss deshalb auf pauschale Reduktion verzichten und statt- dessen auf neue Technologien setzen. Neue Z\u00fcchtungstechniken wie CRISPR/CAS beschleunigen die Z\u00fcch- tung resilienter Sorten erheblich. Diese Potenziale m\u00fcssen genutzt werden k\u00f6nnen. Ein echtes Zukunftsprogramm sollte zudem in enger Zusammenarbeit mit der Landwirtschaft entwickelt werden \u2013 und das \u00fcber eine Anh\u00f6rung im Anfangsstadium hinaus. Nur so entstehen praktikable L\u00f6sungen, die die Bedingungen des Klimawandels und die regionalen Bedingungen, denen Landwirtschaft ausgesetzt ist, ber\u00fccksichtigen. Pflanzenschutz sollte au\u00dferdem europaweit fair geregelt werden, R\u00fcbenanbauer d\u00fcrfen in Deutschland nicht einseitig benachteiligt werden.  Im europ\u00e4ischen Binnenmarkt sollten gleiche Wettbewerbsbedin- gungen gelten. Die Zuckerwirtschaft unterst\u00fctzt die Initiative von DBV, DRV und weiteren Verb\u00e4nden, die Vorschl\u00e4ge des BMEL zur\u00fcckzuziehen und die Pflanzenschutzpolitik der Bundesregierung grundlegend neu auszurichten.\r\n\r\nPositionen der Zuckerwirtschaft Juni 2024 Pflanzenschutz f\u00fcr die Zukunft: Wie nachhaltiger  Pflanzenschutz in der Zuckerwirtschaft wirklich gelingt 1. Pflanzenschutz muss gemeinsam mit der Landwirtschaft weiterentwickelt werden:  Es sind die Landwirte in der Praxis, die direkt davon betroffen sind und die  zu praxisnahen L\u00f6sungen beitragen. Eine einmalige Anh\u00f6rung reicht daf\u00fcr nicht aus. 2. Keine pauschale Reduktion f\u00fcr Pflanzenschutzmittel:  Zudem m\u00fcssen R\u00fcbenanbauer durch den Klimawandel immer schneller und flexibel  auf neue Sch\u00e4dlinge und Krankheiten reagieren. Daf\u00fcr brauchen sie ein breites Spektrum  von Wirkstoffen und Ma\u00dfnahmen statt eines pauschalen Rotstifts.  3. Bereits erzielte Erfolge anerkennen:  Die Zuckerwirtschaft hat bereits erhebliche Erfolge in der Reduktion von Pflanzenschutzmitteln  erzielt. Sie ist Vorreiter im integrierten Pflanzenschutz und investiert in Innovationen.  Das Zukunftsprogramm in seiner jetzigen Version w\u00fcrde diese Anstrengungen zunichtemachen.  Das darf nicht geschehen. 4. Den Acker zum neuen Digitallabor machen:  Robotik und Digitalisierung versprechen den gr\u00f6\u00dften Fortschritt f\u00fcr Klimaschutz  und Biodiversit\u00e4t.  5. Die Potenziale neuer Z\u00fcchtungstechnologien m\u00fcssen genutzt werden: Mit neuen Technologien wie CRISPR/CAS wird die Z\u00fcchtung neuer resilienter Sorten  deutlich beschleunigt. 6. Verfahren zur Pflanzenschutzmittelzulassung m\u00fcssen schneller werden und  fakten- und wissenschaftsbasiert erfolgen. 7. Die Anbauberatung muss gezielt gest\u00e4rkt werden, damit diese den immer komplexer werdenden  Fragen des Pflanzenschutzes durch neue Sch\u00e4dlinge und Krankheiten einerseits und durch  neue Methoden aus dem Bereich der Digitalisierung andererseits gewachsen ist. Nur so k\u00f6nnen  Innovationen schnell Einzug in die Praxis halten. 8. Neue Regelwerke d\u00fcrfen die Wettbewerbsf\u00e4higkeit von Zuckerr\u00fcbenanbauern in Deutschland nicht gef\u00e4hrden:  Deshalb muss Pflanzenschutz europaweit fair geregelt werden. Nur so gelten im  EU-Binnenmarkt gleiche und faire Wettbewerbsbedingungen f\u00fcr Landwirte in Deutschland  und Europa."
+                        }
+                    }
+                ],
+                "title": "Erhalt des Einsatzes von Pflanzenschutzmitteln f\u00fcr den Zuckerr\u00fcbenanbau"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Seit Beginn des Jahres 2023 ist der Erhalt der fl\u00e4chengebundenen Direktzahlungen an die \u201eerweiterte Konditionalit\u00e4t\u201c gebunden. Hierbei gilt es, auf eine praxisnahe Ausgestaltung u.a. der \"Standards f\u00fcr den guten landwirtschaftlichen und \u00f6kologischen Zustand\u201c (GL\u00d6Z) hinzuwirken und freiwillige F\u00f6rderinstrumente wie die \u00d6ko-Regelungen im Sinne des R\u00fcbenanbaus auszugestalten. Dar\u00fcber hinaus sieht die GAP-Strategieplan-Verordnung vor, dass einzelnen Sektoren oder Erzeugnissen durch eine gekoppelte Einkommensst\u00fctzung bei der Bew\u00e4ltigung ihrer Probleme geholfen wird. Diese, von einzelnen Mitgliedstaaten seit 2015 f\u00fcr Zuckerr\u00fcben gew\u00e4hrte Einkommensst\u00fctzung benachteiligt deutsche R\u00fcbenanbauer im Binnenmarkt und ist daher abzulehnen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009035",
+                "statements": [],
+                "title": "Gemeinsame Agrarpolitik der EU (GAP) und deren nationale Umsetzung"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die deutschen R\u00fcbenanbauer als professionelle Saatgutverwender ben\u00f6tigen Zugang zu gesundem und qualitativ hochwertigem Saatgut. Eine gleichbleibend hohe Saatgutqualit\u00e4t ist essenziell f\u00fcr einen erfolgreichen und wirtschaftlich tragf\u00e4higen R\u00fcbenanbau. Daher sollte jedwede Reform des Saatgutrechts an den Grundpfeilern des bestehenden Saatgutrechts \u2013 die amtliche Sortenzulassung und die amtliche Saatgutanerkennung \u2013 festhalten. Dar\u00fcber hinaus brauchen R\u00fcbenanbauer einen einfachen Zugang zu verl\u00e4sslichen Informationen \u00fcber die Leistungsf\u00e4higkeit und Eigenschaften einzelner Sorten. Auch vor diesem Hintergrund ist jedwede Aufweichung der hohen Qualit\u00e4tsanforderungen an das Saatgut und/oder die mit dem Saatgut bereitzustellenden Informationen \u00fcber die jeweilige Sorte abzulehnen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009036",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d5/07/323445/Stellungnahme-Gutachten-SG2406280008.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-02"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009036",
+                        "regulatoryProjectTitle": "Bef\u00fcrwortung des Einsatzes neuer genomischer Techniken in der Pflanzenz\u00fcchtung",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Wie die Zuckerwirtschaft den  Klimawandel meistern kann Der Klimawandel stellt die Zuckerwirtschaft schon heute vor gro\u00dfe Herausforderungen.  Die Verschiebung der Niederschl\u00e4ge sorgt mit Dauerregen auch in diesem Fr\u00fchjahr f\u00fcr eine sp\u00e4te Aussaat. F\u00fcr die Zuckerr\u00fcben hei\u00dft das: Sie haben weniger Zeit, zu wachsen, und  die Gefahr f\u00fcr Pilzerkrankungen ist h\u00f6her. Gleichzeitig sind auch die Herbstmonate zu nass und erschweren die Ernte. Durch hei\u00dfe und trockene Sommer kommen selbst die sonst robusten R\u00fcben in Trockenstress. Nicht nur  das \u2013 auch neue Sch\u00e4dlinge werden hierzulande heimisch, bekannte Populationen nehmen zu, neue Krankheiten treten auf. Im Jahr 2023 breitete sich etwa die durch Zikaden \u00fcbertragende Krankheit SBR st\u00e4rker aus als zuvor. Sie senkt den Zuckergehalt. Gleichzeitig trat eine f\u00fcr R\u00fcben neue SBR-Variante auf, welche f\u00fcr  sogenannte \u201eGummir\u00fcben\u201c sorgte und sich schnell ausbreitete. Betroffene R\u00fcben sind schlechter zu ernten und k\u00f6nnen kaum gelagert werden. Anpassung durch Innovation F\u00fcr eine z\u00fcgige Reaktion auf die Klimafolgen kommt es auf einen ausreichenden Instrumentenkasten an. Daf\u00fcr arbeitet die Zuckerwirtschaft selbst an L\u00f6sungen. Wir sind Vorreiter im integrierten Pflanzenschutz. Wir untersuchen, ob Ver\u00e4nderungen der Fruchtfolge den Sch\u00e4dlingsdruck reduzieren k\u00f6nnen. Erosion und Verdunstung bremsen wir durch Mulchsaat und Zwischenfr\u00fcchte. Biomassekarten helfen, die D\u00fcngermenge anzupassen. Die Entwicklung neuer, resistenter Sorten, die an die regionalen Bedingungen angepasst sind, wird mit hohem Aufwand vorangetrieben. Robotik und Spot-Spray-L\u00f6sungen werden weiterentwickelt,  um die Einsatzmengen von Pflanzenschutzmitteln zu reduzieren. Was die Politik jetzt tun muss Doch die Zeit dr\u00e4ngt und ohne politischen Einsatz helfen all diese Bem\u00fchungen nichts. Das hei\u00dft: \u00b7  Keine pauschalen Verbote von Pflanzenschutzmitteln: Wir entwickeln innovative L\u00f6sungen zur  Reduktion von Pflanzenschutzmitteln. Aber das beste Spot-Spray-System hilft nicht, wenn es daf\u00fcr keine  Wirkstoffe mehr gibt. Zudem helfen nur mehrere verschiedene Wirkstoffe zuverl\u00e4ssig gegen Resistenzen. \u00b7  Neue Z\u00fcchtungstechniken in die Praxis bringen: Die Potentiale neuer Z\u00fcchtungstechnologien wie   CRISPR/ CAS m\u00fcssen erschlossen werden. Dadurch beschleunigt sich die Z\u00fcchtung neuer resilienter  Sorten deutlich. Das darf nicht durch unrealisierbare Kennzeichnungspflichten oder \u00fcberb\u00fcrokratische  Einsatzeinschr\u00e4nkungen ausgehebelt werden. \u00b7 Robotik und Digitalisierung zum Durchbruch verhelfen: Die Politik sollte den Acker zum neuen Digital- labor machen. Denn Innovationen versprechen den gr\u00f6\u00dften Fortschritt f\u00fcr Klimaschutz und Biodiversit\u00e4t"
+                        }
+                    }
+                ],
+                "title": "Bef\u00fcrwortung des Einsatzes neuer genomischer Techniken in der Pflanzenz\u00fcchtung"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die deutschen R\u00fcbenanbauer als professionelle Saatgutverwender ben\u00f6tigen Zugang zu gesundem und qualitativ hochwertigem Saatgut. Eine gleichbleibend hohe Saatgutqualit\u00e4t ist essenziell f\u00fcr einen erfolgreichen und wirtschaftlich tragf\u00e4higen R\u00fcbenanbau. Daher sollte jedwede Reform des Saatgutrechts an den Grundpfeilern des bestehenden Saatgutrechts \u2013 die amtliche Sortenzulassung und die amtliche Saatgutanerkennung \u2013 festhalten. Dar\u00fcber hinaus brauchen R\u00fcbenanbauer einen einfachen Zugang zu verl\u00e4sslichen Informationen \u00fcber die Leistungsf\u00e4higkeit und Eigenschaften einzelner Sorten. Auch vor diesem Hintergrund ist jedwede Aufweichung der hohen Qualit\u00e4tsanforderungen an das Saatgut und/oder die mit dem Saatgut bereitzustellenden Informationen \u00fcber die jeweilige Sorte abzulehnen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009037",
+                "statements": [],
+                "title": "Verordnung \u00fcber die Erzeugung und das Inverkehrbringen von Pflanzenvermehrungsmaterial"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Beibehaltung des derzeitigen EU-Au\u00dfenschutzes, so lange der Wettbewerb auf dem internationalen Markt verzerrt ist. \r\nAbbau der handelsverzerrenden Subventionen auf internationaler Ebene.\r\nEinfuhren aus Drittstaaten sollen den einschl\u00e4gigen EU-Vorschriften und -Standards entsprechen.\r\n",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_FOREIGN_TRADE",
+                        "de": "Au\u00dfenwirtschaft",
+                        "en": "Foreign trade"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_COMPETITION_LAW",
+                        "de": "Wettbewerbsrecht",
+                        "en": "Competition law"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009038",
+                "statements": [],
+                "title": "Faire Wettbewerbsbedingungen auf internationaler Ebene schaffen"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/23/01/323441/Stellungnahme-Gutachten-SG2406200195.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-15"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009034",
+                "regulatoryProjectTitle": "Erhalt des Einsatzes von Pflanzenschutzmitteln f\u00fcr den Zuckerr\u00fcbenanbau",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Stellungnahme der Wirtschaftlichen Vereinigung Zucker zur\r\nDiskussionsgrundlage f\u00fcr die Erarbeitung eines\r\n\u201eZukunftsprogramms Pflanzenschutz\u201c des BMEL\r\nDie Wirtschaftliche Vereinigung Zucker e.V. (WVZ) ist die zentrale Organisation der deut-schen Zuckerwirtschaft. Ihr geh\u00f6ren die f\u00fcnf gebietlichen Zusammenschl\u00fcsse der 22.000 R\u00fcbenanbauer in Deutschland, vier zuckererzeugende Unternehmen und drei Firmen des Zuckerimport- und -exporthandels an. Die deutschen R\u00fcbenanbauer unterst\u00fctzen durch die konsequente Anwendung der Grunds\u00e4tze des integrierten Pflanzenschutzes sowie der Leitlinien des integrierten Pflanzenschutzes im Zuckerr\u00fcbenanbau das \u00fcbergeordnete Ziel, den Einsatz von Pflanzenschutzmitteln zu reduzieren.\r\nAllgemeine Anmerkungen\r\nDer vom BMEL initiierte Beteiligungsprozess bezieht sich bedauerlicherweise lediglich auf eine Diskussionsgrundlage f\u00fcr die Erarbeitung des \u201eZukunftsprogramms Pflanzenschutz\u201c. Gem\u00e4\u00df dem dargestellten Zeitplan erfolgt die Erarbeitung des eigentlichen Programms erst im Anschluss an den Beteiligungsprozess. Eine Verb\u00e4ndeanh\u00f6rung zum \u201eZukunfts-programm Pflanzenschutz\u201c selbst ist somit nach den bisherigen Darstellungen nicht vorge-sehen. Dies sieht die deutsche Zuckerwirtschaft kritisch, da die Diskussionsgrundlage le-diglich Ma\u00dfnahmen zur Verringerung des Pflanzenschutzmitteleinsatzes vorschl\u00e4gt, hin-sichtlich der Umsetzung der Ma\u00dfnahmen (Ordnungsrecht vs. Kooperationen) und deren Finanzierung werden die R\u00fcbenanbauer jedoch im Unklaren gelassen. Deshalb bitten wir, eine Verb\u00e4ndeanh\u00f6rung zum erarbeiteten \u201eZukunftsprogramm Pflanzenschutz\u201c zu einem geeigneten Zeitpunkt durchzuf\u00fchren.\r\nGrunds\u00e4tzlich zu kritisieren ist, dass das Eckpunktepapier in keiner Weise den Nutzen von Pflanzenschutzmitteln hervorhebt. Der Schutz der Kulturpflanzen vor Krankheiten und Sch\u00e4dlingen sowie vor der Konkurrenz durch Unkr\u00e4uter ist nicht nur essenziell, um Ertr\u00e4ge und damit die Wirtschaftlichkeit des R\u00fcbenanbaus zu sichern. Auch die Sicherheit von Le-bens- und Futtermitteln (z. B. Zuckerr\u00fcbenschnitzel) wird durch die pauschale Verringe-rung des Pflanzenschutzmitteleinsatzes beeintr\u00e4chtigt, wenn es in Ermangelung wirksa-mer Bek\u00e4mpfungsm\u00f6glichkeiten bspw. zu erh\u00f6hten Mykotoxingehalten kommt. Gleichzei-tig steigen aber die Anforderungen an einzuhaltende Grenzwerte.\r\nMit dem Eckpunktepapier h\u00e4lt das BMEL an dem in der Farm-to-Fork-Strategie veranker-ten Ziel, bis zum Jahr 2030 die Anwendung und das Risiko von Pflanzenschutzmitteln um\r\n2\r\n50 Prozent zu verringern, fest. Einerseits wurde die Farm-to-Fork-Strategie schon im Mai 2020 ver\u00f6ffentlicht, sodass sich der Umsetzungszeitraum bis zur Zielerreichung deutlich verk\u00fcrzt hat. Andererseits ist die Festlegung von pauschalen quantitativen Reduktionszie-len fachlich nicht sinnvoll und wurde von der WVZ schon im Zusammenhang mit dem Kommissionsvorschlag f\u00fcr eine Verordnung \u00fcber die nachhaltige Verwendung von Pflan-zenschutzmitteln (Sustainable Use Regulation, SUR) strikt abgelehnt. Die Reduktion der Verwendung und des Risikos chemischer Pflanzenschutzmittel um 50 Prozent ohne vor-handene Alternativen wird zu signifikanten Ertragseinbu\u00dfen bei Zuckerr\u00fcben f\u00fchren. Fer-ner kann die Qualit\u00e4t beeintr\u00e4chtigt werden, was zu Lebensmittelverlusten f\u00fchren wird.\r\nPauschale quantitative Reduktionsziele ber\u00fccksichtigen nicht, dass der Krankheits- und Sch\u00e4dlingsdruck in Abh\u00e4ngigkeit von der Witterung j\u00e4hrlichen Schwankungen unterliegt. Es k\u00f6nnen bestimmte Populationen zur\u00fcckgedr\u00e4ngt oder in ihrer Ausbreitung bef\u00f6rdert werden, wodurch die Notwendigkeit f\u00fcr den Einsatz von Pflanzenschutzmitteln steigt. Durch den Klimawandel ist in den kommenden Jahren zudem mit der Einwanderung neuer Schaderreger zu rechnen, f\u00fcr die es bisher noch keine Bek\u00e4mpfungsm\u00f6glichkeiten gibt und demzufolge entsprechende Bek\u00e4mpfungsstrategien, einschlie\u00dflich des Einsatzes von chemischen Pflanzenschutzmitteln, erst noch entwickelt werden m\u00fcssen. Vor diesem Hin-tergrund brauchen die Zuckerr\u00fcbenanbauer vielf\u00e4ltige Bek\u00e4mpfungsm\u00f6glichkeiten. Durch eine mechanische Unkrautregulierung k\u00f6nnen in Jahren mit daf\u00fcr g\u00fcnstigen Witterungs-verh\u00e4ltnissen zufriedenstellende Ergebnisse zwischen den R\u00fcbenreihen erzielt werden. Die R\u00fcbenreihen m\u00fcssen hingegen weiter mit Herbiziden behandelt werden, womit ein nicht unerheblicher Mehraufwand verbunden ist. Eine vollst\u00e4ndige mechanische Unkraut-regulierung erfordert mangels verf\u00fcgbarer Technologien umfangreiche Handarbeit und ist sowohl wegen nicht ausreichender Arbeitskr\u00e4ftekapazit\u00e4ten als auch aufgrund der zu ver-anschlagenden Personalkosten nicht wirtschaftlich.\r\nVon entscheidender Bedeutung f\u00fcr die Zielerreichung ist die Festlegung eines geeigneten Referenzzeitraums. Diesbez\u00fcglich trifft das BMEL in der Diskussionsgrundlage jedoch keine Aussage, was einem vertrauensvollen Austausch \u00fcber die M\u00f6glichkeiten einer Ver-ringerung des Pflanzenschutzmitteleinsatzes mit den betroffenen Wirtschaftsbeteiligten nicht zutr\u00e4glich ist. Wie das BMEL im Zusammenhang mit der SUR stets eingefordert hat, m\u00fcssen bereits erzielte Erfolge bei der Reduzierung von Pflanzenschutzmitteln ber\u00fcck-sichtigt werden. Dies wird durch die Festlegung eines geeigneten Referenzzeitraums er-m\u00f6glicht.\r\nDer Einsatz von chemisch-synthetischen Pflanzenschutzmitteln soll auf allen Fl\u00e4chen am-bitioniert reduziert werden. Dies ber\u00fccksichtigt nicht die in verschiedenen Kulturen erfor-derliche Intensit\u00e4t des Einsatzes von Pflanzenschutzmitteln. So sind junge Zuckerr\u00fcben-pflanzen \u00e4u\u00dferst empfindlich gegen\u00fcber der Konkurrenz durch Unkr\u00e4uter, weswegen de-ren Bek\u00e4mpfung bis zum Reihenschluss eine hohe Relevanz im Zuckerr\u00fcbenanbau hat. An alternativen Verfahren der mechanischen Beikrautregulierung, z. B. durch Hackmaschi-nen in Kombination mit einer Bandspritzung, Robotik-Technologien und Spot-Spray-Syste-men wird intensiv gearbeitet, sodass zuk\u00fcnftig Technologien zur Verf\u00fcgung stehen wer-den, die deutliche Einsparungen beim Einsatz von Pflanzenschutzmitteln erwarten lassen. Derzeit sind insbesondere digitale Technologien noch zu teuer, nicht ausreichend erprobt sowie zu gering in der Fl\u00e4chenleistung und stellen somit keine verf\u00fcgbare Alternative zur fl\u00e4chigen Applikation von Pflanzenschutzmitteln dar.\r\n3\r\nFerner erfordern tierische Sch\u00e4dlinge oftmals eine Bek\u00e4mpfung, weil von ihnen \u00fcbertra-gene Krankheitserreger (z. B. Vergilbungsviren \u00fcbertragen von Blattl\u00e4usen, Proteobakte-rien und Phytoplasmen \u00fcbertragen durch Zikaden) massive Ertragsverluste verursachen und damit die Wirtschaftlichkeit des Zuckerr\u00fcbenanbaus in Frage stellen. Die pauschale Reduktion des Einsatzes von Pflanzenschutzmitteln auf allen Fl\u00e4chen wird dem h\u00e4ufig al-ternierenden Auftreten von Schaderregern nicht gerecht. In Jahren mit einem vermehrten Aufkommen von Schaderregern besteht somit das Potenzial, die Rohstoffbasis einer Zu-ckerfabrik zu gef\u00e4hrden. Da aufgrund der Saisonalit\u00e4t des Zuckerr\u00fcbenanbaus und der -verarbeitung sowie der geringen Transportw\u00fcrdigkeit der Zuckerr\u00fcbe eine anderweitige Rohstoffbeschaffung nicht m\u00f6glich ist, droht die Produktionsmenge einer Zuckerfabrik so stark abzufallen, dass die Verarbeitung nicht mehr rentabel ist.\r\nZu den einzelnen, in der Diskussionsgrundlage vorgeschlagenen Ma\u00dfnahmen nimmt die WVZ wie folgt Stellung.\r\nIntegrierten Pflanzenschutz st\u00e4rken (Zeile 78)\r\nDie Anwendung verschiedener Ma\u00dfnahmen des integrierten Pflanzenschutzes ist im Zu-ckerr\u00fcbenanbau gute fachliche Praxis. So zeigen Ergebnisse der Betriebsbefragung zur Produktionstechnik, dass 2- und 3-j\u00e4hrige Anbauh\u00e4ufigkeiten von Zuckerr\u00fcben seit 2010 abnehmen und l\u00e4ngere Anbauh\u00e4ufigkeiten von vier und mehr Jahren zunehmen. Aus der oben genannten Befragung geht zudem hervor, dass im Jahr 2022 auf 81 Prozent der Schl\u00e4ge bodenschonende Mulchsaatverfahren angewandt und auf 72 Prozent der Schl\u00e4ge Zwischenfr\u00fcchte angebaut wurden.\r\nDar\u00fcber hinaus verf\u00fcgt die deutsche Zuckerwirtschaft \u00fcber ein in der EU einzigartiges inte-griertes Sortenpr\u00fcfsystem f\u00fcr Zuckerr\u00fcben, welches mitverantwortlich f\u00fcr die kontinuierli-che Ertragssteigerung und einen erheblichen Z\u00fcchtungsfortschritt bei Zuckerr\u00fcben ist. Nach erfolgreicher zweij\u00e4hriger Wertpr\u00fcfung und bei Erf\u00fcllung des landeskulturellen Wer-tes erfolgt die Zulassung und Eintragung einer neuen Zuckerr\u00fcbensorte durch das Bun-dessortenamt in das Sortenregister. Anschlie\u00dfend werden die Leistungen der neuen und alten Zuckerr\u00fcbensorten in bundesweit einheitlichen Sortenversuchen weiter verglichen. Durch die bundesweit einheitliche Durchf\u00fchrung der Versuche ist ein hohes Ma\u00df an Ver-gleichbarkeit und Reproduzierbarkeit gegeben. So stehen bereits ein Jahr nach der Zulas-sung dreij\u00e4hrige Leistungsdaten f\u00fcr neu zugelassene Sorten zur Verf\u00fcgung. Das inte-grierte Sortenpr\u00fcfsystem liefert damit wertvolle mehrj\u00e4hrige Daten \u00fcber die Leistungsf\u00e4hig-keit marktf\u00e4higer Sorten und bildet die Grundlage f\u00fcr die Sortenberatung im Zucker-r\u00fcbenanbau. Gerade in den letzten zehn Jahren sind erhebliche Fortschritte in den Wertei-genschaften Resistenz und Toleranz gegen\u00fcber Krankheiten und Sch\u00e4dlingen erzielt wor-den. Durch das integrierte Sortenpr\u00fcfsystem steht dem Zuckerr\u00fcbenanbau der Z\u00fcchtungs-fortschritt sehr schnell zur Verf\u00fcgung.\r\nDie Anwendung alternativer Pflanzenschutzverfahren unterliegt Hemmnissen au\u00dferhalb des Einflussbereichs des R\u00fcbenanbauers. So sind die Anwendbarkeit und Wirksamkeit ei-ner mechanischen Unkrautbek\u00e4mpfung stark von den Witterungsverh\u00e4ltnissen abh\u00e4ngig.\r\n4\r\nFerner kann eine mechanische Unkrautregulierung auch negative Auswirkungen auf die Biodiversit\u00e4t haben, wenn es z. B. zur Zerst\u00f6rung der Gelege von Bodenbr\u00fctern kommt. Bei der konservierenden Bodenbearbeitung bestehen zudem Zielkonflikte zur Verringe-rung des Einsatzes von Totalherbiziden bzw. kann sich die wendende Bodenbearbeitung aus phytosanit\u00e4ren Notwendigkeiten ergeben.\r\nZ\u00fcchtung resistenter Sorten (Zeile 85)\r\nDie Zuckerwirtschaft begr\u00fc\u00dft, dass das BMEL die z\u00fcchterische Verbesserung von Kultur-pflanzen im Hinblick auf Toleranz- und Resistenzeigenschaften weiter f\u00f6rdern will. Zur ge-zielten F\u00f6rderung von Toleranz- und Resistenzeigenschaften gegen\u00fcber Blattkrankheiten erfolgt ab dem Jahr 2024 das integrierte Pr\u00fcfwesen gemeinsam mit dem Bundessortenamt in einem einfaktoriellen System ohne Fungizidma\u00dfnahme. Durch diese Anpassung wird die Zuckerwirtschaft gemeinsam mit dem Bundessortenamt dem Ziel der F\u00f6rderung von toleranten und resistenten Sorten eigeninitiativ gerecht.\r\nIn der z\u00fcchterischen Anpassung von Kulturpflanzen an abiotische Stressfaktoren wie Hitze und Trockenheit sowie an biotische Stressfaktoren wie Krankheiten und Sch\u00e4dlinge ist nicht nur ein wichtiger Beitrag zur Anpassung an den Klimawandel zu sehen. Vielmehr birgt die Z\u00fcchtung resistenter/toleranter Sorten auch erhebliches Einsparpotenzial bei Be-triebsmitteln wie Pflanzenschutz und D\u00fcngung. Gerade mit den neuen genomischen Z\u00fcch-tungstechniken lie\u00dfen sich diese z\u00fcchterischen Anpassungen schneller und pr\u00e4ziser als mit herk\u00f6mmlichen Z\u00fcchtungsmethoden erzielen. Es ist daher vollkommen unverst\u00e4ndlich, dass das BMEL das Potenzial der neuen Z\u00fcchtungsmethoden in einem Zukunftspro-gramm nicht aussch\u00f6pfen will.\r\n\u00d6ko-Landbau bis 2030 auf 30 Prozent ausbauen (Zeile 88)\r\nAus Sicht der Zuckerwirtschaft ist ein Ausbau des \u00f6kologischen Landbaus ausschlie\u00dflich nachfrageorientiert wirtschaftlich sinnvoll. Dar\u00fcber hinaus sind Kulturpflanzen wie die Zu-ckerr\u00fcbe, die w\u00e4hrend ihrer Jugendentwicklung \u00e4u\u00dferst empfindlich auf die Konkurrenz durch Beikr\u00e4uter reagiert, nur schwer unter g\u00e4nzlichem Verzicht auf den Einsatz von Pflanzenschutzmitteln anzubauen. Der Anbau von \u00d6kor\u00fcben ist daher in der Regel mit dem Einsatz der Handhacke (zwischen 80 und 200 Arbeitsstunden pro Hektar) und dies wiederum mit erheblichen Arbeitserledigungskosten verbunden. Die Versorgung einer Zu-ckerfabrik mit dem Rohstoff R\u00fcbe ausschlie\u00dflich aus dem \u00f6kologischen Landbau ist folg-lich nicht darstellbar, auch weil das Ertragsrisiko im \u00f6kologischen Anbau von Zuckerr\u00fcben h\u00f6her einzusch\u00e4tzen ist und gr\u00f6\u00dfere Einzugsgebiete f\u00fcr den Rohstoff R\u00fcbe aufgrund der geringen Transportw\u00fcrdigkeit der Zuckerr\u00fcben und aus Gr\u00fcnden der Treibhausgasvermei-dung nicht sinnvoll sind.\r\nNAP weiterentwickeln (Zeile 111)\r\nDer Nationale Aktionsplan zur nachhaltigen Anwendung von Pflanzenschutzmitteln (NAP) wurde am 10. April 2013 von der Bundesregierung beschlossen. Vor diesem Hintergrund\r\n5\r\nerwartet die Zuckerwirtschaft, dass jegliche \u00c4nderung des NAP mit den \u00fcbrigen Regie-rungsparteien diskutiert und abgestimmt wird. Einseitig vom BMEL initiierte Vorhaben, die parallel zum bestehenden NAP entwickelt werden und \u00fcber diesen hinausgehen, lehnt die Zuckerwirtschaft ab.\r\nEine Aktualisierung der Leitlinien zum integrierten Pflanzenschutz hat unbedingt unter Be-teiligung der die Zuckerr\u00fcbenanbauer vertretenden Verb\u00e4nde, die als Multiplikatoren f\u00fcr die Umsetzung der aktualisierten Leitlinien einstehen m\u00fcssen, zu erfolgen. Anderenfalls kann die bisher vorhandene hohe Akzeptanz der Leitlinie zum integrierten Pflanzenschutz im Zuckerr\u00fcbenanbau nicht aufrechterhalten werden.\r\nRefugialfl\u00e4chenansatz \u2013 Schutzr\u00e4ume f\u00fcr Tiere und Pflanzen schaffen (Zeile 121)\r\nBereits im Jahr 2019 hat das Verwaltungsgericht Braunschweig entschieden, dass die Zu-lassung von Pflanzenschutzmitteln nicht mit einer Biodiversit\u00e4tsauflage, also einer fakti-schen Fl\u00e4chenstilllegung verkn\u00fcpft werden darf. Damit war die vom Umweltbundesamt ab dem 1. Januar 2020 geforderte Anwendungsbestimmung, die festlegte, dass Landwirte die betreffenden zugelassenen Pflanzenschutzmittel nur dann anwenden d\u00fcrfen, wenn sie zehn Prozent ihrer gesamten Ackerfl\u00e4che als sogenannte Biodiversit\u00e4tsfl\u00e4chen vorhalten, rechtswidrig. Es ist insofern v\u00f6llig unverst\u00e4ndlich, dass der Ansatz, bestimmte Pflanzen-schutzmittel nur unter der Ma\u00dfgabe Biodiversit\u00e4ts- oder Kompensationsfl\u00e4chen vorzuhal-ten, wiederholt unter der Begrifflichkeit des Refugialfl\u00e4chenansatzes vorgetragen wird. So wird in dem Eckpunktepapier vorgeschlagen, die Anwendung bestimmter Pflanzenschutz-mittel daran zu binden, dass mindestens zehn Prozent Refugialfl\u00e4chen vorhanden sind. Gleichzeitig will das BMEL die F\u00f6rderf\u00e4higkeit der entsprechenden Fl\u00e4chen sicherstellen. Wie dies gelingen kann, ist aus Sicht der Zuckerwirtschaft fraglich.\r\nAuch vor dem Hintergrund der erweiterten M\u00f6glichkeiten, die 4-prozentige Stilllegungsver-pflichtung im Jahr 2024 zu erf\u00fcllen und der aktuellen Diskussionen um die Abschaffung dieser Vorgabe des entsprechenden GL\u00d6Z-Standards 8 l\u00f6st der geplante Refugialfl\u00e4chen-ansatz mit einer faktischen Stilllegung in H\u00f6he von zehn Prozent absolutes Unverst\u00e4ndnis aus. Der Refugialfl\u00e4chenansatz widerspricht allen aktuellen Bestrebungen, b\u00fcrokratische Lasten f\u00fcr die Betriebe zu verringern und die Wettbewerbsposition der Landwirte zu ver-bessern. Im Gegensatz dazu stellt der Refugialfl\u00e4chenansatz allein auf nationaler Ebene eine Benachteiligung der deutschen R\u00fcbenanbauer im europ\u00e4ischen Binnenmarkt dar.\r\nAuf die Anwendung des Totalherbizids Glyphosat verzichten (Zeile 134)\r\nDie deutsche Zuckerwirtschaft erwartet vom BMEL eine 1:1-Umsetzung der auf europ\u00e4i-scher Ebene erteilten Genehmigung des Wirkstoffes Glyphosat. Anwendungseinschr\u00e4n-kungen wie die in der Pflanzenschutz-Anwendungsverordnung bestehenden Einschr\u00e4n-kungen sind eine Benachteiligung deutscher R\u00fcbenanbauer im europ\u00e4ischen Wettbewerb. Zudem ist das Anwendungsverbot von Glyphosat in Wasserschutzgebieten aus Sicht der landwirtschaftlichen Praxis problematisch und fachlich nicht gerechtfertigt. R\u00fcbenanbauer in Wasserschutzgebieten, die aus Gr\u00fcnden des Erosionsschutzes eine konservierende Bodenbearbeitung in Kombination mit einem glyphosathaltigen Totalherbizid durchgef\u00fchrt\r\n6\r\nhaben, sind nun gezwungen, eine intensive (mehrmalige) Bodenbearbeitung zur Unkraut-bek\u00e4mpfung vorzunehmen oder sogar eine wendende Bodenbearbeitung. Letzteres ist im Falle einer Einstufung der betreffenden Fl\u00e4che in eine Erosionsgef\u00e4hrdungsklasse unter Umst\u00e4nden jedoch nicht zul\u00e4ssig. Auch aus Gr\u00fcnden des Gew\u00e4sserschutzes ist das An-wendungsverbot von Glyphosat in Wasserschutzgebieten fragw\u00fcrdig. Als Ausweichreak-tion auf das Glyphosatverbot kommt es zu einer intensiveren Bodenbearbeitung, wodurch sich das Erosionsrisiko und die Stickstoffmobilisierung erh\u00f6hen. Mit dem vermehrten Bo-denabtrag einhergehend kommt es zu Eintr\u00e4gen von Phosphor und Krankheitserregern, die an Bodenpartikel gebunden sind, sowie dem Eintrag von Pflanzenschutzmitteln in Oberfl\u00e4chengew\u00e4sser. Der durch die intensivere Bodenbearbeitung mobilisierte Stickstoff kann zudem in Gew\u00e4sser (Grundwasser durch Versickerung sowie oberirdische Gew\u00e4s-ser) verlagert werden.\r\nUmgang mit behandeltem Saatgut verbessern (Zeile 147)\r\nHinsichtlich des Risikomanagements f\u00fcr behandeltes Saatgut ist zu beachten, dass sich die Pillierung der Zuckerr\u00fcbe grunds\u00e4tzlich von der Beizung anderer Kulturen unterschei-det. Das Auftragen einer ersten Schicht um das Zuckerr\u00fcbensaatgut dient zun\u00e4chst der Desinfektion und damit dem Schutz vor samenb\u00fcrtigen Schaderregern. Durch das Auftra-gen einer zweiten F\u00fcllschicht entsteht die runde Saatgutpille. Die dritte Schicht ist die ei-gentliche Schutzschicht mit den darin enthaltenen Wirkstoffen zum Schutz vor bodenb\u00fcrti-gen Schaderregern. Eine abschlie\u00dfende vierte Schicht dient dem Schutz vor Abrieb der Beizmittel der dritten Schicht. Durch diese vierte Schicht wird zudem der direkte Kontakt des Anwenders mit den Beizmitteln der dritten Schicht verhindert. Durch diesen Aufbau der R\u00fcbenpille wird bei Zuckerr\u00fcbensaatgut ein besonders ausgepr\u00e4gter Anwender- und Umweltschutz sichergestellt. Dies ist aus Sicht der Zuckerwirtschaft bei der Pr\u00fcfung von Risikomanagementma\u00dfnahmen f\u00fcr den Umgang mit behandeltem Saatgut zwingend zu beachten. Ein Risikomanagement f\u00fcr behandeltes Saatgut muss an die Kultur und die Me-thode, wie die Wirkstoffe an das Saatgut gebracht werden (Pillierung, Beizung), angepasst erfolgen.\r\nPrognosemodelle und Entscheidungshilfen kontinuierlich weiterentwickeln (Zeile 151)\r\nDie Zuckerwirtschaft begr\u00fc\u00dft die F\u00f6rderung der (Weiter-)Entwicklung von Prognose- und Entscheidungshilfen ausdr\u00fccklich. In diesem Zusammenhang erw\u00e4gt das BMEL auch, Be-k\u00e4mpfungs-/Schadschwellen anzupassen bzw. neu zu definieren. Eine Anpassung von Bek\u00e4mpfungs-/Schadschwellen vor dem Hintergrund des Ziels der Verringerung des Pflanzenschutzmitteleinsatzes darf nicht dazu f\u00fchren, dass Bek\u00e4mpfungs-/Schadschwel-len zwecks einer sp\u00e4teren Behandlung unter Inkaufnahme h\u00f6herer Sch\u00e4den heraufgesetzt werden. Denn ab einem bestimmten Punkt kann ein Schaderreger mit den noch vorhande-nen Wirkstoffen nicht mehr wirkungsvoll einged\u00e4mmt werden und ein Risiko von Resis-tenzentwicklung muss ber\u00fccksichtigt werden. Angesichts sich ver\u00e4ndernder klimatischer Bedingungen breiten sich Schaderreger in Abh\u00e4ngigkeit der Witterungsverh\u00e4ltnisse explo-sionsartig aus. In der Praxis zeigt sich daher vielmehr, dass eine Bek\u00e4mpfung fr\u00fcher erfol-\r\n7\r\ngen m\u00fcsste, um einen ausreichenden Bek\u00e4mpfungserfolg mit m\u00f6glichst wenig Aufwand-menge bzw. m\u00f6glichst wenig Behandlungen und gleichzeitigem Resistenzmanagement zu erzielen. Die Anpassung von Bek\u00e4mpfungs-/Schadschwellen muss wissenschaftlich fun-diert unter Einbeziehung der Erfahrungen aus der Praxis erfolgen.\r\nZulassungsverfahren f\u00fcr Pflanzenschutzmittel verbessern (Zeile 158)\r\nEine Verbesserung der Verfahren zur Zulassung von Pflanzenschutzmitteln \u2013 im beste-henden rechtlichen Rahmen \u2013 begr\u00fc\u00dft die Zuckerwirtschaft. Bei diesem Vorhaben sollte zwingend darauf hingewiesen werden, dass die Zulassung von Pflanzenschutzmitteln wie-der fakten- und wissenschaftsbasiert erfolgen sowie die wissenschaftliche Expertise der Europ\u00e4ischen Beh\u00f6rde f\u00fcr Lebensmittelsicherheit (EFSA) ber\u00fccksichtigt werden muss. Letzteres war beispielsweise im Zuge des Wiedergenehmigungsverfahrens f\u00fcr den Wirk-stoff Triflusulfuron nicht der Fall. So war die EFSA in ihrer Datenauswertung \u00fcber die Not-wendigkeit von Triflusulfuron als Herbizid zur Bek\u00e4mpfung einer ernsten Gefahr f\u00fcr die Pflanzengesundheit, die mit anderen verf\u00fcgbaren Mitteln, einschlie\u00dflich nicht chemischer Methoden nicht einged\u00e4mmt werden kann, zu der Schlussfolgerung gelangt, dass eine Ausnahmegenehmigung nach Art. 4 (7) der Verordnung (EG) Nr. 1107/2009 f\u00fcr den Zu-ckerr\u00fcbenanbau in Deutschland wissenschaftlich unterst\u00fctzt wird. Dar\u00fcber hinaus hatte die EFSA festgestellt, dass die Handhacke die einzige nicht-chemische Alternative mit ei-ner hohen Wirksamkeit darstellt, der Einsatz der Handhacke jedoch mit so hohen Kosten verbunden ist, dass diese Ma\u00dfnahme nicht als Alternative betrachtet werden kann. Den-noch hat die Europ\u00e4ische Kommission diese wissenschaftliche Empfehlung beim Erlass der Durchf\u00fchrungsverordnung zur Nichterneuerung der Genehmigung f\u00fcr den Wirkstoff Triflusulfuron nicht ber\u00fccksichtigt, da die Kommission \u2013 entgegen fr\u00fcheren gegenteiligen Aussagen \u2013 zu dem Schluss gelangt ist, dass Art. 4 (7) nicht auf Herbizide anzuwenden ist, da die mechanische Unkrautkontrolle bzw. die Handhacke immer eine nicht-chemische Alternative darstellt. Durch ein solches Vorgehen seitens der Zulassungsbeh\u00f6rden wird die Pflanzenschutzmittelzulassung f\u00fcr alle Wirtschaftsbeteiligten \u2013 Pflanzenschutzmittelher-steller und R\u00fcbenanbauer \u2013 zu einem unkalkulierbaren Risiko. Vielmehr sollten die rechtli-chen M\u00f6glichkeiten der Pflanzenschutzmittelzulassung, welche durch die Verordnung (EU) Nr. 1107/2009 einger\u00e4umt werden, auch ausgesch\u00f6pft werden.\r\nGAP (Zeile 200)\r\nDas BMEL sieht in der Gemeinsamen Agrarpolitik der EU (GAP) und in ihrer nationalen Umsetzung eine wesentliche Stellschraube f\u00fcr die Art und Intensit\u00e4t der landwirtschaftli-chen Nutzung. Ferner ist die GAP nach Aussage des BMEL ein wichtiger Hebel, um den Einsatz von chemisch-synthetischen Pflanzenschutzmitteln signifikant zu reduzieren. Hierzu ist dringend anzumahnen, dass die deutschen Zuckerr\u00fcbenanbauer aufgrund der in anderen EU-Mitgliedstaaten gew\u00e4hrten gekoppelten Zahlungen f\u00fcr Zuckerr\u00fcben bereits einem Wettbewerbsnachteil unterliegen. Nationale Alleing\u00e4nge bei der Verringerung des Pflanzenschutzmitteleinsatzes w\u00fcrden diese Situation versch\u00e4rfen und sind daher klar ab-zulehnen. Ein freiwilliger Verzicht auf den Einsatz von Pflanzenschutzmitteln ist durch eine angemessene Pr\u00e4mienh\u00f6he, die neben der Entsch\u00e4digungs- auch eine Anreizkomponente enthalten muss, zu entlohnen.\r\n8\r\nVerzicht auf chemisch-synthetische Pflanzenschutzmittel in Trinkwasserschutzge-bieten f\u00f6rdern (Zeile 224)\r\nDer in der Diskussionsgrundlage enthaltene Verweis, analog zu den bestehenden Rege-lungen zu Pflanzenschutzmitteln in Naturschutzgebieten, bei denen Landwirten ein Er-schwernisausgleich gew\u00e4hrt wird, Regeln f\u00fcr Trinkwasserschutzgebiete finden zu wollen, ist aus Sicht der Zuckerwirtschaft als verharmlosende Darstellung der derzeitigen Rechts-lage zu werten. De facto besteht in Naturschutzgebieten etc. ein Anwendungsverbot f\u00fcr Herbizide und bestimmte Insektizide. Die Zuckerwirtschaft lehnt eine \u00dcbertragung des An-wendungsverbots f\u00fcr Pflanzenschutzmittel auf Trinkwasserschutzgebiete \u2013 unabh\u00e4ngig davon, ob jegliche Pflanzenschutzmittel oder nur bestimmte Pflanzenschutzmittel, d.h. Fungizide, Insektizide oder Herbizide oder bestimmte nach Risikogruppen eingeteilte Pflanzenschutzmittel betroffen sind \u2013 entschieden ab.\r\nDieses Vorhaben des BMEL erweckt \u2013 wie bereits das im Vorschlag f\u00fcr eine SUR vorge-sehene pauschale Anwendungsverbot jeglicher Pflanzenschutzmittel in empfindlichen Ge-bieten \u2013 den Eindruck, dass eine bestehende Fl\u00e4chenkulisse zwecks Ausweisung von Verbotszonen herangezogen werden soll. Dar\u00fcber hinaus blendet dieses Vorgehen die Frage aus, ob die in Gew\u00e4ssern gefundenen R\u00fcckst\u00e4nde und Metaboliten von Pflanzen-schutzmitteln \u00fcberhaupt aus der Landwirtschaft stammen.\r\nEin Verbot der Anwendung von Pflanzenschutzmitteln in Trinkwasserschutzgebieten f\u00fchrt in seiner pauschalen Ausgestaltung zu weitreichenden und unverh\u00e4ltnism\u00e4\u00dfigen Be-schr\u00e4nkungen der landwirtschaftlichen Nutzung, vielerorts sogar zu einem Ende des An-baus von Zuckerr\u00fcben. Aufgrund der Besonderheiten des Zuckerr\u00fcbenanbaus und der Zu-ckerr\u00fcbenverarbeitung, allem voran dem regionalen Rohstoffbezug um den Fabrikstand-ort, bedroht ein Verbot der Anwendung von Pflanzenschutzmitteln in Trinkwasserschutz-gebieten den dortigen Zuckerr\u00fcbenanbau und damit die Rohstoffbasis der Zuckerfabrik. Denn in Folge der Pflanzenschutzanwendungsverbote werden landwirtschaftliche Betriebe aufgrund mangelnder Wirtschaftlichkeit aus dem Zuckerr\u00fcbenanbau aussteigen, was zwangsl\u00e4ufig Fabrikschlie\u00dfungen und damit den Verlust von Arbeitspl\u00e4tzen und Wert-sch\u00f6pfung gerade im l\u00e4ndlichen Raum nach sich ziehen wird. Als Konsequenz der Fabrik-schlie\u00dfung wird die Zuckerr\u00fcbe als wichtiges Fruchtfolgeglied dann auch au\u00dferhalb der Verbotszonen verloren gehen, da R\u00fcbenanbauer keinen Abnehmer ihrer Zuckerr\u00fcben mehr haben. Die mit dem Anwendungsverbot beabsichtigte Umstellung auf den Anbau von Bior\u00fcben wird diese Entwicklung nicht aufhalten k\u00f6nnen. Denn ein Bior\u00fcbenanbau ohne jegliche Pflanzenschutzmittel ist nicht durchf\u00fchrbar und wird deswegen in Trinkwas-serschutzgebieten nicht stattfinden. Zudem sind die Nachfrage und die Zahlungsbereit-schaft der Verbraucher f\u00fcr Bior\u00fcbenzucker nicht gro\u00df genug. Auch eine Erweiterung des Einzugsgebietes einer Zuckerfabrik stellt keine realistische L\u00f6sung dar, weil die Transport-w\u00fcrdigkeit der Zuckerr\u00fcbe gering ist und l\u00e4ngere Transportwege aus Gr\u00fcnden des Klima-schutzes vermieden werden sollten. Im Endeffekt kann eine Zuckerfabrik nur Bior\u00fcbenzu-cker produzieren, wenn im Anschluss an die Bio-Kampagne die wirtschaftliche Auslastung \u00fcber die Verarbeitung von konventionellen R\u00fcben erreicht wird.\r\nZudem ist neben der Bek\u00e4mpfung von Unkr\u00e4utern zur Vorbereitung des Saatbettes eine Unkrautbek\u00e4mpfung im Zuckerr\u00fcbenbestand zur Etablierung eines gesunden und ertrag-reichen Bestandes ebenso wie f\u00fcr die Ernte- und Verarbeitungsqualit\u00e4t von entscheiden-\r\n9\r\nder Bedeutung. Alternative nicht-chemische Unkrautbek\u00e4mpfungsverfahren, z. B. die me-chanische Unkrautbek\u00e4mpfung innerhalb der Reihe mithilfe von Feldrobotern, sind noch im Entwicklungsstadium.\r\nFerner kommt im Zuckerr\u00fcbenanbau der Bek\u00e4mpfung von Insekten, z. B. Blattl\u00e4usen als Virusvektoren, eine hohe Bedeutung zu, da von Insekten \u00fcbertragene Krankheiten, z. B. die vir\u00f6se Vergilbung, massive Ertragsverluste zur Folge haben. Das geplante Anwen-dungsverbot von Pflanzenschutzmitteln in Trinkwasserschutzgebieten w\u00fcrde somit eine existenzielle Bedrohung f\u00fcr den R\u00fcbenanbau in den betroffenen Regionen bedeuten.\r\nMit einem Verbot der Anwendung von Pflanzenschutzmitteln in Trinkwasserschutzgebie-ten werden den R\u00fcbenanbauern ohne jeglichen finanziellen Ausgleich massive zus\u00e4tzliche kostentr\u00e4chtige Auflagen aufgeb\u00fcrdet. Derartige ordnungsrechtliche Vorgaben und pau-schale Verbote zerst\u00f6ren F\u00f6rderm\u00f6glichkeiten und erfolgreich etablierte freiwillige Aktivit\u00e4-ten der R\u00fcbenanbauer im Rahmen des kooperativen Naturschutzes. Der derzeit im Zu-sammenhang mit den bestehenden Anwendungsverboten in Naturschutzgebieten etc. ge-w\u00e4hrte Erschwernisausgleich ist zu gering.\r\nM\u00f6glichkeiten und Wirkungen \u00f6konomischer Steuerungsinstrumente ausloten (Zeile 229)\r\nDie Pr\u00fcfung, mit welchen Instrumenten die externen Kosten des Einsatzes von Pflanzen-schutzmitteln internalisiert werden k\u00f6nnen, muss neben den Auswirkungen auf Anbauent-scheidungen, Ertr\u00e4ge, Einkommensh\u00f6he der landwirtschaftlichen Betriebe, Lebensmittel-preise und dem zus\u00e4tzlichen Verwaltungsaufwand auch m\u00f6gliche Ausweichreaktionen der R\u00fcbenanbauer beleuchten. So ist es denkbar, dass toxische und damit erwartbar h\u00f6her besteuerte Wirkstoffe durch weniger toxische Wirkstoffe ersetzt werden, diese weniger to-xischen Wirkstoffe dann jedoch in gr\u00f6\u00dferer Menge und/oder h\u00e4ufiger eingesetzt werden mit den entsprechenden negativen Auswirkungen auf das Resistenzmanagement.\r\nDar\u00fcber hinaus wird die Einf\u00fchrung einer Pflanzenschutzmittelabgabe bzw. eines Lizenz-systems bei fehlenden Alternativen zu einer Verteuerung der betroffenen Betriebsmittel f\u00fchren, worin eine Wettbewerbsbenachteiligung deutscher Betriebe im europ\u00e4ischen Bin-nenmarkt zu sehen ist. Diese die Pflanzenschutzmittel verteuernden Instrumente konterka-rieren die Bem\u00fchungen zur St\u00e4rkung der landwirtschaftlichen Einkommen, zur St\u00e4rkung der Position der Landwirte in der Wertsch\u00f6pfungskette und tragen zur Steigerung der Le-bensmittelpreise bei.\r\nAus- und Weiterbildung (Zeile 241)\r\nDie vorgesehene St\u00e4rkung der unabh\u00e4ngigen Beratung zum Pflanzenschutz und zu resili-enten Anbausystemen wird den zuk\u00fcnftigen Beratungsbedarf nicht abdecken k\u00f6nnen, wenn hier nur auf eine unabh\u00e4ngige Beratung im Sinne der Offizialberatung abgezielt wird. Auch private Beratungsunternehmen, die Pflanzenbauberatung im Rahmen des Ver-tragsanbaus, z. B. durch Anbauberater von Zuckerfabriken, und die die R\u00fcbenanbauer vertretenden Verb\u00e4nde m\u00fcssen bei nachgewiesener Sachkunde als unabh\u00e4ngig gelten. Denn die Anbauberater der Zuckerfabriken und Zuckerr\u00fcbenanbauerverb\u00e4nde verfolgen\r\n10\r\ndas gemeinsame Interesse mit dem R\u00fcbenanbauer, bei m\u00f6glichst geringem Aufwand ei-nen gesunden, vitalen und ertragreichen R\u00fcbenbestand zu etablieren. Ein Interessenskon-flikt ist in diesem Fall nicht erkennbar.\r\nReferenzzeitraum und Evaluierung (Zeile 273)\r\nWie bereits einleitend erw\u00e4hnt, ist es \u00e4u\u00dferst kritikw\u00fcrdig, dass das BMEL die wichtige Frage des Referenzzeitraums in dieser Diskussionsgrundlage nicht aufgreift.\r\nMonitoring ausbauen (Zeile 286)\r\nBeim Aufbau der genannten Datenbank f\u00fcr die Anwendung von Pflanzenschutzmitteln ist es unbedingt zu vermeiden, dass es durch diese Datenbank zu Dopplungen zu anderen Aufzeichnungen (z. B. Panel Pflanzenschutzmittel-Anwendungen \u2013 PAPA) kommt. Diese Datenbank sollte vielmehr daf\u00fcr genutzt werden, um der sich aus der Verordnung \u00fcber Statistiken zu landwirtschaftlichen Betriebsmitteln und zur landwirtschaftlichen Erzeugung ab dem 1. Januar 2026 ergebenden Verpflichtung zur maschinenlesbaren Aufzeichnung von Pflanzenschutzmittelanwendungen nachzukommen.\r\nHinsichtlich der Datenbank f\u00fcr die Anwendung von Pflanzenschutzmitteln fordert die deut-sche Zuckerwirtschaft die Einrichtung einer Plausibilit\u00e4tspr\u00fcfung der eingegebenen Daten, um versehentliche Eingabefehler zu vermeiden. Dar\u00fcber hinaus d\u00fcrfen die seitens der R\u00fc-benanbauer eingegebenen Daten \u00fcber erfolgte Pflanzenschutzanwendungen nicht zu Kontrollzwecken missbraucht werden."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d6/01/323443/Stellungnahme-Gutachten-SG2406260298.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-06-13"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009034",
+                "regulatoryProjectTitle": "Erhalt des Einsatzes von Pflanzenschutzmitteln f\u00fcr den Zuckerr\u00fcbenanbau",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Zum BMEL-Zukunftsprogramm Pflanzenschutz Pauschale Reduktionsziele  gef\u00e4hrden Zuckerr\u00fcbenanbau Die Zuckerwirtschaft sieht beim Vorschlag f\u00fcr das Zukunftsprogramm Pflanzenschutz  des BMEL erheblichen Verbesserungsbedarf. Pauschale Reduktionsziele sind nicht praktikabel.  Die Branche setzt vielmehr auf Innovationen und neue Technologien. Die deutsche Zuckerwirtschaft unterst\u00fctzt das \u00fcbergeordnete Ziel, den Einsatz von Pflanzenschutzmitteln zu reduzieren. Beim integrierten Pflanzenschutz ist sie sogar Vorreiter. Sie war die erste Branche, die daf\u00fcr Leitlinien entwickelte und diese erfolgreich in die Praxis umsetzt. Zus\u00e4tzlich investiert sie in fortschrittliche Technologien wie Robotik und Digitalisierung, um Pflanzenschutzmittel gezielter und somit deutlich reduzierter einzusetzen. Dagegen setzt der jetzt vorliegende Vorschlag des BMEL f\u00fcr das Zukunftsprogramm Pflanzenschutz auf pauschale Reduktion und Verbote. Das w\u00fcrde die bisherigen Investitionen und Bem\u00fchungen zunichtemachen. Ohne verf\u00fcgbare Alternativen f\u00fchrt die pauschale Reduktion chemischer Pflanzenschutzmittel zu erheblichen Ertragseinbu\u00dfen bei Zuckerr\u00fcben und w\u00fcrde damit den Zuckerr\u00fcbenanbau in Deutschland unwirtschaftlich machen.  Pflanzenschutzmittel leisten einen wichtigen Beitrag zur Versorgungssicherheit in Deutschland. Sie sichern Ernten und Ertr\u00e4ge, weil sie Feldfr\u00fcchte wie Zuckerr\u00fcben vor Sch\u00e4dlingen und Krankheiten sch\u00fctzen.  Jede Ackerfrucht und jede Region hat ihren spezifischen Schutzbedarf, der von Jahr zu Jahr variieren kann. Der Klimawandel erfordert zudem schnelle und flexible Reaktionen auf neue Sch\u00e4dlinge und Krankheiten. Daf\u00fcr muss ein breites Spektrum von Wirkstoffen und Ma\u00dfnahmen verf\u00fcgbar sein. Und auch das beste Spot-Spray-System hilft nicht, wenn es daf\u00fcr keine Wirkstoffe mehr gibt. Ein echtes Zukunftsprogramm Pflanzenschutz muss deshalb auf pauschale Reduktion verzichten und statt- dessen auf neue Technologien setzen. Neue Z\u00fcchtungstechniken wie CRISPR/CAS beschleunigen die Z\u00fcch- tung resilienter Sorten erheblich. Diese Potenziale m\u00fcssen genutzt werden k\u00f6nnen. Ein echtes Zukunftsprogramm sollte zudem in enger Zusammenarbeit mit der Landwirtschaft entwickelt werden \u2013 und das \u00fcber eine Anh\u00f6rung im Anfangsstadium hinaus. Nur so entstehen praktikable L\u00f6sungen, die die Bedingungen des Klimawandels und die regionalen Bedingungen, denen Landwirtschaft ausgesetzt ist, ber\u00fccksichtigen. Pflanzenschutz sollte au\u00dferdem europaweit fair geregelt werden, R\u00fcbenanbauer d\u00fcrfen in Deutschland nicht einseitig benachteiligt werden.  Im europ\u00e4ischen Binnenmarkt sollten gleiche Wettbewerbsbedin- gungen gelten. Die Zuckerwirtschaft unterst\u00fctzt die Initiative von DBV, DRV und weiteren Verb\u00e4nden, die Vorschl\u00e4ge des BMEL zur\u00fcckzuziehen und die Pflanzenschutzpolitik der Bundesregierung grundlegend neu auszurichten.\r\n\r\nPositionen der Zuckerwirtschaft Juni 2024 Pflanzenschutz f\u00fcr die Zukunft: Wie nachhaltiger  Pflanzenschutz in der Zuckerwirtschaft wirklich gelingt 1. Pflanzenschutz muss gemeinsam mit der Landwirtschaft weiterentwickelt werden:  Es sind die Landwirte in der Praxis, die direkt davon betroffen sind und die  zu praxisnahen L\u00f6sungen beitragen. Eine einmalige Anh\u00f6rung reicht daf\u00fcr nicht aus. 2. Keine pauschale Reduktion f\u00fcr Pflanzenschutzmittel:  Zudem m\u00fcssen R\u00fcbenanbauer durch den Klimawandel immer schneller und flexibel  auf neue Sch\u00e4dlinge und Krankheiten reagieren. Daf\u00fcr brauchen sie ein breites Spektrum  von Wirkstoffen und Ma\u00dfnahmen statt eines pauschalen Rotstifts.  3. Bereits erzielte Erfolge anerkennen:  Die Zuckerwirtschaft hat bereits erhebliche Erfolge in der Reduktion von Pflanzenschutzmitteln  erzielt. Sie ist Vorreiter im integrierten Pflanzenschutz und investiert in Innovationen.  Das Zukunftsprogramm in seiner jetzigen Version w\u00fcrde diese Anstrengungen zunichtemachen.  Das darf nicht geschehen. 4. Den Acker zum neuen Digitallabor machen:  Robotik und Digitalisierung versprechen den gr\u00f6\u00dften Fortschritt f\u00fcr Klimaschutz  und Biodiversit\u00e4t.  5. Die Potenziale neuer Z\u00fcchtungstechnologien m\u00fcssen genutzt werden: Mit neuen Technologien wie CRISPR/CAS wird die Z\u00fcchtung neuer resilienter Sorten  deutlich beschleunigt. 6. Verfahren zur Pflanzenschutzmittelzulassung m\u00fcssen schneller werden und  fakten- und wissenschaftsbasiert erfolgen. 7. Die Anbauberatung muss gezielt gest\u00e4rkt werden, damit diese den immer komplexer werdenden  Fragen des Pflanzenschutzes durch neue Sch\u00e4dlinge und Krankheiten einerseits und durch  neue Methoden aus dem Bereich der Digitalisierung andererseits gewachsen ist. Nur so k\u00f6nnen  Innovationen schnell Einzug in die Praxis halten. 8. Neue Regelwerke d\u00fcrfen die Wettbewerbsf\u00e4higkeit von Zuckerr\u00fcbenanbauern in Deutschland nicht gef\u00e4hrden:  Deshalb muss Pflanzenschutz europaweit fair geregelt werden. Nur so gelten im  EU-Binnenmarkt gleiche und faire Wettbewerbsbedingungen f\u00fcr Landwirte in Deutschland  und Europa."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d5/07/323445/Stellungnahme-Gutachten-SG2406280008.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-05-02"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009036",
+                "regulatoryProjectTitle": "Bef\u00fcrwortung des Einsatzes neuer genomischer Techniken in der Pflanzenz\u00fcchtung",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Wie die Zuckerwirtschaft den  Klimawandel meistern kann Der Klimawandel stellt die Zuckerwirtschaft schon heute vor gro\u00dfe Herausforderungen.  Die Verschiebung der Niederschl\u00e4ge sorgt mit Dauerregen auch in diesem Fr\u00fchjahr f\u00fcr eine sp\u00e4te Aussaat. F\u00fcr die Zuckerr\u00fcben hei\u00dft das: Sie haben weniger Zeit, zu wachsen, und  die Gefahr f\u00fcr Pilzerkrankungen ist h\u00f6her. Gleichzeitig sind auch die Herbstmonate zu nass und erschweren die Ernte. Durch hei\u00dfe und trockene Sommer kommen selbst die sonst robusten R\u00fcben in Trockenstress. Nicht nur  das \u2013 auch neue Sch\u00e4dlinge werden hierzulande heimisch, bekannte Populationen nehmen zu, neue Krankheiten treten auf. Im Jahr 2023 breitete sich etwa die durch Zikaden \u00fcbertragende Krankheit SBR st\u00e4rker aus als zuvor. Sie senkt den Zuckergehalt. Gleichzeitig trat eine f\u00fcr R\u00fcben neue SBR-Variante auf, welche f\u00fcr  sogenannte \u201eGummir\u00fcben\u201c sorgte und sich schnell ausbreitete. Betroffene R\u00fcben sind schlechter zu ernten und k\u00f6nnen kaum gelagert werden. Anpassung durch Innovation F\u00fcr eine z\u00fcgige Reaktion auf die Klimafolgen kommt es auf einen ausreichenden Instrumentenkasten an. Daf\u00fcr arbeitet die Zuckerwirtschaft selbst an L\u00f6sungen. Wir sind Vorreiter im integrierten Pflanzenschutz. Wir untersuchen, ob Ver\u00e4nderungen der Fruchtfolge den Sch\u00e4dlingsdruck reduzieren k\u00f6nnen. Erosion und Verdunstung bremsen wir durch Mulchsaat und Zwischenfr\u00fcchte. Biomassekarten helfen, die D\u00fcngermenge anzupassen. Die Entwicklung neuer, resistenter Sorten, die an die regionalen Bedingungen angepasst sind, wird mit hohem Aufwand vorangetrieben. Robotik und Spot-Spray-L\u00f6sungen werden weiterentwickelt,  um die Einsatzmengen von Pflanzenschutzmitteln zu reduzieren. Was die Politik jetzt tun muss Doch die Zeit dr\u00e4ngt und ohne politischen Einsatz helfen all diese Bem\u00fchungen nichts. Das hei\u00dft: \u00b7  Keine pauschalen Verbote von Pflanzenschutzmitteln: Wir entwickeln innovative L\u00f6sungen zur  Reduktion von Pflanzenschutzmitteln. Aber das beste Spot-Spray-System hilft nicht, wenn es daf\u00fcr keine  Wirkstoffe mehr gibt. Zudem helfen nur mehrere verschiedene Wirkstoffe zuverl\u00e4ssig gegen Resistenzen. \u00b7  Neue Z\u00fcchtungstechniken in die Praxis bringen: Die Potentiale neuer Z\u00fcchtungstechnologien wie   CRISPR/ CAS m\u00fcssen erschlossen werden. Dadurch beschleunigt sich die Z\u00fcchtung neuer resilienter  Sorten deutlich. Das darf nicht durch unrealisierbare Kennzeichnungspflichten oder \u00fcberb\u00fcrokratische  Einsatzeinschr\u00e4nkungen ausgehebelt werden. \u00b7 Robotik und Digitalisierung zum Durchbruch verhelfen: Die Politik sollte den Acker zum neuen Digital- labor machen. Denn Innovationen versprechen den gr\u00f6\u00dften Fortschritt f\u00fcr Klimaschutz und Biodiversit\u00e4t"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

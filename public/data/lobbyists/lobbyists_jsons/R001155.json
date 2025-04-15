@@ -1,0 +1,953 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-23T15:40:07.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-24T09:34:44.000+01:00",
+        "lastUpdateDate": "2024-06-27T19:48:29.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 29656,
+                "validFromDate": "2024-06-27T19:48:29.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27356,
+                "validFromDate": "2024-05-29T14:38:26.000+02:00",
+                "validUntilDate": "2024-06-27T19:48:29.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 20444,
+                "validFromDate": "2023-06-01T09:00:59.000+02:00",
+                "validUntilDate": "2024-05-29T14:38:26.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16244,
+                "validFromDate": "2023-02-23T15:40:07.000+01:00",
+                "validUntilDate": "2023-06-01T09:00:59.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION_V2",
+            "de": "Sonstiges Unternehmen",
+            "en": "Other company"
+        },
+        "activityDescription": "Seit \u00fcber 75 Jahren treibt die Schaeffler Gruppe als ein weltweit f\u00fchrender Automobil- und Industriezulieferer zukunftsweisende Erfindungen und Entwicklungen in den Bereichen Bewegung und Mobilit\u00e4t voran. Mit innovativen Technologien, Produkten und Services in den Feldern CO2-effiziente Antriebe, Elektromobilit\u00e4t, Industrie 4.0, Digitalisierung und erneuerbare Energien ist das Unternehmen ein verl\u00e4sslicher Partner, um Bewegung und Mobilit\u00e4t effizienter, intelligenter und nachhaltiger zu machen. Das Technologieunternehmen produziert Pr\u00e4zisionskomponenten und Systeme f\u00fcr Antriebsstrang und Fahrwerk sowie W\u00e4lz- und Gleitlagerl\u00f6sungen f\u00fcr eine Vielzahl von Industrieanwendungen.\r\n\r\nDie Schaeffler Hauptstadtrepr\u00e4sentanz koordiniert die Erarbeitung und Kommunikation von Unternehmenspositionen gegen\u00fcber politischen Institutionen und Stakeholdern. Als Vermittler zwischen der Schaeffler-Gruppe und der Politik m\u00f6chten wir einen Beitrag dazu leisten, dass die bestm\u00f6glichen politischen, wirtschaftlichen und sozialen Rahmenbedingungen geschaffen werden k\u00f6nnen. Themenschwerpunkte sind dabei unter anderem die Bereiche Klima und Nachhaltigkeit, Digitalisierung, Wettbewerb, Branchenwandel und innovative Technologien.\r\n\r\nIm Zuge dessen werden auch parlamentarische Abend und Diskussionsveranstaltungen durchgef\u00fchrt, zu den Regierungsmitglieder, Abgeordnete sowie Vertreter der Ministerien eingeladen werden. \r\n\r\nDar\u00fcber hinaus werden in Einzelf\u00e4llen auch Gespr\u00e4che zu Regelungsvorhaben sowie Stellungnahmen und Gutachten zu konkreten Regelungsvorhaben erarbeitet und \u00fcbermittelt. ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_FA_BRD",
+                "de": "Au\u00dfenpolitik",
+                "en": "Foreign policy of the federal republic of Germany"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ECONOMY_AUTOMOBILE",
+                "de": "Automobilwirtschaft",
+                "en": "Automotive industry"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AEROSPACE",
+                "de": "Luft- und Raumfahrt",
+                "en": "Aerospace"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/55/97/321143/2023_schaeffler_annual_report_de_43bzvm.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.75,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 340001,
+            "to": 350000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Neust\u00e4dtische Kirchstra\u00dfe",
+            "streetNumber": "6",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "politik@schaeffler.com"
+                }
+            ],
+            "phoneNumber": "+493020641520",
+            "websites": [
+                {
+                    "website": "https://www.schaeffler.de/de/"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Flora",
+                "lastName": "Bellina",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Till",
+                "lastName": "Bullmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Kristin",
+                "lastName": "Menge",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Maximilian",
+                "lastName": "Steiner",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_AG",
+            "de": "Aktiengesellschaft (AG)",
+            "en": "Stock company (AG)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Klaus",
+                "function": "Vorsitzender des Vorstands",
+                "lastName": "Rosenfeld",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Claus",
+                "function": "Vorstand Finanzen",
+                "lastName": "Bauer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Andreas",
+                "function": "Vorstand Produktion, Supply Chain Management und Einkauf",
+                "lastName": "Schick",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": false,
+                "firstName": "Astrid",
+                "function": "Vorstand Personal und Arbeitsdirektorin",
+                "lastName": "Fontaine",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Jens",
+                "function": "Vorstand Automotive Aftermarket",
+                "lastName": "Sch\u00fcler",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Uwe",
+                "function": "Vorstand Forschung und Entwicklung",
+                "lastName": "Wagner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Matthias",
+                "function": "Vorstand Automotive Technologies",
+                "lastName": "Zink",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Sascha",
+                "function": "Vorstand Bearings & Industrial Solutions",
+                "lastName": "Zaps",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "BDLI - Der Bundesverband der Deutschen Luft- und Raumfahrtindustrie e.V."
+            },
+            {
+                "membership": "BITKOM - Bundesverband Informationswirtschaft, Telekommunikation und neue Medien e. V. "
+            },
+            {
+                "membership": "BME e.V., Bundesverband Materialwirtschaft, Einkauf und Logistik e.V. "
+            },
+            {
+                "membership": "BVDW - Bundesverband Digitale Wirtschaft e.V. "
+            },
+            {
+                "membership": "DGFP - Deutsche Gesellschaft f\u00fcr Personalf\u00fchrung "
+            },
+            {
+                "membership": "DICO - Deutsches Institut f\u00fcr Compliance e.V. "
+            },
+            {
+                "membership": "DIN - deutsches Institut f\u00fcr Normung "
+            },
+            {
+                "membership": "eNOVA Strategiekreis Automobile Zukunft "
+            },
+            {
+                "membership": "Ost-Ausschuss - Osteuropaverein der Deutschen Wirtschaft "
+            },
+            {
+                "membership": "VDA - Verband der Automobilindustrie e.V. "
+            },
+            {
+                "membership": "VDB Verband der Bahnindustrie in Deutschland e.V. "
+            },
+            {
+                "membership": "VDI - Verein Deutscher Ingenieure e.V. "
+            },
+            {
+                "membership": "VDMA - Verband Deutscher Maschinen- und Anlagenbau "
+            },
+            {
+                "membership": "VDR - Verband Deutsches Reisemanagement e.V. "
+            },
+            {
+                "membership": "VIK - Verband der Industriellen Energie- und Kraftwirtschaft e.V. "
+            },
+            {
+                "membership": "Econsense - Forum nachhaltige Entwicklung der Deutschen Wirtschaft"
+            },
+            {
+                "membership": "ZVEI - Zentralverband der Elektro- und Digitalindustrie"
+            },
+            {
+                "membership": "American Chamber of Commerce Germany"
+            },
+            {
+                "membership": "Charta der Vielfalt"
+            },
+            {
+                "membership": "LADW - Lateinamerika-Ausschuss der Deutschen Wirtschaft"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Schaeffler AG "
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Der Zuschuss f\u00f6rdert das Projekt \"Stack Scale up - Industrialisierung PEM Elektrolyse\". Dieses entwickelt neue Stack-Technologien und gro\u00dfserientaugliche Produktionsverfahren f\u00fcr die Niedertemperaturelektrolyse. ",
+                "location": "Bonn",
+                "name": "Bundesministerium Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 2560001,
+                    "to": 2570000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das F\u00f6rderprogramm \"NextMBU\" zur seriennahen Entwicklung und Erprobung einer gleitgelagerten Hauptlagereinheit der n\u00e4chsten WEA-Generation in marktrelevanter Gr\u00f6\u00dfenordnung.",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss f\u00fcr das F\u00f6rderprojekt \"FAST\" ist f\u00fcr die Konzeption und Entwicklung von integrierten, innovativen und digital vernetzten Prozessketten mit extrem schnellen Fertigungszyklen als Basis einer Agilen Produktion f\u00fcr zuk\u00fcnftige hybridelektrische Luftfahrtantriebe.",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 80001,
+                    "to": 90000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss aus dem F\u00f6rderprojekt \"ELAN1\" ist f\u00fcr die Erforschung von Lagersystemen mit Fettschmierung f\u00fcr niedrige und mittlere Drehgeschwindigkeiten.",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss f\u00fcr das Verbundprojekt FlexSbus-LR erforscht den flexiblen Schienenbus im l\u00e4ndlichen Raum.",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 350001,
+                    "to": 360000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Vorhaben FLOOW. Dies nutzt die zentralen Vorteile der K\u00fcnstlichen Intelligenz (KI) zur Schaffung neuer L\u00f6sungen f\u00fcr die Mobilit\u00e4t von Menschen und G\u00fctern. Diese betreffen insbesondere die robuste und hochgenaue Lokalisierung der Mobilit\u00e4tssysteme (Indoor und Outdoor), die generalisierte Umfelderkennung sowie die risikobewusste Man\u00f6verplanung auf dedizierter Hardware zur energieeffizienten L\u00f6sung der komplexen Teilprobleme auf den Fahrzeugen.",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 120001,
+                    "to": 130000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist aus dem Projekt \"ProStroM\". Dies zielt mit einem neuen Ansatz f\u00fcr die Optimierung der Str\u00f6mungsstrukturen von Bipolarplattenmodulen auf die Steigerung des Wirkungsgrads bzw. der Leistungsdichte ab. ",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 110001,
+                    "to": 120000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Hierbei handelt es sich um eine Zuwendung aus dem Projekt \"MagSiMal\" mit dem Ziel, eine hochzyklusstabile und ratenf\u00e4hige Magnesium-Schwefel-Batterie zu erzeugen, die Kathodenmaterialien mit einem hohen Gehalt an kovalent gebundenem Schwefel beinhaltet.",
+                "location": "Bonn",
+                "name": "Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 100001,
+                    "to": 110000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"KerTWK\". Im Projekt soll ein mit Siliziumcarbidfasern verst\u00e4rkter Siliziumcarbidwerkstoff (SiC/SiC) entwickelt werden, der den Anforderungen f\u00fcr den Einsatz in einer Fluggasturbine gerecht wird. Aus diesem neuartigen Werkstoff soll ein Demonstratorbauteil gefertigt werden, das alle erforderlichen Merkmale im Hinblick auf Festigkeit, Bauteilkomplexit\u00e4t und Hei\u00dfgasbest\u00e4ndigkeit aufweist.",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"Poseidon II\". Im Rahmen des BMWi-Projektes werden kosteng\u00fcnstige neuartige St\u00e4hle auf austenitischer (Carnit CN0,96) und martensitischer (M340, MNS) Basis durch Randschichtbehandlungen mittels angepasster Niedertemperatur-Plasmadiffusionsbehandlung optimiert. ",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 280001,
+                    "to": 290000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"Prometheus\". Ziel des Projekts ist eine h\u00f6here Energieeffizienz von Verbrennungsmotoren durch eine signifikante Reibungsreduzierung an allen ma\u00dfgeblichen Gleitkomponenten. Die Besonderheit ist dabei die Betrachtung aller Ma\u00dfnahmen im Gesamtzusammenhang, d.h. die konsistente Verkn\u00fcpfung aller Optimierungsma\u00dfnahmen bei Beschichtungen, Oberfl\u00e4chenstrukturen und Schmierstoffen unterst\u00fctzt durch simulative Methoden.",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 110001,
+                    "to": 120000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"SafeADArchitect\". Es sollen neue Methoden und Ans\u00e4tze entwickelt werden, durch die automatisierte Fahrzeuge \u00fcber risikosensitive Echtzeitverfahren im urbanen Betrieb abgesichert werden k\u00f6nnen. Zus\u00e4tzlich sollen Wege der Nachweisf\u00fchrung dieser Absicherung aufgezeigt werden. Im Rahmen des Projekts werden nicht nur einzelne Komponenten, sondern das gesamte System betrachtet. Hierzu soll eine Gesamtsystemarchitektur erforscht werden, die die Ber\u00fccksichtigung von Unsicherheiten (Risiko) auf allen Ebenen von der Fahrzeugplattform, \u00fcber die Sensoren bis hin zu den verwendeten Algorithmen und der Fahrzeugplattform zul\u00e4sst und notwendige Absicherungsebenen vorsieht.",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 90001,
+                    "to": 100000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"KI-MUSIK 4.0\". Im Vorhaben werden Sensoren f\u00fcr die Nutzung in einem verteilten Netzwerk entwickelt. Eine Besonderheit ist, dass jeder Sensor gro\u00dfe Datenmengen mittels KI vorverarbeiten und bewerten kann. Somit sendet jede Sensoreinheit deutlich weniger und zuverl\u00e4ssigere Informationen an die Basisstation. Die zu versendenden Datenmengen reduzieren sich erheblich, die Kommunikation wird beschleunigt und der Nutzer kann die Produktionsanlagen in Echtzeit \u00fcberwachen. Die geplanten Forschungsarbeiten umfassen neben der Entwicklung neuartiger, energieeffizienter Sensorkonzepte auch Aspekte des maschinellen Lernens.",
+                "location": "Bonn",
+                "name": "Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das \"Bafa Modul 5\" zur Erstellung eines Transformationskonzeptes f\u00fcr den Standort Herzogenaurach \"Fuel Switch\". ",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"PolyFoleR\". Das Vorhaben PolyFoleR entwickelt neuartige, langlebige, kosteng\u00fcnstige und elektrisch leitf\u00e4hige Polymerverbundfolien. Diese sollen als Bipolarplatte in elektrochemischen Reaktoren genutzt werden. ",
+                "location": "Bonn",
+                "name": "Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 70001,
+                    "to": 80000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Verbundprojekt \"FreiForm\". Ziel von FreiForm ist ein modularer Hardware- und Software-Baukasten f\u00fcr formangepasste, miniaturisierte und energieautarke Sensorsysteme, die in Produktionsanlagen und Werkst\u00fccken eingesetzt werden k\u00f6nnen. ",
+                "location": "Bonn",
+                "name": "Bundesministerium f\u00fcr Bildung und Forschung ",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"SpesML\". Ziel des SpesML-Projekts ist es, diesen fundierten Ansatz auch f\u00fcr die industriell weitverbreitete Systems Modelling Language (SysML) anwendbar zu machen und ein kommerzielles SysML Werkzeug auf die SPES Methodik anzupassen.",
+                "location": "Bonn",
+                "name": "Bundesministerium f\u00fcr Bildung Forschung",
+                "publicAllowanceEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der  Zuschuss ist f\u00fcr das Projekt \"KIZAM\". Das Ziel des Forschungsprojektes KIZAM ist es, unterschiedliche Methoden aus dem Forschungsbereich KI in den operativen Prozess des Anforderungsmanagements zu implementieren. Zuk\u00fcnftig sind so maschinenlesbare, optimierte und durchg\u00e4ngige Anforderungen f\u00fcr die digitale Fahrzeugentwicklung verf\u00fcgbar.",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"Catena-X Automotive Network\". Das Projekt unterst\u00fctzt bei dem Aufbau eines kollaborativen, offenen und GAIA-X-konformen Datennetzwerks f\u00fcr automobile Wertsch\u00f6pfungsketten.",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 280001,
+                    "to": 290000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"HyConnect \u2013 Ressourcenminimale Fertigung durch hybride und hochvernetzte Prozesse\u201c, in dem sich Wissenschaftlerinnen und Wissenschaftler zweier WGP-Institute mit vier industriellen Partnern zusammengetan haben. Ihr Ziel: Den enormen Nachhaltigkeitswert hybrider Prozesse aufzuzeigen. ",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"KiRoPro\". In dem Projekt KIRoPro wird gemeinsam mit Schaeffler Technologies AG & Co. KG ein System zur automatisierten Programmierung industrieller Robotersystemen f\u00fcr die Montage und Handhabung besonders anspruchsvoller Teile entwickelt. Hierzu z\u00e4hlen beispielsweise Dichtungen, biegeschlaffe Teile und Komponenten mit komplexen Geometrien. Die angestrebte Methodik basiert auf Verwendung eines digitalen Zwillings der Roboterzelle und der Nutzung von Methoden der k\u00fcnstlichen Intelligenz (KI). ",
+                "location": "M\u00fcnchen",
+                "name": "Bayerisches Staatsministerium f\u00fcr Wirtschaft, Landesentwicklung und Energie",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"Attention - ArTificial inTelligENce for the deTectIon of trade-based mOney lauNdering!\". Dieses wird vielf\u00e4ltige globale Datenquellen wie Handelsdaten f\u00fcr Importe und Exporte, Firmen- sowie Webdaten systematisch erfassen, modellieren und analysieren. Basierend auf globalen Handelsaktivit\u00e4ten und deren Kontextinformationen werden Modelle der K\u00fcnstlichen Intelligenz (KI) entwickelt und eingesetzt, um illegale Handelsaktivit\u00e4ten und deren Muster in globalen, heterogenen Daten zu erkennen und aufzudecken. ",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"AgiloDrive2\". Im Rahmen des Forschungsvorhabens AgiloDrive 2 ist es Ziel der drei am Vorhaben beteiligten Institute des KIT, gemeinsam mit den industriellen Partnern entwicklungs- und produktionsspezifische Methoden sowie neuartige Prozesse f\u00fcr die Entwicklung und Produktion elektrischer Traktionsmotoren als Basis f\u00fcr ein wandlungsf\u00e4higes und skalierbares Produktionssystem zu erarbeiten, zu implementieren und zu validieren.",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 670001,
+                    "to": 680000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"AgiloDrive2\". Im Rahmen des Forschungsvorhabens AgiloDrive 2 ist es Ziel der drei am Vorhaben beteiligten Institute des KIT, gemeinsam mit den industriellen Partnern entwicklungs- und produktionsspezifische Methoden sowie neuartige Prozesse f\u00fcr die Entwicklung und Produktion elektrischer Traktionsmotoren als Basis f\u00fcr ein wandlungsf\u00e4higes und skalierbares Produktionssystem zu erarbeiten, zu implementieren und zu validieren.",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"METAVI\". METAVI erforscht, wie Menschen mit ihren Nutzererlebnissen in die virtuelle Entwicklung integriert werden k\u00f6nnen, um Technologien des automatisierten Fahrens fr\u00fchzeitig zu qualifizieren. Damit soll erm\u00f6glicht werden, Technologien und Fahreigenschaften mittels Fahrsimulatoren subjektiv erlebbar zu machen, um ein fr\u00fches Feedback f\u00fcr Entwicklungsentscheidungen zu bekommen \u2013 und damit auf Anhieb eine fehlerfreie Entwicklung zu erm\u00f6glichen, ein \u201eFirst Time Right\u201c.",
+                "location": "M\u00fcnchen",
+                "name": "Staatsministerium f\u00fcr Wirtschaft, Landesentwicklung und Energie",
+                "publicAllowanceEuro": {
+                    "from": 80001,
+                    "to": 90000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das \"Bafa Modul 5\". Das BAFA Modul 5 Transformationsplan im F\u00f6rderprogramm Energie- und Ressourceneffizienz in der Wirtschaft des Bundesministeriums f\u00fcr Wirtschaft und Klimaschutz unterst\u00fctzt Unternehmen bei der eigenen Transformation in Richtung Klimaneutralit\u00e4t. Ziel ist es die CO2-Emissionen langfristig zu reduzieren.",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"VEP/FIP\". Ziel ist es, die Potenziale f\u00fcr das Wissenschaftssystem st\u00e4rker zu erschlie\u00dfen, indem die Bedingungen f\u00fcr erkenntnisorientierte Forschung nachhaltig gest\u00e4rkt werden. ",
+                "location": "Bonn",
+                "name": "Deutsche Gesellschaft f\u00fcr Forschungsf\u00f6rderung ",
+                "publicAllowanceEuro": {
+                    "from": 140001,
+                    "to": 150000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Der Zuschuss ist f\u00fcr das Projekt \"HILOGEAR\". Dieses unterst\u00fctzt die Ziele, differenzierende Prozesse zu entwickeln f\u00fcr das innovative Antriebsmodul UHPE-Demonstrator. Die Ultra High Bypass Ratio-Technologie, die mit dem Getriebefan-Konzept erreicht wird und die L\u00fcfter- und Turbinengeschwindigkeiten mithilfe eines Integral Drive System (IDS) entkoppelt, ist eine innovative Architektur, die eine erhebliche Reduzierung des Kraftstoffverbrauchs, des L\u00e4rms und der Emissionen erm\u00f6glichen kann",
+                "location": "Br\u00fcssel",
+                "name": "Europ\u00e4ische Kommission",
+                "publicAllowanceEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001155/29656",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-27T19:48:29.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/15/9c/321144/Lobbyregister-Detailansicht-R001155-2024-06-27_19-48-29.pdf",
+        "validFromDate": "2024-06-27T19:48:29.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 29656,
+    "registerNumber": "R001155",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Aus Sicht der Zuliefererindustrie macht die Aufnahme von Fahrzeugdaten in das Mobilit\u00e4tsdatengesetz keinen Sinn, da es auf europ\u00e4ischer Ebene dazu bereits regulatorische Bem\u00fchungen gibt. Auf EU-Ebene wird aktuell ein Gesetzentwurf zur sektorspezifischen Regelung (Fahrzeugdaten) erarbeitet. Der Bereich sollte weiterhin im Mobilit\u00e4tsdatengesetz ausgeklammert werden.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://bmdv.bund.de/SharedDocs/DE/Anlage/Gesetze/Gesetze-20/entwurf-eines-gesetz-bereitstellung-und-nutzung-von-mobilitaetsdaten.pdf?__blob=publicationFile",
+                            "draftBillProjectUrl": "https://bmdv.bund.de/SharedDocs/DE/Gesetze-20/entwurf-eines-gesetz-bereitstellung-und-nutzung-von-mobilitaetsdaten.html?nn=508840",
+                            "shortTitle": "BMDV",
+                            "title": "Bundesministerium f\u00fcr Digitales und Verkehr",
+                            "url": "https://bmdv.bund.de/DE/Home/home.html"
+                        }
+                    ],
+                    "publicationDate": "2024-04-19",
+                    "title": "Entwurf eines Gesetzes zur Bereitstellung und Nutzung von Mobilit\u00e4tsdaten und zur \u00c4nderung des Personenbef\u00f6rderungsgesetzes"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_AUTOMOBILE",
+                        "de": "Automobilwirtschaft",
+                        "en": "Automotive industry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0008234",
+                "statements": [],
+                "title": "Mobilit\u00e4tsdatengesetz"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Schaeffler m\u00f6chte Wegbereiter bei dieser Zukunftstechnologie sein, aber die Kosten sind enorm hoch. Die bisherigen ver\u00f6ffentlichten F\u00f6rderprojekte reichen nicht aus, um die Technologie auf die Stra\u00dfe zu bringen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_AUTOMOBILE",
+                        "de": "Automobilwirtschaft",
+                        "en": "Automotive industry"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/brd/2021/0155-21.pdf",
+                        "issuer": "BR",
+                        "leadingMinistries": [],
+                        "printingNumber": "155/21",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-%C3%A4nderung-des-stra%C3%9Fenverkehrsgesetzes-und-des-pflichtversicherungsgesetzes-gesetz-zum/273887",
+                        "title": "Entwurf eines Gesetzes zur \u00c4nderung des Stra\u00dfenverkehrsgesetzes und des Pflichtversicherungsgesetzes - Gesetz zum autonomen Fahren"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0008235",
+                "statements": [],
+                "title": "autonomes Fahren"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

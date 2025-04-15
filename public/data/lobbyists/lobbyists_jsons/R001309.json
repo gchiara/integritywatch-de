@@ -1,0 +1,675 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-12-09T11:14:17.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-24T14:12:27.000+01:00",
+        "lastUpdateDate": "2024-06-30T19:58:26.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 40154,
+                "validFromDate": "2024-06-30T19:58:26.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 35047,
+                "validFromDate": "2024-05-31T13:23:42.000+02:00",
+                "validUntilDate": "2024-06-30T19:58:26.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25228,
+                "validFromDate": "2023-08-28T13:23:54.000+02:00",
+                "validUntilDate": "2024-05-31T13:23:42.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25227,
+                "validFromDate": "2023-08-28T13:22:18.000+02:00",
+                "validUntilDate": "2023-08-28T13:23:54.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 24122,
+                "validFromDate": "2023-07-20T09:01:27.000+02:00",
+                "validUntilDate": "2023-08-28T13:22:18.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 10653,
+                "validFromDate": "2022-12-09T11:14:17.000+01:00",
+                "validUntilDate": "2023-07-20T09:01:27.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Der Klimawandel ist die gr\u00f6\u00dfte Gesundheitsbedrohung des 21. Jahrhunderts. Mit der Stiftung Gesunde Erde - Gesunde Menschen (GEGM) vermitteln wir die Bedeutung des Klimawandels f\u00fcr unsere Gesundheit und setzen uns in der Interessenvertretung f\u00fcr die Gesundheit und das Wohlergehen der Menschen, Natur und Tiere innerhalb der planetaren Grenzen ein.\r\n\r\nWir st\u00e4rken die gesellschaftliche Basis f\u00fcr Klimaschutz, Mensch und Tier und die Bewahrung einer gesunden Erde. Wir machen den Zusammenhang zwischen Umwelt und Gesundheit, Klimaschutz und Gesundheitsschutz m\u00f6glichst vielen Menschen bewusst - mit der n\u00f6tigen Dringlichkeit, aber vor allem zukunftsorientiert und positiv. Wir kommunizieren und wir helfen beim Kommunizieren, wir bringen Menschen zusammen, die etwas bewegen k\u00f6nnen: Gesundheitsberufe und Studierende, Stifter:innen, Aktivist:innen, Netzwerke, Politiker:innen, Prominente.\r\n\r\nDurch das direkte Anschreiben von Politiker:innen im Bundestag und Mitarbeiter:innen ausgew\u00e4hlter Bundesministerien, dem Verfassen und Verschicken von Positionspapieren sowie dem Organisieren und der Teilnahme an Veranstaltungen sowie politischen Konsultations- und Beteiligungsprozessen setzen wir unsere Interessenvertretung f\u00fcr planetare Gesundheit um. Dar\u00fcber hinaus f\u00fchren wir bilaterale Gespr\u00e4che mit einzelnen Vertreter:innen aus dem Bundestag und ausgew\u00e4hlten Bundesministerien.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_OTHER",
+                "de": "Sonstiges im Bereich \"Verkehr\"",
+                "en": "Other in the field of \"Transportation\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_AF_AQUACULTURE",
+                "de": "Fischerei/Aquakultur",
+                "en": "Fishery/aquaculture"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/8f/36/327326/GEGM_JA-2023-Veroeffentlichung-im-Unternehmensregister.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "F\u00f6rderung f\u00fcr das Projekt \"Klimabezogener Gesundheitsdiskurs zur St\u00e4rkung der Bedeutung des Klimaschutzes im \u00f6ffentlichen und politischen Gesundheitsdiskurs\"",
+                "donationEuro": {
+                    "from": 410001,
+                    "to": 420000
+                },
+                "name": "Stiftung Mercator GmbH"
+            },
+            {
+                "description": "F\u00f6rderung f\u00fcr das Projekt \"Genug, gesund, global gerecht. Gesundes Essen gibt es nur einer gesunden Erde\" f\u00fcr mehr Klimagerechtigkeit und Klimafinanzierung weltweit.",
+                "donationEuro": {
+                    "from": 230001,
+                    "to": 240000
+                },
+                "name": "Bill & Melinda Gates Foundation"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 1190001,
+            "to": 1200000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.4,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 50001,
+            "to": 60000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "c/o Publix gGmbH",
+            "street": "Hermanstra\u00dfe",
+            "streetNumber": "90",
+            "type": "NATIONAL",
+            "zipCode": "12051"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "kontakt@stiftung-gegm.de"
+                }
+            ],
+            "phoneNumber": "+493020671146",
+            "websites": [
+                {
+                    "website": "https://stiftung-gegm.de/"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Dr. med.",
+                "firstName": "Eckart",
+                "lastName": "von Hirschhausen",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Kerstin",
+                "lastName": "Blum",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Donald",
+                "lastName": "Sandmann",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Dr. med.",
+                "entrustedPerson": true,
+                "firstName": "Eckart",
+                "function": "Gesch\u00e4ftsf\u00fchrender Gesellschafter",
+                "lastName": "von Hirschhausen",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Kerstin",
+                "function": "Gesch\u00e4ftsf\u00fchrerin",
+                "lastName": "Blum",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Klima-Allianz Deutschland e. V."
+            },
+            {
+                "membership": "Global Climate and Health Alliance"
+            },
+            {
+                "membership": "Deutsche Allianz Klimawandel und Gesundheit e.V."
+            },
+            {
+                "membership": "Planetary Health Alliance"
+            },
+            {
+                "membership": "Global Health Hub Germany"
+            },
+            {
+                "membership": "F20 Foundations Platform"
+            },
+            {
+                "membership": "Green Legal Impact Germany"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Stiftung Gesunde Erde Gesunde Menschen gGmbH"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001309/40154",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-30T19:58:26.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/af/be/327331/Lobbyregister-Detailansicht-R001309-2024-06-30_19-58-26.pdf",
+        "validFromDate": "2024-06-30T19:58:26.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 40154,
+    "registerNumber": "R001309",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Das globale Agrar- und Ern\u00e4hrungssystem ist ungerecht und ungesund f\u00fcr Menschen und den Planeten. GEGM setzt sich daf\u00fcr ein, dass die Bundesregierung Ma\u00dfnahmen umsetzt, um eine nachhaltige, gerechte und gesunde Transformation des globalen Agrar- und Ern\u00e4hrungssystem zu gew\u00e4hrleisten.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_DEVELOPMENT_POLICY",
+                        "de": "Entwicklungspolitik",
+                        "en": "Development policy"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    },
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_OTHER",
+                        "de": "Sonstiges im Bereich \"Gesundheit\"",
+                        "en": "Other in the field of \"Health\""
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SPECIES",
+                        "de": "Artenschutz/Biodiversit\u00e4t",
+                        "en": "Species protection/biodiversity"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_OTHER",
+                        "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                        "en": "Other in the field of \"Agriculture and food\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010616",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d3/21/327327/Stellungnahme-Gutachten-SG2406280181.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_AA",
+                                        "de": "Ausw\u00e4rtiges Amt (AA)",
+                                        "en": "Ausw\u00e4rtiges Amt (AA)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                        "de": "Bundeskanzleramt (BKAmt)",
+                                        "en": "Bundeskanzleramt (BKAmt)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                        "de": "Bundesministerium der Finanzen (BMF)",
+                                        "en": "Bundesministerium der Finanzen (BMF)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                        "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                        "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                        "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                        "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMZ",
+                                        "de": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                                        "en": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-08"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0010616",
+                        "regulatoryProjectTitle": "Transformation des globalen Agrar- und Ern\u00e4hrungssystem",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Positionspapier\r\nGenug, gesund, global gerecht.\r\nGesundes Essen gibt es nur auf einer gesunden Erde\r\n\r\nSchon heute wird genug Nahrung produziert, um die gesamte Weltbev\u00f6lkerung zu ern\u00e4hren. Trotzdem ist die Zahl der hungernden Menschen zwischen 2017 und 2022 insbesondere in \u00e4rmeren L\u00e4ndern von 572 auf 735 Millionen Menschen gestiegen.  Auch wo Nahrung im \u00dcberfluss vorhanden ist, bedeutet das nicht automatisch Gesundheit: Weltweit leiden immer mehr Menschen an ern\u00e4hrungsassoziierten Krankheiten aufgrund von Fehlern\u00e4hrung. So haben in Deutschland mittlerweile 8,7 Millionen Menschen Typ-2-Diabetes  und 17 Millionen Menschen sind adip\u00f6s . Wie wir uns ern\u00e4hren und wie unsere Lebensmittel produziert werden, ist aber nicht nur ungesund f\u00fcr uns, sondern auch den Planeten. Das globale Agrar- und Ern\u00e4hrungssystem verursacht bis zu einem Drittel der globalen Treibhausgasemissionen und ist Haupttreiber des Biodiversit\u00e4tsverlusts.  Landwirt:innen sp\u00fcren die Folgen schon jetzt \u2013 Hitzewellen, D\u00fcrren und Starkregen bedrohen ihre Lebensgrundlagen in Deutschland, aber vor allem in einkommensschwachen L\u00e4ndern des Globalen S\u00fcdens.\r\n\r\nDie Zusammenh\u00e4nge dieses globalen Agrar- und Ern\u00e4hrungssystems sind komplex, eine Schlussfolgerung ist jedoch einfach: Dieses System ist ungesund und ungerecht f\u00fcr uns Menschen und die Erde. Am st\u00e4rksten betroffen sind wie so h\u00e4ufig die verletzlichsten Mitglieder der Weltgemeinschaft \u2013 Frauen, Kinder, \u00e4rmere Menschen und kleine Betriebe. Eine Transformation ist dringend notwendig. Das wird nicht einfach, birgt aber enormes Potential f\u00fcr wirtschaftliche und politische Stabilit\u00e4t, Sicherheit und bessere Gesundheit f\u00fcr Mensch und Erde. Entscheidend ist die partnerschaftliche Zusammenarbeit aller Akteur:innen auf Augenh\u00f6he, um Gerechtigkeit auf allen Ebenen zu gew\u00e4hrleisten. Die Bundesregierung muss daf\u00fcr die politischen Rahmenbedingungen schaffen. In Deutschland braucht es eine planbare, sozial gerechte sowie \u00f6konomisch und \u00f6kologisch nachhaltige Transformation der Landwirtschaft und eine gesunde Ern\u00e4hrungsumgebung. Aber auch international muss Deutschland als wirksamer Akteur in der internationalen Agrar- und Ern\u00e4hrungspolitik aktiv werden. Ein Gro\u00dfteil der Produkte, die in unseren Supermarktregalen stehen, kommt nicht von hier, sondern h\u00e4ufig aus besonders klimavulnerablen Regionen. Gerade die \u00e4rmsten L\u00e4nder sind besonders stark vom Klimawandel betroffen, obwohl ihr Beitrag zu dieser Krise am kleinsten ist. Diese L\u00e4nder gilt es bei der Anpassung zu einer klimaresilienten Landwirtschaft besonders zu unterst\u00fctzen. Denn wie wir in der Pandemie gelernt haben: Gesundheit ist ansteckend. Und \u201eglobal\u201c bedeutet immer auch hier.\r\n\r\nMit diesem Positionspapier wollen wir \u00fcber den Tellerrand blicken und Vorschl\u00e4ge aufzeigen, wie die Bundesregierung ihren Beitrag f\u00fcr gesunde Ern\u00e4hrung auf einer gesunden Erde leisten kann. Denn 2024 wird Agrar- und Ern\u00e4hrungspolitik weltweit eine gro\u00dfe Rolle spielen. In Deutschland bestimmen Bauernproteste die Agenda und werden in drei Landtagswahlen und der Europawahl zentrale Themen sein. Global werden Ern\u00e4hrungssicherheit und -souver\u00e4nit\u00e4t sowie Finanzierungsfragen bei der COP29 in Baku, der G20 in Brasilien und der G7 in Italien zentrale Fragestellungen sein. Die Bundesregierung muss zeigen, dass sie eine gesunde und nachhaltige Transformation in Deutschland ansto\u00dfen kann und gewillt ist, ihrer Verantwortung nachzukommen und \u00e4rmere L\u00e4nder bei der Transformation zu unterst\u00fctzen. \u2003\r\n\r\n\r\nDas Wichtigste vorweg\r\n\r\nEins ist klar: Eine gerechte und gesunde Transformation des Agrar- und Ern\u00e4hrungssystems erfordert globale Anstrengungen aller Beteiligten \u2013 von der Konsumentin, \u00fcber den Landwirt, bis zum Lebensmitteleinzelhandel und gro\u00dfen Agrarkonzernen. Die Bundesregierung hat die besondere Verantwortung, f\u00f6rderliche Rahmenbedingungen zu schaffen. Folgend einige wichtige Ma\u00dfnahmen:\r\n\r\nDas Fundament: Biosph\u00e4re & Klima\r\n1. Landwirtschaft \u00f6kologisch & \u00f6konomisch transformieren, d.h. in Deutschland die Empfehlungen der Zukunftskommission Landwirtschaft umsetzen und global nachhaltige Landwirtschaft f\u00f6rdern.\r\n2. Landwirtschaft anpassen, d.h. Anbausysteme diversifizieren, klimaresistente Pflanzenarten f\u00f6rdern und Klimafinanzierung anheben sowie die Anpassungsfinanzierung bis 2025 verdoppeln.\r\n3. Nachhaltige Landnutzung f\u00f6rdern, d.h. nachhaltige Raum- und Landschaftsplanung zum Kern der Agrarpolitik in Deutschland und weltweit machen.\r\n4. Tierhaltung reformieren, d.h. die Empfehlungen des Kompetenznetzwerks Nutztierhaltung umsetzen und Finanzierungsl\u00f6sungen f\u00fcr die Transformation von tierhaltenden Betrieben finden.\r\n5. Fischerei & Aquakulturen \u00f6kologisch regionalisieren, d.h. \u00f6kosystemgerechte Fangmethoden umsetzen, Fangverbote durchsetzen und lokale fischverarbeitende Betriebe f\u00f6rdern.\r\n\r\nDer soziale Zusammenhalt: Gesellschaft & Menschen\r\n1. Ern\u00e4hrungsstrategie konsequent umsetzen und ausbauen, d.h. konkrete Ma\u00dfnahmen, Zielvorgaben und Finanzierungsm\u00f6glichkeiten entwickeln.\r\n2. (Klima-)gesunde Gemeinschafts- & Au\u00dfer-Haus-Verpflegung etablieren, mit Fokus auf regionale, \u00f6kologisch nachhaltigere Produkte und sozialvertr\u00e4gliche Preise.\r\n3. Mehr Bildung f\u00fcr (klima-)gesunde Ern\u00e4hrung erm\u00f6glichen, d.h. mehr Wissen \u00fcber gesunde und nachhaltige Ern\u00e4hrung sowie nachhaltige \u00f6kologische Landwirtschaft f\u00f6rdern. \r\n4. Ungesunde Werbung regulieren, d.h. Werbema\u00dfnahmen f\u00fcr ungesunde und umweltsch\u00e4digende Lebensmittel, insbesondere jene, die sich an Kinder richten, einschr\u00e4nken.\r\n5. Forschung & Innovation f\u00f6rdern, insbesondere f\u00fcr nachhaltige Nahrungsmittelproduktion und Landbewirtschaftung, alternative Proteine, Resilienz von proteinhaltigen Pflanzen und Digitalisierung der Landwirtschaft. Technologietransfer an den globalen S\u00fcden ist entscheidend.\r\n6. Multilateralismus f\u00fcr Ern\u00e4hrungssicherheit & -souver\u00e4nit\u00e4t st\u00e4rken, d.h. resiliente Landwirtschaft in internationalen Organisationen wie FAO, WFP, IFAD und den UN-Klimaverhandlungen f\u00f6rdern.\r\n7. Konfliktpr\u00e4vention ins Zentrum stellen und Etats f\u00fcr Entwicklungszusammenarbeit und humanit\u00e4re Hilfe nicht weiter k\u00fcrzen. \r\n\r\nDie wirtschaftliche Teilhabe: \u00d6konomie & Konsum\r\n1. Regionale Betriebe f\u00f6rdern, d.h. Interessen von kleinen Betrieben gegen\u00fcber Lebensmittel- und Agrarkonzernen st\u00e4rken, Importabh\u00e4ngigkeiten abbauen und lokale Ern\u00e4hrungssicherheit f\u00f6rdern.\r\n2. Faire L\u00f6hne & Preise f\u00fcr Landwirt:innen schaffen, d.h. auf faire Erzeugerpreise und existenzsichernde L\u00f6hne in der Landwirtschaft in Deutschland als auch global fokussieren. \r\n3. Besteuerung klug umstrukturieren, unter anderem die Mehrwertsteuer auf gesunde und nachhaltige Lebensmittel wie Obst, Gem\u00fcse oder H\u00fclsenfr\u00fcchte dauerhaft senken.\r\n4. GAP & Agrarsubventionen am Gemeinwohl orientieren, d.h. landwirtschaftliche Produktion am Gemeinwohl und Umweltschutz orientieren und daf\u00fcr fair entlohnen.\u2003\r\nInhalt\r\n\r\n\r\nUnsere Vision: Genug, gesund, global gerecht\r\n\r\nWir fordern ein gerechtes Agrar- und Ern\u00e4hrungssystem f\u00fcr gesunde Menschen auf einem gesunden Planeten. Dieses System muss ausreichend nahrhafte Lebensmittel f\u00fcr alle bereitstellen, ohne die wirtschaftlichen, sozialen und \u00f6kologischen Grundlagen f\u00fcr die Ern\u00e4hrungssicherheit und -souver\u00e4nit\u00e4t jetziger und k\u00fcnftiger Generationen zu gef\u00e4hrden. Das Agrar- und Ern\u00e4hrungssystem umfasst dabei das gesamte Spektrum der Akteur:innen und ihrer miteinander verkn\u00fcpften wertsch\u00f6pfenden Aktivit\u00e4ten, die an der Produktion, der Ansammlung, Verarbeitung, dem Handel, Konsum und der Entsorgung von Lebensmitteln beteiligt sind, sowie Teile des wirtschaftlichen, gesellschaftlichen und nat\u00fcrlichen Umfelds, in das sie eingebettet sind. Dieses System besteht aus Teilsystemen (z. B. in der Landwirtschaft, Abfallwirtschaft usw.) und interagiert mit anderen Systemen (z. B. Energiesysteme, Handelssysteme, Gesundheitssysteme usw.). \r\n\r\nEin gerechtes und gesundes Agrar- und Ern\u00e4hrungssystem muss folgende Funktionen erf\u00fcllen:\r\n\r\n1. Biosph\u00e4re & Klima: Es bewahrt und unterst\u00fctzt die biologische Vielfalt, das Wohlergehen der Tiere und den Klimaschutz, denn es ist von intakten \u00d6kosystemen und stabilen klimatischen Bedingungen abh\u00e4ngig. Dar\u00fcber hinaus tr\u00e4gt es aktiv dazu bei, \u00d6kosysteme wieder herzustellen und zu sch\u00fctzen. Es nutzt nat\u00fcrliche Ressourcen schonend und produziert im Einklang mit den Grenzen unseres Planeten. Gleichzeitig verf\u00fcgt es \u00fcber ein hohes Ma\u00df an Resilienz gegen\u00fcber sich rasant ver\u00e4ndernden klimatischen Bedingungen.\r\n\r\n2. Gesellschaft & Menschen: Es gew\u00e4hrleistet weltweit den Zugang zu genug nahrhaften Lebensmitteln f\u00fcr alle. Es f\u00f6rdert eine Ern\u00e4hrungsumgebung, die gesundheitsf\u00f6rdernd und umweltschonend ist, und leistet einen Beitrag zur Reduzierung von Armut und Konflikten. Es ermutigt und bef\u00e4higt Menschen dazu, sich gesund und nachhaltig zu ern\u00e4hren. Durch Bildung und Forschung werden wichtige Informationen und Innovationen erarbeitet, um das System nachhaltiger zu machen. Nur eine ausreichend gesund ern\u00e4hrte und ausgebildete Gesellschaft kann die Transformation des Agrar- und Ern\u00e4hrungssystems stemmen.\r\n\r\n3. \u00d6konomie & Konsum: Es f\u00f6rdert attraktive, sichere und faire Arbeitsbedingungen f\u00fcr alle Besch\u00e4ftigten, speziell f\u00fcr kleinere landwirtschaftliche Betriebe. Landwirt:innen erfahren insgesamt mehr finanzielle und gesellschaftliche Wertsch\u00e4tzung. Umweltkosten werden internalisiert, w\u00e4hrend positive \u00f6kologische Beitr\u00e4ge der Landwirtschaft entsprechend gew\u00fcrdigt werden. Gleichzeitig werden die erh\u00f6hten Aufwendungen f\u00fcr eine gesunde und nachhaltige Ern\u00e4hrung durch soziale Ausgleichsmechanismen abgemildert.\r\n\r\nIm Einklang mit der Agenda 2030 und der Integration der 17 Ziele f\u00fcr nachhaltige Entwicklung (SDGs) erfordert diese Vision eine ganzheitliche Betrachtungsweise. Eine effektive Umsetzung erfordert kooperative Anstrengungen, die Akteur:innen aus der Politik, Wirtschaft, Zivilgesellschaft und Wissenschaft einbezieht. Die Bundesregierung ist gefordert, eine Vielzahl von Ma\u00dfnahmen (Subventionen, Steuerpolitik und regulative Vorgaben), Politikbereiche (Landwirtschaft, Ern\u00e4hrung, Umwelt, Bildung oder Entwicklung) sowie Verwaltungsebenen (lokal, regional, national und international) miteinander zu verzahnen.\r\n\r\nWie im SDGs Report 2023 der Vereinten Nationen hervorgehoben, ist es neben der Beachtung der Wechselwirkungen zwischen den SDGs essenziell, alle Dimensionen von Gerechtigkeit, inklusive Verteilungs-, Verfahrens- und intergenerationelle Gerechtigkeit, intensiver zu verfolgen. Ein Schwerpunkt muss auf der F\u00f6rderung von Geschlechtergerechtigkeit liegen, da Frauen und M\u00e4dchen besonders stark von Diskriminierung und klimabedingten Extremwetterereignissen betroffen sind. Weltweit sind mehr als 40 Prozent der Arbeitskr\u00e4fte in der Landwirtschaft weiblich.  Es gibt jedoch gro\u00dfe regionale Unterschiede, gerade in einkommensschwachen L\u00e4ndern ist der Anteil h\u00e4ufig gr\u00f6\u00dfer und weniger formalisiert. Gleichzeitig haben Frauen schlechteren Zugang zu Land, landwirtschaftlichen Betriebsmitteln, Bildung, Krediten und eine weitaus geringere Entlohnung. Bei der Entwicklung und Umsetzung von politischen Ma\u00dfnahmen ist daher sicherzustellen, dass die Ma\u00dfnahmen sowohl effektiv zur Reduzierung von Geschlechterungleichheiten beitragen als auch die Resilienz von Frauen gegen\u00fcber klimatischen und \u00f6konomischen Krisen st\u00e4rken.\r\n\r\nAber auch Gerechtigkeit zwischen dem Globalen Norden und dem Globalen S\u00fcden muss ein zentrales Ziel sein. Menschen des Globalen Nordens belasten mit ihrer Ern\u00e4hrung den Planeten deutlich st\u00e4rker als die des Globalen S\u00fcdens und sind zugleich weniger stark von den \u00f6kologischen Folgen betroffen. L\u00e4nder wie Deutschland m\u00fcssen f\u00fcr die von ihnen verursachten Umweltsch\u00e4den aufkommen. Einerseits m\u00fcssen sie bei der Reduktion von Treibhausgasen politisch und finanziell unterst\u00fctzen, andererseits bei der Anpassung an ver\u00e4nderte klimatische Bedingungen und bei Bew\u00e4ltigung von Sch\u00e4den und Verlusten. Der 2023 initiierte Loss & Damage Fund ist ein gutes Signal, wobei die bisher zugesagte Finanzierung nicht ansatzweise dem Bedarf entspricht. \u00c4hnlich ist es bei der Finanzierung von Klimaanpassung: Laut UNEP ist die Finanzierungsl\u00fccke inzwischen auf 194 bis 366 Milliarden US-Dollar pro Jahr gewachsen. Der Agrarsektor ist dabei neben Wasser und Infrastruktur in den meisten Entwicklungsl\u00e4ndern ein vorrangiger Sektor f\u00fcr die im Rahmen der Nationalen Klimabeitr\u00e4ge (NDCs) oder Nationalen Anpassungspl\u00e4ne (NAPs) angek\u00fcndigten Finanzierungsbedarfe. \r\n\r\nUm die Vision von genug, gesund und global gerechter Ern\u00e4hrung f\u00fcr alle zu erreichen, braucht es also eine ganzheitliche Betrachtung der politischen Ma\u00dfnahmen und eine kooperative Zusammenarbeit aller Beteiligten, bei der alle Gerechtigkeitsdimensionen beachtet werden.\r\n\r\n\r\nVerantwortung und Rolle Deutschlands\r\n\r\nReiche L\u00e4nder wie Deutschland tragen eine besondere Verantwortung, gerechtere Agrar- und Ern\u00e4hrungssysteme zu f\u00f6rdern: Sie sind Hauptverursacher der globalen Erw\u00e4rmung und des Verlusts an Biodiversit\u00e4t und dominieren die weltweiten Produktions- und Konsummuster. Was in diesen L\u00e4ndern gegessen wird und in den K\u00fchlregalen ausliegt, bestimmt ma\u00dfgeblich globale Produktion von Lebensmitteln. Als Verfechter der internationalen, regelbasierten Ordnung und Zusammenarbeit, der Menschenrechte, als gro\u00dfe Exportnation und weltweit hochangesehener Handelspartner mit einer historischen Verantwortung muss Deutschland eine Schl\u00fcsselrolle bei der Transformation einnehmen.\r\nIm Koalitionsvertrag der Ampelkoalition werden Multilateralismus und internationale Zusammenarbeit als entscheidende Hebel identifiziert, um globale Krisen zu bew\u00e4ltigen. Das ist gut so. In der Zusammenarbeit mit vorrangig einkommensschwachen L\u00e4ndern engagiert sich Deutschland schon lange in Initiativen zur St\u00e4rkung der Ern\u00e4hrungssicherheit. Diese Partnerschaften erm\u00f6glichen den Austausch und die Optimierung von technischem Fachwissen, finanziellen Mitteln und Erfahrungen im Bereich gerechter und nachhaltiger Agrar- und Ern\u00e4hrungssysteme. Dar\u00fcber hinaus hat die Bundesregierung w\u00e4hrend der deutschen G7-Pr\u00e4sidentschaft mit der Global Alliance for Food Security ein wichtiges B\u00fcndnis geschaffen, um auf immer akutere Hungerskrisen zu reagieren. Zudem kann Deutschland seine Position in zwischenstaatlichen Zusammenschl\u00fcssen wie den Vereinten Nationen, der EU und anderen multilateralen Einrichtungen nutzen, um ein gerechteres Agrar- und Ern\u00e4hrungssystem auf der globalen Agenda zu verankern. Die Bundesregierung ist nach eigenen Angaben seit 2016 der zweitgr\u00f6\u00dfte Geldgelber f\u00fcr das Weltern\u00e4hrungsprogramm WFP und der viertgr\u00f6\u00dfte Geldgeber f\u00fcr die Ern\u00e4hrungs- und Landwirtschaftsorganisation FAO.  Auch im internationalen Klimaschutz werden wichtige Weichen f\u00fcr eine nachhaltige Transformation der Landwirtschaft in \u00e4rmeren L\u00e4ndern gesetzt. \r\n\r\nEntscheidend ist vor allem die Bereitstellung von ausreichend Finanzierung von Ma\u00dfnahmen, die die Resilienz der landwirtschaftlichen Produktion st\u00e4rken. Reiche Industriestaaten haben sich bereits 2009 dazu verpflichtet, ab 2020 j\u00e4hrlich 100 Mrd. US-Dollar f\u00fcr internationale Klimafinanzierung zu mobilisieren. Dieses Ziel wurde sowohl 2020 als auch 2021 verfehlt.  F\u00fcr 2022 und 2023 sieht es so aus, als ob das Ziel erf\u00fcllt wurde. Dieses Jahr muss bei der COP29 in Baku einen neues Finanzierungsziel f\u00fcr den Zeitraum ab 2025 festgelegt werden. Die Bundesregierung hat bereits 2021 w\u00e4hrend des G7-Gipfels in Cornwall zugesagt, ab 2025 j\u00e4hrlich sechs Milliarden Euro bereitzustellen. Nach eigenen Angaben hat Deutschland dieses Ziel 2022 mit 6,39 Milliarden Euro an Haushaltsmitteln (und Schenkungs\u00e4quivalenten von Darlehen) erf\u00fcllt.   2023 wird dieses Ziel vermutlich direkt wieder verfehlt. Aufgrund der schwierigen Haushaltslage zeichnet sich nun auch immer deutlicher ab, dass die Bundesregierung bei ihren internationalen Verpflichtungen drastische Einsparungen vornehmen wird. Schon im Haushalt f\u00fcr 2024 wurde der f\u00fcr internationale Agrar- und Ern\u00e4hrungspolitik entscheidende Etat des Bundesministeriums f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung um fast 10 Prozent gek\u00fcrzt, bei humanit\u00e4rer Hilfe waren es sogar knapp 20 Prozent. Bei der Aufstellung des Haushalts f\u00fcr 2025 drohen noch umfassendere K\u00fcrzungen. All das gef\u00e4hrdet Deutschlands internationales Ansehen und Glaubw\u00fcrdigkeit als Verfechter des Multilateralismus. Es widerspricht den Zusagen und dem Selbstverst\u00e4ndnis der Bundesregierung. Und es untergr\u00e4bt die Politik f\u00fcr gerechtere und gesunde Agrar- und Ern\u00e4hrungssysteme weltweit, von denen auch Deutschland profitieren w\u00fcrde.  \r\n\r\nDoch nicht nur international braucht es weiterhin politischen Einsatz. Auch in Deutschland ist eine planbare, sozial gerechte sowie \u00f6konomisch und \u00f6kologisch nachhaltige Transformation der Landwirtschaft und Ern\u00e4hrungsumgebung schon lange auf der Agenda und wird wie zuletzt bei den Bauernprotesten vehement von Landwirt:innen und der Bev\u00f6lkerung eingefordert. Landwirt:innen haben viele berechtigte Sorgen \u2013 ihre schlechte Marktposition in den Vertriebsketten, niedrige Erzeugerpreise, hoher b\u00fcrokratischer Aufband und nat\u00fcrlich immer extremere Wetterbedingungen aufgrund des Klimawandels, die die schon jetzt geringe Planungssicherheit weiter verschlechtert. Schon die letzte Bundesregierung hat den politischen Handlungsbedarf erkannt, 2019 das Kompetenznetzwerk Nutztierhaltung einberufen und 2020 die Zukunftskommission Landwirtschaft. Beide Kommissionen waren besetzt mit Vertreter:innen aller wichtigen Akteur:innen aus der \u00f6kologischen und konventionellen Landwirtschaft, Wirtschaft, Umwelt-, Natur-, Tier- und Verbraucherschutz sowie der Wissenschaft. Die umfassenden Abschlussberichte und Handlungsempfehlungen wurden jedoch bis heute nicht umfassend umgesetzt. Das ist eine vertane Chance, da selten so gro\u00dfer Konsens unter heterogenen Interessensgruppen bei konkreten agrarpolitischen L\u00f6sungsvorschl\u00e4gen herrschte. \u00c4hnlich wie bei den internationalen Verpflichtungen Deutschlands scheitert es auch in Deutschland prim\u00e4r an der politischen Bereitschaft, die notwendigen finanziellen Mittel bereitzustellen. Die Bundesregierung muss erkennen, dass diese Ausgaben eine Zukunftsinvestition sind \u2013 eine Investition in Gesundheit und Wohlergehen.\r\n\r\n\r\nWas haben wir also zu gewinnen?\r\n\r\nIn aller K\u00fcrze: Genug, gesund, global gerechte Ern\u00e4hrung f\u00fcr alle auf einem gesunden Planeten. Ein nachhaltigeres und gerechteres Agrar- und Ern\u00e4hrungssystem hat ein gesamtgesellschaftliches Potential. Es kann dazu beitragen, dass nicht nur die Menschen ges\u00fcnder werden, sondern auch landwirtschaftliche Betriebe, und zwar wirtschaftlich und \u00f6kologisch. \u00dcberall auf der Welt kann eine ressourcenschonende, resilientere Agrarproduktion die Gesundheit der Tiere sowie die Qualit\u00e4t des Wassers, der B\u00f6den, Luft und \u00d6kosysteme verbessern und dabei besser mit klimabedingten Extremwetterereignissen umgehen.\r\n\r\nEine resilientere landwirtschaftliche Produktion kann gerade bei der F\u00f6rderung wirtschaftlicher Stabilit\u00e4t eine wichtige Rolle spielen. Mehr als 50 Prozent der Arbeitskr\u00e4fte in einkommensschwachen L\u00e4ndern arbeiten in der landwirtschaftlichen Produktion, insbesondere in kleinb\u00e4uerlichen Betrieben.  Viele dieser Familien leben in extremer Armut oder sind akut von Armut bedroht. Schocks durch klimabedingte Extremwettereignisse haben f\u00fcr sie oft eine verheerende \u00f6konomische und soziale Wirkung. Eine angepasste, klimaresilientere Landwirtschaft kann die Lebensgrundlage und Perspektiven von Millionen von Familien in ihrer Heimat stabilisieren. Die von der niederl\u00e4ndischen Regierung einberufenen Global Commission on Adaptation ermittelte beispielsweise, dass die Gesamtrendite von Investitionen in Anpassungsma\u00dfnahmen extrem hoch ist \u2013 jeder investierte US-Dollar kann zwischen zwei bis zehn US-Dollar Rendite erbringen.  Diese Investitionen sind keine Einbahnstra\u00dfe, Deutschland profitiert ebenfalls. Durch den Aufbau stabilerer Partnerl\u00e4nder werden gleichzeitig auch die eigenen wirtschaftlichen und sicherheitspolitischen Interessen gest\u00e4rkt. Gerade die Landwirtschaft spielt hierbei eine wichtige Rolle als einer der bedeutendsten Wirtschaftszweige in vielen einkommensschwachen L\u00e4ndern. Dar\u00fcber hinaus ist es in der aktuellen geopolitischen Lage und f\u00fcr Exportnationen dringend notwendig und ein Kernanliegen, gute Beziehungen zu Entwicklungsl\u00e4ndern in aufstrebenden Regionen der Welt aufrechtzuerhalten. Gerade weil andere Staaten wie China und Russland ihren Einfluss in vielen dieser L\u00e4nder weiter ausbauen.\r\n\r\nDar\u00fcber hinaus st\u00e4rkt eine regionalisierte F\u00f6rderung nachhaltiger landwirtschaftlicher Produktion und klimaresilienter Landwirtschaft nicht nur Ern\u00e4hrungssicherheit und -souver\u00e4nit\u00e4t vor Ort, sondern reduziert auch das Risiko von Versorgungsl\u00fccken und Preisschwankungen auf internationaler Ebene. Aktuell liefern zehn Nutzpflanzen 83 Prozent der weltweiten Nahrungsmittelkalorien und beanspruchen 63 Prozent der globalen Anbaufl\u00e4che \u2013 jedoch werden davon nur 37 Prozent f\u00fcr den direkten menschlichen Verzehr beansprucht.  Der Gro\u00dfteil wird von einigen wenigen Staaten angebaut und in Futtermitteln, Biokraftstoffen, Textilien, Arzneimittel oder andere Produkte weiterverarbeitet. Wird die Produktion auf mehr Staaten verteilt und der Fokus st\u00e4rker auf den nachhaltigen Anbau und Verzehr von Agrarprodukten vor Ort gelegt, bringt das sowohl regionale als auch global positive Effekte mit sich.\r\n\r\nAuch in Deutschland kann ein gerechteres Agrar- und Ern\u00e4hrungssystem das Gemeinwohl verbessern und dabei die Gesundheit von Mensch, Natur und Tieren sch\u00fctzen. So liegt die mittlere Artenzahl von Ackerwildkr\u00e4utern bei \u00f6kologischer Landwirtschaft um 95 Prozent h\u00f6her als bei konventioneller, es finden sich dort 35 Prozent mehr Feldvogelarten und 23 Prozent mehr bl\u00fctenbesuchende Insekten.  Durch eine ressourcen- und umweltschonendere Landwirtschaft mit geringerem Einsatz von D\u00fcngemitteln und Pestiziden werden zudem Oberfl\u00e4chengew\u00e4sser und Grundwasser geschont. Das ist gerade in Deutschland wichtig, denn im Mittel liegt der bilanzierte Stickstoff\u00fcberschuss hier bei mehr als 80 Kilogramm pro Hektar pro Jahr \u2013 der Zielwert der Deutschen Nachhaltigkeitsstrategie liegt bei maximal 70 Kilogramm.  Der Schutz unserer B\u00f6den, dem Wasser und der biologischen Vielfalt sind ein gro\u00dfer Mehrwert an sich, ihre Funktionsf\u00e4higkeit ist aber auch f\u00fcr die landwirtschaftliche Produktion selbst entscheidend \u2013bspw. f\u00fcr Best\u00e4ubung, Bodenfruchtbarkeit, Kontrolle von Schaderregern u.v.m.. \r\n\r\nAuch der monet\u00e4re Vorteil w\u00e4re immens. Es stimmt zwar, dass die Transformationskosten beachtlich sind, doch ist das Teuerste, was wir jetzt tun k\u00f6nnen, nichts. Eine Transformation des Agrar- und Ern\u00e4hrungssystems kostet laut der Food Systems Economics Commission sch\u00e4tzungsweise 0,2 bis 0,4 Prozent der weltweiten Wirtschaftsleistung pro Jahr, die globalen sozio\u00f6konomischen Gewinne belaufen sich hingegen auf 5 bis 10 Billionen US-Dollar pro Jahr.   In Deutschland verursacht das Agrar- und Ern\u00e4hrungssystem versteckte Kosten in H\u00f6he von mehr als 300 Milliarden US-Dollar \u2013 ca. 90 Prozent dieser Folgekosten beruhen auf einer ungesunden Ern\u00e4hrung mit zu vielen stark verarbeiteten Lebensmitteln, tierischen Produkten Fett und Zucker und den damit einhergehenden Erkrankungen und Produktivit\u00e4tsverlusten.  Eine ges\u00fcndere Ern\u00e4hrungsumgebung mit Fokus auf pflanzlichen und wenig verarbeiteten Produkten erm\u00f6glicht die Chance Leben zu retten, Gesundheit zu wahren, Milliarden an Folgekosten zu sparen und leistet dabei einen immensen Beitrag f\u00fcr den Schutz der Natur und \u00d6kosysteme. \r\n\r\nDie Situation der Landwirt:innen in Deutschland ist gepr\u00e4gt durch harte Arbeit, lange Tage, wenig Freizeit und geringe Gewinne. Viele erleben fehlende Wertsch\u00e4tzung f\u00fcr den gesellschaftlichen Beitrag, den sie leisten. Orientiert man die Subventionspolitik der Gemeinsamen Agrarpolitik (GAP) der Europ\u00e4ischen Union daran, was die Landwirtschaft f\u00fcr das Gemeinwohl tut, dann m\u00fcssen die bisher externalisierten Umweltkosten von Agrarproduktion eingepreist und der wichtige Beitrag von landwirtschaftlichen Betrieben zum Umweltschutz angemessen entlohnt werden. Das ist gut f\u00fcr unsere Gesundheit, den Planeten und ein gesellschaftliches sowie finanzielles Zeichen der Wertsch\u00e4tzung f\u00fcr unsere B\u00e4uer:innen.\r\n\r\nWir haben also alle sehr viel zu gewinnen \u2013 gesundheitlich, \u00f6kologisch und \u00f6konomisch. Das lohnt sich.\r\n\r\n\r\nUnsere Forderungen\r\n\r\nObwohl die Herausforderungen komplex, ressort\u00fcbergreifend und nur global mit allen Akteur:innen zu l\u00f6sen sind, gibt es einige Hebel, die der Bundesregierung zur Verf\u00fcgung stehen, um sowohl in Deutschland als auch international ihrer Verantwortung gerecht zu werden. In der Agrar-, Ern\u00e4hrungs-, Gesundheits-, Klima-, Entwicklungs-, Au\u00dfen- und Handelspolitik haben Expert:innen aus der Wissenschaft und Zivilgesellschaft die L\u00f6sungen bereits vorgelegt. Sie sind zentrale Schritte auf dem politischen Weg in ein gerechtes Agrar- und Ern\u00e4hrungssystem f\u00fcr gesunde Menschen auf einem gesunden Planeten.\r\n\r\n\r\nDas Fundament: Biosph\u00e4re & Klima\r\n\r\n1. Landwirtschaft \u00f6kologisch & \u00f6konomisch transformieren: Die Bundesregierung muss planbare Rahmenbedingungen f\u00fcr eine \u00f6kologisch und \u00f6konomisch nachhaltigere Landwirtschaft schaffen. Die Empfehlungen der Zukunftskommission Landwirtschaft stellen eine gute Grundlage dar, die mit klaren Zielvorgaben und Ma\u00dfnahmen umgesetzt werden m\u00fcssen. Zentral dabei sind biodiversit\u00e4tsf\u00f6rdernde Agrar\u00f6kosysteme sowie der attraktive Ausbau landwirtschaftlicher Treibhausgassenken, der nachhaltige Ausbau der Obst- und Gem\u00fcseproduktion sowie die F\u00f6rderung des Leguminosenanbaus, Umbau und Reduktion der Tierhaltung, Honorierung der gesellschaftlichen Umweltleistungen der Landwirtschaft, F\u00f6rderung einer extensiven bzw. n\u00e4hrstoff\u00e4rmeren Bewirtschaftung landwirtschaftlicher Fl\u00e4chen mit drastischer Steigerung der Stickstoffeffizienz.\r\n\r\n2. Landwirtschaft anpassen: Die Bundesregierung muss die Landwirtschaft bei der Anpassung an den Klimawandel unterst\u00fctzen \u2013 das gilt in Deutschland, aber insbesondere in einkommensschwachen L\u00e4ndern. Das beinhaltet die Diversifizierung der Anbausysteme und die F\u00f6rderung von Pflanzenarten, die an spezifische Standorte angepasst sind. Die Unterst\u00fctzung von Forschung und Entwicklung neuer Technologien sowie die Optimierung von Lagerhaltungsverfahren sind entscheidend, um auch die Bodengesundheit zu gew\u00e4hrleisten. Informationen, vorhandenes und neues Wissen m\u00fcssen im globalen Ma\u00dfstab ausgetauscht und der Zugang zu Beratungsleistungen gew\u00e4hrleistet werden. Lokale Bed\u00fcrfnisse und indigenes Wissen sind bei alledem von zentraler Bedeutung. Hinsichtlich der Finanzierung dieser Anpassungsma\u00dfnahmen muss Deutschland in der internationalen Klimafinanzierung 2024 eine f\u00fchrende Rolle einnehmen, um das 100-Milliarden-US-Dollar-Ziel zu erreichen und ab 2025 drastisch auszubauen, die Anpassungsfinanzierung bis 2025 zu verdoppeln und ein deutlich ambitioniertes Ziel f\u00fcr den Zeitraum ab 2025 zu entwickeln.\r\n\r\n3. Nachhaltige Landnutzung f\u00f6rdern: Die Bundesregierung muss nachhaltige Raum- und Landschaftsplanung zum Kern ihrer Agrarpolitik in Deutschland und weltweit machen. Dies sollte im Rahmen eines integrierten Landschaftsansatzes, wie im WBGU-Gutachten ausf\u00fchrlich vorgeschlagen, geschehen. Dies ist f\u00fcr bev\u00f6lkerungsreiche L\u00e4nder in Afrika, die sowohl hohe Nahrungsmittelbed\u00fcrfnisse haben als auch eine bedeutende Rolle im Artenschutz spielen, besonders wichtig. Nachhaltige Raum- und Landschaftsplanung beinhaltet den Erhalt und Ausbau naturnaher Mosaiklandschaften wie Agroforstwirtschaft sowie Land-Sharing-Ans\u00e4tze. Es geht darum, multifunktionale landwirtschaftliche Produktionssysteme zu f\u00f6rdern, gesunde B\u00f6den zu erhalten, degradierte B\u00f6den wiederherzustellen. Dar\u00fcber hinaus muss die Inwertsetzung l\u00e4ndlicher R\u00e4ume \u00fcber die landwirtschaftliche Produktion hinaus nachhaltig gestaltet werden. \r\n\r\n4. Tierhaltung reformieren: Die Bundesregierung muss die Forderungen des Kompetenznetzwerks Nutztierhaltung umsetzen. Bestehende Tierschutzgesetze m\u00fcssen eingehalten und mithilfe juristischer Sanktionen durchgesetzt werden. Dar\u00fcber hinaus m\u00fcssen nachhaltige Finanzierungsl\u00f6sungen f\u00fcr die Transformation von tierhaltenden Betrieben gefunden werden, bei denen Tierwohl und Umweltschutz im Zentrum stehen. Eine Abgabe auf Lebensmittel tierischen Ursprungs ist notwendig. Die Einnahmen m\u00fcssen in den Umbau der Tierhaltung und in die langfristige Reduktion des Tierbestandes flie\u00dfen. Dabei m\u00fcssen beteiligte tierhaltende Betriebe und \u00e4rmere Haushalte, die von steigenden Verbraucherpreisen besonders betroffen sind, finanziell unterst\u00fctzt werden. Au\u00dferdem sollte die Forschung zu und Vermarktung von alternativen Proteinen auf der Basis von Pflanzen, zellul\u00e4rer Landwirtschaft und Pr\u00e4zisionsfermentation sowie heimischen Agrarrohstoffen zum Einsatz in Futtermitteln gef\u00f6rdert werden.\r\n\r\n5. Fischerei und Aquakulturen \u00f6kologisch regionalisieren: Die Bundesregierung muss sich daf\u00fcr einsetzen, die Fischerei und Aquakultur weltweit nachhaltiger zu gestalten. Im Kern bedeutet das, \u00f6kosystemgerechte Fangmethoden umzusetzen und Fangverbote besser durchzusetzen. Die Umweltbelastungen durch Aquakultur m\u00fcssen verringert werden. Subvention f\u00fcr die Industriefischerei m\u00fcssen gezielt abgebaut werden. In einkommensschwachen L\u00e4ndern sollte eine Blue Economy im Sinne nachhaltiger Nutzung der Meeresressourcen zum Erhalt von \u00d6kosystemen und eines ausreichend Lebensunterhalts gef\u00f6rdert werden, die speziell kleine, lokale fischverarbeitende Betriebe f\u00f6rdert. Kleinfischerei und K\u00fcstenfischerei sollte ebenfalls gest\u00e4rkt werden.\r\n\r\n\r\nDer soziale Zusammenhalt: Gesellschaft & Mensch\r\n\r\n1. Ern\u00e4hrungsstrategie konsequent umsetzen und ausbauen: Die Bundesregierung hat im Januar ihre neue Ern\u00e4hrungsstrategie \u201eGutes Essen f\u00fcr Deutschland\u201c beschlossen. Es werden begr\u00fc\u00dfenswerte Ziele formuliert, es fehlen aber konkrete Ma\u00dfnahmen, Zielvorgaben und Finanzierungsm\u00f6glichkeiten. Daf\u00fcr gibt es zahlreiche Vorschl\u00e4ge. Folgend sind einige entscheidende Ma\u00dfnahmen aufgelistet, die auf den g\u00e4ngigen Forderungen zivilgesellschaftlicher und wissenschaftlicher Akteur:innen beruhen.\r\n\r\n2. (Klima-)gesunde Gemeinschafts- & Au\u00dfer-Haus-Verpflegung etablieren: Analog zu den Empfehlungen des B\u00fcrgerrats \u201eErn\u00e4hrung im Wandel\u201c ist die Bundesregierung dazu angehalten die Gemeinschafts- und Au\u00dfer-Haus-Verpflegung (GV & AHV) gesundheitsf\u00f6rderlich und nachhaltig zu gestalten. Die Nahrungsmittelversorgung und -verarbeitung sowie Ern\u00e4hrungsumgebungen in der GV und AHV sollte hin zu einer gesundheits-, klima- und biodiversit\u00e4tsf\u00f6rderlichen umgebaut werden. Dabei sollte der Fokus auf regionale, \u00f6kologisch nachhaltigere Produkte gelegt, der Anteil an Bio-Produkten in der GV gesteigert und Vergaberichtlinien entsprechend angepasst werden. Bei der GV sind sozialvertr\u00e4gliche Preise besonders wichtig.\r\n\r\n3. Mehr Bildung f\u00fcr (klima-)gesunde Ern\u00e4hrung erm\u00f6glichen: Die Bundesregierung muss fl\u00e4chendeckende Bildungsma\u00dfnahmen in allen Lebenswelten f\u00f6rdern (inkl. Schul-, Aus-, Weiter-, Fortbildung f\u00fcr Multiplikator:innen und relevante Berufsgruppen - von Landwirt:innen bis hin zu K\u00f6ch:innen und Gesundheitsberufen) und diese Neuausrichtung mit zielgruppenorientierten Aufkl\u00e4rungskampagnen begleiten. Diese m\u00fcssen Wissen \u00fcber gesunde und nachhaltige Ern\u00e4hrung sowie nachhaltige \u00f6kologische Landwirtschaft sowie deren Vorteile f\u00fcr die jeweilige Zielgruppe vermitteln. Dar\u00fcber hinaus sollten diese Bildungsma\u00dfnahmen die Entwicklung einer handlungsorientierten planetaren Gesundheitskompetenz unterst\u00fctzen. Diese Kompetenz bef\u00e4higt die Verbraucher:innen, Landwirt:innen und andere relevanten Berufsgruppen, nachhaltige Entscheidungen bei der Produktion, Auswahl und Zubereitung von Lebensmitteln zu treffen und diese Entscheidungen in die Praxis umzusetzen. \r\n\r\n4. Ungesunde Werbung regulieren: Die Bundesregierung sollte sich f\u00fcr eine Regulierung der Werbema\u00dfnahmen f\u00fcr ungesunde und umweltsch\u00e4digende Lebensmittel, insbesondere jene, die sich an Kinder richten, einsetzen. Die geplanten Ma\u00dfnahmen der Ern\u00e4hrungsstrategie zum Verbot von Werbung in Sendungen f\u00fcr Kinder und Jugendliche m\u00fcssen konsequent umgesetzt werden. Insbesondere in den \u00f6ffentlich-rechtlichen Medien kann die Werbung f\u00fcr gesundheitssch\u00e4dliche und nicht nachhaltige Lebensmittel schnell begrenzt werden. \r\n\r\n5. Forschung & Innovation f\u00f6rdern: Die Bundesregierung muss die Forschungsinfrastruktur f\u00fcr ein nachhaltiges und gerechtes Agrar- und Ern\u00e4hrungssystem f\u00f6rdern. Dies beinhaltet mehr Forschung zu nachhaltiger Nahrungsmittelproduktion, zukunftsf\u00e4higer Landbewirtschaftung, zur F\u00f6rderung alternativer Proteine sowie der Resilienz von proteinhaltigen Pflanzen wie Kichererbsen und N\u00fcssen zur Verringerung von Lebensmittelverschwendung, Optimierung logistischer Prozesse, Unterst\u00fctzung eines gesunden Lebensmittelkonsums und Entwicklung nachhaltiger Ern\u00e4hrungsweisen. Die Einf\u00fchrung und Nutzung digitaler Technologien in der Landwirtschaft kann erhebliche Effizienzsteigerungen mit sich bringen. Der Technologie- und Wissenstransfer an und mit Landwirt:innen in Deutschland sowie auch Kleinb\u00e4uer:innen in einkommensschwachen L\u00e4ndern spielt dabei eine entscheidende Rolle. Staatliche Investitionen sind bei alledem unerl\u00e4sslich.\r\n\r\n6. Multilateralismus f\u00fcr Ern\u00e4hrungssicherheit und -souver\u00e4nit\u00e4t st\u00e4rken: Die Bundesregierung muss ihr Engagement in multilateralen Systemen und Organisationen f\u00fcr nachhaltige Landwirtschaft und Ern\u00e4hrung wie dem Weltern\u00e4hrungsausschuss der Vereinten Nationen (CFS), FAO, WFP und dem Internationalen Fonds f\u00fcr landwirtschaftliche Entwicklung (IFAD) erh\u00f6hen und sich f\u00fcr menschenrechtsbasierte, klimaresiliente und agrar\u00f6kologische Strategien f\u00fcr Ern\u00e4hrungssicherheit und -souver\u00e4nit\u00e4t einsetzen. Auch in den internationalen Klimaverhandlungen (UNFCCC) muss die Bundesregierung einen Fokus auf gerechte und nachhaltige Agrar- und Ern\u00e4hrungssysteme setzen. Diese Zielsetzung sollte ebenso in informellen, zwischenstaatlichen Zusammenschl\u00fcssen wie der G7 und G20 verfolgt werden.\r\n\r\n7. Konfliktpr\u00e4vention ins Zentrum stellen: Die Bundesregierung muss ihre Bem\u00fchungen und Unterst\u00fctzung f\u00fcr die Verh\u00fctung und L\u00f6sung von Gewaltkonflikten verst\u00e4rken und darf ihre Finanzierung von Entwicklungszusammenarbeit und humanit\u00e4rer Hilfe nicht weiter k\u00fcrzen. Die Wechselwirkungen von Konflikten und Ern\u00e4hrungssicherheit sind vielschichtig und werden h\u00e4ufig untersch\u00e4tzt.\r\n\r\n\r\nDie wirtschaftliche Teilhabe: \u00d6konomie & Konsum\r\n\r\n1. Regionale Betriebe f\u00f6rdern: Die Bundesregierung sollte st\u00e4rker lokal und regional verankerte Ern\u00e4hrungs- und Agrarsysteme f\u00f6rdern, um auf regionaler und lokaler Ebene die Interessen von Kleinb\u00e4uer:innen gegen\u00fcber gro\u00dfen Agrar- und Lebensmittelkonzernen zu st\u00e4rken, Importabh\u00e4ngigkeiten abzubauen und lokale Ern\u00e4hrungssicherheit zu f\u00f6rdern. Dabei sollte die Verbesserung der Chancen von kleineren landwirtschaftlichen Betrieben mit Fokus auf agrar\u00f6kologischer Produktion im Vordergrund liegen. Die Diversifizierung nachhaltiger Gesch\u00e4ftst\u00e4tigkeiten, neue Gesch\u00e4ftsmodelle und Eigentumsformen, Zugang zu Saatgut, wissenschaftlichen Erkenntnissen und Technologien, regionale, tierwohlkonforme Verarbeitungs- und Vertriebsstrukturen sollten im Mittelpunkt stehen. Au\u00dferdem muss der Gewinn entlang globaler Lieferketten gerechter verteilt werden.\r\n\r\n2. Faire L\u00f6hne & Preise f\u00fcr Landwirt:innen schaffen: Die Bundesregierung muss die Bedingungen f\u00fcr faire Erzeuger:innenpreise und existenzsichernde L\u00f6hne in der Landwirtschaft schaffen, sowohl in Deutschland als auch global. Die Lebensmittelpreise m\u00fcssen die sozialen und \u00f6kologischen Kosten der landwirtschaftlichen Produktion, Verarbeitung, des Vertriebs, des Einzelhandels und des Konsums widerspiegeln und sollten andererseits \u00e4rmere Menschen nicht davon abhalten, sich f\u00fcr gesunde Lebensmittel zu entscheiden. Gleichzeitig muss dabei sichergestellt werden, dass gesunde und nachhaltige Lebensmittel f\u00fcr alle Gesellschaftsgruppen erschwinglich sind. \r\n\r\n3. Besteuerung klug umstrukturieren: Die Bundesregierung muss auf der Konsumseite besonders zucker-, fett- oder salzhaltige Lebensmittel sowie klima- und umweltsch\u00e4dliche Lebensmittel h\u00f6her besteuern, beispielsweise tierische Lebensmittel. Auf der anderen Seite muss auf besonders gesunde und nachhaltige Lebensmittel wie Obst, Gem\u00fcse oder H\u00fclsenfr\u00fcchte eine dauerhafte Mehrwertsteuersenkung oder -abschaffung eingef\u00fchrt werden. Au\u00dferdem sollte eine \u00dcbergewinnsteuer auf gro\u00dfe Agrar-, Lebensmittel-, Handels- und D\u00fcngemittelkonzerne in Betracht gezogen werden.\r\n\r\n4. GAP & Agrarsubventionen am Gemeinwohl orientieren: Die Bundesregierung muss sich daf\u00fcr einsetzen, dass in der GAP f\u00fcr den Zeitraum 2027-2030 der Anteil der Eco-Schemes erh\u00f6ht wird, die zur Verf\u00fcgung stehenden Geldmittel m\u00f6glichst ausschlie\u00dflich f\u00fcr den Umbau der Landwirtschaft hin zu nachhaltigen Produktionssystemen genutzt werden und pauschale fl\u00e4chengebundene Direktzahlungen schrittweise hinzu gemeinwohlorientierten Leistungen umgewandelt werden. Aktuell sind GAP-Pr\u00e4mien f\u00fcr Umweltschutz so konzipiert, dass sie nur den entgangenen Ertrag kompensieren. Diese Pr\u00e4mien sollten erh\u00f6ht werden, sodass Landwirte mit Umweltleistungen auch Einkommen generieren k\u00f6nnen. Neben der GAP m\u00fcssen auch andere umweltsch\u00e4dliche Subventionen \u00fcberdacht werden.\r\n\r\n\r\nImpressum\r\n\r\nStiftung Gesunde Erde Gesunde Menschen gGmbH\r\nc/o Publix gGmbH, Hermannstr. 90\r\n12051 Berlin\r\nE-Mail: kontakt@stiftung-gegm.de\r\nWebsite: https://stiftung-gegm.de/ \r\n\r\nAutor:innen:\r\nDonald Sandmann, Katharina Weiss-Tuider, Sophie Kregel, Kerstin Blum, Hannah M\u00fcller\r\nMit Unterst\u00fctzung von L\u00e9a Glasmeyer, Sergius Seebohm von seebohm.berlin\r\n\r\nM\u00e4rz 2024"
+                        }
+                    }
+                ],
+                "title": "Transformation des globalen Agrar- und Ern\u00e4hrungssystem"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "F\u00fcr den Bundeshaushalt 2025 werden umfassende K\u00fcrzungen vorgenommen. Der Etat f\u00fcr Entwicklungszusammenarbeit (BMZ) wurde bereits 2024 um fast 10 Prozent gek\u00fcrzt, bei der Aufstellung des BMZ-Etats f\u00fcr 2025 drohen noch weitreichendere K\u00fcrzungen. GEGM setzt sich daf\u00fcr ein, dass die Bundesregierung mindestens 0,7 Prozent des Bruttonationaleinkommens f\u00fcr \u00d6ffentliche Entwicklungsleistungen (Official Development Assistance) erreicht.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_DEVELOPMENT_POLICY",
+                        "de": "Entwicklungspolitik",
+                        "en": "Development policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010617",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/e3/cf/327329/Stellungnahme-Gutachten-SG2406300010.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMZ",
+                                        "de": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                                        "en": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-06"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0010617",
+                        "regulatoryProjectTitle": "Bundeshaushalt 2025 - Ausgaben f\u00fcr \u00d6ffentliche Entwicklungsleistungen (ODA)",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Haushaltspriorit\u00e4ten f\u00fcr 2025 - Handlungsempfehlungen zur Finanzierung f\u00fcr Entwicklung, Klima und humanit\u00e4re Hilfe\r\n\r\nSehr geehrter Herr Staatssekret\u00e4r Flasbarth, nach den drastischen K\u00fcrzungen von insgesamt fast 2 Milliarden Euro in den Bereichen Entwicklungszusammenarbeit, Humanit\u00e4re Hilfe und Internationaler Klimaschutz im Haushalt 2024 sind wir, sieben Vertreter*innen zivilgesellschaftlicher Organisationen, sehr besorgt. Denn die K\u00fcrzungen bedeuten f\u00fcr Millionen Menschen weltweit, insbesondere in Krisenregionen, eine dramatische Verschlechterung ihrer Lebensgrundlage. Dar\u00fcber hinaus stellt sich die Frage, wie Deutschland k\u00fcnftig auf die multiplen globalen Krisen unserer Zeit ad\u00e4quat reagieren kann, wenn die finanzielle Grundlage f\u00fcr Programme fehlt. Noch beunruhigender als die bereits vorgenommenen K\u00fcrzungen ist die mittelfristige Finanzplanung: Diese sieht weitere K\u00fcrzungen in H\u00f6he von 947 Millionen Euro allein f\u00fcr den BMZ-Haushalt 2025 vor und Berichten zufolge fehlen zus\u00e4tzlich zweistellige Milliardenbetr\u00e4ge f\u00fcr den Gesamthaushalt. Vor diesem Hintergrund und im Vorfeld des Staatssekret\u00e4r*innen-Termin zu den Eckwerten des Haushalts 2025 am Donnerstag, den 7. M\u00e4rz, wenden wir uns mit den folgenden zwei wichtigen Handlungsempfehlungen an Sie:\r\n\r\nDie Eckwerte der BMZ- und AA-Etats f\u00fcr 2025 sind in Einklang mit internationalen Selbstverpflichtungen und den im Koalitionsvertrag festgehaltenen Schwerpunkten der internationalen Zusammenarbeit zu bringen. Statt den Rotstift erneut anzusetzen, muss Deutschland jetzt mehr denn je auf Zusammenarbeit setzen und mindestens 0,7 Prozent der Wirtschaftsleistung f\u00fcr Entwicklungszusammenarbeit und humanit\u00e4re Hilfe in 2025 bereitstellen.\r\n\r\nW\u00e4hrend die anstehende Staatssekret\u00e4r*innen-Runde die ausreichende, planbare und verl\u00e4ssliche Finanzierung f\u00fcr BMZ und AA aus Haushaltsmitteln sichern soll, erfordern die haushalterische Herausforderungen die Erschlie\u00dfung zus\u00e4tzlicher innovativer Finanzmittel f\u00fcr Entwicklung und Klima - Deutschland sollte internationale Prozesse in dieser Hinsicht mitgestalten und vorantreiben.\r\n\r\nEntwicklungszusammenarbeit ist von entscheidender Bedeutung, um die Lebensbedingungen in den am wenigsten entwickelten L\u00e4ndern zu verbessern und globale Ungleichheiten zu verringern. Zur Halbzeit der Agenda 2030 sind die Unterzeichnerstaaten, zu denen auch Deutschland geh\u00f6rt, noch weit davon entfernt, diese bis 2030 zu erreichen. Noch immer leiden rund 735 Millionen Menschen an Hunger, das sind 150 Millionen mehr als vor der Corona-Pandemie. In Zeiten multipler Krisen ist die K\u00fcrzung der Mittel f\u00fcr Entwicklungszusammenarbeit, humanit\u00e4re Hilfe und Klimafinanzierung eine Absage gerade an die Menschen, die am meisten unter Armut, Hunger und den Folgen der Klimakrise leiden. Die Etats des BMZ und des Ausw\u00e4rtigen Amts nicht ausreichend zu finanzieren, w\u00fcrde nicht nur bereits teils angespannte Partnerschaften mit L\u00e4ndern des Globalen S\u00fcdens belasten, sondern auch der Glaubw\u00fcrdigkeit der Bundesregierung als verl\u00e4ssliche und stabile Partnerin schwer schaden.\r\nWir appellieren an Sie, internationaler Klimafinanzierung, Entwicklungszusammenarbeit und humanit\u00e4rer Hilfe die angemessene Priorit\u00e4t in der Haushaltsplanung f\u00fcr 2025 zuzusprechen und sicherzustellen, dass diese Bereiche ausreichend finanziert werden, um eine verl\u00e4ssliche Planung und Umsetzung entsprechender politischer Strategien, wie z.B. die SDGs und die Agenda 2030, zu erm\u00f6glichen. Wir w\u00fcrden uns sehr freuen, unsere Handlungsempfehlungen mit Ihnen und Ihrem Team zu diskutieren. \r\n\r\nVielen Dank und mit freundlichen Gr\u00fc\u00dfen\r\n\r\nGlobal Citizen\r\nOxfam\r\nDeutsche Stiftung Weltbev\u00f6lkerung (DSW)\r\nFreunde des Globalen Fonds Europa\r\nDeutsche Welthungerhilfe e.V.\r\nThe ONE Campaign\r\nStiftung Gesunde Erde - Gesunde Menschen"
+                        }
+                    }
+                ],
+                "title": "Bundeshaushalt 2025 - Ausgaben f\u00fcr \u00d6ffentliche Entwicklungsleistungen (ODA)"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d3/21/327327/Stellungnahme-Gutachten-SG2406280181.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_AA",
+                                "de": "Ausw\u00e4rtiges Amt (AA)",
+                                "en": "Ausw\u00e4rtiges Amt (AA)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                "de": "Bundeskanzleramt (BKAmt)",
+                                "en": "Bundeskanzleramt (BKAmt)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                "de": "Bundesministerium der Finanzen (BMF)",
+                                "en": "Bundesministerium der Finanzen (BMF)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMZ",
+                                "de": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                                "en": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-08"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0010616",
+                "regulatoryProjectTitle": "Transformation des globalen Agrar- und Ern\u00e4hrungssystem",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Positionspapier\r\nGenug, gesund, global gerecht.\r\nGesundes Essen gibt es nur auf einer gesunden Erde\r\n\r\nSchon heute wird genug Nahrung produziert, um die gesamte Weltbev\u00f6lkerung zu ern\u00e4hren. Trotzdem ist die Zahl der hungernden Menschen zwischen 2017 und 2022 insbesondere in \u00e4rmeren L\u00e4ndern von 572 auf 735 Millionen Menschen gestiegen.  Auch wo Nahrung im \u00dcberfluss vorhanden ist, bedeutet das nicht automatisch Gesundheit: Weltweit leiden immer mehr Menschen an ern\u00e4hrungsassoziierten Krankheiten aufgrund von Fehlern\u00e4hrung. So haben in Deutschland mittlerweile 8,7 Millionen Menschen Typ-2-Diabetes  und 17 Millionen Menschen sind adip\u00f6s . Wie wir uns ern\u00e4hren und wie unsere Lebensmittel produziert werden, ist aber nicht nur ungesund f\u00fcr uns, sondern auch den Planeten. Das globale Agrar- und Ern\u00e4hrungssystem verursacht bis zu einem Drittel der globalen Treibhausgasemissionen und ist Haupttreiber des Biodiversit\u00e4tsverlusts.  Landwirt:innen sp\u00fcren die Folgen schon jetzt \u2013 Hitzewellen, D\u00fcrren und Starkregen bedrohen ihre Lebensgrundlagen in Deutschland, aber vor allem in einkommensschwachen L\u00e4ndern des Globalen S\u00fcdens.\r\n\r\nDie Zusammenh\u00e4nge dieses globalen Agrar- und Ern\u00e4hrungssystems sind komplex, eine Schlussfolgerung ist jedoch einfach: Dieses System ist ungesund und ungerecht f\u00fcr uns Menschen und die Erde. Am st\u00e4rksten betroffen sind wie so h\u00e4ufig die verletzlichsten Mitglieder der Weltgemeinschaft \u2013 Frauen, Kinder, \u00e4rmere Menschen und kleine Betriebe. Eine Transformation ist dringend notwendig. Das wird nicht einfach, birgt aber enormes Potential f\u00fcr wirtschaftliche und politische Stabilit\u00e4t, Sicherheit und bessere Gesundheit f\u00fcr Mensch und Erde. Entscheidend ist die partnerschaftliche Zusammenarbeit aller Akteur:innen auf Augenh\u00f6he, um Gerechtigkeit auf allen Ebenen zu gew\u00e4hrleisten. Die Bundesregierung muss daf\u00fcr die politischen Rahmenbedingungen schaffen. In Deutschland braucht es eine planbare, sozial gerechte sowie \u00f6konomisch und \u00f6kologisch nachhaltige Transformation der Landwirtschaft und eine gesunde Ern\u00e4hrungsumgebung. Aber auch international muss Deutschland als wirksamer Akteur in der internationalen Agrar- und Ern\u00e4hrungspolitik aktiv werden. Ein Gro\u00dfteil der Produkte, die in unseren Supermarktregalen stehen, kommt nicht von hier, sondern h\u00e4ufig aus besonders klimavulnerablen Regionen. Gerade die \u00e4rmsten L\u00e4nder sind besonders stark vom Klimawandel betroffen, obwohl ihr Beitrag zu dieser Krise am kleinsten ist. Diese L\u00e4nder gilt es bei der Anpassung zu einer klimaresilienten Landwirtschaft besonders zu unterst\u00fctzen. Denn wie wir in der Pandemie gelernt haben: Gesundheit ist ansteckend. Und \u201eglobal\u201c bedeutet immer auch hier.\r\n\r\nMit diesem Positionspapier wollen wir \u00fcber den Tellerrand blicken und Vorschl\u00e4ge aufzeigen, wie die Bundesregierung ihren Beitrag f\u00fcr gesunde Ern\u00e4hrung auf einer gesunden Erde leisten kann. Denn 2024 wird Agrar- und Ern\u00e4hrungspolitik weltweit eine gro\u00dfe Rolle spielen. In Deutschland bestimmen Bauernproteste die Agenda und werden in drei Landtagswahlen und der Europawahl zentrale Themen sein. Global werden Ern\u00e4hrungssicherheit und -souver\u00e4nit\u00e4t sowie Finanzierungsfragen bei der COP29 in Baku, der G20 in Brasilien und der G7 in Italien zentrale Fragestellungen sein. Die Bundesregierung muss zeigen, dass sie eine gesunde und nachhaltige Transformation in Deutschland ansto\u00dfen kann und gewillt ist, ihrer Verantwortung nachzukommen und \u00e4rmere L\u00e4nder bei der Transformation zu unterst\u00fctzen. \u2003\r\n\r\n\r\nDas Wichtigste vorweg\r\n\r\nEins ist klar: Eine gerechte und gesunde Transformation des Agrar- und Ern\u00e4hrungssystems erfordert globale Anstrengungen aller Beteiligten \u2013 von der Konsumentin, \u00fcber den Landwirt, bis zum Lebensmitteleinzelhandel und gro\u00dfen Agrarkonzernen. Die Bundesregierung hat die besondere Verantwortung, f\u00f6rderliche Rahmenbedingungen zu schaffen. Folgend einige wichtige Ma\u00dfnahmen:\r\n\r\nDas Fundament: Biosph\u00e4re & Klima\r\n1. Landwirtschaft \u00f6kologisch & \u00f6konomisch transformieren, d.h. in Deutschland die Empfehlungen der Zukunftskommission Landwirtschaft umsetzen und global nachhaltige Landwirtschaft f\u00f6rdern.\r\n2. Landwirtschaft anpassen, d.h. Anbausysteme diversifizieren, klimaresistente Pflanzenarten f\u00f6rdern und Klimafinanzierung anheben sowie die Anpassungsfinanzierung bis 2025 verdoppeln.\r\n3. Nachhaltige Landnutzung f\u00f6rdern, d.h. nachhaltige Raum- und Landschaftsplanung zum Kern der Agrarpolitik in Deutschland und weltweit machen.\r\n4. Tierhaltung reformieren, d.h. die Empfehlungen des Kompetenznetzwerks Nutztierhaltung umsetzen und Finanzierungsl\u00f6sungen f\u00fcr die Transformation von tierhaltenden Betrieben finden.\r\n5. Fischerei & Aquakulturen \u00f6kologisch regionalisieren, d.h. \u00f6kosystemgerechte Fangmethoden umsetzen, Fangverbote durchsetzen und lokale fischverarbeitende Betriebe f\u00f6rdern.\r\n\r\nDer soziale Zusammenhalt: Gesellschaft & Menschen\r\n1. Ern\u00e4hrungsstrategie konsequent umsetzen und ausbauen, d.h. konkrete Ma\u00dfnahmen, Zielvorgaben und Finanzierungsm\u00f6glichkeiten entwickeln.\r\n2. (Klima-)gesunde Gemeinschafts- & Au\u00dfer-Haus-Verpflegung etablieren, mit Fokus auf regionale, \u00f6kologisch nachhaltigere Produkte und sozialvertr\u00e4gliche Preise.\r\n3. Mehr Bildung f\u00fcr (klima-)gesunde Ern\u00e4hrung erm\u00f6glichen, d.h. mehr Wissen \u00fcber gesunde und nachhaltige Ern\u00e4hrung sowie nachhaltige \u00f6kologische Landwirtschaft f\u00f6rdern. \r\n4. Ungesunde Werbung regulieren, d.h. Werbema\u00dfnahmen f\u00fcr ungesunde und umweltsch\u00e4digende Lebensmittel, insbesondere jene, die sich an Kinder richten, einschr\u00e4nken.\r\n5. Forschung & Innovation f\u00f6rdern, insbesondere f\u00fcr nachhaltige Nahrungsmittelproduktion und Landbewirtschaftung, alternative Proteine, Resilienz von proteinhaltigen Pflanzen und Digitalisierung der Landwirtschaft. Technologietransfer an den globalen S\u00fcden ist entscheidend.\r\n6. Multilateralismus f\u00fcr Ern\u00e4hrungssicherheit & -souver\u00e4nit\u00e4t st\u00e4rken, d.h. resiliente Landwirtschaft in internationalen Organisationen wie FAO, WFP, IFAD und den UN-Klimaverhandlungen f\u00f6rdern.\r\n7. Konfliktpr\u00e4vention ins Zentrum stellen und Etats f\u00fcr Entwicklungszusammenarbeit und humanit\u00e4re Hilfe nicht weiter k\u00fcrzen. \r\n\r\nDie wirtschaftliche Teilhabe: \u00d6konomie & Konsum\r\n1. Regionale Betriebe f\u00f6rdern, d.h. Interessen von kleinen Betrieben gegen\u00fcber Lebensmittel- und Agrarkonzernen st\u00e4rken, Importabh\u00e4ngigkeiten abbauen und lokale Ern\u00e4hrungssicherheit f\u00f6rdern.\r\n2. Faire L\u00f6hne & Preise f\u00fcr Landwirt:innen schaffen, d.h. auf faire Erzeugerpreise und existenzsichernde L\u00f6hne in der Landwirtschaft in Deutschland als auch global fokussieren. \r\n3. Besteuerung klug umstrukturieren, unter anderem die Mehrwertsteuer auf gesunde und nachhaltige Lebensmittel wie Obst, Gem\u00fcse oder H\u00fclsenfr\u00fcchte dauerhaft senken.\r\n4. GAP & Agrarsubventionen am Gemeinwohl orientieren, d.h. landwirtschaftliche Produktion am Gemeinwohl und Umweltschutz orientieren und daf\u00fcr fair entlohnen.\u2003\r\nInhalt\r\n\r\n\r\nUnsere Vision: Genug, gesund, global gerecht\r\n\r\nWir fordern ein gerechtes Agrar- und Ern\u00e4hrungssystem f\u00fcr gesunde Menschen auf einem gesunden Planeten. Dieses System muss ausreichend nahrhafte Lebensmittel f\u00fcr alle bereitstellen, ohne die wirtschaftlichen, sozialen und \u00f6kologischen Grundlagen f\u00fcr die Ern\u00e4hrungssicherheit und -souver\u00e4nit\u00e4t jetziger und k\u00fcnftiger Generationen zu gef\u00e4hrden. Das Agrar- und Ern\u00e4hrungssystem umfasst dabei das gesamte Spektrum der Akteur:innen und ihrer miteinander verkn\u00fcpften wertsch\u00f6pfenden Aktivit\u00e4ten, die an der Produktion, der Ansammlung, Verarbeitung, dem Handel, Konsum und der Entsorgung von Lebensmitteln beteiligt sind, sowie Teile des wirtschaftlichen, gesellschaftlichen und nat\u00fcrlichen Umfelds, in das sie eingebettet sind. Dieses System besteht aus Teilsystemen (z. B. in der Landwirtschaft, Abfallwirtschaft usw.) und interagiert mit anderen Systemen (z. B. Energiesysteme, Handelssysteme, Gesundheitssysteme usw.). \r\n\r\nEin gerechtes und gesundes Agrar- und Ern\u00e4hrungssystem muss folgende Funktionen erf\u00fcllen:\r\n\r\n1. Biosph\u00e4re & Klima: Es bewahrt und unterst\u00fctzt die biologische Vielfalt, das Wohlergehen der Tiere und den Klimaschutz, denn es ist von intakten \u00d6kosystemen und stabilen klimatischen Bedingungen abh\u00e4ngig. Dar\u00fcber hinaus tr\u00e4gt es aktiv dazu bei, \u00d6kosysteme wieder herzustellen und zu sch\u00fctzen. Es nutzt nat\u00fcrliche Ressourcen schonend und produziert im Einklang mit den Grenzen unseres Planeten. Gleichzeitig verf\u00fcgt es \u00fcber ein hohes Ma\u00df an Resilienz gegen\u00fcber sich rasant ver\u00e4ndernden klimatischen Bedingungen.\r\n\r\n2. Gesellschaft & Menschen: Es gew\u00e4hrleistet weltweit den Zugang zu genug nahrhaften Lebensmitteln f\u00fcr alle. Es f\u00f6rdert eine Ern\u00e4hrungsumgebung, die gesundheitsf\u00f6rdernd und umweltschonend ist, und leistet einen Beitrag zur Reduzierung von Armut und Konflikten. Es ermutigt und bef\u00e4higt Menschen dazu, sich gesund und nachhaltig zu ern\u00e4hren. Durch Bildung und Forschung werden wichtige Informationen und Innovationen erarbeitet, um das System nachhaltiger zu machen. Nur eine ausreichend gesund ern\u00e4hrte und ausgebildete Gesellschaft kann die Transformation des Agrar- und Ern\u00e4hrungssystems stemmen.\r\n\r\n3. \u00d6konomie & Konsum: Es f\u00f6rdert attraktive, sichere und faire Arbeitsbedingungen f\u00fcr alle Besch\u00e4ftigten, speziell f\u00fcr kleinere landwirtschaftliche Betriebe. Landwirt:innen erfahren insgesamt mehr finanzielle und gesellschaftliche Wertsch\u00e4tzung. Umweltkosten werden internalisiert, w\u00e4hrend positive \u00f6kologische Beitr\u00e4ge der Landwirtschaft entsprechend gew\u00fcrdigt werden. Gleichzeitig werden die erh\u00f6hten Aufwendungen f\u00fcr eine gesunde und nachhaltige Ern\u00e4hrung durch soziale Ausgleichsmechanismen abgemildert.\r\n\r\nIm Einklang mit der Agenda 2030 und der Integration der 17 Ziele f\u00fcr nachhaltige Entwicklung (SDGs) erfordert diese Vision eine ganzheitliche Betrachtungsweise. Eine effektive Umsetzung erfordert kooperative Anstrengungen, die Akteur:innen aus der Politik, Wirtschaft, Zivilgesellschaft und Wissenschaft einbezieht. Die Bundesregierung ist gefordert, eine Vielzahl von Ma\u00dfnahmen (Subventionen, Steuerpolitik und regulative Vorgaben), Politikbereiche (Landwirtschaft, Ern\u00e4hrung, Umwelt, Bildung oder Entwicklung) sowie Verwaltungsebenen (lokal, regional, national und international) miteinander zu verzahnen.\r\n\r\nWie im SDGs Report 2023 der Vereinten Nationen hervorgehoben, ist es neben der Beachtung der Wechselwirkungen zwischen den SDGs essenziell, alle Dimensionen von Gerechtigkeit, inklusive Verteilungs-, Verfahrens- und intergenerationelle Gerechtigkeit, intensiver zu verfolgen. Ein Schwerpunkt muss auf der F\u00f6rderung von Geschlechtergerechtigkeit liegen, da Frauen und M\u00e4dchen besonders stark von Diskriminierung und klimabedingten Extremwetterereignissen betroffen sind. Weltweit sind mehr als 40 Prozent der Arbeitskr\u00e4fte in der Landwirtschaft weiblich.  Es gibt jedoch gro\u00dfe regionale Unterschiede, gerade in einkommensschwachen L\u00e4ndern ist der Anteil h\u00e4ufig gr\u00f6\u00dfer und weniger formalisiert. Gleichzeitig haben Frauen schlechteren Zugang zu Land, landwirtschaftlichen Betriebsmitteln, Bildung, Krediten und eine weitaus geringere Entlohnung. Bei der Entwicklung und Umsetzung von politischen Ma\u00dfnahmen ist daher sicherzustellen, dass die Ma\u00dfnahmen sowohl effektiv zur Reduzierung von Geschlechterungleichheiten beitragen als auch die Resilienz von Frauen gegen\u00fcber klimatischen und \u00f6konomischen Krisen st\u00e4rken.\r\n\r\nAber auch Gerechtigkeit zwischen dem Globalen Norden und dem Globalen S\u00fcden muss ein zentrales Ziel sein. Menschen des Globalen Nordens belasten mit ihrer Ern\u00e4hrung den Planeten deutlich st\u00e4rker als die des Globalen S\u00fcdens und sind zugleich weniger stark von den \u00f6kologischen Folgen betroffen. L\u00e4nder wie Deutschland m\u00fcssen f\u00fcr die von ihnen verursachten Umweltsch\u00e4den aufkommen. Einerseits m\u00fcssen sie bei der Reduktion von Treibhausgasen politisch und finanziell unterst\u00fctzen, andererseits bei der Anpassung an ver\u00e4nderte klimatische Bedingungen und bei Bew\u00e4ltigung von Sch\u00e4den und Verlusten. Der 2023 initiierte Loss & Damage Fund ist ein gutes Signal, wobei die bisher zugesagte Finanzierung nicht ansatzweise dem Bedarf entspricht. \u00c4hnlich ist es bei der Finanzierung von Klimaanpassung: Laut UNEP ist die Finanzierungsl\u00fccke inzwischen auf 194 bis 366 Milliarden US-Dollar pro Jahr gewachsen. Der Agrarsektor ist dabei neben Wasser und Infrastruktur in den meisten Entwicklungsl\u00e4ndern ein vorrangiger Sektor f\u00fcr die im Rahmen der Nationalen Klimabeitr\u00e4ge (NDCs) oder Nationalen Anpassungspl\u00e4ne (NAPs) angek\u00fcndigten Finanzierungsbedarfe. \r\n\r\nUm die Vision von genug, gesund und global gerechter Ern\u00e4hrung f\u00fcr alle zu erreichen, braucht es also eine ganzheitliche Betrachtung der politischen Ma\u00dfnahmen und eine kooperative Zusammenarbeit aller Beteiligten, bei der alle Gerechtigkeitsdimensionen beachtet werden.\r\n\r\n\r\nVerantwortung und Rolle Deutschlands\r\n\r\nReiche L\u00e4nder wie Deutschland tragen eine besondere Verantwortung, gerechtere Agrar- und Ern\u00e4hrungssysteme zu f\u00f6rdern: Sie sind Hauptverursacher der globalen Erw\u00e4rmung und des Verlusts an Biodiversit\u00e4t und dominieren die weltweiten Produktions- und Konsummuster. Was in diesen L\u00e4ndern gegessen wird und in den K\u00fchlregalen ausliegt, bestimmt ma\u00dfgeblich globale Produktion von Lebensmitteln. Als Verfechter der internationalen, regelbasierten Ordnung und Zusammenarbeit, der Menschenrechte, als gro\u00dfe Exportnation und weltweit hochangesehener Handelspartner mit einer historischen Verantwortung muss Deutschland eine Schl\u00fcsselrolle bei der Transformation einnehmen.\r\nIm Koalitionsvertrag der Ampelkoalition werden Multilateralismus und internationale Zusammenarbeit als entscheidende Hebel identifiziert, um globale Krisen zu bew\u00e4ltigen. Das ist gut so. In der Zusammenarbeit mit vorrangig einkommensschwachen L\u00e4ndern engagiert sich Deutschland schon lange in Initiativen zur St\u00e4rkung der Ern\u00e4hrungssicherheit. Diese Partnerschaften erm\u00f6glichen den Austausch und die Optimierung von technischem Fachwissen, finanziellen Mitteln und Erfahrungen im Bereich gerechter und nachhaltiger Agrar- und Ern\u00e4hrungssysteme. Dar\u00fcber hinaus hat die Bundesregierung w\u00e4hrend der deutschen G7-Pr\u00e4sidentschaft mit der Global Alliance for Food Security ein wichtiges B\u00fcndnis geschaffen, um auf immer akutere Hungerskrisen zu reagieren. Zudem kann Deutschland seine Position in zwischenstaatlichen Zusammenschl\u00fcssen wie den Vereinten Nationen, der EU und anderen multilateralen Einrichtungen nutzen, um ein gerechteres Agrar- und Ern\u00e4hrungssystem auf der globalen Agenda zu verankern. Die Bundesregierung ist nach eigenen Angaben seit 2016 der zweitgr\u00f6\u00dfte Geldgelber f\u00fcr das Weltern\u00e4hrungsprogramm WFP und der viertgr\u00f6\u00dfte Geldgeber f\u00fcr die Ern\u00e4hrungs- und Landwirtschaftsorganisation FAO.  Auch im internationalen Klimaschutz werden wichtige Weichen f\u00fcr eine nachhaltige Transformation der Landwirtschaft in \u00e4rmeren L\u00e4ndern gesetzt. \r\n\r\nEntscheidend ist vor allem die Bereitstellung von ausreichend Finanzierung von Ma\u00dfnahmen, die die Resilienz der landwirtschaftlichen Produktion st\u00e4rken. Reiche Industriestaaten haben sich bereits 2009 dazu verpflichtet, ab 2020 j\u00e4hrlich 100 Mrd. US-Dollar f\u00fcr internationale Klimafinanzierung zu mobilisieren. Dieses Ziel wurde sowohl 2020 als auch 2021 verfehlt.  F\u00fcr 2022 und 2023 sieht es so aus, als ob das Ziel erf\u00fcllt wurde. Dieses Jahr muss bei der COP29 in Baku einen neues Finanzierungsziel f\u00fcr den Zeitraum ab 2025 festgelegt werden. Die Bundesregierung hat bereits 2021 w\u00e4hrend des G7-Gipfels in Cornwall zugesagt, ab 2025 j\u00e4hrlich sechs Milliarden Euro bereitzustellen. Nach eigenen Angaben hat Deutschland dieses Ziel 2022 mit 6,39 Milliarden Euro an Haushaltsmitteln (und Schenkungs\u00e4quivalenten von Darlehen) erf\u00fcllt.   2023 wird dieses Ziel vermutlich direkt wieder verfehlt. Aufgrund der schwierigen Haushaltslage zeichnet sich nun auch immer deutlicher ab, dass die Bundesregierung bei ihren internationalen Verpflichtungen drastische Einsparungen vornehmen wird. Schon im Haushalt f\u00fcr 2024 wurde der f\u00fcr internationale Agrar- und Ern\u00e4hrungspolitik entscheidende Etat des Bundesministeriums f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung um fast 10 Prozent gek\u00fcrzt, bei humanit\u00e4rer Hilfe waren es sogar knapp 20 Prozent. Bei der Aufstellung des Haushalts f\u00fcr 2025 drohen noch umfassendere K\u00fcrzungen. All das gef\u00e4hrdet Deutschlands internationales Ansehen und Glaubw\u00fcrdigkeit als Verfechter des Multilateralismus. Es widerspricht den Zusagen und dem Selbstverst\u00e4ndnis der Bundesregierung. Und es untergr\u00e4bt die Politik f\u00fcr gerechtere und gesunde Agrar- und Ern\u00e4hrungssysteme weltweit, von denen auch Deutschland profitieren w\u00fcrde.  \r\n\r\nDoch nicht nur international braucht es weiterhin politischen Einsatz. Auch in Deutschland ist eine planbare, sozial gerechte sowie \u00f6konomisch und \u00f6kologisch nachhaltige Transformation der Landwirtschaft und Ern\u00e4hrungsumgebung schon lange auf der Agenda und wird wie zuletzt bei den Bauernprotesten vehement von Landwirt:innen und der Bev\u00f6lkerung eingefordert. Landwirt:innen haben viele berechtigte Sorgen \u2013 ihre schlechte Marktposition in den Vertriebsketten, niedrige Erzeugerpreise, hoher b\u00fcrokratischer Aufband und nat\u00fcrlich immer extremere Wetterbedingungen aufgrund des Klimawandels, die die schon jetzt geringe Planungssicherheit weiter verschlechtert. Schon die letzte Bundesregierung hat den politischen Handlungsbedarf erkannt, 2019 das Kompetenznetzwerk Nutztierhaltung einberufen und 2020 die Zukunftskommission Landwirtschaft. Beide Kommissionen waren besetzt mit Vertreter:innen aller wichtigen Akteur:innen aus der \u00f6kologischen und konventionellen Landwirtschaft, Wirtschaft, Umwelt-, Natur-, Tier- und Verbraucherschutz sowie der Wissenschaft. Die umfassenden Abschlussberichte und Handlungsempfehlungen wurden jedoch bis heute nicht umfassend umgesetzt. Das ist eine vertane Chance, da selten so gro\u00dfer Konsens unter heterogenen Interessensgruppen bei konkreten agrarpolitischen L\u00f6sungsvorschl\u00e4gen herrschte. \u00c4hnlich wie bei den internationalen Verpflichtungen Deutschlands scheitert es auch in Deutschland prim\u00e4r an der politischen Bereitschaft, die notwendigen finanziellen Mittel bereitzustellen. Die Bundesregierung muss erkennen, dass diese Ausgaben eine Zukunftsinvestition sind \u2013 eine Investition in Gesundheit und Wohlergehen.\r\n\r\n\r\nWas haben wir also zu gewinnen?\r\n\r\nIn aller K\u00fcrze: Genug, gesund, global gerechte Ern\u00e4hrung f\u00fcr alle auf einem gesunden Planeten. Ein nachhaltigeres und gerechteres Agrar- und Ern\u00e4hrungssystem hat ein gesamtgesellschaftliches Potential. Es kann dazu beitragen, dass nicht nur die Menschen ges\u00fcnder werden, sondern auch landwirtschaftliche Betriebe, und zwar wirtschaftlich und \u00f6kologisch. \u00dcberall auf der Welt kann eine ressourcenschonende, resilientere Agrarproduktion die Gesundheit der Tiere sowie die Qualit\u00e4t des Wassers, der B\u00f6den, Luft und \u00d6kosysteme verbessern und dabei besser mit klimabedingten Extremwetterereignissen umgehen.\r\n\r\nEine resilientere landwirtschaftliche Produktion kann gerade bei der F\u00f6rderung wirtschaftlicher Stabilit\u00e4t eine wichtige Rolle spielen. Mehr als 50 Prozent der Arbeitskr\u00e4fte in einkommensschwachen L\u00e4ndern arbeiten in der landwirtschaftlichen Produktion, insbesondere in kleinb\u00e4uerlichen Betrieben.  Viele dieser Familien leben in extremer Armut oder sind akut von Armut bedroht. Schocks durch klimabedingte Extremwettereignisse haben f\u00fcr sie oft eine verheerende \u00f6konomische und soziale Wirkung. Eine angepasste, klimaresilientere Landwirtschaft kann die Lebensgrundlage und Perspektiven von Millionen von Familien in ihrer Heimat stabilisieren. Die von der niederl\u00e4ndischen Regierung einberufenen Global Commission on Adaptation ermittelte beispielsweise, dass die Gesamtrendite von Investitionen in Anpassungsma\u00dfnahmen extrem hoch ist \u2013 jeder investierte US-Dollar kann zwischen zwei bis zehn US-Dollar Rendite erbringen.  Diese Investitionen sind keine Einbahnstra\u00dfe, Deutschland profitiert ebenfalls. Durch den Aufbau stabilerer Partnerl\u00e4nder werden gleichzeitig auch die eigenen wirtschaftlichen und sicherheitspolitischen Interessen gest\u00e4rkt. Gerade die Landwirtschaft spielt hierbei eine wichtige Rolle als einer der bedeutendsten Wirtschaftszweige in vielen einkommensschwachen L\u00e4ndern. Dar\u00fcber hinaus ist es in der aktuellen geopolitischen Lage und f\u00fcr Exportnationen dringend notwendig und ein Kernanliegen, gute Beziehungen zu Entwicklungsl\u00e4ndern in aufstrebenden Regionen der Welt aufrechtzuerhalten. Gerade weil andere Staaten wie China und Russland ihren Einfluss in vielen dieser L\u00e4nder weiter ausbauen.\r\n\r\nDar\u00fcber hinaus st\u00e4rkt eine regionalisierte F\u00f6rderung nachhaltiger landwirtschaftlicher Produktion und klimaresilienter Landwirtschaft nicht nur Ern\u00e4hrungssicherheit und -souver\u00e4nit\u00e4t vor Ort, sondern reduziert auch das Risiko von Versorgungsl\u00fccken und Preisschwankungen auf internationaler Ebene. Aktuell liefern zehn Nutzpflanzen 83 Prozent der weltweiten Nahrungsmittelkalorien und beanspruchen 63 Prozent der globalen Anbaufl\u00e4che \u2013 jedoch werden davon nur 37 Prozent f\u00fcr den direkten menschlichen Verzehr beansprucht.  Der Gro\u00dfteil wird von einigen wenigen Staaten angebaut und in Futtermitteln, Biokraftstoffen, Textilien, Arzneimittel oder andere Produkte weiterverarbeitet. Wird die Produktion auf mehr Staaten verteilt und der Fokus st\u00e4rker auf den nachhaltigen Anbau und Verzehr von Agrarprodukten vor Ort gelegt, bringt das sowohl regionale als auch global positive Effekte mit sich.\r\n\r\nAuch in Deutschland kann ein gerechteres Agrar- und Ern\u00e4hrungssystem das Gemeinwohl verbessern und dabei die Gesundheit von Mensch, Natur und Tieren sch\u00fctzen. So liegt die mittlere Artenzahl von Ackerwildkr\u00e4utern bei \u00f6kologischer Landwirtschaft um 95 Prozent h\u00f6her als bei konventioneller, es finden sich dort 35 Prozent mehr Feldvogelarten und 23 Prozent mehr bl\u00fctenbesuchende Insekten.  Durch eine ressourcen- und umweltschonendere Landwirtschaft mit geringerem Einsatz von D\u00fcngemitteln und Pestiziden werden zudem Oberfl\u00e4chengew\u00e4sser und Grundwasser geschont. Das ist gerade in Deutschland wichtig, denn im Mittel liegt der bilanzierte Stickstoff\u00fcberschuss hier bei mehr als 80 Kilogramm pro Hektar pro Jahr \u2013 der Zielwert der Deutschen Nachhaltigkeitsstrategie liegt bei maximal 70 Kilogramm.  Der Schutz unserer B\u00f6den, dem Wasser und der biologischen Vielfalt sind ein gro\u00dfer Mehrwert an sich, ihre Funktionsf\u00e4higkeit ist aber auch f\u00fcr die landwirtschaftliche Produktion selbst entscheidend \u2013bspw. f\u00fcr Best\u00e4ubung, Bodenfruchtbarkeit, Kontrolle von Schaderregern u.v.m.. \r\n\r\nAuch der monet\u00e4re Vorteil w\u00e4re immens. Es stimmt zwar, dass die Transformationskosten beachtlich sind, doch ist das Teuerste, was wir jetzt tun k\u00f6nnen, nichts. Eine Transformation des Agrar- und Ern\u00e4hrungssystems kostet laut der Food Systems Economics Commission sch\u00e4tzungsweise 0,2 bis 0,4 Prozent der weltweiten Wirtschaftsleistung pro Jahr, die globalen sozio\u00f6konomischen Gewinne belaufen sich hingegen auf 5 bis 10 Billionen US-Dollar pro Jahr.   In Deutschland verursacht das Agrar- und Ern\u00e4hrungssystem versteckte Kosten in H\u00f6he von mehr als 300 Milliarden US-Dollar \u2013 ca. 90 Prozent dieser Folgekosten beruhen auf einer ungesunden Ern\u00e4hrung mit zu vielen stark verarbeiteten Lebensmitteln, tierischen Produkten Fett und Zucker und den damit einhergehenden Erkrankungen und Produktivit\u00e4tsverlusten.  Eine ges\u00fcndere Ern\u00e4hrungsumgebung mit Fokus auf pflanzlichen und wenig verarbeiteten Produkten erm\u00f6glicht die Chance Leben zu retten, Gesundheit zu wahren, Milliarden an Folgekosten zu sparen und leistet dabei einen immensen Beitrag f\u00fcr den Schutz der Natur und \u00d6kosysteme. \r\n\r\nDie Situation der Landwirt:innen in Deutschland ist gepr\u00e4gt durch harte Arbeit, lange Tage, wenig Freizeit und geringe Gewinne. Viele erleben fehlende Wertsch\u00e4tzung f\u00fcr den gesellschaftlichen Beitrag, den sie leisten. Orientiert man die Subventionspolitik der Gemeinsamen Agrarpolitik (GAP) der Europ\u00e4ischen Union daran, was die Landwirtschaft f\u00fcr das Gemeinwohl tut, dann m\u00fcssen die bisher externalisierten Umweltkosten von Agrarproduktion eingepreist und der wichtige Beitrag von landwirtschaftlichen Betrieben zum Umweltschutz angemessen entlohnt werden. Das ist gut f\u00fcr unsere Gesundheit, den Planeten und ein gesellschaftliches sowie finanzielles Zeichen der Wertsch\u00e4tzung f\u00fcr unsere B\u00e4uer:innen.\r\n\r\nWir haben also alle sehr viel zu gewinnen \u2013 gesundheitlich, \u00f6kologisch und \u00f6konomisch. Das lohnt sich.\r\n\r\n\r\nUnsere Forderungen\r\n\r\nObwohl die Herausforderungen komplex, ressort\u00fcbergreifend und nur global mit allen Akteur:innen zu l\u00f6sen sind, gibt es einige Hebel, die der Bundesregierung zur Verf\u00fcgung stehen, um sowohl in Deutschland als auch international ihrer Verantwortung gerecht zu werden. In der Agrar-, Ern\u00e4hrungs-, Gesundheits-, Klima-, Entwicklungs-, Au\u00dfen- und Handelspolitik haben Expert:innen aus der Wissenschaft und Zivilgesellschaft die L\u00f6sungen bereits vorgelegt. Sie sind zentrale Schritte auf dem politischen Weg in ein gerechtes Agrar- und Ern\u00e4hrungssystem f\u00fcr gesunde Menschen auf einem gesunden Planeten.\r\n\r\n\r\nDas Fundament: Biosph\u00e4re & Klima\r\n\r\n1. Landwirtschaft \u00f6kologisch & \u00f6konomisch transformieren: Die Bundesregierung muss planbare Rahmenbedingungen f\u00fcr eine \u00f6kologisch und \u00f6konomisch nachhaltigere Landwirtschaft schaffen. Die Empfehlungen der Zukunftskommission Landwirtschaft stellen eine gute Grundlage dar, die mit klaren Zielvorgaben und Ma\u00dfnahmen umgesetzt werden m\u00fcssen. Zentral dabei sind biodiversit\u00e4tsf\u00f6rdernde Agrar\u00f6kosysteme sowie der attraktive Ausbau landwirtschaftlicher Treibhausgassenken, der nachhaltige Ausbau der Obst- und Gem\u00fcseproduktion sowie die F\u00f6rderung des Leguminosenanbaus, Umbau und Reduktion der Tierhaltung, Honorierung der gesellschaftlichen Umweltleistungen der Landwirtschaft, F\u00f6rderung einer extensiven bzw. n\u00e4hrstoff\u00e4rmeren Bewirtschaftung landwirtschaftlicher Fl\u00e4chen mit drastischer Steigerung der Stickstoffeffizienz.\r\n\r\n2. Landwirtschaft anpassen: Die Bundesregierung muss die Landwirtschaft bei der Anpassung an den Klimawandel unterst\u00fctzen \u2013 das gilt in Deutschland, aber insbesondere in einkommensschwachen L\u00e4ndern. Das beinhaltet die Diversifizierung der Anbausysteme und die F\u00f6rderung von Pflanzenarten, die an spezifische Standorte angepasst sind. Die Unterst\u00fctzung von Forschung und Entwicklung neuer Technologien sowie die Optimierung von Lagerhaltungsverfahren sind entscheidend, um auch die Bodengesundheit zu gew\u00e4hrleisten. Informationen, vorhandenes und neues Wissen m\u00fcssen im globalen Ma\u00dfstab ausgetauscht und der Zugang zu Beratungsleistungen gew\u00e4hrleistet werden. Lokale Bed\u00fcrfnisse und indigenes Wissen sind bei alledem von zentraler Bedeutung. Hinsichtlich der Finanzierung dieser Anpassungsma\u00dfnahmen muss Deutschland in der internationalen Klimafinanzierung 2024 eine f\u00fchrende Rolle einnehmen, um das 100-Milliarden-US-Dollar-Ziel zu erreichen und ab 2025 drastisch auszubauen, die Anpassungsfinanzierung bis 2025 zu verdoppeln und ein deutlich ambitioniertes Ziel f\u00fcr den Zeitraum ab 2025 zu entwickeln.\r\n\r\n3. Nachhaltige Landnutzung f\u00f6rdern: Die Bundesregierung muss nachhaltige Raum- und Landschaftsplanung zum Kern ihrer Agrarpolitik in Deutschland und weltweit machen. Dies sollte im Rahmen eines integrierten Landschaftsansatzes, wie im WBGU-Gutachten ausf\u00fchrlich vorgeschlagen, geschehen. Dies ist f\u00fcr bev\u00f6lkerungsreiche L\u00e4nder in Afrika, die sowohl hohe Nahrungsmittelbed\u00fcrfnisse haben als auch eine bedeutende Rolle im Artenschutz spielen, besonders wichtig. Nachhaltige Raum- und Landschaftsplanung beinhaltet den Erhalt und Ausbau naturnaher Mosaiklandschaften wie Agroforstwirtschaft sowie Land-Sharing-Ans\u00e4tze. Es geht darum, multifunktionale landwirtschaftliche Produktionssysteme zu f\u00f6rdern, gesunde B\u00f6den zu erhalten, degradierte B\u00f6den wiederherzustellen. Dar\u00fcber hinaus muss die Inwertsetzung l\u00e4ndlicher R\u00e4ume \u00fcber die landwirtschaftliche Produktion hinaus nachhaltig gestaltet werden. \r\n\r\n4. Tierhaltung reformieren: Die Bundesregierung muss die Forderungen des Kompetenznetzwerks Nutztierhaltung umsetzen. Bestehende Tierschutzgesetze m\u00fcssen eingehalten und mithilfe juristischer Sanktionen durchgesetzt werden. Dar\u00fcber hinaus m\u00fcssen nachhaltige Finanzierungsl\u00f6sungen f\u00fcr die Transformation von tierhaltenden Betrieben gefunden werden, bei denen Tierwohl und Umweltschutz im Zentrum stehen. Eine Abgabe auf Lebensmittel tierischen Ursprungs ist notwendig. Die Einnahmen m\u00fcssen in den Umbau der Tierhaltung und in die langfristige Reduktion des Tierbestandes flie\u00dfen. Dabei m\u00fcssen beteiligte tierhaltende Betriebe und \u00e4rmere Haushalte, die von steigenden Verbraucherpreisen besonders betroffen sind, finanziell unterst\u00fctzt werden. Au\u00dferdem sollte die Forschung zu und Vermarktung von alternativen Proteinen auf der Basis von Pflanzen, zellul\u00e4rer Landwirtschaft und Pr\u00e4zisionsfermentation sowie heimischen Agrarrohstoffen zum Einsatz in Futtermitteln gef\u00f6rdert werden.\r\n\r\n5. Fischerei und Aquakulturen \u00f6kologisch regionalisieren: Die Bundesregierung muss sich daf\u00fcr einsetzen, die Fischerei und Aquakultur weltweit nachhaltiger zu gestalten. Im Kern bedeutet das, \u00f6kosystemgerechte Fangmethoden umzusetzen und Fangverbote besser durchzusetzen. Die Umweltbelastungen durch Aquakultur m\u00fcssen verringert werden. Subvention f\u00fcr die Industriefischerei m\u00fcssen gezielt abgebaut werden. In einkommensschwachen L\u00e4ndern sollte eine Blue Economy im Sinne nachhaltiger Nutzung der Meeresressourcen zum Erhalt von \u00d6kosystemen und eines ausreichend Lebensunterhalts gef\u00f6rdert werden, die speziell kleine, lokale fischverarbeitende Betriebe f\u00f6rdert. Kleinfischerei und K\u00fcstenfischerei sollte ebenfalls gest\u00e4rkt werden.\r\n\r\n\r\nDer soziale Zusammenhalt: Gesellschaft & Mensch\r\n\r\n1. Ern\u00e4hrungsstrategie konsequent umsetzen und ausbauen: Die Bundesregierung hat im Januar ihre neue Ern\u00e4hrungsstrategie \u201eGutes Essen f\u00fcr Deutschland\u201c beschlossen. Es werden begr\u00fc\u00dfenswerte Ziele formuliert, es fehlen aber konkrete Ma\u00dfnahmen, Zielvorgaben und Finanzierungsm\u00f6glichkeiten. Daf\u00fcr gibt es zahlreiche Vorschl\u00e4ge. Folgend sind einige entscheidende Ma\u00dfnahmen aufgelistet, die auf den g\u00e4ngigen Forderungen zivilgesellschaftlicher und wissenschaftlicher Akteur:innen beruhen.\r\n\r\n2. (Klima-)gesunde Gemeinschafts- & Au\u00dfer-Haus-Verpflegung etablieren: Analog zu den Empfehlungen des B\u00fcrgerrats \u201eErn\u00e4hrung im Wandel\u201c ist die Bundesregierung dazu angehalten die Gemeinschafts- und Au\u00dfer-Haus-Verpflegung (GV & AHV) gesundheitsf\u00f6rderlich und nachhaltig zu gestalten. Die Nahrungsmittelversorgung und -verarbeitung sowie Ern\u00e4hrungsumgebungen in der GV und AHV sollte hin zu einer gesundheits-, klima- und biodiversit\u00e4tsf\u00f6rderlichen umgebaut werden. Dabei sollte der Fokus auf regionale, \u00f6kologisch nachhaltigere Produkte gelegt, der Anteil an Bio-Produkten in der GV gesteigert und Vergaberichtlinien entsprechend angepasst werden. Bei der GV sind sozialvertr\u00e4gliche Preise besonders wichtig.\r\n\r\n3. Mehr Bildung f\u00fcr (klima-)gesunde Ern\u00e4hrung erm\u00f6glichen: Die Bundesregierung muss fl\u00e4chendeckende Bildungsma\u00dfnahmen in allen Lebenswelten f\u00f6rdern (inkl. Schul-, Aus-, Weiter-, Fortbildung f\u00fcr Multiplikator:innen und relevante Berufsgruppen - von Landwirt:innen bis hin zu K\u00f6ch:innen und Gesundheitsberufen) und diese Neuausrichtung mit zielgruppenorientierten Aufkl\u00e4rungskampagnen begleiten. Diese m\u00fcssen Wissen \u00fcber gesunde und nachhaltige Ern\u00e4hrung sowie nachhaltige \u00f6kologische Landwirtschaft sowie deren Vorteile f\u00fcr die jeweilige Zielgruppe vermitteln. Dar\u00fcber hinaus sollten diese Bildungsma\u00dfnahmen die Entwicklung einer handlungsorientierten planetaren Gesundheitskompetenz unterst\u00fctzen. Diese Kompetenz bef\u00e4higt die Verbraucher:innen, Landwirt:innen und andere relevanten Berufsgruppen, nachhaltige Entscheidungen bei der Produktion, Auswahl und Zubereitung von Lebensmitteln zu treffen und diese Entscheidungen in die Praxis umzusetzen. \r\n\r\n4. Ungesunde Werbung regulieren: Die Bundesregierung sollte sich f\u00fcr eine Regulierung der Werbema\u00dfnahmen f\u00fcr ungesunde und umweltsch\u00e4digende Lebensmittel, insbesondere jene, die sich an Kinder richten, einsetzen. Die geplanten Ma\u00dfnahmen der Ern\u00e4hrungsstrategie zum Verbot von Werbung in Sendungen f\u00fcr Kinder und Jugendliche m\u00fcssen konsequent umgesetzt werden. Insbesondere in den \u00f6ffentlich-rechtlichen Medien kann die Werbung f\u00fcr gesundheitssch\u00e4dliche und nicht nachhaltige Lebensmittel schnell begrenzt werden. \r\n\r\n5. Forschung & Innovation f\u00f6rdern: Die Bundesregierung muss die Forschungsinfrastruktur f\u00fcr ein nachhaltiges und gerechtes Agrar- und Ern\u00e4hrungssystem f\u00f6rdern. Dies beinhaltet mehr Forschung zu nachhaltiger Nahrungsmittelproduktion, zukunftsf\u00e4higer Landbewirtschaftung, zur F\u00f6rderung alternativer Proteine sowie der Resilienz von proteinhaltigen Pflanzen wie Kichererbsen und N\u00fcssen zur Verringerung von Lebensmittelverschwendung, Optimierung logistischer Prozesse, Unterst\u00fctzung eines gesunden Lebensmittelkonsums und Entwicklung nachhaltiger Ern\u00e4hrungsweisen. Die Einf\u00fchrung und Nutzung digitaler Technologien in der Landwirtschaft kann erhebliche Effizienzsteigerungen mit sich bringen. Der Technologie- und Wissenstransfer an und mit Landwirt:innen in Deutschland sowie auch Kleinb\u00e4uer:innen in einkommensschwachen L\u00e4ndern spielt dabei eine entscheidende Rolle. Staatliche Investitionen sind bei alledem unerl\u00e4sslich.\r\n\r\n6. Multilateralismus f\u00fcr Ern\u00e4hrungssicherheit und -souver\u00e4nit\u00e4t st\u00e4rken: Die Bundesregierung muss ihr Engagement in multilateralen Systemen und Organisationen f\u00fcr nachhaltige Landwirtschaft und Ern\u00e4hrung wie dem Weltern\u00e4hrungsausschuss der Vereinten Nationen (CFS), FAO, WFP und dem Internationalen Fonds f\u00fcr landwirtschaftliche Entwicklung (IFAD) erh\u00f6hen und sich f\u00fcr menschenrechtsbasierte, klimaresiliente und agrar\u00f6kologische Strategien f\u00fcr Ern\u00e4hrungssicherheit und -souver\u00e4nit\u00e4t einsetzen. Auch in den internationalen Klimaverhandlungen (UNFCCC) muss die Bundesregierung einen Fokus auf gerechte und nachhaltige Agrar- und Ern\u00e4hrungssysteme setzen. Diese Zielsetzung sollte ebenso in informellen, zwischenstaatlichen Zusammenschl\u00fcssen wie der G7 und G20 verfolgt werden.\r\n\r\n7. Konfliktpr\u00e4vention ins Zentrum stellen: Die Bundesregierung muss ihre Bem\u00fchungen und Unterst\u00fctzung f\u00fcr die Verh\u00fctung und L\u00f6sung von Gewaltkonflikten verst\u00e4rken und darf ihre Finanzierung von Entwicklungszusammenarbeit und humanit\u00e4rer Hilfe nicht weiter k\u00fcrzen. Die Wechselwirkungen von Konflikten und Ern\u00e4hrungssicherheit sind vielschichtig und werden h\u00e4ufig untersch\u00e4tzt.\r\n\r\n\r\nDie wirtschaftliche Teilhabe: \u00d6konomie & Konsum\r\n\r\n1. Regionale Betriebe f\u00f6rdern: Die Bundesregierung sollte st\u00e4rker lokal und regional verankerte Ern\u00e4hrungs- und Agrarsysteme f\u00f6rdern, um auf regionaler und lokaler Ebene die Interessen von Kleinb\u00e4uer:innen gegen\u00fcber gro\u00dfen Agrar- und Lebensmittelkonzernen zu st\u00e4rken, Importabh\u00e4ngigkeiten abzubauen und lokale Ern\u00e4hrungssicherheit zu f\u00f6rdern. Dabei sollte die Verbesserung der Chancen von kleineren landwirtschaftlichen Betrieben mit Fokus auf agrar\u00f6kologischer Produktion im Vordergrund liegen. Die Diversifizierung nachhaltiger Gesch\u00e4ftst\u00e4tigkeiten, neue Gesch\u00e4ftsmodelle und Eigentumsformen, Zugang zu Saatgut, wissenschaftlichen Erkenntnissen und Technologien, regionale, tierwohlkonforme Verarbeitungs- und Vertriebsstrukturen sollten im Mittelpunkt stehen. Au\u00dferdem muss der Gewinn entlang globaler Lieferketten gerechter verteilt werden.\r\n\r\n2. Faire L\u00f6hne & Preise f\u00fcr Landwirt:innen schaffen: Die Bundesregierung muss die Bedingungen f\u00fcr faire Erzeuger:innenpreise und existenzsichernde L\u00f6hne in der Landwirtschaft schaffen, sowohl in Deutschland als auch global. Die Lebensmittelpreise m\u00fcssen die sozialen und \u00f6kologischen Kosten der landwirtschaftlichen Produktion, Verarbeitung, des Vertriebs, des Einzelhandels und des Konsums widerspiegeln und sollten andererseits \u00e4rmere Menschen nicht davon abhalten, sich f\u00fcr gesunde Lebensmittel zu entscheiden. Gleichzeitig muss dabei sichergestellt werden, dass gesunde und nachhaltige Lebensmittel f\u00fcr alle Gesellschaftsgruppen erschwinglich sind. \r\n\r\n3. Besteuerung klug umstrukturieren: Die Bundesregierung muss auf der Konsumseite besonders zucker-, fett- oder salzhaltige Lebensmittel sowie klima- und umweltsch\u00e4dliche Lebensmittel h\u00f6her besteuern, beispielsweise tierische Lebensmittel. Auf der anderen Seite muss auf besonders gesunde und nachhaltige Lebensmittel wie Obst, Gem\u00fcse oder H\u00fclsenfr\u00fcchte eine dauerhafte Mehrwertsteuersenkung oder -abschaffung eingef\u00fchrt werden. Au\u00dferdem sollte eine \u00dcbergewinnsteuer auf gro\u00dfe Agrar-, Lebensmittel-, Handels- und D\u00fcngemittelkonzerne in Betracht gezogen werden.\r\n\r\n4. GAP & Agrarsubventionen am Gemeinwohl orientieren: Die Bundesregierung muss sich daf\u00fcr einsetzen, dass in der GAP f\u00fcr den Zeitraum 2027-2030 der Anteil der Eco-Schemes erh\u00f6ht wird, die zur Verf\u00fcgung stehenden Geldmittel m\u00f6glichst ausschlie\u00dflich f\u00fcr den Umbau der Landwirtschaft hin zu nachhaltigen Produktionssystemen genutzt werden und pauschale fl\u00e4chengebundene Direktzahlungen schrittweise hinzu gemeinwohlorientierten Leistungen umgewandelt werden. Aktuell sind GAP-Pr\u00e4mien f\u00fcr Umweltschutz so konzipiert, dass sie nur den entgangenen Ertrag kompensieren. Diese Pr\u00e4mien sollten erh\u00f6ht werden, sodass Landwirte mit Umweltleistungen auch Einkommen generieren k\u00f6nnen. Neben der GAP m\u00fcssen auch andere umweltsch\u00e4dliche Subventionen \u00fcberdacht werden.\r\n\r\n\r\nImpressum\r\n\r\nStiftung Gesunde Erde Gesunde Menschen gGmbH\r\nc/o Publix gGmbH, Hermannstr. 90\r\n12051 Berlin\r\nE-Mail: kontakt@stiftung-gegm.de\r\nWebsite: https://stiftung-gegm.de/ \r\n\r\nAutor:innen:\r\nDonald Sandmann, Katharina Weiss-Tuider, Sophie Kregel, Kerstin Blum, Hannah M\u00fcller\r\nMit Unterst\u00fctzung von L\u00e9a Glasmeyer, Sergius Seebohm von seebohm.berlin\r\n\r\nM\u00e4rz 2024"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/e3/cf/327329/Stellungnahme-Gutachten-SG2406300010.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMZ",
+                                "de": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                                "en": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-06"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0010617",
+                "regulatoryProjectTitle": "Bundeshaushalt 2025 - Ausgaben f\u00fcr \u00d6ffentliche Entwicklungsleistungen (ODA)",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Haushaltspriorit\u00e4ten f\u00fcr 2025 - Handlungsempfehlungen zur Finanzierung f\u00fcr Entwicklung, Klima und humanit\u00e4re Hilfe\r\n\r\nSehr geehrter Herr Staatssekret\u00e4r Flasbarth, nach den drastischen K\u00fcrzungen von insgesamt fast 2 Milliarden Euro in den Bereichen Entwicklungszusammenarbeit, Humanit\u00e4re Hilfe und Internationaler Klimaschutz im Haushalt 2024 sind wir, sieben Vertreter*innen zivilgesellschaftlicher Organisationen, sehr besorgt. Denn die K\u00fcrzungen bedeuten f\u00fcr Millionen Menschen weltweit, insbesondere in Krisenregionen, eine dramatische Verschlechterung ihrer Lebensgrundlage. Dar\u00fcber hinaus stellt sich die Frage, wie Deutschland k\u00fcnftig auf die multiplen globalen Krisen unserer Zeit ad\u00e4quat reagieren kann, wenn die finanzielle Grundlage f\u00fcr Programme fehlt. Noch beunruhigender als die bereits vorgenommenen K\u00fcrzungen ist die mittelfristige Finanzplanung: Diese sieht weitere K\u00fcrzungen in H\u00f6he von 947 Millionen Euro allein f\u00fcr den BMZ-Haushalt 2025 vor und Berichten zufolge fehlen zus\u00e4tzlich zweistellige Milliardenbetr\u00e4ge f\u00fcr den Gesamthaushalt. Vor diesem Hintergrund und im Vorfeld des Staatssekret\u00e4r*innen-Termin zu den Eckwerten des Haushalts 2025 am Donnerstag, den 7. M\u00e4rz, wenden wir uns mit den folgenden zwei wichtigen Handlungsempfehlungen an Sie:\r\n\r\nDie Eckwerte der BMZ- und AA-Etats f\u00fcr 2025 sind in Einklang mit internationalen Selbstverpflichtungen und den im Koalitionsvertrag festgehaltenen Schwerpunkten der internationalen Zusammenarbeit zu bringen. Statt den Rotstift erneut anzusetzen, muss Deutschland jetzt mehr denn je auf Zusammenarbeit setzen und mindestens 0,7 Prozent der Wirtschaftsleistung f\u00fcr Entwicklungszusammenarbeit und humanit\u00e4re Hilfe in 2025 bereitstellen.\r\n\r\nW\u00e4hrend die anstehende Staatssekret\u00e4r*innen-Runde die ausreichende, planbare und verl\u00e4ssliche Finanzierung f\u00fcr BMZ und AA aus Haushaltsmitteln sichern soll, erfordern die haushalterische Herausforderungen die Erschlie\u00dfung zus\u00e4tzlicher innovativer Finanzmittel f\u00fcr Entwicklung und Klima - Deutschland sollte internationale Prozesse in dieser Hinsicht mitgestalten und vorantreiben.\r\n\r\nEntwicklungszusammenarbeit ist von entscheidender Bedeutung, um die Lebensbedingungen in den am wenigsten entwickelten L\u00e4ndern zu verbessern und globale Ungleichheiten zu verringern. Zur Halbzeit der Agenda 2030 sind die Unterzeichnerstaaten, zu denen auch Deutschland geh\u00f6rt, noch weit davon entfernt, diese bis 2030 zu erreichen. Noch immer leiden rund 735 Millionen Menschen an Hunger, das sind 150 Millionen mehr als vor der Corona-Pandemie. In Zeiten multipler Krisen ist die K\u00fcrzung der Mittel f\u00fcr Entwicklungszusammenarbeit, humanit\u00e4re Hilfe und Klimafinanzierung eine Absage gerade an die Menschen, die am meisten unter Armut, Hunger und den Folgen der Klimakrise leiden. Die Etats des BMZ und des Ausw\u00e4rtigen Amts nicht ausreichend zu finanzieren, w\u00fcrde nicht nur bereits teils angespannte Partnerschaften mit L\u00e4ndern des Globalen S\u00fcdens belasten, sondern auch der Glaubw\u00fcrdigkeit der Bundesregierung als verl\u00e4ssliche und stabile Partnerin schwer schaden.\r\nWir appellieren an Sie, internationaler Klimafinanzierung, Entwicklungszusammenarbeit und humanit\u00e4rer Hilfe die angemessene Priorit\u00e4t in der Haushaltsplanung f\u00fcr 2025 zuzusprechen und sicherzustellen, dass diese Bereiche ausreichend finanziert werden, um eine verl\u00e4ssliche Planung und Umsetzung entsprechender politischer Strategien, wie z.B. die SDGs und die Agenda 2030, zu erm\u00f6glichen. Wir w\u00fcrden uns sehr freuen, unsere Handlungsempfehlungen mit Ihnen und Ihrem Team zu diskutieren. \r\n\r\nVielen Dank und mit freundlichen Gr\u00fc\u00dfen\r\n\r\nGlobal Citizen\r\nOxfam\r\nDeutsche Stiftung Weltbev\u00f6lkerung (DSW)\r\nFreunde des Globalen Fonds Europa\r\nDeutsche Welthungerhilfe e.V.\r\nThe ONE Campaign\r\nStiftung Gesunde Erde - Gesunde Menschen"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

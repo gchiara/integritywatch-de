@@ -1,0 +1,958 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-14T15:50:16.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-28T12:19:11.000+01:00",
+        "lastUpdateDate": "2024-06-28T12:42:36.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 40053,
+                "validFromDate": "2024-06-28T12:42:36.000+02:00",
+                "version": 19,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 30173,
+                "validFromDate": "2024-06-28T12:30:27.000+02:00",
+                "validUntilDate": "2024-06-28T12:42:36.000+02:00",
+                "version": 18,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 33691,
+                "validFromDate": "2024-05-17T16:00:01.000+02:00",
+                "validUntilDate": "2024-06-28T12:30:27.000+02:00",
+                "version": 17,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 28356,
+                "validFromDate": "2024-01-18T16:14:15.000+01:00",
+                "validUntilDate": "2024-05-17T16:00:01.000+02:00",
+                "version": 16,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 28027,
+                "validFromDate": "2024-01-08T11:18:45.000+01:00",
+                "validUntilDate": "2024-01-18T16:14:15.000+01:00",
+                "version": 15,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26281,
+                "validFromDate": "2023-10-18T18:01:33.000+02:00",
+                "validUntilDate": "2024-01-08T11:18:45.000+01:00",
+                "version": 14,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 19394,
+                "validFromDate": "2023-05-03T15:31:10.000+02:00",
+                "validUntilDate": "2023-10-18T18:01:33.000+02:00",
+                "version": 13,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 18204,
+                "validFromDate": "2023-03-17T11:37:00.000+01:00",
+                "validUntilDate": "2023-05-03T15:31:10.000+02:00",
+                "version": 12,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16408,
+                "validFromDate": "2023-02-14T15:50:16.000+01:00",
+                "validUntilDate": "2023-03-17T11:37:00.000+01:00",
+                "version": 11,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_CONSULTING",
+            "de": "Beratungsunternehmen, selbst\u00e4ndige Beraterin oder selbst\u00e4ndiger Berater",
+            "en": "Consulting company, independent consultant"
+        },
+        "activityDescription": "Strategic Minds Company ber\u00e4t und unterst\u00fctzt seine Kunden bei ihrer strategischen Positionierung an der Schnittstelle zwischen Wirtschaft, Politik und Gesellschaft. Zu diesem Zweck schaffen wir u.a. Foren (Diskussionsrunden, Gespr\u00e4chsreihen, Seminare, Workshops, Konferenzen, etc.), die den konstruktiven und un-ideologischen Austausch zwischen Vertretern von Wirtschaft, Politik und Gesellschaft zu aktuellen politisch und gesellschaftlich relevanten Themen erm\u00f6glichen. Zur Vorbereitung und Durchf\u00fchrung dieser Formate sind wir im Kontakt mit den entsprechenden Vertreterinnen und Vertretern der politischen Organe. ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_FA_BRD",
+                "de": "Au\u00dfenpolitik",
+                "en": "Foreign policy of the federal republic of Germany"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_MEDIA_FREEDOM_OF_SPEECH",
+                "de": "Meinungs- und Pressefreiheit",
+                "en": "Freedom of speech and freedom of the press"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_RP_CITY",
+                "de": "Stadtentwicklung",
+                "en": "Urban development"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_ENERGY_NUCLEAR",
+                "de": "Atomenergie",
+                "en": "Nuclear power"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_FA_OTHER",
+                "de": "Sonstiges im Bereich \"Au\u00dfenpolitik und internationale Beziehungen\"",
+                "en": "Other in the field of \"Foreign policy and international relations\""
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "ON_BEHALF_OF_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird im Auftrag Dritter selbst wahrgenommen",
+                "en": "Representation of interests is carried out on behalf of third parties themselves"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/e2/e6/323727/Jahresabschluss2023_StrategicMindsCompany.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "financialResourcesReceived": {
+                                "from": 150001,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 200000
+                            },
+                            "referenceDetailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001268",
+                            "referenceName": "Iridium Satellite LLC"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [
+                        {
+                            "academicDegreeBefore": "Dr.",
+                            "firstName": "Friedbert",
+                            "lastName": "Pfl\u00fcger",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Sebastian",
+                            "lastName": "Kiefer",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "Politische Flankierung f\u00fcr Iridium in Deutschland.",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "regulatoryProjects": [
+                    {
+                        "regulatoryProjectNumber": "RV0009133",
+                        "regulatoryProjectTitle": "Begleitung des Lizensierungsverfahrens"
+                    }
+                ]
+            },
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "address": {
+                                "city": "Berlin ",
+                                "country": {
+                                    "code": "DE",
+                                    "de": "Deutschland",
+                                    "en": "Germany"
+                                },
+                                "nationalAdditional1": "HIF EMEA GmbH",
+                                "street": "Lenn\u00e9stra\u00dfe",
+                                "streetNumber": "3",
+                                "type": "NATIONAL",
+                                "zipCode": "10785"
+                            },
+                            "capitalCityRepresentationPresent": false,
+                            "contactDetails": {
+                                "emails": [
+                                    {
+                                        "email": "emea-office@hifglobal.com"
+                                    }
+                                ],
+                                "phoneNumber": "+4930200031530",
+                                "websites": [
+                                    {
+                                        "website": "https://hifglobal.com/region/hif-emea"
+                                    }
+                                ]
+                            },
+                            "financialResourcesReceived": {
+                                "from": 1,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 50000
+                            },
+                            "legalForm": {
+                                "code": "LF_GMBH",
+                                "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+                                "en": "Limited liability company (GmbH)"
+                            },
+                            "legalFormType": {
+                                "code": "JURISTIC_PERSON",
+                                "de": "Juristische Person",
+                                "en": "Legal person"
+                            },
+                            "legalRepresentatives": [
+                                {
+                                    "firstName": "Thorsten",
+                                    "function": "CEO",
+                                    "lastName": "Herdan"
+                                }
+                            ],
+                            "name": "HIF EMEA GmbH"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [
+                        {
+                            "referenceDetailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002181",
+                            "referenceName": "BGA - Berlin Global Advisors GmbH"
+                        }
+                    ],
+                    "contractorPersons": [],
+                    "entrustedPersons": [
+                        {
+                            "academicDegreeBefore": "Dr.",
+                            "firstName": "Friedbert",
+                            "lastName": "Pfl\u00fcger",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Sebastian",
+                            "lastName": "Kiefer",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "Politisch-regulatorische Beratung insb. zur Frage der Hinderungsgr\u00fcnde f\u00fcr die Einfuhr (und klima\u00f6konomische Anrechnung in EU ETS) von erneuerbaren, strombasierten Kraftstoffen aus Drittstaaten.\r\n\r\n",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    }
+                ],
+                "regulatoryProjects": []
+            },
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "financialResourcesReceived": {
+                                "from": 50001,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 100000
+                            },
+                            "referenceDetailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001306",
+                            "referenceName": "Uniper SE"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [
+                        {
+                            "academicDegreeBefore": "Dr.",
+                            "firstName": "Friedbert",
+                            "lastName": "Pfl\u00fcger",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Hauke",
+                            "lastName": "Hansen",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "Holistische Unterst\u00fctzung bei der Organisation energiepolitischer Diskussionsrunden in Berlin.",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "regulatoryProjects": []
+            },
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "financialResourcesReceived": {
+                                "from": 50001,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 100000
+                            },
+                            "referenceDetailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R003578",
+                            "referenceName": "Fluxys TENP"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [
+                        {
+                            "academicDegreeBefore": "Dr.",
+                            "firstName": "Friedbert",
+                            "lastName": "Pfl\u00fcger",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "Gelegentliche Unterst\u00fctzung bei der Organisation energiepolitischer Gespr\u00e4chsformate in Berlin.",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "regulatoryProjects": []
+            },
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "country": {
+                                    "code": "DE",
+                                    "de": "Deutschland",
+                                    "en": "Germany"
+                                },
+                                "street": "Leipziger Platz 15",
+                                "streetNumber": "15",
+                                "type": "NATIONAL",
+                                "zipCode": "10117"
+                            },
+                            "capitalCityRepresentationPresent": false,
+                            "contactDetails": {
+                                "emails": [
+                                    {
+                                        "email": "pierce@amgaspartners.com"
+                                    }
+                                ],
+                                "phoneNumber": "+12039793729",
+                                "websites": [
+                                    {
+                                        "website": "https://www.amgaspartners.com/"
+                                    }
+                                ]
+                            },
+                            "financialResourcesReceived": {
+                                "from": 150001,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 200000
+                            },
+                            "legalForm": {
+                                "code": "LF_OTHER_INTERNATIONAL",
+                                "de": "Andere Rechtsform nach anderem als deutschem Recht",
+                                "en": "Other legal form according to other than German law",
+                                "legalFormText": "Inc."
+                            },
+                            "legalFormType": {
+                                "code": "OTHER_ASSOCIATION_OF_PERSONS",
+                                "de": "Sonstige Personenvereinigungen",
+                                "en": "Other associations of persons"
+                            },
+                            "legalRepresentatives": [
+                                {
+                                    "firstName": "Pierce",
+                                    "function": "CEO",
+                                    "lastName": "Kirby"
+                                }
+                            ],
+                            "name": "American Gas Partners Inc."
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [
+                        {
+                            "referenceDetailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002181",
+                            "referenceName": "BGA - Berlin Global Advisors GmbH"
+                        }
+                    ],
+                    "contractorPersons": [],
+                    "entrustedPersons": [
+                        {
+                            "academicDegreeBefore": "Dr.",
+                            "firstName": "Friedbert",
+                            "lastName": "Pfl\u00fcger",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Sebastian",
+                            "lastName": "Kiefer",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "American Gas Partner bietet den direkten Einkauf von US LNG an (also ohne die Nutzung von Zwischenh\u00e4ndlern) durch direkte Beteiligung der Kunden am Aufbau eines Exportterminals per Investition in einen Fonds. Die Beratung bezieht sich insb. auf Fragen zu staatlichen Finanzierungsgarantien f\u00fcr diese Investitionen.",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_FOSSILE",
+                        "de": "Fossile Energien",
+                        "en": "Fossil fuels"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "regulatoryProjects": []
+            }
+        ],
+        "contractsPresent": true
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 2.0,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 110001,
+            "to": 120000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Strategic Minds Company GmbH",
+            "nationalAdditional2": "c/o Berlin Global Advisors GmbH",
+            "street": "Kurf\u00fcrstendamm",
+            "streetNumber": "53",
+            "type": "NATIONAL",
+            "zipCode": "10707"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "office@strategic-minds.eu"
+                }
+            ],
+            "phoneNumber": "+493088774290",
+            "websites": [
+                {
+                    "website": "https://www.strategic-minds.eu"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Ralf Theodor",
+                "lastName": "Welt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Friedbert",
+                "lastName": "Pfl\u00fcger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Sibylle",
+                "lastName": "Pfl\u00fcger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Sebastian",
+                "lastName": "Kiefer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Hauke",
+                "lastName": "Hansen",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Martin",
+                "lastName": "Wiesmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Arndt",
+                "lastName": "Freiherr Freytag von Loringhoven",
+                "recentGovernmentFunction": {
+                    "endDate": "2022-06",
+                    "ended": true,
+                    "federalAdministration": {
+                        "function": "Botschafter",
+                        "supremeFederalAuthority": "Ausw\u00e4rtiges Amt (AA) oder dessen Gesch\u00e4ftsbereich",
+                        "supremeFederalAuthorityShort": "AA"
+                    },
+                    "type": {
+                        "code": "FEDERAL_ADMINISTRATION",
+                        "de": "Bundesverwaltung",
+                        "en": "Federal administration"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Ralf Theodor",
+                "function": "Managing Partner",
+                "lastName": "Welt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Martin",
+                "function": "Managing Partner",
+                "lastName": "Wiesmann",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Ost-Ausschuss der deutschen Wirtschaft e.V. "
+            },
+            {
+                "membership": "Arab-German Chamber of Commerce and Industry e.V."
+            },
+            {
+                "membership": "Deutsche Gesellschaft f\u00fcr Ausw\u00e4rtige Politik e.V. "
+            },
+            {
+                "membership": "Wirtschaftsrat der CDU e.V."
+            },
+            {
+                "membership": "Global Bridges e.V. "
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Strategic Minds Company GmbH"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002035/40053",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-28T12:30:27.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/e7/92/323728/Lobbyregister-Detailansicht-R002035-2024-06-28_12-42-36.pdf",
+        "validFromDate": "2024-06-28T12:42:36.000+02:00",
+        "version": 19
+    },
+    "registerEntryId": 40053,
+    "registerNumber": "R002035",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Beratende Flankierung des Lizensierungsverfahrens f\u00fcr Iridium bei der BNetzA. Dazu wird die Aufmerksamkeit auf die strategische Bedeutung der Iridium-Infrastruktur gegen\u00fcber ausgew\u00e4hlten Stakeholdern im politischen Umfeld von Parlament und Exekutive (Bund/L\u00e4nder) kommuniziert. Diese T\u00e4tigkeit ist nicht-laufend, sondern anlassbezogen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009133",
+                "statements": [],
+                "title": "Begleitung des Lizensierungsverfahrens"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die Einfuhr (und klima\u00f6konomische Anrechnung in EU ETS) von erneuerbaren, strombasierten Kraftstoffen aus Drittstaaten. Aktuell sind dies sind Delegierte Rechtsakte zur RED, die Regulierung l\u00e4uft auf ein nicht-tarif\u00e4res Handelshemmnis hinaus und muss entweder im Wege einer neuen Rechtssetzung durch die EU-KOM oder im Rahmen eines Interpretationsspielraums ge\u00e4ndert werden (hierzu noch keine abschlie\u00dfende Rechtsauffassung). ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009134",
+                "statements": [],
+                "title": "Einfuhr (und Anrechnung in EU ETS) von erneuerbaren, strombasierten Kraftstoffen aus Drittstaaten"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

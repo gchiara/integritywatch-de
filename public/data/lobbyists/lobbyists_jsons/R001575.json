@@ -1,0 +1,871 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-27T17:09:36.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-25T12:07:33.000+01:00",
+        "lastUpdateDate": "2024-06-24T12:17:48.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 38736,
+                "validFromDate": "2024-06-24T12:17:48.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 34661,
+                "validFromDate": "2024-06-21T11:43:40.000+02:00",
+                "validUntilDate": "2024-06-24T12:17:48.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 28988,
+                "validFromDate": "2024-02-15T18:02:17.000+01:00",
+                "validUntilDate": "2024-06-21T11:43:40.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17259,
+                "validFromDate": "2023-02-27T17:09:36.000+01:00",
+                "validUntilDate": "2024-02-15T18:02:17.000+01:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_CONSULTING",
+            "de": "Beratungsunternehmen, selbst\u00e4ndige Beraterin oder selbst\u00e4ndiger Berater",
+            "en": "Consulting company, independent consultant"
+        },
+        "activityDescription": "Die iconomy GmbH ist eine Beratungsgesellschaft f\u00fcr die Digital- und Technologiewirtschaft. Die Schwerpunkte liegen auf der Beratung von und Beteiligung an Startups in der Fr\u00fchphase und ihrer Begleitung beim Markteintritt und erster Skalierung. Zudem unterst\u00fctzt die iconomy GmbH einzelne bereits etablierte Akteure - zumeist aus dem deutschen und europ\u00e4ischen Technologie \u00d6kosystem - auf strategischer Ebene, darunter auch immer wieder hinsichtlich politischer Fragestellungen im Bereich Datenschutz, Kartellrecht, Daten- und KI-Regulierung sowie weitere Themen im digitalpolitischen Kontext.\r\n\r\nSofern die T\u00e4tigkeiten der gelegentlich auch T\u00e4tigkeiten umfassen, die im Rahmen des Lobbyregisters relevant sind, nimmt die iconomy GmbH im Auftrag ihrer Mandanten Kontakte zu legislativen und exekutiven Entscheidungstr\u00e4ger/innen auf, um den Dialog von Politik, Exekutive und Digitalwirtschaft insbesondere, aber nicht nur zum Themen der Digitalen Agenda zu f\u00f6rdern. Dazu steht die iconomy GmbH im regelm\u00e4\u00dfigen Austausch mit allen Branchenbeteiligten, insbesondere mit Unternehmen, Verb\u00e4nden sowie den Vertreterinnen und Vertretern von Wissenschaft, Medien und Politik. Die iconomy GmbH veranstaltet dazu unter anderem auch Workshops und Diskussionsrunden und \u00e4hnliche dem Austausch dienende Formate. Das Ziel der f\u00fcr das Lobbyregister relevanten T\u00e4tigkeiten ist abh\u00e4ngig vom jeweiligen Mandat und liegt  typischerweise darin, die Auswirkungen legislativer und exekutiver Vorhaben und Vorgaben auf die jeweiligen Mandanten und Mandantengruppen bewusst zu machen.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_ECONOMY_AUTOMOBILE",
+                "de": "Automobilwirtschaft",
+                "en": "Automotive industry"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_ECONOMY_ECOMMERCE",
+                "de": "E-Commerce",
+                "en": "E-commerce"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_ECONOMY_FINANCE",
+                "de": "Bank- und Finanzwesen",
+                "en": "Banking and finance"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            },
+            {
+                "code": "ON_BEHALF_OF_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird im Auftrag Dritter selbst wahrgenommen",
+                "en": "Representation of interests is carried out on behalf of third parties themselves"
+            },
+            {
+                "code": "CONTRACTS_OPERATED_BY_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird in eigenem Interesse durch die Beauftragung Dritter wahrgenommen",
+                "en": "Contracts are awarded to third parties to represent own interests of the company"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/92/e0/306620/iconomy-JA-2022-Unternehmensregister.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "country": {
+                                    "code": "DE",
+                                    "de": "Deutschland",
+                                    "en": "Germany"
+                                },
+                                "street": "Gerichtstrasse",
+                                "streetNumber": "23",
+                                "type": "NATIONAL",
+                                "zipCode": "13347"
+                            },
+                            "capitalCityRepresentationPresent": false,
+                            "contactDetails": {
+                                "emails": [
+                                    {
+                                        "email": "support@ecosia.org"
+                                    }
+                                ],
+                                "phoneNumber": "+493061286822",
+                                "websites": [
+                                    {
+                                        "website": "https://www.ecosia.org/"
+                                    }
+                                ]
+                            },
+                            "financialResourcesReceived": {
+                                "from": 1,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 50000
+                            },
+                            "legalForm": {
+                                "code": "LF_GMBH",
+                                "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+                                "en": "Limited liability company (GmbH)"
+                            },
+                            "legalFormType": {
+                                "code": "JURISTIC_PERSON",
+                                "de": "Juristische Person",
+                                "en": "Legal person"
+                            },
+                            "legalRepresentatives": [
+                                {
+                                    "academicDegreeBefore": "Dr.",
+                                    "firstName": "Wolfgang",
+                                    "function": "Chief Operating Officer",
+                                    "lastName": "Oels"
+                                }
+                            ],
+                            "name": "Ecosia"
+                        },
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "country": {
+                                    "code": "DE",
+                                    "de": "Deutschland",
+                                    "en": "Germany"
+                                },
+                                "street": "Sonnenburger Strasse",
+                                "streetNumber": "73",
+                                "type": "NATIONAL",
+                                "zipCode": "10437"
+                            },
+                            "capitalCityRepresentationPresent": false,
+                            "contactDetails": {
+                                "emails": [
+                                    {
+                                        "email": "info@getyourguide.de"
+                                    }
+                                ],
+                                "phoneNumber": "+49493056839445",
+                                "websites": [
+                                    {
+                                        "website": "www.getyourguide.de"
+                                    }
+                                ]
+                            },
+                            "financialResourcesReceived": {
+                                "from": 1,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 50000
+                            },
+                            "legalForm": {
+                                "code": "LF_GMBH",
+                                "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+                                "en": "Limited liability company (GmbH)"
+                            },
+                            "legalFormType": {
+                                "code": "JURISTIC_PERSON",
+                                "de": "Juristische Person",
+                                "en": "Legal person"
+                            },
+                            "legalRepresentatives": [
+                                {
+                                    "firstName": "Bj\u00f6rn",
+                                    "function": "Director Legal",
+                                    "lastName": "Borrmann"
+                                }
+                            ],
+                            "name": "GetYourGuide Deutschland GmbH"
+                        },
+                        {
+                            "address": {
+                                "city": " Berlin",
+                                "country": {
+                                    "code": "DE",
+                                    "de": "Deutschland",
+                                    "en": "Germany"
+                                },
+                                "street": "Zimmerstra\u00dfe",
+                                "streetNumber": "50",
+                                "type": "NATIONAL",
+                                "zipCode": "10117"
+                            },
+                            "capitalCityRepresentationPresent": false,
+                            "contactDetails": {
+                                "emails": [
+                                    {
+                                        "email": "kundenservice@idealo.de"
+                                    }
+                                ],
+                                "phoneNumber": "+493056838370",
+                                "websites": [
+                                    {
+                                        "website": "https://www.idealo.de/"
+                                    }
+                                ]
+                            },
+                            "financialResourcesReceived": {
+                                "from": 1,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 50000
+                            },
+                            "legalForm": {
+                                "code": "LF_GMBH",
+                                "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+                                "en": "Limited liability company (GmbH)"
+                            },
+                            "legalFormType": {
+                                "code": "JURISTIC_PERSON",
+                                "de": "Juristische Person",
+                                "en": "Legal person"
+                            },
+                            "legalRepresentatives": [
+                                {
+                                    "firstName": "Albrecht",
+                                    "function": "Managing Director",
+                                    "lastName": "Von Sonntag"
+                                }
+                            ],
+                            "name": "Idealo internet GmbH"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [
+                        {
+                            "firstName": "Felix",
+                            "function": "Gesch\u00e4ftsf\u00fchrender Gesellschafter",
+                            "lastName": "Styma",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Alexandra",
+                            "lastName": "Magaard",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Clark",
+                            "lastName": "Parsons",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Gustav",
+                            "lastName": "Robrahn Gonzalez",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "Die ingesamt ausge\u00fcbten T\u00e4tigkeiten von iconomy konzentrieren sich auf den Austausch mit EU Institutionen, insbesondere der Europ\u00e4ischen Kommission, und fallen daher au\u00dferhalb des deutschen Lobbyregisters. Vereinzelt unterst\u00fctzt iconomy jedoch auch den Austausch mit deutschen Organen, um Akteure, die mit der Durchsetzung des Digital Market Act und des Digital Services Act \u00fcber unsere Aktivit\u00e4ten im Bilde zu halten und eine m\u00f6glichst breite Unterst\u00fctzung aus Deutschland zu ermutigen.",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_COMPETITION_LAW",
+                        "de": "Wettbewerbsrecht",
+                        "en": "Competition law"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_ECOMMERCE",
+                        "de": "E-Commerce",
+                        "en": "E-commerce"
+                    }
+                ],
+                "regulatoryProjects": [
+                    {
+                        "regulatoryProjectNumber": "RV0003879",
+                        "regulatoryProjectTitle": "iconomy setzt sich f\u00fcr fairen digitalen Wettbewerb und offene Plattformm\u00e4rkte ein"
+                    }
+                ]
+            },
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "country": {
+                                    "code": "DE",
+                                    "de": "Deutschland",
+                                    "en": "Germany"
+                                },
+                                "street": "Litfa\u00df-Platz",
+                                "streetNumber": "2",
+                                "type": "NATIONAL",
+                                "zipCode": "10178"
+                            },
+                            "capitalCityRepresentationPresent": false,
+                            "contactDetails": {
+                                "emails": [
+                                    {
+                                        "email": "hello@brighter.ai"
+                                    }
+                                ],
+                                "phoneNumber": "+493012087629",
+                                "websites": [
+                                    {
+                                        "website": "https://brighter.ai/"
+                                    }
+                                ]
+                            },
+                            "financialResourcesReceived": {
+                                "from": 1,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 50000
+                            },
+                            "legalForm": {
+                                "code": "LF_GMBH",
+                                "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+                                "en": "Limited liability company (GmbH)"
+                            },
+                            "legalFormType": {
+                                "code": "JURISTIC_PERSON",
+                                "de": "Juristische Person",
+                                "en": "Legal person"
+                            },
+                            "legalRepresentatives": [
+                                {
+                                    "firstName": "Marian",
+                                    "function": "Gesch\u00e4ftsf\u00fchrer",
+                                    "lastName": "Gl\u00e4ser"
+                                }
+                            ],
+                            "name": "Brighter AI Technologies GmbH"
+                        },
+                        {
+                            "address": {
+                                "city": "Palo Alto",
+                                "country": {
+                                    "code": "US",
+                                    "de": "Vereinigte Staaten",
+                                    "en": "United States"
+                                },
+                                "internationalAdditional1": " 195 Page Mill Rd.",
+                                "type": "FOREIGN"
+                            },
+                            "capitalCityRepresentationPresent": false,
+                            "contactDetails": {
+                                "emails": [
+                                    {
+                                        "email": "info@credo.ai"
+                                    }
+                                ],
+                                "phoneNumber": "+15166409012",
+                                "websites": [
+                                    {
+                                        "website": "https://www.credo.ai/"
+                                    }
+                                ]
+                            },
+                            "financialResourcesReceived": {
+                                "from": 1,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 50000
+                            },
+                            "legalForm": {
+                                "code": "LF_OTHER_JP_INTERNATIONAL",
+                                "de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+                                "en": "Other juristic person",
+                                "legalFormText": "Privately held VC"
+                            },
+                            "legalFormType": {
+                                "code": "JURISTIC_PERSON",
+                                "de": "Juristische Person",
+                                "en": "Legal person"
+                            },
+                            "legalRepresentatives": [
+                                {
+                                    "firstName": "Evi",
+                                    "function": "Global Policy Director",
+                                    "lastName": "Fuelle"
+                                }
+                            ],
+                            "name": "CredoAI"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [
+                        {
+                            "firstName": "Felix",
+                            "function": "Gesch\u00e4ftsf\u00fchrender Gesellschafter",
+                            "lastName": "Styma",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Alexandra",
+                            "lastName": "Magaard",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Anna ",
+                            "lastName": "Steinbrich",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "Im Kontext der Entstehung des AI Act hat iconomy seine Auftraggeber insbesondere \u00fcber aktuelle Legislative Entwicklungen informiert und sich gegen\u00fcber der Bundesregierung f\u00fcr ein deutsche Unterst\u00fctzung in der finalen Abstimmung zum AIA eingesetzt. Dies hat iconomy insbesondere \u00fcber die Veranstaltungsreihe \"PrivacyTech\" sowie die Unterzeichnung eines offenen Briefes getan.",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    }
+                ],
+                "regulatoryProjects": [
+                    {
+                        "regulatoryProjectNumber": "RV0003878",
+                        "regulatoryProjectTitle": "iconomy setzt sich starke KI Regulierung (AI Act) ein"
+                    }
+                ]
+            }
+        ],
+        "contractsPresent": true
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 6.0,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 30001,
+            "to": 40000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Uhlandstra\u00dfe",
+            "streetNumber": "175",
+            "type": "NATIONAL",
+            "zipCode": "10719"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "hello@iconomy.partners"
+                }
+            ],
+            "phoneNumber": "+49308877429500",
+            "websites": [
+                {
+                    "website": "www.iconomy.partners"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Felix",
+                "lastName": "Styma",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Alexandra",
+                "lastName": "Magaard",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Felix",
+                "lastName": "Styma",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Friedbert",
+                "lastName": "Pfl\u00fcger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Clark",
+                "lastName": "Parsons",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Gustav",
+                "lastName": "Robrahn Gonzalez",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Anna ",
+                "lastName": "Steinbrich",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Claudio",
+                "lastName": "Minutillo Turtur",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Felix",
+                "function": "Gesch\u00e4ftsf\u00fchrender Gesellschafter",
+                "lastName": "Styma",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "membershipsPresent": false,
+        "name": "iconomy GmbH"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001575/38736",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-21T11:43:40.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/18/97/306621/Lobbyregister-Detailansicht-R001575-2024-06-24_12-17-48.pdf",
+        "validFromDate": "2024-06-24T12:17:48.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 38736,
+    "registerNumber": "R001575",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BDSG",
+                        "title": "Bundesdatenschutzgesetz",
+                        "url": "https://www.gesetze-im-internet.de/bdsg_2018"
+                    },
+                    {
+                        "shortTitle": "TTDSG",
+                        "title": "Gesetz \u00fcber den Datenschutz und den Schutz der Privatsph\u00e4re in der Telekommunikation und bei Telemedien",
+                        "url": "https://www.gesetze-im-internet.de/ttdsg"
+                    },
+                    {
+                        "shortTitle": "UrhG",
+                        "title": "Gesetz \u00fcber Urheberrecht und verwandte Schutzrechte",
+                        "url": "https://www.gesetze-im-internet.de/urhg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Ziel unserer Bem\u00fchungen f\u00fcr eine starke KI Regulierung ist ein EU-weit einheitlicher Rahmen f\u00fcr KI-basierte Innovationen, der die Wettbewerbsf\u00e4higkeit des europ\u00e4ischen und deutschen Innovations\u00f6kosystems insbesondere gegen\u00fcber Asien und den USA st\u00e4rkt und langfristig Rechtssicherheit schafft. Unser Ziel ist dabei insbesondere die Allokation von Risikokapital im europ\u00e4ischen Tech \u00d6kosystem, ein verbesserter Wissenschaftstransfer aus der Forschung sowie die Adaption europ\u00e4ischer Technologie in der etablierten Industrie sowie dem \u00f6ffentlichen Sektor.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_COMPETITION_LAW",
+                        "de": "Wettbewerbsrecht",
+                        "en": "Competition law"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003878",
+                "statements": [],
+                "title": "iconomy setzt sich starke KI Regulierung (AI Act) ein"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GWB",
+                        "title": "Gesetz gegen Wettbewerbsbeschr\u00e4nkungen",
+                        "url": "https://www.gesetze-im-internet.de/gwb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Ziel unserer Bem\u00fchungen f\u00fcr eine starke und EU-weit einheitliche Plattformregulierung ist die St\u00e4rkung der Wettbewerbsf\u00e4higkeit des deutschen und europ\u00e4ischen Startup- und Scaleup-\u00d6kosystems. Dabei geht es iconomy insbesondere um eine ambitionierte und l\u00fcckenlose Durchsetzung des europ\u00e4ischen Digital Services Act (DSA) und des Digital Markets Act (DMA). Besonders Art. 6.5 des DMA (Selbstbevorzugungsverbot f\u00fcr Gatekeeper) sowie weitere Bestimmungen, die auf offenen und diskriminierungsfreien Zugang zu Browsern, Suchmaschinen, Betriebssystemen und Appstores abzielen, stehen hier im Fokus.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_ECOMMERCE",
+                        "de": "E-Commerce",
+                        "en": "E-commerce"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_COMPETITION_LAW",
+                        "de": "Wettbewerbsrecht",
+                        "en": "Competition law"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "issuer": "BT",
+                        "leadingMinistries": [],
+                        "printingNumber": "20/67623"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0003879",
+                "statements": [],
+                "title": "iconomy setzt sich f\u00fcr fairen digitalen Wettbewerb und offene Plattformm\u00e4rkte ein"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

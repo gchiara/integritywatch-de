@@ -1,0 +1,667 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-24T09:04:50.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-24T12:56:36.000+01:00",
+        "lastUpdateDate": "2024-06-18T15:41:27.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 31022,
+                "validFromDate": "2024-06-18T15:41:27.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 28116,
+                "validFromDate": "2024-01-10T15:27:11.000+01:00",
+                "validUntilDate": "2024-06-18T15:41:27.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22125,
+                "validFromDate": "2023-06-22T16:56:27.000+02:00",
+                "validUntilDate": "2024-01-10T15:27:11.000+01:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 14455,
+                "validFromDate": "2023-02-24T09:04:50.000+01:00",
+                "validUntilDate": "2023-06-22T16:56:27.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION_V2",
+            "de": "Sonstiges Unternehmen",
+            "en": "Other company"
+        },
+        "activityDescription": "Die TUI AG ist ein weltweit f\u00fchrendes Unternehmen im Bereich Tourismus. Das Unternehmen deckt die gesamte Wertsch\u00f6pfungskette des Reisens ab: mit f\u00fchrenden digitalen Reiseplattformen, eigenen Hotels, Kreuzfahrtschiffen, Airlines, Reiseveranstaltern und Reiseb\u00fcros. Dieses international einzigartige Gesch\u00e4ftsmodell betont Nachhaltigkeit und den Schutz von Natur und Umwelt. Als TUI tragen wir besondere Verantwortung: f\u00fcr unsere Mitarbeiterinnen und Mitarbeiter und f\u00fcr unsere Partner weltweit, insbesondere in den Schwellen- und Entwicklungsl\u00e4ndern.\r\n\r\nUnser Wissen rund um tourismuspolitische Fragestellungen und nachhaltige L\u00f6sungen m\u00f6chten wir teilen. National und international werden wir um fachlichen Rat auf den verschiedenen politischen Ebenen gebeten. Wir positionieren uns f\u00fcr gerechte wirtschaftspolitische Rahmenbedingungen und einen fairen Wettbewerb. Dar\u00fcber hinaus besch\u00e4ftigen wir uns mit Zukunftsfragen der Branche. Offene Diskussion und Austausch sowie transparente Kommunikation sind f\u00fcr uns dabei selbstverst\u00e4ndlich. Wir f\u00fchren dazu Gespr\u00e4che mit Vertreterinnen und Vertretern der Bundesregierung sowie mit Mitgliedern des Deutschen Bundestages und beziehen Stellung etwa in Positionspapieren. Im Fokus stehen dabei Themen wie die Absicherung der Verbraucher bei der Pauschalreise und bei anderen Reiseformen, Rahmenbedingungen f\u00fcr den deutschen und europ\u00e4ischen Luftverkehr, B\u00fcrokratieabbau f\u00fcr Unternehmen sowie faire Rahmenbedingungen f\u00fcr die Umsetzung der Nachhaltigkeitsziele in der Tourismusbranche.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AEROSPACE",
+                "de": "Luft- und Raumfahrt",
+                "en": "Aerospace"
+            },
+            {
+                "code": "FOI_ECONOMY_ECOMMERCE",
+                "de": "E-Commerce",
+                "en": "E-commerce"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_LAS_TOURISM",
+                "de": "Tourismus",
+                "en": "Tourism"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_FA_CULTURE",
+                "de": "Ausw\u00e4rtige Kultur- und Bildungspolitik",
+                "en": "Foreign cultural and educational policy"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_FA_BRD",
+                "de": "Au\u00dfenpolitik",
+                "en": "Foreign policy of the federal republic of Germany"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_CULTURE",
+                "de": "Kultur",
+                "en": "Culture"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            },
+            {
+                "code": "CONTRACTS_OPERATED_BY_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird in eigenem Interesse durch die Beauftragung Dritter wahrgenommen",
+                "en": "Contracts are awarded to third parties to represent own interests of the company"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/1c/b4/296955/01_TUI_GB23_DE_GesamtPdf_231207.pdf",
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearStart": "2022-10-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.0,
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 410001,
+            "to": 420000
+        },
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Hannover",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Karl-Wiechert-Allee",
+            "streetNumber": "23",
+            "type": "NATIONAL",
+            "zipCode": "30625"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "bernd.hoffmann@tui.com",
+            "phoneNumber": "+49306090206030",
+            "street": "Pariser Platz",
+            "streetNumber": "6a",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@tui.com"
+                }
+            ],
+            "phoneNumber": "+495115666060",
+            "websites": [
+                {
+                    "website": "www.tuigroup.com"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Bernd",
+                "lastName": "Hoffmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Birgitt",
+                "lastName": "Hillerich",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Hermann",
+                "lastName": "Lindner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Ralf",
+                "lastName": "Pastleitner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Ellerbeck",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_AG",
+            "de": "Aktiengesellschaft (AG)",
+            "en": "Stock company (AG)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Sebastian",
+                "function": "Vorstandsvorsitzender",
+                "lastName": "Ebel",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Mathias",
+                "function": "Mitglied des Vorstands, CFO",
+                "lastName": "Kiep",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Peter",
+                "function": "Mitglied des Vorstands, Chief Strategy Officer & Chief Executive Officer Holiday Experiences",
+                "lastName": "Kr\u00fcger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Sybille",
+                "function": "Mitglied des Vorstands, Personalvorst\u00e4ndin, Arbeitsdirektorin",
+                "lastName": "Rei\u00df",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "David",
+                "function": "Mitglied des Vorstands, CEO Markets & Airlines",
+                "lastName": "Schelp",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Thomas",
+                "function": "Mitglied des Group Executive Committee, Group Director Corporate & External Affairs (Prokura)",
+                "lastName": "Ellerbeck",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Allianz der Chancen"
+            },
+            {
+                "membership": "Bundesverband der Deutschen Fluggesellschaften (BDF)"
+            },
+            {
+                "membership": "Bundesverband der Deutschen Luftverkehrswirtschaft (BDL)"
+            },
+            {
+                "membership": "Charta der Vielfalt e.V."
+            },
+            {
+                "membership": "Deutscher Reiseverband e.V. (DRV)"
+            },
+            {
+                "membership": "Deutsche Zentrale f\u00fcr Tourismus e.V. (DZT)"
+            },
+            {
+                "membership": "Deutsches Aktieninstitut e.V."
+            },
+            {
+                "membership": "F\u00f6rderkreis der Deutschen Industrie e.V."
+            },
+            {
+                "membership": "Futuris e.V."
+            },
+            {
+                "membership": "Nah- und Mittelost Verein e.V (NUMOV)"
+            },
+            {
+                "membership": "Travel Industry Club e.V. (TIC)"
+            },
+            {
+                "membership": "Verband unabh\u00e4ngiger selbstst\u00e4ndiger Reiseb\u00fcros - Bundesverband e.V. (VUSR)"
+            },
+            {
+                "membership": "Adlerkreis"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "TUI AG"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Kreditanstalt f\u00fcr Wiederaufbau (KfW):\r\n- Teilweise Inanspruchnahme einer Kreditlinie der KfW\r\n- Vollst\u00e4ndige R\u00fcckzahlung des gezogenen Betrags Ende M\u00e4rz 2023\r\n- Reduzierung der verf\u00fcgbaren Kreditlinie im April 2023 auf 1.050.000.000 EURO und keine weitere Inanspruchnahme im Gesch\u00e4ftsjahr 23\r\n\r\nInformationen zu Wirtschaftsstabilisierungsfonds (WSF):\r\n- Vollst\u00e4ndige R\u00fcckf\u00fchrung der Stillen Einlage I aus Gesch\u00e4ftsjahr 21 sowie der verbliebenen Optionsanleihe aus Gesch\u00e4ftsjahr 20 im April 2023\r\n- Damit sind die WSF-Hilfen vollst\u00e4ndig zur\u00fcckgef\u00fchrt\r\n\r\nInformationen f\u00fcr das laufende Gesch\u00e4ftsjahr 24:\r\n- Weitere Reduzierung der verf\u00fcgbaren Kreditlinie der KfW im M\u00e4rz 2024 auf 550.000.000 EURO",
+                "location": "Frankfurt am Main",
+                "name": "Kreditanstalt f\u00fcr Wiederaufbau (KfW)",
+                "publicAllowanceEuro": {
+                    "from": 1104690001,
+                    "to": 1104700000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-09-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-10-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001264/31022",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-18T15:41:27.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/34/23/296959/Lobbyregister-Detailansicht-R001264-2024-06-18_15-41-27.pdf",
+        "validFromDate": "2024-06-18T15:41:27.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 31022,
+    "registerNumber": "R001264",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die Novellierung der Pauschalreiserichtlinie (PTD) soll das Verbraucherschutzniveau weiter erh\u00f6hen. TUI unterst\u00fctzt die Zielsetzung eines hohen Verbraucherschutzstandards. Pauschalreisen sind schon heute die sicherste Reiseform. Pauschalreiseanbieter sind im Wettbewerbsvergleich bereits hochgradig reguliert. Die Novellierung sollte so ausgestaltet werden, dass die Pauschalreise auch k\u00fcnftig zu attraktiven Konditionen angeboten werden und wettbewerbsf\u00e4hig bleiben kann. Es bedarf eines \u2018level playing fields\u2019 zwischen Reiseveranstaltern und multinationalen Plattform-Anbietern f\u00fcr Einzelleistungen. Zus\u00e4tzliche Belastungen f\u00fcr Pauschalreisen \u2013 die den Verbraucherschutz nicht verbessern \u2013 m\u00fcssen vermieden werden. Alle Anbieter von Reiseleistungen sollten im Grundsatz gleichen Regeln unterliegen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_LEISURE_AND_SPORT",
+                        "de": "Sport, Freizeit und Tourismus",
+                        "en": "Sports, leisure and tourism"
+                    },
+                    {
+                        "code": "FOI_LAS_TOURISM",
+                        "de": "Tourismus",
+                        "en": "Tourism"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/brd/2024/0024-24.pdf",
+                        "issuer": "BR",
+                        "leadingMinistries": [],
+                        "printingNumber": "24/24",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/vorschlag-f%C3%BCr-eine-richtlinie-des-europ%C3%A4ischen-parlaments-und-des-rates/308103",
+                        "title": "Vorschlag f\u00fcr eine Richtlinie des Europ\u00e4ischen Parlaments und des Rates zur \u00c4nderung der Richtlinie (EU) 2015/2302 zur wirksameren Gestaltung des Schutzes von Reisenden und zur Vereinfachung und Klarstellung bestimmter Aspekte der Richtlinie"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0002798",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/60/7a/296956/Stellungnahme-Gutachten-SG2406100004.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                        "de": "Gremien",
+                                        "en": "Committees"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_ORGANS",
+                                        "de": "Organe",
+                                        "en": "Organs"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-07"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002798",
+                        "regulatoryProjectTitle": "Novellierung der EU-Pauschalreiserichtlinie",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Anh\u00f6rung des Ausschusses f\u00fcr Tourismus des Deutschen Bundestages zum Thema \u201eNovellierung der EU-Pauschalreiserichtlinie\" am 15. Mai 2024\r\n\r\nSchriftliche Stellungnahme der TUI Group\r\n\r\nEinleitung / Zusammenfassung\r\nTUI ist Europas f\u00fchrender integrierter Tourismuskonzern mit Sitz in Hannover/Berlin. Der Konzern besch\u00e4ftigt weltweit rund 65.000 Mitarbeitende und ist in mehr als 100 L\u00e4ndern der Welt pr\u00e4sent. TUI ist kein reiner Veranstalter, sondern selbst Entwickler, Investor und Betreiber von Hotels, Kreuzfahrten und Aktivit\u00e4ten in Urlaubsregionen. Zum Konzern geh\u00f6ren international bekannte Gesellschaften wie TUI Blue, Robinson, RIU, TUI Cruises/Mein Schiff und Hapag Lloyd Cruises. Pauschalreisen stellen \u2013 neben dem wachsenden Angebot von dynamisch/individuell zusammengestellten Pauschalreisen, Paketen und Einzelleistungen \u2013 traditionell einen Schwerpunkt unseres Portfolios dar.\r\nMit der Novellierung der Pauschalreiserichtlinie (PTD) soll das Verbraucherschutzniveau weiter erh\u00f6ht werden. Die TUI Group unterst\u00fctzt die Zielsetzung eines hohen Verbraucherschutzstandards. Anbieter von Pauschalreisen sind im Vergleich zum Wettbewerb schon heute hochgradig reguliert. Die Novellierung sollte so ausgestaltet werden, dass die Pauschalreise auch k\u00fcnftig zu attraktiven Konditionen angeboten werden und im globalen Reisemarkt wettbewerbsf\u00e4hig bleiben kann. Es bedarf eines \u2018level playing fields\u2019 zwischen Reiseveranstaltern und multinationalen Plattform-Unternehmen, die einzelne Reisekomponenten vermitteln und manchmal auch verbinden. Die vermittelten Reisen gleichen scheinbar h\u00e4ufig einer Pauschalreise, entziehen sich aber dem Schutz und der Absicherung der Reisenden, wodurch Kosten- und Wettbewerbsvorteile geschaffen werden. Au\u00dferdem vergr\u00f6\u00dfert die vorgeschlagene Beschr\u00e4nkung der Vorauszahlungen die bestehende Kluft in der Kostenstruktur zwischen Pauschalreise und Einzelleistung weiter.\r\nDeshalb sind zwei Aspekte elementar:\r\n\uf0b7 Zus\u00e4tzliche Belastungen f\u00fcr Pauschalreisen \u2013 die den Verbraucherschutz nicht wirksam und nachhaltig verbessern \u2013 m\u00fcssen vermieden werden.\r\n\uf0b7 Alle Anbieter von Reiseleistungen sollten im Grundsatz gleichen Regeln unterliegen.\r\n2\r\nWettbewerbsf\u00e4higkeit der europ\u00e4ischen Pauschalreise und fairer Wettbewerb\r\nPauschalreisen sind schon heute die sicherste Form des Reisens. Es gibt keine andere Branche, in der die Kunden von einem vergleichbaren Schutz profitieren. Sie genie\u00dfen neben dem Insolvenzschutz Rechtsanspr\u00fcche bei Unregelm\u00e4\u00dfigkeiten und Betreuung in Krisensituationen.\r\nDiese Schutzwirkung ist ein Alleinstellungsmerkmal von Pauschalreisen. Wer bei Anbietern wie den gro\u00dfen Online-Plattformen einzelne Reiseleistungen oder lose Arrangements bucht,\r\nerf\u00e4hrt diese Absicherung nicht. H\u00e4ufig ist den Verbrauchern der Unterschied nicht klar und erst im Fall der Krise wird ihnen bewusst, dass sie auf sich allein gestellt sind, wenn sie keine Pauschalreise gebucht haben. Dies hat sich zum Beispiel zum Start der weltweiten Pandemie gezeigt. Die Urlauber, die Einzelkomponenten gebucht hatten, mussten sich selbst um eine R\u00fcckkehr k\u00fcmmern oder durch Fl\u00fcge der Bundesregierung nach Deutschland zur\u00fcckgeholt werden. Pauschalreise-G\u00e4ste wurden durch ihren Veranstalter mit Ersatzfl\u00fcgen in ihr Heimatland geflogen, vor Ort wurde sich um die Betreuung gek\u00fcmmert oder es wurden Hotels zur Verf\u00fcgung gestellt. \u00c4hnlich war dies bei den Waldbr\u00e4nden auf Rhodos 2023, wo TUI rund 300 zus\u00e4tzliche Mitarbeiter zur Betreuung der Reisenden auf die Insel gebracht und eigens Flugzeuge nach Rhodos geschickt hat, um Urlauber aus dem Krisengebiet auszufliegen.\r\nAnders als bei Pauschalreisen wird f\u00fcr Buchungen von Einzelleistungen auch keine Insolvenzabsicherung gew\u00e4hrt. Die Anbieter solcher Reisen zahlen heute nicht in den Reisesicherungsfonds ein. Das gew\u00e4hrt ihnen einen Kostenvorteil gegen\u00fcber den deutschen Pauschalreiseanbietern und ist ganz und gar nicht im Sinne eines umfassenden Schutzes der Verbraucher. Hier muss Wettbewerbsgleichheit hergestellt werden, um internationale Plattform-Unternehmen nicht besser zu stellen als die europ\u00e4ischen Reiseveranstalter, die in touristische Produkte investieren.\r\nKurz zusammengefasst:\r\n\uf0b7 Vorauszahlungsbeschr\u00e4nkung bei Pauschalreisen, w\u00e4hrend bei Einzelleistungen oftmals bis zu 100 Prozent unmittelbar bei Buchung f\u00e4llig werden (z.B. bei Buchung von Fl\u00fcgen)\r\n\uf0b7 Bankgarantien / Sicherheiten zur Insolvenzabsicherung fallen nur f\u00fcr die Pauschalreise an\r\n\uf0b7 R\u00fcckholgarantie und Betreuung vor Ort gibt es nur bei der Pauschalreise\r\n\uf0b7 Existierender Wettbewerbsnachteil der Pauschalreise gegen\u00fcber Einzelleistungsanbietern verschlechtert sich mit dem bestehenden Entwurf weiter\r\n3\r\nAnmerkungen zu den einzelnen Bestimmungen des Richtlinienentwurfs\r\nVorauszahlungsfreiheit erhalten\r\nIn der EU zahlen Reisende in der Regel eine Anzahlung von 20 bis 30 Prozent (oder mehr, abh\u00e4ngig von Produkt und Marktbeschaffenheit), wenn sie eine Pauschalreise im Voraus buchen. Reiseveranstalter finanzieren davon Flug- und Hotelkapazit\u00e4ten. Kleine und mittelst\u00e4ndische Reiseb\u00fcros erhalten Teile der Provisionen bereits bei der Buchung. Das ist gerade auch im Interesse des deutschen Mittelstands. Ein weiteres Thema sind die Zahlungen in nationale Insolvenzsicherungssysteme. Diese flie\u00dfen viele Monate im Voraus. Und nicht zuletzt haben viele Destinationen im S\u00fcden Europas w\u00e4hrend der Winter-Monate keine Saison. Die Veranstalter zahlen dort im Regelfall zwischen November und April erhebliche Vorauszahlungen an Hoteliers und Hotels, um in der Nebensaison ausreichend Liquidit\u00e4t f\u00fcr Renovierungen oder Modernisierung bereitzustellen. So wird der Winter ohne Einnahmen wirtschaftlich \u00fcberbr\u00fcckt und die Saison vorbereitet. Dieses \u00fcber die Jahre gewachsene \u00d6kosystem des Tourismus hat sich bew\u00e4hrt. Vorauszahlungen f\u00fcr Pauschalreisen sind bereits vollst\u00e4ndig durch Insolvenzschutz und starke Erstattungsrechte gesch\u00fctzt \u2013 sogar im Fall h\u00f6herer Gewalt. Anzahlungen in H\u00f6he von 25 bis 30 Prozent sind auch f\u00fcr andere Produktgruppen \u00fcblich (z.B. M\u00f6bel, K\u00fcchen). Anders als bei der Pauschalreise sind die Anzahlungen in diesen Branchen nicht abgesichert und hat der Staat kein Sicherungssystem verpflichtend eingef\u00fchrt.\r\nTUI ist grunds\u00e4tzlich gegen eine Begrenzung der Vorauszahlungen. Sie w\u00fcrde den Verbraucherschutz nicht verbessern. Sie w\u00fcrden das bew\u00e4hrte \u00d6kosystem des Tourismus besch\u00e4digen. Pandemiebedingte Verz\u00f6gerungen bei der R\u00fcckerstattung k\u00f6nnen kein Gradmesser f\u00fcr neue Regeln w\u00e4hrend eines regul\u00e4ren Gesch\u00e4ftsbetriebes sein. Die vorhandenen R\u00fcckerstattungssysteme waren auf den Extremfall der Pandemie auch prozessual nicht ausgelegt.\r\nIn der PTD-Novelle wird eine \u201eflexible\u201c Beschr\u00e4nkung vorgeschlagen, die tats\u00e4chlich aber durchaus restriktiv ist: Wenn Reiseveranstalter eine Vorauszahlung von mehr als 25 Prozent geltend machen, ist dies mit Extra-B\u00fcrokratie und komplexen Nachweisverfahren verbunden. Kosten, die w\u00e4hrend der traditionell umsatzschwachen Nebensaison etwa f\u00fcr Wartung eigener Flugzeuge oder f\u00fcr andere nicht direkt mit der gebuchten Reise im Zusammenhang stehende Aufwendungen anfallen, k\u00f6nnen nicht geltend gemacht werden.\r\nDie Begrenzung der Vorauszahlungen wird die Abh\u00e4ngigkeit der Reiseveranstalter und der gesamten touristischen Wertsch\u00f6pfungskette von Fremdfinanzierung erh\u00f6hen. Folge: Die Kosten steigen, diese m\u00fcssen umgelegt werden und die Attraktivit\u00e4t von Pauschalreisen sinkt. Die Preissensibilit\u00e4t der Verbraucher ist hoch, und der Preisvergleich ist ein Merkmal der Kaufentscheidung. Das Gegenteil von Verbraucherschutz wird erreicht, und der Kunde indirekt zu den Produkten von Plattformen gelenkt, wo er bei Einzelleistungen keine Absicherung erf\u00e4hrt. Im Streitfall ist auch nicht die Plattform Ansprechpartner des Kunden. Da diese nur als Vermittler auftritt, muss sich der Kunde mit lokalen Anbietern im Urlaubsland vor dortigen Gerichten\r\n4\r\nauseinandersetzen. Genau das schw\u00e4cht den Verbraucherschutz, bevorzugt internationale Plattform-Unternehmen und benachteiligt die deutschen und europ\u00e4ischen Veranstalter. Die EU sollte aber eine Politik im Sinne der europ\u00e4ischen Kunden und Veranstalter regulatorisch f\u00f6rdern.\r\nAuch eine Schlusszahlung fr\u00fchestens 28 Tage vor Reiseantritt ist zu restriktiv und erleichtert kurzfristige Kundenstornierungen. Fehlende Planbarkeit hinsichtlich der Auslastung von Flugzeugen und Hotels f\u00fchrt zu weiteren Kostensteigerungen.\r\nPauschalreise k\u00fcnftig klar definieren\r\nPauschalreisen und \u201everbundene Reiseleistungen\" (Linked Travel Arrangements, LTA) sind unzureichend definiert.\r\nEinige Marktteilnehmer nutzten diese Definitionsm\u00e4ngel schon bisher, um Verbraucherschutzverpflichtungen zu umgehen (z.B. Click-Through Modelle). Der Revisionsvorschlag beseitigt diese M\u00e4ngel nur teilweise.\r\nEs muss sichergestellt werden, dass die aktualisierten Definitionen deutlich und transparent sind, in der Praxis funktionieren und in allen m\u00f6glichen Szenarien \u2013 sowohl online als auch offline \u2013 durchsetzbar sind. Die neuen Bestimmungen zu Pauschalreisen, die innerhalb von\r\n3 oder 24 Stunden gekauft werden, widersprechen diesem Gebot, da bei Buchung der Leistung nicht klar ist, welche Art von Reise \u00fcberhaupt gebucht wurde, Pauschalreise oder Einzelleistung, mit sehr unterschiedlichen Folgen f\u00fcr Kunden und Anbieter.\r\nDas verbleibende (durch die Revision neu eingef\u00fchrte) Szenario der \u201everbundenen Reiseleistung\" sollte ebenfalls in die Pauschalreise einbezogen werden. Hintergrund ist die enge Verbindung der verschiedenen darin enthaltenen Reiseleistungen zueinander (zu geringe Abgrenzung zur Pauschalreise).\r\nR\u00fccktrittsrecht beibehalten\r\nDer PTD-Vorschlag zielt auf eine Ausweitung des R\u00fccktrittsrechts auf Umst\u00e4nde ab, die am Wohnsitz des Reisenden oder am Ort der Abreise eintreten. Dieser Passus sollte gestrichen werden. Pauschalreiseveranstalter tragen schon jetzt eine sehr hohe Verantwortung. Sie m\u00fcssen alle in der Pauschalreise enthaltenen Leistungen gew\u00e4hrleisten \u2013 auch bei h\u00f6herer Gewalt am Bestimmungsort.\r\nEine Ausdehnung des R\u00fccktrittsrechts auf Umst\u00e4nde im Heimatland des Reisenden ist unsachgem\u00e4\u00df und birgt f\u00fcr den Reiseveranstalter eine unkalkulierbare Haftung. Fliegt ein Gast aus Innsbruck vom Flughafen M\u00fcnchen aus nach Mallorca, k\u00f6nnte er k\u00fcnftig auf Umst\u00e4nde in Innsbruck verweisen, obgleich am Abflug-Flughafen M\u00fcnchen und am Urlaubsort Mallorca keine Beeintr\u00e4chtigungen bestehen. Kunden k\u00f6nnen sich hier gegen individuelle Risiken f\u00fcr eine geringe Summe selbst absichern. Entb\u00fcrokratisierung und Deregulierung sind in aller Munde. Hier w\u00fcrde allerdings eine neue zus\u00e4tzliche Stufe der Regulierung geschaffen, statt endlich ernst zu machen und einfacher zu werden.\r\n5\r\nDoppelte Schutzmechanismen beseitigen\r\nDie bestehenden Insolvenzschutzsysteme sind bereits extrem umfassend und teuer. Ein Hauptproblem ist, dass viele nationale Regelungen klassische Reiseveranstalter dazu verpflichten, betr\u00e4chtliche Sicherheiten zu hinterlegen bzw. Bankgarantien abzuschlie\u00dfen. Ebenso verlangen Kreditkartenunternehmen und Zahlungsdienstleister oft erhebliche Garantien f\u00fcr m\u00f6gliche R\u00fcckbuchungen.\r\nWird eine Reise mit der Kreditkarte im Reiseb\u00fcro bezahlt, verlangt das Kreditkartenunternehmen eine Sicherheit vom Veranstalter (f\u00fcr den Fall, dass der Kreditkartennehmer bei Zahlungsausfall des Reiseanbieters eine R\u00fcckbuchung fordert). Gleichzeitig ist der vollst\u00e4ndige Reisepreis bereits durch den vom Gesetzgeber initiierten Deutschen Reisesicherungsfonds (DRSF) umfassend abgesichert. Hier wird zweimal Liquidit\u00e4t aus dem Unternehmen gezogen und die Unternehmen m\u00fcssen ein Risiko doppelt absichern, ohne dass es einen Mehrwert f\u00fcr den Verbraucher oder die Wirtschaftskraft am Standort Deutschland schafft. Hier gilt es, \u00fcber die Pauschalreiserichtlinie oder \u00fcber \u00c4nderungen im nationalen Recht einzugreifen und gesetzlich klarzustellen, dass keine Doppelabsicherung stattfinden darf. Es handelt sich um einen klassischen Fall von \u00dcberregulierung zu Lasten der Reiseveranstalter. Auch hier haben Plattformen einen Vorteil, wenn sie Einzelleistungen anbieten, da sie heute nicht in den DRSF einzahlen. Eine klassische Wettbewerbsverzerrung zu Lasten der Veranstalter, die im Wesentlichen die Partner des station\u00e4ren Vertriebs (Reiseb\u00fcros) sind.\r\nB2B-Erstattungspflicht nicht krisenfest\r\nTUI ist nach wie vor der Ansicht, dass R\u00fcckerstattungsrechte im Gesch\u00e4ftsverkehr am besten zwischen den Vertragsparteien und nicht im Verbraucherrecht vereinbart werden. Reiseveranstalter und Anbieter sollten weiterhin frei entscheiden k\u00f6nnen, welche Gesch\u00e4ftsrisiken sie eingehen wollen und k\u00f6nnen, und ihre Gesch\u00e4ftsvereinbarungen entsprechend aushandeln. Das im Vorschlag der Kommission vorgesehene Recht auf B2B-R\u00fcckerstattungen binnen kurzer Frist selbst in Krisenzeiten ist realit\u00e4tsfremd und wird gerade in einer Krise nicht funktionieren, da dann Kapazit\u00e4ten (Personal, Liquidit\u00e4t) beim Anbieter \u2013 wie in der Corona-Pandemie ersichtlich \u2013 stark begrenzt sind. Stattdessen sollten f\u00fcr au\u00dfergew\u00f6hnliche Krisen zeitlich begrenzte Ausnahmeregelungen von der strikten R\u00fcckerstattungsfrist \u00fcberlegt werden.\r\nWeiterentwicklung der Pauschalreiserichtlinie st\u00e4rkt ihre Wettbewerbsf\u00e4higkeit\r\nWettbewerbsverzerrungen zulasten der Pauschalreise sollten zuk\u00fcnftig abgebaut werden, anstatt diese einseitig weiter zu erh\u00f6hen. Es braucht einen neuen, erweiterten Ansatz mit Wahlm\u00f6glichkeit.\r\nDer Umgang mit der Insolvenzabsicherung \u2013 die ausschlie\u00dflich bei Pauschalreisen gefordert wird \u2013 k\u00f6nnte ein Ansatzpunkt sein. Eine M\u00f6glichkeit w\u00e4re, in Zukunft bei Pauschalreisen zwei verschiedene Tarife anzubieten:\r\n6\r\n\uf0b7 Tarif A mit dem kompletten Schutz des Pauschalreiserechts \u2013 inkl. Insolvenzabsicherung\r\n\uf0b7 Tarif B ebenfalls mit dem kompletten Schutz des Pauschalreiserechts \u2013 aber ohne Insolvenzabsicherung\r\nIn beiden F\u00e4llen w\u00fcrde die Pauschalreise auch weiterhin alle wesentlichen Elemente, die den Kunden besonders wichtig sind, umfassen (z.B. die Betreuung vor Ort und die R\u00fcckholung im Krisenfall). Sie h\u00e4tten zudem die Wahl, sich f\u00fcr eine Insolvenzabsicherung oder f\u00fcr einen g\u00fcnstigeren Tarif zu entscheiden. Damit w\u00fcrde die Pauschalreise kostenseitig in eine bessere Wettbewerbsposition gegen\u00fcber Anbietern von Einzelleistungen versetzt, die heute keinerlei Kosten f\u00fcr vergleichbare Absicherungen leisten m\u00fcssen.\r\nEine weitere M\u00f6glichkeit zur Erreichung eines \u201alevel playing fields\u2018 k\u00f6nnte zuk\u00fcnftig darin liegen, auch bei Einzelleistungen, wie etwa dem Flug, die Option \u201emit oder ohne Insolvenzabsicherung\u201c verpflichtend anzubieten, soweit Vorauszahlungen f\u00fcr diese Leistungen anfallen. Bei Fluggesellschaften gibt es bereits heute unterschiedliche Tarife mit unterschiedlichen Leistungen.\r\nAbschlie\u00dfende Bemerkungen\r\nDie Pauschalreise ist der Goldstandard f\u00fcr Verbraucher. Sie ist hochgradig reguliert, sogar \u00fcberreguliert, w\u00e4hrend Anbieter von Einzelleistungen, in der Regel Plattformen, erhebliche Vorteile genie\u00dfen. Insbesondere geh\u00f6ren diese dem g\u00e4ngigen Schutzsystem nicht an. Dies ist f\u00fcr die Verbraucher h\u00e4ufig nicht zu erkennen. Der Kunde glaubt eine vergleichbare Leistung zu erhalten und stellt erst in der Krise fest, dass es sich um unterschiedliche Produkte und Absicherungen handelt. Richtig w\u00e4re es, unterschiedliche Tarife anzubieten, wo der Kunde Leistung, Absicherung und Preis w\u00e4hlt. Ein solches Modell f\u00fchrt zu mehr Transparenz und mehr Verbraucherschutz."
+                        }
+                    }
+                ],
+                "title": "Novellierung der EU-Pauschalreiserichtlinie"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/60/7a/296956/Stellungnahme-Gutachten-SG2406100004.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                "de": "Gremien",
+                                "en": "Committees"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_ORGANS",
+                                "de": "Organe",
+                                "en": "Organs"
+                            }
+                        ],
+                        "sendingDate": "2024-05-07"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002798",
+                "regulatoryProjectTitle": "Novellierung der EU-Pauschalreiserichtlinie",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Anh\u00f6rung des Ausschusses f\u00fcr Tourismus des Deutschen Bundestages zum Thema \u201eNovellierung der EU-Pauschalreiserichtlinie\" am 15. Mai 2024\r\n\r\nSchriftliche Stellungnahme der TUI Group\r\n\r\nEinleitung / Zusammenfassung\r\nTUI ist Europas f\u00fchrender integrierter Tourismuskonzern mit Sitz in Hannover/Berlin. Der Konzern besch\u00e4ftigt weltweit rund 65.000 Mitarbeitende und ist in mehr als 100 L\u00e4ndern der Welt pr\u00e4sent. TUI ist kein reiner Veranstalter, sondern selbst Entwickler, Investor und Betreiber von Hotels, Kreuzfahrten und Aktivit\u00e4ten in Urlaubsregionen. Zum Konzern geh\u00f6ren international bekannte Gesellschaften wie TUI Blue, Robinson, RIU, TUI Cruises/Mein Schiff und Hapag Lloyd Cruises. Pauschalreisen stellen \u2013 neben dem wachsenden Angebot von dynamisch/individuell zusammengestellten Pauschalreisen, Paketen und Einzelleistungen \u2013 traditionell einen Schwerpunkt unseres Portfolios dar.\r\nMit der Novellierung der Pauschalreiserichtlinie (PTD) soll das Verbraucherschutzniveau weiter erh\u00f6ht werden. Die TUI Group unterst\u00fctzt die Zielsetzung eines hohen Verbraucherschutzstandards. Anbieter von Pauschalreisen sind im Vergleich zum Wettbewerb schon heute hochgradig reguliert. Die Novellierung sollte so ausgestaltet werden, dass die Pauschalreise auch k\u00fcnftig zu attraktiven Konditionen angeboten werden und im globalen Reisemarkt wettbewerbsf\u00e4hig bleiben kann. Es bedarf eines \u2018level playing fields\u2019 zwischen Reiseveranstaltern und multinationalen Plattform-Unternehmen, die einzelne Reisekomponenten vermitteln und manchmal auch verbinden. Die vermittelten Reisen gleichen scheinbar h\u00e4ufig einer Pauschalreise, entziehen sich aber dem Schutz und der Absicherung der Reisenden, wodurch Kosten- und Wettbewerbsvorteile geschaffen werden. Au\u00dferdem vergr\u00f6\u00dfert die vorgeschlagene Beschr\u00e4nkung der Vorauszahlungen die bestehende Kluft in der Kostenstruktur zwischen Pauschalreise und Einzelleistung weiter.\r\nDeshalb sind zwei Aspekte elementar:\r\n\uf0b7 Zus\u00e4tzliche Belastungen f\u00fcr Pauschalreisen \u2013 die den Verbraucherschutz nicht wirksam und nachhaltig verbessern \u2013 m\u00fcssen vermieden werden.\r\n\uf0b7 Alle Anbieter von Reiseleistungen sollten im Grundsatz gleichen Regeln unterliegen.\r\n2\r\nWettbewerbsf\u00e4higkeit der europ\u00e4ischen Pauschalreise und fairer Wettbewerb\r\nPauschalreisen sind schon heute die sicherste Form des Reisens. Es gibt keine andere Branche, in der die Kunden von einem vergleichbaren Schutz profitieren. Sie genie\u00dfen neben dem Insolvenzschutz Rechtsanspr\u00fcche bei Unregelm\u00e4\u00dfigkeiten und Betreuung in Krisensituationen.\r\nDiese Schutzwirkung ist ein Alleinstellungsmerkmal von Pauschalreisen. Wer bei Anbietern wie den gro\u00dfen Online-Plattformen einzelne Reiseleistungen oder lose Arrangements bucht,\r\nerf\u00e4hrt diese Absicherung nicht. H\u00e4ufig ist den Verbrauchern der Unterschied nicht klar und erst im Fall der Krise wird ihnen bewusst, dass sie auf sich allein gestellt sind, wenn sie keine Pauschalreise gebucht haben. Dies hat sich zum Beispiel zum Start der weltweiten Pandemie gezeigt. Die Urlauber, die Einzelkomponenten gebucht hatten, mussten sich selbst um eine R\u00fcckkehr k\u00fcmmern oder durch Fl\u00fcge der Bundesregierung nach Deutschland zur\u00fcckgeholt werden. Pauschalreise-G\u00e4ste wurden durch ihren Veranstalter mit Ersatzfl\u00fcgen in ihr Heimatland geflogen, vor Ort wurde sich um die Betreuung gek\u00fcmmert oder es wurden Hotels zur Verf\u00fcgung gestellt. \u00c4hnlich war dies bei den Waldbr\u00e4nden auf Rhodos 2023, wo TUI rund 300 zus\u00e4tzliche Mitarbeiter zur Betreuung der Reisenden auf die Insel gebracht und eigens Flugzeuge nach Rhodos geschickt hat, um Urlauber aus dem Krisengebiet auszufliegen.\r\nAnders als bei Pauschalreisen wird f\u00fcr Buchungen von Einzelleistungen auch keine Insolvenzabsicherung gew\u00e4hrt. Die Anbieter solcher Reisen zahlen heute nicht in den Reisesicherungsfonds ein. Das gew\u00e4hrt ihnen einen Kostenvorteil gegen\u00fcber den deutschen Pauschalreiseanbietern und ist ganz und gar nicht im Sinne eines umfassenden Schutzes der Verbraucher. Hier muss Wettbewerbsgleichheit hergestellt werden, um internationale Plattform-Unternehmen nicht besser zu stellen als die europ\u00e4ischen Reiseveranstalter, die in touristische Produkte investieren.\r\nKurz zusammengefasst:\r\n\uf0b7 Vorauszahlungsbeschr\u00e4nkung bei Pauschalreisen, w\u00e4hrend bei Einzelleistungen oftmals bis zu 100 Prozent unmittelbar bei Buchung f\u00e4llig werden (z.B. bei Buchung von Fl\u00fcgen)\r\n\uf0b7 Bankgarantien / Sicherheiten zur Insolvenzabsicherung fallen nur f\u00fcr die Pauschalreise an\r\n\uf0b7 R\u00fcckholgarantie und Betreuung vor Ort gibt es nur bei der Pauschalreise\r\n\uf0b7 Existierender Wettbewerbsnachteil der Pauschalreise gegen\u00fcber Einzelleistungsanbietern verschlechtert sich mit dem bestehenden Entwurf weiter\r\n3\r\nAnmerkungen zu den einzelnen Bestimmungen des Richtlinienentwurfs\r\nVorauszahlungsfreiheit erhalten\r\nIn der EU zahlen Reisende in der Regel eine Anzahlung von 20 bis 30 Prozent (oder mehr, abh\u00e4ngig von Produkt und Marktbeschaffenheit), wenn sie eine Pauschalreise im Voraus buchen. Reiseveranstalter finanzieren davon Flug- und Hotelkapazit\u00e4ten. Kleine und mittelst\u00e4ndische Reiseb\u00fcros erhalten Teile der Provisionen bereits bei der Buchung. Das ist gerade auch im Interesse des deutschen Mittelstands. Ein weiteres Thema sind die Zahlungen in nationale Insolvenzsicherungssysteme. Diese flie\u00dfen viele Monate im Voraus. Und nicht zuletzt haben viele Destinationen im S\u00fcden Europas w\u00e4hrend der Winter-Monate keine Saison. Die Veranstalter zahlen dort im Regelfall zwischen November und April erhebliche Vorauszahlungen an Hoteliers und Hotels, um in der Nebensaison ausreichend Liquidit\u00e4t f\u00fcr Renovierungen oder Modernisierung bereitzustellen. So wird der Winter ohne Einnahmen wirtschaftlich \u00fcberbr\u00fcckt und die Saison vorbereitet. Dieses \u00fcber die Jahre gewachsene \u00d6kosystem des Tourismus hat sich bew\u00e4hrt. Vorauszahlungen f\u00fcr Pauschalreisen sind bereits vollst\u00e4ndig durch Insolvenzschutz und starke Erstattungsrechte gesch\u00fctzt \u2013 sogar im Fall h\u00f6herer Gewalt. Anzahlungen in H\u00f6he von 25 bis 30 Prozent sind auch f\u00fcr andere Produktgruppen \u00fcblich (z.B. M\u00f6bel, K\u00fcchen). Anders als bei der Pauschalreise sind die Anzahlungen in diesen Branchen nicht abgesichert und hat der Staat kein Sicherungssystem verpflichtend eingef\u00fchrt.\r\nTUI ist grunds\u00e4tzlich gegen eine Begrenzung der Vorauszahlungen. Sie w\u00fcrde den Verbraucherschutz nicht verbessern. Sie w\u00fcrden das bew\u00e4hrte \u00d6kosystem des Tourismus besch\u00e4digen. Pandemiebedingte Verz\u00f6gerungen bei der R\u00fcckerstattung k\u00f6nnen kein Gradmesser f\u00fcr neue Regeln w\u00e4hrend eines regul\u00e4ren Gesch\u00e4ftsbetriebes sein. Die vorhandenen R\u00fcckerstattungssysteme waren auf den Extremfall der Pandemie auch prozessual nicht ausgelegt.\r\nIn der PTD-Novelle wird eine \u201eflexible\u201c Beschr\u00e4nkung vorgeschlagen, die tats\u00e4chlich aber durchaus restriktiv ist: Wenn Reiseveranstalter eine Vorauszahlung von mehr als 25 Prozent geltend machen, ist dies mit Extra-B\u00fcrokratie und komplexen Nachweisverfahren verbunden. Kosten, die w\u00e4hrend der traditionell umsatzschwachen Nebensaison etwa f\u00fcr Wartung eigener Flugzeuge oder f\u00fcr andere nicht direkt mit der gebuchten Reise im Zusammenhang stehende Aufwendungen anfallen, k\u00f6nnen nicht geltend gemacht werden.\r\nDie Begrenzung der Vorauszahlungen wird die Abh\u00e4ngigkeit der Reiseveranstalter und der gesamten touristischen Wertsch\u00f6pfungskette von Fremdfinanzierung erh\u00f6hen. Folge: Die Kosten steigen, diese m\u00fcssen umgelegt werden und die Attraktivit\u00e4t von Pauschalreisen sinkt. Die Preissensibilit\u00e4t der Verbraucher ist hoch, und der Preisvergleich ist ein Merkmal der Kaufentscheidung. Das Gegenteil von Verbraucherschutz wird erreicht, und der Kunde indirekt zu den Produkten von Plattformen gelenkt, wo er bei Einzelleistungen keine Absicherung erf\u00e4hrt. Im Streitfall ist auch nicht die Plattform Ansprechpartner des Kunden. Da diese nur als Vermittler auftritt, muss sich der Kunde mit lokalen Anbietern im Urlaubsland vor dortigen Gerichten\r\n4\r\nauseinandersetzen. Genau das schw\u00e4cht den Verbraucherschutz, bevorzugt internationale Plattform-Unternehmen und benachteiligt die deutschen und europ\u00e4ischen Veranstalter. Die EU sollte aber eine Politik im Sinne der europ\u00e4ischen Kunden und Veranstalter regulatorisch f\u00f6rdern.\r\nAuch eine Schlusszahlung fr\u00fchestens 28 Tage vor Reiseantritt ist zu restriktiv und erleichtert kurzfristige Kundenstornierungen. Fehlende Planbarkeit hinsichtlich der Auslastung von Flugzeugen und Hotels f\u00fchrt zu weiteren Kostensteigerungen.\r\nPauschalreise k\u00fcnftig klar definieren\r\nPauschalreisen und \u201everbundene Reiseleistungen\" (Linked Travel Arrangements, LTA) sind unzureichend definiert.\r\nEinige Marktteilnehmer nutzten diese Definitionsm\u00e4ngel schon bisher, um Verbraucherschutzverpflichtungen zu umgehen (z.B. Click-Through Modelle). Der Revisionsvorschlag beseitigt diese M\u00e4ngel nur teilweise.\r\nEs muss sichergestellt werden, dass die aktualisierten Definitionen deutlich und transparent sind, in der Praxis funktionieren und in allen m\u00f6glichen Szenarien \u2013 sowohl online als auch offline \u2013 durchsetzbar sind. Die neuen Bestimmungen zu Pauschalreisen, die innerhalb von\r\n3 oder 24 Stunden gekauft werden, widersprechen diesem Gebot, da bei Buchung der Leistung nicht klar ist, welche Art von Reise \u00fcberhaupt gebucht wurde, Pauschalreise oder Einzelleistung, mit sehr unterschiedlichen Folgen f\u00fcr Kunden und Anbieter.\r\nDas verbleibende (durch die Revision neu eingef\u00fchrte) Szenario der \u201everbundenen Reiseleistung\" sollte ebenfalls in die Pauschalreise einbezogen werden. Hintergrund ist die enge Verbindung der verschiedenen darin enthaltenen Reiseleistungen zueinander (zu geringe Abgrenzung zur Pauschalreise).\r\nR\u00fccktrittsrecht beibehalten\r\nDer PTD-Vorschlag zielt auf eine Ausweitung des R\u00fccktrittsrechts auf Umst\u00e4nde ab, die am Wohnsitz des Reisenden oder am Ort der Abreise eintreten. Dieser Passus sollte gestrichen werden. Pauschalreiseveranstalter tragen schon jetzt eine sehr hohe Verantwortung. Sie m\u00fcssen alle in der Pauschalreise enthaltenen Leistungen gew\u00e4hrleisten \u2013 auch bei h\u00f6herer Gewalt am Bestimmungsort.\r\nEine Ausdehnung des R\u00fccktrittsrechts auf Umst\u00e4nde im Heimatland des Reisenden ist unsachgem\u00e4\u00df und birgt f\u00fcr den Reiseveranstalter eine unkalkulierbare Haftung. Fliegt ein Gast aus Innsbruck vom Flughafen M\u00fcnchen aus nach Mallorca, k\u00f6nnte er k\u00fcnftig auf Umst\u00e4nde in Innsbruck verweisen, obgleich am Abflug-Flughafen M\u00fcnchen und am Urlaubsort Mallorca keine Beeintr\u00e4chtigungen bestehen. Kunden k\u00f6nnen sich hier gegen individuelle Risiken f\u00fcr eine geringe Summe selbst absichern. Entb\u00fcrokratisierung und Deregulierung sind in aller Munde. Hier w\u00fcrde allerdings eine neue zus\u00e4tzliche Stufe der Regulierung geschaffen, statt endlich ernst zu machen und einfacher zu werden.\r\n5\r\nDoppelte Schutzmechanismen beseitigen\r\nDie bestehenden Insolvenzschutzsysteme sind bereits extrem umfassend und teuer. Ein Hauptproblem ist, dass viele nationale Regelungen klassische Reiseveranstalter dazu verpflichten, betr\u00e4chtliche Sicherheiten zu hinterlegen bzw. Bankgarantien abzuschlie\u00dfen. Ebenso verlangen Kreditkartenunternehmen und Zahlungsdienstleister oft erhebliche Garantien f\u00fcr m\u00f6gliche R\u00fcckbuchungen.\r\nWird eine Reise mit der Kreditkarte im Reiseb\u00fcro bezahlt, verlangt das Kreditkartenunternehmen eine Sicherheit vom Veranstalter (f\u00fcr den Fall, dass der Kreditkartennehmer bei Zahlungsausfall des Reiseanbieters eine R\u00fcckbuchung fordert). Gleichzeitig ist der vollst\u00e4ndige Reisepreis bereits durch den vom Gesetzgeber initiierten Deutschen Reisesicherungsfonds (DRSF) umfassend abgesichert. Hier wird zweimal Liquidit\u00e4t aus dem Unternehmen gezogen und die Unternehmen m\u00fcssen ein Risiko doppelt absichern, ohne dass es einen Mehrwert f\u00fcr den Verbraucher oder die Wirtschaftskraft am Standort Deutschland schafft. Hier gilt es, \u00fcber die Pauschalreiserichtlinie oder \u00fcber \u00c4nderungen im nationalen Recht einzugreifen und gesetzlich klarzustellen, dass keine Doppelabsicherung stattfinden darf. Es handelt sich um einen klassischen Fall von \u00dcberregulierung zu Lasten der Reiseveranstalter. Auch hier haben Plattformen einen Vorteil, wenn sie Einzelleistungen anbieten, da sie heute nicht in den DRSF einzahlen. Eine klassische Wettbewerbsverzerrung zu Lasten der Veranstalter, die im Wesentlichen die Partner des station\u00e4ren Vertriebs (Reiseb\u00fcros) sind.\r\nB2B-Erstattungspflicht nicht krisenfest\r\nTUI ist nach wie vor der Ansicht, dass R\u00fcckerstattungsrechte im Gesch\u00e4ftsverkehr am besten zwischen den Vertragsparteien und nicht im Verbraucherrecht vereinbart werden. Reiseveranstalter und Anbieter sollten weiterhin frei entscheiden k\u00f6nnen, welche Gesch\u00e4ftsrisiken sie eingehen wollen und k\u00f6nnen, und ihre Gesch\u00e4ftsvereinbarungen entsprechend aushandeln. Das im Vorschlag der Kommission vorgesehene Recht auf B2B-R\u00fcckerstattungen binnen kurzer Frist selbst in Krisenzeiten ist realit\u00e4tsfremd und wird gerade in einer Krise nicht funktionieren, da dann Kapazit\u00e4ten (Personal, Liquidit\u00e4t) beim Anbieter \u2013 wie in der Corona-Pandemie ersichtlich \u2013 stark begrenzt sind. Stattdessen sollten f\u00fcr au\u00dfergew\u00f6hnliche Krisen zeitlich begrenzte Ausnahmeregelungen von der strikten R\u00fcckerstattungsfrist \u00fcberlegt werden.\r\nWeiterentwicklung der Pauschalreiserichtlinie st\u00e4rkt ihre Wettbewerbsf\u00e4higkeit\r\nWettbewerbsverzerrungen zulasten der Pauschalreise sollten zuk\u00fcnftig abgebaut werden, anstatt diese einseitig weiter zu erh\u00f6hen. Es braucht einen neuen, erweiterten Ansatz mit Wahlm\u00f6glichkeit.\r\nDer Umgang mit der Insolvenzabsicherung \u2013 die ausschlie\u00dflich bei Pauschalreisen gefordert wird \u2013 k\u00f6nnte ein Ansatzpunkt sein. Eine M\u00f6glichkeit w\u00e4re, in Zukunft bei Pauschalreisen zwei verschiedene Tarife anzubieten:\r\n6\r\n\uf0b7 Tarif A mit dem kompletten Schutz des Pauschalreiserechts \u2013 inkl. Insolvenzabsicherung\r\n\uf0b7 Tarif B ebenfalls mit dem kompletten Schutz des Pauschalreiserechts \u2013 aber ohne Insolvenzabsicherung\r\nIn beiden F\u00e4llen w\u00fcrde die Pauschalreise auch weiterhin alle wesentlichen Elemente, die den Kunden besonders wichtig sind, umfassen (z.B. die Betreuung vor Ort und die R\u00fcckholung im Krisenfall). Sie h\u00e4tten zudem die Wahl, sich f\u00fcr eine Insolvenzabsicherung oder f\u00fcr einen g\u00fcnstigeren Tarif zu entscheiden. Damit w\u00fcrde die Pauschalreise kostenseitig in eine bessere Wettbewerbsposition gegen\u00fcber Anbietern von Einzelleistungen versetzt, die heute keinerlei Kosten f\u00fcr vergleichbare Absicherungen leisten m\u00fcssen.\r\nEine weitere M\u00f6glichkeit zur Erreichung eines \u201alevel playing fields\u2018 k\u00f6nnte zuk\u00fcnftig darin liegen, auch bei Einzelleistungen, wie etwa dem Flug, die Option \u201emit oder ohne Insolvenzabsicherung\u201c verpflichtend anzubieten, soweit Vorauszahlungen f\u00fcr diese Leistungen anfallen. Bei Fluggesellschaften gibt es bereits heute unterschiedliche Tarife mit unterschiedlichen Leistungen.\r\nAbschlie\u00dfende Bemerkungen\r\nDie Pauschalreise ist der Goldstandard f\u00fcr Verbraucher. Sie ist hochgradig reguliert, sogar \u00fcberreguliert, w\u00e4hrend Anbieter von Einzelleistungen, in der Regel Plattformen, erhebliche Vorteile genie\u00dfen. Insbesondere geh\u00f6ren diese dem g\u00e4ngigen Schutzsystem nicht an. Dies ist f\u00fcr die Verbraucher h\u00e4ufig nicht zu erkennen. Der Kunde glaubt eine vergleichbare Leistung zu erhalten und stellt erst in der Krise fest, dass es sich um unterschiedliche Produkte und Absicherungen handelt. Richtig w\u00e4re es, unterschiedliche Tarife anzubieten, wo der Kunde Leistung, Absicherung und Preis w\u00e4hlt. Ein solches Modell f\u00fchrt zu mehr Transparenz und mehr Verbraucherschutz."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

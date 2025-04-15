@@ -1,0 +1,967 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-03-22T09:29:42.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-01T10:28:09.000+01:00",
+        "lastUpdateDate": "2024-06-25T09:44:35.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 34724,
+                "validFromDate": "2024-06-25T09:44:35.000+02:00",
+                "version": 10,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 29416,
+                "validFromDate": "2024-02-29T13:41:05.000+01:00",
+                "validUntilDate": "2024-06-25T09:44:35.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 28091,
+                "validFromDate": "2024-01-10T09:03:57.000+01:00",
+                "validUntilDate": "2024-02-29T13:41:05.000+01:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27055,
+                "validFromDate": "2023-11-23T12:06:58.000+01:00",
+                "validUntilDate": "2024-01-10T09:03:57.000+01:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25657,
+                "validFromDate": "2023-11-23T11:08:12.000+01:00",
+                "validUntilDate": "2023-11-23T12:06:58.000+01:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 15782,
+                "validFromDate": "2023-03-06T15:34:46.000+01:00",
+                "validUntilDate": "2023-11-23T11:08:12.000+01:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 6263,
+                "validFromDate": "2022-03-22T09:29:42.000+01:00",
+                "validUntilDate": "2023-03-06T15:34:46.000+01:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_CONSULTING",
+            "de": "Beratungsunternehmen, selbst\u00e4ndige Beraterin oder selbst\u00e4ndiger Berater",
+            "en": "Consulting company, independent consultant"
+        },
+        "activityDescription": "Wir sind eine integrierte Kommunikationsberatung, die Kunden in regulatorischen und politischen Fragestellungen bei der Vertretung ihrer Interessen unterst\u00fctzt. F\u00fcr Kunden aus stark regulierten Branchen entwickeln wir passgenaue strategische Konzepte. Wir bewerten die wirtschaftlichen Auswirkungen von Regulierungsma\u00dfnahmen auf Unternehmen, ganze Branchen oder die Gesellschaft und nutzen die daraus gewonnenen Erkenntnisse, um au\u00dfenwirksame Public Affairs Ma\u00dfnahmen zu entwickeln.\r\n\r\nUnser Leistungsspektrum umfasst die Unterst\u00fctzung bei der Interessensvertretung durch sorgf\u00e4ltige Vorbereitung und Nachbereitung von Terminen, aktive Begleitung von Gespr\u00e4chen, Organisation politischer Events sowie die Erstellung von Strategiedokumenten und Studien.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_MEDIA_OTHER",
+                "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                "en": "Other in the field of \"Media, communication and information technology\""
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_MEDIA_FREEDOM_OF_SPEECH",
+                "de": "Meinungs- und Pressefreiheit",
+                "en": "Freedom of speech and freedom of the press"
+            },
+            {
+                "code": "FOI_SP_DISABILITY",
+                "de": "Rechte von Menschen mit Behinderung",
+                "en": "Rights of people with disabilities"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_MEDIA_COPYRIGHT",
+                "de": "Urheberrecht",
+                "en": "Copyright"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ECONOMY_ECOMMERCE",
+                "de": "E-Commerce",
+                "en": "E-commerce"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_LAS_TOURISM",
+                "de": "Tourismus",
+                "en": "Tourism"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            },
+            {
+                "code": "FOI_SP_OTHER",
+                "de": "Sonstiges im Bereich \"Gesellschaftspolitik und soziale Gruppen\"",
+                "en": "Other in the field of \"Social politics and social groups\""
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_SS_OTHER",
+                "de": "Sonstiges im Bereich \"Soziale Sicherung\"",
+                "en": "Other in the field of \"Social security\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_MEDIA_MASS",
+                "de": "Massenmedien",
+                "en": "Mass media"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_OTHER",
+                "de": "Sonstige Interessenbereiche",
+                "en": "Other areas",
+                "fieldOfInterestText": "Film, Games, Telekommunikation"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_SP_DIVERSITY",
+                "de": "Diversit\u00e4tspolitik",
+                "en": "Diversity policy"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_CULTURE",
+                "de": "Kultur",
+                "en": "Culture"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "ON_BEHALF_OF_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird im Auftrag Dritter selbst wahrgenommen",
+                "en": "Representation of interests is carried out on behalf of third parties themselves"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/e6/d5/309270/Jahresabschluss-20212022.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-06-30",
+        "relatedFiscalYearStart": "2021-07-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/a5/5c/309269/degepol_Verhaltenskodex-2.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "address": {
+                                "city": "4226 Breitenbach",
+                                "country": {
+                                    "code": "CH",
+                                    "de": "Schweiz",
+                                    "en": "Switzerland"
+                                },
+                                "internationalAdditional1": "Passwangstrasse 20",
+                                "type": "FOREIGN"
+                            },
+                            "capitalCityRepresentationPresent": false,
+                            "contactDetails": {
+                                "emails": [
+                                    {
+                                        "email": "info@marryjane.com"
+                                    }
+                                ],
+                                "phoneNumber": "+4915114550173",
+                                "websites": [
+                                    {
+                                        "website": "https://marryjane.com/de-de/"
+                                    }
+                                ]
+                            },
+                            "financialResourcesReceived": {
+                                "from": 1,
+                                "lastFiscalYearEnd": "2023-06-30",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2022-07-01",
+                                "to": 50000
+                            },
+                            "legalForm": {
+                                "code": "LF_GMBH",
+                                "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+                                "en": "Limited liability company (GmbH)"
+                            },
+                            "legalFormType": {
+                                "code": "JURISTIC_PERSON",
+                                "de": "Juristische Person",
+                                "en": "Legal person"
+                            },
+                            "legalRepresentatives": [
+                                {
+                                    "firstName": "Rico",
+                                    "function": "CEO",
+                                    "lastName": "Uesluek"
+                                }
+                            ],
+                            "name": "Marry Jane AG"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [
+                        {
+                            "academicDegreeAfter": "LL.M.",
+                            "firstName": "Kai",
+                            "lastName": "Klicker-Brunner",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "Um Interessen zu vertreten, werden Gespr\u00e4che mit dem Bundeskanzleramt, verschiedenen Bundesministerien und Mitgliedern des Deutschen Bundestages gef\u00fchrt. Diese Gespr\u00e4che zielen darauf ab, notwendige \u00c4nderungen in wichtigen Bereichen zu erl\u00e4utern, die f\u00fcr Unternehmen und deren Besch\u00e4ftigte relevant sind. Dazu z\u00e4hlen die Digitalisierung der Verwaltung, die Effizienz von Lieferketten, Nachhaltigkeit sowie die Regulierung von Genussmitteln. Das Ziel dieser Interessenvertretung ist es, praxisnahe Perspektiven zu vermitteln und zur Verbesserung der wirtschaftlichen Gesamtlage beizutragen.",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_PUBLIC",
+                        "de": "\u00d6ffentliches Recht",
+                        "en": "Public law"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    }
+                ],
+                "regulatoryProjects": [
+                    {
+                        "regulatoryProjectNumber": "RV0004996",
+                        "regulatoryProjectTitle": "Marry Jane"
+                    }
+                ]
+            },
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "address": {
+                                "city": "Hamburg",
+                                "country": {
+                                    "code": "DE",
+                                    "de": "Deutschland",
+                                    "en": "Germany"
+                                },
+                                "street": "Troplowitzstra\u00dfe ",
+                                "streetNumber": "5",
+                                "type": "NATIONAL",
+                                "zipCode": "22529"
+                            },
+                            "capitalCityRepresentationPresent": false,
+                            "contactDetails": {
+                                "emails": [
+                                    {
+                                        "email": "kommunikation-deu@holcim.com"
+                                    }
+                                ],
+                                "phoneNumber": "+4940360020",
+                                "websites": [
+                                    {
+                                        "website": "www.holcim.de"
+                                    }
+                                ]
+                            },
+                            "financialResourcesReceived": {
+                                "from": 1,
+                                "lastFiscalYearEnd": "2023-06-30",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2022-07-01",
+                                "to": 50000
+                            },
+                            "legalForm": {
+                                "code": "LF_GMBH",
+                                "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+                                "en": "Limited liability company (GmbH)"
+                            },
+                            "legalFormType": {
+                                "code": "JURISTIC_PERSON",
+                                "de": "Juristische Person",
+                                "en": "Legal person"
+                            },
+                            "legalRepresentatives": [
+                                {
+                                    "firstName": "Thorsten",
+                                    "function": "Gesch\u00e4ftsf\u00fchrer",
+                                    "lastName": "Hahn"
+                                }
+                            ],
+                            "name": "Holcim (Deutschalnd) GmbH"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [
+                        {
+                            "academicDegreeAfter": "LL.M.",
+                            "firstName": "Kai",
+                            "lastName": "Klicker-Brunner",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "Um Interessen zu vertreten, werden Gespr\u00e4che mit dem Bundeskanzleramt, verschiedenen Bundesministerien und Mitgliedern des Deutschen Bundestages gef\u00fchrt. Diese Gespr\u00e4che zielen darauf ab, notwendige \u00c4nderungen in wichtigen Bereichen zu erl\u00e4utern, die f\u00fcr Unternehmen und deren Besch\u00e4ftigte relevant sind. Das Ziel dieser Interessenvertretung ist es, praxisnahe Perspektiven zu vermitteln und zur Verbesserung der wirtschaftlichen Gesamtlage beizutragen.",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_PUBLIC",
+                        "de": "\u00d6ffentliches Recht",
+                        "en": "Public law"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "regulatoryProjects": [
+                    {
+                        "regulatoryProjectNumber": "RV0004997",
+                        "regulatoryProjectTitle": "CCU"
+                    }
+                ]
+            },
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "address": {
+                                "city": "Kleinmachnow",
+                                "country": {
+                                    "code": "DE",
+                                    "de": "Deutschland",
+                                    "en": "Germany"
+                                },
+                                "street": "Albert-Einstein-Ring",
+                                "streetNumber": "2-6",
+                                "type": "NATIONAL",
+                                "zipCode": "14532"
+                            },
+                            "capitalCityRepresentationPresent": false,
+                            "contactDetails": {
+                                "emails": [
+                                    {
+                                        "email": "impressum@ebay.de"
+                                    }
+                                ],
+                                "phoneNumber": "+4930801950",
+                                "websites": [
+                                    {
+                                        "website": "eBay.de"
+                                    }
+                                ]
+                            },
+                            "financialResourcesReceived": {
+                                "from": 50001,
+                                "lastFiscalYearEnd": "2023-06-30",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2022-07-01",
+                                "to": 100000
+                            },
+                            "legalForm": {
+                                "code": "LF_GMBH",
+                                "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+                                "en": "Limited liability company (GmbH)"
+                            },
+                            "legalFormType": {
+                                "code": "JURISTIC_PERSON",
+                                "de": "Juristische Person",
+                                "en": "Legal person"
+                            },
+                            "legalRepresentatives": [
+                                {
+                                    "firstName": "Oliver",
+                                    "function": "Gesch\u00e4ftsf\u00fchrer",
+                                    "lastName": "Klinck"
+                                }
+                            ],
+                            "name": "eBay GmbH"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [
+                        {
+                            "firstName": "Jan-Ole",
+                            "lastName": "Villwock",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "academicDegreeAfter": "LL.M.",
+                            "firstName": "Kai",
+                            "lastName": "Klicker-Brunner",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "Um Interessen zu vertreten, werden Gespr\u00e4che mit dem Bundeskanzleramt, verschiedenen Bundesministerien und Mitgliedern des Deutschen Bundestages gef\u00fchrt. Diese Gespr\u00e4che zielen darauf ab, notwendige \u00c4nderungen in wichtigen Bereichen zu erl\u00e4utern, die f\u00fcr Unternehmen und deren Besch\u00e4ftigte relevant sind. Das Ziel dieser Interessenvertretung ist es, praxisnahe Perspektiven zu vermitteln und zur Verbesserung der wirtschaftlichen Gesamtlage beizutragen.",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_ECOMMERCE",
+                        "de": "E-Commerce",
+                        "en": "E-commerce"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_COMPETITION_LAW",
+                        "de": "Wettbewerbsrecht",
+                        "en": "Competition law"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    }
+                ],
+                "regulatoryProjects": []
+            },
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "address": {
+                                "city": "Berlin",
+                                "country": {
+                                    "code": "DE",
+                                    "de": "Deutschland",
+                                    "en": "Germany"
+                                },
+                                "street": "Friedrichstra\u00dfe",
+                                "streetNumber": "88",
+                                "type": "NATIONAL",
+                                "zipCode": "10117"
+                            },
+                            "capitalCityRepresentationPresent": false,
+                            "contactDetails": {
+                                "emails": [
+                                    {
+                                        "email": "impressum@netflix.com"
+                                    }
+                                ],
+                                "phoneNumber": "+4915290005704",
+                                "websites": [
+                                    {
+                                        "website": "www.netflix.com"
+                                    }
+                                ]
+                            },
+                            "financialResourcesReceived": {
+                                "from": 1,
+                                "lastFiscalYearEnd": "2023-06-30",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2022-07-01",
+                                "to": 50000
+                            },
+                            "legalForm": {
+                                "code": "LF_GMBH",
+                                "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+                                "en": "Limited liability company (GmbH)"
+                            },
+                            "legalFormType": {
+                                "code": "JURISTIC_PERSON",
+                                "de": "Juristische Person",
+                                "en": "Legal person"
+                            },
+                            "legalRepresentatives": [
+                                {
+                                    "firstName": "Reginald",
+                                    "function": "Gesch\u00e4ftsf\u00fchrer",
+                                    "lastName": "Thompson"
+                                },
+                                {
+                                    "firstName": "Emily",
+                                    "function": "Gesch\u00e4ftsf\u00fchrer",
+                                    "lastName": " Catilin"
+                                }
+                            ],
+                            "name": "Netflix Services Germany GmbH"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [
+                        {
+                            "academicDegreeAfter": "LL.M.",
+                            "firstName": "Kai",
+                            "lastName": "Klicker-Brunner",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "m Interessen zu vertreten, werden Gespr\u00e4che mit dem Bundeskanzleramt, verschiedenen Bundesministerien und Mitgliedern des Deutschen Bundestages gef\u00fchrt. Diese Gespr\u00e4che zielen darauf ab, notwendige \u00c4nderungen in wichtigen Bereichen zu erl\u00e4utern, die f\u00fcr Unternehmen und deren Besch\u00e4ftigte relevant sind. Das Ziel dieser Interessenvertretung ist es, praxisnahe Perspektiven zu vermitteln und zur Verbesserung der wirtschaftlichen Gesamtlage beizutragen.",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    }
+                ],
+                "regulatoryProjects": []
+            }
+        ],
+        "contractsPresent": true
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-06-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-07-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.0,
+        "relatedFiscalYearEnd": "2023-06-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-07-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2023-06-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-07-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Hamburg",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Kattunbleiche ",
+            "streetNumber": "35",
+            "type": "NATIONAL",
+            "zipCode": "22041"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@faktor3.de"
+                }
+            ],
+            "phoneNumber": "+49406794460",
+            "websites": [
+                {
+                    "website": "www.faktor3.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeAfter": "LL.M.",
+                "firstName": "Kai",
+                "lastName": "Klicker-Brunner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Jan-Ole",
+                "lastName": "Villwock",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_AG",
+            "de": "Aktiengesellschaft (AG)",
+            "en": "Stock company (AG)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Sabine",
+                "function": "Vorstand",
+                "lastName": "Richter-Schraps",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Gesamtverband Kommunikationsagenturen GWA e.V."
+            },
+            {
+                "membership": "GPRA e. V."
+            },
+            {
+                "membership": "Wirtschaftsrat der CDU e.V."
+            },
+            {
+                "membership": "Wirtschaftsforum der SPD e.V. "
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "FAKTOR 3"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-06-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-07-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-06-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-07-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-06-30",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-07-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002410/34724",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-25T09:44:35.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/67/9c/309272/Lobbyregister-Detailansicht-R002410-2024-06-25_09-44-35.pdf",
+        "validFromDate": "2024-06-25T09:44:35.000+02:00",
+        "version": 10
+    },
+    "registerEntryId": 34724,
+    "registerNumber": "R002410",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "KCanG",
+                        "title": "Gesetz zum Umgang mit Konsumcannabis",
+                        "url": "https://www.gesetze-im-internet.de/kcang"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Um Interessen zu vertreten, werden Gespr\u00e4che mit dem Bundeskanzleramt, verschiedenen Bundesministerien und Mitgliedern des Deutschen Bundestages gef\u00fchrt. Diese Gespr\u00e4che zielen darauf ab, notwendige \u00c4nderungen in wichtigen Bereichen zu erl\u00e4utern, die f\u00fcr Unternehmen und deren Besch\u00e4ftigte relevant sind. Dazu z\u00e4hlen die Digitalisierung der Verwaltung, die Effizienz von Lieferketten, Nachhaltigkeit sowie die Regulierung von Genussmitteln. Das Ziel dieser Interessenvertretung ist es, praxisnahe Perspektiven zu vermitteln und zur Verbesserung der wirtschaftlichen Gesamtlage beizutragen.",
+                "draftBill": {
+                    "customDate": "2023-04-11",
+                    "customTitle": "Kontrollierte Abgabe von Genusscannabis an Erwachsene Eckpunkte eines 2-S\u00e4ulen-Modells",
+                    "leadingMinistries": [
+                        {
+                            "shortTitle": "BMG",
+                            "title": "Bundesministerium f\u00fcr Gesundheit",
+                            "url": "https://www.bundesgesundheitsministerium.de/"
+                        }
+                    ]
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004996",
+                "statements": [],
+                "title": "Marry Jane"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "KSpG",
+                        "title": "Gesetz zur Demonstration der dauerhaften Speicherung von Kohlendioxid",
+                        "url": "https://www.gesetze-im-internet.de/kspg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "\r\nUm Interessen zu vertreten, werden Gespr\u00e4che mit dem Bundeskanzleramt, verschiedenen Bundesministerien und Mitgliedern des Deutschen Bundestages gef\u00fchrt. Diese Gespr\u00e4che zielen darauf ab, notwendige \u00c4nderungen in wichtigen Bereichen zu erl\u00e4utern, die f\u00fcr Unternehmen und deren Besch\u00e4ftigte relevant sind. Das Ziel dieser Interessenvertretung ist es, praxisnahe Perspektiven zu vermitteln und zur Verbesserung der wirtschaftlichen Gesamtlage beizutragen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_PUBLIC",
+                        "de": "\u00d6ffentliches Recht",
+                        "en": "Public law"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/119/2011900.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMWK",
+                                "title": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                                "url": "https://www.bmwk.de/Navigation/DE/Home/home.html"
+                            }
+                        ],
+                        "printingNumber": "20/11900",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-%C3%A4nderung-des-kohlendioxid-speicherungsgesetzes/312438",
+                        "title": "Entwurf eines Gesetzes zur \u00c4nderung des Kohlendioxid-Speicherungsgesetzes"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0004997",
+                "statements": [],
+                "title": "CCU"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

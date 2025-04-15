@@ -1,0 +1,724 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-12-28T12:09:02.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-12-28T12:09:02.000+01:00",
+        "lastUpdateDate": "2024-08-15T12:24:44.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42883,
+                "validFromDate": "2024-08-15T12:24:44.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 40353,
+                "validFromDate": "2024-07-09T09:52:52.000+02:00",
+                "validUntilDate": "2024-08-15T12:24:44.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 40333,
+                "validFromDate": "2024-07-01T09:35:53.000+02:00",
+                "validUntilDate": "2024-07-09T09:52:52.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37323,
+                "validFromDate": "2024-06-28T12:52:56.000+02:00",
+                "validUntilDate": "2024-07-01T09:35:53.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 24737,
+                "validFromDate": "2023-08-08T12:00:31.000+02:00",
+                "validUntilDate": "2024-06-28T12:52:56.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 12790,
+                "validFromDate": "2022-12-28T12:09:02.000+01:00",
+                "validUntilDate": "2023-08-08T12:00:31.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Das Progressive Zentrum ist ein unabh\u00e4ngiger und gemeinn\u00fctziger Think-Tank mit dem Ziel, neue Netzwerke progressiver Akteure unterschiedlicher Herkunft zu stiften und eine tatkr\u00e4ftige Politik f\u00fcr den \u00f6konomischen und gesellschaftlichen Fortschritt zu f\u00f6rdern. Dabei bezieht das Progressive Zentrum besonders junge Vordenker:innen und Entscheidungstr\u00e4ger:innen aus Deutschland und Europa in die Debatten ein. Unter der inhaltlichen Klammer 'Das Gelingen der gerechten Transformation' arbeitet das Progressive Zentrum entlang der Schwerpunkte 'Resiliente Demokratie', 'Green New Deal' und 'Moderner Staat'. \r\n\r\nWir bringen Akteur:innen aus Wissenschaft, Medien, Politik und Zivilgesellschaft in verschiedenen Veranstaltungsformaten (Diskussionsrunden, Fachgespr\u00e4che, Konferenzen) zusammen, um \u00fcber Sektoren, Parteien, und L\u00e4ndergrenzen hinweg im Sinne des Gemeinwohls einen konstruktiven Dialog und Wissenstransfer zu erm\u00f6glichen. Mit Studien, Debattenpapieren und Blogbeitr\u00e4gen setzen wir in unseren Themenschwerpunkten Impulse f\u00fcr eine gemeinwohlorientierte Politik. Ziel der Organisation ist es, eine Plattform zur demokratischen Auseinandersetzung um die besten Ideen f\u00fcr eine freie, gerechte und fortschrittliche Gesellschaft zu bieten.\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_SA_ORGANIZATION",
+                "de": "Staatsorganisation",
+                "en": "State organization"
+            },
+            {
+                "code": "FOI_GU_LIVING_CONDITIONS",
+                "de": "Gew\u00e4hrleistung gleichwertiger Lebensverh\u00e4ltnisse",
+                "en": "Guarantee of equal living conditions"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_IS_ANTI_EXTREMISM",
+                "de": "Extremismusbek\u00e4mpfung",
+                "en": "Counter extremism"
+            },
+            {
+                "code": "FOI_RPI_OTHER",
+                "de": "Sonstiges im Bereich \"Migration, Fl\u00fcchtlingspolitik und Integration\"",
+                "en": "Other in the field of \"Migration, refugee policy and integration\""
+            },
+            {
+                "code": "FOI_EU_POLITICS",
+                "de": "Institutionelle Fragen der EU",
+                "en": "Institutional questions of European politics"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_SP_OTHER",
+                "de": "Sonstiges im Bereich \"Gesellschaftspolitik und soziale Gruppen\"",
+                "en": "Other in the field of \"Social politics and social groups\""
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_CULTURE",
+                "de": "Kultur",
+                "en": "Culture"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_ADMINISTRATION",
+                "de": "Verwaltungstransparenz/Open Government",
+                "en": "Public administration"
+            },
+            {
+                "code": "FOI_FA_CULTURE",
+                "de": "Ausw\u00e4rtige Kultur- und Bildungspolitik",
+                "en": "Foreign cultural and educational policy"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_GERMAN_UNITY",
+                "de": "Deutsche Einheit",
+                "en": "German unity"
+            },
+            {
+                "code": "FOI_SS_OLD_AGE",
+                "de": "Rente/Alterssicherung",
+                "en": "Old-age insurance"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_SP_DIVERSITY",
+                "de": "Diversit\u00e4tspolitik",
+                "en": "Diversity policy"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_FA_BRD",
+                "de": "Au\u00dfenpolitik",
+                "en": "Foreign policy of the federal republic of Germany"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_SA_OTHER",
+                "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                "en": "Other in the field of \"Government and administration\""
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_SS_OTHER",
+                "de": "Sonstiges im Bereich \"Soziale Sicherung\"",
+                "en": "Other in the field of \"Social security\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/c1/55/343779/JA-2023-Lobby.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "Projektf\u00f6rderung: \"Tech4Transformation\"",
+                "donationEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "name": "Bertelsmann Stiftung"
+            },
+            {
+                "description": "Projektf\u00f6rderung: \"Analysis and Alliances for the just Transition\"",
+                "donationEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "name": "Open Society Foundation"
+            },
+            {
+                "description": "Projektf\u00f6rderung: \"Analyse der Montagsdemos im Zuge der Energiekrise\"",
+                "donationEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "name": "Bertelsmann Stiftung"
+            },
+            {
+                "description": "Projektf\u00f6rderung: \"Industrial Heartlands\"",
+                "donationEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "name": "Third Way/Progressive Policy Institute"
+            },
+            {
+                "description": "Politisches Symposium: \"Wie viel Konflikt vertr\u00e4gt die Transformation?\"",
+                "donationEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "name": "European Climate Foundation"
+            },
+            {
+                "description": "Projektf\u00f6rderung: \"INNOCRACY Konfrerenz\"",
+                "donationEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "name": "Mercator Stiftung"
+            },
+            {
+                "description": "Projektf\u00f6rderung: \"INNOCRACY Konfrerenz\"",
+                "donationEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "name": "Open Society Foundation"
+            },
+            {
+                "description": "Projektf\u00f6rderung: \"INNOCRACY Konfrerenz\" (passives Sponsoring)",
+                "donationEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "name": "Bertelsmann Stiftung"
+            },
+            {
+                "description": "Projektf\u00f6rderung 2023-2025: \"#AI4 for Society - Creating the conditions for a socially acceptable and responsible transition to artificial intelligence\"",
+                "donationEuro": {
+                    "from": 740001,
+                    "to": 750000
+                },
+                "name": "Google Ireland Ltd."
+            },
+            {
+                "description": "Projektf\u00f6rderung: \"INNOCRACY Gameshow\"",
+                "donationEuro": {
+                    "from": 50001,
+                    "to": 60000
+                },
+                "name": "Open Society Foundation"
+            },
+            {
+                "description": "Projektf\u00f6rderung: \"INNOCRACY Gameshow\"",
+                "donationEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "name": "Zentrum f\u00fcr neue Sozialpolitik"
+            },
+            {
+                "description": "Projektf\u00f6rderung: \"INNOCRACY Gameshow\"",
+                "donationEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "name": "Futurium gGmbH"
+            },
+            {
+                "description": "Politisches Symposium \"Wie viel Konflikt vertr\u00e4gt die Transformation\" (passives Sponsoring)",
+                "donationEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "name": "Google Ireland Ltd."
+            },
+            {
+                "description": "Projektf\u00f6rderung: \"Progressive Governance Symposium 2023\"",
+                "donationEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "name": "The Foundation of European Progressive Studies"
+            },
+            {
+                "description": "Projektf\u00f6rderung: \"Junge Menschen und Gesellschaft\"",
+                "donationEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "name": "Bertelsmann Stiftung"
+            },
+            {
+                "description": "Projektf\u00f6rderung: \"Halbzeitstudie Bundesregierung\"",
+                "donationEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "name": "Bertelsmann Stiftung"
+            },
+            {
+                "description": "Projektf\u00f6rderung: \"Transformation and Innovation\"",
+                "donationEuro": {
+                    "from": 70001,
+                    "to": 80000
+                },
+                "name": "Apple Distribution International Ltd."
+            },
+            {
+                "description": "Projektf\u00f6rderung: \"W\u00e4hlerpotenzianalyse\"",
+                "donationEuro": {
+                    "from": 50001,
+                    "to": 60000
+                },
+                "name": "European Climate Foundation"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 1330001,
+            "to": 1340000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.81,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 70001,
+            "to": 80000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Werftstra\u00dfe",
+            "streetNumber": "3",
+            "type": "NATIONAL",
+            "zipCode": "10557"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "mail@progressives-zentrum.org"
+                }
+            ],
+            "phoneNumber": "+493040054255",
+            "websites": [
+                {
+                    "website": "www.progressives-zentrum.org"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Dominic",
+                "lastName": "Schwickert",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Professor Doktor",
+                "firstName": "Wolfgang",
+                "lastName": "Schroeder",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Paul",
+                "lastName": "J\u00fcrgensen",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Andreas",
+                "lastName": "Oldenbourg",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Maria",
+                "lastName": "Menzel-Meyer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Paulina",
+                "lastName": "Fr\u00f6hlich",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Dominic",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Schwickert",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Professor Doktor",
+                "entrustedPerson": true,
+                "firstName": "Wolfgang",
+                "function": "Vorsitzender ",
+                "lastName": "Schroeder",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Judith",
+                "function": "Zweite Vorsitzende ",
+                "lastName": "Siller",
+                "recentGovernmentFunction": {
+                    "ended": false,
+                    "federalAdministration": {
+                        "function": "Referentin",
+                        "supremeFederalAuthority": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL) oder dessen Gesch\u00e4ftsbereich",
+                        "supremeFederalAuthorityShort": "BMEL"
+                    },
+                    "type": {
+                        "code": "FEDERAL_ADMINISTRATION",
+                        "de": "Bundesverwaltung",
+                        "en": "Federal administration"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Joachiim",
+                "function": "Vorstandsmitglied",
+                "lastName": "Knodt",
+                "recentGovernmentFunction": {
+                    "endDate": "2022-08",
+                    "ended": true,
+                    "federalAdministration": {
+                        "function": "Beamter",
+                        "supremeFederalAuthority": "Ausw\u00e4rtiges Amt (AA) oder dessen Gesch\u00e4ftsbereich",
+                        "supremeFederalAuthorityShort": "AA"
+                    },
+                    "type": {
+                        "code": "FEDERAL_ADMINISTRATION",
+                        "de": "Bundesverwaltung",
+                        "en": "Federal administration"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Paulina",
+                "function": "Stellvertretende Gesch\u00e4ftsf\u00fchrerin",
+                "lastName": "Fr\u00f6hlich",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-17",
+            "naturalPersons": 13,
+            "organizations": 0,
+            "totalCount": 13
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Foundation for European Progressive Studies"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Das Progressive Zentrum e. V. "
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 1,
+            "to": 10000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Zuwendung f\u00fcr das Modellprojekt: Kollekt - Geschichten des Extremismus",
+                "location": "10117 Berlin, Glinkastra\u00dfe 24",
+                "name": "Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend",
+                "publicAllowanceEuro": {
+                    "from": 190001,
+                    "to": 200000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "F\u00f6rderung von Personal- und Verwaltungsausgaben zur Erf\u00fcllung der satzungsgem\u00e4\u00dfen Ziele",
+                "location": "10117 Berlin, Dorotheenstra\u00dfe 84",
+                "name": "Presse- und Informationsamt der Bundesregierung",
+                "publicAllowanceEuro": {
+                    "from": 490001,
+                    "to": 500000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projektf\u00f6rderung \"Transatlantic Dialogue on the Industrial Heartlands: Shaping a Just Transition\"",
+                "location": "Palmengartenstrasse 5-9, 60325 Frankfurt am Main",
+                "name": "Kreditanstalt f\u00fcr Wiederaufbau im Auftrag der deutschen Bundesregierung",
+                "publicAllowanceEuro": {
+                    "from": 110001,
+                    "to": 120000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projektf\u00f6rderung: \u201eThe Climate Connaction\u201c ",
+                "location": "Kirchhofstra\u00dfe 1 - 2, 14776 Brandenburg an der Havel",
+                "name": "Ausw\u00e4rtiges Amt",
+                "publicAllowanceEuro": {
+                    "from": 620001,
+                    "to": 630000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R005567/42883",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-28T12:52:56.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/ce/a2/343780/Lobbyregister-Detailansicht-R005567-2024-08-15_12-24-44.pdf",
+        "validFromDate": "2024-08-15T12:24:44.000+02:00",
+        "version": 6
+    },
+    "registerEntryId": 42883,
+    "registerNumber": "R005567",
+    "regulatoryProjects": {
+        "regulatoryProjects": [],
+        "regulatoryProjectsPresent": false
+    },
+    "statements": {}
+}

@@ -1,0 +1,603 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-01-30T14:53:42.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-31T12:38:47.000+02:00",
+        "lastUpdateDate": "2024-06-18T09:44:14.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 35938,
+                "validFromDate": "2024-06-18T09:44:14.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 20434,
+                "validFromDate": "2023-07-28T12:44:04.000+02:00",
+                "validUntilDate": "2024-06-18T09:44:14.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 7059,
+                "validFromDate": "2023-01-30T14:53:42.000+01:00",
+                "validUntilDate": "2023-07-28T12:44:04.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Der Bundesverband IT-Mittelstand e.V. (BITMi) vertritt die Interessen der mittelst\u00e4ndischen IT-Wirtschaft. Mittelst\u00e4ndische Unternehmen stellen die Mehrzahl aller Arbeitspl\u00e4tze der Digitalwirtschaft in Deutschland.\r\n\r\nDer Verband verf\u00fcgt nach seiner Satzung \u00fcber eine Doppelstruktur und agiert dadurch als Dachverband, der zugleich auch \u00fcber Direktmitglieder verf\u00fcgt. Durch Assoziierung einschl\u00e4giger Regional- und Fachverb\u00e4nde, vertritt der BITMi in seiner Funktion als Dachverband ca. 2.020 IT-Unternehmen. Hinzu kommen rund 440 Direktmitglieder. Insgesamt spricht der Verband damit f\u00fcr rund 2.500 mittelst\u00e4ndische IT-Unternehmen. Diese sind in allen Bereichen der Digitalwirtschaft aktiv. Zum Verband geh\u00f6ren sowohl Softwareentwickler und Hardwareproduzenten als auch Systemh\u00e4user und IT-Beratungsunternehmen. \r\n\r\nWichtigstes Anliegen des BITMi ist die St\u00e4rkung der digitalen Souver\u00e4nit\u00e4t, also der selbstbestimmten technologischen Gestaltung des digitalen Wandels als Grundlage f\u00fcr die Teilhabe am Wohlstand der Zukunft. Es ist dar\u00fcber hinaus das Ziel des Verbands, durch intensive Vernetzung und geeignete Verbandsdienstleistungen das Unternehmenswachstum und die Wettbewerbsf\u00e4higkeit mittelst\u00e4ndischer IT-Unternehmen zu verbessern und die Marktentwicklung voranzutreiben. Zu diesem Zweck kommuniziert der er die Perspektiven, St\u00e4rken, Bedeutung, Chancen und Herausforderungen des IT-Mittelstands gegen\u00fcber Politik, Wissenschaft, Wirtschaft sowie der allgemeinen \u00d6ffentlichkeit. Der BITMi organisiert dar\u00fcber hinaus zahlreiche Veranstaltungen im Jahr, kultiviert ein weitreichendes Partnernetzwerk, realisiert erfolgreiche Public-Relations-Kampagnen und organisiert den Wissenstransfer mit Universit\u00e4ten und Forschungseinrichtungen.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_SA_OTHER",
+                "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                "en": "Other in the field of \"Government and administration\""
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_MEDIA_COPYRIGHT",
+                "de": "Urheberrecht",
+                "en": "Copyright"
+            },
+            {
+                "code": "FOI_BUNDESTAG_OTHER",
+                "de": "Sonstiges im Bereich \"Bundestag\"",
+                "en": "Other in the field of \"Bundestag\""
+            },
+            {
+                "code": "FOI_EU_POLITICS",
+                "de": "Institutionelle Fragen der EU",
+                "en": "Institutional questions of European politics"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_OTHER",
+                "de": "Sonstiges im Bereich \"Verkehr\"",
+                "en": "Other in the field of \"Transportation\""
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_MEDIA_MASS",
+                "de": "Massenmedien",
+                "en": "Mass media"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_ADMINISTRATION",
+                "de": "Verwaltungstransparenz/Open Government",
+                "en": "Public administration"
+            },
+            {
+                "code": "FOI_ECONOMY_ECOMMERCE",
+                "de": "E-Commerce",
+                "en": "E-commerce"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_SERVICE",
+                "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                "en": "Public service"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_MEDIA_OTHER",
+                "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                "en": "Other in the field of \"Media, communication and information technology\""
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/14/f4/295541/2022_BITMi_Jahresabschlussbericht_Bilanz-GuV.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.5,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 150001,
+            "to": 160000
+        },
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Schiffbauerdamm",
+            "streetNumber": "40",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "hauptstadtbuero@bitmi.de",
+            "phoneNumber": "+493022605005",
+            "street": "Schiffbauerdamm",
+            "streetNumber": "40",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "patrick.haeuser@bitmi.de"
+                }
+            ],
+            "phoneNumber": "+4903022605005",
+            "websites": [
+                {
+                    "website": "http://www.bitmi.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Oliver",
+                "lastName": "Gr\u00fcn",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "M.Sc., M.A.",
+                "firstName": "Patrick",
+                "lastName": "H\u00e4user",
+                "recentGovernmentFunction": {
+                    "endDate": "2020-09",
+                    "ended": true,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_MEMBER",
+                            "de": "Funktion f\u00fcr ein Mitglied des Deutschen Bundestages",
+                            "en": "Function for a member of the German Bundestag"
+                        },
+                        "functionPosition": "Wissenschaftlicher Mitarbeiter"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "academicDegreeAfter": "M.A.",
+                "firstName": "Nele",
+                "lastName": "Kammlott",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Martin",
+                "lastName": "Hubschneider",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Frank",
+                "lastName": "Karlitschek",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Oliver",
+                "function": "Pr\u00e4sident und Vorstandsvorsitzender",
+                "lastName": "Gr\u00fcn",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "M.A.",
+                "entrustedPerson": true,
+                "firstName": "Nele",
+                "function": "Vizepr\u00e4sidentin und Vorstandsmitglied",
+                "lastName": "Kammlott",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Martin",
+                "function": "Vizepr\u00e4sident und Vorstandsmitglied",
+                "lastName": "Hubschneider",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Frank",
+                "function": "Vizepr\u00e4sident und Vorstandsmitglied",
+                "lastName": "Karlitschek",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-12",
+            "naturalPersons": 0,
+            "organizations": 2500,
+            "totalCount": 2500
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "European DIGITAL SME Alliance"
+            },
+            {
+                "membership": "DigitalHUB Aachen e.V."
+            },
+            {
+                "membership": "Gesellschaft f\u00fcr Informatik e.V."
+            },
+            {
+                "membership": "MINT - Zukunft e.V."
+            },
+            {
+                "membership": "Kompetenznetzwerk Trusted Cloud e. V."
+            },
+            {
+                "membership": "UIG e.V."
+            },
+            {
+                "membership": "Bundesverband mittelst\u00e4ndische Wirtschaft e.V. (Mittelstandsallianz)"
+            },
+            {
+                "membership": "Bundesverband f\u00fcr den Schutz Kritischer Infrastruktturen e.V. (BSKI)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Bundesverband IT-Mittelstand e.V. (BITMi)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01",
+        "totalMembershipFees": {
+            "from": 300001,
+            "to": 310000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Access to International Partnerships in IT (AIPI) ist ein Partnerschaftsprojekt des Bundesverbands IT-Mittelstand e. V. (BITMi) und der Rwanda ICT Chamber, dem IT-Branchenverband in Ruanda, das f\u00fcr ihre jeweiligen Mitgliedsunternehmen und beide IT-\u00d6kosysteme insgesamt wirtschaftlichen Nutzen bringt. \r\nDas Projekt zielt darauf ab, Partnerschaften zwischen Unternehmen zu bilden und den Zugang zu neuen M\u00e4rkten zu erleichtern. Dazu werden verschiedene Ma\u00dfnahmen wie Studienreisen, Programme zum Kapazit\u00e4tsaufbau, Workshops, Austauschprogramme und andere Events initiiert und koordiniert, die eine fruchtbare Zusammenarbeit f\u00fcr beide \u00d6kosysteme unterst\u00fctzen.\r\n",
+                "location": "Berlin, Deutschland",
+                "name": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                "publicAllowanceEuro": {
+                    "from": 590001,
+                    "to": 600000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Das Mittelstand 4.0-Kompetenzzentrum IT-Wirtschaft (KIW) geh\u00f6rt zum vom Bundesministerium f\u00fcr Wirtschaft und Klimaschutz gef\u00f6rderten, bundesweiten Netzwerk Mittelstand Digital. Es unterst\u00fctzt IT-Unternehmen mithilfe von vier Standorten im Bundesgebiet (Berlin, Aachen, Kassel und Karlsruhe) bei der Vernetzung ihrer bestehenden IT-Produkte und dem Aufbau strategischer Kooperationen. Ziel ist es, \u00fcber Kooperationen mittelst\u00e4ndischer Software-L\u00f6sungen den gestiegenen Bedarf an interoperablen Digitalisierungsanwendungen der Anwenderseite zu adressieren, um so IT-Unternehmen zum Wachstum zu bef\u00e4higen. Dazu unterst\u00fctzt das KIW u.a. bei der Partnerfindung, der Kl\u00e4rung rechtlicher Rahmenbedingungen bis hin zur technischen Umsetzung der Schnittstellen. Zudem entwickelt es die Matching-Plattform IT2match als digitalen Assistenten f\u00fcr den Aufbau von Kooperationsbeziehungen.",
+                "location": "Berlin, Deutschland",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 1070001,
+                    "to": 1080000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R003955/35938",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-18T09:44:14.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/ec/cf/295542/Lobbyregister-Detailansicht-R003955-2024-06-18_09-44-14.pdf",
+        "validFromDate": "2024-06-18T09:44:14.000+02:00",
+        "version": 4
+    },
+    "registerEntryId": 35938,
+    "registerNumber": "R003955",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Der Staat ist der gr\u00f6\u00dfte IT-Eink\u00e4ufer in Deutschland. Insofern besteht in der \u00f6ffentlichen Beschaffung ein bedeutender Hebel zur St\u00e4rkung der digitalen Souver\u00e4nit\u00e4t. Vergabeprozess sollen im Zuge der Gesetze insbesondere f\u00fcr (IT-)KMU einfacher und zug\u00e4nglicher gemacht werden, um mehr Teilhabe zu erm\u00f6glichen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_STATE_ADMIN",
+                        "de": "Staat und Verwaltung",
+                        "en": "Government and administration"
+                    },
+                    {
+                        "code": "FOI_SA_PUBLIC_SERVICE",
+                        "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                        "en": "Public service"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_SA_OTHER",
+                        "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                        "en": "Other in the field of \"Government and administration\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002713",
+                "statements": [],
+                "title": "Vergabetransformationspaket"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

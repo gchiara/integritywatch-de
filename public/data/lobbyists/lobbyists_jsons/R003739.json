@@ -1,0 +1,772 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-01-09T11:44:06.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-23T09:48:53.000+01:00",
+        "lastUpdateDate": "2024-06-24T10:38:34.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 38199,
+                "validFromDate": "2024-06-24T10:38:34.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 35442,
+                "validFromDate": "2024-06-06T13:16:29.000+02:00",
+                "validUntilDate": "2024-06-24T10:38:34.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 28479,
+                "validFromDate": "2024-01-24T11:19:56.000+01:00",
+                "validUntilDate": "2024-06-06T13:16:29.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22106,
+                "validFromDate": "2023-07-26T09:33:15.000+02:00",
+                "validUntilDate": "2024-01-24T11:19:56.000+01:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 14155,
+                "validFromDate": "2023-01-09T11:44:06.000+01:00",
+                "validUntilDate": "2023-07-26T09:33:15.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Der Bund f\u00fcr Umwelt und Naturschutz Deutschland (BUND) Landesverband Sachsen e.V. ist ein unabh\u00e4ngiger, f\u00f6derativer und gemeinn\u00fctziger Verband, der sich seit seiner Gr\u00fcndung 1989 durch \u00f6ffentlichkeitswirksame Ma\u00dfnahmen und Lobbyarbeit f\u00fcr den Natur- und Umweltschutz in Sachsen einsetzt. Er engagiert sich f\u00fcr eine nachhaltige Entwicklung auf lokaler und regionaler Ebene. Die Jugendorganisation im BUND (BUNDjugend) setzt sich neben dem Schutz von Natur und Umwelt f\u00fcr die F\u00f6rderung der Jugendarbeit innerhalb des Bundeslandes ein. \r\nKonkrete T\u00e4tigkeiten zum Zweck der Interessenvertretung sind: Teilnahme an Anh\u00f6rungen oder Gespr\u00e4chsrunden von/in Ministerien (z.B. zu Gesetzgebungsvorhaben, j\u00e4hrlicher Austausch z.B. mit BMUV mit den Umweltverb\u00e4nden zu umweltrelevanten Themen), Teilnahme als Sachverst\u00e4ndige in Anh\u00f6rungen in Bundestags-Aussch\u00fcssen (auf Anfrage von Parteien bzw. der Ausschusssekretariate der Aussch\u00fcsse des Bundestags).",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_AF_FOOD_SAFETY",
+                "de": "Lebensmittelsicherheit",
+                "en": "Food safety"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_OTHER",
+                "de": "Sonstiges im Bereich \"Verkehr\"",
+                "en": "Other in the field of \"Transportation\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AEROSPACE",
+                "de": "Luft- und Raumfahrt",
+                "en": "Aerospace"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_AF_AQUACULTURE",
+                "de": "Fischerei/Aquakultur",
+                "en": "Fishery/aquaculture"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_EP_CHILDHOOD",
+                "de": "Vorschulische Bildung",
+                "en": "Early childhood education"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_ENERGY_NUCLEAR",
+                "de": "Atomenergie",
+                "en": "Nuclear power"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            },
+            {
+                "code": "CONTRACTS_OPERATED_BY_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird in eigenem Interesse durch die Beauftragung Dritter wahrgenommen",
+                "en": "Contracts are awarded to third parties to represent own interests of the company"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/7a/0e/305957/Bilanz2022_BUND_Sachsen.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 1,
+            "to": 10000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.14,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Chemnitz",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Stra\u00dfe der Nationen",
+            "streetNumber": "122",
+            "type": "NATIONAL",
+            "zipCode": "09111"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@bund-sachsen.de"
+                }
+            ],
+            "phoneNumber": "+49371301477",
+            "websites": [
+                {
+                    "website": "www.bund-sachsen.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Prof. Dr. Dr.",
+                "firstName": "Felix",
+                "lastName": "Ekardt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Franziska",
+                "lastName": "He\u00df",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Almut",
+                "lastName": "Gaisbauer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Maria",
+                "lastName": "Fomina",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Joachim",
+                "lastName": "Wondrak",
+                "recentGovernmentFunction": {
+                    "endDate": "2021-10",
+                    "ended": true,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_MEMBER",
+                            "de": "Funktion f\u00fcr ein Mitglied des Deutschen Bundestages",
+                            "en": "Function for a member of the German Bundestag"
+                        },
+                        "functionPosition": "wissenschaftlicher Mitarbeiter einer Bundestagsabgeordneten"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Prof. Dr. Dr.",
+                "entrustedPerson": true,
+                "firstName": "Felix",
+                "function": "Vorstandsvorsitzender",
+                "lastName": "Ekardt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Franziska",
+                "function": "Stellvertretende Vorsitzende",
+                "lastName": "He\u00df",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Lars",
+                "function": "Stellvertretender Vorsitzender",
+                "lastName": "Stratmann",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-04-30",
+            "naturalPersons": 11005,
+            "organizations": 21,
+            "totalCount": 11026
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Eine Spinnerei - vom nachhaltigen Leben e. V."
+            },
+            {
+                "membership": "Entwicklungspolitisches Netzwerk Sachsen e. V."
+            },
+            {
+                "membership": "Tr\u00e4gerverein UWZ Chemnitz e. V."
+            },
+            {
+                "membership": "Kinder- und Jugendring Sachsen e. V. (KJRS)"
+            },
+            {
+                "membership": "Landesverband Nachhaltiges Sachsen e. V."
+            },
+            {
+                "membership": "Deutsches Jugendherbergswerk e. V. (DJH)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Bund f\u00fcr Umwelt und Naturschutz Deutschland (BUND) Landesverband Sachsen e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 240001,
+            "to": 250000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Sach- und Personalkosten zur Unterst\u00fctzung der Arbeit der BUNDjugend Sachsen",
+                "location": "Humboldtstra\u00dfe 18, 04105 Leipzig",
+                "name": "Kommunaler Sozialverband Sachsen",
+                "publicAllowanceEuro": {
+                    "from": 60001,
+                    "to": 70000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Projekt \"Waldausstellung\", Projekt \"Luchsland Sachsen\", Projekt \"Wilde Sense Camp\", Projekt \"Gr\u00fcnes Band\"",
+                "location": "Riesaer Str. 7, 01129 Dresden",
+                "name": "S\u00e4chsische Landesstiftung Natur und Umwelt",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Unterst\u00fctzung anerkannter Naturschutzverb\u00e4nde und virtuelles B\u00fcro, verschiedene Projekte \"Wildkatze\"",
+                "location": "Wilhelm-Buck-Stra\u00dfe 4, 01097 Dresden",
+                "name": "S\u00e4chsisches Staatsministerium f\u00fcr Energie, Klimaschutz, Umwelt und Landwirtschaft (SMEKUL)",
+                "publicAllowanceEuro": {
+                    "from": 180001,
+                    "to": 190000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Projekt \"Exkursionen f\u00fcr das Ehrenamt beim BUND Sachsen\"",
+                "location": "Woldegker Chaussee 35, 17235 Neustrelitz",
+                "name": "Deutsche Stiftung f\u00fcr Engagement und Ehrenamt",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projekt \"Wildkatzenw\u00e4lder\"",
+                "location": "Konstantinstr. 110, 53179 Bonn",
+                "name": "Bundesamt f\u00fcr Naturschutz (BfN)",
+                "publicAllowanceEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projekt \"Lebendige Ufer\"",
+                "location": "Stresemannstr. 69 - 71, 10963 Berlin ",
+                "name": "Zukunft-Umwelt-Gesellschaft gGmbH",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projekt \"Die Elbe lebt\"",
+                "location": "Stresemannstra\u00dfe 128 - 130, 10117 Berlin",
+                "name": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projekt \u201eGestaltungspotentialanalyse und -empfehlung von B\u00e4chen im l\u00e4ndlichen Raum\u201c ",
+                "location": "Pirnaische Stra\u00dfe 9. 01069 Dresden",
+                "name": "S\u00e4chsische Aufbaubank",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R003739/38199",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-24T10:38:34.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/88/ce/305960/Lobbyregister-Detailansicht-R003739-2024-06-24_10-38-34.pdf",
+        "validFromDate": "2024-06-24T10:38:34.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 38199,
+    "registerNumber": "R003739",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "VwGO",
+                        "title": "Verwaltungsgerichtsordnung",
+                        "url": "https://www.gesetze-im-internet.de/vwgo"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Es wird bezweckt, dass die VwGO nicht dahingehend ge\u00e4ndert wird, dass Natur-, Umwelt- und Klimaschutz erschwert wird bzw. durch verwaltungsrechtliche Regelungen zus\u00e4tzlich gef\u00e4hrdet wird durch z.B. zu wenig Schutz vor irreparable Sch\u00e4den. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SPECIES",
+                        "de": "Artenschutz/Biodiversit\u00e4t",
+                        "en": "Species protection/biodiversity"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/051/2005165.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMJ",
+                                "title": "Bundesministerium der Justiz",
+                                "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                            }
+                        ],
+                        "printingNumber": "20/5165",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-beschleunigung-von-verwaltungsgerichtlichen-verfahren-im-infrastrukturbereich/294108",
+                        "title": "Entwurf eines Gesetzes zur Beschleunigung von verwaltungsgerichtlichen Verfahren im Infrastrukturbereich"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0001514",
+                "statements": [],
+                "title": "VwGO-Novelle, Beschleunigung von verwaltungsgerichtlichen Verfahren im Infrastrukturbereich"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "FStrG",
+                        "title": "Bundesfernstra\u00dfengesetz",
+                        "url": "https://www.gesetze-im-internet.de/fstrg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Es wird bezweckt, dass die Beteiligungsrechte der anerkannten Naturschutzverb\u00e4nde (und der \u00d6ffentlichkeit) an verwaltungsgerichtliche Verfahren im Infrastrukturbereich nicht weiter eingeschr\u00e4nkt werden. Weiter ist es Ziel, den Natur- und Umweltschutz in der Gesetzgebung zu Genehmigungsverfahren im Verkehrsbereich zu st\u00e4rken und nicht zus\u00e4tzlich zu schw\u00e4chen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                        "de": "Stra\u00dfenverkehr",
+                        "en": "Road traffic"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SPECIES",
+                        "de": "Artenschutz/Biodiversit\u00e4t",
+                        "en": "Species protection/biodiversity"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_POLICY",
+                        "de": "Verkehrspolitik",
+                        "en": "Transport policy"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/068/2006879.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMDV",
+                                "title": "Bundesministerium f\u00fcr Digitales und Verkehr",
+                                "url": "https://bmdv.bund.de/DE/Home/home.html"
+                            }
+                        ],
+                        "printingNumber": "20/6879",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-beschleunigung-von-genehmigungsverfahren-im-verkehrsbereich-und-zur-umsetzung/299222",
+                        "title": "Entwurf eines Gesetzes zur Beschleunigung von Genehmigungsverfahren im Verkehrsbereich und zur Umsetzung der Richtlinie (EU) 2021/1187 \u00fcber die Straffung von Ma\u00dfnahmen zur rascheren Verwirklichung des transeurop\u00e4ischen Verkehrsnetzes"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0001515",
+                "statements": [],
+                "title": "Verkehrswegeplanungsbeschleunigungsgesetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "UmwRG",
+                        "title": "Gesetz \u00fcber erg\u00e4nzende Vorschriften zu Rechtsbehelfen in Umweltangelegenheiten nach der EG-Richtlinie 2003/35/EG",
+                        "url": "https://www.gesetze-im-internet.de/umwrg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Es wird bezweckt, die Klagem\u00f6glichkeiten im Sinne des Natur- und Umweltschutzes in Form einer \"Generalklausel\" im Gesetzestext zu verankern. Weiterhin soll das Gesetz an V\u00f6lker- und Europarecht angepasst werden.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmuv.de/fileadmin/Daten_BMU/Download_PDF/Glaeserne_Gesetze/20._Lp/aend_umwrg/Entwurf/aend_umwrg_refe_bf.pdf",
+                            "draftBillProjectUrl": "https://www.bmuv.de/gesetz/referentenentwurf-eines-gesetzes-zur-aenderung-des-umwelt-rechtsbehelfsgesetzes-und-weiterer-umweltrechtlicher-vorschriften",
+                            "shortTitle": "BMUV",
+                            "title": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+                            "url": "https://www.bmuv.de/"
+                        }
+                    ],
+                    "publicationDate": "2024-05-07",
+                    "title": "Referentenentwurf eines Gesetzes zur \u00c4nderung des Umwelt-Rechtsbehelfsgesetzes und weiterer umweltrechtlicher Vorschriften"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001516",
+                "statements": [],
+                "title": "Umwelt-Rechtsbehelfsgesetz"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

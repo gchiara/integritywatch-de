@@ -1,0 +1,799 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-11-10T09:41:22.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-11-10T09:41:22.000+01:00",
+        "lastUpdateDate": "2024-07-16T10:16:21.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 41474,
+                "validFromDate": "2024-07-16T10:16:21.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 29624,
+                "validFromDate": "2024-05-13T12:12:25.000+02:00",
+                "validUntilDate": "2024-07-16T10:16:21.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26258,
+                "validFromDate": "2023-11-16T14:55:40.000+01:00",
+                "validUntilDate": "2024-05-13T12:12:25.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 24321,
+                "validFromDate": "2023-08-01T10:26:23.000+02:00",
+                "validUntilDate": "2023-11-16T14:55:40.000+01:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 3717,
+                "validFromDate": "2022-11-10T09:41:22.000+01:00",
+                "validUntilDate": "2023-08-01T10:26:23.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Das B\u00fcndnis Eine Welt Schleswig-Holstein e.V. (BEI) ist Dachverband von \u00fcber 100 entwicklungspolitischen Organisationen in Schleswig-Holstein. Unser Netzwerk sorgt f\u00fcr Verbindungen unter vielf\u00e4ltigen Akteur*innen, wirbt f\u00fcr globale Gerechtigkeit und b\u00fcndelt Informationen zu den Themenfeldern: Globales Lernen / Bildung f\u00fcr nachhaltige Entwicklung, Zukunftsf\u00e4higes Wirtschaften, Globale Nachhaltigkeit, Globale Partnerschaften.\r\nWir helfen, das vielfach ehrenamtliche Engagement unserer Mitgliedsgruppen in Schleswig-Holstein und in vielen Regionen der Welt sichtbar zu machen. Wir bieten Beratung und Fortbildungen, beziehen inhaltlich Position und tragen unsere Forderungen und Vorschl\u00e4ge in gesellschaftliche Diskussionen sowie in die Kommunal- und Landespolitik.\r\nUnser Grundsatz: \"GLOBAL DENKEN - LOKAL HANDELN\"",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_CULTURE",
+                "de": "Kultur",
+                "en": "Culture"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_RPI_INTEGRATION",
+                "de": "Integration",
+                "en": "Integration"
+            },
+            {
+                "code": "FOI_FA_BRD",
+                "de": "Au\u00dfenpolitik",
+                "en": "Foreign policy of the federal republic of Germany"
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_SP_DIVERSITY",
+                "de": "Diversit\u00e4tspolitik",
+                "en": "Diversity policy"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_SA_ORGANIZATION",
+                "de": "Staatsorganisation",
+                "en": "State organization"
+            },
+            {
+                "code": "FOI_FA_OTHER",
+                "de": "Sonstiges im Bereich \"Au\u00dfenpolitik und internationale Beziehungen\"",
+                "en": "Other in the field of \"Foreign policy and international relations\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_LAS_POPULAR_SPORT",
+                "de": "Breitensport",
+                "en": "Popular sports"
+            },
+            {
+                "code": "FOI_AF_AQUACULTURE",
+                "de": "Fischerei/Aquakultur",
+                "en": "Fishery/aquaculture"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_SERVICE",
+                "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                "en": "Public service"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_SP_OTHER",
+                "de": "Sonstiges im Bereich \"Gesellschaftspolitik und soziale Gruppen\"",
+                "en": "Other in the field of \"Social politics and social groups\""
+            },
+            {
+                "code": "FOI_FA_CULTURE",
+                "de": "Ausw\u00e4rtige Kultur- und Bildungspolitik",
+                "en": "Foreign cultural and educational policy"
+            },
+            {
+                "code": "FOI_LAS_PROFESSIONAL_SPORT",
+                "de": "Profisport",
+                "en": "Professional sports"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_ADMINISTRATION",
+                "de": "Verwaltungstransparenz/Open Government",
+                "en": "Public administration"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_SP_GENDER",
+                "de": "Geschlechterpolitik",
+                "en": "Gender politics"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_RPI_OTHER",
+                "de": "Sonstiges im Bereich \"Migration, Fl\u00fcchtlingspolitik und Integration\"",
+                "en": "Other in the field of \"Migration, refugee policy and integration\""
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_AF_FOOD_SAFETY",
+                "de": "Lebensmittelsicherheit",
+                "en": "Food safety"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_RPI_MIGRATION",
+                "de": "Migration",
+                "en": "Migration and residence"
+            },
+            {
+                "code": "FOI_BUNDESTAG_OTHER",
+                "de": "Sonstiges im Bereich \"Bundestag\"",
+                "en": "Other in the field of \"Bundestag\""
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_EP_CHILDHOOD",
+                "de": "Vorschulische Bildung",
+                "en": "Early childhood education"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_SA_OTHER",
+                "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                "en": "Other in the field of \"Government and administration\""
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_LAS_TOURISM",
+                "de": "Tourismus",
+                "en": "Tourism"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/43/1c/334721/Zahlen-BEI-Jahresrechnung-2023_Lobbyregister.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 1,
+            "to": 10000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 14.21,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Kiel",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Sophienblatt ",
+            "streetNumber": "100",
+            "type": "NATIONAL",
+            "zipCode": "24114"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@bei-sh.org"
+                }
+            ],
+            "phoneNumber": "+4943167939900",
+            "websites": [
+                {
+                    "website": "https://www.bei-sh.org/"
+                }
+            ]
+        },
+        "entrustedPersonsPresent": false,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeAfter": "Master of Social Management",
+                "entrustedPerson": false,
+                "firstName": "Andrea",
+                "function": "Vorsitzende des Vorstands",
+                "lastName": "Bastian",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Daniela ",
+                "function": "Schatzmeisterin",
+                "lastName": "Suhr",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Lazarus",
+                "function": "Beisitzer",
+                "lastName": "Tomdio",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr. ",
+                "entrustedPerson": false,
+                "firstName": "Hassan ",
+                "function": "Beisitzer",
+                "lastName": "Humeida",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Martina",
+                "function": "Schriftf\u00fchrerin",
+                "lastName": "Kriwy",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-04-01",
+            "naturalPersons": 4,
+            "organizations": 99,
+            "totalCount": 103
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Arbeitsgemeinschaft der eine Welt - Landesnetzwerke in Deutschland e.V. (agl)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "B\u00fcndnis Eine Welt Schleswig-Holstein e.V. "
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 1,
+            "to": 10000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Programmf\u00f6rderung Promotor*Innen Programm und institutionelle F\u00f6rderung",
+                "location": "Kiel",
+                "name": "Ministerium f\u00fcr Energiewende, Klimaschutz, Umwelt, Natur des Landes Schleswig-Holstein MEKUN",
+                "publicAllowanceEuro": {
+                    "from": 200001,
+                    "to": 210000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Kooperation f\u00fcr Bildungsprojekte",
+                "location": "Kiel",
+                "name": "Ministerium f. Allgemeine u. berufl. Bildung, Wissenschaft, Forschung und Kultur MBWK                 ",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Programm- und Projektf\u00f6rderungen (Promotor*innen Programm, FEB-Projekte)",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung",
+                "publicAllowanceEuro": {
+                    "from": 700001,
+                    "to": 710000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projektf\u00f6rderung ",
+                "location": "Kiel",
+                "name": "Landeshauptstadt Kiel",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_MUNICIPALITY",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Kommune",
+                    "en": "German Public Sector \u2013 Municipality"
+                }
+            },
+            {
+                "description": "Projektf\u00f6rderung PORTplus",
+                "location": "Kiel",
+                "name": "Ministerium f. Soziales, Jugend, Familie, Senioren, Integration und Gleichstellung MSJFSIG               ",
+                "publicAllowanceEuro": {
+                    "from": 90001,
+                    "to": 100000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Kooperation beim Bildungsprojekt Eine Lebensweltmeisterschaft",
+                "location": "Kiel",
+                "name": "Landesbeauftragter f\u00fcr politische Bildung des Landes Schleswig-Holstein",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R005444/41474",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-05-13T12:12:25.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/04/5c/334724/Lobbyregister-Detailansicht-R005444-2024-07-16_10-16-21.pdf",
+        "validFromDate": "2024-07-16T10:16:21.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 41474,
+    "registerNumber": "R005444",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "LkSG",
+                        "title": "Gesetz \u00fcber die unternehmerischen Sorgfaltspflichten zur Vermeidung von Menschenrechtsverletzungen in Lieferketten",
+                        "url": "https://www.gesetze-im-internet.de/lksg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Verabschiedung des Lieferkettensorgfalsgesetzes durch den Bundestag ohne Aufweichen der Regelungen hinsichtlich der Nachhaltigkeit und fairen Beschaffung und Einhaltung ILO Kernarbeitsnorm entlang der gesamten Lieferkette",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_OTHER",
+                        "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                        "en": "Other in the field of \"Economy\""
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/brd/2021/0239-21.pdf",
+                        "issuer": "BR",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMAS",
+                                "title": "Bundesministerium f\u00fcr Arbeit und Soziales",
+                                "url": "https://www.bmas.de/DE/Startseite/start.html"
+                            }
+                        ],
+                        "printingNumber": "239/21",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-%C3%BCber-die-unternehmerischen-sorgfaltspflichten-in-lieferketten/275852",
+                        "title": "Entwurf eines Gesetzes \u00fcber die unternehmerischen Sorgfaltspflichten in Lieferketten"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0000626",
+                "statements": [],
+                "title": "Lieferkettensorgfalsgesetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "VgV",
+                        "title": "Verordnung \u00fcber die Vergabe \u00f6ffentlicher Auftr\u00e4ge",
+                        "url": "https://www.gesetze-im-internet.de/vgv_2016"
+                    },
+                    {
+                        "shortTitle": "LkSG",
+                        "title": "Gesetz \u00fcber die unternehmerischen Sorgfaltspflichten zur Vermeidung von Menschenrechtsverletzungen in Lieferketten",
+                        "url": "https://www.gesetze-im-internet.de/lksg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Ziel ist eine Reform des Vergaberechts aus Umwelt- und Klimaschutzgr\u00fcnden sowie zur Verbesserung der Lebensverh\u00e4ltnisse von Produzent*innen und Arbeiter*innen in globalen Lieferketten. Es braucht verbindliche Vorgaben f\u00fcr die \u00f6ffentliche Hand, sodass Vorreiter keinen Wettbewerbsnachteil erleiden.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_BRD",
+                        "de": "Au\u00dfenpolitik",
+                        "en": "Foreign policy of the federal republic of Germany"
+                    },
+                    {
+                        "code": "FOI_DEVELOPMENT_POLICY",
+                        "de": "Entwicklungspolitik",
+                        "en": "Development policy"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_FOREIGN_TRADE",
+                        "de": "Au\u00dfenwirtschaft",
+                        "en": "Foreign trade"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011062",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/ba/0f/334722/Stellungnahme-Gutachten-SG2407160002.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-01"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0011062",
+                        "regulatoryProjectTitle": "Vergaberechtsreform",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Stellungnahme im Rahmen der \u00f6ffentlichen Konsultation des BMWK zur\r\nTransformation des Vergaberechts\r\nSehr geehrte Damen und Herren,\r\ndas B\u00fcndnis Eine Welt Schleswig-Holstein e.V., BEI, ist der Dachverband entwicklungspolitischer\r\nNichtregierungsorganisationen in Schleswig-Holstein. Seit seiner Gr\u00fcndung 1994 tritt das BEI daf\u00fcr\r\nein, bessere Voraussetzungen f\u00fcr die Verwirklichung entwicklungspolitischer Anliegen zu schaffen.\r\nSeine \u00fcber 100 Mitgliedsgruppen setzen sich mit unterschiedlichen Schwerpunkten und politischen\r\nAusrichtungen f\u00fcr Gerechtigkeit und Solidarit\u00e4t in der Einen Welt ein. Sie engagieren sich f\u00fcr die\r\nentwicklungspolitische Bildungs- und \u00d6ffentlichkeitsarbeit, interkulturelle Verst\u00e4ndigung,\r\nMenschenrechte, Partnerschaften mit L\u00e4ndern des Globalen S\u00fcdens, fairen Handel, die\r\nUnterst\u00fctzung von Gefl\u00fcchteten und Migrant*innen sowie Klima- und Umweltschutz. Die Arbeit des\r\nBEI orientiert sich am Konzept der Nachhaltigen Entwicklung und an den Sustainable Development\r\nGoals (SDGs).\r\nDas BEI erm\u00f6glicht und unterst\u00fctzt in unterschiedlichen Projekten und Veranstaltungen den\r\nAustausch und die Zusammenarbeit seiner Mitglieder mit anderen gesellschaftlichen Akteur*innen.\r\nZudem ist das BEI bundesweit unter anderem \u00fcber die Arbeitsgemeinschaft der Eine-Welt-\r\nLandesnetzwerke (agl) und \u00fcber Arbeitsgruppen des Verbands Entwicklungspolitik Deutscher\r\nNichtregierungsorganisationen e.V. (VENRO) vernetzt.\r\nWir begr\u00fc\u00dfen, dass sich die Bundesregierung mit der Transformation des Vergaberechts\r\nbesch\u00e4ftigen wird, und tragen gerne unsere Einsch\u00e4tzung bei, insbesondere wie soziale Kriterien in\r\nder Vergabe gest\u00e4rkt werden k\u00f6nnen und so zu einer Transformation der Wirtschaft im Sinne der\r\nSDGs beitragen k\u00f6nnen. Als Eine Welt-Landesnetzwerk setzen wir uns seit Jahren f\u00fcr eine St\u00e4rkung\r\nvon Menschenrechten und fairen Handel in globalen Lieferketten ein und besch\u00e4ftigen uns hierbei\r\nauch intensiv mit Fragen der nachhaltigen Beschaffung. Gemeinsam mit dem schleswigholsteinischem\r\nUmweltministerium, seit 2020 dem neu gegr\u00fcndeten Kompetenzzentrum f\u00fcr\r\nnachhaltige Beschaffung und Vergabe in Schleswig-Holstein (KNBV) und RENN.nord organisieren wir\r\nOnline-Seminare und Austauschtreffen des Netzwerkes zu Nachhaltiger Beschaffung in Schleswig-\r\nHolstein.\r\nAuf Bundesebene tauschen wir uns mit unseren Kolleg*innen aus anderen Eine Welt-\r\nLandesnetzwerken und dem CorA-Netzwerk \u00fcber aktuelle Themen der nachhaltigen Beschaffung\r\naus. Dabei waren wir als Tr\u00e4ger der Bundesthemenkoordination f\u00fcr das agl-Fachforum Konsum &\r\nProduktion in besonderem Ma\u00dfe inhaltlich engagiert. Unser Bundesverband, die agl, hat in den\r\nvergangenen Jahren gemeinsam mit Eine Welt-Landesnetzwerken und mit finanzieller\r\nUnterst\u00fctzung der SKEW erfolgreiche bundesweite Beschaffungskonferenzen ausgerichtet, z. B. zu\r\nIT und Natursteinen. 2020 hat das BEI federf\u00fchrend die Konferenz zu sozial verantwortlicher ITBeschaffung\r\norganisiert. Daneben unterst\u00fctzten wir die Erstellung und Aktualisierung einer Synopse\r\nzu den vergaberechtlichen Regelungen der Bundesl\u00e4nder mit Blick auf Menschenrechte,\r\nSozialstandards und fairen Handel.\r\nAus unserer Beratungspraxis und dem Austausch insbesondere mit Fairtrade-Towns in Schleswig-\r\nHolstein halten wir einen verbindlichen rechtlichen Rahmen f\u00fcr nachhaltige Beschaffung f\u00fcr\r\nnotwendig. Nur klare, einheitliche Vorgaben verhindern Rechtsunsicherheit und hohen\r\nb\u00fcrokratischen Aufwand bei einzelnen Beschaffungsstellen und Unternehmen und erm\u00f6glichen\r\neinen fairen Wettbewerb um innovative, nachhaltige L\u00f6sungen. Dar\u00fcber hinaus gibt es zahlreiche\r\nweitere Ma\u00dfnahmen, um die sozial-\u00f6kologische Beschaffung zu st\u00e4rken. Gerne f\u00fchren wir dies\r\nanhand der vom BMWK aufgeworfenen Fragen weiter aus.\r\nMit freundlichen Gr\u00fc\u00dfen\r\nMartin Weber\r\nGesch\u00e4ftsf\u00fchrer\r\nB\u00fcndnis Eine Welt Schleswig-Holstein e.V. (BEI)\r\nDachverband entwicklungspolitischer Organisationen\r\nSophienblatt 100\r\n24114 Kiel\r\nTel.: 0431-679399-00\r\nMartin.Weber@bei-sh.org\r\nVereinsregister: AG Kiel, VR 3739KI\r\nVorstand: Andrea Bastian, Daniela Suhr, Susanne Thiesen, Lazarus Tomdio, Martina Kriwy, Dr. Hassan Humeida\r\nwww.bei-sh.org\r\nfollow us on facebook\r\nfollow us on Instagram\r\nEntwicklungspolitischer Newsletter f\u00fcr Schleswig-Holstein\r\nwww.bei-sh.org/newsletter\r\nAktionsfeld 1: St\u00e4rkung der umwelt- und klimafreundlichen Beschaffung\r\n1. Auf welcher Stufe des Vergabeverfahrens k\u00f6nnen Sie sich eine (verpflichtende)\r\nBer\u00fccksichtigung von umwelt- oder klimabezogenen Aspekten am besten vorstellen? Eher in\r\nder Leistungsbeschreibung, bei den Eignungs- oder Zuschlagskriterien, in den\r\nAusf\u00fchrungsbedingungen oder in einer Kombination davon?\r\nWir begr\u00fc\u00dfen die Absicht der Bundesregierung, die Ber\u00fccksichtigung von Nachhaltigkeitskriterien\r\nverpflichtend in das Vergabeverfahren aufzunehmen. Unserer Erfahrung nach h\u00e4ngt es davon ab,\r\nwas beschafft werden soll und inwiefern der Markt bereits ein ausreichendes Angebot bietet, um\r\nzu entscheiden, an welcher Stelle der Vergabe Nachhaltigkeitsaspekte einbezogen werden sollten.\r\nDie M\u00f6glichkeit zur Ber\u00fccksichtigung von Nachhaltigkeitskriterien sollte deshalb auf verschiedenen\r\nStufen des Vergabeverfahren hergestellt bzw. ausdr\u00fccklich er\u00f6ffnet werden.\r\nDabei sollten soziale und \u00f6kologischen Kriterien allerdings gleichberechtig behandelt werden.\r\n\u00d6kologische und soziale Nachhaltigkeit als Eignungskriterium w\u00fcrden wir sehr begr\u00fc\u00dfen, denn\r\nhiermit kann sichergestellt werden, dass die ber\u00fccksichtigten Anbieter*innen \u00fcber die\r\nerforderlichen Qualifikationen (Know-How, betriebliche Prozesse, Kapazit\u00e4ten etc.) verf\u00fcgen, um\r\neinen Auftrag unter Einhaltung der gebotenen \u00f6kologischen Anforderungen sowie der\r\nmenschenrechtlichen Sorgfaltspflichten (entsprechend den UN-Leitprinzipien) auszuf\u00fchren.\r\n2. Existieren aus Ihrer Sicht bereits zielgerichtete und hinreichend praxistaugliche Vorbilder\r\nf\u00fcr die verbindliche Ber\u00fccksichtigung von Nachhaltigkeitskriterien (welche?)?\r\nDas Hamburgische Vergabegesetz regelt Aspekte der Umweltvertr\u00e4glichkeit. Abs. 1 verpflichtet\r\nAuftraggeber*innen, negative Umweltauswirkungen im ganzen Lebenszyklus des Produktes zu\r\nvermeiden. Insbesondere Investitionsg\u00fcter sollen gem\u00e4\u00df Abs. 2 unter Ber\u00fccksichtigung der\r\nLebenszykluskosten beschafft werden. Die Bedarfsanalyse f\u00fcr Liefer- und Dienstleistungen soll eine\r\numweltfreundliche und energieeffiziente Gesamtl\u00f6sung anstreben (Abs. 3).\r\nLeistungsbeschreibungen sollen diese Aspekte ausdr\u00fccklich benennen.\r\n\u00a7 3a Abs. 1\u20133 HmbVgG regelt die sozial vertr\u00e4gliche Beschaffung unter Einhaltung der ILOKernarbeitsnormen.\r\nAbs. 1 verpflichtet \u00f6ffentliche Auftraggeber*innen dazu, sicherzustellen, dass\r\nkeine Ware, die unter Missachtung der ILO-Kernarbeitsnomen gewonnen oder hergestellt wurde,\r\nGegenstand der beschafften Leistungen ist. Abs. 2 schreibt die Anwendung der erg\u00e4nzenden\r\nVertragsbedingungen zur Beachtung der ILO-Kernarbeitsnomen vor. Die 2014 neu gestalteten,\r\nerg\u00e4nzenden Vertragsbedingungen gelten f\u00fcr Warengruppen im Sinne der Nummer 2 der\r\nVerpflichtung zur Beachtung der ILO-Kernarbeitsnormen und f\u00fcr einen Auftragswert ab 10.000\r\nEuro. Vergabeverfahren in diesem Anwendungsbereich m\u00fcssen bereits in der\r\nLeistungsbeschreibung auf diese Verpflichtung hinweisen. Die Soll-Bestimmung des \u00a7 3a HmbVgG\r\nregelt die Bevorzugung von Lieferleistungen, die fair gehandelt wurden. Satz 2 betrifft die m\u00f6gliche\r\nAnerkennung von entsprechenden G\u00fctezeichen.\r\nIm Bremischen Tariftreue- und Vergabegesetz wird geregelt, dass bei der Vergabe von Bau-, Lieferund\r\nDienstleistungen \u201edarauf hinzuwirken\u201c ist, dass keine Waren, die unter Missachtung der ILOKernarbeitsnormen\r\ngewonnen oder hergestellt wurden, Gegenstand der Leistung sind. Vorgaben\r\nzu Zertifizierungen und Nachweisen sowie zur Ausgestaltung von Kontrollen und Sanktionen sind in\r\neiner Rechtsverordnung geregelt. Die Einhaltung der ILO-Kernarbeitsnormen ist bei bestimmten\r\nWarengruppen \u201ezwingend vorzugeben\u201c. Als Nachweise werden G\u00fctezeichen verlangt, \u201eandere\r\ngeeignete Nachweise\u201c sind nur ausnahmsweise zul\u00e4ssig, wobei die Gleichwertigkeit durch\r\n\u201eUnterlagen und Erkl\u00e4rungen Dritter\u201c glaubhaft belegt werden muss. Eigenerkl\u00e4rungen sind nach\r\nder Bremischen Kernarbeitsnormenverordnung (Brem-KernvV) nicht zul\u00e4ssig.1\r\nBeispiele f\u00fcr verbindliche Vorgaben f\u00fcr eine nachhaltige Beschaffung in Kommunen bietet auf\r\ninternationaler Ebene auch das ICLEI-Netzwerk. Vorbildliche Beispiele sind u.a. Barcelona und\r\nKopenhagen.2\r\nAktionsfeld 2: St\u00e4rkung der sozial-nachhaltigen Beschaffung\r\n5. Welche Aspekte einer sozial verantwortlichen Beschaffung sollten \u00fcber die\r\nBer\u00fccksichtigung von Tarifvertr\u00e4gen hinaus aus Ihrer Sicht priorit\u00e4r bei der \u00f6ffentlichen\r\nBeschaffung verfolgt oder intensiviert werden?\r\nEine sozial verantwortliche Beschaffung ber\u00fccksichtigt grunds\u00e4tzlich alle Menschen- und Arbeitsrechte\r\nin der (globalen) Lieferkette des konkret zu beschaffenden Produkts bzw. der konkret zu\r\nbeschaffenden Dienstleistung und leistet einen Beitrag zur Umsetzung der SDGs. Die verbindliche\r\nEinhaltung aller ILO-Kernarbeitsnormen sollte zum vergaberechtlichen Mindeststandard auch auf\r\nBundesebene werden \u2013 wie bereits in vielen Landesvergabegesetzen (z. B. Berlin, Hamburg,\r\nNiedersachsen und Th\u00fcringen.3 Wir weisen darauf hin, dass die ILO-Kernarbeitsnormen nunmehr\r\nf\u00fcnf Grundprinzipien und zehn Kernarbeitsnormen umfassen.4 Kann-Regelungen, welche die\r\nAnwendung ins Ermessen der Beschaffenden stellen, werden dem materiellen Umfang der ILOKernarbeitsnormen\r\nnicht gerecht.\r\nDie Beschaffungspraxis sollte auch dar\u00fcber hinaus an der Umsetzung der UN-Leitprinzipien f\u00fcr\r\nWirtschaft und Menschenrechte mitwirken. Die Leitprinzipien stellen fest, welche Pflichten, welche\r\nRechte und welche Verantwortung sich aus dem internationalen Normbestand f\u00fcr Staaten,\r\nUnternehmen und Rechteinhaber*innen im Wirtschaftszusammenh\u00e4ngen ergeben. Staaten sind\r\nhiernach aufgefordert, einen Smart mix an Ma\u00dfnahmen zu ergreifen, der geeignet ist,\r\nMenschenrechtsverletzungen vorzubeugen bzw. zu beheben.\r\nAusdr\u00fccklich sollen Staaten hierf\u00fcr auch im Rahmen der Auftragsvergabe \u201edas Problembewusstsein\r\nf\u00fcr die Menschenrechte und deren Achtung durch die Unternehmen f\u00f6rdern\u201c (vgl.\r\nKommentar zu Prinzip 6). Die Leitprinzipien gebieten neben der Beachtung der ILOKernarbeitsnormen\r\nauch mindestens die Beachtung der Allgemeinen Erkl\u00e4rung der\r\nMenschenrechte, des Internationalen Pakts \u00fcber b\u00fcrgerliche und politische Rechte und des\r\nInternationalen Pakts \u00fcber wirtschaftliche, soziale und kulturelle Rechte (Internationale\r\nMenschenrechts-Charta).\r\nEntsprechend der Umst\u00e4nde und Risikolage m\u00fcssen dar\u00fcber hinaus auch weitere\r\nmenschenrechtliche Standards ber\u00fccksichtigt werden. Hierbei ist besonders auf die m\u00f6gliche\r\n1 Diese und weitere Beispiele zu vergaberechtlichen Regelungen s. agl-Dokument Nr. 29: \u201eSozialstandards und\r\nMenschenrechte in der \u00f6ffentlichen Vergabe - Synopse der vergaberechtlichen Regelungen der Bundesl\u00e4nder\u201c, Juli\r\n2021\r\n2 https://iclei-europe.org/\r\n3 S. agl-Dokument Nr. 29\r\n4 [1] https://www.ilo.org/berlin/arbeits-und-standards/kernarbeitsnormen/lang--de/index.htm\r\nBetroffenheit von vulnerablen Gruppen (u.a. M\u00e4dchen und Frauen, Wanderarbeiter*innen,\r\nMinderheiten, Indigene Gruppen, Menschen mit Behinderung, Kinder) zu achten (vgl. Kommentar\r\nzu Prinzip 12). Deshalb ist das Vergaberecht und die Vergabepraxis in dem Sinne\r\nweiterzuentwickeln, dass produktgruppenbezogen beim jeweiligen Auftragsgegenstand die\r\ntats\u00e4chlichen arbeits- und menschenrechtlichen Risiken ber\u00fccksichtigt werden.\r\nDer faire Handel reicht \u00fcber die Einhaltung der ILO-Kernarbeitsnormen und anderer\r\nSozialstandards hinaus und zahlt substantiell auf die Umsetzung der Sustainable Development\r\nGoals (SDGs) ein. Deshalb sollten Kriterien des fairen Handels \u2013 wo immer m\u00f6glich \u2013 in der\r\nBeschaffung besonders ber\u00fccksichtigt werden. Orientierung bez\u00fcglich der Kriterien des Fairen\r\nHandels bietet die Mitteilung der Europ\u00e4ischen Kommission \u201eBeitrag zu einer nachhaltigen\r\nEntwicklung: Die Rolle des Fairen Handels ...\u201c (Mai 2009)5\r\nPerspektivisch sollten die Regelungen im Vergaberecht im Sinne einer einheitlichen Rechtsordnung\r\nauch an die dem Lieferkettensorgfaltspflichtengesetz (Gesetz \u00fcber die unternehmerischen\r\nSorgfaltspflichten in Lieferketten, LkSG) zugrundeliegenden gesch\u00fctzten Rechtspositionen (\u00a7 2 Abs.\r\n1, Abs. 2 Nr. 1-11 LkSG) ankn\u00fcpfen. Die in den UN-Leitprinzipien festgestellten Schutzpflichten der\r\nStaaten verlangen, dass \u201eklare Erwartungen\u201c und \u201ekonsistente Botschaften\u201c zum Ausdruck\r\nbringen, dass alle Wirtschaftsunternehmen bei ihrer gesamten Gesch\u00e4ftst\u00e4tigkeit Menschenrechte\r\nachten (vgl. Prinzip 2). Im Sinne dieser Konsistenz, m\u00fcssen die Anforderungen der \u00f6ffentlichen\r\nAuftragsvergabe und ordnungspolitischen Ma\u00dfnahmen zur Regulierung der unternehmerischen\r\nSorgfaltspflichten einen einheitlichen Rechts- und Orientierungsrahmen f\u00fcr Unternehmen\r\nbilden.\r\n6. Wie k\u00f6nnte dies aus Ihrer Sicht am besten im Vergabeverfahren und -recht integriert\r\nwerden?\r\nGrundlegend ist eine durchg\u00e4ngige umfassende Definition sowohl von \u201enachhaltig\u201c als auch von\r\n\u201esozial\u201c im Vergaberecht. Soziale und \u00f6kologische Aspekte der Nachhaltigkeit h\u00e4ngen eng\r\nzusammen und m\u00fcssen im Sinne der SDGs im Kontext globaler Gerechtigkeit zusammen gedacht\r\nwerden.\r\nVoraussetzung f\u00fcr die konsequente Implementierung sozialer Nachhaltigkeitsaspekte ist, dass\r\ndiese bei Planung, Umsetzung und Monitoring den gleichen Stellenwert haben wie andere\r\nNachhaltigkeitsaspekte. Dabei muss die gesamte Lieferkette eines Produktes in den Blick\r\ngenommen werden. Soziale Nachhaltigkeit darf nicht auf Aspekte des hiesigen Mindestlohns und\r\nder Tariftreue reduziert werden, sondern muss auch Arbeits- und Menschenrechte in den globalen\r\nWertsch\u00f6pfungsketten umfassen. Bei Produkten, in deren Lebenszyklus sowohl soziale als auch\r\numweltbezogene Aspekte relevant sind, darf nicht nur ein einzelner Aspekt (z. B. Energieeffizienz)\r\nzur Umsetzung von Nachhaltigkeitsanforderungen ausreichend sein.\r\nZentral sind verbindliche Vorgaben zur Ber\u00fccksichtigung von sozialen Anforderungen, verbunden\r\nmit Dokumentations- und Begr\u00fcndungspflichten, sofern von den Vorgaben im Einzelfall\r\nabgewichen wird. Dies kann durch eine entsprechende \u00c4nderung des GWB oder von VgV und\r\nUVgO erfolgen.\r\n5 COM(2009)215 https://ec.europa.eu/transparency/documents-register/detail?ref=COM(2009)215&lang=de\r\nAlternativ schlagen wir den Erlass einer allgemeinen Verwaltungsvorschrift (AVV) vor, die\r\nverbindliche Vorgaben zur Ber\u00fccksichtigung der sozialen Anforderungen bei der Beschaffung sog.\r\nsensibler Produkte enth\u00e4lt. Bei deren Ausgestaltung sollten die Erfahrungen mit der AVV Klima\r\nber\u00fccksichtigt werden.\r\nWenn eine Marktanalyse ergibt, dass es bei einer Produktgruppe sozial verantwortlich oder im\r\nfairen Handel hergestellte Produkte gibt, dann sollte es f\u00fcr \u00f6ffentliche Auftraggeber grunds\u00e4tzlich\r\nverbindlich sein, die entsprechenden Kriterien zu fordern. Diese Marktanalyse muss nicht in jedem\r\nFall von den Beschaffenden vorgenommen werden, sondern kann \u2013 wie in vielen Bundesl\u00e4ndern6 -\r\nvom Gesetzgeber in Verordnungen und allgemeinen Verwaltungsvorschriften vorweggenommen\r\nwerden.\r\nEine Abstimmung zwischen Bund und L\u00e4nder w\u00e4re hierzu w\u00fcnschenswert und sollte m\u00f6glichst zu\r\neiner anspruchsvollen gemeinsamen Liste sensibler Produkte f\u00fchren. In den meisten\r\nBundesl\u00e4ndern z\u00e4hlen hierzu bereits Spielwaren und Sportartikel, Textilien und Bekleidung, Leder-,\r\nAgrar- und Holzprodukte sowie Natursteine. Insbesondere sollten auch Produkte der Informationsund\r\nKommunikationstechnologie aufgenommen werden. Von Einkaufsgemeinschaften wurde\r\nbereits gezeigt, wie deren Beschaffung unter Beachtung der ILO-Kernarbeitsnomen m\u00f6glich ist.\r\nBei einer Reform des Vergaberechtes sollte die Bundesregierung alle durch die EU-Richtlinien\r\n2014/24/EU er\u00f6ffneten Spielr\u00e4ume zur St\u00e4rkung der sozial-\u00f6kologischen Beschaffung nutzen.\r\nArtikel 57 Abs. 1 lit. f der Richtlinie 2014/24/EU gibt den Mitgliedstaaten als zwingenden\r\nAusschlussgrund vor: \u201eKinderarbeit und andere Formen des Menschenhandels im Sinne des\r\nArtikels 2 der Richtlinie 2011/36/EU\u201c. In der Umsetzung in \u00a7 123 Abs. 1 Nr. 10 GWB wird\r\n\u201eKinderarbeit\u201c aber bislang weder umfassend noch explizit erw\u00e4hnt. Die Bundesregierung sollte\r\ndaher Kinderarbeit im Sinne der ILO-\u00dcbereinkommen 138 und 182 und der detaillierten Auslegung\r\nder \u201eschlimmsten Formen der Kinderarbeit\u201c in der ILO-Empfehlung 190 als zwingenden\r\nAusschlussgrund aufnehmen.\r\nArtikel 67 Abs. 2 UA 3 gibt den Mitgliedstaaten die M\u00f6glichkeit, \u201edass die \u00f6ffentlichen\r\nAuftraggeber nicht den Preis oder die Kosten allein als einziges Zuschlagskriterium verwenden\r\nd\u00fcrfen\u201c. Wir empfehlen, diesen Spielraum in \u00a7 127 Abs. 3 GWB und \u00a7 58 f. VgV mit einer\r\nentsprechend eindeutigen Regelung zu nutzen.\r\nDer Bundesrechnungshof empfiehlt in seinem Bericht \u00fcber die Pr\u00fcfung der Nachhaltigen Vergabe\r\nin der Bundesverwaltung vom 19.1.2022, durch geeignete Ma\u00dfnahmen daf\u00fcr Sorge zu tragen, dass\r\nNachhaltigkeitsaspekte in der Wirtschaftlichkeitsuntersuchung Ber\u00fccksichtigung finden. Hierzu\r\nregt er auch eine Anpassung der zu \u00a7 7 BHO erlassenen Vorschriften und der Arbeitsanleitung des\r\nBundesministeriums der Finanzen an (Tz. 4.)7 Au\u00dferdem regen wir dringend eine Klarstellung im\r\nHaushaltsgrunds\u00e4tzegesetz (HGrG) an, wie es das Land Baden-W\u00fcrttemberg in einem\r\nGesetzesantrag vom 15.9.2020 (Drs. 535/20) eingebracht hat.\r\nErg\u00e4nzend zu verbindlichen Vorgaben k\u00f6nnen Leitf\u00e4den zur Beschaffung sensibler Produkte\r\nBeschaffungsstellen unterst\u00fctzen und zu einer Standardisierung von Nachhaltigkeitsanforderungen\r\nbeitragen. Ein Beispiel ist der Leitfaden der Bundesregierung f\u00fcr eine nachhaltige\r\nTextilbeschaffung. Leitf\u00e4den zu weiteren sensiblen Produkten w\u00e4ren w\u00fcnschenswert.\r\n6 S. agl-Dokument Nr. 29: \u201eSozialstandards und Menschenrechte in der \u00f6ffentlichen Vergabe - Synopse der\r\nvergaberechtlichen Regelungen der Bundesl\u00e4nder\u201c, Juli 2021\r\n7 S. Bericht des Bundesrechnungshofs vom 19.1.2022\r\nBei der Nachweisf\u00fchrung sollten Eigenerkl\u00e4rungen nur noch in begr\u00fcndeten Ausnahmef\u00e4llen\r\nanerkannt werden, etwa, wenn unabh\u00e4ngige Zertifikate nicht zur Verf\u00fcgung stehen. Die\r\nBeweispflicht daf\u00fcr sollte bei den Auftragnehmer*innen liegen.\r\nWo es noch keine ausreichend belastbare Nachweissysteme gibt, sollten Vertrags-/\r\nAusf\u00fchrungsbedingungen definiert und deren Umsetzung und Einhaltung w\u00e4hren der Laufzeit des\r\nVertrages kontrolliert werden. Die Kontrolle sollten Beschaffungsstellen selbst oder unabh\u00e4ngige\r\nKontrollorganisationen, z.B. Nichtregierungsorganisationen, durchf\u00fchren. \u00dcber das\r\nVertragsmanagement kann prozessorientiert an nachhaltigen Verbesserungen in den Lieferketten\r\nzusammen mit den Lieferanten gearbeitet werden. Dieser Ansatz wird seit Jahren in der\r\nPrivatwirtschaft erfolgreich umgesetzt und auch in L\u00e4ndern wie Schweden, Niederlande oder\r\nGro\u00dfbritannien von Beschaffungsstellen.\r\nAmbitionierte quantitative Ziele, ein transparentes Monitoring der Ziele sowie Strategien zur\r\nErreichung in Form von \u2013 gegebenenfalls produktspezifischen \u2013 Stufenpl\u00e4nen sollten entwickelt\r\nund an die Beschaffungsstellen kommuniziert werden. Diese Strategien sollten einem\r\nkontinuierlichen Monitoring und einer regelm\u00e4\u00dfigen strategischen Weiterentwicklung unterliegen.\r\nDie Fertigstellung des Textilstufenplans (vgl. Ma\u00dfnahmenprogramm Nachhaltigkeit \u2013\r\nWeiterentwicklung 2021, Anlage 1, Nr. 6a) sollte z\u00fcgig erfolgen. Er sollte zusammen mit dem\r\nTextilleitfaden als AVV ausgestaltet sein, um die erforderliche Verbindlichkeit zu erreichen.\r\nDie Vergabestatistik ist ein wichtiger Schritt f\u00fcr mehr Transparenz und Monitoring der\r\n\u00f6ffentlichen Beschaffung. F\u00fcr eine strategische Ausrichtung der nachhaltigen Beschaffung\r\nist jedoch beim Merkmal \u201esozial\u201c eine gr\u00f6\u00dfere Ausdifferenzierung notwendig. Wir\r\nschlagen daher vor, dass beim Ankreuzen des Kriteriums \u201esozial\u201c ein Dropdown-Men\u00fc mit\r\ndifferenzierten Unterkategorien eingef\u00fcgt wird.\r\nDie Bundesregierung hat sich im Nationalen Aktionsplan Wirtschaft und Menschenrechte\r\n(NAP) verpflichtet, einen Stufenplan zur k\u00fcnftigen Ber\u00fccksichtigung verbindlicher\r\nmenschenrechtlicher Sorgfaltspflichten in der \u00f6ffentlichen Beschaffung zu erarbeiten.8 Die\r\nBundesregierung sollte einen konkreten Zeitplan hierzu vorlegen und bei der Erarbeitung\r\ndie Expertise und die Erfahrungen u. a. von zivilgesellschaftlichen Organisationen wie das\r\nCorA-Netzwerk sowie aus Pilotprojekten in der Vergabepraxis einbeziehen.\r\nDie nachhaltige Beschaffung steht und f\u00e4llt mit den Kompetenzen und personellen Ressourcen der\r\nBeschaffungsstellen. Viele Mitarbeitende sind dort Generalisten, ihnen fehlt die in diesem Bereich\r\noftmals n\u00f6tige spezifische Ausbildung. Angebote zur Qualifizierung und Beratung f\u00fcr\r\nBeschaffungsstellen sollten daher ausgebaut werden. Die Beratungsstrukturen m\u00fcssen\r\nbedarfsgerecht ausgestattet und langfristig abgesichert sein. Der Kompass Nachhaltigkeit9 ist ein\r\nwichtiges Tool zur Unterst\u00fctzung von Beschaffungsstellen und sollte best\u00e4ndig weiterentwickelt\r\nwerden.\r\nWir begr\u00fc\u00dfen ausdr\u00fccklich eine zunehmende Digitalisierung der Vergabe. Eine st\u00e4rkere\r\nVernetzung der elektronischen Vergabesysteme auf Bundes-, L\u00e4nder- und Kommunalebene\r\n8 https://www.auswaertiges-amt.de/de/aussenpolitik/aussenwirtschaft/wirtschaft-undmenschenrechte/\r\nnationaler-aktionsplan-wirtschaft-menschenrechte/205208\r\n9 www.kompass-nachhaltigkeit.de\r\nh\u00e4tte dabei den Vorteil, dass sich Daten leichter sammeln und vergleichen lie\u00dfen. Mit\r\ndiesen Daten k\u00f6nnte dann die Vergabepraxis stetig optimiert werden.\r\nAktionsfeld 4: Vereinfachung und Beschleunigung der Vergabeverfahren\r\n11. Welche Vereinfachungs- und Beschleunigungspotentiale sehen Sie noch im\r\nVergaberecht? Wo setzen aus Ihrer Sicht Rechtssicherheit, Wirtschaftlichkeit oder das\r\neurop\u00e4ische Vergaberecht wichtige Grenzen?\r\nWie oben bei Frage 6 ausgef\u00fchrt w\u00e4re eine klare Definition von Wirtschaftlichkeit unter\r\nBer\u00fccksichtigung von Nachhaltigkeit im Vergaberecht f\u00fcr alle Beteiligten hilfreich.\r\nDar\u00fcber hinaus k\u00f6nnten regelm\u00e4\u00dfig \u00fcberarbeitete Leitf\u00e4den zu einer Standardisierung der\r\nnachhaltigen Beschaffung beitragen. Qualifizierungen und Beratungen tragen weiterhin\r\ndazu bei, Beschaffende bei der Umsetzung von nachhaltiger Beschaffung zu unterst\u00fctzen.\r\nDie Bundesregierung sollte pr\u00fcfen, inwieweit soziale Anforderungen oder\r\nmenschenrechtliche Sorgfaltspflichten auch im Rahmen der Eignungskriterien gefordert\r\nwerden k\u00f6nnen.\r\n12. Inwieweit k\u00f6nnen Sie sich eine Flexibilisierung des Losgrundsatzes vorstellen, etwa f\u00fcr\r\nwichtige Transformationsvorhaben?\r\nLose k\u00f6nnen gut f\u00fcr unterschiedlich anspruchsvolle Kriterien genutzt werden. Da, wo der\r\nMarkt schon anspruchsvollere Nachweise zu bieten hat, k\u00f6nnen diese in den\r\nentsprechenden Losen (verpflichtend) gefordert werden. Dort, wo der Markt nicht so weit\r\nist, k\u00f6nnen Nachhaltigkeitskriterien in den Zuschlagskriterien gefordert oder in die\r\nAusf\u00fchrungsbedingungen integriert werden.\r\n13. Wie kann die Vergabepraxis einfacher und schneller gelingen? Wie k\u00f6nnten Ihrer Ansicht\r\nnach Vergabeverfahren z.B. noch weiter professionalisiert werden? Warum haben Sie oder\r\nIhr Unternehmen sich zuletzt gegebenenfalls nicht mehr an \u00f6ffentlichen Vergabeverfahren\r\nbeteiligt?\r\nNachhaltig agierende Unternehmen berichten uns, dass sie sich nicht an \u00f6ffentlichen\r\nAusschreibungen beteiligen, weil Nachhaltigkeit oftmals bei den Zuschlagskriterien zu\r\nwenig ambitioniert in die Bewertung einbezogen wird und es somit absehbar ist, dass sie\r\nmit ihren nachhaltigen Produkten nicht den Zuschlag erhalten werden.\r\nBieterdialoge k\u00f6nnen \u00fcber Innovationen informieren und R\u00fcckfragen zum Erf\u00fcllungsgrad\r\nvon Nachhaltigkeitskriterien beantworten. Gleichzeitig k\u00f6nnen typische Stolpersteine in\r\nBewerbungsverfahren besprochen und so vermieden werden. Das f\u00fchrt h\u00f6chst\r\nwahrscheinlich zu mehr Angeboten und erleichtert Beschaffenden und Bietenden die\r\nArbeit.\r\nEs bedarf mehr Schulungen, Austausch und Ansprechstellen, siehe auch Bericht des\r\nBundesrechnungshofes 2022, der zu regelm\u00e4\u00dfigen, verpflichtenden Fortbildungen von\r\nBeschaffenden zu dem Thema r\u00e4t. Gleiches gilt f\u00fcr Beschaffungsstellen der L\u00e4nder und\r\nKommunen.\r\nDie Fort- und Ausbildungsm\u00f6glichkeiten (mit eigener Zertifizierung) von\r\nVergabefachkr\u00e4ften muss enorm ausgebaut bzw. geschaffen werden. Es handelt sich um\r\nstrategische Schl\u00fcsselpositionen, die entsprechend ausgebildet werden m\u00fcssen. Die\r\nFachkr\u00e4fte sollten auch finanzielle Anerkennung erfahren f\u00fcr die Verantwortung, die sie f\u00fcr\r\ndie Erf\u00fcllung strategischer Ziele tragen.\r\nNachhaltigkeitsaspekte zu pr\u00fcfen und einzufordern ist zeitaufwendig und anspruchsvoll. Je\r\nProduktgruppe ist ein tiefes Verst\u00e4ndnis der jeweiligen Nachweise erforderlich. Deshalb\r\nsind deutlich mehr Kompetenzstellen auf Bundes-, landes- und kommunal Ebene als\r\nzentrale Anlaufstellen f\u00fcr Fragen und Probleme empfehlenswert.\r\nF\u00fcr ein sinnvolles Monitoring ist eine detaillierte, aber m\u00f6glichst einfach umzusetzende\r\nDokumentation von eingeforderten Nachhaltigkeitskriterien notwendig. Dies muss weit\r\n\u00fcber die (bisher nur f\u00fcr oberschwellige Auftr\u00e4ge notwendige) Dokumentation von\r\nNachhaltigkeitskriterien in der Vergabestatistikverordnung hinaus gehen. Soziale und\r\n\u00f6kologische Nachhaltigkeitskriterien sollten weiter aufgeschl\u00fcsselt abgefragt werden. (s.\r\nauch Frage 6) In der E-Vergabe muss die Pr\u00fcfung von Nachhaltigkeitskriterien automatisch\r\nmit eingebaut werden.\r\nUm der strategischen Bedeutung der Beschaffung mehr Gewicht zu verleihen, ist es\r\nzwingend notwendig f\u00fcr mehr Koh\u00e4renz der unterschiedlichen politischen Ziele zu sorgen.\r\nInkoh\u00e4renzen bestehen aktuell z. B. zwischen der Nachhaltigkeitsstrategie der\r\nBundesregierung, den Zielen des BMZs und des Au\u00dfenministeriums (bspw. Feministischer\r\nFokus) und den UN-Leitprinzipien f\u00fcr Wirtschaft und Menschenrechte.\r\nEs sollte eine st\u00e4rkere Verzahnung des Vergabegesetzes mit weiteren Gesetzen und\r\nRichtlinien geben:\r\no Lieferkettensorgfaltspflichtengesetz (beispielsweise wenn Nichterf\u00fcllung ein\r\nAusschlussgrund w\u00e4re)\r\no EU-Richtlinie zur nachhaltigen Unternehmensf\u00fchrung\r\no Nachhaltigkeitsberichtspflicht f\u00fcr Unternehmen\r\no ILO 190 zur Beseitigung von Bel\u00e4stigung und Gewalt am Arbeitsplatz\r\n14. Inwieweit k\u00f6nnen Sie sich auch eine weitere Vereinheitlichung des Vergaberechts\r\nvorstellen (formell in einem \u201eVergabegesetz\u201c oder materiell st\u00e4rkere Angleichungen)?\r\nStrenge Vorgaben zu \u00f6kologischen und sozialen Nachhaltigkeitskriterien sollten auf allen\r\nEbenen (Bund/L\u00e4nder/Kommunen) m\u00f6glichst gleich sein. Das erleichtert die Umsetzung,\r\nsignalisiert dem Markt in welche Richtung Ver\u00e4nderungen gew\u00fcnscht sind und erh\u00f6ht\r\ndurch die Vereinheitlichung die Bieterfreundlichkeit.\r\nAktionsfeld 5: F\u00f6rderung von Mittelstand, Start-Ups und Innovationen\r\n15. Welche rechtlichen und praktischen Stellschrauben sehen Sie f\u00fcr eine starke\r\nEinbeziehung von kleinen und mittelst\u00e4ndischen Unternehmen in die \u00f6ffentliche\r\nBeschaffung?\r\nBieterdialoge bieten Information und Orientierung, z. B. zu Nachhaltigkeitsanforderungen und\r\nnotwendigen Nachweisen. Sie k\u00f6nnen die Hemmschwelle, ein Angebot abzugeben, verringern.\r\nDavon profitieren insbesondere kleine und mittelst\u00e4ndische Unternehmen.\r\nRechtliche Klarheit zu den Nachhaltigkeitsanforderungen und m\u00f6glichst eine Harmonisierung der\r\nerforderlichen Nachweise bei bestimmten Produktgruppen bieten hilfreiche Orientierung.\r\nLosverfahren erleichtern ein partielles Angebot.\r\nViele nachhaltige Start-ups sowie kleine und mittelst\u00e4ndische Unternehmen, die sich zu 100 %\r\nnachhaltig aufgestellt haben, nutzen unternehmensbasierte Monitoringsysteme (z. B. Fair Wear\r\nFoundation im Textilbereich, World Fair Trade Organization im Fairen Handel). Sofern diese\r\nSysteme externe \u00dcberpr\u00fcfungen der Standards enthalten, sollten sie als Nachweis f\u00fcr\r\nproduktspezifische Nachhaltigkeitskriterien akzeptiert werden.\r\nSonstiges\r\n19. Wie priorisieren Sie die Aktionsfelder? Welche aufgeworfenen Fragen sind Ihnen\r\nbesonders wichtig?\r\nWir setzen uns f\u00fcr eine St\u00e4rkung der strategischen Beschaffung ein. Der \u00f6ffentliche Einkauf hat\r\neine Hebelwirkung f\u00fcr die Wirtschaft und sollte genutzt werden, um fairen Handel,\r\nmenschenrechtliche Sorgfalt, Klima- und Ressourcenschutz in globalen Lieferketten zu bef\u00f6rdern.\r\n2015 haben die UN-Mitgliedstaaten die nachhaltigen Entwicklungsziele (SDGs) verabschiedet. Das\r\nSDG 12 \u201eNachhaltige Konsum- und Produktionsmuster sicherstellen\u201c zielt auf die notwendige\r\nVer\u00e4nderung unserer Lebensstile und unserer Wirtschaftsweise. Nachhaltig bedeutet hierbei,\r\nheute so zu konsumieren und zu produzieren, dass die berechtigten Bed\u00fcrfnisse der derzeitigen\r\nund der zuk\u00fcnftigen Generationen befriedigt und die \u00f6kologischen Belastungsgrenzen der Erde\r\nnicht \u00fcberschritten werden. Das Unterziel 12.7 sieht eine F\u00f6rderung nachhaltiger Verfahren in der\r\n\u00f6ffentlichen Beschaffung vor, im Einklang mit den nationalen Politiken und Priorit\u00e4ten.\r\nDie 2011 vom UN-Menschenrechtsrat verabschiedeten UN-Leitprinzipien f\u00fcr Wirtschaft und\r\nMenschenrechte beschreibt die Verpflichtung der Staaten, die politischen und rechtlichen\r\nRahmenbedingungen f\u00fcr Unternehmen und Investitionen zu setzen, um den Schutz der\r\nMenschenrechte und Arbeitsnormen zu gew\u00e4hrleisten. Zur Umsetzung der UN-Leitprinzipien hat\r\ndie Bundesregierung 2016 den Nationalen Aktionsplan Wirtschaft und Menschenrechte (NAP)\r\nbeschlossen, der das \u00f6ffentliche Beschaffungswesen als ein Handlungsfeld definiert.\r\n20. Sehen Sie Zielkonflikte und falls ja, wie sollten diese aus Ihrer Sicht aufgel\u00f6st werden?\r\nIn der Diskussion um die Einbeziehung von (insbesondere sozialen) Nachhaltigkeitskriterien in der\r\n\u00f6ffentlichen Beschaffung wird h\u00e4ufig ein hoher b\u00fcrokratische Aufwand und hohe H\u00fcrden f\u00fcr kleine\r\nund mittelst\u00e4ndische Unternehmen angef\u00fchrt. Der Verzicht auf Nachhaltigkeitskriterien\r\nbenachteiligt jedoch gerade kleine, mittelst\u00e4ndische Unternehmen und Start-ups, die konsequent\r\nauf Nachhaltigkeit setzen. Angesichts der globalen Herausforderungen bedarf es aber gerade eines\r\nfairen Wettbewerbs, um soziale und \u00f6kologische Innovationen zu bef\u00f6rdern.\r\nUm einen hohen b\u00fcrokratischen Aufwand zu vermeiden, bedarf es klarer, verbindlicher Vorgaben\r\nf\u00fcr die sozial-\u00f6kologische Beschaffung. Leitf\u00e4den, Checklisten und Fortbildungs- und\r\nBeratungsangebote f\u00fcr Beschaffende auf Bundes-, Landes- und kommunaler Ebene k\u00f6nnen eine\r\nVereinheitlichung von Nachhaltigkeitsanforderungen bef\u00f6rdern. Bieterdialoge haben sich bewehrt,\r\num kleine und mittelst\u00e4ndische Unternehmen eine Beteiligung an \u00f6ffentlichen Ausschreibungen zu\r\nerleichtern und b\u00fcrokratische Fallstricke bei Ausschreibungen zu vermeiden. Zudem erm\u00f6glichen\r\nsie ebenso wie ein professionelles Lieferantenmanagement die Weiterentwicklung des Marktes.\r\nUnabdingbar ist hierf\u00fcr eine weitere Professionalisierung von Beschaffungsstellen."
+                        }
+                    }
+                ],
+                "title": "Vergaberechtsreform"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/ba/0f/334722/Stellungnahme-Gutachten-SG2407160002.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-01"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0011062",
+                "regulatoryProjectTitle": "Vergaberechtsreform",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Stellungnahme im Rahmen der \u00f6ffentlichen Konsultation des BMWK zur\r\nTransformation des Vergaberechts\r\nSehr geehrte Damen und Herren,\r\ndas B\u00fcndnis Eine Welt Schleswig-Holstein e.V., BEI, ist der Dachverband entwicklungspolitischer\r\nNichtregierungsorganisationen in Schleswig-Holstein. Seit seiner Gr\u00fcndung 1994 tritt das BEI daf\u00fcr\r\nein, bessere Voraussetzungen f\u00fcr die Verwirklichung entwicklungspolitischer Anliegen zu schaffen.\r\nSeine \u00fcber 100 Mitgliedsgruppen setzen sich mit unterschiedlichen Schwerpunkten und politischen\r\nAusrichtungen f\u00fcr Gerechtigkeit und Solidarit\u00e4t in der Einen Welt ein. Sie engagieren sich f\u00fcr die\r\nentwicklungspolitische Bildungs- und \u00d6ffentlichkeitsarbeit, interkulturelle Verst\u00e4ndigung,\r\nMenschenrechte, Partnerschaften mit L\u00e4ndern des Globalen S\u00fcdens, fairen Handel, die\r\nUnterst\u00fctzung von Gefl\u00fcchteten und Migrant*innen sowie Klima- und Umweltschutz. Die Arbeit des\r\nBEI orientiert sich am Konzept der Nachhaltigen Entwicklung und an den Sustainable Development\r\nGoals (SDGs).\r\nDas BEI erm\u00f6glicht und unterst\u00fctzt in unterschiedlichen Projekten und Veranstaltungen den\r\nAustausch und die Zusammenarbeit seiner Mitglieder mit anderen gesellschaftlichen Akteur*innen.\r\nZudem ist das BEI bundesweit unter anderem \u00fcber die Arbeitsgemeinschaft der Eine-Welt-\r\nLandesnetzwerke (agl) und \u00fcber Arbeitsgruppen des Verbands Entwicklungspolitik Deutscher\r\nNichtregierungsorganisationen e.V. (VENRO) vernetzt.\r\nWir begr\u00fc\u00dfen, dass sich die Bundesregierung mit der Transformation des Vergaberechts\r\nbesch\u00e4ftigen wird, und tragen gerne unsere Einsch\u00e4tzung bei, insbesondere wie soziale Kriterien in\r\nder Vergabe gest\u00e4rkt werden k\u00f6nnen und so zu einer Transformation der Wirtschaft im Sinne der\r\nSDGs beitragen k\u00f6nnen. Als Eine Welt-Landesnetzwerk setzen wir uns seit Jahren f\u00fcr eine St\u00e4rkung\r\nvon Menschenrechten und fairen Handel in globalen Lieferketten ein und besch\u00e4ftigen uns hierbei\r\nauch intensiv mit Fragen der nachhaltigen Beschaffung. Gemeinsam mit dem schleswigholsteinischem\r\nUmweltministerium, seit 2020 dem neu gegr\u00fcndeten Kompetenzzentrum f\u00fcr\r\nnachhaltige Beschaffung und Vergabe in Schleswig-Holstein (KNBV) und RENN.nord organisieren wir\r\nOnline-Seminare und Austauschtreffen des Netzwerkes zu Nachhaltiger Beschaffung in Schleswig-\r\nHolstein.\r\nAuf Bundesebene tauschen wir uns mit unseren Kolleg*innen aus anderen Eine Welt-\r\nLandesnetzwerken und dem CorA-Netzwerk \u00fcber aktuelle Themen der nachhaltigen Beschaffung\r\naus. Dabei waren wir als Tr\u00e4ger der Bundesthemenkoordination f\u00fcr das agl-Fachforum Konsum &\r\nProduktion in besonderem Ma\u00dfe inhaltlich engagiert. Unser Bundesverband, die agl, hat in den\r\nvergangenen Jahren gemeinsam mit Eine Welt-Landesnetzwerken und mit finanzieller\r\nUnterst\u00fctzung der SKEW erfolgreiche bundesweite Beschaffungskonferenzen ausgerichtet, z. B. zu\r\nIT und Natursteinen. 2020 hat das BEI federf\u00fchrend die Konferenz zu sozial verantwortlicher ITBeschaffung\r\norganisiert. Daneben unterst\u00fctzten wir die Erstellung und Aktualisierung einer Synopse\r\nzu den vergaberechtlichen Regelungen der Bundesl\u00e4nder mit Blick auf Menschenrechte,\r\nSozialstandards und fairen Handel.\r\nAus unserer Beratungspraxis und dem Austausch insbesondere mit Fairtrade-Towns in Schleswig-\r\nHolstein halten wir einen verbindlichen rechtlichen Rahmen f\u00fcr nachhaltige Beschaffung f\u00fcr\r\nnotwendig. Nur klare, einheitliche Vorgaben verhindern Rechtsunsicherheit und hohen\r\nb\u00fcrokratischen Aufwand bei einzelnen Beschaffungsstellen und Unternehmen und erm\u00f6glichen\r\neinen fairen Wettbewerb um innovative, nachhaltige L\u00f6sungen. Dar\u00fcber hinaus gibt es zahlreiche\r\nweitere Ma\u00dfnahmen, um die sozial-\u00f6kologische Beschaffung zu st\u00e4rken. Gerne f\u00fchren wir dies\r\nanhand der vom BMWK aufgeworfenen Fragen weiter aus.\r\nMit freundlichen Gr\u00fc\u00dfen\r\nMartin Weber\r\nGesch\u00e4ftsf\u00fchrer\r\nB\u00fcndnis Eine Welt Schleswig-Holstein e.V. (BEI)\r\nDachverband entwicklungspolitischer Organisationen\r\nSophienblatt 100\r\n24114 Kiel\r\nTel.: 0431-679399-00\r\nMartin.Weber@bei-sh.org\r\nVereinsregister: AG Kiel, VR 3739KI\r\nVorstand: Andrea Bastian, Daniela Suhr, Susanne Thiesen, Lazarus Tomdio, Martina Kriwy, Dr. Hassan Humeida\r\nwww.bei-sh.org\r\nfollow us on facebook\r\nfollow us on Instagram\r\nEntwicklungspolitischer Newsletter f\u00fcr Schleswig-Holstein\r\nwww.bei-sh.org/newsletter\r\nAktionsfeld 1: St\u00e4rkung der umwelt- und klimafreundlichen Beschaffung\r\n1. Auf welcher Stufe des Vergabeverfahrens k\u00f6nnen Sie sich eine (verpflichtende)\r\nBer\u00fccksichtigung von umwelt- oder klimabezogenen Aspekten am besten vorstellen? Eher in\r\nder Leistungsbeschreibung, bei den Eignungs- oder Zuschlagskriterien, in den\r\nAusf\u00fchrungsbedingungen oder in einer Kombination davon?\r\nWir begr\u00fc\u00dfen die Absicht der Bundesregierung, die Ber\u00fccksichtigung von Nachhaltigkeitskriterien\r\nverpflichtend in das Vergabeverfahren aufzunehmen. Unserer Erfahrung nach h\u00e4ngt es davon ab,\r\nwas beschafft werden soll und inwiefern der Markt bereits ein ausreichendes Angebot bietet, um\r\nzu entscheiden, an welcher Stelle der Vergabe Nachhaltigkeitsaspekte einbezogen werden sollten.\r\nDie M\u00f6glichkeit zur Ber\u00fccksichtigung von Nachhaltigkeitskriterien sollte deshalb auf verschiedenen\r\nStufen des Vergabeverfahren hergestellt bzw. ausdr\u00fccklich er\u00f6ffnet werden.\r\nDabei sollten soziale und \u00f6kologischen Kriterien allerdings gleichberechtig behandelt werden.\r\n\u00d6kologische und soziale Nachhaltigkeit als Eignungskriterium w\u00fcrden wir sehr begr\u00fc\u00dfen, denn\r\nhiermit kann sichergestellt werden, dass die ber\u00fccksichtigten Anbieter*innen \u00fcber die\r\nerforderlichen Qualifikationen (Know-How, betriebliche Prozesse, Kapazit\u00e4ten etc.) verf\u00fcgen, um\r\neinen Auftrag unter Einhaltung der gebotenen \u00f6kologischen Anforderungen sowie der\r\nmenschenrechtlichen Sorgfaltspflichten (entsprechend den UN-Leitprinzipien) auszuf\u00fchren.\r\n2. Existieren aus Ihrer Sicht bereits zielgerichtete und hinreichend praxistaugliche Vorbilder\r\nf\u00fcr die verbindliche Ber\u00fccksichtigung von Nachhaltigkeitskriterien (welche?)?\r\nDas Hamburgische Vergabegesetz regelt Aspekte der Umweltvertr\u00e4glichkeit. Abs. 1 verpflichtet\r\nAuftraggeber*innen, negative Umweltauswirkungen im ganzen Lebenszyklus des Produktes zu\r\nvermeiden. Insbesondere Investitionsg\u00fcter sollen gem\u00e4\u00df Abs. 2 unter Ber\u00fccksichtigung der\r\nLebenszykluskosten beschafft werden. Die Bedarfsanalyse f\u00fcr Liefer- und Dienstleistungen soll eine\r\numweltfreundliche und energieeffiziente Gesamtl\u00f6sung anstreben (Abs. 3).\r\nLeistungsbeschreibungen sollen diese Aspekte ausdr\u00fccklich benennen.\r\n\u00a7 3a Abs. 1\u20133 HmbVgG regelt die sozial vertr\u00e4gliche Beschaffung unter Einhaltung der ILOKernarbeitsnormen.\r\nAbs. 1 verpflichtet \u00f6ffentliche Auftraggeber*innen dazu, sicherzustellen, dass\r\nkeine Ware, die unter Missachtung der ILO-Kernarbeitsnomen gewonnen oder hergestellt wurde,\r\nGegenstand der beschafften Leistungen ist. Abs. 2 schreibt die Anwendung der erg\u00e4nzenden\r\nVertragsbedingungen zur Beachtung der ILO-Kernarbeitsnomen vor. Die 2014 neu gestalteten,\r\nerg\u00e4nzenden Vertragsbedingungen gelten f\u00fcr Warengruppen im Sinne der Nummer 2 der\r\nVerpflichtung zur Beachtung der ILO-Kernarbeitsnormen und f\u00fcr einen Auftragswert ab 10.000\r\nEuro. Vergabeverfahren in diesem Anwendungsbereich m\u00fcssen bereits in der\r\nLeistungsbeschreibung auf diese Verpflichtung hinweisen. Die Soll-Bestimmung des \u00a7 3a HmbVgG\r\nregelt die Bevorzugung von Lieferleistungen, die fair gehandelt wurden. Satz 2 betrifft die m\u00f6gliche\r\nAnerkennung von entsprechenden G\u00fctezeichen.\r\nIm Bremischen Tariftreue- und Vergabegesetz wird geregelt, dass bei der Vergabe von Bau-, Lieferund\r\nDienstleistungen \u201edarauf hinzuwirken\u201c ist, dass keine Waren, die unter Missachtung der ILOKernarbeitsnormen\r\ngewonnen oder hergestellt wurden, Gegenstand der Leistung sind. Vorgaben\r\nzu Zertifizierungen und Nachweisen sowie zur Ausgestaltung von Kontrollen und Sanktionen sind in\r\neiner Rechtsverordnung geregelt. Die Einhaltung der ILO-Kernarbeitsnormen ist bei bestimmten\r\nWarengruppen \u201ezwingend vorzugeben\u201c. Als Nachweise werden G\u00fctezeichen verlangt, \u201eandere\r\ngeeignete Nachweise\u201c sind nur ausnahmsweise zul\u00e4ssig, wobei die Gleichwertigkeit durch\r\n\u201eUnterlagen und Erkl\u00e4rungen Dritter\u201c glaubhaft belegt werden muss. Eigenerkl\u00e4rungen sind nach\r\nder Bremischen Kernarbeitsnormenverordnung (Brem-KernvV) nicht zul\u00e4ssig.1\r\nBeispiele f\u00fcr verbindliche Vorgaben f\u00fcr eine nachhaltige Beschaffung in Kommunen bietet auf\r\ninternationaler Ebene auch das ICLEI-Netzwerk. Vorbildliche Beispiele sind u.a. Barcelona und\r\nKopenhagen.2\r\nAktionsfeld 2: St\u00e4rkung der sozial-nachhaltigen Beschaffung\r\n5. Welche Aspekte einer sozial verantwortlichen Beschaffung sollten \u00fcber die\r\nBer\u00fccksichtigung von Tarifvertr\u00e4gen hinaus aus Ihrer Sicht priorit\u00e4r bei der \u00f6ffentlichen\r\nBeschaffung verfolgt oder intensiviert werden?\r\nEine sozial verantwortliche Beschaffung ber\u00fccksichtigt grunds\u00e4tzlich alle Menschen- und Arbeitsrechte\r\nin der (globalen) Lieferkette des konkret zu beschaffenden Produkts bzw. der konkret zu\r\nbeschaffenden Dienstleistung und leistet einen Beitrag zur Umsetzung der SDGs. Die verbindliche\r\nEinhaltung aller ILO-Kernarbeitsnormen sollte zum vergaberechtlichen Mindeststandard auch auf\r\nBundesebene werden \u2013 wie bereits in vielen Landesvergabegesetzen (z. B. Berlin, Hamburg,\r\nNiedersachsen und Th\u00fcringen.3 Wir weisen darauf hin, dass die ILO-Kernarbeitsnormen nunmehr\r\nf\u00fcnf Grundprinzipien und zehn Kernarbeitsnormen umfassen.4 Kann-Regelungen, welche die\r\nAnwendung ins Ermessen der Beschaffenden stellen, werden dem materiellen Umfang der ILOKernarbeitsnormen\r\nnicht gerecht.\r\nDie Beschaffungspraxis sollte auch dar\u00fcber hinaus an der Umsetzung der UN-Leitprinzipien f\u00fcr\r\nWirtschaft und Menschenrechte mitwirken. Die Leitprinzipien stellen fest, welche Pflichten, welche\r\nRechte und welche Verantwortung sich aus dem internationalen Normbestand f\u00fcr Staaten,\r\nUnternehmen und Rechteinhaber*innen im Wirtschaftszusammenh\u00e4ngen ergeben. Staaten sind\r\nhiernach aufgefordert, einen Smart mix an Ma\u00dfnahmen zu ergreifen, der geeignet ist,\r\nMenschenrechtsverletzungen vorzubeugen bzw. zu beheben.\r\nAusdr\u00fccklich sollen Staaten hierf\u00fcr auch im Rahmen der Auftragsvergabe \u201edas Problembewusstsein\r\nf\u00fcr die Menschenrechte und deren Achtung durch die Unternehmen f\u00f6rdern\u201c (vgl.\r\nKommentar zu Prinzip 6). Die Leitprinzipien gebieten neben der Beachtung der ILOKernarbeitsnormen\r\nauch mindestens die Beachtung der Allgemeinen Erkl\u00e4rung der\r\nMenschenrechte, des Internationalen Pakts \u00fcber b\u00fcrgerliche und politische Rechte und des\r\nInternationalen Pakts \u00fcber wirtschaftliche, soziale und kulturelle Rechte (Internationale\r\nMenschenrechts-Charta).\r\nEntsprechend der Umst\u00e4nde und Risikolage m\u00fcssen dar\u00fcber hinaus auch weitere\r\nmenschenrechtliche Standards ber\u00fccksichtigt werden. Hierbei ist besonders auf die m\u00f6gliche\r\n1 Diese und weitere Beispiele zu vergaberechtlichen Regelungen s. agl-Dokument Nr. 29: \u201eSozialstandards und\r\nMenschenrechte in der \u00f6ffentlichen Vergabe - Synopse der vergaberechtlichen Regelungen der Bundesl\u00e4nder\u201c, Juli\r\n2021\r\n2 https://iclei-europe.org/\r\n3 S. agl-Dokument Nr. 29\r\n4 [1] https://www.ilo.org/berlin/arbeits-und-standards/kernarbeitsnormen/lang--de/index.htm\r\nBetroffenheit von vulnerablen Gruppen (u.a. M\u00e4dchen und Frauen, Wanderarbeiter*innen,\r\nMinderheiten, Indigene Gruppen, Menschen mit Behinderung, Kinder) zu achten (vgl. Kommentar\r\nzu Prinzip 12). Deshalb ist das Vergaberecht und die Vergabepraxis in dem Sinne\r\nweiterzuentwickeln, dass produktgruppenbezogen beim jeweiligen Auftragsgegenstand die\r\ntats\u00e4chlichen arbeits- und menschenrechtlichen Risiken ber\u00fccksichtigt werden.\r\nDer faire Handel reicht \u00fcber die Einhaltung der ILO-Kernarbeitsnormen und anderer\r\nSozialstandards hinaus und zahlt substantiell auf die Umsetzung der Sustainable Development\r\nGoals (SDGs) ein. Deshalb sollten Kriterien des fairen Handels \u2013 wo immer m\u00f6glich \u2013 in der\r\nBeschaffung besonders ber\u00fccksichtigt werden. Orientierung bez\u00fcglich der Kriterien des Fairen\r\nHandels bietet die Mitteilung der Europ\u00e4ischen Kommission \u201eBeitrag zu einer nachhaltigen\r\nEntwicklung: Die Rolle des Fairen Handels ...\u201c (Mai 2009)5\r\nPerspektivisch sollten die Regelungen im Vergaberecht im Sinne einer einheitlichen Rechtsordnung\r\nauch an die dem Lieferkettensorgfaltspflichtengesetz (Gesetz \u00fcber die unternehmerischen\r\nSorgfaltspflichten in Lieferketten, LkSG) zugrundeliegenden gesch\u00fctzten Rechtspositionen (\u00a7 2 Abs.\r\n1, Abs. 2 Nr. 1-11 LkSG) ankn\u00fcpfen. Die in den UN-Leitprinzipien festgestellten Schutzpflichten der\r\nStaaten verlangen, dass \u201eklare Erwartungen\u201c und \u201ekonsistente Botschaften\u201c zum Ausdruck\r\nbringen, dass alle Wirtschaftsunternehmen bei ihrer gesamten Gesch\u00e4ftst\u00e4tigkeit Menschenrechte\r\nachten (vgl. Prinzip 2). Im Sinne dieser Konsistenz, m\u00fcssen die Anforderungen der \u00f6ffentlichen\r\nAuftragsvergabe und ordnungspolitischen Ma\u00dfnahmen zur Regulierung der unternehmerischen\r\nSorgfaltspflichten einen einheitlichen Rechts- und Orientierungsrahmen f\u00fcr Unternehmen\r\nbilden.\r\n6. Wie k\u00f6nnte dies aus Ihrer Sicht am besten im Vergabeverfahren und -recht integriert\r\nwerden?\r\nGrundlegend ist eine durchg\u00e4ngige umfassende Definition sowohl von \u201enachhaltig\u201c als auch von\r\n\u201esozial\u201c im Vergaberecht. Soziale und \u00f6kologische Aspekte der Nachhaltigkeit h\u00e4ngen eng\r\nzusammen und m\u00fcssen im Sinne der SDGs im Kontext globaler Gerechtigkeit zusammen gedacht\r\nwerden.\r\nVoraussetzung f\u00fcr die konsequente Implementierung sozialer Nachhaltigkeitsaspekte ist, dass\r\ndiese bei Planung, Umsetzung und Monitoring den gleichen Stellenwert haben wie andere\r\nNachhaltigkeitsaspekte. Dabei muss die gesamte Lieferkette eines Produktes in den Blick\r\ngenommen werden. Soziale Nachhaltigkeit darf nicht auf Aspekte des hiesigen Mindestlohns und\r\nder Tariftreue reduziert werden, sondern muss auch Arbeits- und Menschenrechte in den globalen\r\nWertsch\u00f6pfungsketten umfassen. Bei Produkten, in deren Lebenszyklus sowohl soziale als auch\r\numweltbezogene Aspekte relevant sind, darf nicht nur ein einzelner Aspekt (z. B. Energieeffizienz)\r\nzur Umsetzung von Nachhaltigkeitsanforderungen ausreichend sein.\r\nZentral sind verbindliche Vorgaben zur Ber\u00fccksichtigung von sozialen Anforderungen, verbunden\r\nmit Dokumentations- und Begr\u00fcndungspflichten, sofern von den Vorgaben im Einzelfall\r\nabgewichen wird. Dies kann durch eine entsprechende \u00c4nderung des GWB oder von VgV und\r\nUVgO erfolgen.\r\n5 COM(2009)215 https://ec.europa.eu/transparency/documents-register/detail?ref=COM(2009)215&lang=de\r\nAlternativ schlagen wir den Erlass einer allgemeinen Verwaltungsvorschrift (AVV) vor, die\r\nverbindliche Vorgaben zur Ber\u00fccksichtigung der sozialen Anforderungen bei der Beschaffung sog.\r\nsensibler Produkte enth\u00e4lt. Bei deren Ausgestaltung sollten die Erfahrungen mit der AVV Klima\r\nber\u00fccksichtigt werden.\r\nWenn eine Marktanalyse ergibt, dass es bei einer Produktgruppe sozial verantwortlich oder im\r\nfairen Handel hergestellte Produkte gibt, dann sollte es f\u00fcr \u00f6ffentliche Auftraggeber grunds\u00e4tzlich\r\nverbindlich sein, die entsprechenden Kriterien zu fordern. Diese Marktanalyse muss nicht in jedem\r\nFall von den Beschaffenden vorgenommen werden, sondern kann \u2013 wie in vielen Bundesl\u00e4ndern6 -\r\nvom Gesetzgeber in Verordnungen und allgemeinen Verwaltungsvorschriften vorweggenommen\r\nwerden.\r\nEine Abstimmung zwischen Bund und L\u00e4nder w\u00e4re hierzu w\u00fcnschenswert und sollte m\u00f6glichst zu\r\neiner anspruchsvollen gemeinsamen Liste sensibler Produkte f\u00fchren. In den meisten\r\nBundesl\u00e4ndern z\u00e4hlen hierzu bereits Spielwaren und Sportartikel, Textilien und Bekleidung, Leder-,\r\nAgrar- und Holzprodukte sowie Natursteine. Insbesondere sollten auch Produkte der Informationsund\r\nKommunikationstechnologie aufgenommen werden. Von Einkaufsgemeinschaften wurde\r\nbereits gezeigt, wie deren Beschaffung unter Beachtung der ILO-Kernarbeitsnomen m\u00f6glich ist.\r\nBei einer Reform des Vergaberechtes sollte die Bundesregierung alle durch die EU-Richtlinien\r\n2014/24/EU er\u00f6ffneten Spielr\u00e4ume zur St\u00e4rkung der sozial-\u00f6kologischen Beschaffung nutzen.\r\nArtikel 57 Abs. 1 lit. f der Richtlinie 2014/24/EU gibt den Mitgliedstaaten als zwingenden\r\nAusschlussgrund vor: \u201eKinderarbeit und andere Formen des Menschenhandels im Sinne des\r\nArtikels 2 der Richtlinie 2011/36/EU\u201c. In der Umsetzung in \u00a7 123 Abs. 1 Nr. 10 GWB wird\r\n\u201eKinderarbeit\u201c aber bislang weder umfassend noch explizit erw\u00e4hnt. Die Bundesregierung sollte\r\ndaher Kinderarbeit im Sinne der ILO-\u00dcbereinkommen 138 und 182 und der detaillierten Auslegung\r\nder \u201eschlimmsten Formen der Kinderarbeit\u201c in der ILO-Empfehlung 190 als zwingenden\r\nAusschlussgrund aufnehmen.\r\nArtikel 67 Abs. 2 UA 3 gibt den Mitgliedstaaten die M\u00f6glichkeit, \u201edass die \u00f6ffentlichen\r\nAuftraggeber nicht den Preis oder die Kosten allein als einziges Zuschlagskriterium verwenden\r\nd\u00fcrfen\u201c. Wir empfehlen, diesen Spielraum in \u00a7 127 Abs. 3 GWB und \u00a7 58 f. VgV mit einer\r\nentsprechend eindeutigen Regelung zu nutzen.\r\nDer Bundesrechnungshof empfiehlt in seinem Bericht \u00fcber die Pr\u00fcfung der Nachhaltigen Vergabe\r\nin der Bundesverwaltung vom 19.1.2022, durch geeignete Ma\u00dfnahmen daf\u00fcr Sorge zu tragen, dass\r\nNachhaltigkeitsaspekte in der Wirtschaftlichkeitsuntersuchung Ber\u00fccksichtigung finden. Hierzu\r\nregt er auch eine Anpassung der zu \u00a7 7 BHO erlassenen Vorschriften und der Arbeitsanleitung des\r\nBundesministeriums der Finanzen an (Tz. 4.)7 Au\u00dferdem regen wir dringend eine Klarstellung im\r\nHaushaltsgrunds\u00e4tzegesetz (HGrG) an, wie es das Land Baden-W\u00fcrttemberg in einem\r\nGesetzesantrag vom 15.9.2020 (Drs. 535/20) eingebracht hat.\r\nErg\u00e4nzend zu verbindlichen Vorgaben k\u00f6nnen Leitf\u00e4den zur Beschaffung sensibler Produkte\r\nBeschaffungsstellen unterst\u00fctzen und zu einer Standardisierung von Nachhaltigkeitsanforderungen\r\nbeitragen. Ein Beispiel ist der Leitfaden der Bundesregierung f\u00fcr eine nachhaltige\r\nTextilbeschaffung. Leitf\u00e4den zu weiteren sensiblen Produkten w\u00e4ren w\u00fcnschenswert.\r\n6 S. agl-Dokument Nr. 29: \u201eSozialstandards und Menschenrechte in der \u00f6ffentlichen Vergabe - Synopse der\r\nvergaberechtlichen Regelungen der Bundesl\u00e4nder\u201c, Juli 2021\r\n7 S. Bericht des Bundesrechnungshofs vom 19.1.2022\r\nBei der Nachweisf\u00fchrung sollten Eigenerkl\u00e4rungen nur noch in begr\u00fcndeten Ausnahmef\u00e4llen\r\nanerkannt werden, etwa, wenn unabh\u00e4ngige Zertifikate nicht zur Verf\u00fcgung stehen. Die\r\nBeweispflicht daf\u00fcr sollte bei den Auftragnehmer*innen liegen.\r\nWo es noch keine ausreichend belastbare Nachweissysteme gibt, sollten Vertrags-/\r\nAusf\u00fchrungsbedingungen definiert und deren Umsetzung und Einhaltung w\u00e4hren der Laufzeit des\r\nVertrages kontrolliert werden. Die Kontrolle sollten Beschaffungsstellen selbst oder unabh\u00e4ngige\r\nKontrollorganisationen, z.B. Nichtregierungsorganisationen, durchf\u00fchren. \u00dcber das\r\nVertragsmanagement kann prozessorientiert an nachhaltigen Verbesserungen in den Lieferketten\r\nzusammen mit den Lieferanten gearbeitet werden. Dieser Ansatz wird seit Jahren in der\r\nPrivatwirtschaft erfolgreich umgesetzt und auch in L\u00e4ndern wie Schweden, Niederlande oder\r\nGro\u00dfbritannien von Beschaffungsstellen.\r\nAmbitionierte quantitative Ziele, ein transparentes Monitoring der Ziele sowie Strategien zur\r\nErreichung in Form von \u2013 gegebenenfalls produktspezifischen \u2013 Stufenpl\u00e4nen sollten entwickelt\r\nund an die Beschaffungsstellen kommuniziert werden. Diese Strategien sollten einem\r\nkontinuierlichen Monitoring und einer regelm\u00e4\u00dfigen strategischen Weiterentwicklung unterliegen.\r\nDie Fertigstellung des Textilstufenplans (vgl. Ma\u00dfnahmenprogramm Nachhaltigkeit \u2013\r\nWeiterentwicklung 2021, Anlage 1, Nr. 6a) sollte z\u00fcgig erfolgen. Er sollte zusammen mit dem\r\nTextilleitfaden als AVV ausgestaltet sein, um die erforderliche Verbindlichkeit zu erreichen.\r\nDie Vergabestatistik ist ein wichtiger Schritt f\u00fcr mehr Transparenz und Monitoring der\r\n\u00f6ffentlichen Beschaffung. F\u00fcr eine strategische Ausrichtung der nachhaltigen Beschaffung\r\nist jedoch beim Merkmal \u201esozial\u201c eine gr\u00f6\u00dfere Ausdifferenzierung notwendig. Wir\r\nschlagen daher vor, dass beim Ankreuzen des Kriteriums \u201esozial\u201c ein Dropdown-Men\u00fc mit\r\ndifferenzierten Unterkategorien eingef\u00fcgt wird.\r\nDie Bundesregierung hat sich im Nationalen Aktionsplan Wirtschaft und Menschenrechte\r\n(NAP) verpflichtet, einen Stufenplan zur k\u00fcnftigen Ber\u00fccksichtigung verbindlicher\r\nmenschenrechtlicher Sorgfaltspflichten in der \u00f6ffentlichen Beschaffung zu erarbeiten.8 Die\r\nBundesregierung sollte einen konkreten Zeitplan hierzu vorlegen und bei der Erarbeitung\r\ndie Expertise und die Erfahrungen u. a. von zivilgesellschaftlichen Organisationen wie das\r\nCorA-Netzwerk sowie aus Pilotprojekten in der Vergabepraxis einbeziehen.\r\nDie nachhaltige Beschaffung steht und f\u00e4llt mit den Kompetenzen und personellen Ressourcen der\r\nBeschaffungsstellen. Viele Mitarbeitende sind dort Generalisten, ihnen fehlt die in diesem Bereich\r\noftmals n\u00f6tige spezifische Ausbildung. Angebote zur Qualifizierung und Beratung f\u00fcr\r\nBeschaffungsstellen sollten daher ausgebaut werden. Die Beratungsstrukturen m\u00fcssen\r\nbedarfsgerecht ausgestattet und langfristig abgesichert sein. Der Kompass Nachhaltigkeit9 ist ein\r\nwichtiges Tool zur Unterst\u00fctzung von Beschaffungsstellen und sollte best\u00e4ndig weiterentwickelt\r\nwerden.\r\nWir begr\u00fc\u00dfen ausdr\u00fccklich eine zunehmende Digitalisierung der Vergabe. Eine st\u00e4rkere\r\nVernetzung der elektronischen Vergabesysteme auf Bundes-, L\u00e4nder- und Kommunalebene\r\n8 https://www.auswaertiges-amt.de/de/aussenpolitik/aussenwirtschaft/wirtschaft-undmenschenrechte/\r\nnationaler-aktionsplan-wirtschaft-menschenrechte/205208\r\n9 www.kompass-nachhaltigkeit.de\r\nh\u00e4tte dabei den Vorteil, dass sich Daten leichter sammeln und vergleichen lie\u00dfen. Mit\r\ndiesen Daten k\u00f6nnte dann die Vergabepraxis stetig optimiert werden.\r\nAktionsfeld 4: Vereinfachung und Beschleunigung der Vergabeverfahren\r\n11. Welche Vereinfachungs- und Beschleunigungspotentiale sehen Sie noch im\r\nVergaberecht? Wo setzen aus Ihrer Sicht Rechtssicherheit, Wirtschaftlichkeit oder das\r\neurop\u00e4ische Vergaberecht wichtige Grenzen?\r\nWie oben bei Frage 6 ausgef\u00fchrt w\u00e4re eine klare Definition von Wirtschaftlichkeit unter\r\nBer\u00fccksichtigung von Nachhaltigkeit im Vergaberecht f\u00fcr alle Beteiligten hilfreich.\r\nDar\u00fcber hinaus k\u00f6nnten regelm\u00e4\u00dfig \u00fcberarbeitete Leitf\u00e4den zu einer Standardisierung der\r\nnachhaltigen Beschaffung beitragen. Qualifizierungen und Beratungen tragen weiterhin\r\ndazu bei, Beschaffende bei der Umsetzung von nachhaltiger Beschaffung zu unterst\u00fctzen.\r\nDie Bundesregierung sollte pr\u00fcfen, inwieweit soziale Anforderungen oder\r\nmenschenrechtliche Sorgfaltspflichten auch im Rahmen der Eignungskriterien gefordert\r\nwerden k\u00f6nnen.\r\n12. Inwieweit k\u00f6nnen Sie sich eine Flexibilisierung des Losgrundsatzes vorstellen, etwa f\u00fcr\r\nwichtige Transformationsvorhaben?\r\nLose k\u00f6nnen gut f\u00fcr unterschiedlich anspruchsvolle Kriterien genutzt werden. Da, wo der\r\nMarkt schon anspruchsvollere Nachweise zu bieten hat, k\u00f6nnen diese in den\r\nentsprechenden Losen (verpflichtend) gefordert werden. Dort, wo der Markt nicht so weit\r\nist, k\u00f6nnen Nachhaltigkeitskriterien in den Zuschlagskriterien gefordert oder in die\r\nAusf\u00fchrungsbedingungen integriert werden.\r\n13. Wie kann die Vergabepraxis einfacher und schneller gelingen? Wie k\u00f6nnten Ihrer Ansicht\r\nnach Vergabeverfahren z.B. noch weiter professionalisiert werden? Warum haben Sie oder\r\nIhr Unternehmen sich zuletzt gegebenenfalls nicht mehr an \u00f6ffentlichen Vergabeverfahren\r\nbeteiligt?\r\nNachhaltig agierende Unternehmen berichten uns, dass sie sich nicht an \u00f6ffentlichen\r\nAusschreibungen beteiligen, weil Nachhaltigkeit oftmals bei den Zuschlagskriterien zu\r\nwenig ambitioniert in die Bewertung einbezogen wird und es somit absehbar ist, dass sie\r\nmit ihren nachhaltigen Produkten nicht den Zuschlag erhalten werden.\r\nBieterdialoge k\u00f6nnen \u00fcber Innovationen informieren und R\u00fcckfragen zum Erf\u00fcllungsgrad\r\nvon Nachhaltigkeitskriterien beantworten. Gleichzeitig k\u00f6nnen typische Stolpersteine in\r\nBewerbungsverfahren besprochen und so vermieden werden. Das f\u00fchrt h\u00f6chst\r\nwahrscheinlich zu mehr Angeboten und erleichtert Beschaffenden und Bietenden die\r\nArbeit.\r\nEs bedarf mehr Schulungen, Austausch und Ansprechstellen, siehe auch Bericht des\r\nBundesrechnungshofes 2022, der zu regelm\u00e4\u00dfigen, verpflichtenden Fortbildungen von\r\nBeschaffenden zu dem Thema r\u00e4t. Gleiches gilt f\u00fcr Beschaffungsstellen der L\u00e4nder und\r\nKommunen.\r\nDie Fort- und Ausbildungsm\u00f6glichkeiten (mit eigener Zertifizierung) von\r\nVergabefachkr\u00e4ften muss enorm ausgebaut bzw. geschaffen werden. Es handelt sich um\r\nstrategische Schl\u00fcsselpositionen, die entsprechend ausgebildet werden m\u00fcssen. Die\r\nFachkr\u00e4fte sollten auch finanzielle Anerkennung erfahren f\u00fcr die Verantwortung, die sie f\u00fcr\r\ndie Erf\u00fcllung strategischer Ziele tragen.\r\nNachhaltigkeitsaspekte zu pr\u00fcfen und einzufordern ist zeitaufwendig und anspruchsvoll. Je\r\nProduktgruppe ist ein tiefes Verst\u00e4ndnis der jeweiligen Nachweise erforderlich. Deshalb\r\nsind deutlich mehr Kompetenzstellen auf Bundes-, landes- und kommunal Ebene als\r\nzentrale Anlaufstellen f\u00fcr Fragen und Probleme empfehlenswert.\r\nF\u00fcr ein sinnvolles Monitoring ist eine detaillierte, aber m\u00f6glichst einfach umzusetzende\r\nDokumentation von eingeforderten Nachhaltigkeitskriterien notwendig. Dies muss weit\r\n\u00fcber die (bisher nur f\u00fcr oberschwellige Auftr\u00e4ge notwendige) Dokumentation von\r\nNachhaltigkeitskriterien in der Vergabestatistikverordnung hinaus gehen. Soziale und\r\n\u00f6kologische Nachhaltigkeitskriterien sollten weiter aufgeschl\u00fcsselt abgefragt werden. (s.\r\nauch Frage 6) In der E-Vergabe muss die Pr\u00fcfung von Nachhaltigkeitskriterien automatisch\r\nmit eingebaut werden.\r\nUm der strategischen Bedeutung der Beschaffung mehr Gewicht zu verleihen, ist es\r\nzwingend notwendig f\u00fcr mehr Koh\u00e4renz der unterschiedlichen politischen Ziele zu sorgen.\r\nInkoh\u00e4renzen bestehen aktuell z. B. zwischen der Nachhaltigkeitsstrategie der\r\nBundesregierung, den Zielen des BMZs und des Au\u00dfenministeriums (bspw. Feministischer\r\nFokus) und den UN-Leitprinzipien f\u00fcr Wirtschaft und Menschenrechte.\r\nEs sollte eine st\u00e4rkere Verzahnung des Vergabegesetzes mit weiteren Gesetzen und\r\nRichtlinien geben:\r\no Lieferkettensorgfaltspflichtengesetz (beispielsweise wenn Nichterf\u00fcllung ein\r\nAusschlussgrund w\u00e4re)\r\no EU-Richtlinie zur nachhaltigen Unternehmensf\u00fchrung\r\no Nachhaltigkeitsberichtspflicht f\u00fcr Unternehmen\r\no ILO 190 zur Beseitigung von Bel\u00e4stigung und Gewalt am Arbeitsplatz\r\n14. Inwieweit k\u00f6nnen Sie sich auch eine weitere Vereinheitlichung des Vergaberechts\r\nvorstellen (formell in einem \u201eVergabegesetz\u201c oder materiell st\u00e4rkere Angleichungen)?\r\nStrenge Vorgaben zu \u00f6kologischen und sozialen Nachhaltigkeitskriterien sollten auf allen\r\nEbenen (Bund/L\u00e4nder/Kommunen) m\u00f6glichst gleich sein. Das erleichtert die Umsetzung,\r\nsignalisiert dem Markt in welche Richtung Ver\u00e4nderungen gew\u00fcnscht sind und erh\u00f6ht\r\ndurch die Vereinheitlichung die Bieterfreundlichkeit.\r\nAktionsfeld 5: F\u00f6rderung von Mittelstand, Start-Ups und Innovationen\r\n15. Welche rechtlichen und praktischen Stellschrauben sehen Sie f\u00fcr eine starke\r\nEinbeziehung von kleinen und mittelst\u00e4ndischen Unternehmen in die \u00f6ffentliche\r\nBeschaffung?\r\nBieterdialoge bieten Information und Orientierung, z. B. zu Nachhaltigkeitsanforderungen und\r\nnotwendigen Nachweisen. Sie k\u00f6nnen die Hemmschwelle, ein Angebot abzugeben, verringern.\r\nDavon profitieren insbesondere kleine und mittelst\u00e4ndische Unternehmen.\r\nRechtliche Klarheit zu den Nachhaltigkeitsanforderungen und m\u00f6glichst eine Harmonisierung der\r\nerforderlichen Nachweise bei bestimmten Produktgruppen bieten hilfreiche Orientierung.\r\nLosverfahren erleichtern ein partielles Angebot.\r\nViele nachhaltige Start-ups sowie kleine und mittelst\u00e4ndische Unternehmen, die sich zu 100 %\r\nnachhaltig aufgestellt haben, nutzen unternehmensbasierte Monitoringsysteme (z. B. Fair Wear\r\nFoundation im Textilbereich, World Fair Trade Organization im Fairen Handel). Sofern diese\r\nSysteme externe \u00dcberpr\u00fcfungen der Standards enthalten, sollten sie als Nachweis f\u00fcr\r\nproduktspezifische Nachhaltigkeitskriterien akzeptiert werden.\r\nSonstiges\r\n19. Wie priorisieren Sie die Aktionsfelder? Welche aufgeworfenen Fragen sind Ihnen\r\nbesonders wichtig?\r\nWir setzen uns f\u00fcr eine St\u00e4rkung der strategischen Beschaffung ein. Der \u00f6ffentliche Einkauf hat\r\neine Hebelwirkung f\u00fcr die Wirtschaft und sollte genutzt werden, um fairen Handel,\r\nmenschenrechtliche Sorgfalt, Klima- und Ressourcenschutz in globalen Lieferketten zu bef\u00f6rdern.\r\n2015 haben die UN-Mitgliedstaaten die nachhaltigen Entwicklungsziele (SDGs) verabschiedet. Das\r\nSDG 12 \u201eNachhaltige Konsum- und Produktionsmuster sicherstellen\u201c zielt auf die notwendige\r\nVer\u00e4nderung unserer Lebensstile und unserer Wirtschaftsweise. Nachhaltig bedeutet hierbei,\r\nheute so zu konsumieren und zu produzieren, dass die berechtigten Bed\u00fcrfnisse der derzeitigen\r\nund der zuk\u00fcnftigen Generationen befriedigt und die \u00f6kologischen Belastungsgrenzen der Erde\r\nnicht \u00fcberschritten werden. Das Unterziel 12.7 sieht eine F\u00f6rderung nachhaltiger Verfahren in der\r\n\u00f6ffentlichen Beschaffung vor, im Einklang mit den nationalen Politiken und Priorit\u00e4ten.\r\nDie 2011 vom UN-Menschenrechtsrat verabschiedeten UN-Leitprinzipien f\u00fcr Wirtschaft und\r\nMenschenrechte beschreibt die Verpflichtung der Staaten, die politischen und rechtlichen\r\nRahmenbedingungen f\u00fcr Unternehmen und Investitionen zu setzen, um den Schutz der\r\nMenschenrechte und Arbeitsnormen zu gew\u00e4hrleisten. Zur Umsetzung der UN-Leitprinzipien hat\r\ndie Bundesregierung 2016 den Nationalen Aktionsplan Wirtschaft und Menschenrechte (NAP)\r\nbeschlossen, der das \u00f6ffentliche Beschaffungswesen als ein Handlungsfeld definiert.\r\n20. Sehen Sie Zielkonflikte und falls ja, wie sollten diese aus Ihrer Sicht aufgel\u00f6st werden?\r\nIn der Diskussion um die Einbeziehung von (insbesondere sozialen) Nachhaltigkeitskriterien in der\r\n\u00f6ffentlichen Beschaffung wird h\u00e4ufig ein hoher b\u00fcrokratische Aufwand und hohe H\u00fcrden f\u00fcr kleine\r\nund mittelst\u00e4ndische Unternehmen angef\u00fchrt. Der Verzicht auf Nachhaltigkeitskriterien\r\nbenachteiligt jedoch gerade kleine, mittelst\u00e4ndische Unternehmen und Start-ups, die konsequent\r\nauf Nachhaltigkeit setzen. Angesichts der globalen Herausforderungen bedarf es aber gerade eines\r\nfairen Wettbewerbs, um soziale und \u00f6kologische Innovationen zu bef\u00f6rdern.\r\nUm einen hohen b\u00fcrokratischen Aufwand zu vermeiden, bedarf es klarer, verbindlicher Vorgaben\r\nf\u00fcr die sozial-\u00f6kologische Beschaffung. Leitf\u00e4den, Checklisten und Fortbildungs- und\r\nBeratungsangebote f\u00fcr Beschaffende auf Bundes-, Landes- und kommunaler Ebene k\u00f6nnen eine\r\nVereinheitlichung von Nachhaltigkeitsanforderungen bef\u00f6rdern. Bieterdialoge haben sich bewehrt,\r\num kleine und mittelst\u00e4ndische Unternehmen eine Beteiligung an \u00f6ffentlichen Ausschreibungen zu\r\nerleichtern und b\u00fcrokratische Fallstricke bei Ausschreibungen zu vermeiden. Zudem erm\u00f6glichen\r\nsie ebenso wie ein professionelles Lieferantenmanagement die Weiterentwicklung des Marktes.\r\nUnabdingbar ist hierf\u00fcr eine weitere Professionalisierung von Beschaffungsstellen."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

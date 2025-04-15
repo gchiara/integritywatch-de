@@ -1,0 +1,219 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-02-28T14:27:40.000+01:00",
+                "untilDate": "2023-05-17T16:21:47.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-28T14:27:40.000+01:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2023-05-17T16:21:47.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2023-02-14T16:10:45.000+01:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2023-05-17T16:21:47.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 15687,
+                "validFromDate": "2023-02-14T16:10:45.000+01:00",
+                "version": 3,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 11269,
+                "validFromDate": "2022-09-25T08:29:18.000+02:00",
+                "validUntilDate": "2023-02-14T16:10:45.000+01:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 4088,
+                "validFromDate": "2022-02-28T14:27:40.000+01:00",
+                "validUntilDate": "2022-09-25T08:29:18.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA",
+            "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen) (GL2022)",
+            "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations) (GL2022)"
+        },
+        "activityDescription": "Aufkl\u00e4rungsarbeit zum Gef\u00e4hrdungsstatus von Elefanten. Folgende Themen:\r\nSchwerpunkte Elfenbeinhandel, Wilderei, Lebensraumschwund. Troph\u00e4enjagd.\r\nBriefe, Ersuchen um Gespr\u00e4chstermine, Petitionen.",
+        "activityOperationType": "SELF_OPERATED",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            }
+        ],
+        "legislativeProjects": [
+            {
+                "name": "Tierschutzgesetz, TierSchG"
+            },
+            {
+                "name": "Tierschutz-Zirkusverordnung (Entwurf)"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/a2/48/191873/FFE-2021-Jahresbericht-Finanzbericht.pdf",
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false
+    },
+    "clientIdentity": {
+        "clientsPresent": false
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "Geldspende",
+                "donationEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "name": "Nat\u00fcrliche Person"
+            },
+            {
+                "description": "Geldspende",
+                "donationEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "name": "Nat\u00fcrliche Person"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2021-12",
+        "fiscalYearStart": "2021-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2021-12",
+        "fiscalYearStart": "2021-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Hamburg",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Future for Elephants e.V.",
+            "nationalAdditional2": "Verwaltungsanschrift",
+            "street": "Rheingoldweg",
+            "streetNumber": "54",
+            "type": "NATIONAL",
+            "zipCode": "22559"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "contact@futureforelephants.org"
+                }
+            ],
+            "phoneNumber": "+4915203594348",
+            "websites": [
+                {
+                    "website": "https://www.futureforelephants.org"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Heike",
+                "emails": [
+                    {
+                        "email": "heike.henderson@futureforelephants.org"
+                    }
+                ],
+                "function": "Vorstand",
+                "lastName": "Henderson Altenstein",
+                "phoneNumber": "+4915203594348"
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-01-31",
+            "totalCount": 27
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Deutscher Naturschutzring (DNR) e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Future for Elephants e.V.",
+        "namedEmployeesPresent": false
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2021-12",
+        "fiscalYearStart": "2021-01",
+        "publicAllowancesPresent": false,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-02-14T16:10:45.000+01:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002137/15687",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a0/bc/191874/Lobbyregister-Detailansicht-R002137-2023-02-14_16-10-45.pdf",
+        "refusedAnything": false,
+        "validFromDate": "2023-02-14T16:10:45.000+01:00",
+        "version": 3
+    },
+    "registerEntryId": 15687,
+    "registerNumber": "R002137"
+}

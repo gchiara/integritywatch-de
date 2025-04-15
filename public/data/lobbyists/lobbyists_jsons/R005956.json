@@ -1,0 +1,664 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-05-09T11:28:23.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2023-05-09T11:28:23.000+02:00",
+        "lastUpdateDate": "2024-06-28T11:48:11.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 39084,
+                "validFromDate": "2024-06-28T11:48:11.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 14948,
+                "validFromDate": "2023-05-09T11:28:23.000+02:00",
+                "validUntilDate": "2024-06-28T11:48:11.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "CLAIM vereint und vernetzt rund 50 muslimische und nichtmuslimische Akteur*innen der Zivilgesellschaft und bildet eine breite gesellschaftliche Allianz gegen antimuslimischen Rassismus sowie Islam- und Muslimfeindlichkeit. CLAIM setzt sich in allen gesellschaftlichen Bereichen f\u00fcr Gleichstellung und Partizipation ein. \r\n\r\nCLAIM schafft seit der Gr\u00fcndung 2017 effektive Strukturen f\u00fcr fachlichen Austausch in Deutschland und Europa und unterst\u00fctzt zivilgesellschaftliche Organisationen und Projekte, die daf\u00fcr notwendigen Kompetenzen weiter auszubauen. Durch Kommunikationsformate und Veranstaltungen schafft CLAIM bundesweite Sichtbarkeit f\u00fcr antimuslimische und rassistische Tendenzen und deren Auswirkungen. Durch wissenschaftliche Impulse und Kurzanalysen f\u00f6rdert CLAIM die evidenzbasierte Forschung zu antimuslimischem Rassismus in Deutschland und Europa und setzt wissenschaftliche und praxisbezogene Impulse. CLAIM arbeitet zudem daran, die zivilgesellschaftliche Datenerfassung zu antimuslimischen Rassismus durch einheitliche Standards bundesweit zu verbessern und F\u00e4lle von \u00dcbergriffen und Diskriminierungen sichtbar zu machen.\r\n\r\nDie Arbeitsschwerpunkte von CLAIM lassen sich wie folgt zusammenfassen:\r\n- Monitoring zu antimuslimischem Rassismus: Verbesserung der Datenlage zu antimuslimisch motivierten \u00dcbergriffen und Diskriminierungen,\r\n- Nationale und internationale Vernetzung von zivilgesellschaftlichen Organisationen, die im Themenfeld Islam- und Muslimfeindlichkeit und antimuslimischer Rassismus aktiv sind,\r\n- Schaffung effektiver Strukturen f\u00fcr fachlichen Austausch und Kooperation in Deutschland und Europa,\r\n- Sensibilisierung verschiedener Zielgruppen zu Islam- und Muslimfeindlichkeit und antimuslimischen Rassismus und den Auswirkungen,\r\n- St\u00e4rkung der Position von Betroffenen und von Akteur*innen der Zivilgesellschaft im Themenfeld,\r\n- Schaffung wissenschaftlicher und praxisbezogener Impulse durch Publikationen, Konferenzen und thematische Arbeitsgruppen. ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_RPI_MIGRATION",
+                "de": "Migration",
+                "en": "Migration and residence"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_RPI_LAWS",
+                "de": "Ausl\u00e4nder- und Aufenthaltsrecht",
+                "en": "Foreign laws"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_HEALTH_CARE",
+                "de": "Pflege",
+                "en": "Health care"
+            },
+            {
+                "code": "FOI_EU_COOPERATION",
+                "de": "Polizeiliche und justizielle Zusammenarbeit in der EU",
+                "en": "Police and judicial cooperation"
+            },
+            {
+                "code": "FOI_IS_VICTIM_PROTECTION",
+                "de": "Opferschutz",
+                "en": "Victim protection"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_SP_DIVERSITY",
+                "de": "Diversit\u00e4tspolitik",
+                "en": "Diversity policy"
+            },
+            {
+                "code": "FOI_RPI_INTEGRATION",
+                "de": "Integration",
+                "en": "Integration"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_SP_CHILDREN",
+                "de": "Kinder- und Jugendpolitik",
+                "en": "Child and youth policy"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_SP_OTHER",
+                "de": "Sonstiges im Bereich \"Gesellschaftspolitik und soziale Gruppen\"",
+                "en": "Other in the field of \"Social politics and social groups\""
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_RPI_OTHER",
+                "de": "Sonstiges im Bereich \"Migration, Fl\u00fcchtlingspolitik und Integration\"",
+                "en": "Other in the field of \"Migration, refugee policy and integration\""
+            },
+            {
+                "code": "FOI_IS_ANTI_EXTREMISM",
+                "de": "Extremismusbek\u00e4mpfung",
+                "en": "Counter extremism"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_RPI_REFUGEE",
+                "de": "Asyl und Fl\u00fcchtlingsschutz",
+                "en": "Asylum and refugee protection"
+            },
+            {
+                "code": "FOI_SP_RELIGION",
+                "de": "Religion/Weltanschauung",
+                "en": "Religion/Belief"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_EP_CHILDHOOD",
+                "de": "Vorschulische Bildung",
+                "en": "Early childhood education"
+            },
+            {
+                "code": "FOI_SP_GENDER",
+                "de": "Geschlechterpolitik",
+                "en": "Gender politics"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.05,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Friedrichstra\u00dfe ",
+            "streetNumber": "206",
+            "type": "NATIONAL",
+            "zipCode": "10969"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@claim-allianz.de"
+                }
+            ],
+            "phoneNumber": "+49288745677",
+            "websites": [
+                {
+                    "website": "www.claim-allianz.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Rima",
+                "lastName": "Hanano",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": false,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+            "en": "Networks, platforms or other forms of collective activity",
+            "legalFormText": "Allianz "
+        },
+        "legalFormType": {
+            "code": "NETWORK_PLATFORM_OR_OTHER",
+            "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+            "en": "Network, platform or other form of collective activity"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Rima",
+                "function": "Leitung CLAIM ",
+                "lastName": "Hanano",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-25",
+            "naturalPersons": 0,
+            "organizations": 51,
+            "totalCount": 51
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "neue deutschen organisationen"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "CLAIM - Allianz gegen Islam- und Muslimfeindlichkeit "
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Als Partner im Kompetenznetzwerks Islam- und Muslimfeindlichkeit b\u00fcndelt CLAIM zusammen mit drei weiteren beteiligten Tr\u00e4gern die fachliche Expertise zum Themenfeld antimuslimischer Rassismus und stellt diese Expertise Bildung, Politik, Verwaltung und Zivilgesellschaft zur Verf\u00fcgung. Das gemeinsame Oberziel ist, antimuslimischen Rassismus in der breiten Gesellschaft abzubauen. \r\n\r\nT\u00e4tigkeitsfelder von CLAIM sind  u. a. Sensibilisierung und Wissenstransfer zum Themenfeld, Kommunikationsma\u00dfnahmen zur Sensibilisierung verschiedener Zielgruppen, Vernetzung und St\u00e4rkung von zivilgesellschaftlichen Akteur*innen im Themenfeld sowie Monitoring und Aggregation von Fallzahlen zu antimuslimischem Rassismus.",
+                "location": "Berlin ",
+                "name": "BMFSFJ im Rahmen des Bundesprogramms Demokratie leben!",
+                "publicAllowanceEuro": {
+                    "from": 530001,
+                    "to": 540000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Das Projekt \"Das ist Antimuslimischer Rassismus. Antimuslimischen Rassismus erkennen und handeln\" beinhaltet drei zentrale Projektbausteine: (1) Sensibilisierungsma\u00dfnahmen f\u00fcr antimuslimischen Rassismus mit Blick auf die breite Gesellschaft (bewegliche Mitte), (2) Sensibilisierungs- und Informationsma\u00dfnahmen f\u00fcr Betroffene von antimuslimischem Rassismus sowie (3) Wissensgenerierung und Wissenstransfer - Zusammenfassung und Transfer der zentralen Ergebnisse und Erkenntnisse zu zielgruppengerechter Kommunikation in Zivilgesellschaft im Themenfeld antimuslimischer Rassismus/Gruppenbezogene Menschenfeindlichkeit.",
+                "location": "Berlin ",
+                "name": "Beauftragte der Bundesregierung f\u00fcr Migration, Fl\u00fcchtlinge und Integration und zugleich die Beauftragte der Bundesregierung f\u00fcr Antirassismus.",
+                "publicAllowanceEuro": {
+                    "from": 280001,
+                    "to": 290000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Zuschuss f\u00fcr das Projekt im Rahmen des \"Demokratie leben!\" Programms: Als Partner im Kompetenznetzwerks Islam- und Muslimfeindlichkeit b\u00fcndelt CLAIM zusammen mit drei weiteren beteiligten Tr\u00e4gern die fachliche Expertise zum Themenfeld antimuslimischer Rassismus und stellt diese Expertise Bildung, Politik, Verwaltung und Zivilgesellschaft zur Verf\u00fcgung. Das gemeinsame Oberziel ist, antimuslimischen Rassismus in der breiten Gesellschaft abzubauen. \r\n\r\nT\u00e4tigkeitsfelder von CLAIM sind  u. a. Sensibilisierung und Wissenstransfer zum Themenfeld, Kommunikationsma\u00dfnahmen zur Sensibilisierung verschiedener Zielgruppen, Vernetzung und St\u00e4rkung von zivilgesellschaftlichen Akteur*innen im Themenfeld sowie Monitoring und Aggregation von Fallzahlen zu antimuslimischem Rassismus.",
+                "location": "Bonn",
+                "name": "Bundeszentrale f\u00fcr politische Bildung",
+                "publicAllowanceEuro": {
+                    "from": 50001,
+                    "to": 60000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Das Modellprojekt \u201cBetroffene und Akteur*innen: Strukturaufbau der Community-basierten Antirassismus-/Antidiskriminierungsberatung\u201d, das zusammen mit drei weiteren Tr\u00e4gern in einem Verbundvorhaben durchgef\u00fchrt wird, versucht die Leerstellen bei Beratungs- und Unterst\u00fctzungsangeboten f\u00fcr Betroffene von Rassismus zu f\u00fcllen oder zumindest zu verringern: durch den Aufbau von Community-basierten Antirassismus-/Antidiskriminierungsberatungsstellen mit qualifizierten Berater*innen aus den von Rassismus betroffenen Communities. Damit sollen f\u00fcr von Rassismus Betroffene vor Ort (i) niedrigschwellige Anlaufstellen geschaffen, (ii) ihre Handlungsf\u00e4higkeit gest\u00e4rkt, (iii) sie \u00fcber ihre Rechte informiert und (iv) nach dem Prinzip des Empowerments ihre gesellschaftliche Teilhabe und Mitbestimmung gef\u00f6rdert werden.",
+                "location": "Berlin",
+                "name": "Beauftragte der Bundesregierung f\u00fcr Migration, Fl\u00fcchtlinge und Integration f\u00fcr Ma\u00dfnahmen zur Bek\u00e4mpfung von Rechtsextremismus und Rassismus",
+                "publicAllowanceEuro": {
+                    "from": 160001,
+                    "to": 170000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R005956/39084",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-28T11:48:11.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/f0/64/323220/Lobbyregister-Detailansicht-R005956-2024-06-28_11-48-11.pdf",
+        "validFromDate": "2024-06-28T11:48:11.000+02:00",
+        "version": 2
+    },
+    "registerEntryId": 39084,
+    "registerNumber": "R005956",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "AGG",
+                        "title": "Allgemeines Gleichbehandlungsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/agg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Seit Jahren weisen Verb\u00e4nde, Institutionen und zivilgesellschaftliche Akteur*innen der antidiskriminierungsrechtlichen Praxis auf bestehende Schutzl\u00fccken des bestehenden Allgemeinen Gleichbehandlungsgesetzes (AGG) sowie Schwierigkeiten f\u00fcr Betroffene bei der Rechtsdurchsetzung\r\nhin und fordern eine Novellierung des Gesetzes. Konkrete Empfehlungen und Vorschl\u00e4ge f\u00fcr die Reformierungdes AGGs wurden vielfach formuliert. Ein aus 100 Organisationen bestehendes zivilgesellschaftliche B\u00fcndnis eerarbeitete eine umfassende Erg\u00e4nzungsliste zur AGG Novellierung und legte in einer gemeinsamen Stellungnahme \u201eMehr Fortschritt wagen hei\u00dft auch mehr Antidiskriminierung wagen!\u201c zentrale \u00c4nderungen f\u00fcr die St\u00e4rkung des AGG vor.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_CHILDREN",
+                        "de": "Kinder- und Jugendpolitik",
+                        "en": "Child and youth policy"
+                    },
+                    {
+                        "code": "FOI_WORK",
+                        "de": "Arbeit und Besch\u00e4ftigung",
+                        "en": "Work and employment"
+                    },
+                    {
+                        "code": "FOI_WORK_RIGHT",
+                        "de": "Arbeitsrecht/Arbeitsbedingungen",
+                        "en": "Work right"
+                    },
+                    {
+                        "code": "FOI_EDUCATION_PARENTING",
+                        "de": "Bildung und Erziehung",
+                        "en": "Education and parenting"
+                    },
+                    {
+                        "code": "FOI_EP_CHILDHOOD",
+                        "de": "Vorschulische Bildung",
+                        "en": "Early childhood education"
+                    },
+                    {
+                        "code": "FOI_EP_SCHOOL",
+                        "de": "Schulische Bildung",
+                        "en": "School education"
+                    },
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_VICTIM_PROTECTION",
+                        "de": "Opferschutz",
+                        "en": "Victim protection"
+                    },
+                    {
+                        "code": "FOI_SP_DIVERSITY",
+                        "de": "Diversit\u00e4tspolitik",
+                        "en": "Diversity policy"
+                    },
+                    {
+                        "code": "FOI_EP_ACADEMIC",
+                        "de": "Hochschulbildung",
+                        "en": "Academic education"
+                    },
+                    {
+                        "code": "FOI_SP_RELIGION",
+                        "de": "Religion/Weltanschauung",
+                        "en": "Religion/Belief"
+                    },
+                    {
+                        "code": "FOI_WORK_POLICY",
+                        "de": "Arbeitsmarkt",
+                        "en": "Job market"
+                    },
+                    {
+                        "code": "FOI_SP_GENDER",
+                        "de": "Geschlechterpolitik",
+                        "en": "Gender politics"
+                    },
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    },
+                    {
+                        "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                        "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                        "en": "Migration, refugee policy and integration"
+                    },
+                    {
+                        "code": "FOI_RPI_MIGRATION",
+                        "de": "Migration",
+                        "en": "Migration and residence"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    },
+                    {
+                        "code": "FOI_EP_WORK",
+                        "de": "Berufliche Bildung",
+                        "en": "Job education"
+                    },
+                    {
+                        "code": "FOI_HEALTH_CARE",
+                        "de": "Pflege",
+                        "en": "Health care"
+                    },
+                    {
+                        "code": "FOI_RPI_INTEGRATION",
+                        "de": "Integration",
+                        "en": "Integration"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/013/2001332.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [],
+                        "printingNumber": "20/1332",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-%C3%A4nderung-des-allgemeinen-gleichbehandlungsgesetzes/286174",
+                        "title": "Entwurf eines Gesetzes zur \u00c4nderung des Allgemeinen Gleichbehandlungsgesetzes"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0008979",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/7c/46/323216/Stellungnahme-Gutachten-SG2406260233.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                        "de": "Bundeskanzleramt (BKAmt)",
+                                        "en": "Bundeskanzleramt (BKAmt)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                        "de": "Bundesministerium der Justiz (BMJ)",
+                                        "en": "Bundesministerium der Justiz (BMJ)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMI",
+                                        "de": "Bundesministerium des Innern und f\u00fcr Heimat (BMI)",
+                                        "en": "Bundesministerium des Innern und f\u00fcr Heimat (BMI)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMAS",
+                                        "de": "Bundesministerium f\u00fcr Arbeit und Soziales (BMAS)",
+                                        "en": "Bundesministerium f\u00fcr Arbeit und Soziales (BMAS)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMFSFJ",
+                                        "de": "Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend (BMFSFJ)",
+                                        "en": "Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend (BMFSFJ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-01"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0008979",
+                        "regulatoryProjectTitle": "Novellierung des Allgemeinen Gleichbehandlungsgesetzes",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Gemeinsame Stellungnahme von 100 Organisationen\r\nB\u00fcndnis AGG Reform-Jetzt!\r\nB\u00fcndnis AGG Reform-Jetzt!\r\nImpressum:\r\nAntidiskriminierungsverband Deutschland (advd)\r\nGesch\u00e4ftsstelle\r\nLychener Str. 76\r\n10437 Berlin\r\nEmail: info@antidiskriminierung.org\r\nwww.antidiskriminierung.org\r\nZentrale Aspekte zur St\u00e4rkung des rechtlichen Diskriminierungsschutzes\r\n1\r\nMehr Fortschritt wagen hei\u00dft auch\r\nmehr Antidiskriminierung wagen!\r\nZentrale Aspekte zur St\u00e4rkung des\r\nrechtlichen Diskriminierungsschutzes\r\nDie 11 wichtigsten \u00c4nderungsforderungen\r\naus zivilgesellschaftlicher Sicht\r\nDer Koalitionsvertrag der Ampel-Koalition legt dar:\r\n\u201eDas Allgemeine Gleichbehandlungsgesetz (AGG) werden wir evaluieren, Schutzl\u00fccken schlie\u00dfen,\r\nden Rechtsschutz verbessern und den Anwendungsbereich ausweiten.\u201c\r\nSeit 2006 ist das Allgemeine Gleichbehandlungsgesetz in Kraft. In 16 Jahren Praxiserfahrung\r\nsind die Schw\u00e4chen des AGGs hinl\u00e4nglich bekannt: Das Gesetz sch\u00fctzt nicht alle von Diskriminierung\r\nBetroffene, es ist nicht anwendbar auf alle Lebensbereiche und die Durchsetzung des\r\nRechts ist f\u00fcr viele und in vielen F\u00e4llen kaum m\u00f6glich.\r\nJede dritte Person in Deutschland hat laut einer repr\u00e4sentativen Umfrage der Antidiskriminierungsstelle\r\ndes Bundes Diskriminierung erlebt 1. Testing-Studien weisen zuverl\u00e4ssig und seit\r\nJahren Diskriminierung auf dem Arbeits- und Wohnungsmarkt nach 2. Seit Jahren melden Antidiskriminierungsberatungsstellen\r\nsteigende Beratungsanfragen von Betroffenen.\r\nDiskriminierung ist eine Realit\u00e4t, die nicht nur f\u00fcr viele Menschen schmerzlich ist, sondern\r\nihre Teilhabe massiv einschr\u00e4nkt und das Gebot der Gleichbehandlung als ein zentrales demokratisches\r\nPrinzip verletzt.\r\nBetroffene von Diskriminierung erwarten, dass Diskriminierung anerkannt wird, dass sie\r\nRechte haben, um gegen Diskriminierung vorzugehen und dass diese Rechte auch durchsetzbar\r\nsind und nicht nur auf dem Papier stehen.\r\nIn den letzten Jahren ist diese Erkenntnis in Politik und Gesellschaft zwar zunehmend gewachsen\r\nund ein Problembewusstsein entstanden, gleichzeitig sind aber notwendige Ma\u00dfnahmen\r\nwie die Weiterentwicklung des rechtlichen Diskriminierungsschutzes bisher nicht umgesetzt\r\nworden.\r\nAls zivilgesellschaftliche Organisationen im Bereich der Antidiskriminierungsarbeit und Communityorganisationen,\r\ndie die Interessen von Diskriminierung betroffener Personen vertreten,\r\nm\u00f6chten wir mit unseren langj\u00e4hrigen Erfahrungen und der Expertise zum Diskriminierungsschutz\r\ndie anstehende AGG-Reform unterst\u00fctzen und fordern eine umfassende\r\nNovellierung des Gesetzes.\r\nMit der hier vorliegenden gemeinsamen Stellungnahme von 100 Organisationen legen wir die\r\naus unserer Sicht verbands\u00fcbergreifenden und zentralen \u00c4nderungen f\u00fcr die St\u00e4rkung des\r\nAGG vor.\r\n1 Diskriminierungserfahrungen in Deutschland - Ergebnisse der Repr\u00e4sentativ- und der Betroffenenbefragung, Antidiskriminierungsstelle\r\ndes Bundes, 2017. https://www.antidiskriminierungsstelle.de/SharedDocs/downloads/DE/publikationen/Expertisen/expertise_diskriminierungserfahrungen_\r\nin_deutschland.html\r\n2 Diskriminierung am Ausbildungsmarkt: Ausma\u00df, Ursachen und Handlungsperspektiven. Studie, Sachverst\u00e4ndigenrat deutscher Stiftungen\r\nf\u00fcr Integration und Migration, 2014, https://www.svr-migration.de/wp-content/uploads/2014/03/SVR-FB_Diskriminierung-am-Ausbildungsmarkt.\r\npdf. Bayrischer Rundfunk Data und Spiegel Online (Hg.) (2017): Hanna und Ismail. https://www.hanna-und-ismail.de/.\r\n2\r\nMehr Fortschritt wagen hei\u00dft auch mehr Antidiskriminierung wagen!\r\nI.\r\nAnwendungsbereich auf \u00f6ffentliche Stellen ausweiten\r\nII.\r\nRechtsdurchsetzung st\u00e4rken u.a. durch Einf\u00fchrung einer Verbandsklage\r\nIII.\r\nDiskriminierungsschutzes f\u00fcr alle Diskriminierungskategorien vereinheitlichen\r\nIV.\r\nDiskriminierungskategorien erweitern\r\nV.\r\nDiskriminierungsformen erweitern\r\nVI.\r\nGeltendmachungsfrist anheben\r\nVII.\r\nBeweislasterleichterung erweitern\r\nVIII.\r\nEntsch\u00e4digungen abschreckend gestalten\r\nIX.\r\nArbeitgebende st\u00e4rker in die Pflicht nehmen\r\nX.\r\nKirchenprivileg an europ\u00e4ische Vorgaben anpassen\r\nXI.\r\nAntidiskriminierungsstelle des Bundes st\u00e4rken\r\nUnsere \u00c4nderungsforderungen\r\nim \u00dcberblick:\r\n\u00dcber die vorliegende Stellungnahme hinaus hat der Antidiskriminierungsverband Deutschland\r\n(advd) mit der Unterst\u00fctzung von 79 Verb\u00e4nden eine Erg\u00e4nzungsliste in einem additiven\r\nVerfahren erstellt, die die umfassenden und aus der zivilgesellschaftlichen Sicht notwendigen,\r\naber nicht abschlie\u00dfenden \u00c4nderungen des AGG im Detail aufzeigt.\r\n3\r\nI. ANWENDUNGSBEREICH AUF \u00d6FFENTLICHE STELLEN\r\nAUSWEITEN\r\nDas AGG unterliegt einer gravierenden Engf\u00fchrung auf die Bereiche Besch\u00e4ftigung und G\u00fcter\r\nund Dienstleistungen. Der Diskriminierungsschutz des AGG greift nicht im Bereich des staatlichen\r\nHandelns. Das AGG bleibt somit hinter den Vorgaben der europ\u00e4ischen Antidiskriminierungsrichtlinien\r\nzur\u00fcck. Hinzu kommt, dass dieser Bereich nicht weniger diskriminierungsrelevant\r\nist.\r\nDas grundgesetzliche Gleichbehandlungsgebot und die entsprechenden Regelungen in den\r\nL\u00e4nderverfassungen und im Sozialgesetzbuch sind in der Praxis nicht ausreichend. Die Gesetze\r\numfassen nicht alle Diskriminierungskategorien und sehen andere Rechtsfolgen vor.\r\nZudem enthalten sie entgegen der Vorgaben der europ\u00e4ischen Richtlinien keine Regelung zur\r\nBeteiligung von Verb\u00e4nden am Rechtsschutz, zur Beweislast, zum Schutz vor Viktimisierungen\r\nund zur Festlegung abschreckender Sanktionen. Es braucht einfachgesetzliche Regelungen,\r\ndie es Betroffenen erm\u00f6glichen, Recht in Anspruch zu nehmen, wenn Diskriminierung auf\r\nstaatliches Handeln zur\u00fcckzuf\u00fchren ist.\r\nDaher muss der Anwendungsbereich des \u00a7 2 AGG dringend auf das Handeln \u00f6ffentlicher Stellen\r\nim Bereich der Bundesgesetzgebungskompetenz erweitert und st\u00e4rker mit dem Behindertengleichstellungsgesetz\r\nder L\u00e4nder verzahnt werden. Auch andere europ\u00e4ische L\u00e4nder,\r\nwie z.B. Frankreich, Schweden, die Niederlande, Ungarn, Lettland, Finnland oder Zypern haben\r\nden europarechtlich gebotenen Diskriminierungsschutz im staatlichen Bereich umgesetzt.\r\nEs ist f\u00fcr B\u00fcrger*innen schlicht nicht nachvollziehbar, warum ein schw\u00e4cherer Diskriminierungsschutz\r\nbesteht, wenn die Diskriminierung vom Staat ausgeht als von privaten Unternehmen.\r\nDabei sollte angesichts der Vorbildfunktion des Staates ein Erst-Recht-Schluss gelten.\r\nDiskriminierungen im Bereich der \u00c4mter und Beh\u00f6rden werden von Betroffenen als besonders\r\ngravierend empfunden, da sie im Namen des Staates erfolgen und in einem Kontext\r\nstattfinden, der von einem hohen Machtgef\u00e4lle und Abh\u00e4ngigkeitsverh\u00e4ltnis gepr\u00e4gt ist.\r\nDie Aufnahme des staatlichen Handelns in das AGG st\u00e4rkt den aktiven Umgang mit Diskriminierung,\r\nerh\u00f6ht die Rechtssicherheit f\u00fcr alle und bef\u00e4higt Betroffene ihre demokratischen\r\nRechte einzufordern.\r\nNeben dieser Erweiterung des Diskriminierungsschutzes auf \u00f6ffentliche Stellen braucht es\r\nproaktive Ma\u00dfnahmen zur Erreichung von Chancengleichheit. Um der Vorbildfunktion staatlicher\r\nAkteur*innen bei der Gleichbehandlung gerecht zu werden, sollten staatliche Institutionen\r\nim AGG an sogenannte \u00f6ffentliche Gleichbehandlungsverpflichtungen3 gebunden werden.\r\nErg\u00e4nzend sind alle L\u00e4nder aufgefordert Landesantidiskriminierungsgesetze zu erlassen, um\r\neinen umfassenden Diskriminierungsschutz auf Landesebene zu gew\u00e4hrleisten. Die verschiedenen\r\nInitiativen beispielsweise in Hessen, NRW oder Baden-W\u00fcrttemberg etc. werden ausdr\u00fccklich\r\nbegr\u00fc\u00dft.\r\n3 Siehe https://www.bug-ev.org/themen/schwerpunkte/dossiers/gleichbehandlungsverpflichtungen-von-staatlichen-institutionen.\r\nZentrale Aspekte zur St\u00e4rkung des rechtlichen Diskriminierungsschutzes\r\nMehr Fortschritt wagen hei\u00dft auch mehr Antidiskriminierung wagen!\r\n4\r\nII. RECHTSDURCHSETZUNG ST\u00c4RKEN U.A. DURCH\r\nEINF\u00dcHRUNG EINER VERBANDSKLAGE\r\nAngesichts der hohen H\u00fcrden beim gerichtlichen Diskriminierungsschutz ist eine St\u00e4rkung\r\nder Rechtsdurchsetzung dringend geboten, damit Betroffene ihr Recht auf Gleichbehandlung\r\neffektiv in Anspruch nehmen k\u00f6nnen. Daf\u00fcr bedarf es verschiedener Ma\u00dfnahmen, allen voran\r\ndie Einf\u00fchrung des kollektiven Rechtschutzes.\r\na) Etablierung eines kollektiven Rechtsschutzes\r\nIn der Praxis der Antidiskriminierungsberatungsstellen zeigt sich, dass nur die wenigsten Betroffenen\r\nvon Diskriminierung klagen. Obwohl sie sich eine Ver\u00e4nderung und die Durchsetzung\r\nihrer Rechte w\u00fcnschen, k\u00f6nnen und wollen viele Betroffene die mit einem langwierigen\r\nGerichtsverfahren einhergehenden zeitlichen, emotionalen und finanziellen Belastungen\r\nnicht tragen. So entscheiden sich viele Betroffene gegen eine Klage. Diskriminierung wird daher\r\nin den meisten individuell erlebten F\u00e4llen nicht sanktioniert. Anders als in vielen EU-Mitgliedsstaaten\r\ngibt es auch keine M\u00f6glichkeit gegen F\u00e4lle von struktureller Diskriminierung\r\nohne individuelle Betroffenheit rechtlich vorzugehen. Es fehlt oftmals an Rechtsprechung, die\r\nSicherheit schafft und das Antidiskriminierungsrecht sch\u00e4rft.\r\nAngesichts der spezifischen Durchsetzungsschw\u00e4che des Antidiskriminierungsrechts sollte\r\nvom Grundsatz des Individualrechtsschutzes abgewichen und kollektiver Rechtsschutz etabliert\r\nwerden. F\u00fcr eine wirksame Durchsetzung des Diskriminierungsverbots sollte daher eine\r\nProzessstandschaft im AGG eingef\u00fchrt werden, die es Antidiskriminierungsverb\u00e4nden erlaubt,\r\ndas Recht einer diskriminierten Person im eigenen Namen geltend zu machen. Daneben\r\nsollte ein Verbandsklagerecht im AGG verankert werden, um dar\u00fcber hinaus als Antidiskriminierungsverband\r\ndie M\u00f6glichkeit zu haben, unabh\u00e4ngig von der individuellen Betroffenheit\r\nEinzelner, einen Versto\u00df gegen das Diskriminierungsverbot gerichtlich feststellen zu lassen.\r\nb) Einrichtung eines Rechtshilfefonds\r\n(Verbands)Klagen erfordern enorme zeitliche, fachliche und finanzielle Ressourcen. Die Frage\r\nder Finanzierung von Klagen und das Prozesskostenrisiko ist entscheidend f\u00fcr die aktive\r\nNutzung von Klagerechten. F\u00fcr Verbandsklagen anerkannte Antidiskriminierungsverb\u00e4nde\r\nm\u00fcssen gen\u00fcgend Mittel zur Verf\u00fcgung stehen, um von ihren neuen M\u00f6glichkeiten zur Bearbeitung\r\nvon Diskriminierung Gebrauch zu machen. Hierf\u00fcr sollte bei der Antidiskriminierungsstelle\r\ndes Bundes ein Rechtshilfefonds eingerichtet werden, der Verb\u00e4nden, die nicht \u00fcber die\r\nerforderlichen Mittel verf\u00fcgen, aber die notwendige Expertise eine Klage zu f\u00fchren aufweisen,\r\nZugang zu einem Fonds er\u00f6ffnet.\r\nc) Auskunftsanspr\u00fcche f\u00fcr Antidiskriminierungsverb\u00e4nde\r\nF\u00fcr Antidiskriminierungsverb\u00e4nde sollte ein Auskunftsrecht gesetzlich verankert werden, um\r\ndie Rechte von Betroffenen zu st\u00e4rken, z.B. in F\u00e4llen algorithmenbasierter Diskriminierung,\r\ndie sich noch schwieriger als analoge Diskriminierungsvorf\u00e4lle nachweisen lassen.\r\nZentrale Aspekte zur St\u00e4rkung des rechtlichen Diskriminierungsschutzes\r\n5\r\nd) Senkung der Anforderungen an Antidiskriminierungsverb\u00e4nde\r\nZivilgesellschaftliche Antidiskriminierungsberatungsstellen4 beraten Betroffene von Diskriminierung\r\nparteilich, vertraulich und kostenlos, da die Beratung durch \u00f6ffentliche, befristete\r\nProjektf\u00f6rderung finanziert wird. Sie unterst\u00fctzen Betroffene darin, sich gegen Diskriminierung\r\nzur Wehr zu setzen und ihr Recht auf Gleichbehandlung einzufordern und leisten damit\r\neinen zentralen Beitrag beim Zugang zum und der Inanspruchnahme von Recht.\r\n\u00a7 23 Abs. 2 und 3 AGG erlauben Antidiskriminierungsverb\u00e4nden die Besorgung von Rechtsdienstleistungen\r\nund die Unterst\u00fctzung von Betroffenen als Beist\u00e4nd*innen in gerichtlichen\r\nVerfahren. Daf\u00fcr ist nach \u00a7 23 Abs. 1 AGG Voraussetzung, dass die Verb\u00e4nde mindestens\r\n75 Mitglieder haben oder einen Zusammenschluss aus 7 Verb\u00e4nden bilden. Diese Anforderungen\r\nerf\u00fcllen viele Antidiskriminierungsberatungsstellen nicht und k\u00f6nnen deswegen z.B.\r\nnicht Betroffene bei Gerichtsverfahren als Beistand unterst\u00fctzen. Das bedeutet weniger Unterst\u00fctzungsm\u00f6glichkeiten\r\nf\u00fcr Betroffene von Diskriminierung. Um mehr Antidiskriminierungsberatungsstellen\r\ndie M\u00f6glichkeit zu geben, Betroffene im Sinne des \u00a7 23 Abs. 2 und 3\r\nAGG zu unterst\u00fctzen, sollten diese Anforderungen gesenkt werden.\r\ne) Gesetzliche Verankerung von Antidiskriminierungsberatung\r\nAktuell gibt es nur in wenigen Bundesl\u00e4ndern ausreichend Antidiskriminierungsberatungsstellen\r\n. Dadurch sind Betroffene mit der erfahrenen Diskriminierung oftmals allein gelassen.\r\nEs muss sichergestellt werden, dass allen Betroffenen von Diskriminierung ein wohnortnahes\r\nBeratungsangebot zur Verf\u00fcgung steht. Die Antidiskriminierungsstelle des Bundes muss gemeinsam\r\nmit den Bundesl\u00e4ndern dieses Angebot aus- und aufbauen und finanziell absichern,\r\nso wie es im Koalitionsvertrag vorgesehen ist.\r\nIm AGG sollte ein gesetzlicher F\u00f6rderauftrag der Antidiskriminierungsstelle des Bundes f\u00fcr\r\ndie nachhaltige Finanzierung von unabh\u00e4ngiger, zivilgesellschaftlicher Antidiskriminierungsberatung\r\nverankert werden.\r\nIII. DISKRIMINIERUNGSSCHUTZ\r\nF\u00dcR ALLE DISKRIMINIERUNGSKATEGORIEN\r\nVEREINHEITLICHEN\r\nGrunds\u00e4tzlich sollte allen Gruppen mit Diskriminierungserfahrungen im AGG gleicher Schutz\r\nzugestanden und der horizontale Ansatz konsequent umgesetzt werden. Diesem Ansatz wird\r\ndas AGG jedoch im Zivilrechtsverkehr nicht gerecht, insoweit das Diskriminierungsverbot nur\r\nf\u00fcr rassistische Diskriminierung umfassend gilt und hinsichtlich anderer Kategorien auf Massengesch\u00e4fte\r\nbeschr\u00e4nkt ist.\r\nDie Hierarchisierung der Diskriminierungsgr\u00fcnde muss aufgehoben werden, so dass alle Diskriminierungskategorien\r\ndes (zuk\u00fcnftig erweiterten) \u00a7 1 gleichen Diskriminierungsschutz genie\u00dfen.\r\n4 Bartel, Kalpaka, Auf dem Weg zu einer fl\u00e4chendeckenden Antidiskriminierungsberatung in Deutschland.\r\nGut beraten!, Studie im Auftrag der ADS, 2022 https://www.antidiskriminierungsstelle.de/SharedDocs/downloads/DE/publikationen/\r\nExpertisen/gut_beraten_flaechendeckende_antidiskrimberatung.pdf;jsessionid=9607A5629D50198A69A8B526FD45DF95.intranet242?__\r\nblob=publicationFile&v=6\r\nMehr Fortschritt wagen hei\u00dft auch mehr Antidiskriminierung wagen!\r\n6\r\nIV. DISKRIMINIERUNGSKATEGORIEN ERWEITERN\r\nBestehende Schutzl\u00fccken m\u00fcssen durch die Aufnahme weiterer bzw. die Konkretisierung bestehender\r\nDiskriminierungskategorien im AGG geschlossen werden. Gleichzeitig sollte der\r\nKatalog der Diskriminierungskategorien nicht abschlie\u00dfend gestaltet sein.\r\n1. Aufnahme weiterer Diskriminierungskategorien\r\nBislang deckt das AGG sechs Diskriminierungskategorien ab, die die entsprechenden\r\nEU-Richtlinien dezidiert vorgeben. Die Diskriminierungsrealit\u00e4t zeigt jedoch, dass Menschen\r\naufgrund weiterer Kategorien Diskriminierung erfahren. Eine Novellierung des AGGs muss\r\ndem Rechnung tragen und allen von Diskriminierung betroffenen Personengruppen Schutz\r\nbieten. Daher m\u00fcssen die Diskriminierungskategorien in \u00a7 1 AGG mit den folgenden Kategorien\r\nerg\u00e4nzt werden:\r\na) Sozialer Status\r\nMenschen erleben aufgrund ihres sozialen Status unterschiedliche Formen von Diskriminierung\r\nund Ausgrenzung in der Gesellschaft. So werden z.B. Geringverdienende, Erwerbssuchende,\r\n\u00dcberschuldete, Alleinerziehende, Wohnungslose und bestimmte Berufsgruppen,\r\nwie Sexarbeiter*innen stigmatisiert, benachteiligt und in ihrer gesellschaftlichen Partizipation\r\nbeeintr\u00e4chtigt. Ebenso erleben Menschen Diskriminierung aufgrund ihrer sozialen Herkunft,\r\ndie sich auf den vererbten sozialen Status bezieht. Dieser hat einen starken Einfluss auf\r\ndie Zugangsm\u00f6glichkeiten zu Bildung und Arbeit und wird als zus\u00e4tzliches Klassifikationsindiz\r\nzur Bestimmung des sozialen Status herangezogen. Um betroffene Menschen im Diskriminierungsfall\r\nzu sch\u00fctzen, muss die Kategorie \u201esozialer Status\u201c als eine zentrale Dimension sozialer\r\nUngleichheit in den Katalog des AGG aufgenommen werden.\r\nb) Sprache\r\nDiskriminierungen beispielsweise aufgrund von fehlenden deutschen Sprachkenntnissen, einem\r\nAkzent oder Analphabetismus f\u00fchren zu gesellschaftlichen Ausschl\u00fcssen, z.B. bei \u00fcberh\u00f6hten\r\nAnforderungen an Deutschkenntnisse von Besch\u00e4ftigten. Eine solche Diskriminierung\r\nwird nur mittelbar \u00fcber die Kategorie der ethnischen Herkunft erfasst und ist somit nur bedingt\r\ndurch das AGG gesch\u00fctzt. Um die Schutzl\u00fccke zu schlie\u00dfen und Rechtssicherheit zu\r\nschaffen, muss der Diskriminierungsgrund \u201eSprache\u201c zus\u00e4tzlich in den Katalog aufgenommen\r\nwerden, so dass in solchen F\u00e4llen das Vorliegen einer unmittelbaren Diskriminierung geltend\r\ngemacht werden kann.\r\nc) Staatsangeh\u00f6rigkeit\r\nStaatsangeh\u00f6rigkeit ist in \u00a7 1 AGG als Kategorie nicht aufgelistet. In einigen F\u00e4llen aber werden\r\nDiskriminierungen aufgrund der Staatsangeh\u00f6rigkeit trotzdem vom Schutzbereich des\r\nAGG erfasst, wenn in Wirklichkeit die der Staatsangeh\u00f6rigkeit zugeschriebenen Eigenschaften\r\n(Erscheinungsbild, Verhaltensmuster o.\u00c4.) im Vordergrund stehen und es demnach in der\r\nSache um rassistische Zuschreibungen geht. Daneben gibt es Konstellationen, in welchen die\r\nDiskriminierungskategorien \u201eethnische Herkunft\u201c und \u201eRasse\u201c aber nicht greifen, n\u00e4mlich in-\r\nF\u00e4llen, in denen der Ankn\u00fcpfungspunkt einer Ungleichbehandlung tats\u00e4chlich die Staatsangeh\u00f6rigkeit\r\noder das Geburtsland darstellt. Diskriminierungen, die ausschlie\u00dflich an jene EiZentrale\r\nAspekte zur St\u00e4rkung des rechtlichen Diskriminierungsschutzes\r\n7\r\ngenschaften ankn\u00fcpfen, sind nicht umfasst. Um diese Schutzl\u00fccke zu schlie\u00dfen und um nicht\r\nauf die in der Praxis herausfordernde Ermittlung des wahren Sinngehalts der Diskriminierung\r\nangewiesen zu sein, muss zur Erreichung eines effektiven Rechtsschutzes die Staatsangeh\u00f6rigkeit\r\nin den Katalog aufgenommen werden.\r\nd) Chronische Krankheit\r\n\u201eChronische Krankheit\u201c ist im AGG nicht als eigener Diskriminierungsgrund aufgef\u00fchrt. Bestimmte\r\nchronische Krankheiten werden nach der Rechtsprechung des EuGH (EuGH, Urteil\r\nvom 11.04.2013, AZ: C-335/11 und C 337/11) und der daran anlehnenden BAG-Definition\r\n(vgl. BAG, Urteil vom 19.12.2013, 6 AZR 190/12) als Behinderungen erfasst. Danach sind\r\nauch chronische Krankheiten als Behinderung im Sinne des AGG anzusehen, wenn die Beeintr\u00e4chtigung\r\nunter den jeweils geltenden gesellschaftlichen Gegebenheiten die Teilhabe beschr\u00e4nkt.\r\nIn der Praxis ist es f\u00fcr die von Diskriminierung Betroffenen oftmals schwierig, den\r\nvon der Rechtsprechung vorgegebenen Rahmen zu erkennen und ihre Rechte entsprechend\r\nwahrzunehmen. Aus Klarstellungsgr\u00fcnden und um Schutzl\u00fccken f\u00fcr chronisch Kranke zu vermeiden,\r\nmuss die Kategorie chronische Erkrankung neben dem der Behinderung in den Katalog\r\naufgenommen werden.\r\ne) K\u00f6rpergewicht\r\n\u00dcber die sechs im AGG genannten Kategorien hinaus gaben die meisten von Diskriminierung\r\nBetroffenen in einer vom Presse- und Informationsamt der Bundesregierung (BPA) beauftragten\r\nStudie von 2019 an, dass sie anhand \u00e4u\u00dferlicher Merkmale Diskriminierung erfahren\r\nhaben, haupts\u00e4chlich anhand ihres K\u00f6rpergewichts. Die Kategorie \u201eBehinderung\u201c bietet vor\r\nGewichtsdiskriminierung in der Regel keinen Schutz, da die allermeisten Menschen mit hohem\r\nGewicht keine daf\u00fcr ausreichende k\u00f6rperliche Einschr\u00e4nkung haben. Um diese L\u00fccke zu\r\nschlie\u00dfen, muss K\u00f6rpergewicht mit in den Katalog des \u00a7 1 AGG aufgenommen werden.\r\nf) Famili\u00e4re F\u00fcrsorgeverantwortung\r\nDiskriminierungserfahrungen im Kontext von famili\u00e4rer F\u00fcrsorgeverantwortung stehen in engem\r\nZusammenhang mit den Rahmenbedingungen f\u00fcr die Vereinbarkeit von Beruf und Familie\r\nbzw. Pflege. Eltern und Pflegepersonen erleben Diskriminierung im Arbeitskontext in\r\nmehreren Bereichen. So erleben (werdende) Eltern insbesondere bei der Bekanntgabe der\r\nSchwangerschaft und sp\u00e4ter bei der Wiederaufnahme der beruflichen T\u00e4tigkeit, nach Beendigung\r\nder Elternzeit, Diskriminierung durch die Arbeit gebende Seite, sei es durch abwertende\r\nKommentare oder auch Entziehung von Verantwortlichkeiten nach der R\u00fcckkehr aus der Elternzeit.\r\nEine \u00e4hnliche Form von Diskriminierung erleben Besch\u00e4ftigte, die Angeh\u00f6rige pflegen.\r\nDas Ma\u00dfregelungsverbot in \u00a7 612 a BGB und \u00a7 8 PflegeZG ist nicht gleichwertig mit den\r\nSchutzvorschriften des AGG. Um hier betroffene Eltern und Pflegepersonen im Diskriminierungsfall\r\nzu st\u00e4rken, muss das Merkmal \u201efamili\u00e4re F\u00fcrsorgeverantwortung\u201c als Schutzgrund\r\nin \u00a7 1 AGG aufgenommen werden, was ihnen im Falle der Versagung die M\u00f6glichkeit er\u00f6ffnet\r\neine Entsch\u00e4digung und Schadensersatz einzufordern.\r\ng) Offener Katalog von Diskriminierungskategorien\r\nInternationale Konventionen, wie beispielsweise die Europ\u00e4ische Menschenrechtskonvention\r\n(Art. 14), arbeiten bei der Auflistung von Diskriminierungskategorien in der Regel mit einer\r\nnicht abgeschlossenen Liste. Benannte Diskriminierungskategorien werden mit Begriffen wie\r\n\u201eetwa nach\u201c oder \u201einsbesondere\u201c eingeleitet und damit nur beispielhaft aufgef\u00fchrt. Im AGG\r\nMehr Fortschritt wagen hei\u00dft auch mehr Antidiskriminierung wagen!\r\n8\r\nwiederum sind sechs Diskriminierungskategorien abschlie\u00dfend geregelt. Ein solch abschlie\u00dfender\r\nKatalog birgt das Risiko, gesellschaftliche Entwicklungen und Grenzf\u00e4lle von Kategorisierung\r\nund Diskriminierung nicht zu erfassen.\r\nEs ist deshalb erforderlich, um gesellschaftlichen Entwicklungen Rechnung zu tragen, einen\r\noffenen Katalog im AGG einzuf\u00fchren. So best\u00fcnde f\u00fcr Gerichte die M\u00f6glichkeit, Kategorien\r\nvon Diskriminierung, die nicht im AGG dezidiert benannt sind, trotzdem einer Pr\u00fcfung zu unterziehen\r\nund zu einer Einsch\u00e4tzung bez\u00fcglich eines Diskriminierungstatbestandes zu gelangen.\r\n2. KONKRETISIERUNG DER IN \u00a7 1 AUFGEF\u00dcHRTEN\r\nKATEGORIEN\r\na) \u201eRasse\u201c\r\nSchon seit L\u00e4ngerem wird von unterschiedlichen zivilgesellschaftlichen Akteur*innen und\r\nRechtsexpert*innen die Streichung des historisch belasteten Begriffs \u201eRasse\u201d aus dem\r\nGrundgesetz, den Landesverfassungen und allen Gesetzestexten gefordert. Vorgeschlagen\r\nwird, den Begriff durch die Termini \u201erassistisch\u201d, \u201erassistische Diskriminierung\u201c oder \u201eaus rassistischen\r\nGr\u00fcnden\u201c zu ersetzen.\r\nBei der Umsetzung muss sichergestellt werden, dass das Schutzniveau und die M\u00f6glichkeiten\r\nder Rechtsdurchsetzung dabei nicht verschlechtert werden d\u00fcrfen. Deshalb sollten auch die\r\nantidiskriminierungsrechtlichen Argumente einiger Expert*innen f\u00fcr eine Beibehaltung des\r\nBegriffs bei einer \u00c4nderung bedacht werden.\r\nb) Geschlecht einschl. der Geschlechtsidentit\u00e4t\r\nBei Geschlecht besteht trotz der insoweit eindeutigen verfassungsgerichtlichen Rechtsprechung\r\nzur Geschlechtsidentit\u00e4t (vgl. BVerfG, \u201eDritte-Option\u201c, Beschluss v. 10.10.2017 \u2013 1 BvR\r\n2019/16) bei Instanzengerichten und Beh\u00f6rden zum Teil nach wie vor Unsicherheit, ob auch\r\ntrans*, inter* und nicht-bin\u00e4re Personen aufgrund der Geschlechtsidentit\u00e4t vor Geschlechtsdiskriminierung\r\nerfasst sind. So werden Diskriminierungen von trans*, inter* und nicht-bin\u00e4ren\r\nMenschen entweder unter der Kategorie der sexuellen Identit\u00e4t oder dem Geschlecht gefasst.\r\nEs sollte daher zur Klarstellung \u201cGeschlechtsidentit\u00e4t\u201d explizit in die Begr\u00fcndung des\r\nAGG aufgenommen und entsprechend erl\u00e4utert werden.\r\nc) Alter\r\nDer Schutzbereich \u201eAlter\u201c bezieht sich im AGG sowie in der RL 2000/78/EG auf alle Lebensalter\r\nund soll sowohl junge wie auch \u00e4ltere Personen vor einer Diskriminierung sch\u00fctzen. Da der\r\nBegriff \u201eAlter\u201c missverstanden werden kann im Sinne des ausschlie\u00dflichen Schutzes \u00e4lterer\r\noder alter Menschen vor Diskriminierung, sollte aus Gr\u00fcnden der Klarstellung die gesch\u00fctzte\r\nKategorie statt \u201cAlter\u201d als \u201eLebensalter\u201c bezeichnet werden.\r\nZentrale Aspekte zur St\u00e4rkung des rechtlichen Diskriminierungsschutzes\r\n9\r\nV. DISKRIMINIERUNGSFORMEN ERWEITERN\r\nDie in \u00a7 3 AGG genannten f\u00fcnf Diskriminierungsformen sind in der Praxis nicht ausreichend,\r\num alle Diskriminierungen zu erfassen und m\u00fcssen daher erweitert werden.\r\na) Versagung von \u201eangemessenen Vorkehrungen\u201c und der \u201eBarrierefreiheit\u201c als\r\nForm von Diskriminierung definieren\r\nDie Barrierefreiheit zielt darauf ab, durch die Einhaltung von Kriterien zur Barrierefreiheit, einer\r\nVielzahl von Menschen mit Behinderungen den Zugang bspw. zu einer Dienstleistung zu\r\nerm\u00f6glichen. Angemessene Vorkehrungen wiederum sollen Menschen mit Behinderungen im\r\nEinzelfall die Hilfestellung zukommen zu lassen, die in der konkreten Situation ben\u00f6tigt wird.\r\nDas BGG definiert sowohl die Vorenthaltung von Barrierefreiheit als auch die Vorenthaltung\r\nvon angemessenen Vorkehrungen jeweils getrennt als Benachteiligung (vgl. \u00a7 7 Abs. 1 und 2\r\nBGG).\r\nMenschen mit Behinderungen sollten unabh\u00e4ngig vom Grad ihrer Behinderung Barrierefreiheit\r\nam Arbeitsplatz und bei Alltagsgesch\u00e4ften verlangen k\u00f6nnen. Um umfassenden Schutz\r\nf\u00fcr betroffene Menschen zu gew\u00e4hrleisten, muss dieser Anspruch f\u00fcr alle Menschen mit Behinderungen\r\nim Arbeitsleben und gleicherma\u00dfen bei Alltagsgesch\u00e4ften gelten. Dies ergibt\r\nsich rechtlich zwingend auch aus den Bestimmungen der UN-Behindertenrechtskonvention\r\nund muss demnach im AGG ausdr\u00fccklich verankert werden. So m\u00fcssen Betroffene gegen Arbeitgeber*\r\ninnen als auch gegen Anbieter*innen von Waren und Dienstleistungen Anspr\u00fcche\r\nauf Schadensersatz und Entsch\u00e4digung geltend machen k\u00f6nnen, wenn der Arbeitsplatz nicht\r\nbarrierefrei zu Verf\u00fcgung steht bzw. der Zugang zu Waren und Dienstleistungen nicht barrierefrei\r\ngestaltet wird. Die Versagung von Barrierefreiheit muss daher als eine Form von Diskriminierung\r\nim AGG aufgenommen werden.\r\nGleicherma\u00dfen sollten Arbeitgeber*innen und Anbieter*innen von Dienstleistungen verpflichtet\r\nwerden, angemessene Vorkehrungen zu treffen. Die Versagung dieser Vorkehrungen ist\r\nebenfalls als Diskriminierungstatbestand zu normieren. Bei der Definition der angemessenen\r\nVorkehrungen ist an \u00a7 7 Abs. 2 Behindertengleichstellungsgesetz (BGG) anzukn\u00fcpfen.\r\nb) Schutz vor sexueller Bel\u00e4stigung auch im Zivilrechtsverkehr sicherstellen\r\nAuch im Zivilrechtsverkehr erleben Betroffene sexuelle Bel\u00e4stigung und k\u00f6nnen sich bislang\r\ndagegen nicht auf der Grundlage des AGG zur Wehr setzen. Daher muss die Einschr\u00e4nkung\r\nder sexuellen Bel\u00e4stigung auf den Bereich Besch\u00e4ftigung im AGG gestrichen werden.\r\nc) Erweiterung um die assoziierte Diskriminierung\r\nDer im AGG zugrunde gelegte Diskriminierungsbegriff muss an die Rechtsprechung des EuGH\r\nangepasst und um die assoziierte Diskriminierung erweitert werden, damit auch F\u00e4lle drittbezogener\r\nDiskriminierung vom AGG erfasst sind. So k\u00f6nnen Personen, die ein enges N\u00e4heverh\u00e4ltnis\r\nzu der von Diskriminierung betroffenen Person haben, wie dies in der Regel der Fall\r\nist bei Elternschaft, Lebenspartner*innen, Geschwistern und Kindern, ebenso Anspr\u00fcche auf\r\nSchadensersatz- und Entsch\u00e4digungsanspr\u00fcche geltend machen, auch wenn sie nicht selbst\r\naufgrund einer AGG-Kategorie Diskriminierung erfahren haben. Dieses Konzept der assoziierten\r\nDiskriminierung ist durch die Rechtsprechung des EuGH vom Diskriminierungsverbot\r\numfasst (vgl. EuGH, Entscheidung vom 17. Juli 2008, C-303/06) und sollte in diesem Sinne im\r\nAGG verankert werden.\r\nMehr Fortschritt wagen hei\u00dft auch mehr Antidiskriminierung wagen!\r\n10\r\nVI. GELTENDMACHUNGSFRIST ANHEBEN\r\nDie sehr kurze Geltendmachungsfrist von 2 Monaten im AGG hat in der Vergangenheit ma\u00dfgeblich\r\ndazu beigetragen, die Rechtsdurchsetzung zu behindern bzw. zu verunm\u00f6glichen. Die\r\nvorherige Bundesregierung hatte bereits in der letzten Legislatur beschlossen, die Frist des\r\nAGG von 2 Monaten auf 6 Monate zu verl\u00e4ngern. Die Frist sollte jedoch auf mindestens 12 Monate\r\nangehoben werden. Da die Geltendmachung von Schadensersatz- und Entsch\u00e4digungsanspr\u00fcchen\r\nin der Regel eskalierende Wirkung hat, beispielsweise bei der Bearbeitung einer\r\nBeschwerde durch die innerbetriebliche Beschwerdestelle, aber diese fristwahrend erfolgen\r\nmuss damit die Anspr\u00fcche nicht erl\u00f6schen, w\u00fcrde bei einer Frist von 12 Monaten auch mehr\r\nRaum bleiben, um au\u00dfergerichtliche L\u00f6sungen zu finden.\r\nVII. BEWEISLASTERLEICHTERUNG ERWEITERN\r\nDer Nachweis von beweiskr\u00e4ftigen Indizien stellt ein zentrales Problem bei der gerichtlichen\r\nDurchsetzung des Antidiskriminierungsrechts dar. Die Beweislasterleichterung des \u00a7 22 AGG\r\nsollte daher erweitert werden. Es muss insoweit klargestellt werden, dass sich die Beweiserleichterung\r\nnicht allein auf die Kausalit\u00e4t zwischen einer Diskriminierung und einem in \u00a7 1 AGG\r\ngenannten Grund bezieht, sondern auch die Darlegung der Benachteiligung selbst umfasst.\r\nDaneben bed\u00fcrfen die Anforderungen, die an den Indizienbeweis zu stellen sind, einer Konkretisierung.\r\nSo sollten z.B. die Parteivernehmung, die Nichteinrichtung einer innerbetrieblichen\r\nBeschwerdestelle, die Ergebnisse von Testings und Statistiken zul\u00e4ssige und im Einzelfall\r\nausreichende Beweismittel sein. Schlie\u00dflich sollte die Beweislast im Arbeitsrecht durch\r\neinen Auskunftsanspruch erg\u00e4nzt werden, um abgelehnten Bewerber*innen aus ihrer Beweisnot\r\nzu helfen.\r\nDar\u00fcber hinaus sollte klargestellt werden, dass die nach \u00a7 20 AGG zul\u00e4ssige unterschiedliche\r\nBehandlung bei der Vermeidung von Gefahren einer erh\u00f6hten Darlegungslast durch Anbietende\r\nvon Waren und Dienstleistungen unterliegen sollte, um willk\u00fcrlichen Missbrauch zu vermeiden.\r\nVIII. ENTSCH\u00c4DIGUNGEN ABSCHRECKEND GESTALTEN\r\nDie europarechtlichen Antidiskriminierungsrichtlinien fordern, dass die Sanktionen bei Diskriminierung\r\nwirksam verh\u00e4ltnism\u00e4\u00dfig und abschreckend sein m\u00fcssen. Die Rechtswirklichkeit\r\nzeigt jedoch, dass die in der Praxis aufgerufenen Entsch\u00e4digungssummen weder als wirksam\r\nnoch als abschreckend bewertet werden k\u00f6nnen. Um die unionsrechtlichen Vorgaben durchzusetzen,\r\nm\u00fcssen die Erfordernisse der Wirksamkeit und der abschreckenden Wirkung der\r\nSanktionen ausdr\u00fccklich im Gesetz benannt werden.\r\nIn diesem Sinne ist auch die Beschr\u00e4nkung der Entsch\u00e4digung auf drei Monatsgeh\u00e4lter in \u00a7 15\r\nAbs. 2 Satz 2 AGG ersatzlos zu streichen.\r\nSchlie\u00dflich sollte im allgemeinen Zivilrecht als Inhalt des Beseitigungsanspruchs nach \u00a7 21\r\nAbs. 1 Satz 1 AGG in den F\u00e4llen ein Kontrahierungszwang als Rechtsfolge vorgesehen werden,\r\nin denen von einem wirksamen Schutz nur gesprochen werden kann, wenn der Zugang\r\nzur vertraglichen Leistung selbst erm\u00f6glicht wird, statt die betroffene Person allein auf einen\r\nSchadensersatz- oder Entsch\u00e4digungsanspruch zu verweisen.\r\nZentrale Aspekte zur St\u00e4rkung des rechtlichen Diskriminierungsschutzes\r\n11\r\nIX. ARBEITGEBENDE ST\u00c4RKER IN DIE PFLICHT NEHMEN\r\nDie \u00a7\u00a7 11, 12 und 13 AGG sind grundlegende Eckpfeiler der Verpflichtungen f\u00fcr Arbeitgebende\r\nzum Diskriminierungsschutz. Der Bereich der Besch\u00e4ftigung ist einerseits diskriminierungsanf\u00e4llig\r\nund andererseits kann Diskriminierung innerhalb der Betriebe und Institutionen niedrigschwellig\r\nbearbeitet werden. Das AGG gibt Arbeitgebenden kaum Rahmenbedingungen\r\nvor, wie diese Verpflichtungen umzusetzen sind. Die Umsetzung der vorgegebenen Verpflichtungen\r\nsind bislang nur unzureichend erfolgt. Dies stellt eine Schwachstelle des Gesetzes dar\r\nund manifestiert sich in der Tatsache, dass auch nach 16 Jahren AGG kaum innerbetriebliche\r\nBeschwerdestellen eingerichtet sind bzw. effektive Beschwerdeverfahren existieren. Daher\r\nist es dringend geboten, die Rahmenbedingungen f\u00fcr Arbeitgebendenverpflichtungen und die\r\ninnerbetriebliche Beschwerdestelle im AGG klarer abzustecken.\r\na) Spezifizierung der Arbeitgebendenverpflichtungen\r\nDie in \u00a7 12 vorgegebenen Arbeitgebendenverpflichtungen zum Schutz vor Diskriminierung,\r\nwie die Bekanntmachungs-, Aufkl\u00e4rungs- und Informationspflicht und die Pflicht, bei Feststellung\r\nvon Diskriminierungen Ma\u00dfnahmen zu ergreifen, m\u00fcssen st\u00e4rker spezifiziert werden.\r\nDar\u00fcber hinaus muss die Pflicht der Arbeitgebenden, eine Barrierefreiheit zu gew\u00e4hrleisten\r\nund bei Bedarf angemessene Vorkehrungen f\u00fcr alle Menschen mit Behinderung ausdr\u00fccklich\r\nals Arbeitgebendenverpflichtung im \u00a7 12 aufgenommen werden.\r\nb) Niedrigschwelliger Zugang zum Beschwerdemechanismus f\u00fcr alle\r\nBesch\u00e4ftigten\r\nIm Ergebnis muss allen Besch\u00e4ftigten, die von Diskriminierung betroffen sind, ein niedrigschwelliger\r\nZugang zu und eine kompetente Unterst\u00fctzung durch ein innerbetriebliches Beschwerdeverfahren\r\nerm\u00f6glicht werden. Um dies zu erreichen, sollte die Erarbeitung eines\r\nkonkreten Beschwerdeablaufes bzw. einer Beschwerdeverfahrensordnung als Mindeststandards\r\nf\u00fcr innerbetriebliche Beschwerdestellen von Seiten des Gesetzgebers eingefordert\r\nund im AGG verankert werden.\r\nc) Einbindung von betriebsinternen Gremien\r\nDas AGG sollte zugrunde legen, dass beim Aufbau der innerbetrieblichen Beschwerdestelle\r\nnach \u00a7 13 AGG betriebsinterne Gremien, wie der Betriebs- oder Personalrat, aktiv eingebunden\r\nwerden m\u00fcssen.\r\nd) Sanktionierung bei Nichteinrichtung einer Beschwerdestelle\r\nBislang bestehen keine Kontrollmechanismen, um die Verpflichtung zur Einrichtung einer Beschwerdestelle\r\nzu pr\u00fcfen. Die Nichteinrichtung einer effektiven innerbetrieblichen Beschwerdestelle\r\nsollte \u00fcberpr\u00fcft und sanktioniert werden k\u00f6nnen, um Arbeitgebende zum Handeln zu\r\nbewegen.\r\nMehr Fortschritt wagen hei\u00dft auch mehr Antidiskriminierung wagen!\r\n12\r\nX. KIRCHENPRIVILEG DEN EUROP\u00c4ISCHEN VORGABEN\r\nANPASSEN\r\nIn \u00a7 9 AGG wird konfessionellen Arbeitgebenden eine weitgehende Autonomie im\r\narbeitsrechtlichen Kontext einger\u00e4umt. Die Anforderungen aus der Richtlinie 2000/78/EG\r\nan konfessionelle Arbeitgebende m\u00fcssen im AGG Ber\u00fccksichtigung finden.\r\nDie Zugeh\u00f6rigkeit zu einer Religionsgemeinschaft muss laut Europ\u00e4ischem Gerichtshof\r\n(EuGH, Urt. v. 17.04.2018, Az. C-414/16) \u201eeine wesentliche, rechtm\u00e4\u00dfige und gerechtfertigte\r\nberufliche Anforderung\u201c f\u00fcr die Aus\u00fcbung der T\u00e4tigkeit darstellen. Da sich dies aus \u00a7 8 AGG\r\nbereits ergibt, sollte der \u00a7 9 gestrichen werden.\r\nXI. ANTIDISKRIMINIERUNGSSTELLE DES BUNDES\r\nST\u00c4RKEN\r\nDie Antidiskriminierungsstelle des Bundes ist die nationale Gleichbehandlungsstelle in\r\nDeutschland und damit der zentrale staatliche Akteur, wenn es darum geht vor Diskriminierung\r\nzu sch\u00fctzen und diese zu bek\u00e4mpfen. Die Mitgliedstaaten der Europ\u00e4ischen Union\r\nkennen verschiedene Arten der nationalen Antidiskriminierungsstellen. Einige sind vorgerichtliche\r\nInstanzen, die Diskriminierungsvorf\u00e4lle pr\u00fcfen, sanktionieren und pr\u00e4ventiv in die\r\nPolitik wirken k\u00f6nnen. Andere sind \u00fcberwiegend informierende und beratende Anlaufstellen\r\nf\u00fcr Menschen, die Diskriminierung erlebt haben. Die Antidiskriminierungsstelle des Bundes\r\nf\u00e4llt in die letztgenannte und damit schw\u00e4chere Kategorie, da sie \u00fcber zu wenige Befugnisse\r\nverf\u00fcgt. Zudem ist die ADS nur unzureichend mit Personal und Sachmitteln ausgestattet, um\r\nihrer Rolle gerecht werden zu k\u00f6nnen.\r\nBereits im April 2022 hat die Bundesregierung gesetzliche \u00c4nderungen in Abschnitt 6 des\r\nAGG vorgenommen, die die Leitung der ADS betreffen. Nun m\u00fcssen im n\u00e4chsten Schritt die\r\nverbindlichen Anforderungen an das Mandat, die Kompetenzen, die Unabh\u00e4ngigkeit und die\r\nRessourcen der Antidiskriminierungsstelle des Bundes entsprechend der Empfehlungen der\r\nEurop\u00e4ischen Kommission gegen Rassismus und Intoleranz (ECRI)5 , und dem am 7.12.2022\r\nver\u00f6ffentlichten Richtlinienvorschlag f\u00fcr bindende Standards f\u00fcr nationale Gleichbehandlungsstellen\r\nder Europ\u00e4ische Kommission6 umgesetzt werden.\r\nHierzu sollte eine sanktionsbewehrte Beschwerdefunktion im Bereich des Zugangs zu Waren\r\nund Dienstleistungen und eine Kontrollfunktion (im Besondern bei \u00a7 11, 12 und 13) geh\u00f6ren.\r\nDie Antidiskriminierungsstelle des Bundes sollte als oberste Bundesbeh\u00f6rde strukturiert\r\nwerden. Sie sollte zum Motor f\u00fcr die Entwicklung und Umsetzung von \u00f6ffentlichen Gleichbehandlungsverpflichtungen\r\nwerden.\r\nAu\u00dferdem sollte die Antidiskriminierungsstelle des Bundes die M\u00f6glichkeit auf ein eigenes\r\nKlagerecht erhalten, Amicus-Curiae-Gutachten erstellen und Gleichbehandlungsaudits entwickeln,\r\nanbieten und unterst\u00fctzen. Hierf\u00fcr sind die notwendigen Mittel und die personelle\r\nAusstattung der Stelle abzusichern.\r\n5 https://www.coe.int/en/web/european-commission-against-racism-and-intolerance\r\n6 https://ec.europa.eu/commission/presscorner/detail/de/ip_22_7507"
+                        }
+                    }
+                ],
+                "title": "Novellierung des Allgemeinen Gleichbehandlungsgesetzes"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/7c/46/323216/Stellungnahme-Gutachten-SG2406260233.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                "de": "Bundeskanzleramt (BKAmt)",
+                                "en": "Bundeskanzleramt (BKAmt)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                "de": "Bundesministerium der Justiz (BMJ)",
+                                "en": "Bundesministerium der Justiz (BMJ)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMI",
+                                "de": "Bundesministerium des Innern und f\u00fcr Heimat (BMI)",
+                                "en": "Bundesministerium des Innern und f\u00fcr Heimat (BMI)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMAS",
+                                "de": "Bundesministerium f\u00fcr Arbeit und Soziales (BMAS)",
+                                "en": "Bundesministerium f\u00fcr Arbeit und Soziales (BMAS)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMFSFJ",
+                                "de": "Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend (BMFSFJ)",
+                                "en": "Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend (BMFSFJ)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-01"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0008979",
+                "regulatoryProjectTitle": "Novellierung des Allgemeinen Gleichbehandlungsgesetzes",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Gemeinsame Stellungnahme von 100 Organisationen\r\nB\u00fcndnis AGG Reform-Jetzt!\r\nB\u00fcndnis AGG Reform-Jetzt!\r\nImpressum:\r\nAntidiskriminierungsverband Deutschland (advd)\r\nGesch\u00e4ftsstelle\r\nLychener Str. 76\r\n10437 Berlin\r\nEmail: info@antidiskriminierung.org\r\nwww.antidiskriminierung.org\r\nZentrale Aspekte zur St\u00e4rkung des rechtlichen Diskriminierungsschutzes\r\n1\r\nMehr Fortschritt wagen hei\u00dft auch\r\nmehr Antidiskriminierung wagen!\r\nZentrale Aspekte zur St\u00e4rkung des\r\nrechtlichen Diskriminierungsschutzes\r\nDie 11 wichtigsten \u00c4nderungsforderungen\r\naus zivilgesellschaftlicher Sicht\r\nDer Koalitionsvertrag der Ampel-Koalition legt dar:\r\n\u201eDas Allgemeine Gleichbehandlungsgesetz (AGG) werden wir evaluieren, Schutzl\u00fccken schlie\u00dfen,\r\nden Rechtsschutz verbessern und den Anwendungsbereich ausweiten.\u201c\r\nSeit 2006 ist das Allgemeine Gleichbehandlungsgesetz in Kraft. In 16 Jahren Praxiserfahrung\r\nsind die Schw\u00e4chen des AGGs hinl\u00e4nglich bekannt: Das Gesetz sch\u00fctzt nicht alle von Diskriminierung\r\nBetroffene, es ist nicht anwendbar auf alle Lebensbereiche und die Durchsetzung des\r\nRechts ist f\u00fcr viele und in vielen F\u00e4llen kaum m\u00f6glich.\r\nJede dritte Person in Deutschland hat laut einer repr\u00e4sentativen Umfrage der Antidiskriminierungsstelle\r\ndes Bundes Diskriminierung erlebt 1. Testing-Studien weisen zuverl\u00e4ssig und seit\r\nJahren Diskriminierung auf dem Arbeits- und Wohnungsmarkt nach 2. Seit Jahren melden Antidiskriminierungsberatungsstellen\r\nsteigende Beratungsanfragen von Betroffenen.\r\nDiskriminierung ist eine Realit\u00e4t, die nicht nur f\u00fcr viele Menschen schmerzlich ist, sondern\r\nihre Teilhabe massiv einschr\u00e4nkt und das Gebot der Gleichbehandlung als ein zentrales demokratisches\r\nPrinzip verletzt.\r\nBetroffene von Diskriminierung erwarten, dass Diskriminierung anerkannt wird, dass sie\r\nRechte haben, um gegen Diskriminierung vorzugehen und dass diese Rechte auch durchsetzbar\r\nsind und nicht nur auf dem Papier stehen.\r\nIn den letzten Jahren ist diese Erkenntnis in Politik und Gesellschaft zwar zunehmend gewachsen\r\nund ein Problembewusstsein entstanden, gleichzeitig sind aber notwendige Ma\u00dfnahmen\r\nwie die Weiterentwicklung des rechtlichen Diskriminierungsschutzes bisher nicht umgesetzt\r\nworden.\r\nAls zivilgesellschaftliche Organisationen im Bereich der Antidiskriminierungsarbeit und Communityorganisationen,\r\ndie die Interessen von Diskriminierung betroffener Personen vertreten,\r\nm\u00f6chten wir mit unseren langj\u00e4hrigen Erfahrungen und der Expertise zum Diskriminierungsschutz\r\ndie anstehende AGG-Reform unterst\u00fctzen und fordern eine umfassende\r\nNovellierung des Gesetzes.\r\nMit der hier vorliegenden gemeinsamen Stellungnahme von 100 Organisationen legen wir die\r\naus unserer Sicht verbands\u00fcbergreifenden und zentralen \u00c4nderungen f\u00fcr die St\u00e4rkung des\r\nAGG vor.\r\n1 Diskriminierungserfahrungen in Deutschland - Ergebnisse der Repr\u00e4sentativ- und der Betroffenenbefragung, Antidiskriminierungsstelle\r\ndes Bundes, 2017. https://www.antidiskriminierungsstelle.de/SharedDocs/downloads/DE/publikationen/Expertisen/expertise_diskriminierungserfahrungen_\r\nin_deutschland.html\r\n2 Diskriminierung am Ausbildungsmarkt: Ausma\u00df, Ursachen und Handlungsperspektiven. Studie, Sachverst\u00e4ndigenrat deutscher Stiftungen\r\nf\u00fcr Integration und Migration, 2014, https://www.svr-migration.de/wp-content/uploads/2014/03/SVR-FB_Diskriminierung-am-Ausbildungsmarkt.\r\npdf. Bayrischer Rundfunk Data und Spiegel Online (Hg.) (2017): Hanna und Ismail. https://www.hanna-und-ismail.de/.\r\n2\r\nMehr Fortschritt wagen hei\u00dft auch mehr Antidiskriminierung wagen!\r\nI.\r\nAnwendungsbereich auf \u00f6ffentliche Stellen ausweiten\r\nII.\r\nRechtsdurchsetzung st\u00e4rken u.a. durch Einf\u00fchrung einer Verbandsklage\r\nIII.\r\nDiskriminierungsschutzes f\u00fcr alle Diskriminierungskategorien vereinheitlichen\r\nIV.\r\nDiskriminierungskategorien erweitern\r\nV.\r\nDiskriminierungsformen erweitern\r\nVI.\r\nGeltendmachungsfrist anheben\r\nVII.\r\nBeweislasterleichterung erweitern\r\nVIII.\r\nEntsch\u00e4digungen abschreckend gestalten\r\nIX.\r\nArbeitgebende st\u00e4rker in die Pflicht nehmen\r\nX.\r\nKirchenprivileg an europ\u00e4ische Vorgaben anpassen\r\nXI.\r\nAntidiskriminierungsstelle des Bundes st\u00e4rken\r\nUnsere \u00c4nderungsforderungen\r\nim \u00dcberblick:\r\n\u00dcber die vorliegende Stellungnahme hinaus hat der Antidiskriminierungsverband Deutschland\r\n(advd) mit der Unterst\u00fctzung von 79 Verb\u00e4nden eine Erg\u00e4nzungsliste in einem additiven\r\nVerfahren erstellt, die die umfassenden und aus der zivilgesellschaftlichen Sicht notwendigen,\r\naber nicht abschlie\u00dfenden \u00c4nderungen des AGG im Detail aufzeigt.\r\n3\r\nI. ANWENDUNGSBEREICH AUF \u00d6FFENTLICHE STELLEN\r\nAUSWEITEN\r\nDas AGG unterliegt einer gravierenden Engf\u00fchrung auf die Bereiche Besch\u00e4ftigung und G\u00fcter\r\nund Dienstleistungen. Der Diskriminierungsschutz des AGG greift nicht im Bereich des staatlichen\r\nHandelns. Das AGG bleibt somit hinter den Vorgaben der europ\u00e4ischen Antidiskriminierungsrichtlinien\r\nzur\u00fcck. Hinzu kommt, dass dieser Bereich nicht weniger diskriminierungsrelevant\r\nist.\r\nDas grundgesetzliche Gleichbehandlungsgebot und die entsprechenden Regelungen in den\r\nL\u00e4nderverfassungen und im Sozialgesetzbuch sind in der Praxis nicht ausreichend. Die Gesetze\r\numfassen nicht alle Diskriminierungskategorien und sehen andere Rechtsfolgen vor.\r\nZudem enthalten sie entgegen der Vorgaben der europ\u00e4ischen Richtlinien keine Regelung zur\r\nBeteiligung von Verb\u00e4nden am Rechtsschutz, zur Beweislast, zum Schutz vor Viktimisierungen\r\nund zur Festlegung abschreckender Sanktionen. Es braucht einfachgesetzliche Regelungen,\r\ndie es Betroffenen erm\u00f6glichen, Recht in Anspruch zu nehmen, wenn Diskriminierung auf\r\nstaatliches Handeln zur\u00fcckzuf\u00fchren ist.\r\nDaher muss der Anwendungsbereich des \u00a7 2 AGG dringend auf das Handeln \u00f6ffentlicher Stellen\r\nim Bereich der Bundesgesetzgebungskompetenz erweitert und st\u00e4rker mit dem Behindertengleichstellungsgesetz\r\nder L\u00e4nder verzahnt werden. Auch andere europ\u00e4ische L\u00e4nder,\r\nwie z.B. Frankreich, Schweden, die Niederlande, Ungarn, Lettland, Finnland oder Zypern haben\r\nden europarechtlich gebotenen Diskriminierungsschutz im staatlichen Bereich umgesetzt.\r\nEs ist f\u00fcr B\u00fcrger*innen schlicht nicht nachvollziehbar, warum ein schw\u00e4cherer Diskriminierungsschutz\r\nbesteht, wenn die Diskriminierung vom Staat ausgeht als von privaten Unternehmen.\r\nDabei sollte angesichts der Vorbildfunktion des Staates ein Erst-Recht-Schluss gelten.\r\nDiskriminierungen im Bereich der \u00c4mter und Beh\u00f6rden werden von Betroffenen als besonders\r\ngravierend empfunden, da sie im Namen des Staates erfolgen und in einem Kontext\r\nstattfinden, der von einem hohen Machtgef\u00e4lle und Abh\u00e4ngigkeitsverh\u00e4ltnis gepr\u00e4gt ist.\r\nDie Aufnahme des staatlichen Handelns in das AGG st\u00e4rkt den aktiven Umgang mit Diskriminierung,\r\nerh\u00f6ht die Rechtssicherheit f\u00fcr alle und bef\u00e4higt Betroffene ihre demokratischen\r\nRechte einzufordern.\r\nNeben dieser Erweiterung des Diskriminierungsschutzes auf \u00f6ffentliche Stellen braucht es\r\nproaktive Ma\u00dfnahmen zur Erreichung von Chancengleichheit. Um der Vorbildfunktion staatlicher\r\nAkteur*innen bei der Gleichbehandlung gerecht zu werden, sollten staatliche Institutionen\r\nim AGG an sogenannte \u00f6ffentliche Gleichbehandlungsverpflichtungen3 gebunden werden.\r\nErg\u00e4nzend sind alle L\u00e4nder aufgefordert Landesantidiskriminierungsgesetze zu erlassen, um\r\neinen umfassenden Diskriminierungsschutz auf Landesebene zu gew\u00e4hrleisten. Die verschiedenen\r\nInitiativen beispielsweise in Hessen, NRW oder Baden-W\u00fcrttemberg etc. werden ausdr\u00fccklich\r\nbegr\u00fc\u00dft.\r\n3 Siehe https://www.bug-ev.org/themen/schwerpunkte/dossiers/gleichbehandlungsverpflichtungen-von-staatlichen-institutionen.\r\nZentrale Aspekte zur St\u00e4rkung des rechtlichen Diskriminierungsschutzes\r\nMehr Fortschritt wagen hei\u00dft auch mehr Antidiskriminierung wagen!\r\n4\r\nII. RECHTSDURCHSETZUNG ST\u00c4RKEN U.A. DURCH\r\nEINF\u00dcHRUNG EINER VERBANDSKLAGE\r\nAngesichts der hohen H\u00fcrden beim gerichtlichen Diskriminierungsschutz ist eine St\u00e4rkung\r\nder Rechtsdurchsetzung dringend geboten, damit Betroffene ihr Recht auf Gleichbehandlung\r\neffektiv in Anspruch nehmen k\u00f6nnen. Daf\u00fcr bedarf es verschiedener Ma\u00dfnahmen, allen voran\r\ndie Einf\u00fchrung des kollektiven Rechtschutzes.\r\na) Etablierung eines kollektiven Rechtsschutzes\r\nIn der Praxis der Antidiskriminierungsberatungsstellen zeigt sich, dass nur die wenigsten Betroffenen\r\nvon Diskriminierung klagen. Obwohl sie sich eine Ver\u00e4nderung und die Durchsetzung\r\nihrer Rechte w\u00fcnschen, k\u00f6nnen und wollen viele Betroffene die mit einem langwierigen\r\nGerichtsverfahren einhergehenden zeitlichen, emotionalen und finanziellen Belastungen\r\nnicht tragen. So entscheiden sich viele Betroffene gegen eine Klage. Diskriminierung wird daher\r\nin den meisten individuell erlebten F\u00e4llen nicht sanktioniert. Anders als in vielen EU-Mitgliedsstaaten\r\ngibt es auch keine M\u00f6glichkeit gegen F\u00e4lle von struktureller Diskriminierung\r\nohne individuelle Betroffenheit rechtlich vorzugehen. Es fehlt oftmals an Rechtsprechung, die\r\nSicherheit schafft und das Antidiskriminierungsrecht sch\u00e4rft.\r\nAngesichts der spezifischen Durchsetzungsschw\u00e4che des Antidiskriminierungsrechts sollte\r\nvom Grundsatz des Individualrechtsschutzes abgewichen und kollektiver Rechtsschutz etabliert\r\nwerden. F\u00fcr eine wirksame Durchsetzung des Diskriminierungsverbots sollte daher eine\r\nProzessstandschaft im AGG eingef\u00fchrt werden, die es Antidiskriminierungsverb\u00e4nden erlaubt,\r\ndas Recht einer diskriminierten Person im eigenen Namen geltend zu machen. Daneben\r\nsollte ein Verbandsklagerecht im AGG verankert werden, um dar\u00fcber hinaus als Antidiskriminierungsverband\r\ndie M\u00f6glichkeit zu haben, unabh\u00e4ngig von der individuellen Betroffenheit\r\nEinzelner, einen Versto\u00df gegen das Diskriminierungsverbot gerichtlich feststellen zu lassen.\r\nb) Einrichtung eines Rechtshilfefonds\r\n(Verbands)Klagen erfordern enorme zeitliche, fachliche und finanzielle Ressourcen. Die Frage\r\nder Finanzierung von Klagen und das Prozesskostenrisiko ist entscheidend f\u00fcr die aktive\r\nNutzung von Klagerechten. F\u00fcr Verbandsklagen anerkannte Antidiskriminierungsverb\u00e4nde\r\nm\u00fcssen gen\u00fcgend Mittel zur Verf\u00fcgung stehen, um von ihren neuen M\u00f6glichkeiten zur Bearbeitung\r\nvon Diskriminierung Gebrauch zu machen. Hierf\u00fcr sollte bei der Antidiskriminierungsstelle\r\ndes Bundes ein Rechtshilfefonds eingerichtet werden, der Verb\u00e4nden, die nicht \u00fcber die\r\nerforderlichen Mittel verf\u00fcgen, aber die notwendige Expertise eine Klage zu f\u00fchren aufweisen,\r\nZugang zu einem Fonds er\u00f6ffnet.\r\nc) Auskunftsanspr\u00fcche f\u00fcr Antidiskriminierungsverb\u00e4nde\r\nF\u00fcr Antidiskriminierungsverb\u00e4nde sollte ein Auskunftsrecht gesetzlich verankert werden, um\r\ndie Rechte von Betroffenen zu st\u00e4rken, z.B. in F\u00e4llen algorithmenbasierter Diskriminierung,\r\ndie sich noch schwieriger als analoge Diskriminierungsvorf\u00e4lle nachweisen lassen.\r\nZentrale Aspekte zur St\u00e4rkung des rechtlichen Diskriminierungsschutzes\r\n5\r\nd) Senkung der Anforderungen an Antidiskriminierungsverb\u00e4nde\r\nZivilgesellschaftliche Antidiskriminierungsberatungsstellen4 beraten Betroffene von Diskriminierung\r\nparteilich, vertraulich und kostenlos, da die Beratung durch \u00f6ffentliche, befristete\r\nProjektf\u00f6rderung finanziert wird. Sie unterst\u00fctzen Betroffene darin, sich gegen Diskriminierung\r\nzur Wehr zu setzen und ihr Recht auf Gleichbehandlung einzufordern und leisten damit\r\neinen zentralen Beitrag beim Zugang zum und der Inanspruchnahme von Recht.\r\n\u00a7 23 Abs. 2 und 3 AGG erlauben Antidiskriminierungsverb\u00e4nden die Besorgung von Rechtsdienstleistungen\r\nund die Unterst\u00fctzung von Betroffenen als Beist\u00e4nd*innen in gerichtlichen\r\nVerfahren. Daf\u00fcr ist nach \u00a7 23 Abs. 1 AGG Voraussetzung, dass die Verb\u00e4nde mindestens\r\n75 Mitglieder haben oder einen Zusammenschluss aus 7 Verb\u00e4nden bilden. Diese Anforderungen\r\nerf\u00fcllen viele Antidiskriminierungsberatungsstellen nicht und k\u00f6nnen deswegen z.B.\r\nnicht Betroffene bei Gerichtsverfahren als Beistand unterst\u00fctzen. Das bedeutet weniger Unterst\u00fctzungsm\u00f6glichkeiten\r\nf\u00fcr Betroffene von Diskriminierung. Um mehr Antidiskriminierungsberatungsstellen\r\ndie M\u00f6glichkeit zu geben, Betroffene im Sinne des \u00a7 23 Abs. 2 und 3\r\nAGG zu unterst\u00fctzen, sollten diese Anforderungen gesenkt werden.\r\ne) Gesetzliche Verankerung von Antidiskriminierungsberatung\r\nAktuell gibt es nur in wenigen Bundesl\u00e4ndern ausreichend Antidiskriminierungsberatungsstellen\r\n. Dadurch sind Betroffene mit der erfahrenen Diskriminierung oftmals allein gelassen.\r\nEs muss sichergestellt werden, dass allen Betroffenen von Diskriminierung ein wohnortnahes\r\nBeratungsangebot zur Verf\u00fcgung steht. Die Antidiskriminierungsstelle des Bundes muss gemeinsam\r\nmit den Bundesl\u00e4ndern dieses Angebot aus- und aufbauen und finanziell absichern,\r\nso wie es im Koalitionsvertrag vorgesehen ist.\r\nIm AGG sollte ein gesetzlicher F\u00f6rderauftrag der Antidiskriminierungsstelle des Bundes f\u00fcr\r\ndie nachhaltige Finanzierung von unabh\u00e4ngiger, zivilgesellschaftlicher Antidiskriminierungsberatung\r\nverankert werden.\r\nIII. DISKRIMINIERUNGSSCHUTZ\r\nF\u00dcR ALLE DISKRIMINIERUNGSKATEGORIEN\r\nVEREINHEITLICHEN\r\nGrunds\u00e4tzlich sollte allen Gruppen mit Diskriminierungserfahrungen im AGG gleicher Schutz\r\nzugestanden und der horizontale Ansatz konsequent umgesetzt werden. Diesem Ansatz wird\r\ndas AGG jedoch im Zivilrechtsverkehr nicht gerecht, insoweit das Diskriminierungsverbot nur\r\nf\u00fcr rassistische Diskriminierung umfassend gilt und hinsichtlich anderer Kategorien auf Massengesch\u00e4fte\r\nbeschr\u00e4nkt ist.\r\nDie Hierarchisierung der Diskriminierungsgr\u00fcnde muss aufgehoben werden, so dass alle Diskriminierungskategorien\r\ndes (zuk\u00fcnftig erweiterten) \u00a7 1 gleichen Diskriminierungsschutz genie\u00dfen.\r\n4 Bartel, Kalpaka, Auf dem Weg zu einer fl\u00e4chendeckenden Antidiskriminierungsberatung in Deutschland.\r\nGut beraten!, Studie im Auftrag der ADS, 2022 https://www.antidiskriminierungsstelle.de/SharedDocs/downloads/DE/publikationen/\r\nExpertisen/gut_beraten_flaechendeckende_antidiskrimberatung.pdf;jsessionid=9607A5629D50198A69A8B526FD45DF95.intranet242?__\r\nblob=publicationFile&v=6\r\nMehr Fortschritt wagen hei\u00dft auch mehr Antidiskriminierung wagen!\r\n6\r\nIV. DISKRIMINIERUNGSKATEGORIEN ERWEITERN\r\nBestehende Schutzl\u00fccken m\u00fcssen durch die Aufnahme weiterer bzw. die Konkretisierung bestehender\r\nDiskriminierungskategorien im AGG geschlossen werden. Gleichzeitig sollte der\r\nKatalog der Diskriminierungskategorien nicht abschlie\u00dfend gestaltet sein.\r\n1. Aufnahme weiterer Diskriminierungskategorien\r\nBislang deckt das AGG sechs Diskriminierungskategorien ab, die die entsprechenden\r\nEU-Richtlinien dezidiert vorgeben. Die Diskriminierungsrealit\u00e4t zeigt jedoch, dass Menschen\r\naufgrund weiterer Kategorien Diskriminierung erfahren. Eine Novellierung des AGGs muss\r\ndem Rechnung tragen und allen von Diskriminierung betroffenen Personengruppen Schutz\r\nbieten. Daher m\u00fcssen die Diskriminierungskategorien in \u00a7 1 AGG mit den folgenden Kategorien\r\nerg\u00e4nzt werden:\r\na) Sozialer Status\r\nMenschen erleben aufgrund ihres sozialen Status unterschiedliche Formen von Diskriminierung\r\nund Ausgrenzung in der Gesellschaft. So werden z.B. Geringverdienende, Erwerbssuchende,\r\n\u00dcberschuldete, Alleinerziehende, Wohnungslose und bestimmte Berufsgruppen,\r\nwie Sexarbeiter*innen stigmatisiert, benachteiligt und in ihrer gesellschaftlichen Partizipation\r\nbeeintr\u00e4chtigt. Ebenso erleben Menschen Diskriminierung aufgrund ihrer sozialen Herkunft,\r\ndie sich auf den vererbten sozialen Status bezieht. Dieser hat einen starken Einfluss auf\r\ndie Zugangsm\u00f6glichkeiten zu Bildung und Arbeit und wird als zus\u00e4tzliches Klassifikationsindiz\r\nzur Bestimmung des sozialen Status herangezogen. Um betroffene Menschen im Diskriminierungsfall\r\nzu sch\u00fctzen, muss die Kategorie \u201esozialer Status\u201c als eine zentrale Dimension sozialer\r\nUngleichheit in den Katalog des AGG aufgenommen werden.\r\nb) Sprache\r\nDiskriminierungen beispielsweise aufgrund von fehlenden deutschen Sprachkenntnissen, einem\r\nAkzent oder Analphabetismus f\u00fchren zu gesellschaftlichen Ausschl\u00fcssen, z.B. bei \u00fcberh\u00f6hten\r\nAnforderungen an Deutschkenntnisse von Besch\u00e4ftigten. Eine solche Diskriminierung\r\nwird nur mittelbar \u00fcber die Kategorie der ethnischen Herkunft erfasst und ist somit nur bedingt\r\ndurch das AGG gesch\u00fctzt. Um die Schutzl\u00fccke zu schlie\u00dfen und Rechtssicherheit zu\r\nschaffen, muss der Diskriminierungsgrund \u201eSprache\u201c zus\u00e4tzlich in den Katalog aufgenommen\r\nwerden, so dass in solchen F\u00e4llen das Vorliegen einer unmittelbaren Diskriminierung geltend\r\ngemacht werden kann.\r\nc) Staatsangeh\u00f6rigkeit\r\nStaatsangeh\u00f6rigkeit ist in \u00a7 1 AGG als Kategorie nicht aufgelistet. In einigen F\u00e4llen aber werden\r\nDiskriminierungen aufgrund der Staatsangeh\u00f6rigkeit trotzdem vom Schutzbereich des\r\nAGG erfasst, wenn in Wirklichkeit die der Staatsangeh\u00f6rigkeit zugeschriebenen Eigenschaften\r\n(Erscheinungsbild, Verhaltensmuster o.\u00c4.) im Vordergrund stehen und es demnach in der\r\nSache um rassistische Zuschreibungen geht. Daneben gibt es Konstellationen, in welchen die\r\nDiskriminierungskategorien \u201eethnische Herkunft\u201c und \u201eRasse\u201c aber nicht greifen, n\u00e4mlich in-\r\nF\u00e4llen, in denen der Ankn\u00fcpfungspunkt einer Ungleichbehandlung tats\u00e4chlich die Staatsangeh\u00f6rigkeit\r\noder das Geburtsland darstellt. Diskriminierungen, die ausschlie\u00dflich an jene EiZentrale\r\nAspekte zur St\u00e4rkung des rechtlichen Diskriminierungsschutzes\r\n7\r\ngenschaften ankn\u00fcpfen, sind nicht umfasst. Um diese Schutzl\u00fccke zu schlie\u00dfen und um nicht\r\nauf die in der Praxis herausfordernde Ermittlung des wahren Sinngehalts der Diskriminierung\r\nangewiesen zu sein, muss zur Erreichung eines effektiven Rechtsschutzes die Staatsangeh\u00f6rigkeit\r\nin den Katalog aufgenommen werden.\r\nd) Chronische Krankheit\r\n\u201eChronische Krankheit\u201c ist im AGG nicht als eigener Diskriminierungsgrund aufgef\u00fchrt. Bestimmte\r\nchronische Krankheiten werden nach der Rechtsprechung des EuGH (EuGH, Urteil\r\nvom 11.04.2013, AZ: C-335/11 und C 337/11) und der daran anlehnenden BAG-Definition\r\n(vgl. BAG, Urteil vom 19.12.2013, 6 AZR 190/12) als Behinderungen erfasst. Danach sind\r\nauch chronische Krankheiten als Behinderung im Sinne des AGG anzusehen, wenn die Beeintr\u00e4chtigung\r\nunter den jeweils geltenden gesellschaftlichen Gegebenheiten die Teilhabe beschr\u00e4nkt.\r\nIn der Praxis ist es f\u00fcr die von Diskriminierung Betroffenen oftmals schwierig, den\r\nvon der Rechtsprechung vorgegebenen Rahmen zu erkennen und ihre Rechte entsprechend\r\nwahrzunehmen. Aus Klarstellungsgr\u00fcnden und um Schutzl\u00fccken f\u00fcr chronisch Kranke zu vermeiden,\r\nmuss die Kategorie chronische Erkrankung neben dem der Behinderung in den Katalog\r\naufgenommen werden.\r\ne) K\u00f6rpergewicht\r\n\u00dcber die sechs im AGG genannten Kategorien hinaus gaben die meisten von Diskriminierung\r\nBetroffenen in einer vom Presse- und Informationsamt der Bundesregierung (BPA) beauftragten\r\nStudie von 2019 an, dass sie anhand \u00e4u\u00dferlicher Merkmale Diskriminierung erfahren\r\nhaben, haupts\u00e4chlich anhand ihres K\u00f6rpergewichts. Die Kategorie \u201eBehinderung\u201c bietet vor\r\nGewichtsdiskriminierung in der Regel keinen Schutz, da die allermeisten Menschen mit hohem\r\nGewicht keine daf\u00fcr ausreichende k\u00f6rperliche Einschr\u00e4nkung haben. Um diese L\u00fccke zu\r\nschlie\u00dfen, muss K\u00f6rpergewicht mit in den Katalog des \u00a7 1 AGG aufgenommen werden.\r\nf) Famili\u00e4re F\u00fcrsorgeverantwortung\r\nDiskriminierungserfahrungen im Kontext von famili\u00e4rer F\u00fcrsorgeverantwortung stehen in engem\r\nZusammenhang mit den Rahmenbedingungen f\u00fcr die Vereinbarkeit von Beruf und Familie\r\nbzw. Pflege. Eltern und Pflegepersonen erleben Diskriminierung im Arbeitskontext in\r\nmehreren Bereichen. So erleben (werdende) Eltern insbesondere bei der Bekanntgabe der\r\nSchwangerschaft und sp\u00e4ter bei der Wiederaufnahme der beruflichen T\u00e4tigkeit, nach Beendigung\r\nder Elternzeit, Diskriminierung durch die Arbeit gebende Seite, sei es durch abwertende\r\nKommentare oder auch Entziehung von Verantwortlichkeiten nach der R\u00fcckkehr aus der Elternzeit.\r\nEine \u00e4hnliche Form von Diskriminierung erleben Besch\u00e4ftigte, die Angeh\u00f6rige pflegen.\r\nDas Ma\u00dfregelungsverbot in \u00a7 612 a BGB und \u00a7 8 PflegeZG ist nicht gleichwertig mit den\r\nSchutzvorschriften des AGG. Um hier betroffene Eltern und Pflegepersonen im Diskriminierungsfall\r\nzu st\u00e4rken, muss das Merkmal \u201efamili\u00e4re F\u00fcrsorgeverantwortung\u201c als Schutzgrund\r\nin \u00a7 1 AGG aufgenommen werden, was ihnen im Falle der Versagung die M\u00f6glichkeit er\u00f6ffnet\r\neine Entsch\u00e4digung und Schadensersatz einzufordern.\r\ng) Offener Katalog von Diskriminierungskategorien\r\nInternationale Konventionen, wie beispielsweise die Europ\u00e4ische Menschenrechtskonvention\r\n(Art. 14), arbeiten bei der Auflistung von Diskriminierungskategorien in der Regel mit einer\r\nnicht abgeschlossenen Liste. Benannte Diskriminierungskategorien werden mit Begriffen wie\r\n\u201eetwa nach\u201c oder \u201einsbesondere\u201c eingeleitet und damit nur beispielhaft aufgef\u00fchrt. Im AGG\r\nMehr Fortschritt wagen hei\u00dft auch mehr Antidiskriminierung wagen!\r\n8\r\nwiederum sind sechs Diskriminierungskategorien abschlie\u00dfend geregelt. Ein solch abschlie\u00dfender\r\nKatalog birgt das Risiko, gesellschaftliche Entwicklungen und Grenzf\u00e4lle von Kategorisierung\r\nund Diskriminierung nicht zu erfassen.\r\nEs ist deshalb erforderlich, um gesellschaftlichen Entwicklungen Rechnung zu tragen, einen\r\noffenen Katalog im AGG einzuf\u00fchren. So best\u00fcnde f\u00fcr Gerichte die M\u00f6glichkeit, Kategorien\r\nvon Diskriminierung, die nicht im AGG dezidiert benannt sind, trotzdem einer Pr\u00fcfung zu unterziehen\r\nund zu einer Einsch\u00e4tzung bez\u00fcglich eines Diskriminierungstatbestandes zu gelangen.\r\n2. KONKRETISIERUNG DER IN \u00a7 1 AUFGEF\u00dcHRTEN\r\nKATEGORIEN\r\na) \u201eRasse\u201c\r\nSchon seit L\u00e4ngerem wird von unterschiedlichen zivilgesellschaftlichen Akteur*innen und\r\nRechtsexpert*innen die Streichung des historisch belasteten Begriffs \u201eRasse\u201d aus dem\r\nGrundgesetz, den Landesverfassungen und allen Gesetzestexten gefordert. Vorgeschlagen\r\nwird, den Begriff durch die Termini \u201erassistisch\u201d, \u201erassistische Diskriminierung\u201c oder \u201eaus rassistischen\r\nGr\u00fcnden\u201c zu ersetzen.\r\nBei der Umsetzung muss sichergestellt werden, dass das Schutzniveau und die M\u00f6glichkeiten\r\nder Rechtsdurchsetzung dabei nicht verschlechtert werden d\u00fcrfen. Deshalb sollten auch die\r\nantidiskriminierungsrechtlichen Argumente einiger Expert*innen f\u00fcr eine Beibehaltung des\r\nBegriffs bei einer \u00c4nderung bedacht werden.\r\nb) Geschlecht einschl. der Geschlechtsidentit\u00e4t\r\nBei Geschlecht besteht trotz der insoweit eindeutigen verfassungsgerichtlichen Rechtsprechung\r\nzur Geschlechtsidentit\u00e4t (vgl. BVerfG, \u201eDritte-Option\u201c, Beschluss v. 10.10.2017 \u2013 1 BvR\r\n2019/16) bei Instanzengerichten und Beh\u00f6rden zum Teil nach wie vor Unsicherheit, ob auch\r\ntrans*, inter* und nicht-bin\u00e4re Personen aufgrund der Geschlechtsidentit\u00e4t vor Geschlechtsdiskriminierung\r\nerfasst sind. So werden Diskriminierungen von trans*, inter* und nicht-bin\u00e4ren\r\nMenschen entweder unter der Kategorie der sexuellen Identit\u00e4t oder dem Geschlecht gefasst.\r\nEs sollte daher zur Klarstellung \u201cGeschlechtsidentit\u00e4t\u201d explizit in die Begr\u00fcndung des\r\nAGG aufgenommen und entsprechend erl\u00e4utert werden.\r\nc) Alter\r\nDer Schutzbereich \u201eAlter\u201c bezieht sich im AGG sowie in der RL 2000/78/EG auf alle Lebensalter\r\nund soll sowohl junge wie auch \u00e4ltere Personen vor einer Diskriminierung sch\u00fctzen. Da der\r\nBegriff \u201eAlter\u201c missverstanden werden kann im Sinne des ausschlie\u00dflichen Schutzes \u00e4lterer\r\noder alter Menschen vor Diskriminierung, sollte aus Gr\u00fcnden der Klarstellung die gesch\u00fctzte\r\nKategorie statt \u201cAlter\u201d als \u201eLebensalter\u201c bezeichnet werden.\r\nZentrale Aspekte zur St\u00e4rkung des rechtlichen Diskriminierungsschutzes\r\n9\r\nV. DISKRIMINIERUNGSFORMEN ERWEITERN\r\nDie in \u00a7 3 AGG genannten f\u00fcnf Diskriminierungsformen sind in der Praxis nicht ausreichend,\r\num alle Diskriminierungen zu erfassen und m\u00fcssen daher erweitert werden.\r\na) Versagung von \u201eangemessenen Vorkehrungen\u201c und der \u201eBarrierefreiheit\u201c als\r\nForm von Diskriminierung definieren\r\nDie Barrierefreiheit zielt darauf ab, durch die Einhaltung von Kriterien zur Barrierefreiheit, einer\r\nVielzahl von Menschen mit Behinderungen den Zugang bspw. zu einer Dienstleistung zu\r\nerm\u00f6glichen. Angemessene Vorkehrungen wiederum sollen Menschen mit Behinderungen im\r\nEinzelfall die Hilfestellung zukommen zu lassen, die in der konkreten Situation ben\u00f6tigt wird.\r\nDas BGG definiert sowohl die Vorenthaltung von Barrierefreiheit als auch die Vorenthaltung\r\nvon angemessenen Vorkehrungen jeweils getrennt als Benachteiligung (vgl. \u00a7 7 Abs. 1 und 2\r\nBGG).\r\nMenschen mit Behinderungen sollten unabh\u00e4ngig vom Grad ihrer Behinderung Barrierefreiheit\r\nam Arbeitsplatz und bei Alltagsgesch\u00e4ften verlangen k\u00f6nnen. Um umfassenden Schutz\r\nf\u00fcr betroffene Menschen zu gew\u00e4hrleisten, muss dieser Anspruch f\u00fcr alle Menschen mit Behinderungen\r\nim Arbeitsleben und gleicherma\u00dfen bei Alltagsgesch\u00e4ften gelten. Dies ergibt\r\nsich rechtlich zwingend auch aus den Bestimmungen der UN-Behindertenrechtskonvention\r\nund muss demnach im AGG ausdr\u00fccklich verankert werden. So m\u00fcssen Betroffene gegen Arbeitgeber*\r\ninnen als auch gegen Anbieter*innen von Waren und Dienstleistungen Anspr\u00fcche\r\nauf Schadensersatz und Entsch\u00e4digung geltend machen k\u00f6nnen, wenn der Arbeitsplatz nicht\r\nbarrierefrei zu Verf\u00fcgung steht bzw. der Zugang zu Waren und Dienstleistungen nicht barrierefrei\r\ngestaltet wird. Die Versagung von Barrierefreiheit muss daher als eine Form von Diskriminierung\r\nim AGG aufgenommen werden.\r\nGleicherma\u00dfen sollten Arbeitgeber*innen und Anbieter*innen von Dienstleistungen verpflichtet\r\nwerden, angemessene Vorkehrungen zu treffen. Die Versagung dieser Vorkehrungen ist\r\nebenfalls als Diskriminierungstatbestand zu normieren. Bei der Definition der angemessenen\r\nVorkehrungen ist an \u00a7 7 Abs. 2 Behindertengleichstellungsgesetz (BGG) anzukn\u00fcpfen.\r\nb) Schutz vor sexueller Bel\u00e4stigung auch im Zivilrechtsverkehr sicherstellen\r\nAuch im Zivilrechtsverkehr erleben Betroffene sexuelle Bel\u00e4stigung und k\u00f6nnen sich bislang\r\ndagegen nicht auf der Grundlage des AGG zur Wehr setzen. Daher muss die Einschr\u00e4nkung\r\nder sexuellen Bel\u00e4stigung auf den Bereich Besch\u00e4ftigung im AGG gestrichen werden.\r\nc) Erweiterung um die assoziierte Diskriminierung\r\nDer im AGG zugrunde gelegte Diskriminierungsbegriff muss an die Rechtsprechung des EuGH\r\nangepasst und um die assoziierte Diskriminierung erweitert werden, damit auch F\u00e4lle drittbezogener\r\nDiskriminierung vom AGG erfasst sind. So k\u00f6nnen Personen, die ein enges N\u00e4heverh\u00e4ltnis\r\nzu der von Diskriminierung betroffenen Person haben, wie dies in der Regel der Fall\r\nist bei Elternschaft, Lebenspartner*innen, Geschwistern und Kindern, ebenso Anspr\u00fcche auf\r\nSchadensersatz- und Entsch\u00e4digungsanspr\u00fcche geltend machen, auch wenn sie nicht selbst\r\naufgrund einer AGG-Kategorie Diskriminierung erfahren haben. Dieses Konzept der assoziierten\r\nDiskriminierung ist durch die Rechtsprechung des EuGH vom Diskriminierungsverbot\r\numfasst (vgl. EuGH, Entscheidung vom 17. Juli 2008, C-303/06) und sollte in diesem Sinne im\r\nAGG verankert werden.\r\nMehr Fortschritt wagen hei\u00dft auch mehr Antidiskriminierung wagen!\r\n10\r\nVI. GELTENDMACHUNGSFRIST ANHEBEN\r\nDie sehr kurze Geltendmachungsfrist von 2 Monaten im AGG hat in der Vergangenheit ma\u00dfgeblich\r\ndazu beigetragen, die Rechtsdurchsetzung zu behindern bzw. zu verunm\u00f6glichen. Die\r\nvorherige Bundesregierung hatte bereits in der letzten Legislatur beschlossen, die Frist des\r\nAGG von 2 Monaten auf 6 Monate zu verl\u00e4ngern. Die Frist sollte jedoch auf mindestens 12 Monate\r\nangehoben werden. Da die Geltendmachung von Schadensersatz- und Entsch\u00e4digungsanspr\u00fcchen\r\nin der Regel eskalierende Wirkung hat, beispielsweise bei der Bearbeitung einer\r\nBeschwerde durch die innerbetriebliche Beschwerdestelle, aber diese fristwahrend erfolgen\r\nmuss damit die Anspr\u00fcche nicht erl\u00f6schen, w\u00fcrde bei einer Frist von 12 Monaten auch mehr\r\nRaum bleiben, um au\u00dfergerichtliche L\u00f6sungen zu finden.\r\nVII. BEWEISLASTERLEICHTERUNG ERWEITERN\r\nDer Nachweis von beweiskr\u00e4ftigen Indizien stellt ein zentrales Problem bei der gerichtlichen\r\nDurchsetzung des Antidiskriminierungsrechts dar. Die Beweislasterleichterung des \u00a7 22 AGG\r\nsollte daher erweitert werden. Es muss insoweit klargestellt werden, dass sich die Beweiserleichterung\r\nnicht allein auf die Kausalit\u00e4t zwischen einer Diskriminierung und einem in \u00a7 1 AGG\r\ngenannten Grund bezieht, sondern auch die Darlegung der Benachteiligung selbst umfasst.\r\nDaneben bed\u00fcrfen die Anforderungen, die an den Indizienbeweis zu stellen sind, einer Konkretisierung.\r\nSo sollten z.B. die Parteivernehmung, die Nichteinrichtung einer innerbetrieblichen\r\nBeschwerdestelle, die Ergebnisse von Testings und Statistiken zul\u00e4ssige und im Einzelfall\r\nausreichende Beweismittel sein. Schlie\u00dflich sollte die Beweislast im Arbeitsrecht durch\r\neinen Auskunftsanspruch erg\u00e4nzt werden, um abgelehnten Bewerber*innen aus ihrer Beweisnot\r\nzu helfen.\r\nDar\u00fcber hinaus sollte klargestellt werden, dass die nach \u00a7 20 AGG zul\u00e4ssige unterschiedliche\r\nBehandlung bei der Vermeidung von Gefahren einer erh\u00f6hten Darlegungslast durch Anbietende\r\nvon Waren und Dienstleistungen unterliegen sollte, um willk\u00fcrlichen Missbrauch zu vermeiden.\r\nVIII. ENTSCH\u00c4DIGUNGEN ABSCHRECKEND GESTALTEN\r\nDie europarechtlichen Antidiskriminierungsrichtlinien fordern, dass die Sanktionen bei Diskriminierung\r\nwirksam verh\u00e4ltnism\u00e4\u00dfig und abschreckend sein m\u00fcssen. Die Rechtswirklichkeit\r\nzeigt jedoch, dass die in der Praxis aufgerufenen Entsch\u00e4digungssummen weder als wirksam\r\nnoch als abschreckend bewertet werden k\u00f6nnen. Um die unionsrechtlichen Vorgaben durchzusetzen,\r\nm\u00fcssen die Erfordernisse der Wirksamkeit und der abschreckenden Wirkung der\r\nSanktionen ausdr\u00fccklich im Gesetz benannt werden.\r\nIn diesem Sinne ist auch die Beschr\u00e4nkung der Entsch\u00e4digung auf drei Monatsgeh\u00e4lter in \u00a7 15\r\nAbs. 2 Satz 2 AGG ersatzlos zu streichen.\r\nSchlie\u00dflich sollte im allgemeinen Zivilrecht als Inhalt des Beseitigungsanspruchs nach \u00a7 21\r\nAbs. 1 Satz 1 AGG in den F\u00e4llen ein Kontrahierungszwang als Rechtsfolge vorgesehen werden,\r\nin denen von einem wirksamen Schutz nur gesprochen werden kann, wenn der Zugang\r\nzur vertraglichen Leistung selbst erm\u00f6glicht wird, statt die betroffene Person allein auf einen\r\nSchadensersatz- oder Entsch\u00e4digungsanspruch zu verweisen.\r\nZentrale Aspekte zur St\u00e4rkung des rechtlichen Diskriminierungsschutzes\r\n11\r\nIX. ARBEITGEBENDE ST\u00c4RKER IN DIE PFLICHT NEHMEN\r\nDie \u00a7\u00a7 11, 12 und 13 AGG sind grundlegende Eckpfeiler der Verpflichtungen f\u00fcr Arbeitgebende\r\nzum Diskriminierungsschutz. Der Bereich der Besch\u00e4ftigung ist einerseits diskriminierungsanf\u00e4llig\r\nund andererseits kann Diskriminierung innerhalb der Betriebe und Institutionen niedrigschwellig\r\nbearbeitet werden. Das AGG gibt Arbeitgebenden kaum Rahmenbedingungen\r\nvor, wie diese Verpflichtungen umzusetzen sind. Die Umsetzung der vorgegebenen Verpflichtungen\r\nsind bislang nur unzureichend erfolgt. Dies stellt eine Schwachstelle des Gesetzes dar\r\nund manifestiert sich in der Tatsache, dass auch nach 16 Jahren AGG kaum innerbetriebliche\r\nBeschwerdestellen eingerichtet sind bzw. effektive Beschwerdeverfahren existieren. Daher\r\nist es dringend geboten, die Rahmenbedingungen f\u00fcr Arbeitgebendenverpflichtungen und die\r\ninnerbetriebliche Beschwerdestelle im AGG klarer abzustecken.\r\na) Spezifizierung der Arbeitgebendenverpflichtungen\r\nDie in \u00a7 12 vorgegebenen Arbeitgebendenverpflichtungen zum Schutz vor Diskriminierung,\r\nwie die Bekanntmachungs-, Aufkl\u00e4rungs- und Informationspflicht und die Pflicht, bei Feststellung\r\nvon Diskriminierungen Ma\u00dfnahmen zu ergreifen, m\u00fcssen st\u00e4rker spezifiziert werden.\r\nDar\u00fcber hinaus muss die Pflicht der Arbeitgebenden, eine Barrierefreiheit zu gew\u00e4hrleisten\r\nund bei Bedarf angemessene Vorkehrungen f\u00fcr alle Menschen mit Behinderung ausdr\u00fccklich\r\nals Arbeitgebendenverpflichtung im \u00a7 12 aufgenommen werden.\r\nb) Niedrigschwelliger Zugang zum Beschwerdemechanismus f\u00fcr alle\r\nBesch\u00e4ftigten\r\nIm Ergebnis muss allen Besch\u00e4ftigten, die von Diskriminierung betroffen sind, ein niedrigschwelliger\r\nZugang zu und eine kompetente Unterst\u00fctzung durch ein innerbetriebliches Beschwerdeverfahren\r\nerm\u00f6glicht werden. Um dies zu erreichen, sollte die Erarbeitung eines\r\nkonkreten Beschwerdeablaufes bzw. einer Beschwerdeverfahrensordnung als Mindeststandards\r\nf\u00fcr innerbetriebliche Beschwerdestellen von Seiten des Gesetzgebers eingefordert\r\nund im AGG verankert werden.\r\nc) Einbindung von betriebsinternen Gremien\r\nDas AGG sollte zugrunde legen, dass beim Aufbau der innerbetrieblichen Beschwerdestelle\r\nnach \u00a7 13 AGG betriebsinterne Gremien, wie der Betriebs- oder Personalrat, aktiv eingebunden\r\nwerden m\u00fcssen.\r\nd) Sanktionierung bei Nichteinrichtung einer Beschwerdestelle\r\nBislang bestehen keine Kontrollmechanismen, um die Verpflichtung zur Einrichtung einer Beschwerdestelle\r\nzu pr\u00fcfen. Die Nichteinrichtung einer effektiven innerbetrieblichen Beschwerdestelle\r\nsollte \u00fcberpr\u00fcft und sanktioniert werden k\u00f6nnen, um Arbeitgebende zum Handeln zu\r\nbewegen.\r\nMehr Fortschritt wagen hei\u00dft auch mehr Antidiskriminierung wagen!\r\n12\r\nX. KIRCHENPRIVILEG DEN EUROP\u00c4ISCHEN VORGABEN\r\nANPASSEN\r\nIn \u00a7 9 AGG wird konfessionellen Arbeitgebenden eine weitgehende Autonomie im\r\narbeitsrechtlichen Kontext einger\u00e4umt. Die Anforderungen aus der Richtlinie 2000/78/EG\r\nan konfessionelle Arbeitgebende m\u00fcssen im AGG Ber\u00fccksichtigung finden.\r\nDie Zugeh\u00f6rigkeit zu einer Religionsgemeinschaft muss laut Europ\u00e4ischem Gerichtshof\r\n(EuGH, Urt. v. 17.04.2018, Az. C-414/16) \u201eeine wesentliche, rechtm\u00e4\u00dfige und gerechtfertigte\r\nberufliche Anforderung\u201c f\u00fcr die Aus\u00fcbung der T\u00e4tigkeit darstellen. Da sich dies aus \u00a7 8 AGG\r\nbereits ergibt, sollte der \u00a7 9 gestrichen werden.\r\nXI. ANTIDISKRIMINIERUNGSSTELLE DES BUNDES\r\nST\u00c4RKEN\r\nDie Antidiskriminierungsstelle des Bundes ist die nationale Gleichbehandlungsstelle in\r\nDeutschland und damit der zentrale staatliche Akteur, wenn es darum geht vor Diskriminierung\r\nzu sch\u00fctzen und diese zu bek\u00e4mpfen. Die Mitgliedstaaten der Europ\u00e4ischen Union\r\nkennen verschiedene Arten der nationalen Antidiskriminierungsstellen. Einige sind vorgerichtliche\r\nInstanzen, die Diskriminierungsvorf\u00e4lle pr\u00fcfen, sanktionieren und pr\u00e4ventiv in die\r\nPolitik wirken k\u00f6nnen. Andere sind \u00fcberwiegend informierende und beratende Anlaufstellen\r\nf\u00fcr Menschen, die Diskriminierung erlebt haben. Die Antidiskriminierungsstelle des Bundes\r\nf\u00e4llt in die letztgenannte und damit schw\u00e4chere Kategorie, da sie \u00fcber zu wenige Befugnisse\r\nverf\u00fcgt. Zudem ist die ADS nur unzureichend mit Personal und Sachmitteln ausgestattet, um\r\nihrer Rolle gerecht werden zu k\u00f6nnen.\r\nBereits im April 2022 hat die Bundesregierung gesetzliche \u00c4nderungen in Abschnitt 6 des\r\nAGG vorgenommen, die die Leitung der ADS betreffen. Nun m\u00fcssen im n\u00e4chsten Schritt die\r\nverbindlichen Anforderungen an das Mandat, die Kompetenzen, die Unabh\u00e4ngigkeit und die\r\nRessourcen der Antidiskriminierungsstelle des Bundes entsprechend der Empfehlungen der\r\nEurop\u00e4ischen Kommission gegen Rassismus und Intoleranz (ECRI)5 , und dem am 7.12.2022\r\nver\u00f6ffentlichten Richtlinienvorschlag f\u00fcr bindende Standards f\u00fcr nationale Gleichbehandlungsstellen\r\nder Europ\u00e4ische Kommission6 umgesetzt werden.\r\nHierzu sollte eine sanktionsbewehrte Beschwerdefunktion im Bereich des Zugangs zu Waren\r\nund Dienstleistungen und eine Kontrollfunktion (im Besondern bei \u00a7 11, 12 und 13) geh\u00f6ren.\r\nDie Antidiskriminierungsstelle des Bundes sollte als oberste Bundesbeh\u00f6rde strukturiert\r\nwerden. Sie sollte zum Motor f\u00fcr die Entwicklung und Umsetzung von \u00f6ffentlichen Gleichbehandlungsverpflichtungen\r\nwerden.\r\nAu\u00dferdem sollte die Antidiskriminierungsstelle des Bundes die M\u00f6glichkeit auf ein eigenes\r\nKlagerecht erhalten, Amicus-Curiae-Gutachten erstellen und Gleichbehandlungsaudits entwickeln,\r\nanbieten und unterst\u00fctzen. Hierf\u00fcr sind die notwendigen Mittel und die personelle\r\nAusstattung der Stelle abzusichern.\r\n5 https://www.coe.int/en/web/european-commission-against-racism-and-intolerance\r\n6 https://ec.europa.eu/commission/presscorner/detail/de/ip_22_7507"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

@@ -1,0 +1,707 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-01-18T17:31:09.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-03T18:48:44.000+01:00",
+        "lastUpdateDate": "2024-08-08T09:32:44.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42637,
+                "validFromDate": "2024-08-08T09:32:44.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 33754,
+                "validFromDate": "2024-05-21T12:24:56.000+02:00",
+                "validUntilDate": "2024-08-08T09:32:44.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 31206,
+                "validFromDate": "2024-03-28T11:03:33.000+01:00",
+                "validUntilDate": "2024-05-21T12:24:56.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 15163,
+                "validFromDate": "2023-01-18T17:31:09.000+01:00",
+                "validUntilDate": "2024-03-28T11:03:33.000+01:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Zweck der DGAUM e.V. sind die F\u00f6rderung von Wissenschaft und Forschung, insbesondere die F\u00f6rderung der wissenschaftlichen und fachlichen Belange der Arbeitsmedizin und einer klinisch orientierten Umweltmedizin, die F\u00f6rderung der Berufsbildung sowie die F\u00f6rderung des \u00f6ffentlichen Gesundheitswesens und der \u00f6ffentlichen Gesundheitspflege, insbesondere die Mitwirkung an der bestm\u00f6glichen arbeitsmedizinischen und umweltmedizinischen Betreuung der Bev\u00f6lkerung. Die Satzungszwecke werden verwirklicht insbesondere durch \r\na) die F\u00f6rderung von Ausbildung, Weiterbildung und Fortbildung auf dem Gebiet der Arbeits- und klinischen Umweltmedizin,\r\nb) die enge Zusammenarbeit auf wissenschaftlicher Basis mit den Verband Deutscher Betriebs- und Werks\u00e4rzte e.V. - Berufsverband deutscher Arbeitsmediziner -,\r\nc) die Pflege der Verbindung unter den an der Arbeitsmedizin und einer klinisch orientierten Umweltmedizin Interessierten und die internationale Zusammenarbeit auf diesem Gebiet.\r\nd) Veranstaltung einer wissenschaftlichen Tagung auf dem Gebiet der Arbeitsmedizin oder klinischen Umweltmedizin mindestens einmal im Jahr,\r\ne) die Unterst\u00fctzung internationaler Tagungen auf dem Gebiet der Arbeitsmedizin oder klinischen Umweltmedizin,\r\nf) die F\u00f6rderung der wissenschaflichen Arbeit auf dem Gebiet der Arbeitsmedizin oder klinischen Umweltmedizin durch Preise und Beihilfen,\r\ng) die st\u00e4ndige eigene Unterrichtung \u00fcber die Versorgung der erwerbst\u00e4tigen Bev\u00f6lkerung Deutschlands durch Arbeitsmediziner und geeignete Institutionen,\r\nh) die Beratung der zust\u00e4ndigen Beh\u00f6rden, Gremien und Institutionen im In- und Ausland in allen Fragen der Ausbildung, Weiterbildung, Fortbildung und Berufsaus\u00fcbung in der Arbeitsmedizin oder klinischen Umweltmedizin.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/24/d8/341806/Gewinnermittlung_2023_Stand-25-04-2024.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/62/0e/341807/Ethikkodex-Arbeitsmed-_ASU-02-2023.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 10001,
+            "to": 20000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.0,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 90001,
+            "to": 100000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "M\u00fcnchen",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Gesch\u00e4ftsstelle ",
+            "street": "Schwanthalerstr. ",
+            "streetNumber": "73B",
+            "type": "NATIONAL",
+            "zipCode": "80336"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "tnesseler@dgaum.de"
+                },
+                {
+                    "email": "gs@dgaum.de"
+                }
+            ],
+            "phoneNumber": "+49893303960",
+            "websites": [
+                {
+                    "website": "www.dgaum.de"
+                },
+                {
+                    "website": "www.gesund-arbeiten-in-thueringen.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeAfter": "M.A.",
+                "academicDegreeBefore": "Dr. phil.",
+                "firstName": "Thomas",
+                "lastName": "Nesseler",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr. med.",
+                "firstName": "Thomas",
+                "lastName": "Kraus",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "MPH",
+                "academicDegreeBefore": "Prof. Dr. med.",
+                "firstName": "Volker",
+                "lastName": "Harth",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr. med.",
+                "firstName": "Andrea",
+                "lastName": "Kaifie-Pechmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr. med.",
+                "firstName": "Dennis",
+                "lastName": "Nowak",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr. med.",
+                "firstName": "Dirk-Matthias",
+                "lastName": "Rose",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr. med.",
+                "firstName": "Andreas",
+                "lastName": "Tautz",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeAfter": "M.A.",
+                "academicDegreeBefore": "Dr. phil.",
+                "entrustedPerson": true,
+                "firstName": "Thomas",
+                "function": "Hauptgesch\u00e4ftsf\u00fchrer",
+                "lastName": "Nesseler",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr. med.",
+                "entrustedPerson": true,
+                "firstName": "Thomas",
+                "function": "Pr\u00e4sident",
+                "lastName": "Kraus",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "MPH",
+                "academicDegreeBefore": "Prof. Dr. med.",
+                "entrustedPerson": true,
+                "firstName": "Volker",
+                "function": "Vizepr\u00e4sident",
+                "lastName": "Harth",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-03-28",
+            "naturalPersons": 1319,
+            "organizations": 5,
+            "totalCount": 1324
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "AWMF e.V. Arbeitsgemeinschaft wiss. med. Fachgesellschaften"
+            },
+            {
+                "membership": "BVPG e.V. Bundesvereinigung Pr\u00e4vention und Gesundheitsf\u00f6rderung"
+            },
+            {
+                "membership": "Basi e.V. Bundesarbeitsgemeinschaft f\u00fcr Sicherheit und Gesundheit bei der Arbeit "
+            },
+            {
+                "membership": "BAR e.V. Bundesarbeitsgemeinschaft Rehabilitation"
+            },
+            {
+                "membership": "WMAR e.V. Wissenschaftlich- Medizinischen Allianz f\u00fcr Rehabilitation "
+            },
+            {
+                "membership": "ABNR e.V. Aktionsb\u00fcndnis Nichtrauchen "
+            },
+            {
+                "membership": "Aktionsb\u00fcndnis Arbeitsmedizin e.V."
+            },
+            {
+                "membership": "Aktionsb\u00fcndnis Seelische Gesundheit e.V."
+            },
+            {
+                "membership": "Nationales Aktionsb\u00fcndnis Impfen e.V. (NaBI)"
+            },
+            {
+                "membership": "International Occupational Medicine Society Collaborative (IOMSC) "
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Deutsche Gesellschaft f\u00fcr Arbeitsmedizin u. Umweltmdizin (DGAUM) e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 200001,
+            "to": 210000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000287/42637",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-05-21T12:24:56.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/16/fa/341814/Lobbyregister-Detailansicht-R000287-2024-08-08_09-32-44.pdf",
+        "validFromDate": "2024-08-08T09:32:44.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 42637,
+    "registerNumber": "R000287",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Ad\u00e4quate strukturelle und organisationale Ber\u00fccksichtigung der Arbeitswelt als dem in unserer Gesellschaft gr\u00f6\u00dften Pr\u00e4ventionssetting mit fast 46 Mio. Erwerbst\u00e4tigen beim in Gr\u00fcndung befindlichen BIPAM.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/G/Gesetz_zur_Staerkung_der_Oeffentlichen_Gesundheit_RefE.pdf",
+                            "draftBillProjectUrl": "https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/gesetz-zur-staerkung-der-oeffentlichen-gesundheit.html",
+                            "shortTitle": "BMG",
+                            "title": "Bundesministerium f\u00fcr Gesundheit",
+                            "url": "https://www.bundesgesundheitsministerium.de/"
+                        }
+                    ],
+                    "publicationDate": "2024-06-21",
+                    "title": "Gesetz zur St\u00e4rkung der \u00d6ffentlichen Gesundheit"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011532",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/5c/7a/341808/Stellungnahme-Gutachten-SG2408070026.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                        "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                        "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                                    }
+                                ],
+                                "sendingDate": "2024-07-02"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0011532",
+                        "regulatoryProjectTitle": "Gesetzentwurf zur St\u00e4rkung der \u00d6ffentlichen Gesundheit",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Referentenentwurf eines Gesetzes zur St\u00e4rkung der \u00d6ffentlichen Gesundheit / Gesch\u00e4ftszeichen: PG-B\u00d6G-11570-06\r\nSehr geehrte Damen und Herren,\r\nim Namen der drei Verb\u00e4nde der Arbeitsmedizin mit ihren \u00fcber 6.000 Mitgliedern m\u00f6chten wir zum Referentenentwurf eines Gesetzes zur St\u00e4rkung der \u00d6ffentlichen Gesundheit Stellung neh-men. Wir begr\u00fc\u00dfen ausdr\u00fccklich die Schaffung eines Bundesinstituts f\u00fcr Pr\u00e4vention und Auf-kl\u00e4rung in der Medizin (BIPAM) als zentralen Bestandteil zur St\u00e4rkung der \u00d6ffentlichen Gesund-heit in Deutschland. Aus Sicht der Arbeitsmedizin ist die Pr\u00e4vention von entscheidender Be-deutung, und Betriebs\u00e4rztinnen und -\u00e4rzte leisten bereits heute einen bedeutenden Beitrag zur medizinischen Pr\u00e4vention und Gesundheitsf\u00f6rderung. Die Arbeitswelt stellt mit \u00fcber 46 Millio-nen Erwerbst\u00e4tigen das gr\u00f6\u00dfte pr\u00e4ventionsmedizinische Setting in unserer Gesellschaft dar.\r\nRelevanz des Settingansatzes\r\nDer Settingansatz oder Lebensweltansatz ist eine zentrale Strategie der Gesundheitsf\u00f6rderung, die von der Bundeszentrale f\u00fcr gesundheitliche Aufkl\u00e4rung (BZgA) als Kernstrategie1 anerkannt wird. Dieser Ansatz ist fest verankert in der Ottawa Charta f\u00fcr Gesundheitsf\u00f6rderung der Welt-gesundheitsorganisation (WHO) von 19862, welche als grundlegendes Dokument f\u00fcr die mo-derne Gesundheitsf\u00f6rderung weltweit anerkannt ist.\r\nPr\u00e4vention ist aus Sicht der Arbeitsmedizin von zentraler Bedeutung. Betriebs\u00e4rztinnen und -\u00e4rzte tragen bereits heute ma\u00dfgeblich zur medizinischen Pr\u00e4vention und Gesundheitsf\u00f6r-derung bei, indem sie in Betrieben und Unternehmen vielf\u00e4ltige Ma\u00dfnahmen zur F\u00f6rderung der Gesundheit der Besch\u00e4ftigten umsetzen. Die Arbeitswelt stellt dabei das gr\u00f6\u00dfte Setting f\u00fcr pr\u00e4ventive gesundheitliche Ma\u00dfnahmen dar, da ein Gro\u00dfteil der Bev\u00f6lkerung einen gro\u00dfen Teil ihrer Zeit im Arbeitsumfeld verbringt. Betriebs\u00e4rztinnen und -\u00e4rzte sorgen f\u00fcr gesundheitsf\u00f6r-derliche Arbeitsbedingungen, f\u00fchren Vorsorgeuntersuchungen durch und beraten Unterneh-men umfassend zu pr\u00e4ventiven Ma\u00dfnahmen. Mit der Verordnung zur Arbeitsmedizinischen Vorsorge und insbesondere unter Konkretisierung durch Arbeitsmedizinischen Regel 3.3 ver-folgen diese schon heute einen ganzheitlichen, systemischen, integrativen und integrierenden Ansatz f\u00fcr die organisationale Beratung sowohl von Arbeitgebenden in den Betrieben und \r\nUnternehmen als auch in der arbeitsmedizinischen Versorgung von Besch\u00e4ftigten in den Berei-chen der medizinischen Pr\u00e4vention, Kuration und Rehabilitation.\r\nForderung zur Integration des Settingansatzes\r\nEin neu zu schaffendes Bundesinstitut f\u00fcr Pr\u00e4vention und Aufkl\u00e4rung in der Medizin (BIPAM) muss u. E. den Settingansatz verfolgen, um effektiv und nachhaltig die Gesundheit der Bev\u00f6l-kerung gem\u00e4\u00df der Health-in-all-Policies-Strategie3 zu f\u00f6rdern. Daher sollte der Settingansatz explizit im Gesetz verankert werden. Dies w\u00fcrde sicherstellen, dass das BIPAM folgende Kern-aufgaben integriert und in den daraus resultierenden Prozessen koordiniert:\r\nGestaltung gesundheitsf\u00f6rderlicher Lebenswelten:\r\n\u2022\r\nInitiativen und Ma\u00dfnahmen zur F\u00f6rderung der Gesundheit in verschiedenen Lebenswel-ten wie Schulen, Arbeitspl\u00e4tzen und Gemeinden entwickeln und unterst\u00fctzen.\r\n\u2022\r\nStrukturen schaffen, die es erm\u00f6glichen, gesundheitsf\u00f6rdernde Ver\u00e4nderungen in den Lebenswelten der Menschen zu etablieren.\r\nIntersektorale Zusammenarbeit:\r\n\u2022\r\nZusammenarbeit mit verschiedenen Sektoren und Akteuren, um die gesundheitsf\u00f6rder-lichen Bedingungen in allen Lebensbereichen zu verbessern.\r\n\u2022\r\nVernetzung und Kooperationen zwischen Gesundheitsdienstleistern, Bildungseinrich-tungen, Arbeitgebern, Gemeinden und anderen relevanten Akteuren f\u00f6rdern.\r\nPartizipation der Bev\u00f6lkerung:\r\n\u2022\r\nAktive Einbeziehung der Bev\u00f6lkerung in die Gestaltung und Umsetzung von Gesund-heitsf\u00f6rderungsma\u00dfnahmen.\r\n\u2022\r\nF\u00f6rderung der Gesundheitskompetenz und St\u00e4rkung der Selbstbestimmung der Men-schen in ihren Lebenswelten.\r\nDie Ber\u00fccksichtigung des Settingansatzes im Gesetz zur St\u00e4rkung der \u00d6ffentlichen Gesundheit ist daher unerl\u00e4sslich, um den umfassenden Anforderungen einer modernen Gesundheitsf\u00f6r-derung gerecht zu werden. Wir empfehlen daher dringend, den Settingansatz als integralen Be-standteil im Gesetzentwurf zu verankern und die entsprechenden Ma\u00dfnahmen und Strukturen im BIPAM zu etablieren.\r\n1 https://www.bzga.de/ueber-uns/\r\n2 https://iris.who.int/bitstream/handle/10665/349654/WHO EURO 1986 4044 43803 61669 ger.pdf?se-\r\nquence=1&isAllowed=y"
+                        }
+                    }
+                ],
+                "title": "Gesetzentwurf zur St\u00e4rkung der \u00d6ffentlichen Gesundheit"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Verbesserung der Versorgungsschnittstelle zwischen betrieblicher Pr\u00e4vention und Gesundheitsf\u00f6rderung durch Betriebs\u00e4rzte sowie Kuaration (Vertrags\u00e4rzte, Krankenh\u00e4user) und Rehabilitation (Reha-Einrichtungen) vor dem Hintergrund der Umsetzung der AMR 3.3 Ganzheitliche arbeitsmedizinische Versorgung.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/G/GHG_RefE_bf.pdf",
+                            "draftBillProjectUrl": "https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/ghg.html",
+                            "shortTitle": "BMG",
+                            "title": "Bundesministerium f\u00fcr Gesundheit",
+                            "url": "https://www.bundesgesundheitsministerium.de/"
+                        }
+                    ],
+                    "publicationDate": "2024-06-19",
+                    "title": "Gesetz zur St\u00e4rkung der Herzgesundheit (Gesundes-Herz-Gesetz)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011533",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/22/5d/341810/Stellungnahme-Gutachten-SG2408080001.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                        "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                        "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                                    }
+                                ],
+                                "sendingDate": "2024-07-05"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0011533",
+                        "regulatoryProjectTitle": "Gesundes-Herz-Gesetz",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "\u00dcber 9.000 Betriebs\u00e4rztinnen und -\u00e4rzte betreuen in Deutschland auf Grundlage der Arbeitsschutzgesetzgebung \u00fcber 46 Mio. Erwerbst\u00e4tige. Mit den regelm\u00e4\u00dfigen arbeitsmedizinischen Vorsorgen erf\u00fcllen sie nicht nur die nach dem Arbeitssicherheitsgesetz definierten Aufgaben unter Ber\u00fccksichtigung der Verordnung zur Arbeitsmedizinischen Vorsorge, sondern leisten bereits jetzt einen entscheidenden Beitrag im gr\u00f6\u00dften Pr\u00e4ventionssetting, der Arbeitswelt1.\r\nVor diesem Hintergrund begr\u00fc\u00dfen wir ausdr\u00fccklich die Zielstellung des Gesetzentwurfs, die Fr\u00fcherkennung und die Versorgung von Herz-Kreislauf-Erkrankungen zu verbessern.\r\nAls Vertretende des prim\u00e4r pr\u00e4ventiv ausgerichteten Fachgebietes der Arbeitsmedizin m\u00f6chten wir allerdings auf einige wichtige Aspekte verweisen, die man in einem Gesetz zur Pr\u00e4vention von Herzkrankheiten ber\u00fccksichtigen sollte:\r\n1.\r\nZur Beratung zur Pr\u00e4vention und Fr\u00fcherkennung von Erkrankungen und Erkrankungsrisiken in Apotheken:\r\nBei der in der Arbeitsmedizinischen Regel 3.3 beschriebenen Ganzheitlichen Arbeitsmedizin finden alle Arbeitsbedingungen und alle arbeitsbedingten Gef\u00e4hrdungen sowie die individuellen Wechselwirkungen von Arbeit und physischer und psychischer Gesundheit Ber\u00fccksichtigung2, sodass hier eine umfassende Beratung stattfindet. Im Sinne einer effizienten Versorgung sollten vor diesem Hintergrund Doppeluntersuchungen oder \u00dcberschneidungen vermieden werden. Denn die Erfassung u.a. kardiovaskul\u00e4rer Risikofaktoren und die Messung der Vitalparameter ist Standard in der arbeitsmedizinischen Vorsorge, so dass es in der Praxis sicherlich nicht wenige F\u00e4lle gibt, in denen Betriebs\u00e4rzte und \u00c4rztinnen bei Verdacht auf eine arterielle Hypertonie an die weitere Abkl\u00e4rung im haus\u00e4rztlichen Setting verwiesen haben. Damit kommt der Arbeitsmedizin und v.a. der arbeitsmedizinischen Vorsorge insbesondere unter demAspekt der mit dem Gesetz angestrebten Verbesserung der Fr\u00fcherkennung bei Erwachsenen eine gro\u00dfe Bedeutung zu.\r\nDar\u00fcber hinaus finden medizinische Pr\u00e4ventionsberatung und das ggf. Ableiten weiterer Ma\u00dfnahmen auf der Grundlage der Anamnese, der Ber\u00fccksichtigung auch lebensstilassoziierter Risikofaktoren und Untersuchungsergebnisse im besonders gesch\u00fctzten Arzt-Patient-Gespr\u00e4ch statt, wie in der Gesundheitsuntersuchungs-Richtlinie des G-BA festgehalten3. Gem\u00e4\u00df 3.7 der Leitlinie Pr\u00e4vention von Herz-Kreislauf-Erkrankungen sollte die Aufkl\u00e4rung \u00fcber das individuelle Risiko und die Behandlungsm\u00f6glichkeiten auf die Bed\u00fcrfnisse des Patienten abgestimmt sein.4 Diese \u00e4rztliche Expertise kann nicht durch Beratungsangebote in Apotheken ersetzt werden.\r\n2.\r\nZur Verbesserung der Fr\u00fcherkennung bei Erwachsenen:\r\nPr\u00e4ventive Beratung, Fr\u00fcherkennung und Ableitung eventuell erforderlicher Ma\u00dfnahmen mit dem Ziel arbeitsbedingte Erkrankungen zu verh\u00fcten und Besch\u00e4ftigungsf\u00e4higkeit zu erhalten geh\u00f6ren zu den genuinen Aufgaben der Betriebs\u00e4rztinnen und -\u00e4rzte. Im Sinne der einer nachhaltigen und effektiven L\u00f6sung sollte diese existierende Kompetenz als geeignete Ressource aussch\u00f6pfend zur Verfolgung des im Gesetzentwurf formulierten Pr\u00e4ventionsziels genutzt werden. Konkret fassen wir zusammen:\r\n\u25ba\r\nEs sind Ma\u00dfnahmen zu f\u00f6rdern, die die betriebs\u00e4rztliche individuelle Beratungsleistung sichtbar machen.\r\n\u25ba\r\nEs sind Ma\u00dfnahmen zu f\u00f6rdern, die Verg\u00fctungsregelungen nach \u00a7 132f SGB V zulassen.\r\n\u25ba\r\nEs sind Ma\u00dfnahmen zu f\u00f6rdern, die Doppeluntersuchungen oder \u00dcberschneidungen ausschlie\u00dfen.\r\n\u25ba\r\nBeratungsangebote in Apotheken k\u00f6nnen \u00e4rztliche Expertise nicht ersetzen.\r\n3.\r\nSeit dem Pr\u00e4ventionsgesetz 2015 besteht bereits eine gesetzliche Grundlage f\u00fcr die Umsetzung der vorbenannt genannten Ma\u00dfnahmen. Denn in \u00a7 132f SGB V hei\u00dft es: \u201eDie Krankenkassen oder ihre Verb\u00e4nde k\u00f6nnen in Erg\u00e4nzung zur vertrags\u00e4rztlichen Versorgung und unter Ber\u00fccksichtigung der Richtlinien nach \u00a7 25 Absatz 4 Satz 2 mit geeigneten Fach\u00e4rzten f\u00fcr Arbeitsmedizin oder den \u00fcber die Zusatzbezeichnung \u201eBetriebsmedizin\u201c verf\u00fcgenden \u00c4rzten oder deren Gemeinschaften Vertr\u00e4ge \u00fcber die Durchf\u00fchrung von Gesundheitsuntersuchungen nach \u00a7 25 Absatz 1, \u00fcber Ma\u00dfnahmen zur betrieblichen Gesundheitsf\u00f6rderung, \u00fcber Pr\u00e4ventionsempfehlungen, Empfehlungen medizinischer Vorsorgeleistungen und \u00fcber die Heilmittelversorgung schlie\u00dfen, soweit diese in Erg\u00e4nzung zur arbeitsmedizinischen Vorsorge erbracht werden.\u201c\r\nAllerdings behindert in der Praxis einer ad\u00e4quaten pr\u00e4ventivmedizinischen Gesundheitsversorgung der Bev\u00f6lkerung die in dieser Regelung festgeschriebene Freiwilligkeit die Effektivit\u00e4t des Pr\u00e4ventionsgesetztes so sehr, dass wir eine Umwandlung dieser Regelung in eine Pflicht als nachhaltiger und wirkungsvoller betrachten als die Einf\u00fchrung von Check-Ups und den Versand von Gutscheinen.\r\n4.\r\nDas von der Bundesregierung geplante Gesetzesvorhaben beurteilen wir ebenfalls im Zusammenhang des strategischen Rahmens der Europ\u00e4ischen Union (EU) f\u00fcr Gesundheit und Sicherheit am Arbeitsplatz 2021\u20132027; siehe https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:52021DC0323:\r\n\r\n\r\n1 https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:52021DC0323\r\n2 https://www.baua.de/DE/Angebote/Regelwerk/AMR/pdf/AMR-3-3.pdf?__blob=publicationFile&v=5\r\n3 https://www.g-ba.de/downloads/62-492-2383/GU-RL_2020-11-20_iK-2021-02-12.pdf\r\n4 https://leitlinien.dgk.org/files/03_2021_pocket_leitlinien_praevention_aktualisiert.pdf"
+                        }
+                    }
+                ],
+                "title": "Gesundes-Herz-Gesetz"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Der aktuelle Gesetzentwurf vernachl\u00e4ssige die Notwendigkeit praktikabler L\u00f6sungen f\u00fcr die Impfstoffbeschaffung und Abrechnung f\u00fcr Betriebs\u00e4rzte. Derzeit k\u00f6nnen diese nicht am Beschaffungsweg \u00fcber den sog. Sprechstundenbedarf (SSB) partizipieren. Damit fehlten f\u00fcr die Betriebs\u00e4rzt:innen nach wie vor L\u00f6sungen zur vereinfachten Impfstoffbeschaffung und Abrechnung, wie in \u00a7 132e SGB V, gefordert. Da die Beschaffung und Bevorratung von Impfstoffen insbesondere bei selbstst\u00e4ndigen Betriebs\u00e4rzten auf eigenes wirtschaftliches Risko erfolgt und die GKV hier den Apothekeneinkaufspreis zzgl. 3% Zuschlag verg\u00fcten, lehnt die DGAUM die im Gesetzesentwurf geplante Herabsetzung des Zuschlages ab und forderten eine Ausnahmeregelung f\u00fcr Betriebs\u00e4rzt:innen.\r\n\r\n",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/A/ApoRG-Apotheken-Reformgesetz_RefE.pdf",
+                            "draftBillProjectUrl": "https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/aporg.html",
+                            "shortTitle": "BMG",
+                            "title": "Bundesministerium f\u00fcr Gesundheit",
+                            "url": "https://www.bundesgesundheitsministerium.de/"
+                        }
+                    ],
+                    "publicationDate": "2024-06-14",
+                    "title": "Gesetz f\u00fcr eine Apothekenhonorar- und Apothekenstrukturreform (Apotheken-Reformgesetz)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011534",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/41/81/341812/Stellungnahme-Gutachten-SG2408080002.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                        "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                        "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-27"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0011534",
+                        "regulatoryProjectTitle": "Apotheken-Reformgesetz",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "1. Die arbeitsmedizinischen Verb\u00e4nde begr\u00fc\u00dfen grunds\u00e4tzlich alle Bem\u00fchungen zur\r\nVerbesserung der Durchimpfungsraten in der Gesamtbev\u00f6lkerung Deutschlands.\r\n2. Im Impfgeschehen sind allerdings genuin medizinische Kenntnisse zwingend: insbesondere\r\nin der Anamnese, der Beratung und der Nachsorgen von Impfungen.\r\nSiehe dazu die G-BA SI-RL vom 30.05.2024, https://www.g-ba.de/downloads/62-492-3453/SIRL_\r\n2024-03-07_iK-2024-05-30.pdf, in den \u00a7\u00a7 7, 9 und 10 wird explizit auf die Aufkl\u00e4rungspflichten\r\nund Qualifikationsanforderungen zur Durchf\u00fchrung von Schutzimpfungen verwiesen. Daher stellt\r\nsich f\u00fcr uns ebenfalls diese Frage: Wenn in Apotheken \u201ealle Totimpfstoffe\u201c verimpft werden\r\nsollen, wer dann f\u00fcr Menschen ohne haus\u00e4rztliche Betreuung die Durchf\u00fchrung mit\r\n\u201eLebendimpfstoffen\u201c verantworten wird (siehe Situation Masern unter\r\nhttps://edoc.rki.de/handle/176904/11635 ). Zudem stellt sich die Frage, ob die beim Influenza-\r\nImpfgeschehen einbezogenen Apotheken wirklich \u00fcber ausreichend Ressourcen verf\u00fcgen. Eine\r\nm\u00f6glicherweise wirkungsm\u00e4chtigere Alternative w\u00e4re, zus\u00e4tzliche Initiativen und Ma\u00dfnahmen zu\r\nergreifen, um Betriebs\u00e4rztinnen und Betriebs\u00e4rzte im betrieblichen Setting die nach dem\r\nPr\u00e4ventionsgesetz (Pr\u00e4vG) grunds\u00e4tzlich zugewiesene Einbeziehung in die Individualpr\u00e4vention\r\nzu erleichtern.\r\n3. Im gr\u00f6\u00dften Pr\u00e4ventionssetting unserer Gesellschaft, in der Arbeitswelt, sind hervorragende\r\nRahmenbedingungen gegeben, um die Impfraten in der Bev\u00f6lkerung zu verbessern: Die \u00fcber\r\n9.000 Betriebs\u00e4rztinnen und Betriebs\u00e4rzte betreuen \u00fcber 46 Millionen Erwerbst\u00e4tige. Alle\r\nhaben Anspruch auf arbeitsmedizinische Vorsorgen, in deren Rahmen sowohl der\r\nImpfstatus eines jeden Erwerbst\u00e4tigen \u00fcberpr\u00fcft als auch bestehende Impfl\u00fccken durch\r\nImpfungen auch von Betriebs\u00e4rztinnen und Betriebs\u00e4rzten geschlossen werden k\u00f6nnen.\r\nIn der arbeitsmedizinischen Betreuung findet korrekterweise die AMR 6.5 \u201eImpfungen als\r\nBestandteil der arbeitsmedizinischen Vorsorge Anwendung\u201c. Unter Punkt 3 \u201eFeststellung eines\r\nt\u00e4tigkeitsbedingten und im Vergleich zur Allgemeinbev\u00f6lkerung erh\u00f6hten Infektionsrisikos\u201c\r\nwerden die in der Regel im Rahmen einer Pflichtvorsorge anfallenden Schutzimpfungen auf der\r\nGrundlage der individuellen Gef\u00e4hrdungsbeurteilung angeboten und durchgef\u00fchrt (siehe https://www.baua.de/DE/Angebote/Regelwerk/AMR/AMR-6-5.html). Im Einzelfall kann das die\r\nabsurde Situation herbeif\u00fchren, dass Besch\u00e4ftigte zwar bspw. eine Hepatis-A-Schutzimpfung\r\nbekommen, ausstehende Keuchhusten-, Masern- oder Windpockenimpfungen jedoch\r\nunber\u00fccksichtigt bleiben, obwohl sie sogar parallel verabreicht werden k\u00f6nnten.\r\n4. Mit \u00a7 132e SGB V sind seit dem Pr\u00e4ventionsgesetz (Pr\u00e4vG) seit 2015 die Voraussetzungen\r\nauch im Bereich der Individualpr\u00e4vention gegeben, um niederschwellig Impfungen am\r\nArbeitsplatz anzubieten. Allerdings fehlen f\u00fcr die Betriebs\u00e4rztinnen und Betriebs\u00e4rzte nach\r\nwie vor praktikable L\u00f6sungen zur vereinfachten Impfstoffbeschaffung und Abrechnung, wie\r\ndiese im Vertragsarztbereich bekannt sind. Hier besteht weiterhin Handlungsbedarf, da die\r\nam Arbeitsplatz impfenden Betriebs\u00e4rztinnen und -\u00e4rzte aktuell keine M\u00f6glichkeit haben,\r\nam Beschaffungsweg \u00fcber den sog. Sprechstundenbedarf (SSB) zu partizipieren. Die\r\nBeschaffung und Bevorratung erfolgt auf eigenes wirtschaftliches Risko. Die GKV verg\u00fcten\r\nhier den Apothekeneinkaufspreis zzgl. 3% Zuschlags (Handlinggeb\u00fchr).\r\nVor diesem Hintergrund m\u00f6chten wir anregen, in die neue gesetzliche Regelung eine Klarstellung\r\naufzunehmen, nach der die im Gesetzentwurf geplante Herabsetzung des 3 %-igen Zuschlags f\u00fcr\r\ndie Abgabe von Impfstoffen und ebenso die schrittweise Heraufsetzung des Fixum bei\r\nImpfungen, die im Rahmen von Schutzimpfungen im Sinne der \u00a7 20i und 132e SGB V\r\nvorgenommen werden, insbesondere f\u00fcr impfende Betriebs\u00e4rztinnen und Betriebs\u00e4rzte keine\r\nAnwendung finden darf."
+                        }
+                    }
+                ],
+                "title": "Apotheken-Reformgesetz"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/5c/7a/341808/Stellungnahme-Gutachten-SG2408070026.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                            }
+                        ],
+                        "sendingDate": "2024-07-02"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0011532",
+                "regulatoryProjectTitle": "Gesetzentwurf zur St\u00e4rkung der \u00d6ffentlichen Gesundheit",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Referentenentwurf eines Gesetzes zur St\u00e4rkung der \u00d6ffentlichen Gesundheit / Gesch\u00e4ftszeichen: PG-B\u00d6G-11570-06\r\nSehr geehrte Damen und Herren,\r\nim Namen der drei Verb\u00e4nde der Arbeitsmedizin mit ihren \u00fcber 6.000 Mitgliedern m\u00f6chten wir zum Referentenentwurf eines Gesetzes zur St\u00e4rkung der \u00d6ffentlichen Gesundheit Stellung neh-men. Wir begr\u00fc\u00dfen ausdr\u00fccklich die Schaffung eines Bundesinstituts f\u00fcr Pr\u00e4vention und Auf-kl\u00e4rung in der Medizin (BIPAM) als zentralen Bestandteil zur St\u00e4rkung der \u00d6ffentlichen Gesund-heit in Deutschland. Aus Sicht der Arbeitsmedizin ist die Pr\u00e4vention von entscheidender Be-deutung, und Betriebs\u00e4rztinnen und -\u00e4rzte leisten bereits heute einen bedeutenden Beitrag zur medizinischen Pr\u00e4vention und Gesundheitsf\u00f6rderung. Die Arbeitswelt stellt mit \u00fcber 46 Millio-nen Erwerbst\u00e4tigen das gr\u00f6\u00dfte pr\u00e4ventionsmedizinische Setting in unserer Gesellschaft dar.\r\nRelevanz des Settingansatzes\r\nDer Settingansatz oder Lebensweltansatz ist eine zentrale Strategie der Gesundheitsf\u00f6rderung, die von der Bundeszentrale f\u00fcr gesundheitliche Aufkl\u00e4rung (BZgA) als Kernstrategie1 anerkannt wird. Dieser Ansatz ist fest verankert in der Ottawa Charta f\u00fcr Gesundheitsf\u00f6rderung der Welt-gesundheitsorganisation (WHO) von 19862, welche als grundlegendes Dokument f\u00fcr die mo-derne Gesundheitsf\u00f6rderung weltweit anerkannt ist.\r\nPr\u00e4vention ist aus Sicht der Arbeitsmedizin von zentraler Bedeutung. Betriebs\u00e4rztinnen und -\u00e4rzte tragen bereits heute ma\u00dfgeblich zur medizinischen Pr\u00e4vention und Gesundheitsf\u00f6r-derung bei, indem sie in Betrieben und Unternehmen vielf\u00e4ltige Ma\u00dfnahmen zur F\u00f6rderung der Gesundheit der Besch\u00e4ftigten umsetzen. Die Arbeitswelt stellt dabei das gr\u00f6\u00dfte Setting f\u00fcr pr\u00e4ventive gesundheitliche Ma\u00dfnahmen dar, da ein Gro\u00dfteil der Bev\u00f6lkerung einen gro\u00dfen Teil ihrer Zeit im Arbeitsumfeld verbringt. Betriebs\u00e4rztinnen und -\u00e4rzte sorgen f\u00fcr gesundheitsf\u00f6r-derliche Arbeitsbedingungen, f\u00fchren Vorsorgeuntersuchungen durch und beraten Unterneh-men umfassend zu pr\u00e4ventiven Ma\u00dfnahmen. Mit der Verordnung zur Arbeitsmedizinischen Vorsorge und insbesondere unter Konkretisierung durch Arbeitsmedizinischen Regel 3.3 ver-folgen diese schon heute einen ganzheitlichen, systemischen, integrativen und integrierenden Ansatz f\u00fcr die organisationale Beratung sowohl von Arbeitgebenden in den Betrieben und \r\nUnternehmen als auch in der arbeitsmedizinischen Versorgung von Besch\u00e4ftigten in den Berei-chen der medizinischen Pr\u00e4vention, Kuration und Rehabilitation.\r\nForderung zur Integration des Settingansatzes\r\nEin neu zu schaffendes Bundesinstitut f\u00fcr Pr\u00e4vention und Aufkl\u00e4rung in der Medizin (BIPAM) muss u. E. den Settingansatz verfolgen, um effektiv und nachhaltig die Gesundheit der Bev\u00f6l-kerung gem\u00e4\u00df der Health-in-all-Policies-Strategie3 zu f\u00f6rdern. Daher sollte der Settingansatz explizit im Gesetz verankert werden. Dies w\u00fcrde sicherstellen, dass das BIPAM folgende Kern-aufgaben integriert und in den daraus resultierenden Prozessen koordiniert:\r\nGestaltung gesundheitsf\u00f6rderlicher Lebenswelten:\r\n\u2022\r\nInitiativen und Ma\u00dfnahmen zur F\u00f6rderung der Gesundheit in verschiedenen Lebenswel-ten wie Schulen, Arbeitspl\u00e4tzen und Gemeinden entwickeln und unterst\u00fctzen.\r\n\u2022\r\nStrukturen schaffen, die es erm\u00f6glichen, gesundheitsf\u00f6rdernde Ver\u00e4nderungen in den Lebenswelten der Menschen zu etablieren.\r\nIntersektorale Zusammenarbeit:\r\n\u2022\r\nZusammenarbeit mit verschiedenen Sektoren und Akteuren, um die gesundheitsf\u00f6rder-lichen Bedingungen in allen Lebensbereichen zu verbessern.\r\n\u2022\r\nVernetzung und Kooperationen zwischen Gesundheitsdienstleistern, Bildungseinrich-tungen, Arbeitgebern, Gemeinden und anderen relevanten Akteuren f\u00f6rdern.\r\nPartizipation der Bev\u00f6lkerung:\r\n\u2022\r\nAktive Einbeziehung der Bev\u00f6lkerung in die Gestaltung und Umsetzung von Gesund-heitsf\u00f6rderungsma\u00dfnahmen.\r\n\u2022\r\nF\u00f6rderung der Gesundheitskompetenz und St\u00e4rkung der Selbstbestimmung der Men-schen in ihren Lebenswelten.\r\nDie Ber\u00fccksichtigung des Settingansatzes im Gesetz zur St\u00e4rkung der \u00d6ffentlichen Gesundheit ist daher unerl\u00e4sslich, um den umfassenden Anforderungen einer modernen Gesundheitsf\u00f6r-derung gerecht zu werden. Wir empfehlen daher dringend, den Settingansatz als integralen Be-standteil im Gesetzentwurf zu verankern und die entsprechenden Ma\u00dfnahmen und Strukturen im BIPAM zu etablieren.\r\n1 https://www.bzga.de/ueber-uns/\r\n2 https://iris.who.int/bitstream/handle/10665/349654/WHO EURO 1986 4044 43803 61669 ger.pdf?se-\r\nquence=1&isAllowed=y"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/22/5d/341810/Stellungnahme-Gutachten-SG2408080001.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                            }
+                        ],
+                        "sendingDate": "2024-07-05"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0011533",
+                "regulatoryProjectTitle": "Gesundes-Herz-Gesetz",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "\u00dcber 9.000 Betriebs\u00e4rztinnen und -\u00e4rzte betreuen in Deutschland auf Grundlage der Arbeitsschutzgesetzgebung \u00fcber 46 Mio. Erwerbst\u00e4tige. Mit den regelm\u00e4\u00dfigen arbeitsmedizinischen Vorsorgen erf\u00fcllen sie nicht nur die nach dem Arbeitssicherheitsgesetz definierten Aufgaben unter Ber\u00fccksichtigung der Verordnung zur Arbeitsmedizinischen Vorsorge, sondern leisten bereits jetzt einen entscheidenden Beitrag im gr\u00f6\u00dften Pr\u00e4ventionssetting, der Arbeitswelt1.\r\nVor diesem Hintergrund begr\u00fc\u00dfen wir ausdr\u00fccklich die Zielstellung des Gesetzentwurfs, die Fr\u00fcherkennung und die Versorgung von Herz-Kreislauf-Erkrankungen zu verbessern.\r\nAls Vertretende des prim\u00e4r pr\u00e4ventiv ausgerichteten Fachgebietes der Arbeitsmedizin m\u00f6chten wir allerdings auf einige wichtige Aspekte verweisen, die man in einem Gesetz zur Pr\u00e4vention von Herzkrankheiten ber\u00fccksichtigen sollte:\r\n1.\r\nZur Beratung zur Pr\u00e4vention und Fr\u00fcherkennung von Erkrankungen und Erkrankungsrisiken in Apotheken:\r\nBei der in der Arbeitsmedizinischen Regel 3.3 beschriebenen Ganzheitlichen Arbeitsmedizin finden alle Arbeitsbedingungen und alle arbeitsbedingten Gef\u00e4hrdungen sowie die individuellen Wechselwirkungen von Arbeit und physischer und psychischer Gesundheit Ber\u00fccksichtigung2, sodass hier eine umfassende Beratung stattfindet. Im Sinne einer effizienten Versorgung sollten vor diesem Hintergrund Doppeluntersuchungen oder \u00dcberschneidungen vermieden werden. Denn die Erfassung u.a. kardiovaskul\u00e4rer Risikofaktoren und die Messung der Vitalparameter ist Standard in der arbeitsmedizinischen Vorsorge, so dass es in der Praxis sicherlich nicht wenige F\u00e4lle gibt, in denen Betriebs\u00e4rzte und \u00c4rztinnen bei Verdacht auf eine arterielle Hypertonie an die weitere Abkl\u00e4rung im haus\u00e4rztlichen Setting verwiesen haben. Damit kommt der Arbeitsmedizin und v.a. der arbeitsmedizinischen Vorsorge insbesondere unter demAspekt der mit dem Gesetz angestrebten Verbesserung der Fr\u00fcherkennung bei Erwachsenen eine gro\u00dfe Bedeutung zu.\r\nDar\u00fcber hinaus finden medizinische Pr\u00e4ventionsberatung und das ggf. Ableiten weiterer Ma\u00dfnahmen auf der Grundlage der Anamnese, der Ber\u00fccksichtigung auch lebensstilassoziierter Risikofaktoren und Untersuchungsergebnisse im besonders gesch\u00fctzten Arzt-Patient-Gespr\u00e4ch statt, wie in der Gesundheitsuntersuchungs-Richtlinie des G-BA festgehalten3. Gem\u00e4\u00df 3.7 der Leitlinie Pr\u00e4vention von Herz-Kreislauf-Erkrankungen sollte die Aufkl\u00e4rung \u00fcber das individuelle Risiko und die Behandlungsm\u00f6glichkeiten auf die Bed\u00fcrfnisse des Patienten abgestimmt sein.4 Diese \u00e4rztliche Expertise kann nicht durch Beratungsangebote in Apotheken ersetzt werden.\r\n2.\r\nZur Verbesserung der Fr\u00fcherkennung bei Erwachsenen:\r\nPr\u00e4ventive Beratung, Fr\u00fcherkennung und Ableitung eventuell erforderlicher Ma\u00dfnahmen mit dem Ziel arbeitsbedingte Erkrankungen zu verh\u00fcten und Besch\u00e4ftigungsf\u00e4higkeit zu erhalten geh\u00f6ren zu den genuinen Aufgaben der Betriebs\u00e4rztinnen und -\u00e4rzte. Im Sinne der einer nachhaltigen und effektiven L\u00f6sung sollte diese existierende Kompetenz als geeignete Ressource aussch\u00f6pfend zur Verfolgung des im Gesetzentwurf formulierten Pr\u00e4ventionsziels genutzt werden. Konkret fassen wir zusammen:\r\n\u25ba\r\nEs sind Ma\u00dfnahmen zu f\u00f6rdern, die die betriebs\u00e4rztliche individuelle Beratungsleistung sichtbar machen.\r\n\u25ba\r\nEs sind Ma\u00dfnahmen zu f\u00f6rdern, die Verg\u00fctungsregelungen nach \u00a7 132f SGB V zulassen.\r\n\u25ba\r\nEs sind Ma\u00dfnahmen zu f\u00f6rdern, die Doppeluntersuchungen oder \u00dcberschneidungen ausschlie\u00dfen.\r\n\u25ba\r\nBeratungsangebote in Apotheken k\u00f6nnen \u00e4rztliche Expertise nicht ersetzen.\r\n3.\r\nSeit dem Pr\u00e4ventionsgesetz 2015 besteht bereits eine gesetzliche Grundlage f\u00fcr die Umsetzung der vorbenannt genannten Ma\u00dfnahmen. Denn in \u00a7 132f SGB V hei\u00dft es: \u201eDie Krankenkassen oder ihre Verb\u00e4nde k\u00f6nnen in Erg\u00e4nzung zur vertrags\u00e4rztlichen Versorgung und unter Ber\u00fccksichtigung der Richtlinien nach \u00a7 25 Absatz 4 Satz 2 mit geeigneten Fach\u00e4rzten f\u00fcr Arbeitsmedizin oder den \u00fcber die Zusatzbezeichnung \u201eBetriebsmedizin\u201c verf\u00fcgenden \u00c4rzten oder deren Gemeinschaften Vertr\u00e4ge \u00fcber die Durchf\u00fchrung von Gesundheitsuntersuchungen nach \u00a7 25 Absatz 1, \u00fcber Ma\u00dfnahmen zur betrieblichen Gesundheitsf\u00f6rderung, \u00fcber Pr\u00e4ventionsempfehlungen, Empfehlungen medizinischer Vorsorgeleistungen und \u00fcber die Heilmittelversorgung schlie\u00dfen, soweit diese in Erg\u00e4nzung zur arbeitsmedizinischen Vorsorge erbracht werden.\u201c\r\nAllerdings behindert in der Praxis einer ad\u00e4quaten pr\u00e4ventivmedizinischen Gesundheitsversorgung der Bev\u00f6lkerung die in dieser Regelung festgeschriebene Freiwilligkeit die Effektivit\u00e4t des Pr\u00e4ventionsgesetztes so sehr, dass wir eine Umwandlung dieser Regelung in eine Pflicht als nachhaltiger und wirkungsvoller betrachten als die Einf\u00fchrung von Check-Ups und den Versand von Gutscheinen.\r\n4.\r\nDas von der Bundesregierung geplante Gesetzesvorhaben beurteilen wir ebenfalls im Zusammenhang des strategischen Rahmens der Europ\u00e4ischen Union (EU) f\u00fcr Gesundheit und Sicherheit am Arbeitsplatz 2021\u20132027; siehe https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:52021DC0323:\r\n\r\n\r\n1 https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:52021DC0323\r\n2 https://www.baua.de/DE/Angebote/Regelwerk/AMR/pdf/AMR-3-3.pdf?__blob=publicationFile&v=5\r\n3 https://www.g-ba.de/downloads/62-492-2383/GU-RL_2020-11-20_iK-2021-02-12.pdf\r\n4 https://leitlinien.dgk.org/files/03_2021_pocket_leitlinien_praevention_aktualisiert.pdf"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/41/81/341812/Stellungnahme-Gutachten-SG2408080002.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMG",
+                                "de": "Bundesministerium f\u00fcr Gesundheit (BMG)",
+                                "en": "Bundesministerium f\u00fcr Gesundheit (BMG)"
+                            }
+                        ],
+                        "sendingDate": "2024-06-27"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0011534",
+                "regulatoryProjectTitle": "Apotheken-Reformgesetz",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "1. Die arbeitsmedizinischen Verb\u00e4nde begr\u00fc\u00dfen grunds\u00e4tzlich alle Bem\u00fchungen zur\r\nVerbesserung der Durchimpfungsraten in der Gesamtbev\u00f6lkerung Deutschlands.\r\n2. Im Impfgeschehen sind allerdings genuin medizinische Kenntnisse zwingend: insbesondere\r\nin der Anamnese, der Beratung und der Nachsorgen von Impfungen.\r\nSiehe dazu die G-BA SI-RL vom 30.05.2024, https://www.g-ba.de/downloads/62-492-3453/SIRL_\r\n2024-03-07_iK-2024-05-30.pdf, in den \u00a7\u00a7 7, 9 und 10 wird explizit auf die Aufkl\u00e4rungspflichten\r\nund Qualifikationsanforderungen zur Durchf\u00fchrung von Schutzimpfungen verwiesen. Daher stellt\r\nsich f\u00fcr uns ebenfalls diese Frage: Wenn in Apotheken \u201ealle Totimpfstoffe\u201c verimpft werden\r\nsollen, wer dann f\u00fcr Menschen ohne haus\u00e4rztliche Betreuung die Durchf\u00fchrung mit\r\n\u201eLebendimpfstoffen\u201c verantworten wird (siehe Situation Masern unter\r\nhttps://edoc.rki.de/handle/176904/11635 ). Zudem stellt sich die Frage, ob die beim Influenza-\r\nImpfgeschehen einbezogenen Apotheken wirklich \u00fcber ausreichend Ressourcen verf\u00fcgen. Eine\r\nm\u00f6glicherweise wirkungsm\u00e4chtigere Alternative w\u00e4re, zus\u00e4tzliche Initiativen und Ma\u00dfnahmen zu\r\nergreifen, um Betriebs\u00e4rztinnen und Betriebs\u00e4rzte im betrieblichen Setting die nach dem\r\nPr\u00e4ventionsgesetz (Pr\u00e4vG) grunds\u00e4tzlich zugewiesene Einbeziehung in die Individualpr\u00e4vention\r\nzu erleichtern.\r\n3. Im gr\u00f6\u00dften Pr\u00e4ventionssetting unserer Gesellschaft, in der Arbeitswelt, sind hervorragende\r\nRahmenbedingungen gegeben, um die Impfraten in der Bev\u00f6lkerung zu verbessern: Die \u00fcber\r\n9.000 Betriebs\u00e4rztinnen und Betriebs\u00e4rzte betreuen \u00fcber 46 Millionen Erwerbst\u00e4tige. Alle\r\nhaben Anspruch auf arbeitsmedizinische Vorsorgen, in deren Rahmen sowohl der\r\nImpfstatus eines jeden Erwerbst\u00e4tigen \u00fcberpr\u00fcft als auch bestehende Impfl\u00fccken durch\r\nImpfungen auch von Betriebs\u00e4rztinnen und Betriebs\u00e4rzten geschlossen werden k\u00f6nnen.\r\nIn der arbeitsmedizinischen Betreuung findet korrekterweise die AMR 6.5 \u201eImpfungen als\r\nBestandteil der arbeitsmedizinischen Vorsorge Anwendung\u201c. Unter Punkt 3 \u201eFeststellung eines\r\nt\u00e4tigkeitsbedingten und im Vergleich zur Allgemeinbev\u00f6lkerung erh\u00f6hten Infektionsrisikos\u201c\r\nwerden die in der Regel im Rahmen einer Pflichtvorsorge anfallenden Schutzimpfungen auf der\r\nGrundlage der individuellen Gef\u00e4hrdungsbeurteilung angeboten und durchgef\u00fchrt (siehe https://www.baua.de/DE/Angebote/Regelwerk/AMR/AMR-6-5.html). Im Einzelfall kann das die\r\nabsurde Situation herbeif\u00fchren, dass Besch\u00e4ftigte zwar bspw. eine Hepatis-A-Schutzimpfung\r\nbekommen, ausstehende Keuchhusten-, Masern- oder Windpockenimpfungen jedoch\r\nunber\u00fccksichtigt bleiben, obwohl sie sogar parallel verabreicht werden k\u00f6nnten.\r\n4. Mit \u00a7 132e SGB V sind seit dem Pr\u00e4ventionsgesetz (Pr\u00e4vG) seit 2015 die Voraussetzungen\r\nauch im Bereich der Individualpr\u00e4vention gegeben, um niederschwellig Impfungen am\r\nArbeitsplatz anzubieten. Allerdings fehlen f\u00fcr die Betriebs\u00e4rztinnen und Betriebs\u00e4rzte nach\r\nwie vor praktikable L\u00f6sungen zur vereinfachten Impfstoffbeschaffung und Abrechnung, wie\r\ndiese im Vertragsarztbereich bekannt sind. Hier besteht weiterhin Handlungsbedarf, da die\r\nam Arbeitsplatz impfenden Betriebs\u00e4rztinnen und -\u00e4rzte aktuell keine M\u00f6glichkeit haben,\r\nam Beschaffungsweg \u00fcber den sog. Sprechstundenbedarf (SSB) zu partizipieren. Die\r\nBeschaffung und Bevorratung erfolgt auf eigenes wirtschaftliches Risko. Die GKV verg\u00fcten\r\nhier den Apothekeneinkaufspreis zzgl. 3% Zuschlags (Handlinggeb\u00fchr).\r\nVor diesem Hintergrund m\u00f6chten wir anregen, in die neue gesetzliche Regelung eine Klarstellung\r\naufzunehmen, nach der die im Gesetzentwurf geplante Herabsetzung des 3 %-igen Zuschlags f\u00fcr\r\ndie Abgabe von Impfstoffen und ebenso die schrittweise Heraufsetzung des Fixum bei\r\nImpfungen, die im Rahmen von Schutzimpfungen im Sinne der \u00a7 20i und 132e SGB V\r\nvorgenommen werden, insbesondere f\u00fcr impfende Betriebs\u00e4rztinnen und Betriebs\u00e4rzte keine\r\nAnwendung finden darf."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

@@ -1,0 +1,801 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-06-29T09:48:39.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-16T11:46:39.000+01:00",
+        "lastUpdateDate": "2024-07-02T11:03:23.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 40323,
+                "validFromDate": "2024-07-02T11:03:23.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 35827,
+                "validFromDate": "2024-06-27T13:00:32.000+02:00",
+                "validUntilDate": "2024-07-02T11:03:23.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 13026,
+                "validFromDate": "2023-09-25T09:15:59.000+02:00",
+                "validUntilDate": "2024-06-27T13:00:32.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 9682,
+                "validFromDate": "2022-06-29T09:48:39.000+02:00",
+                "validUntilDate": "2023-09-25T09:15:59.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_EMPLOYER_ASSOC",
+            "de": "Arbeitgeberverband",
+            "en": "Employers association"
+        },
+        "activityDescription": "Der BGL hat folgende Aufgaben: \r\n- die Wahrnehmung der fachlichen und gewerbepolitischen \r\nGesamtinteressen von G\u00fcterkraftverkehrs-, Logistik- und \r\nEntsorgungsunternehmen sowie Kraftwagenspeditionen, insbesondere \r\ngegen\u00fcber \u00d6ffentlichkeit, Politik, Beh\u00f6rden sowie anderen Organisationen \r\nund Institutionen auf nationaler und internationaler Ebene, \r\n\r\n- die T\u00e4tigkeit als Spitzenverband von Arbeitgebervereinigungen des \r\nVerkehrsgewerbes und die Vertretung von arbeits- und sozialrechtlichen \r\nsowie sozialpolitischen Belangen auf bundesweiter und internationaler \r\nEbene; \r\n\r\n- den Abschluss von Tarifvertr\u00e4gen, die \u00fcber den Rahmen der von seinen \r\nMitgliedern oder f\u00fcr diese abgeschlossenen Kollektivvereinbarungen \r\nhinausgehen, im Interesse des Gesamtgewerbes liegen und einer \r\nbundeseinheitlichen Regelung bed\u00fcrfen, \r\n\r\n- die F\u00f6rderung der Zusammenarbeit und des Erfahrungsaustauschs \r\nzwischen den Mitgliedsverb\u00e4nden und deren Mitgliedern, \r\n\r\n- die Beratung der Mitgliedsverb\u00e4nde und deren Mitglieder im Rahmen des \r\nsatzungsm\u00e4\u00dfigen Aufgabenbereiches, insbesondere in fachlichen, \r\nkaufm\u00e4nnischen oder rechtlichen Angelegenheiten.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_RPI_MIGRATION",
+                "de": "Migration",
+                "en": "Migration and residence"
+            },
+            {
+                "code": "FOI_IS_CRIME",
+                "de": "Kriminalit\u00e4tsbek\u00e4mpfung",
+                "en": "Fight against crime"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/94/7a/329129/GUV-Bilanz-2023-vorlaeufig.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 11.68,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 340001,
+            "to": 350000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Franz\u00f6sische Stra\u00dfe",
+            "streetNumber": "14",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "berlin@bgl-ev.de"
+                }
+            ],
+            "phoneNumber": "+49302024090",
+            "websites": [
+                {
+                    "website": "www.bgl-ev.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Prof. Dr.",
+                "firstName": "Dirk",
+                "lastName": "Engelhardt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "LL.M.",
+                "firstName": "Jens",
+                "lastName": "Pawlowski",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Werner",
+                "lastName": "Andres",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Guido",
+                "lastName": "Belger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Hans-Christian",
+                "lastName": "Daners",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Antje",
+                "lastName": "Jan\u00dfen",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Ursula",
+                "lastName": "Nies",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Stefan",
+                "lastName": "Sens",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Roger",
+                "lastName": "Schwarz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Miriam",
+                "lastName": "Schwarze",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Nina",
+                "lastName": "Zimmermann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Sabine",
+                "lastName": "Ziermann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Daniel",
+                "lastName": "Torres",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Prof. Dr.",
+                "entrustedPerson": true,
+                "firstName": "Dirk",
+                "function": "Vorstandsprecher",
+                "lastName": "Engelhardt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "LL.M.",
+                "entrustedPerson": true,
+                "firstName": "Jens",
+                "function": "Leiter der BGL-Repr\u00e4sentanz Berlin",
+                "lastName": "Pawlowski",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-12-31",
+            "naturalPersons": 0,
+            "organizations": 17,
+            "totalCount": 17
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Pro Mobilit\u00e4t e.V."
+            },
+            {
+                "membership": "Wirtschaftsrat der CDU e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Bundesverband G\u00fcterkraftverkehr Logistik und Entsorgung (BGL) e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 4040001,
+            "to": 4050000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R003514/40323",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-07-02T11:03:23.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a1/9f/329130/Lobbyregister-Detailansicht-R003514-2024-07-02_11-03-23.pdf",
+        "validFromDate": "2024-07-02T11:03:23.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 40323,
+    "registerNumber": "R003514",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "G\u00fcKG",
+                        "title": "G\u00fcterkraftverkehrsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/g_kg_1998"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Beibehaltung Anh\u00f6rungsverfahren im Rahmen der Erteilung der Lizenz",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://bmdv.bund.de/SharedDocs/DE/Anlage/Gesetze/Gesetze-20/viertes-gesetz-zur-aenderung-des-gueterkraftverkehrsgesetzes-und-anderer-gesetze.pdf?__blob=publicationFile",
+                            "draftBillProjectUrl": "https://bmdv.bund.de/SharedDocs/DE/Gesetze-20/viertes-gesetz-zur-aenderung-des-gueterkraftverkehrsgesetzes-und-anderer-gesetze.html?nn=508840",
+                            "shortTitle": "BMDV",
+                            "title": "Bundesministerium f\u00fcr Digitales und Verkehr",
+                            "url": "https://bmdv.bund.de/DE/Home/home.html"
+                        }
+                    ],
+                    "publicationDate": "2024-01-08",
+                    "title": "Entwurf eines Vierten Gesetzes zur \u00c4nderung des G\u00fcterkraftverkehrsgesetzes und anderer Gesetze"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                        "de": "G\u00fcterverkehr",
+                        "en": "Freight transportation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007162",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/7b/b9/318376/Stellungnahme-Gutachten-SG2406260227.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                        "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                        "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-01"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0007162",
+                        "regulatoryProjectTitle": "G\u00fcterkraftverkehrsgesetz",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Hausanschrift\r\nBreitenbachstra\u00dfe 1\r\n60487 Frankfurt am Main\r\nKontakt\r\nTelefon: +49 69 7919 0\r\nE-Mail: bgl@bgl-ev.de\r\nWebsite: www.bgl-ev.de\r\nVorstand\r\nProf. Dr. habil. Dirk Engelhardt\r\nVorstandssprecher\r\n\r\nStellungnahme\r\n\r\nzum Referentenentwurf des BMDV zum Entwurf eines Vierten Gesetzes zur \u00c4nderung des G\u00fcterkraftverkehrsgesetzes und anderer Gesetze\r\n\r\nZusammenfassung:\r\n\u2022 Das Anh\u00f6rungsverfahren f\u00fcr Verb\u00e4nde des Verkehrsgewerbes im Rahmen des \u00a7 3 Absatz 5a G\u00fcKG muss beibehalten werden.\r\n\u2022 Der konkrete zeitliche Rahmen bzw. das Prozedere des \u00dcbergangszeitraums zum Ablauf nationaler Erlaubnisse nach \u00a7 3 G\u00fcKG bedarf einer verwaltungsrechtlichen Regelung. Der BGL spricht sich f\u00fcr einen \u00dcbergangszeitraum von 10 Jahren aus.\r\n\u2022 \u00c4nderungsbedarf des \u00a7 7a Absatz 4 G\u00fcKG besteht dahingehend, dass die Erbringung des Nachweises \u00fcber eine g\u00fcltige Haftpflichtversicherung im Rahmen des \u00a7 7a G\u00fcKG statt durch Aush\u00e4ndigen des Dokuments in Papierform auch auf andere geeignete Weise zug\u00e4nglich gemacht werden kann.\r\nFrankfurt am Main, den 5. Februar 2024\r\nStellungnahme\r\nzum Referentenentwurf des BMDV zum Entwurf eines Vierten Gesetzes zur \u00c4nderung des G\u00fcterkraftverkehrsgesetzes und\r\nanderer Gesetze\r\n\r\n\u00a7 3 Abs. 5a G\u00fcKG-E \u2013 Beibehaltung des Anh\u00f6rungsrechts f\u00fcr Verb\u00e4nde des Verkehrsgewerbes\r\n\u2022 Gem\u00e4\u00df \u00a7 3 Abs. 5a G\u00fcKG gibt die nach Landesrecht zust\u00e4ndige Beh\u00f6rde rechtzeitig vor der Entscheidung \u00fcber die Erteilung, die R\u00fccknahme oder den Widerruf der Erlaubnis und von Erlaubnisausfertigungen insbesondere auch den beteiligten Verb\u00e4nden des Verkehrsgewerbes Gelegenheit zur Stellungnahme. Vor der Entscheidung \u00fcber die Erteilung, die R\u00fccknahme oder den Widerruf von Erlaubnisausfertigungen kann die nach Landesrecht zust\u00e4ndige Beh\u00f6rde hiervon absehen.\r\n\u2022 Hintergrund dieses umf\u00e4nglichen Beteiligungserfordernisses ist, dass die Kenntnisse der Verb\u00e4nde, die sich zum Teil auch aus deren N\u00e4he zum betroffenen Unternehmen ergeben, auf diesem Wege nicht nur im Erteilungs-, sondern auch im Entziehungsverfahren Ber\u00fccksichtigung finden.\r\n\u2022 In ihren gutachterlichen Stellungnahmen sollen sich die anh\u00f6rungsberechtigten Verb\u00e4nde des Verkehrsgewerbes aufgrund ihrer Erfahrungen und Kenntnisse \u00e4u\u00dfern. Dabei sollen die Verb\u00e4nde weitergehende Kenntnisse der pers\u00f6nlichen Verh\u00e4ltnisse des Antragstellers und einen umfassenden \u00dcberblick \u00fcber die bestehenden Verkehrsbed\u00fcrfnisse und damit die Existenzgrundlage der Unternehmerschaft vermitteln.\r\nBGL-Position:\r\n\uf0d8 Das Anh\u00f6rungsverfahren f\u00fcr Verb\u00e4nde des Verkehrsgewerbes im Rahmen des \u00a7 3 Abs. 5a G\u00fcKG muss beibehalten werden.\r\n\uf0d8 Nach Erhebungen des BGL geben jedes Jahr bundesweit die Verb\u00e4nde des Verkehrsgewerbes zu mehreren Tausend F\u00e4llen ihre Stellungnahme an die zust\u00e4ndigen Beh\u00f6rden im Anh\u00f6rungsverfahren ab und unterst\u00fctzen die Beh\u00f6rde mit ihrer Fachexpertise.\r\n\uf0d8 Vielfach haben die Verb\u00e4nde regional \u00fcbergreifende Informationen, die den Beh\u00f6rden in der Regel nicht vorliegen.\r\n\uf0d8 Gerade ihre Erkenntnisse um den Verkehrsleiter helfen den Beh\u00f6rden bei ihrer Arbeit. Im Rahmen des Anh\u00f6rungsverfahren bewerten die Verb\u00e4nde insbesondere die Arbeitsvertr\u00e4ge von Verkehrsleitern und melden Beanstandungen, z.B.:\r\n\uf0a7 nicht ausreichende Entlohnung des Verkehrsleiters;\r\n\uf0a7 Stundenzahl entspricht nicht den Vorgaben der aktuellen Rechtsprechung;\r\n\uf0a7 die Entfernung zwischen Betriebs- und Wohnort lassen nicht auf eine ausreichende k\u00f6rperliche Anwesenheit schlie\u00dfen;\r\n\uf0a7 Vertrag enth\u00e4lt keine Vereinbarungen, dass der Verkehrsleiter die T\u00e4tigkeit im Bereich des G\u00fcKG \u201eweisungsungebunden und eigenverantwortlich, auch gegen\u00fcber der Gesch\u00e4ftsf\u00fchrung\u201c aus\u00fcbt;\r\n\uf0d8 Der BGL ist zudem der Ansicht, dass das Anh\u00f6rungsverfahren die Verb\u00e4nde in die Lage versetzt, das Marktgeschehen besser beurteilen zu k\u00f6nnen. Der BGL und seine Landesverb\u00e4nde m\u00fcssen die am Markt auftretenden Unternehmen auch in ihrer Struktur kennen zu k\u00f6nnen, um gegen\u00fcber Politik und\r\nStellungnahme\r\n\u00a7 3 G\u00fcKG-E \u2013 \u00dcbergangszeit f\u00fcr nationale Erlaubnis\r\nSe ite 3/3\r\nMinisterien qualifizierte Eingaben machen und auf aktuelle Entwicklungen im Gewerbe hinweisen zu k\u00f6nnen.\r\n\uf0d8 Gerade auch durch Kooperation zwischen Beh\u00f6rden, Verb\u00e4nden und IHKen ist es vielfach m\u00f6glich, bei Problemf\u00e4llen eine f\u00fcr alle Seiten tragbare L\u00f6sung zu finden.\r\n\u00a7 3 G\u00fcKG-E \u2013 \u00dcbergangszeit f\u00fcr nationale Erlaubnis\r\n\u2022 Nach \u00a7 3 G\u00fcKG sollen neue nationale Erlaubnisse nicht mehr ausgestellt werden, da sie von der EU-Lizenz k\u00fcnftig mitumfasst sein werden. Daher sollen noch in Verkehr befindliche \u2013 auch urspr\u00fcnglich unbefristet erteilte \u2013 Erlaubnisse nach Ablauf einer \u00dcbergangsfrist auslaufen. Der konkrete zeitliche Rahmen bzw. das Prozedere des \u00dcbergangszeitraums ist dem Referentenentwurf nicht zu entnehmen. Hier bedarf es einer konkreten verwaltungsrechtlichen Regelung. Der BGL spricht sich f\u00fcr einen \u00dcbergangszeitraum von 10 Jahren aus.\r\n\u00a7 7a Absatz 4 G\u00fcKG \u2013 Anpassungsbedarf\r\n\u2022 \u00a7 7a Absatz 4 Satz 2 G\u00fcKG sieht f\u00fcr den Nachweis \u00fcber eine Haftpflichtversicherung vor, dass das Fahrpersonal diesen w\u00e4hrend der Bef\u00f6rderung mitzuf\u00fchren und den Kontrollberechtigten auf Verlangen zur Pr\u00fcfung auszuh\u00e4ndigen hat. Es ist nicht vorgesehen, dass das Dokument anstatt des Aush\u00e4ndigens auf andere geeignete Weise zug\u00e4nglich gemacht werden kann. Darin unterscheidet sich die Vorschrift zum Versicherungsnachweis nach \u00a7 7a Absatz 4 Satz 1 G\u00fcKG von den anderen Nachweisen und Berechtigungen nach \u00a7 7 G\u00fcKG.\r\n\u2022 Der BGL schl\u00e4gt die Anpassung des \u00a7 7a Absatz 4 G\u00fcKG vor und verweist auf die Stellungnahme des Gesamtverbandes der Versicherer (GDV) zum Referentenentwurf. Danach wird vorgeschlagen, in \u00a7 7a Absatz 4 G\u00fcKG klarzustellen, dass zum Nachweis der Haftpflichtversicherung das Dokument anstatt durch Aush\u00e4ndigen auch auf andere geeignete Weise zug\u00e4nglich gemacht werden kann. Dadurch w\u00e4re der Nachweis der Haftpflichtversicherung den anderen Nachweisen und Belegen hinsichtlich der Zug\u00e4nglichmachung gleichgestellt.\r\n\u2022 Dazu sollte dem \u00a7 7a Absatz 4 G\u00fcKG folgender Satz 3 hinzugef\u00fcgt werden:\r\nDer Versicherungsnachweis nach Absatz 4 Satz 1 kann statt durch Aush\u00e4ndigen des Dokumentes auch auf andere geeignete Weise zug\u00e4nglich gemacht werden.\r\n\u2022 Die ausdr\u00fcckliche Klarstellung dient der Rechtssicherheit."
+                        }
+                    }
+                ],
+                "title": "G\u00fcterkraftverkehrsgesetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "VUDat-DV",
+                        "title": "Verordnung zur Durchf\u00fchrung der Verkehrsunternehmensdatei nach dem G\u00fcterkraftverkehrsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/vudat-dv"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Keine zus\u00e4tzlichen b\u00fcrokratischen Meldepflichten f\u00fcr Transportunternehmen",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://bmdv.bund.de/SharedDocs/DE/Anlage/Gesetze/Gesetze-20/erste-verordnung-aenderung-verkehrsunternehmensdatei-durchfuehrungsverordnung-und-anderer-verordnungen.pdf?__blob=publicationFile",
+                            "draftBillProjectUrl": "https://bmdv.bund.de/SharedDocs/DE/Gesetze-20/erste-verordnung-aenderung-verkehrsunternehmensdatei-durchfuehrungsverordnung-und-anderer-verordnungen.html?nn=508840",
+                            "shortTitle": "BMDV",
+                            "title": "Bundesministerium f\u00fcr Digitales und Verkehr",
+                            "url": "https://bmdv.bund.de/DE/Home/home.html"
+                        }
+                    ],
+                    "publicationDate": "2024-01-08",
+                    "title": "Erste Verordnung zur \u00c4nderung der Verkehrsunternehmensdatei-Durchf\u00fchrungsverordnung und anderer Verordnungen"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                        "de": "G\u00fcterverkehr",
+                        "en": "Freight transportation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007163",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/23/c1/318378/Stellungnahme-Gutachten-SG2406260229.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                        "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                        "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-01"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0007163",
+                        "regulatoryProjectTitle": "VUDat-DV",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Hausanschrift\r\nBreitenbachstra\u00dfe 1\r\n60487 Frankfurt am Main\r\nKontakt\r\nTelefon: +49 69 7919 0\r\nE-Mail: bgl@bgl-ev.de\r\nWebsite: www.bgl-ev.de\r\nVorstand\r\nProf. Dr. habil. Dirk Engelhardt\r\nVorstandssprecher\r\n\r\nStellungnahme\r\nzum Referentenentwurf des BMDV zum Entwurf einer Ersten Verordnung zur \u00c4nderung der Verkehrsunternehmensdatei-Durchf\u00fchrungsverordnung und anderer Verordnungen\r\n\r\nZusammenfassung:\r\n\u2022 Der BGL spricht sich gegen einen B\u00fcrokratieauswuchs f\u00fcr Transportunternehmen durch neue Meldepflichten aus.\r\n\u2022 Daten die bereits bei anderen Beh\u00f6rden vorliegen, sollte das BALM in datenschutzkonformer Weise via digitalen Schnittstellen nutzen, anstatt der Wirtschaft neue b\u00fcrokratische Pflichten aufzuerlegen.\r\nFrankfurt am Main, den 5. Februar 2024\r\nStellungnahme\r\nzum Referentenentwurf des BMDV zum Entwurf einer Ersten Verordnung zur \u00c4nderung der Verkehrsunternehmensdatei-\r\nDurchf\u00fchrungsverordnung und anderer Verordnungen\r\nSe ite 2/3\r\n\r\nHintergrund:\r\nNach \u00a7 2 VUDat-DV sind bestimmte unternehmensbezogene Daten in der VUDat zu speichern.\r\nAlte Rechtslage:\r\n\u2022 Die Daten\u00fcbermittlung an das BALM erfolgte durch die Erteilungsbeh\u00f6rden (Lizenzbeh\u00f6rden). Eine Dateneingabe durch die Transportunternehmen selbst, war nicht vorgesehen.\r\nNeue Rechtslage:\r\n\u2022 Mit der \u00dcberarbeitung der VUDat-DV werden neue Meldepflichten f\u00fcr die Transportunternehmen festgeschrieben. Daten m\u00fcssen von Unternehmen an ein Meldeportal des BALM \u00fcbermittelt werden.\r\n1. Meldepflicht \u00a7 4 Absatz 2 Nr. 1 i.V.m. \u00a7 2 Absatz 1 Nr. 12 VUDat-DV-E:\r\nDie Meldepflicht der Transportunternehmen betrifft die Angabe der Kennzeichen f\u00fcr die Fahrzeuge, \u00fcber die das Unternehmen verf\u00fcgt und die in Deutschland zugelassen sind. Aus der Begr\u00fcndung zum Referentenentwurf muss entnommen werden, dass die Meldepflicht einmalig die bereits vorhandene Fahrzeugflotte betrifft und neu angeschaffte Fahrzeuge. Das gilt sowohl f\u00fcr Fahrzeuge, \u00fcber die das Unternehmen l\u00e4ngerfristig verf\u00fcgt, als auch kurzfristig verf\u00fcgt.\r\n2. Meldepflicht \u00a7 4 Absatz 2 Nr. 1 i.V.m. \u00a7 2 Absatz 1 Nr. 13 VUDat-DV-E\r\nDie Meldepflicht der Transportunternehmen betrifft das Kennzeichnen von neuen Fahrzeugen, die von einem Unternehmen im gewerblichen G\u00fcterkraftverkehr eingesetzt werden und von einem Unternehmen aus einem anderen Mitgliedstaat der EU angemietet werden.\r\nDie Meldung muss vor Beginn und nach Ende des Einsatzes eines neuen Fahrzeugs, \u00fcber das vom BALM betriebene Unternehmensportal erfolgen.\r\nEs gibt keine Meldeschwellen. D.h. auch das Kennzeichen von Fahrzeugen, die nur wenige Tage von einem Unternehmen aus einem anderen Mitgliedstaat der EU gemietet werden, m\u00fcssen gemeldet werden.\r\nDie Meldepflichten nach \u00a7 2 Absatz 1 Nr. 12 VUDat-DV-E und \u00a7 2 Absatz 1 Nr. 13 VUDat-DV-E betreffen \u201eneu angeschaffte Fahrzeuge\u201c und einmalig die bereits vorhandene Fahrzeugflotte.\r\nFahrzeuge in dem Sinne sind Kraftfahrzeuge, Kraftfahrzeugkombinationen, Anh\u00e4nger und Sattelanh\u00e4nger.\r\nDies betrifft Fahrzeuge die im Eigentum des Transportunternehmens stehen oder beispielweise durch Mietkauf, Miete und Leasing angeschafft wurden (\u00a7 2 Absatz 1 Nr. 12 VUDat-DV-E).\r\nStellungnahme\r\nzum Referentenentwurf des BMDV zum Entwurf einer Ersten Verordnung zur \u00c4nderung der Verkehrsunternehmensdatei-\r\nDurchf\u00fchrungsverordnung und anderer Verordnungen\r\nSe ite 3/3\r\nDie Meldepflicht betrifft zus\u00e4tzlich auch die kurzfristige Anmietung von Fahrzeugen aus anderen EU-Mitgliedstaaten (\u00a7 2 Absatz 1 Nr. 13 VUDat-DV-E).\r\n3. Meldepflicht der Transportunternehmen \u00fcber die Anzahl der im Unternehmen besch\u00e4ftigten Personen (nicht nur der Verkehrsleiter) nach \u00a7 4 Absatz 2 Nr. 1 i.V.m. \u00a7 4 Absatz 2 Nr. 14 VUDat-DV-E. Damit ist dem Wortlaut nach sowohl das station\u00e4re als auch das mobile Personal mitumfasst.\r\n\u2022 Ordnungswidrig handelt nach dem neu eingef\u00fcgtem \u00a7 8 VUDat-DV-E, wer die genannten meldepflichtigen Daten vors\u00e4tzlich oder fahrl\u00e4ssig nicht, nicht richtig, nicht vollst\u00e4ndig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig \u00fcbermittelt.\r\nBGL-Bewertung:\r\nMeldepflicht nach \u00a7 4 Absatz 2 Nr. 1 i.V.m. \u00a7 2 Absatz 1 Nr. 12 VUDat-DV-E\r\n\u2022 Die Meldepflicht ist grunds\u00e4tzlich nicht notwendig. Das BALM kann entsprechende Daten direkt vom KBA oder gegebenenfalls vom Zoll via Datenschnittstellen erhalten.\r\n\u2022 Eine Meldepflicht f\u00fcr kurzfristig in Deutschland angemietete Fahrzeuge \u2013 soweit dies vom Gesetzgeber so vorgesehen sein sollte \u2013 ist unverh\u00e4ltnism\u00e4\u00dfig und in der Praxis f\u00fcr Transportunternehmen kaum durchsetzbar, wenn auch Kennzeichen von Fahrzeugen, die nur f\u00fcr einen Tag angemietet werden, gemeldet werden m\u00fcssten.\r\n\u2022 Eine neue Meldepflicht f\u00fcr Transportunternehmen f\u00fchrt insgesamt zu einen B\u00fcrokratieaufwuchs, der vermieden werden muss. Aufwand und Nutzen m\u00fcssen im Verh\u00e4ltnis stehen.\r\nMeldepflicht nach \u00a7 4 Absatz 2 Nr. 1 i.V.m. \u00a7 2 Absatz 1 Nr. 13 VUDat-DV-E\r\n\u2022 Die Meldepflicht ist unverh\u00e4ltnism\u00e4\u00dfig und in der Praxis f\u00fcr Transportunternehmen kaum umsetzbar, wenn auch Kennzeichen von Fahrzeugen, die nur f\u00fcr einen Tag von einem Unternehmen aus einem anderen Mitgliedstaat der EU angemietet werden, gemeldet werden m\u00fcssten. Ein B\u00fcrokratieaufwuchs droht (siehe oben).\r\nMeldepflicht nach \u00a7 4 Absatz 2 Nr. 14 VUDat-DV-E\r\n\u2022 Die Meldepflicht ist nicht notwendig. Das BALM kann entsprechende Daten direkt von den Sozialversicherungstr\u00e4gern, bei denen der Datensatz, wie viele Besch\u00e4ftigte das Transunternehmen gemeldet hat, abrufen. Dies muss dann in datenschutzkonformer Weise geschehen."
+                        }
+                    }
+                ],
+                "title": "VUDat-DV"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BKrFQV",
+                        "title": "Verordnung zur Durchf\u00fchrung des Berufskraftfahrerqualifikationsgesetzes",
+                        "url": "https://www.gesetze-im-internet.de/bkrfqv_2020"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Voraussetzung der BKF-Qualifikation f\u00fcr Ukrainer, fernm\u00fcndliches Lernen im Rahmen der Weiterbildung",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://bmdv.bund.de/SharedDocs/DE/Anlage/Gesetze/Gesetze-20/entwurf-einer-verordnung-ueber-ausnahmen-fuer-inhaber-ukrainischer-fahrerqualifizierungsnachweise.pdf?__blob=publicationFile",
+                            "draftBillProjectUrl": "https://bmdv.bund.de/SharedDocs/DE/Gesetze-20/entwurf-einer-verordnung-ueber-ausnahmen-fuer-inhaber-ukrainischer-fahrerqualifizierungsnachweise.html?nn=508840",
+                            "shortTitle": "BMDV",
+                            "title": "Bundesministerium f\u00fcr Digitales und Verkehr",
+                            "url": "https://bmdv.bund.de/DE/Home/home.html"
+                        }
+                    ],
+                    "publicationDate": "2023-12-22",
+                    "title": "Verordnung \u00fcber Ausnahmen f\u00fcr Inhaber ukrainischer Fahrerqualifizierungsnachweise sowie zur \u00c4nderung der Berufskraftfahrerqualifikationsverordnung und anderer stra\u00dfenverkehrsrechtlicher Vorschriften"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_WORK",
+                        "de": "Arbeit und Besch\u00e4ftigung",
+                        "en": "Work and employment"
+                    },
+                    {
+                        "code": "FOI_WORK_RIGHT",
+                        "de": "Arbeitsrecht/Arbeitsbedingungen",
+                        "en": "Work right"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                        "de": "G\u00fcterverkehr",
+                        "en": "Freight transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_POLICY",
+                        "de": "Verkehrspolitik",
+                        "en": "Transport policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007164",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/c9/97/318380/Stellungnahme-Gutachten-SG2406260231.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                        "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                        "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-01"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0007164",
+                        "regulatoryProjectTitle": "Berufkraftfahrer-Qualifizierung, Ukrainer",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Hausanschrift\r\nBreitenbachstra\u00dfe 1\r\n60487 Frankfurt am Main\r\nKontakt\r\nTelefon: +49 69 7919 0\r\nE-Mail: bgl@bgl-ev.de\r\nWebsite: www.bgl-ev.de\r\nVorstand\r\nProf. Dr. habil. Dirk Engelhardt\r\nVorstandssprecher\r\n\r\nStellungnahme\r\nEntwurf einer Verordnung \u00fcber Ausnahmen f\u00fcr Inhaber ukrainischer Fahrerqualifizierungsnachweise, sowie zur \u00c4nderung der Berufskraftfahrerqualifikationsverordnung und anderer stra\u00dfenverkehrsrechtlicher Vorschriften\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer stra\u00dfenverkehrsrechtlicher Vorschriften\r\n\r\nZusammenfassung:\r\n\u2022Ukrainische Fahrer mit Erg\u00e4nzungsqualifikation sollten auch \u00fcber das Datum des Ablaufs des Schutzstatus hinaus (04.03.2025) als grundqualifiziert gelten. Der Ablauf der G\u00fcltigkeit des Fahrerqualifizierungsnachweises mit SZ 95.01 zu diesem Zeitpunkt (\u00a7 7 Abs. 6 UAAusnV) ist so zu verstehen, dass nur formal die G\u00fcltigkeit des Dokuments endet.\r\n\u2022In der UAAusnV ist erg\u00e4nzend klarzustellen, dass Ukrainer mit Erg\u00e4nzungsqualifikation Anspruch auf Ausstellung einer Fahrerkarte haben.\r\n\u2022Bereits anerkannte Ausbildungsst\u00e4tten sollten f\u00fcr die Durchf\u00fchrung des digitalen Unterrichts keine weitere Zustimmung der Beh\u00f6rde ben\u00f6tigen. Einhaltung der Anforderungen von Anlage 3 BKrFQV, d.h. \u00dcbermittlung des Unterrichtskonzepts sowie Erm\u00f6glichung der \u00dcberwachung, reichen aus.\r\n\u2022Lange Bearbeitungszeit des FQN: Problem der zeitlichen Vakanz zwischen Bestehen der BKF-Pr\u00fcfung und Aush\u00e4ndigung des FQN muss gel\u00f6st werden.\r\n\u2022Bosnien-Herzegowina ist in Anlage 11 FeV aufzunehmen, mit allen Fahrerlaubnisklassen\r\nFrankfurt am Main, den 16. Februar 2024\r\n\r\nStellungnahme\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer stra\u00dfenverkehrsrechtlicher\r\nVorschriften Entwurf einer Verordnung \u00fcber Ausnahmen f\u00fcr Inhaber ukrainischer Fahrerqualifizierungsnachweise, sowie\r\nzur \u00c4nderung der Berufskraftfahrerqualifikationsverordnung und anderer stra\u00dfenverkehrsrechtlicher Vorschriften\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer\r\nstra\u00dfenverkehrsrechtlicher Vorschriften\r\n2\r\nDer BGL begr\u00fc\u00dft die beiden Verordnungsentw\u00fcrfe und stimmt mit ihren Inhalten grunds\u00e4tzlich \u00fcberein. Das Transportlogistikgewerbe hat der Umsetzung der wichtigen Vorgaben des EU-Rechts zur Zulassung von Fremdsprachen bei der beschleunigten Grundqualifikation sowie von E-Learning im Rahmen der obligatorischen Weiterbildung schon seit dem Jahr 2020 entgegengesehen.\r\nF\u00fcr die M\u00f6glichkeit der Stellungnahme bedankt sich der BGL und hat zu den Entw\u00fcrfen folgende Anmerkungen:\r\nEntwurf einer Verordnung \u00fcber Ausnahmen f\u00fcr Inhaber ukrainischer Fahrerqualifizierungsnachweise (UAAusnV):\r\n\u2022\r\nDer BGL begr\u00fc\u00dft, dass mit der UAAusnV eine Umsetzung der EU-Verordnung 2022/1280, welche unmittelbar bereits die Anerkennung ukrainischer F\u00fchrerschiene vorgesehen hat, erfolgt. F\u00fcr ukrainische Fahrer wird nunmehr ein rechtssicheres Verfahren f\u00fcr den Erwerb einer Erg\u00e4nzungsqualifikation mit dem Nachweis durch die Schl\u00fcsselzahl 95.01 vorliegen.\r\nDer BGL regt im \u00dcbrigen an, die UAAusnV als Vorbild heranzuziehen, wenn es um die Entwicklung von k\u00fcnftigen Verfahren f\u00fcr die Anerkennung von BKF-Qualifikationen anderer Drittstaaten, die die Kriterien des CEMT-Qualit\u00e4tscharta erf\u00fcllen, geht.\r\nBGL-Position:\r\n\u27a2\r\nAblaufdatum des FQN mit der SZ 95.01\r\nNicht sinnvoll ist es auch Sicht des BGL, wenn aufgrund der Vorschrift des \u00a7 7 Abs. 6 Nr. 1 UAAusnV ukrainische Fahrer nach Ablauf des Schutzstatus (Art. 4 der RL 2001/55/EG) wieder g\u00e4nzlich ohne BKF-Qualifikation w\u00e4ren. F\u00fcr die G\u00fcterkraftverkehrsunternehmen w\u00e4re dies mit einem erheblichen Ausma\u00df an Rechtsunsicherheit und Kosten verbunden, da die beschleunigte Grundqualifikation erneut absolviert werden m\u00fcsste.\r\nDie Vorschrift und die der Vorschirift zugrundeliegende Art. 4 Abs. 7 der VO (EU) 2022/1280 ist daher so auszulegen, dass mit Ablauf des Schutzstatus lediglich formal der Fahrerqualifizierungsnachweis (FQN) mit der SZ 95.01 ung\u00fcltig wird, der ukrainische Fahrer aber weiterhin als qualifiziert gilt.\r\nSo m\u00fcsste lediglich die Ausstellung eines neuen Dokuments beantragt werden.\r\n\u27a2\r\nFahrerkarte f\u00fcr ukrainische Fahrer\r\nEine gro\u00dfe Rechtsunsicherheit besteht derzeit f\u00fcr ukrainische Fahrer bei der Ausstellung von Fahrerkarten. Grund ist, dass die ma\u00dfgebliche Vorschrift in \u00a7 5 Abs. 1 FPersV formell das Vorhandensein eine EU- bzw. EWR-F\u00fchrerscheins verlangt. Nach Kenntnis des BGL ist die Verwaltungspraxis der F\u00fchrerscheinstellen in Deutschland noch immer uneinheitlich.\r\nStellungnahme\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer stra\u00dfenverkehrsrechtlicher\r\nVorschriften Entwurf einer Verordnung \u00fcber Ausnahmen f\u00fcr Inhaber ukrainischer Fahrerqualifizierungsnachweise, sowie\r\nzur \u00c4nderung der Berufskraftfahrerqualifikationsverordnung und anderer stra\u00dfenverkehrsrechtlicher Vorschriften\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer\r\nstra\u00dfenverkehrsrechtlicher Vorschriften\r\n3\r\nDer BGL regt an, dass in der Verordnung eine Klarstellung erfolgt, dass Ukrainer mit Erg\u00e4nzungsqualifikation Anspruch auf Ausstellung der Fahrerkarte haben.\r\n\u00c4nderung der Berufskraftfahrerqualifikationsverordnung und anderer stra\u00dfenverkehrsrechtlicher Vorschriften\r\n\u2022 Die Einf\u00fchrung des E-Learnings im Rahmen der obligatorischen Weiterbildung in Umsetzung der EU-Richtlinie 2020/2561 (insb. Anhang I Abschnitt 4) wird vom BGL begr\u00fc\u00dft. Dabei ist der vom EU-Recht erm\u00f6glichte Umfang von 12 Stunden in vollem Ma\u00dfe ausgesch\u00f6pft worden.\r\nBGL-Position:\r\n\u27a2\r\nH\u00f6here Stundenanzahl\r\nDer BGL gibt hierbei zu bedenken, dass bereits heute vom Transportgewerbe teilweise eine h\u00f6here Stundenanzahl f\u00fcr digitales Lernen im Rahmen der obligatorischen Weiterbildung gew\u00fcnscht wird, auch wenn das vom derzeitigem EU-Recht nicht gedeckt ist. Unter Einbeziehung k\u00fcnftiger Evaluationen der BASt (\u00a7 3 Abs. 3b BKrFQV-E) sollte aber eine entsprechende Anpassung des EU-Rechts erwogen werden, zumal der Gesetzgeber davon ausgeht, dass im Bereich des asynchronen digitalen Unterrichts eine zeitlich flexible Nutzung der Lerninhalte vorgesehen ist (siehe Begr\u00fcndung S. 46 des Referentenentwurfs).\r\nTransportlogistikunternehmen informierten den BGL au\u00dferdem, dass eine Stundenanzahl von 14 Stunden f\u00fcr das digitale Lernen tunlich w\u00e4re, da die verbleibenden 21 Stunden dann in drei Modulen zu je 7 Stunden in Pr\u00e4senzunterricht absolviert werden k\u00f6nnten.\r\n\u27a2\r\nBereits anerkannte Ausbildungsst\u00e4tten\r\nAus Sicht des BGL ist es nicht erforderlich, dass auch bereits anerkannte Ausbildungsst\u00e4tten (\u00a7 9 BKrFQG), die digitalen Unterreicht in synchroner und asynchroner Form anbieten m\u00f6chten, vor Durchf\u00fchrung des digitalen Unterrichts ebenfalls noch einmal der Zustimmung der nach Landesrecht f\u00fcr die Anerkennung von Ausbildungsst\u00e4tten zust\u00e4ndigen Beh\u00f6rde bed\u00fcrfen.\r\nOhnehin ist in Zusammenhang mit der Anerkennung von Ausbildungsst\u00e4tten bereits zus\u00e4tzliche B\u00fcrokratie geschaffen worden, als nach Ablauf einer \u00dcbergangsfrist zum 02.12.2022 die gesetzliche Anerkennung f\u00fcr Ausbildungsbetriebe weggefallen ist und so s\u00e4mtliche Ausbildungsbetriebe einer staatlichen Anerkennung bed\u00fcrfen.\r\nAus Sicht des BGL reicht in diesem Fall die Einhaltung der in Anlage 3 BKrFQV-E geregelten allgemeinen Anforderung aus. Hierzu geh\u00f6rt insbesondere die\r\nStellungnahme\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer stra\u00dfenverkehrsrechtlicher\r\nVorschriften Entwurf einer Verordnung \u00fcber Ausnahmen f\u00fcr Inhaber ukrainischer Fahrerqualifizierungsnachweise, sowie\r\nzur \u00c4nderung der Berufskraftfahrerqualifikationsverordnung und anderer stra\u00dfenverkehrsrechtlicher Vorschriften\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer\r\nstra\u00dfenverkehrsrechtlicher Vorschriften\r\n4\r\nVorlage eines Unterrichtskonzepts an die nach Landesrecht zust\u00e4ndige Beh\u00f6rde sowie die Erm\u00f6glichung der \u00dcberwachung des digitalen Unterrichts. (Anlage 3, Nr. 5 und 6 BKrFQV-E). Entsprechend ist auch die Formulierung in \u00a7 9 Abs. 3 BKrFQG-E anzupassen.\r\n\u27a2\r\nZuverl\u00e4ssige Nutzeridentifizierung\r\nBez\u00fcglich Anlage 3 Nr. 2 BKrFQV-E regt der BGL an, dass die Voraussetzung einer zuverl\u00e4ssigen Nutzeridentifizierung konkreter gefasst wird. So sollte in Nr. 2 aufgef\u00fchrt werden, dass das Lehrpersonal vor Beginn des digitalen Unterrichts die Identit\u00e4t und w\u00e4hrend des Unterrichts die Anwesenheit der zu schulenden Unterrichtsteilnehmer zu pr\u00fcfen hat.\r\nAu\u00dferdem sollte zwischen einer Nutzerverifizierung (Pr\u00fcfung, ob der Nutzer auch der Mensch ist, der er vorgibt zu sein) und einer Nutzerauthentifizierung (bezeichnet den eindeutigen Login-Prozess, der in der Regel durch eine eindeutige Nutzererkennung mit Anmeldenamen und Passwort gegeben ist), unterschieden werden.\r\n\u27a2\r\nLange Bearbeitungszeiten bei Ausstellung des FQN\r\nEin dr\u00e4ngendes Anliegen in der Praxis angehender Berufskraftfahrer ist nach wie vor ungel\u00f6st:\r\nNach \u00a7 3 Abs. 7 BKrFQG tritt w\u00e4hrend der Berufsausbildung an die Stelle des Nachweises der Grundqualifikation der Ausbildungsvertrag. Nach Abschluss der Ausbildung entsteht in der Praxis sehr h\u00e4ufig das Problem, dass die Ausstellung des FQN lange Zeit beansprucht. In der \u00dcbergangszeit steht der angehende BKF ohne Nachweis der Qualifikation dar. Dieser Rechtszustand ist widersinnig, denn warum sollte ein Azubi, der die Abschlusspr\u00fcfung absolviert hat, und dessen Ausbildungszeit abgelaufen ist, schlechter gestellt werden als w\u00e4hrend der Ausbildung?\r\nEine L\u00f6sung in der BKrFQV m\u00fcsste dahin geschaffen werden, dass die IHK-Pr\u00fcfungsbescheinigung als vorl\u00e4ufiger Nachweis der Qualifikation bei Fahrten im gewerblichen G\u00fcterverkehr anerkannt wird; oder es muss ein vorl\u00e4ufiger FQN zur Verf\u00fcgung gestellt werden.\r\n\u00c4nderung der Fahrerlaubnis-Verordnung\r\nBGL-Position:\r\n\u27a2\r\nAnlage 11 FeV\r\nBosnien-Herzegowina ist mit allen Fahrerlaubnisklassen in Anlage 11 FeV aufzunehmen (bisher fehlen die C-Klassen). Es ist nicht ersichtlich, dass sich die dortige Qualit\u00e4t der F\u00fchrerschein-Ausbildung signifikant von der in Staaten wie Serbien oder Nordmazedonien unterscheidet.\r\nStellungnahme\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer stra\u00dfenverkehrsrechtlicher\r\nVorschriften Entwurf einer Verordnung \u00fcber Ausnahmen f\u00fcr Inhaber ukrainischer Fahrerqualifizierungsnachweise, sowie\r\nzur \u00c4nderung der Berufskraftfahrerqualifikationsverordnung und anderer stra\u00dfenverkehrsrechtlicher Vorschriften\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer\r\nstra\u00dfenverkehrsrechtlicher Vorschriften\r\n5\r\n\u27a2\r\nStreichung \u00a7 28 Abs. 4 S. 1 Nr. 7 FeV\r\nAusdr\u00fccklich begr\u00fc\u00dft der BGL die Streichung dieser Vorschrift. Die fehlende Anerkennung der G\u00fcltigkeit von F\u00fchrerscheinen, die ein Drittstaatenfahrer in einem EU-Mitgliedsstaat pr\u00fcfungsfrei in einen EU-F\u00fchrerschein umtauscht, war bisher ein gro\u00dfes Hindernis bei der Einstellung von Fahrern aus Drittstaaten in Deutschland; zumal die Vorschrift in der Praxis einen nur geringen Bekanntheitsgrad hatte.\r\n\u27a2\r\nDigitaler Theorieunterricht bei Fahrschulen\r\nDer BGL regt an, dass digitaler Unterricht auch im Rahmen des theoretischen Fahrschulunterrichts zum Regelfall wird und nicht nur in begr\u00fcndeten Ausnahmef\u00e4llen m\u00f6glich ist (\u00a7 4 Abs. 1b FahrschAusbO)"
+                        }
+                    }
+                ],
+                "title": "Berufkraftfahrer-Qualifizierung, Ukrainer"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "StVZO",
+                        "title": "Stra\u00dfenverkehrs-Zulassungs-Ordnung",
+                        "url": "https://www.gesetze-im-internet.de/stvzo_2012"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Anpassung der Abmessungen und Massen der Fahrzeuge, Integration des Lang-Lkw Typ 1 in de Lang-Lkw-Ausnahmeverordnung",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_POLICY",
+                        "de": "Verkehrspolitik",
+                        "en": "Transport policy"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                        "de": "Stra\u00dfenverkehr",
+                        "en": "Road traffic"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                        "de": "G\u00fcterverkehr",
+                        "en": "Freight transportation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007165",
+                "statements": [],
+                "title": "\u00c4nderung der EU-RL 96/53/EG zu Ma\u00dfen und Gewichten"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BFStrMG",
+                        "title": "Gesetz \u00fcber die Erhebung von streckenbezogenen Geb\u00fchren f\u00fcr die Benutzung von Bundesautobahnen und Bundesstra\u00dfen",
+                        "url": "https://www.gesetze-im-internet.de/bfstrmg"
+                    },
+                    {
+                        "shortTitle": "MautSysG",
+                        "title": "Gesetz \u00fcber den Betrieb elektronischer Mautsysteme",
+                        "url": "https://www.gesetze-im-internet.de/mautsysg_2014"
+                    },
+                    {
+                        "shortTitle": "Lkw-MautV",
+                        "title": "Verordnung zur Erhebung, zur Nachweisf\u00fchrung \u00fcber die f\u00fcr die Maut ma\u00dfgeblichen Tatsachen und zur Erstattung der Maut",
+                        "url": "https://www.gesetze-im-internet.de/lkw-mautv_2018"
+                    },
+                    {
+                        "shortTitle": "StVZO",
+                        "title": "Stra\u00dfenverkehrs-Zulassungs-Ordnung",
+                        "url": "https://www.gesetze-im-internet.de/stvzo_2012"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Interessenvertretung des deutschen G\u00fcterkraftverkehrsgewerbes im Hinblick auf die Entlastung bei der bestehenden Lkw-Maut (Mautharmonisierung, u.a. Programme Umwelt und Sicherheit (ehemals de-minimis), sowie Aus- und Weiterbildung\r\n\r\nAngesichts der europ\u00e4ischen Wettbewerbsbedingungen hat die Bundesregierung 2009 zwei unbefristete Programme zur Entlastung des deutschen G\u00fcterkraftgewerbes aufgelegt.\r\n\r\nDas Programm zur F\u00f6rderung der Sicherheit und Umwelt in Unternehmen des G\u00fcterkraftverkeUmweltschutz und Sicherheit, ehemals De-Minimis) verfolgt die Ziele, die Sicherheit im Stra\u00dfeng\u00fcterverkehr dauerhaft zu erh\u00f6hen und die negativen Wirkungen des Stra\u00dfeng\u00fcterverkehrs auf die Umwelt zu reduzieren.\r\n\r\n Aus- und Weiterbildung, \r\n",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                        "de": "G\u00fcterverkehr",
+                        "en": "Freight transportation"
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007166",
+                "statements": [],
+                "title": "F\u00f6rderprogramme Mautharmonisierung"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/7b/b9/318376/Stellungnahme-Gutachten-SG2406260227.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-01"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0007162",
+                "regulatoryProjectTitle": "G\u00fcterkraftverkehrsgesetz",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Hausanschrift\r\nBreitenbachstra\u00dfe 1\r\n60487 Frankfurt am Main\r\nKontakt\r\nTelefon: +49 69 7919 0\r\nE-Mail: bgl@bgl-ev.de\r\nWebsite: www.bgl-ev.de\r\nVorstand\r\nProf. Dr. habil. Dirk Engelhardt\r\nVorstandssprecher\r\n\r\nStellungnahme\r\n\r\nzum Referentenentwurf des BMDV zum Entwurf eines Vierten Gesetzes zur \u00c4nderung des G\u00fcterkraftverkehrsgesetzes und anderer Gesetze\r\n\r\nZusammenfassung:\r\n\u2022 Das Anh\u00f6rungsverfahren f\u00fcr Verb\u00e4nde des Verkehrsgewerbes im Rahmen des \u00a7 3 Absatz 5a G\u00fcKG muss beibehalten werden.\r\n\u2022 Der konkrete zeitliche Rahmen bzw. das Prozedere des \u00dcbergangszeitraums zum Ablauf nationaler Erlaubnisse nach \u00a7 3 G\u00fcKG bedarf einer verwaltungsrechtlichen Regelung. Der BGL spricht sich f\u00fcr einen \u00dcbergangszeitraum von 10 Jahren aus.\r\n\u2022 \u00c4nderungsbedarf des \u00a7 7a Absatz 4 G\u00fcKG besteht dahingehend, dass die Erbringung des Nachweises \u00fcber eine g\u00fcltige Haftpflichtversicherung im Rahmen des \u00a7 7a G\u00fcKG statt durch Aush\u00e4ndigen des Dokuments in Papierform auch auf andere geeignete Weise zug\u00e4nglich gemacht werden kann.\r\nFrankfurt am Main, den 5. Februar 2024\r\nStellungnahme\r\nzum Referentenentwurf des BMDV zum Entwurf eines Vierten Gesetzes zur \u00c4nderung des G\u00fcterkraftverkehrsgesetzes und\r\nanderer Gesetze\r\n\r\n\u00a7 3 Abs. 5a G\u00fcKG-E \u2013 Beibehaltung des Anh\u00f6rungsrechts f\u00fcr Verb\u00e4nde des Verkehrsgewerbes\r\n\u2022 Gem\u00e4\u00df \u00a7 3 Abs. 5a G\u00fcKG gibt die nach Landesrecht zust\u00e4ndige Beh\u00f6rde rechtzeitig vor der Entscheidung \u00fcber die Erteilung, die R\u00fccknahme oder den Widerruf der Erlaubnis und von Erlaubnisausfertigungen insbesondere auch den beteiligten Verb\u00e4nden des Verkehrsgewerbes Gelegenheit zur Stellungnahme. Vor der Entscheidung \u00fcber die Erteilung, die R\u00fccknahme oder den Widerruf von Erlaubnisausfertigungen kann die nach Landesrecht zust\u00e4ndige Beh\u00f6rde hiervon absehen.\r\n\u2022 Hintergrund dieses umf\u00e4nglichen Beteiligungserfordernisses ist, dass die Kenntnisse der Verb\u00e4nde, die sich zum Teil auch aus deren N\u00e4he zum betroffenen Unternehmen ergeben, auf diesem Wege nicht nur im Erteilungs-, sondern auch im Entziehungsverfahren Ber\u00fccksichtigung finden.\r\n\u2022 In ihren gutachterlichen Stellungnahmen sollen sich die anh\u00f6rungsberechtigten Verb\u00e4nde des Verkehrsgewerbes aufgrund ihrer Erfahrungen und Kenntnisse \u00e4u\u00dfern. Dabei sollen die Verb\u00e4nde weitergehende Kenntnisse der pers\u00f6nlichen Verh\u00e4ltnisse des Antragstellers und einen umfassenden \u00dcberblick \u00fcber die bestehenden Verkehrsbed\u00fcrfnisse und damit die Existenzgrundlage der Unternehmerschaft vermitteln.\r\nBGL-Position:\r\n\uf0d8 Das Anh\u00f6rungsverfahren f\u00fcr Verb\u00e4nde des Verkehrsgewerbes im Rahmen des \u00a7 3 Abs. 5a G\u00fcKG muss beibehalten werden.\r\n\uf0d8 Nach Erhebungen des BGL geben jedes Jahr bundesweit die Verb\u00e4nde des Verkehrsgewerbes zu mehreren Tausend F\u00e4llen ihre Stellungnahme an die zust\u00e4ndigen Beh\u00f6rden im Anh\u00f6rungsverfahren ab und unterst\u00fctzen die Beh\u00f6rde mit ihrer Fachexpertise.\r\n\uf0d8 Vielfach haben die Verb\u00e4nde regional \u00fcbergreifende Informationen, die den Beh\u00f6rden in der Regel nicht vorliegen.\r\n\uf0d8 Gerade ihre Erkenntnisse um den Verkehrsleiter helfen den Beh\u00f6rden bei ihrer Arbeit. Im Rahmen des Anh\u00f6rungsverfahren bewerten die Verb\u00e4nde insbesondere die Arbeitsvertr\u00e4ge von Verkehrsleitern und melden Beanstandungen, z.B.:\r\n\uf0a7 nicht ausreichende Entlohnung des Verkehrsleiters;\r\n\uf0a7 Stundenzahl entspricht nicht den Vorgaben der aktuellen Rechtsprechung;\r\n\uf0a7 die Entfernung zwischen Betriebs- und Wohnort lassen nicht auf eine ausreichende k\u00f6rperliche Anwesenheit schlie\u00dfen;\r\n\uf0a7 Vertrag enth\u00e4lt keine Vereinbarungen, dass der Verkehrsleiter die T\u00e4tigkeit im Bereich des G\u00fcKG \u201eweisungsungebunden und eigenverantwortlich, auch gegen\u00fcber der Gesch\u00e4ftsf\u00fchrung\u201c aus\u00fcbt;\r\n\uf0d8 Der BGL ist zudem der Ansicht, dass das Anh\u00f6rungsverfahren die Verb\u00e4nde in die Lage versetzt, das Marktgeschehen besser beurteilen zu k\u00f6nnen. Der BGL und seine Landesverb\u00e4nde m\u00fcssen die am Markt auftretenden Unternehmen auch in ihrer Struktur kennen zu k\u00f6nnen, um gegen\u00fcber Politik und\r\nStellungnahme\r\n\u00a7 3 G\u00fcKG-E \u2013 \u00dcbergangszeit f\u00fcr nationale Erlaubnis\r\nSe ite 3/3\r\nMinisterien qualifizierte Eingaben machen und auf aktuelle Entwicklungen im Gewerbe hinweisen zu k\u00f6nnen.\r\n\uf0d8 Gerade auch durch Kooperation zwischen Beh\u00f6rden, Verb\u00e4nden und IHKen ist es vielfach m\u00f6glich, bei Problemf\u00e4llen eine f\u00fcr alle Seiten tragbare L\u00f6sung zu finden.\r\n\u00a7 3 G\u00fcKG-E \u2013 \u00dcbergangszeit f\u00fcr nationale Erlaubnis\r\n\u2022 Nach \u00a7 3 G\u00fcKG sollen neue nationale Erlaubnisse nicht mehr ausgestellt werden, da sie von der EU-Lizenz k\u00fcnftig mitumfasst sein werden. Daher sollen noch in Verkehr befindliche \u2013 auch urspr\u00fcnglich unbefristet erteilte \u2013 Erlaubnisse nach Ablauf einer \u00dcbergangsfrist auslaufen. Der konkrete zeitliche Rahmen bzw. das Prozedere des \u00dcbergangszeitraums ist dem Referentenentwurf nicht zu entnehmen. Hier bedarf es einer konkreten verwaltungsrechtlichen Regelung. Der BGL spricht sich f\u00fcr einen \u00dcbergangszeitraum von 10 Jahren aus.\r\n\u00a7 7a Absatz 4 G\u00fcKG \u2013 Anpassungsbedarf\r\n\u2022 \u00a7 7a Absatz 4 Satz 2 G\u00fcKG sieht f\u00fcr den Nachweis \u00fcber eine Haftpflichtversicherung vor, dass das Fahrpersonal diesen w\u00e4hrend der Bef\u00f6rderung mitzuf\u00fchren und den Kontrollberechtigten auf Verlangen zur Pr\u00fcfung auszuh\u00e4ndigen hat. Es ist nicht vorgesehen, dass das Dokument anstatt des Aush\u00e4ndigens auf andere geeignete Weise zug\u00e4nglich gemacht werden kann. Darin unterscheidet sich die Vorschrift zum Versicherungsnachweis nach \u00a7 7a Absatz 4 Satz 1 G\u00fcKG von den anderen Nachweisen und Berechtigungen nach \u00a7 7 G\u00fcKG.\r\n\u2022 Der BGL schl\u00e4gt die Anpassung des \u00a7 7a Absatz 4 G\u00fcKG vor und verweist auf die Stellungnahme des Gesamtverbandes der Versicherer (GDV) zum Referentenentwurf. Danach wird vorgeschlagen, in \u00a7 7a Absatz 4 G\u00fcKG klarzustellen, dass zum Nachweis der Haftpflichtversicherung das Dokument anstatt durch Aush\u00e4ndigen auch auf andere geeignete Weise zug\u00e4nglich gemacht werden kann. Dadurch w\u00e4re der Nachweis der Haftpflichtversicherung den anderen Nachweisen und Belegen hinsichtlich der Zug\u00e4nglichmachung gleichgestellt.\r\n\u2022 Dazu sollte dem \u00a7 7a Absatz 4 G\u00fcKG folgender Satz 3 hinzugef\u00fcgt werden:\r\nDer Versicherungsnachweis nach Absatz 4 Satz 1 kann statt durch Aush\u00e4ndigen des Dokumentes auch auf andere geeignete Weise zug\u00e4nglich gemacht werden.\r\n\u2022 Die ausdr\u00fcckliche Klarstellung dient der Rechtssicherheit."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/23/c1/318378/Stellungnahme-Gutachten-SG2406260229.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-01"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0007163",
+                "regulatoryProjectTitle": "VUDat-DV",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Hausanschrift\r\nBreitenbachstra\u00dfe 1\r\n60487 Frankfurt am Main\r\nKontakt\r\nTelefon: +49 69 7919 0\r\nE-Mail: bgl@bgl-ev.de\r\nWebsite: www.bgl-ev.de\r\nVorstand\r\nProf. Dr. habil. Dirk Engelhardt\r\nVorstandssprecher\r\n\r\nStellungnahme\r\nzum Referentenentwurf des BMDV zum Entwurf einer Ersten Verordnung zur \u00c4nderung der Verkehrsunternehmensdatei-Durchf\u00fchrungsverordnung und anderer Verordnungen\r\n\r\nZusammenfassung:\r\n\u2022 Der BGL spricht sich gegen einen B\u00fcrokratieauswuchs f\u00fcr Transportunternehmen durch neue Meldepflichten aus.\r\n\u2022 Daten die bereits bei anderen Beh\u00f6rden vorliegen, sollte das BALM in datenschutzkonformer Weise via digitalen Schnittstellen nutzen, anstatt der Wirtschaft neue b\u00fcrokratische Pflichten aufzuerlegen.\r\nFrankfurt am Main, den 5. Februar 2024\r\nStellungnahme\r\nzum Referentenentwurf des BMDV zum Entwurf einer Ersten Verordnung zur \u00c4nderung der Verkehrsunternehmensdatei-\r\nDurchf\u00fchrungsverordnung und anderer Verordnungen\r\nSe ite 2/3\r\n\r\nHintergrund:\r\nNach \u00a7 2 VUDat-DV sind bestimmte unternehmensbezogene Daten in der VUDat zu speichern.\r\nAlte Rechtslage:\r\n\u2022 Die Daten\u00fcbermittlung an das BALM erfolgte durch die Erteilungsbeh\u00f6rden (Lizenzbeh\u00f6rden). Eine Dateneingabe durch die Transportunternehmen selbst, war nicht vorgesehen.\r\nNeue Rechtslage:\r\n\u2022 Mit der \u00dcberarbeitung der VUDat-DV werden neue Meldepflichten f\u00fcr die Transportunternehmen festgeschrieben. Daten m\u00fcssen von Unternehmen an ein Meldeportal des BALM \u00fcbermittelt werden.\r\n1. Meldepflicht \u00a7 4 Absatz 2 Nr. 1 i.V.m. \u00a7 2 Absatz 1 Nr. 12 VUDat-DV-E:\r\nDie Meldepflicht der Transportunternehmen betrifft die Angabe der Kennzeichen f\u00fcr die Fahrzeuge, \u00fcber die das Unternehmen verf\u00fcgt und die in Deutschland zugelassen sind. Aus der Begr\u00fcndung zum Referentenentwurf muss entnommen werden, dass die Meldepflicht einmalig die bereits vorhandene Fahrzeugflotte betrifft und neu angeschaffte Fahrzeuge. Das gilt sowohl f\u00fcr Fahrzeuge, \u00fcber die das Unternehmen l\u00e4ngerfristig verf\u00fcgt, als auch kurzfristig verf\u00fcgt.\r\n2. Meldepflicht \u00a7 4 Absatz 2 Nr. 1 i.V.m. \u00a7 2 Absatz 1 Nr. 13 VUDat-DV-E\r\nDie Meldepflicht der Transportunternehmen betrifft das Kennzeichnen von neuen Fahrzeugen, die von einem Unternehmen im gewerblichen G\u00fcterkraftverkehr eingesetzt werden und von einem Unternehmen aus einem anderen Mitgliedstaat der EU angemietet werden.\r\nDie Meldung muss vor Beginn und nach Ende des Einsatzes eines neuen Fahrzeugs, \u00fcber das vom BALM betriebene Unternehmensportal erfolgen.\r\nEs gibt keine Meldeschwellen. D.h. auch das Kennzeichen von Fahrzeugen, die nur wenige Tage von einem Unternehmen aus einem anderen Mitgliedstaat der EU gemietet werden, m\u00fcssen gemeldet werden.\r\nDie Meldepflichten nach \u00a7 2 Absatz 1 Nr. 12 VUDat-DV-E und \u00a7 2 Absatz 1 Nr. 13 VUDat-DV-E betreffen \u201eneu angeschaffte Fahrzeuge\u201c und einmalig die bereits vorhandene Fahrzeugflotte.\r\nFahrzeuge in dem Sinne sind Kraftfahrzeuge, Kraftfahrzeugkombinationen, Anh\u00e4nger und Sattelanh\u00e4nger.\r\nDies betrifft Fahrzeuge die im Eigentum des Transportunternehmens stehen oder beispielweise durch Mietkauf, Miete und Leasing angeschafft wurden (\u00a7 2 Absatz 1 Nr. 12 VUDat-DV-E).\r\nStellungnahme\r\nzum Referentenentwurf des BMDV zum Entwurf einer Ersten Verordnung zur \u00c4nderung der Verkehrsunternehmensdatei-\r\nDurchf\u00fchrungsverordnung und anderer Verordnungen\r\nSe ite 3/3\r\nDie Meldepflicht betrifft zus\u00e4tzlich auch die kurzfristige Anmietung von Fahrzeugen aus anderen EU-Mitgliedstaaten (\u00a7 2 Absatz 1 Nr. 13 VUDat-DV-E).\r\n3. Meldepflicht der Transportunternehmen \u00fcber die Anzahl der im Unternehmen besch\u00e4ftigten Personen (nicht nur der Verkehrsleiter) nach \u00a7 4 Absatz 2 Nr. 1 i.V.m. \u00a7 4 Absatz 2 Nr. 14 VUDat-DV-E. Damit ist dem Wortlaut nach sowohl das station\u00e4re als auch das mobile Personal mitumfasst.\r\n\u2022 Ordnungswidrig handelt nach dem neu eingef\u00fcgtem \u00a7 8 VUDat-DV-E, wer die genannten meldepflichtigen Daten vors\u00e4tzlich oder fahrl\u00e4ssig nicht, nicht richtig, nicht vollst\u00e4ndig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig \u00fcbermittelt.\r\nBGL-Bewertung:\r\nMeldepflicht nach \u00a7 4 Absatz 2 Nr. 1 i.V.m. \u00a7 2 Absatz 1 Nr. 12 VUDat-DV-E\r\n\u2022 Die Meldepflicht ist grunds\u00e4tzlich nicht notwendig. Das BALM kann entsprechende Daten direkt vom KBA oder gegebenenfalls vom Zoll via Datenschnittstellen erhalten.\r\n\u2022 Eine Meldepflicht f\u00fcr kurzfristig in Deutschland angemietete Fahrzeuge \u2013 soweit dies vom Gesetzgeber so vorgesehen sein sollte \u2013 ist unverh\u00e4ltnism\u00e4\u00dfig und in der Praxis f\u00fcr Transportunternehmen kaum durchsetzbar, wenn auch Kennzeichen von Fahrzeugen, die nur f\u00fcr einen Tag angemietet werden, gemeldet werden m\u00fcssten.\r\n\u2022 Eine neue Meldepflicht f\u00fcr Transportunternehmen f\u00fchrt insgesamt zu einen B\u00fcrokratieaufwuchs, der vermieden werden muss. Aufwand und Nutzen m\u00fcssen im Verh\u00e4ltnis stehen.\r\nMeldepflicht nach \u00a7 4 Absatz 2 Nr. 1 i.V.m. \u00a7 2 Absatz 1 Nr. 13 VUDat-DV-E\r\n\u2022 Die Meldepflicht ist unverh\u00e4ltnism\u00e4\u00dfig und in der Praxis f\u00fcr Transportunternehmen kaum umsetzbar, wenn auch Kennzeichen von Fahrzeugen, die nur f\u00fcr einen Tag von einem Unternehmen aus einem anderen Mitgliedstaat der EU angemietet werden, gemeldet werden m\u00fcssten. Ein B\u00fcrokratieaufwuchs droht (siehe oben).\r\nMeldepflicht nach \u00a7 4 Absatz 2 Nr. 14 VUDat-DV-E\r\n\u2022 Die Meldepflicht ist nicht notwendig. Das BALM kann entsprechende Daten direkt von den Sozialversicherungstr\u00e4gern, bei denen der Datensatz, wie viele Besch\u00e4ftigte das Transunternehmen gemeldet hat, abrufen. Dies muss dann in datenschutzkonformer Weise geschehen."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/c9/97/318380/Stellungnahme-Gutachten-SG2406260231.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-01"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0007164",
+                "regulatoryProjectTitle": "Berufkraftfahrer-Qualifizierung, Ukrainer",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Hausanschrift\r\nBreitenbachstra\u00dfe 1\r\n60487 Frankfurt am Main\r\nKontakt\r\nTelefon: +49 69 7919 0\r\nE-Mail: bgl@bgl-ev.de\r\nWebsite: www.bgl-ev.de\r\nVorstand\r\nProf. Dr. habil. Dirk Engelhardt\r\nVorstandssprecher\r\n\r\nStellungnahme\r\nEntwurf einer Verordnung \u00fcber Ausnahmen f\u00fcr Inhaber ukrainischer Fahrerqualifizierungsnachweise, sowie zur \u00c4nderung der Berufskraftfahrerqualifikationsverordnung und anderer stra\u00dfenverkehrsrechtlicher Vorschriften\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer stra\u00dfenverkehrsrechtlicher Vorschriften\r\n\r\nZusammenfassung:\r\n\u2022Ukrainische Fahrer mit Erg\u00e4nzungsqualifikation sollten auch \u00fcber das Datum des Ablaufs des Schutzstatus hinaus (04.03.2025) als grundqualifiziert gelten. Der Ablauf der G\u00fcltigkeit des Fahrerqualifizierungsnachweises mit SZ 95.01 zu diesem Zeitpunkt (\u00a7 7 Abs. 6 UAAusnV) ist so zu verstehen, dass nur formal die G\u00fcltigkeit des Dokuments endet.\r\n\u2022In der UAAusnV ist erg\u00e4nzend klarzustellen, dass Ukrainer mit Erg\u00e4nzungsqualifikation Anspruch auf Ausstellung einer Fahrerkarte haben.\r\n\u2022Bereits anerkannte Ausbildungsst\u00e4tten sollten f\u00fcr die Durchf\u00fchrung des digitalen Unterrichts keine weitere Zustimmung der Beh\u00f6rde ben\u00f6tigen. Einhaltung der Anforderungen von Anlage 3 BKrFQV, d.h. \u00dcbermittlung des Unterrichtskonzepts sowie Erm\u00f6glichung der \u00dcberwachung, reichen aus.\r\n\u2022Lange Bearbeitungszeit des FQN: Problem der zeitlichen Vakanz zwischen Bestehen der BKF-Pr\u00fcfung und Aush\u00e4ndigung des FQN muss gel\u00f6st werden.\r\n\u2022Bosnien-Herzegowina ist in Anlage 11 FeV aufzunehmen, mit allen Fahrerlaubnisklassen\r\nFrankfurt am Main, den 16. Februar 2024\r\n\r\nStellungnahme\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer stra\u00dfenverkehrsrechtlicher\r\nVorschriften Entwurf einer Verordnung \u00fcber Ausnahmen f\u00fcr Inhaber ukrainischer Fahrerqualifizierungsnachweise, sowie\r\nzur \u00c4nderung der Berufskraftfahrerqualifikationsverordnung und anderer stra\u00dfenverkehrsrechtlicher Vorschriften\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer\r\nstra\u00dfenverkehrsrechtlicher Vorschriften\r\n2\r\nDer BGL begr\u00fc\u00dft die beiden Verordnungsentw\u00fcrfe und stimmt mit ihren Inhalten grunds\u00e4tzlich \u00fcberein. Das Transportlogistikgewerbe hat der Umsetzung der wichtigen Vorgaben des EU-Rechts zur Zulassung von Fremdsprachen bei der beschleunigten Grundqualifikation sowie von E-Learning im Rahmen der obligatorischen Weiterbildung schon seit dem Jahr 2020 entgegengesehen.\r\nF\u00fcr die M\u00f6glichkeit der Stellungnahme bedankt sich der BGL und hat zu den Entw\u00fcrfen folgende Anmerkungen:\r\nEntwurf einer Verordnung \u00fcber Ausnahmen f\u00fcr Inhaber ukrainischer Fahrerqualifizierungsnachweise (UAAusnV):\r\n\u2022\r\nDer BGL begr\u00fc\u00dft, dass mit der UAAusnV eine Umsetzung der EU-Verordnung 2022/1280, welche unmittelbar bereits die Anerkennung ukrainischer F\u00fchrerschiene vorgesehen hat, erfolgt. F\u00fcr ukrainische Fahrer wird nunmehr ein rechtssicheres Verfahren f\u00fcr den Erwerb einer Erg\u00e4nzungsqualifikation mit dem Nachweis durch die Schl\u00fcsselzahl 95.01 vorliegen.\r\nDer BGL regt im \u00dcbrigen an, die UAAusnV als Vorbild heranzuziehen, wenn es um die Entwicklung von k\u00fcnftigen Verfahren f\u00fcr die Anerkennung von BKF-Qualifikationen anderer Drittstaaten, die die Kriterien des CEMT-Qualit\u00e4tscharta erf\u00fcllen, geht.\r\nBGL-Position:\r\n\u27a2\r\nAblaufdatum des FQN mit der SZ 95.01\r\nNicht sinnvoll ist es auch Sicht des BGL, wenn aufgrund der Vorschrift des \u00a7 7 Abs. 6 Nr. 1 UAAusnV ukrainische Fahrer nach Ablauf des Schutzstatus (Art. 4 der RL 2001/55/EG) wieder g\u00e4nzlich ohne BKF-Qualifikation w\u00e4ren. F\u00fcr die G\u00fcterkraftverkehrsunternehmen w\u00e4re dies mit einem erheblichen Ausma\u00df an Rechtsunsicherheit und Kosten verbunden, da die beschleunigte Grundqualifikation erneut absolviert werden m\u00fcsste.\r\nDie Vorschrift und die der Vorschirift zugrundeliegende Art. 4 Abs. 7 der VO (EU) 2022/1280 ist daher so auszulegen, dass mit Ablauf des Schutzstatus lediglich formal der Fahrerqualifizierungsnachweis (FQN) mit der SZ 95.01 ung\u00fcltig wird, der ukrainische Fahrer aber weiterhin als qualifiziert gilt.\r\nSo m\u00fcsste lediglich die Ausstellung eines neuen Dokuments beantragt werden.\r\n\u27a2\r\nFahrerkarte f\u00fcr ukrainische Fahrer\r\nEine gro\u00dfe Rechtsunsicherheit besteht derzeit f\u00fcr ukrainische Fahrer bei der Ausstellung von Fahrerkarten. Grund ist, dass die ma\u00dfgebliche Vorschrift in \u00a7 5 Abs. 1 FPersV formell das Vorhandensein eine EU- bzw. EWR-F\u00fchrerscheins verlangt. Nach Kenntnis des BGL ist die Verwaltungspraxis der F\u00fchrerscheinstellen in Deutschland noch immer uneinheitlich.\r\nStellungnahme\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer stra\u00dfenverkehrsrechtlicher\r\nVorschriften Entwurf einer Verordnung \u00fcber Ausnahmen f\u00fcr Inhaber ukrainischer Fahrerqualifizierungsnachweise, sowie\r\nzur \u00c4nderung der Berufskraftfahrerqualifikationsverordnung und anderer stra\u00dfenverkehrsrechtlicher Vorschriften\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer\r\nstra\u00dfenverkehrsrechtlicher Vorschriften\r\n3\r\nDer BGL regt an, dass in der Verordnung eine Klarstellung erfolgt, dass Ukrainer mit Erg\u00e4nzungsqualifikation Anspruch auf Ausstellung der Fahrerkarte haben.\r\n\u00c4nderung der Berufskraftfahrerqualifikationsverordnung und anderer stra\u00dfenverkehrsrechtlicher Vorschriften\r\n\u2022 Die Einf\u00fchrung des E-Learnings im Rahmen der obligatorischen Weiterbildung in Umsetzung der EU-Richtlinie 2020/2561 (insb. Anhang I Abschnitt 4) wird vom BGL begr\u00fc\u00dft. Dabei ist der vom EU-Recht erm\u00f6glichte Umfang von 12 Stunden in vollem Ma\u00dfe ausgesch\u00f6pft worden.\r\nBGL-Position:\r\n\u27a2\r\nH\u00f6here Stundenanzahl\r\nDer BGL gibt hierbei zu bedenken, dass bereits heute vom Transportgewerbe teilweise eine h\u00f6here Stundenanzahl f\u00fcr digitales Lernen im Rahmen der obligatorischen Weiterbildung gew\u00fcnscht wird, auch wenn das vom derzeitigem EU-Recht nicht gedeckt ist. Unter Einbeziehung k\u00fcnftiger Evaluationen der BASt (\u00a7 3 Abs. 3b BKrFQV-E) sollte aber eine entsprechende Anpassung des EU-Rechts erwogen werden, zumal der Gesetzgeber davon ausgeht, dass im Bereich des asynchronen digitalen Unterrichts eine zeitlich flexible Nutzung der Lerninhalte vorgesehen ist (siehe Begr\u00fcndung S. 46 des Referentenentwurfs).\r\nTransportlogistikunternehmen informierten den BGL au\u00dferdem, dass eine Stundenanzahl von 14 Stunden f\u00fcr das digitale Lernen tunlich w\u00e4re, da die verbleibenden 21 Stunden dann in drei Modulen zu je 7 Stunden in Pr\u00e4senzunterricht absolviert werden k\u00f6nnten.\r\n\u27a2\r\nBereits anerkannte Ausbildungsst\u00e4tten\r\nAus Sicht des BGL ist es nicht erforderlich, dass auch bereits anerkannte Ausbildungsst\u00e4tten (\u00a7 9 BKrFQG), die digitalen Unterreicht in synchroner und asynchroner Form anbieten m\u00f6chten, vor Durchf\u00fchrung des digitalen Unterrichts ebenfalls noch einmal der Zustimmung der nach Landesrecht f\u00fcr die Anerkennung von Ausbildungsst\u00e4tten zust\u00e4ndigen Beh\u00f6rde bed\u00fcrfen.\r\nOhnehin ist in Zusammenhang mit der Anerkennung von Ausbildungsst\u00e4tten bereits zus\u00e4tzliche B\u00fcrokratie geschaffen worden, als nach Ablauf einer \u00dcbergangsfrist zum 02.12.2022 die gesetzliche Anerkennung f\u00fcr Ausbildungsbetriebe weggefallen ist und so s\u00e4mtliche Ausbildungsbetriebe einer staatlichen Anerkennung bed\u00fcrfen.\r\nAus Sicht des BGL reicht in diesem Fall die Einhaltung der in Anlage 3 BKrFQV-E geregelten allgemeinen Anforderung aus. Hierzu geh\u00f6rt insbesondere die\r\nStellungnahme\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer stra\u00dfenverkehrsrechtlicher\r\nVorschriften Entwurf einer Verordnung \u00fcber Ausnahmen f\u00fcr Inhaber ukrainischer Fahrerqualifizierungsnachweise, sowie\r\nzur \u00c4nderung der Berufskraftfahrerqualifikationsverordnung und anderer stra\u00dfenverkehrsrechtlicher Vorschriften\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer\r\nstra\u00dfenverkehrsrechtlicher Vorschriften\r\n4\r\nVorlage eines Unterrichtskonzepts an die nach Landesrecht zust\u00e4ndige Beh\u00f6rde sowie die Erm\u00f6glichung der \u00dcberwachung des digitalen Unterrichts. (Anlage 3, Nr. 5 und 6 BKrFQV-E). Entsprechend ist auch die Formulierung in \u00a7 9 Abs. 3 BKrFQG-E anzupassen.\r\n\u27a2\r\nZuverl\u00e4ssige Nutzeridentifizierung\r\nBez\u00fcglich Anlage 3 Nr. 2 BKrFQV-E regt der BGL an, dass die Voraussetzung einer zuverl\u00e4ssigen Nutzeridentifizierung konkreter gefasst wird. So sollte in Nr. 2 aufgef\u00fchrt werden, dass das Lehrpersonal vor Beginn des digitalen Unterrichts die Identit\u00e4t und w\u00e4hrend des Unterrichts die Anwesenheit der zu schulenden Unterrichtsteilnehmer zu pr\u00fcfen hat.\r\nAu\u00dferdem sollte zwischen einer Nutzerverifizierung (Pr\u00fcfung, ob der Nutzer auch der Mensch ist, der er vorgibt zu sein) und einer Nutzerauthentifizierung (bezeichnet den eindeutigen Login-Prozess, der in der Regel durch eine eindeutige Nutzererkennung mit Anmeldenamen und Passwort gegeben ist), unterschieden werden.\r\n\u27a2\r\nLange Bearbeitungszeiten bei Ausstellung des FQN\r\nEin dr\u00e4ngendes Anliegen in der Praxis angehender Berufskraftfahrer ist nach wie vor ungel\u00f6st:\r\nNach \u00a7 3 Abs. 7 BKrFQG tritt w\u00e4hrend der Berufsausbildung an die Stelle des Nachweises der Grundqualifikation der Ausbildungsvertrag. Nach Abschluss der Ausbildung entsteht in der Praxis sehr h\u00e4ufig das Problem, dass die Ausstellung des FQN lange Zeit beansprucht. In der \u00dcbergangszeit steht der angehende BKF ohne Nachweis der Qualifikation dar. Dieser Rechtszustand ist widersinnig, denn warum sollte ein Azubi, der die Abschlusspr\u00fcfung absolviert hat, und dessen Ausbildungszeit abgelaufen ist, schlechter gestellt werden als w\u00e4hrend der Ausbildung?\r\nEine L\u00f6sung in der BKrFQV m\u00fcsste dahin geschaffen werden, dass die IHK-Pr\u00fcfungsbescheinigung als vorl\u00e4ufiger Nachweis der Qualifikation bei Fahrten im gewerblichen G\u00fcterverkehr anerkannt wird; oder es muss ein vorl\u00e4ufiger FQN zur Verf\u00fcgung gestellt werden.\r\n\u00c4nderung der Fahrerlaubnis-Verordnung\r\nBGL-Position:\r\n\u27a2\r\nAnlage 11 FeV\r\nBosnien-Herzegowina ist mit allen Fahrerlaubnisklassen in Anlage 11 FeV aufzunehmen (bisher fehlen die C-Klassen). Es ist nicht ersichtlich, dass sich die dortige Qualit\u00e4t der F\u00fchrerschein-Ausbildung signifikant von der in Staaten wie Serbien oder Nordmazedonien unterscheidet.\r\nStellungnahme\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer stra\u00dfenverkehrsrechtlicher\r\nVorschriften Entwurf einer Verordnung \u00fcber Ausnahmen f\u00fcr Inhaber ukrainischer Fahrerqualifizierungsnachweise, sowie\r\nzur \u00c4nderung der Berufskraftfahrerqualifikationsverordnung und anderer stra\u00dfenverkehrsrechtlicher Vorschriften\r\nEntwurf eines Gesetzes zur \u00c4nderung des Berufskraftfahrerqualifikationsgesetzes und anderer\r\nstra\u00dfenverkehrsrechtlicher Vorschriften\r\n5\r\n\u27a2\r\nStreichung \u00a7 28 Abs. 4 S. 1 Nr. 7 FeV\r\nAusdr\u00fccklich begr\u00fc\u00dft der BGL die Streichung dieser Vorschrift. Die fehlende Anerkennung der G\u00fcltigkeit von F\u00fchrerscheinen, die ein Drittstaatenfahrer in einem EU-Mitgliedsstaat pr\u00fcfungsfrei in einen EU-F\u00fchrerschein umtauscht, war bisher ein gro\u00dfes Hindernis bei der Einstellung von Fahrern aus Drittstaaten in Deutschland; zumal die Vorschrift in der Praxis einen nur geringen Bekanntheitsgrad hatte.\r\n\u27a2\r\nDigitaler Theorieunterricht bei Fahrschulen\r\nDer BGL regt an, dass digitaler Unterricht auch im Rahmen des theoretischen Fahrschulunterrichts zum Regelfall wird und nicht nur in begr\u00fcndeten Ausnahmef\u00e4llen m\u00f6glich ist (\u00a7 4 Abs. 1b FahrschAusbO)"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

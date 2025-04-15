@@ -1,0 +1,682 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-08-22T14:28:47.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-10T16:25:06.000+01:00",
+        "lastUpdateDate": "2024-06-21T12:31:28.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 33256,
+                "validFromDate": "2024-06-21T12:31:28.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23922,
+                "validFromDate": "2023-07-17T12:59:04.000+02:00",
+                "validUntilDate": "2024-06-21T12:31:28.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 12250,
+                "validFromDate": "2023-07-13T10:49:22.000+02:00",
+                "validUntilDate": "2023-07-17T12:59:04.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 10294,
+                "validFromDate": "2022-08-22T14:28:47.000+02:00",
+                "validUntilDate": "2023-07-13T10:49:22.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Die Au\u00dfenhandelsvereinigung des Deutschen Einzelhandels e.V. (AVE) ist die Spitzenorganisation der importierenden Einzelh\u00e4ndler in Deutschland. Sie vertritt die au\u00dfenwirtschaftlichen Interessen des deutschen Einzelhandels, der im Rahmen seiner weltweiten Einkaufspolitik auf eine reibungslose Einfuhr von Konsumg\u00fctern aller Art angewiesen ist. Dar\u00fcber hinaus engagiert sich die AVE f\u00fcr eine strikte Einhaltung von Umwelt- und Sozialstandards in den Lieferl\u00e4ndern. F\u00fcr diese Ziele setzen wir uns in Gespr\u00e4chen mit politischen Vertretern und zust\u00e4ndigen Beh\u00f6rden auf europ\u00e4ischer und nationaler Ebene anlassbezogen ein. Dazu geh\u00f6ren beispielsweise zollrechtliche Abwicklungen von Freihandelsabkommen, eine einheitliche Auslegung von Zollprozessen auf nationaler und europ\u00e4ischer Ebene gem\u00e4\u00df des Unionszollkodex oder die Durchf\u00fchrbarkeit von sogenannten Green Deal-Ma\u00dfnahmen auf nationaler Ebene wie z.B. CBAM oder EUDR.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_MEDIA_FREEDOM_OF_SPEECH",
+                "de": "Meinungs- und Pressefreiheit",
+                "en": "Freedom of speech and freedom of the press"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_AF_FOOD_SAFETY",
+                "de": "Lebensmittelsicherheit",
+                "en": "Food safety"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_FA_OTHER",
+                "de": "Sonstiges im Bereich \"Au\u00dfenpolitik und internationale Beziehungen\"",
+                "en": "Other in the field of \"Foreign policy and international relations\""
+            },
+            {
+                "code": "FOI_BUNDESTAG_OTHER",
+                "de": "Sonstiges im Bereich \"Bundestag\"",
+                "en": "Other in the field of \"Bundestag\""
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_ECONOMY_ECOMMERCE",
+                "de": "E-Commerce",
+                "en": "E-commerce"
+            },
+            {
+                "code": "FOI_SS_OTHER",
+                "de": "Sonstiges im Bereich \"Soziale Sicherung\"",
+                "en": "Other in the field of \"Social security\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_EU_POLITICS",
+                "de": "Institutionelle Fragen der EU",
+                "en": "Institutional questions of European politics"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_ADMINISTRATION",
+                "de": "Verwaltungstransparenz/Open Government",
+                "en": "Public administration"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_AF_AQUACULTURE",
+                "de": "Fischerei/Aquakultur",
+                "en": "Fishery/aquaculture"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_SA_ORGANIZATION",
+                "de": "Staatsorganisation",
+                "en": "State organization"
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_SA_OTHER",
+                "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                "en": "Other in the field of \"Government and administration\""
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/e2/cb/303430/AVE_GuV_2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 4.0,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 340001,
+            "to": 350000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Am Weidendamm",
+            "streetNumber": "1 A",
+            "type": "NATIONAL",
+            "zipCode": "13055"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@ave-intl.de"
+                }
+            ],
+            "phoneNumber": "+4930590099616",
+            "websites": [
+                {
+                    "website": "https://www.ave-international.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Stefan",
+                "lastName": "Genth",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Stephan",
+                "lastName": "Tromp",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Murat",
+                "lastName": "\u00d6zdemir",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Moritz",
+                "lastName": "Lange-Lundetrae",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Prof. Dr. ",
+                "entrustedPerson": false,
+                "firstName": "Tobias",
+                "function": "Pr\u00e4sident",
+                "lastName": "Wollermann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Thomas",
+                "function": "Mitgiled des Pr\u00e4sidiums; Vorsitzender des Zollausschusses",
+                "lastName": "Glanzer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Michael",
+                "function": "Mitgiled des Pr\u00e4sidiums; Vorsitzende des Nachhaltigkeitsausschusses",
+                "lastName": "Reidick",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Stefan",
+                "function": "Hauptgesch\u00e4ftsf\u00fchrer",
+                "lastName": "Genth",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Stephan",
+                "function": "Stellvertretender Hauptgesch\u00e4ftsf\u00fchrer",
+                "lastName": "Tromp",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-05-13",
+            "naturalPersons": 0,
+            "organizations": 20,
+            "totalCount": 20
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "cads e.V."
+            },
+            {
+                "membership": "Ostasiatischer Verein eingetragener Verein"
+            },
+            {
+                "membership": "ICC Germany e. V. Internationale Handelskammer"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Au\u00dfenhandelsvereinigung des deutschen Einzelhandels e.V. (AVE)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "Otto GmbH & Co. KG"
+            },
+            {
+                "name": "Lidl Stiftung & Co. KG "
+            },
+            {
+                "name": "Deichmann SE "
+            },
+            {
+                "name": "GALERIA Karstadt Kaufhof GmbH "
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 360001,
+            "to": 370000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Zuschuss seitens des BMZ f\u00fcr die fachliche Steuerung der AVE im Rahmen der Kammer- und Verbandspartnerschaft (KVP) zwischen der Au\u00dfenhandelsvereinigung des Deutschen Einzelhandels (AVE) und der Association of Ghana Apparel Manufacturers (AGAM) in Ghana",
+                "location": "Stresemannstra\u00dfe 94, 10963 Berlin",
+                "name": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                "publicAllowanceEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R003288/33256",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-21T12:31:28.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/5c/59/303431/Lobbyregister-Detailansicht-R003288-2024-06-21_12-31-28.pdf",
+        "validFromDate": "2024-06-21T12:31:28.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 33256,
+    "registerNumber": "R003288",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "LkSG",
+                        "title": "Gesetz \u00fcber die unternehmerischen Sorgfaltspflichten zur Vermeidung von Menschenrechtsverletzungen in Lieferketten",
+                        "url": "https://www.gesetze-im-internet.de/lksg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Das Lieferkettensorgfaltspflichtengesetz (LkSG)  st\u00e4rkt in globalen Lieferketten Menschenrechte und den Umweltschutz. Es verpflichtet Unternehmen in Deutschland zur Achtung von Menschenrechten durch die Umsetzung definierter Sorgfaltspflichten. Die AVE setzt sich bez\u00fcglich des LkSG f\u00fcr eine praxisorientierte Umsetzung und Auslegung auf nationaler Ebene ein, ohne vor dem Hintergrund europ\u00e4ischer Gesetzgebungen redundante Berichtspflichten zu erzeugen. Ebenfalls setzen wir uns f\u00fcr eine Konkretisierung von unbestimmten Rechtsbegriffen innerhalb des Gesetzes oder die Konkretisierung der Verantwortlichkeiten und damit einhergehend f\u00fcr Haftungstatbest\u00e4nde f\u00fcr Einzelh\u00e4ndler hinsichtlich Original-, Handels und Zweitmarken ein.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_INTERNATIONAL",
+                        "de": "Internationale Beziehungen",
+                        "en": "International relations"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_ECOMMERCE",
+                        "de": "E-Commerce",
+                        "en": "E-commerce"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    },
+                    {
+                        "code": "FOI_FOREIGN_TRADE",
+                        "de": "Au\u00dfenwirtschaft",
+                        "en": "Foreign trade"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_DEVELOPMENT_POLICY",
+                        "de": "Entwicklungspolitik",
+                        "en": "Development policy"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_OTHER",
+                        "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                        "en": "Other in the field of \"Economy\""
+                    },
+                    {
+                        "code": "FOI_FA_OTHER",
+                        "de": "Sonstiges im Bereich \"Au\u00dfenpolitik und internationale Beziehungen\"",
+                        "en": "Other in the field of \"Foreign policy and international relations\""
+                    },
+                    {
+                        "code": "FOI_EU_POLITICS",
+                        "de": "Institutionelle Fragen der EU",
+                        "en": "Institutional questions of European politics"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_INDUSTRY",
+                        "de": "Lebens- und Genussmittelindustrie",
+                        "en": "Food and luxury food industry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/brd/2021/0495-21.pdf",
+                        "issuer": "BR",
+                        "leadingMinistries": [],
+                        "printingNumber": "495/21",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-%C3%BCber-die-unternehmerischen-sorgfaltspflichten-in-lieferketten/275852",
+                        "title": "Gesetz \u00fcber die unternehmerischen Sorgfaltspflichten in Lieferketten (Lieferkettensorgfaltspflichtengesetz - LkSG)"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0003914",
+                "statements": [],
+                "title": "Wir setzen uns f\u00fcr eine praxisorientierte Umsetzung des LkSG ein, ohne redundante Berichtspflichten aufgrund weiterer Regelungen zu erzeugen."
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

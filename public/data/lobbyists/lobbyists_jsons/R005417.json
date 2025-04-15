@@ -1,0 +1,850 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-11-02T13:31:01.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-11-02T13:31:01.000+01:00",
+        "lastUpdateDate": "2024-06-18T11:01:17.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 30900,
+                "validFromDate": "2024-06-18T11:01:17.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26035,
+                "validFromDate": "2023-10-31T10:41:50.000+01:00",
+                "validUntilDate": "2024-06-18T11:01:17.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21240,
+                "validFromDate": "2023-06-08T10:41:01.000+02:00",
+                "validUntilDate": "2023-10-31T10:41:50.000+01:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 10142,
+                "validFromDate": "2022-11-02T13:31:01.000+01:00",
+                "validUntilDate": "2023-06-08T10:41:01.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_NETWORK_WITHOUT_LEGAL_FORM",
+            "de": "Plattform, Netzwerk, Interessengemeinschaft, Denkfabrik, Initiative, Aktionsb\u00fcndnis o.\u00a0\u00e4.",
+            "en": "Platform, network, community of interest, think tank, initiative, action alliance"
+        },
+        "activityDescription": "Der Rat f\u00fcr Sozial- und Wirtschaftsdaten (RatSWD) ber\u00e4t seit 2004 die Bundesregierung und die Regierungen der L\u00e4nder in Fragen der Forschungsdateninfrastruktur f\u00fcr die empirischen Sozial-, Verhaltens- und Wirtschaftswissenschaften. Im RatSWD arbeiten zehn durch Wahl legitimierte Vertreterinnen und Vertreter der sozial-, verhaltens- und wirtschaftswissenschaftlichen Fachdisziplinen mit zehn Vertreterinnen und Vertretern der Datenproduktion zusammen. Der RatSWD ist Teil des Konsortiums f\u00fcr die Sozial-, Verhaltens-, Bildungs- und Wirtschaftswissenschaften (KonsortSWD) in der Nationalen Forschungsdateninfrastruktur (NFDI). Er versteht sich als institutionalisiertes Forum des Dialoges zwischen Wissenschaft und Datenproduzenten, er erarbeitet Empfehlungen und Stellungnahmen und organisiert Konferenzen und Veranstaltungen, die sich auch an politische Akteure richten. Dabei engagiert er sich f\u00fcr eine Infrastruktur, die der Wissenschaft einen breiten, flexiblen und sicheren Datenzugang erm\u00f6glicht. Diese Daten werden von staatlichen, wissenschaftsgetragenen und privatwirtschaftlichen Akteuren bereitgestellt. Derzeit hat der RatSWD 41 Forschungsdatenzentren akkreditiert und f\u00f6rdert deren Kooperation. Das Wissenschaftszentrum Berlin f\u00fcr Sozialforschung (WZB) ist mit der Wahrnehmung der Gesch\u00e4fte des RatSWD beauftragt.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_ADMINISTRATION",
+                "de": "Verwaltungstransparenz/Open Government",
+                "en": "Public administration"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_RPI_OTHER",
+                "de": "Sonstiges im Bereich \"Migration, Fl\u00fcchtlingspolitik und Integration\"",
+                "en": "Other in the field of \"Migration, refugee policy and integration\""
+            },
+            {
+                "code": "FOI_MEDIA_OTHER",
+                "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                "en": "Other in the field of \"Media, communication and information technology\""
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_IS_CRIME",
+                "de": "Kriminalit\u00e4tsbek\u00e4mpfung",
+                "en": "Fight against crime"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_SERVICE",
+                "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                "en": "Public service"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_LAW_CRIMINAL",
+                "de": "Strafrecht",
+                "en": "Criminal law"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_SS_OTHER",
+                "de": "Sonstiges im Bereich \"Soziale Sicherung\"",
+                "en": "Other in the field of \"Social security\""
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_SA_ORGANIZATION",
+                "de": "Staatsorganisation",
+                "en": "State organization"
+            },
+            {
+                "code": "FOI_MEDIA_COPYRIGHT",
+                "de": "Urheberrecht",
+                "en": "Copyright"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_IS_DISASTER_CONTROL",
+                "de": "Bev\u00f6lkerungsschutz und Katastrophenhilfe",
+                "en": "Civil protection"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.3,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 180001,
+            "to": 190000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Wissenschaftszentrum Berlin",
+            "nationalAdditional2": "Gesch\u00e4ftsstelle RatSWD",
+            "street": "Reichpietschufer",
+            "streetNumber": "50",
+            "type": "NATIONAL",
+            "zipCode": "10785"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "office@ratswd.de"
+                }
+            ],
+            "phoneNumber": "+493025491820",
+            "websites": [
+                {
+                    "website": "www.ratswd.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Prof. Dr.",
+                "firstName": "Monika",
+                "lastName": "Jungbauer-Gans",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Lisa",
+                "lastName": "K\u00fchn",
+                "recentGovernmentFunction": {
+                    "endDate": "2022-03",
+                    "ended": true,
+                    "federalAdministration": {
+                        "function": "Referentin",
+                        "supremeFederalAuthority": "Ausw\u00e4rtiges Amt (AA) oder dessen Gesch\u00e4ftsbereich",
+                        "supremeFederalAuthorityShort": "AA"
+                    },
+                    "type": {
+                        "code": "FEDERAL_ADMINISTRATION",
+                        "de": "Bundesverwaltung",
+                        "en": "Federal administration"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "firstName": "Dorina",
+                "lastName": "Hackmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr.",
+                "firstName": "Kerstin",
+                "lastName": "Schneider",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+            "en": "Networks, platforms or other forms of collective activity",
+            "legalFormText": "Unabh\u00e4ngiger Beirat der Bundesregierung"
+        },
+        "legalFormType": {
+            "code": "NETWORK_PLATFORM_OR_OTHER",
+            "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+            "en": "Network, platform or other form of collective activity"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Prof. Dr.",
+                "entrustedPerson": true,
+                "firstName": "Monika",
+                "function": "Vorsitzende",
+                "lastName": "Jungbauer-Gans",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr.",
+                "entrustedPerson": true,
+                "firstName": "Kerstin",
+                "function": "Stellvertretende Vorsitzende",
+                "lastName": "Schneider",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-10",
+            "naturalPersons": 20,
+            "organizations": 0,
+            "totalCount": 20
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Research Data Alliance"
+            },
+            {
+                "membership": "Informationsdienst Wissenschaft e.V. (idw)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Rat f\u00fcr Sozial- und Wirtschaftsdaten (RatSWD)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Die Zuwendung erfolgt an das Wissenschaftszentrum Berlin f\u00fcr Sozialforschung gGmbH (WZB) als Partnerinstitution im Konsortium f\u00fcr die Sozial-, Bildungs-, Verhaltens- und Wirtschaftswissenschaften (KonsortSWD) als eines der DFG-Konsortien im Rahmen der Nationalen Forschungsdateninfrastruktur (NFDI). Das WZB \u00fcbernimmt im Rahmen des Konsortiums die Koordination des Bereichs Community Participation, hierzu geh\u00f6rt auch die Koordination des RatSWD durch dessen Gesch\u00e4ftsstelle, die am WZB angesiedelt ist.",
+                "location": "Bonn",
+                "name": "Deutsche Forschungsgemeinschaft",
+                "publicAllowanceEuro": {
+                    "from": 990001,
+                    "to": 1000000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R005417/30900",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-18T11:01:17.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a7/db/295887/Lobbyregister-Detailansicht-R005417-2024-06-18_11-01-17.pdf",
+        "validFromDate": "2024-06-18T11:01:17.000+02:00",
+        "version": 4
+    },
+    "registerEntryId": 30900,
+    "registerNumber": "R005417",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BStatG",
+                        "title": "Gesetz \u00fcber die Statistik f\u00fcr Bundeszwecke",
+                        "url": "https://www.gesetze-im-internet.de/bstatg_1987"
+                    },
+                    {
+                        "shortTitle": "BDSG",
+                        "title": "Bundesdatenschutzgesetz",
+                        "url": "https://www.gesetze-im-internet.de/bdsg_2018"
+                    },
+                    {
+                        "shortTitle": "StPO",
+                        "title": "Strafproze\u00dfordnung",
+                        "url": "https://www.gesetze-im-internet.de/stpo"
+                    },
+                    {
+                        "shortTitle": "StGB",
+                        "title": "Strafgesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/stgb"
+                    },
+                    {
+                        "shortTitle": "VwDVG",
+                        "title": "Gesetz \u00fcber die Verwendung von Verwaltungsdaten f\u00fcr Zwecke der Wirtschaftsstatistiken",
+                        "url": "https://www.gesetze-im-internet.de/vwdvg_2010"
+                    },
+                    {
+                        "shortTitle": "StatRegG",
+                        "title": "Gesetz \u00fcber den Aufbau und die F\u00fchrung eines Statistikregisters",
+                        "url": "https://www.gesetze-im-internet.de/statregg"
+                    },
+                    {
+                        "shortTitle": "StStatG",
+                        "title": "Gesetz \u00fcber Steuerstatistiken",
+                        "url": "https://www.gesetze-im-internet.de/ststatg_1995"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Verbesserung des Zugangs und der Verkn\u00fcpfung von Daten durch \u00fcbergreifende \u00c4nderung bestehender Regelungen, die bisher dem Zugang und der Verkn\u00fcpfung von Daten f\u00fcr wissenschaftliche Zwecke entgegenstehen",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_BUNDESTAG",
+                        "de": "Bundestag",
+                        "en": "Bundestag"
+                    },
+                    {
+                        "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                        "de": "Parlamentarisches Verfahren",
+                        "en": "Parliamentary procedure"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002731",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/f3/26/295883/Stellungnahme-Gutachten-SG2406110034.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMBF",
+                                        "de": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                                        "en": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-08"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002731",
+                        "regulatoryProjectTitle": "Forschungsdatengesetz",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Kommentierung der Eckpunkte zum Forschungsdatengesetz\r\nSehr geehrter Herr Dr. Philippi,\r\nf\u00fcr die Vorbereitung des Forschungsdatengesetzes und das k\u00fcrzlich ver\u00f6ffentlichte Eck-punktepapier sowie f\u00fcr das Gespr\u00e4ch mit Ihnen und Ihren Mitarbeiterinnen im Februar m\u00f6chte sich der Rat f\u00fcr Sozial- und Wirtschaftsdaten (RatSWD) herzlich bedanken. Das Eck-punktepapier beinhaltet gute Ansatzpunkte f\u00fcr wichtige Neuerungen zur Verbesserung des Datenzugangs f\u00fcr die Wissenschaft. In unserem heutigen Schreiben m\u00f6chten wir aus unse-rer Sicht kritische Punkte und offene Fragen, auch als Gespr\u00e4chsgrundlage f\u00fcr einen weite-ren Austausch, ansprechen. Wir werden dar\u00fcber hinaus in den n\u00e4chsten Tagen eine Stel-lungnahme mit einigen Kernpunkten ver\u00f6ffentlichen. Den Entwurf legen wir diesem Schrei-ben bei.\r\nZielgruppe des Forschungsdatengesetzes\r\nDas Forschungsdatengesetz sollte Verbesserungen f\u00fcr die unabh\u00e4ngige Forschung bieten, die an den Universit\u00e4ten, au\u00dferuniversit\u00e4ren Forschungseinrichtungen und in privatwirt-schaftlichen Organisationen stattfindet. Die Festlegung der Zielgruppe des Forschungsda-tengesetzes auf die unabh\u00e4ngige Forschung ist aus unserer Sicht wichtig, um Klarheit be-z\u00fcglich der Zugangsberechtigungen zu schaffen. Der privilegierte Zugang der Forschung zu sensiblen Daten leitet sich aus der Forschungsklausel in der Datenschutzgrundverord-nung (DSGVO) ab und es ist aus unserer Sicht wichtig, einem m\u00f6glichen Misstrauen gegen-\u00fcber nicht legitimer Verwendung der Daten (\u201eDatenabfl\u00fcssen\u201c) im Vorfeld vorzubeugen. Derzeit ist die Definition der \u201cunabh\u00e4ngigen Forschung\u201d als Voraussetzung zum Datenzu-gang unklar. In anderen Staaten wird bspw. die Verpflichtung zur Ver\u00f6ffentlichung der For-schungsergebnisse als Zugangsvoraussetzung definiert, um (wenigstens) eine unabh\u00e4ngige Nutzung der Ergebnisse zu erm\u00f6glichen. Entsprechend sollte auch in Deutschland die Ver-pflichtung zur Ver\u00f6ffentlichung der Forschungsergebnisse ein Mindestkriterium f\u00fcr die Zugangsberechtigung sein. Aktuell wird im Rahmen des Basisdienst-Konsortiums \u201eBase4NFDI\u201c der Nationalen Forschungsdateninfrastruktur (NFDI) ein System zur Akkredi-tierung von Forschenden aufgebaut, das perspektivisch f\u00fcr die Definition der Gruppe der Zugangsberechtigten genutzt werden k\u00f6nnte.\r\nDaten der \u00f6ffentlichen Hand\r\nIm Eckpunktepapier wird vom Zugang zu Daten der \u00f6ffentlichen Hand des Bundes gespro-chen. Sehr zu begr\u00fc\u00dfen ist die Absicht, das Bundesstatistikgesetz (BStatG) zu novellieren, um Verbesserungen beim Zugang zu statistischen Einzeldaten f\u00fcr die Forschung zu erzie-len. Bereits jetzt werden in den Forschungsdatenzentren (FDZ) des Statistischen Bundes-amtes und der L\u00e4nder Statistikdaten f\u00fcr die Forschung aufbereitet und verf\u00fcgbar gemacht. Es w\u00e4re w\u00fcnschenswert, die Rolle der FDZ der Statistik durch entsprechende Anpassungen im Forschungsdatengesetz zu st\u00e4rken. Bei der Definition von \u201eDaten der \u00f6ffentlichen Hand\u201c ist unseres Erachtens unklar, ob sich die geplanten Regelungen nur auf Daten in der unmit-telbaren und auch der mittelbaren Bundesverwaltung beziehen sollen oder ob dar\u00fcber hin-aus auch Daten anderer \u00f6ffentlicher K\u00f6rperschaften, also Daten auf den Ebenen von L\u00e4n-dern oder sogar von Gemeinden umfasst sein sollen, was f\u00fcr die Forschung sehr wichtig w\u00e4re. F\u00fcr viele Statistik- und Registerdaten, wie z.B. Sozialversicherungsdaten, w\u00e4re eine Trennung nach Bundes- und L\u00e4nderdaten nicht zielf\u00fchrend. Statistikdaten der \u00c4mter wer-den in der Regel im statistischen Verbund im Rahmen der f\u00f6deralen Strukturen erhoben und zum Teil auf L\u00e4nderebene gehalten. Insbesondere f\u00fcr die Bildungsforschung ist zu be-f\u00fcrchten, dass ohne Einbezug der L\u00e4nderebene die in der Kulturhoheit der L\u00e4nder liegen-den Daten nicht f\u00fcr die Forschung verf\u00fcgbar gemacht werden.\r\nL\u00f6schfristen\r\nIn vielen Statistikgesetzen wie beispielsweise zur Hochschulstatistik sind L\u00f6schfristen vor-gesehen (z.B. nur vier Jahre f\u00fcr Daten zu Promovierenden an Hochschulen), die eine lang-fristige Speicherung von Daten im statistischen System verhindern. Um keine wichtigen Forschungsdaten zu verlieren, sollte das Forschungsdatengesetz ein Konzept zur langfristi-gen Speicherung von pseudonymisierten Forschungsdaten bzw. Mikrodaten in einem Ar-chiv f\u00fcr die Forschung umfassen.\r\nDatentreuh\u00e4nder\r\nIn den Eckpunkten des BMBF f\u00fcr das Forschungsdatengesetz wird die Einf\u00fchrung eines \u201eGerman Micro Data Centers\u201c als Datentreuh\u00e4nder angek\u00fcndigt, der aus Sicht der Sozial- und Wirtschaftswissenschaften sehr zu begr\u00fc\u00dfen ist. Die wesentliche Kompetenz einer sol-chen Einrichtung liegt in der Bereitstellung einer technisch-organisatorischen Infrastruktur f\u00fcr die (virtuelle) Verkn\u00fcpfung von ansonsten in getrennten Datensilos befindlichen Daten f\u00fcr Forschungszwecke der unabh\u00e4ngigen Wissenschaft. Eine wesentliche Voraussetzung hierf\u00fcr ist allerdings eine entsprechende gesetzliche Regelung der Zul\u00e4ssigkeit von Ver-kn\u00fcpfungen zu Forschungszwecken, die in dem Eckpunktepapier bislang nicht erw\u00e4hnt wird. In der neu aufzubauenden Dateninfrastruktur sollten\r\n\u2022 der datenschutzkonforme Zugang zu pseudonymisierten Mikrodaten der amtli-chen Statistik und Register erm\u00f6glicht werden,\r\n\u2022 bereichs\u00fcbergreifende Datenverkn\u00fcpfungen der Statistik- und Registerdaten so-wie dieser Daten mit wissenschaftsgenerierten Daten f\u00fcr die Analyse durch die unabh\u00e4ngige wissenschaftliche Forschung erfolgen k\u00f6nnen und\r\n\u2022 der Datenzugang der unabh\u00e4ngigen Forschung diskriminierungsfrei, d. h. ohne finanzielle und organisatorische H\u00fcrden \u00fcber einen Remote Access m\u00f6glich sein.\r\nDer Aufbau einer solchen Infrastruktur ist nicht nur an die Schaffung der rechtlichen Vo-raussetzungen gebunden, sondern umfasst auch technisch-organisatorische Grundlagen (auch hier kann man sich an Beispielen aus dem Ausland orientieren), z.B.:\r\n\u2022 Die Plattform muss von einer unabh\u00e4ngigen Organisation betrieben werden, die unbefugte Zugriffe, auch von politischer oder administrativer Seite ausschlie\u00dft.\r\n\u2022 Ben\u00f6tigt wird zudem ein System von Identifikatoren (d.h. Kennungen f\u00fcr die Per-son, deren Daten vorgehalten werden). Ein einfaches und in allen Registern und Datenquellen verf\u00fcgbares System (wie z.B. Steuernummer, Sozialversicherungs-nummer) existiert (noch) nicht und ist aus verfassungs- und datenschutzrechtlicher Sicht umstritten. Zu pr\u00fcfen sind daher Systeme von bereichsspezifischen Identifi-katoren oder technische Verschl\u00fcsselungen, die eine eineindeutige Zuordnung im Fall der Verkn\u00fcpfung erm\u00f6glichen, aber nicht r\u00fcckverfolgbar sind (wie zum Beispiel bei PIN und Kreditkarte).\r\n\u2022 Ben\u00f6tigt wird eine technische Plattform f\u00fcr die projektweise Verkn\u00fcpfung und Ana-lyse der Daten mit entsprechenden (technisch kontrollierten) Ausgabeformaten f\u00fcr die wissenschaftliche Weiterverwendung.\r\n\u2022 Die bestehende Forschungsdateninfrastruktur der Forschungsdatenzentren (FDZ) sollte \u00fcber geeignete Verfahren an den zentralen Datentreuh\u00e4nder zum Datenaus-tausch angebunden werden.\r\n\u2022 Ben\u00f6tigt wird zudem ein Rechtemanagement mit einer Akkreditierung zugriffsbe-rechtigter Personen (vgl. Definition der Zugangsberechtigten oben) und eine ent-sprechende Abwicklung von Antr\u00e4gen auf Datennutzung.\r\nDatenschutz\r\nDer RatSWD begr\u00fc\u00dft, dass das Forschungsdatengesetz neue Regelungen f\u00fcr einen for-schungsfreundlichen Datenschutz mit einer m\u00f6glichst einheitlichen Datenschutzaufsicht treffen soll. Insbesondere die Bildungsforschung, die bundesweite Studien durchf\u00fchrt, lei-det unter dem enormen Aufwand, um Genehmigungen einzuholen und den jeweils spezi-fischen Regelungen aller Bundesl\u00e4nder nachzukommen. Das Forschungsdatengesetz sollte das aus Art. 5 Abs. 3 GG abgeleitete datenschutzrechtliche Wissenschaftsprivileg heranziehen und die Spielr\u00e4ume der DSGVO wie in anderen europ\u00e4ischen L\u00e4ndern flexibler nutzen. Schon eine bundeseinheitliche Auslegung der DSGVO w\u00fcrde deutliche Verbesse-rungen bringen.\r\nF\u00fcr die F\u00e4lle, in denen Datenschutz in die Zust\u00e4ndigkeit der L\u00e4nder f\u00e4llt, sollte die Konferenz der unabh\u00e4ngigen Datenschutzbeh\u00f6rden des Bundes und der L\u00e4nder aufgefordert werden, entsprechende Regelungen zu vereinbaren. F\u00fcr die Forschung w\u00e4re es wichtig, auch bei bundesweiten Studien nur einen zust\u00e4ndigen Datenschutzbeauftragten zu haben. Die ein-ge\u00fcbte Praxis der Anonymisierung durch die FDZ sollte Einzelentscheidungen der Daten-schutzbeh\u00f6rden entbehrlich machen. Die Forschung sollte weiter den schnellen Zugang zu standardisierten pseudonymisierten Forschungsdaten durch die Forschungsdatenzentren nutzen k\u00f6nnen. Zurzeit wird ein gro\u00dfer Teil der Forschung mit Daten durchgef\u00fchrt, die in festgelegten Datenzuschnitten angeboten werden. Dieser Fortschritt sollte mit dem For-schungsdatengesetz konsolidiert werden, indem die f\u00fchrende Rolle der Forschungsdaten-zentren in der Praxis der Anonymisierung durch eine gesetzliche Regelung fundiert wird.\r\nMetadatenkatalog\r\nDas Eckpunktepapier sieht vor, dass au\u00dferuniversit\u00e4re Forschungsorganisationen auf die Erstellung eines Metadatenkatalogs verpflichtet werden sollen, w\u00e4hrend f\u00fcr andere Institu-tionen eine Kann-Regelung vorgesehen ist. Diese Regelung ist aus unserer Sicht nicht nach-vollziehbar und zudem unn\u00f6tig. Im Rahmen des Aufbaus der NFDI laufen bereits umfang-reiche Vorhaben zur Erschlie\u00dfung von Datenbest\u00e4nden mittels Metadatenkatalogen und die Entwicklung entsprechender (internationaler) Standards ist in vollem Gang. Im Gegen-teil k\u00f6nnte eine Muss-Regelung mit Blick auf die Intention des Gesetzgebers sogar kontra-produktiv sein. Metadaten sollten internationalen Standards folgen. Eine entsprechende, hochspezialisierte Expertise kann nicht in allen Einrichtungen vorgehalten werden. Metada-ten alleine sichern noch nicht die FAIRness (Findability, Accessibility, Interoperability und Reusability) der Daten.\r\nForschungsgeheimnis\r\nBitte erlauben Sie noch einen Hinweis zu einem weiteren wichtigen Anliegen, n\u00e4mlich die Schaffung der gesetzlichen Grundlagen f\u00fcr ein Forschungsgeheimnis. Wissenschaft lebt vom Vertrauen. Ein Forschungsgeheimnis, das durch die Aufnahme etwa der Ziffer \u201c8. For-schende an einer deutschen Hochschule\u201d in \u00a7 203 Abs. 1 Strafgesetzbuch gew\u00e4hrleistet werden k\u00f6nnte, w\u00fcrde das Vertrauen absichern, das Probanden in die Wissenschaft haben. Zudem wird angeregt, in die Strafprozessordnung Regelungen zum Beschlagnahmeschutz von wissenschaftlichen Unterlagen und ein Zeugnisverweigerungsrecht f\u00fcr Forschende auf-zunehmen. Dies w\u00fcrde den Beschluss des Bundesverfassungsgerichts vom 25. September 2023 - 1 BvR 221/20 - umsetzen und Rechtsklarheit im Umgang mit Unterlagen schaffen, die f\u00fcr wissenschaftliche Zwecke angelegt wurden. Gern unterst\u00fctzen wir die Vorbereitung des Forschungsdatengesetzes und stehen jederzeit f\u00fcr vertrauliche Gespr\u00e4che bereit. Wir w\u00fcrden uns sehr freuen, wenn das Forschungsdaten-gesetz einen wichtigen Fortschritt f\u00fcr die Forschung in Deutschland erm\u00f6glicht."
+                        }
+                    },
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/12/4a/295885/Stellungnahme-Gutachten-SG2406110036.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_ORGANS",
+                                        "de": "Organe",
+                                        "en": "Organs"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-10"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002731",
+                        "regulatoryProjectTitle": "Forschungsdatengesetz",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "RatSWD-Stellungnahme zu den\r\nBMBF-Eckpunkten zum\r\nForschungdatengesetz\r\nDas vom Bundesministerium f\u00fcr Bildung und Forschung (BMBF) ver\u00f6ffentlichte\r\nEckpunktepapier zum Forschungsdatengesetz1 ist eine gute Grundlage f\u00fcr die dringend\r\nnotwendige Verbesserung des Zugangs der Wissenschaft zu Daten der \u00f6ffentlichen Hand. Im\r\ninternationalen Vergleich ist der Datenzugang der Forschung in Deutschland sehr beschr\u00e4nkt\r\nund verhindert dringend ben\u00f6tigte Forschung. Das ist bekannt und die Bundesregierung greift\r\ndie Forderungen der Wissenschaft durch das geplante Forschungsdatengesetz auf. Jetzt sind\r\ndie Eckpunkte zu konkretisieren, um eine bessere Forschung im Interesse der Allgemeinheit zu\r\nerm\u00f6glichen.\r\nDas Forschungsdatengesetz sollte sich an den Bedarfen der unabh\u00e4ngigen Forschung an den\r\nUniversit\u00e4ten und au\u00dferuniversit\u00e4ren Forschungseinrichtungen orientieren. Privat-\r\nwirtschaftliche Forschung sollte ebenfalls von der Neuregelung des Datenzugangs profitieren,\r\nwenn sie ihre Ergebnisse publiziert und damit dem Allgemeinwohl dient.\r\nZugang zu Daten der \u00f6ffentlichen Hand (public sector)\r\nSehr zu begr\u00fc\u00dfen ist die Absicht, das Bundesstatistikgesetz (BStatG) zu novellieren, um\r\nVerbesserungen beim Zugang zu statistischen Einzeldaten f\u00fcr die Forschung zu erzielen. Die\r\nRolle der Forschungsdatenzentren des Statistischen Bundesamtes und der L\u00e4nder ist durch\r\nentsprechende Anpassungen im Forschungsdatengesetz zu st\u00e4rken.\r\nDatentreuh\u00e4nder\r\nIn den Eckpunkten des BMBF f\u00fcr das Forschungsdatengesetz wird die Einf\u00fchrung eines German\r\nMicro Data Center als Datentreuh\u00e4nder angek\u00fcndigt. Dies ist aus Sicht der Sozial- und\r\nWirtschaftswissenschaften zu begr\u00fc\u00dfen. Eine solche Einrichtung sollte eine technisch-\r\norganisatorische Infrastruktur f\u00fcr die datenschutzkonforme (virtuelle) Verkn\u00fcpfung von\r\nansonsten in getrennten Datensilos befindlichen Mikrodaten f\u00fcr Forschungszwecke bereitstellen.\r\nEine wesentliche Voraussetzung ist allerdings eine gesetzliche Regelung der Zul\u00e4ssigkeit von Verkn\u00fcpfungen zu Forschungszwecken (im Rahmen einer gesch\u00fctzten Umgebung bei einer\r\nunabh\u00e4ngigen Organisation).\r\nIn der neu aufzubauenden Infrastruktur bzw. bei dem Treuh\u00e4nder sollte\r\n\uf0a7 der datenschutzkonforme Zugang zu (pseudonymisierten) Mikrodaten der amtlichen\r\nStatistik und Register erm\u00f6glicht werden,\r\n\uf0a7 bereichs\u00fcbergreifende Datenverkn\u00fcpfungen der Statistik- und Registerdaten sowie\r\ndieser Daten mit wissenschaftsgenerierten Daten f\u00fcr die Analyse durch die\r\nunabh\u00e4ngige wissenschaftliche Forschung erfolgen k\u00f6nnen und\r\n\uf0a7 der Datenzugang der unabh\u00e4ngigen Forschung diskriminierungsfrei, d. h. ohne\r\nfinanzielle und organisatorische H\u00fcrden \u00fcber einen Remote Access m\u00f6glich sein.\r\nOhne einen Datentreuh\u00e4nder zur Verkn\u00fcpfung von Daten k\u00f6nnen die Potenziale von Daten in\r\nDeutschland nicht genutzt werden und wichtige gesellschaftliche Fragen bleiben\r\nunbeantwortet. Das ist ein Nachteil f\u00fcr eine evidenzbasierte Politik, die nicht gen\u00fcgend\r\nempirische Ergebnisse zu wichtigen Fragen erh\u00e4lt, und ein Wettbewerbsnachteil f\u00fcr die\r\ndeutsche Forschung, also ein doppelter Standortnachteil f\u00fcr Deutschland.\r\nL\u00f6schfristen\r\nIn vielen Statistikgesetzen wie beispielsweise zur Hochschulstatistik sind L\u00f6schfristen\r\nvorgesehen (z. B. nur vier Jahre f\u00fcr Daten zu Promovierenden an Hochschulen), die eine\r\nlangfristige Speicherung von Daten im statistischen System verhindern. Um keine wichtigen\r\nForschungsdaten zu verlieren, sollte das Forschungsdatengesetz ein Konzept zur langfristigen\r\nSpeicherung von pseudonymisierten Forschungsdaten bzw. Mikrodaten in einem Archiv f\u00fcr die\r\nForschung umfassen.\r\nForschungsfreundlicher Datenschutz\r\nDer RatSWD begr\u00fc\u00dft, dass das Forschungsdatengesetz neue Regelungen f\u00fcr einen\r\nforschungsfreundlichen Datenschutz mit einer einheitlicheren Datenschutzaufsicht treffen soll.\r\nAuch hier gilt es, die Ideen zu konkretisieren und zu sch\u00e4rfen: Die Wissenschaft braucht\r\nbundeseinheitliche und rechtsform\u00fcbergreifende Datenschutzregeln und eine einheitliche\r\nAuslegung der Regeln. Daher sollten die Datenschutzaufsichtsbeh\u00f6rden einbezogen werden,\r\num gesetzliche L\u00f6sungen f\u00fcr einen forschungsfreundlichen Datenschutz abzustimmen.\r\nMetadatenkataloge\r\nDas Eckpunktepapier sieht vor, dass au\u00dferuniversit\u00e4re Forschungsorganisationen auf die\r\nErstellung eines Metadatenkatalogs verpflichtet werden sollen, w\u00e4hrend f\u00fcr andere\r\nInstitutionen eine Kann-Regelung vorgesehen ist. Aus Sicht der Sozial- und\r\nWirtschaftswissenschaften ist eine solche Regelung erstens nicht notwendig und w\u00e4re zweitens\r\nauch nur bedingt effektiv, wenn sie nicht ganzheitlich (also alle Daten in der Gesellschaft umfassend) Anwendung findet. Im Rahmen des Aufbaus der Nationalen Forschungs-\r\ndateninfrastruktur (NFDI) laufen bereits umfangreiche Vorhaben in der Wissenschaft zur\r\nErschlie\u00dfung von Datenbest\u00e4nden mittels Metadatenkatalogen und an der Entwicklung\r\nentsprechender (internationaler) Standards wird intensiv gearbeitet.\r\nDie Eckpunkte zum Forschungsdatengesetz greifen wichtige Anliegen der Forschung auf. Das\r\nnun auszuformulierende Forschungsdatengesetz muss den Datenzugang der Forschung in\r\nDeutschland substantiell verbessern."
+                        }
+                    }
+                ],
+                "title": "Forschungsdatengesetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BStatG",
+                        "title": "Gesetz \u00fcber die Statistik f\u00fcr Bundeszwecke",
+                        "url": "https://www.gesetze-im-internet.de/bstatg_1987"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Insb. Verankerung eines Forschungsauftrags f\u00fcr das Statistische Bundesamt, M\u00f6glichkeit einer Verkn\u00fcpfung von Register- und Forschungsdaten und Erm\u00f6glichung eines Remote Access im BStatG",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_STATE_ADMIN",
+                        "de": "Staat und Verwaltung",
+                        "en": "Government and administration"
+                    },
+                    {
+                        "code": "FOI_SA_PUBLIC_SERVICE",
+                        "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                        "en": "Public service"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002732",
+                "statements": [],
+                "title": "Novelle Bundesstatistikgesetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "StPO",
+                        "title": "Strafproze\u00dfordnung",
+                        "url": "https://www.gesetze-im-internet.de/stpo"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Einf\u00fchrung eines Beschlagnahmeverbots von Forschungsunterlagen in \u00a7 97 StPO",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_CRIMINAL",
+                        "de": "Strafrecht",
+                        "en": "Criminal law"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002733",
+                "statements": [],
+                "title": "Einf\u00fchrung eines Beschlagnahmeverbots von Forschungsunterlagen in \u00a797 StPO"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "StGB",
+                        "title": "Strafgesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/stgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Erg\u00e4nzung des \u00a7 203 StGB zur Absicherung des Forschungsgeheimnis; z. B. durch Auf-nahme der Ziffer \u201c8. Forschende an einer deutschen Hochschule\u201d in \u00a7 203 Abs. 1 Strafgesetz-buch",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_CRIMINAL",
+                        "de": "Strafrecht",
+                        "en": "Criminal law"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002734",
+                "statements": [],
+                "title": "Erg\u00e4nzung des \u00a7 203 StGB zur Absicherung des Forschungsgeheimnis"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "VwDVG",
+                        "title": "Gesetz \u00fcber die Verwendung von Verwaltungsdaten f\u00fcr Zwecke der Wirtschaftsstatistiken",
+                        "url": "https://www.gesetze-im-internet.de/vwdvg_2010"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "\u00dcberarbeitung des VwDVG dass alle datenproduzierende \u00f6ffentlichen Einrichtungen (z.B. Bundesagentur f\u00fcr Ar-beit, Bundesbank, Deutsche Rentenversicherung, Stat. \u00c4mter des Bundes und der L\u00e4n-der) f\u00fcr ihre Daten f\u00fcr wissenschaftliche Forschungszwecke untereinander tauschen k\u00f6nnen ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002735",
+                "statements": [],
+                "title": "Verwaltungsdatenverwendungsgesetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "StatRegG",
+                        "title": "Gesetz \u00fcber den Aufbau und die F\u00fchrung eines Statistikregisters",
+                        "url": "https://www.gesetze-im-internet.de/statregg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Erweiterung der Formulierung in \u00a710(2) a. um Zwecke der unabh\u00e4ngigen wissenschaftlichen Forschung, Erweiterung der \u00f6ffentlichen Einrichtungen (z.B. Bundesagentur f\u00fcr Arbeit, Deutsche Rentenversicherung), Erweiterung des Merkmalspektrums.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002736",
+                "statements": [],
+                "title": "Statistikregistergesetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "StStatG",
+                        "title": "Gesetz \u00fcber Steuerstatistiken",
+                        "url": "https://www.gesetze-im-internet.de/ststatg_1995"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "\u00a7 7a Steuerstatistikgesetz - Zusammenf\u00fchrung von Einzelangaben so \u00e4ndern, dass Steuerdaten auf Personen-, Haushalts- oder Unternehmensebene mit Daten von anderen \u00f6ffentlichen Datenproduzenten (Stat. \u00c4mter, Bundesagentur f\u00fcr Arbeit, Deutsche Bundesbank, Deutsche Rentenversicherung) f\u00fcr wissenschaftliche Zwecke zusammengespielt werden k\u00f6nnen (record linkage)",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002737",
+                "statements": [],
+                "title": "Gesetz \u00fcber Steuerstatistiken"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/f3/26/295883/Stellungnahme-Gutachten-SG2406110034.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMBF",
+                                "de": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                                "en": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-08"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002731",
+                "regulatoryProjectTitle": "Forschungsdatengesetz",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Kommentierung der Eckpunkte zum Forschungsdatengesetz\r\nSehr geehrter Herr Dr. Philippi,\r\nf\u00fcr die Vorbereitung des Forschungsdatengesetzes und das k\u00fcrzlich ver\u00f6ffentlichte Eck-punktepapier sowie f\u00fcr das Gespr\u00e4ch mit Ihnen und Ihren Mitarbeiterinnen im Februar m\u00f6chte sich der Rat f\u00fcr Sozial- und Wirtschaftsdaten (RatSWD) herzlich bedanken. Das Eck-punktepapier beinhaltet gute Ansatzpunkte f\u00fcr wichtige Neuerungen zur Verbesserung des Datenzugangs f\u00fcr die Wissenschaft. In unserem heutigen Schreiben m\u00f6chten wir aus unse-rer Sicht kritische Punkte und offene Fragen, auch als Gespr\u00e4chsgrundlage f\u00fcr einen weite-ren Austausch, ansprechen. Wir werden dar\u00fcber hinaus in den n\u00e4chsten Tagen eine Stel-lungnahme mit einigen Kernpunkten ver\u00f6ffentlichen. Den Entwurf legen wir diesem Schrei-ben bei.\r\nZielgruppe des Forschungsdatengesetzes\r\nDas Forschungsdatengesetz sollte Verbesserungen f\u00fcr die unabh\u00e4ngige Forschung bieten, die an den Universit\u00e4ten, au\u00dferuniversit\u00e4ren Forschungseinrichtungen und in privatwirt-schaftlichen Organisationen stattfindet. Die Festlegung der Zielgruppe des Forschungsda-tengesetzes auf die unabh\u00e4ngige Forschung ist aus unserer Sicht wichtig, um Klarheit be-z\u00fcglich der Zugangsberechtigungen zu schaffen. Der privilegierte Zugang der Forschung zu sensiblen Daten leitet sich aus der Forschungsklausel in der Datenschutzgrundverord-nung (DSGVO) ab und es ist aus unserer Sicht wichtig, einem m\u00f6glichen Misstrauen gegen-\u00fcber nicht legitimer Verwendung der Daten (\u201eDatenabfl\u00fcssen\u201c) im Vorfeld vorzubeugen. Derzeit ist die Definition der \u201cunabh\u00e4ngigen Forschung\u201d als Voraussetzung zum Datenzu-gang unklar. In anderen Staaten wird bspw. die Verpflichtung zur Ver\u00f6ffentlichung der For-schungsergebnisse als Zugangsvoraussetzung definiert, um (wenigstens) eine unabh\u00e4ngige Nutzung der Ergebnisse zu erm\u00f6glichen. Entsprechend sollte auch in Deutschland die Ver-pflichtung zur Ver\u00f6ffentlichung der Forschungsergebnisse ein Mindestkriterium f\u00fcr die Zugangsberechtigung sein. Aktuell wird im Rahmen des Basisdienst-Konsortiums \u201eBase4NFDI\u201c der Nationalen Forschungsdateninfrastruktur (NFDI) ein System zur Akkredi-tierung von Forschenden aufgebaut, das perspektivisch f\u00fcr die Definition der Gruppe der Zugangsberechtigten genutzt werden k\u00f6nnte.\r\nDaten der \u00f6ffentlichen Hand\r\nIm Eckpunktepapier wird vom Zugang zu Daten der \u00f6ffentlichen Hand des Bundes gespro-chen. Sehr zu begr\u00fc\u00dfen ist die Absicht, das Bundesstatistikgesetz (BStatG) zu novellieren, um Verbesserungen beim Zugang zu statistischen Einzeldaten f\u00fcr die Forschung zu erzie-len. Bereits jetzt werden in den Forschungsdatenzentren (FDZ) des Statistischen Bundes-amtes und der L\u00e4nder Statistikdaten f\u00fcr die Forschung aufbereitet und verf\u00fcgbar gemacht. Es w\u00e4re w\u00fcnschenswert, die Rolle der FDZ der Statistik durch entsprechende Anpassungen im Forschungsdatengesetz zu st\u00e4rken. Bei der Definition von \u201eDaten der \u00f6ffentlichen Hand\u201c ist unseres Erachtens unklar, ob sich die geplanten Regelungen nur auf Daten in der unmit-telbaren und auch der mittelbaren Bundesverwaltung beziehen sollen oder ob dar\u00fcber hin-aus auch Daten anderer \u00f6ffentlicher K\u00f6rperschaften, also Daten auf den Ebenen von L\u00e4n-dern oder sogar von Gemeinden umfasst sein sollen, was f\u00fcr die Forschung sehr wichtig w\u00e4re. F\u00fcr viele Statistik- und Registerdaten, wie z.B. Sozialversicherungsdaten, w\u00e4re eine Trennung nach Bundes- und L\u00e4nderdaten nicht zielf\u00fchrend. Statistikdaten der \u00c4mter wer-den in der Regel im statistischen Verbund im Rahmen der f\u00f6deralen Strukturen erhoben und zum Teil auf L\u00e4nderebene gehalten. Insbesondere f\u00fcr die Bildungsforschung ist zu be-f\u00fcrchten, dass ohne Einbezug der L\u00e4nderebene die in der Kulturhoheit der L\u00e4nder liegen-den Daten nicht f\u00fcr die Forschung verf\u00fcgbar gemacht werden.\r\nL\u00f6schfristen\r\nIn vielen Statistikgesetzen wie beispielsweise zur Hochschulstatistik sind L\u00f6schfristen vor-gesehen (z.B. nur vier Jahre f\u00fcr Daten zu Promovierenden an Hochschulen), die eine lang-fristige Speicherung von Daten im statistischen System verhindern. Um keine wichtigen Forschungsdaten zu verlieren, sollte das Forschungsdatengesetz ein Konzept zur langfristi-gen Speicherung von pseudonymisierten Forschungsdaten bzw. Mikrodaten in einem Ar-chiv f\u00fcr die Forschung umfassen.\r\nDatentreuh\u00e4nder\r\nIn den Eckpunkten des BMBF f\u00fcr das Forschungsdatengesetz wird die Einf\u00fchrung eines \u201eGerman Micro Data Centers\u201c als Datentreuh\u00e4nder angek\u00fcndigt, der aus Sicht der Sozial- und Wirtschaftswissenschaften sehr zu begr\u00fc\u00dfen ist. Die wesentliche Kompetenz einer sol-chen Einrichtung liegt in der Bereitstellung einer technisch-organisatorischen Infrastruktur f\u00fcr die (virtuelle) Verkn\u00fcpfung von ansonsten in getrennten Datensilos befindlichen Daten f\u00fcr Forschungszwecke der unabh\u00e4ngigen Wissenschaft. Eine wesentliche Voraussetzung hierf\u00fcr ist allerdings eine entsprechende gesetzliche Regelung der Zul\u00e4ssigkeit von Ver-kn\u00fcpfungen zu Forschungszwecken, die in dem Eckpunktepapier bislang nicht erw\u00e4hnt wird. In der neu aufzubauenden Dateninfrastruktur sollten\r\n\u2022 der datenschutzkonforme Zugang zu pseudonymisierten Mikrodaten der amtli-chen Statistik und Register erm\u00f6glicht werden,\r\n\u2022 bereichs\u00fcbergreifende Datenverkn\u00fcpfungen der Statistik- und Registerdaten so-wie dieser Daten mit wissenschaftsgenerierten Daten f\u00fcr die Analyse durch die unabh\u00e4ngige wissenschaftliche Forschung erfolgen k\u00f6nnen und\r\n\u2022 der Datenzugang der unabh\u00e4ngigen Forschung diskriminierungsfrei, d. h. ohne finanzielle und organisatorische H\u00fcrden \u00fcber einen Remote Access m\u00f6glich sein.\r\nDer Aufbau einer solchen Infrastruktur ist nicht nur an die Schaffung der rechtlichen Vo-raussetzungen gebunden, sondern umfasst auch technisch-organisatorische Grundlagen (auch hier kann man sich an Beispielen aus dem Ausland orientieren), z.B.:\r\n\u2022 Die Plattform muss von einer unabh\u00e4ngigen Organisation betrieben werden, die unbefugte Zugriffe, auch von politischer oder administrativer Seite ausschlie\u00dft.\r\n\u2022 Ben\u00f6tigt wird zudem ein System von Identifikatoren (d.h. Kennungen f\u00fcr die Per-son, deren Daten vorgehalten werden). Ein einfaches und in allen Registern und Datenquellen verf\u00fcgbares System (wie z.B. Steuernummer, Sozialversicherungs-nummer) existiert (noch) nicht und ist aus verfassungs- und datenschutzrechtlicher Sicht umstritten. Zu pr\u00fcfen sind daher Systeme von bereichsspezifischen Identifi-katoren oder technische Verschl\u00fcsselungen, die eine eineindeutige Zuordnung im Fall der Verkn\u00fcpfung erm\u00f6glichen, aber nicht r\u00fcckverfolgbar sind (wie zum Beispiel bei PIN und Kreditkarte).\r\n\u2022 Ben\u00f6tigt wird eine technische Plattform f\u00fcr die projektweise Verkn\u00fcpfung und Ana-lyse der Daten mit entsprechenden (technisch kontrollierten) Ausgabeformaten f\u00fcr die wissenschaftliche Weiterverwendung.\r\n\u2022 Die bestehende Forschungsdateninfrastruktur der Forschungsdatenzentren (FDZ) sollte \u00fcber geeignete Verfahren an den zentralen Datentreuh\u00e4nder zum Datenaus-tausch angebunden werden.\r\n\u2022 Ben\u00f6tigt wird zudem ein Rechtemanagement mit einer Akkreditierung zugriffsbe-rechtigter Personen (vgl. Definition der Zugangsberechtigten oben) und eine ent-sprechende Abwicklung von Antr\u00e4gen auf Datennutzung.\r\nDatenschutz\r\nDer RatSWD begr\u00fc\u00dft, dass das Forschungsdatengesetz neue Regelungen f\u00fcr einen for-schungsfreundlichen Datenschutz mit einer m\u00f6glichst einheitlichen Datenschutzaufsicht treffen soll. Insbesondere die Bildungsforschung, die bundesweite Studien durchf\u00fchrt, lei-det unter dem enormen Aufwand, um Genehmigungen einzuholen und den jeweils spezi-fischen Regelungen aller Bundesl\u00e4nder nachzukommen. Das Forschungsdatengesetz sollte das aus Art. 5 Abs. 3 GG abgeleitete datenschutzrechtliche Wissenschaftsprivileg heranziehen und die Spielr\u00e4ume der DSGVO wie in anderen europ\u00e4ischen L\u00e4ndern flexibler nutzen. Schon eine bundeseinheitliche Auslegung der DSGVO w\u00fcrde deutliche Verbesse-rungen bringen.\r\nF\u00fcr die F\u00e4lle, in denen Datenschutz in die Zust\u00e4ndigkeit der L\u00e4nder f\u00e4llt, sollte die Konferenz der unabh\u00e4ngigen Datenschutzbeh\u00f6rden des Bundes und der L\u00e4nder aufgefordert werden, entsprechende Regelungen zu vereinbaren. F\u00fcr die Forschung w\u00e4re es wichtig, auch bei bundesweiten Studien nur einen zust\u00e4ndigen Datenschutzbeauftragten zu haben. Die ein-ge\u00fcbte Praxis der Anonymisierung durch die FDZ sollte Einzelentscheidungen der Daten-schutzbeh\u00f6rden entbehrlich machen. Die Forschung sollte weiter den schnellen Zugang zu standardisierten pseudonymisierten Forschungsdaten durch die Forschungsdatenzentren nutzen k\u00f6nnen. Zurzeit wird ein gro\u00dfer Teil der Forschung mit Daten durchgef\u00fchrt, die in festgelegten Datenzuschnitten angeboten werden. Dieser Fortschritt sollte mit dem For-schungsdatengesetz konsolidiert werden, indem die f\u00fchrende Rolle der Forschungsdaten-zentren in der Praxis der Anonymisierung durch eine gesetzliche Regelung fundiert wird.\r\nMetadatenkatalog\r\nDas Eckpunktepapier sieht vor, dass au\u00dferuniversit\u00e4re Forschungsorganisationen auf die Erstellung eines Metadatenkatalogs verpflichtet werden sollen, w\u00e4hrend f\u00fcr andere Institu-tionen eine Kann-Regelung vorgesehen ist. Diese Regelung ist aus unserer Sicht nicht nach-vollziehbar und zudem unn\u00f6tig. Im Rahmen des Aufbaus der NFDI laufen bereits umfang-reiche Vorhaben zur Erschlie\u00dfung von Datenbest\u00e4nden mittels Metadatenkatalogen und die Entwicklung entsprechender (internationaler) Standards ist in vollem Gang. Im Gegen-teil k\u00f6nnte eine Muss-Regelung mit Blick auf die Intention des Gesetzgebers sogar kontra-produktiv sein. Metadaten sollten internationalen Standards folgen. Eine entsprechende, hochspezialisierte Expertise kann nicht in allen Einrichtungen vorgehalten werden. Metada-ten alleine sichern noch nicht die FAIRness (Findability, Accessibility, Interoperability und Reusability) der Daten.\r\nForschungsgeheimnis\r\nBitte erlauben Sie noch einen Hinweis zu einem weiteren wichtigen Anliegen, n\u00e4mlich die Schaffung der gesetzlichen Grundlagen f\u00fcr ein Forschungsgeheimnis. Wissenschaft lebt vom Vertrauen. Ein Forschungsgeheimnis, das durch die Aufnahme etwa der Ziffer \u201c8. For-schende an einer deutschen Hochschule\u201d in \u00a7 203 Abs. 1 Strafgesetzbuch gew\u00e4hrleistet werden k\u00f6nnte, w\u00fcrde das Vertrauen absichern, das Probanden in die Wissenschaft haben. Zudem wird angeregt, in die Strafprozessordnung Regelungen zum Beschlagnahmeschutz von wissenschaftlichen Unterlagen und ein Zeugnisverweigerungsrecht f\u00fcr Forschende auf-zunehmen. Dies w\u00fcrde den Beschluss des Bundesverfassungsgerichts vom 25. September 2023 - 1 BvR 221/20 - umsetzen und Rechtsklarheit im Umgang mit Unterlagen schaffen, die f\u00fcr wissenschaftliche Zwecke angelegt wurden. Gern unterst\u00fctzen wir die Vorbereitung des Forschungsdatengesetzes und stehen jederzeit f\u00fcr vertrauliche Gespr\u00e4che bereit. Wir w\u00fcrden uns sehr freuen, wenn das Forschungsdaten-gesetz einen wichtigen Fortschritt f\u00fcr die Forschung in Deutschland erm\u00f6glicht."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/12/4a/295885/Stellungnahme-Gutachten-SG2406110036.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_ORGANS",
+                                "de": "Organe",
+                                "en": "Organs"
+                            }
+                        ],
+                        "sendingDate": "2024-04-10"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002731",
+                "regulatoryProjectTitle": "Forschungsdatengesetz",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "RatSWD-Stellungnahme zu den\r\nBMBF-Eckpunkten zum\r\nForschungdatengesetz\r\nDas vom Bundesministerium f\u00fcr Bildung und Forschung (BMBF) ver\u00f6ffentlichte\r\nEckpunktepapier zum Forschungsdatengesetz1 ist eine gute Grundlage f\u00fcr die dringend\r\nnotwendige Verbesserung des Zugangs der Wissenschaft zu Daten der \u00f6ffentlichen Hand. Im\r\ninternationalen Vergleich ist der Datenzugang der Forschung in Deutschland sehr beschr\u00e4nkt\r\nund verhindert dringend ben\u00f6tigte Forschung. Das ist bekannt und die Bundesregierung greift\r\ndie Forderungen der Wissenschaft durch das geplante Forschungsdatengesetz auf. Jetzt sind\r\ndie Eckpunkte zu konkretisieren, um eine bessere Forschung im Interesse der Allgemeinheit zu\r\nerm\u00f6glichen.\r\nDas Forschungsdatengesetz sollte sich an den Bedarfen der unabh\u00e4ngigen Forschung an den\r\nUniversit\u00e4ten und au\u00dferuniversit\u00e4ren Forschungseinrichtungen orientieren. Privat-\r\nwirtschaftliche Forschung sollte ebenfalls von der Neuregelung des Datenzugangs profitieren,\r\nwenn sie ihre Ergebnisse publiziert und damit dem Allgemeinwohl dient.\r\nZugang zu Daten der \u00f6ffentlichen Hand (public sector)\r\nSehr zu begr\u00fc\u00dfen ist die Absicht, das Bundesstatistikgesetz (BStatG) zu novellieren, um\r\nVerbesserungen beim Zugang zu statistischen Einzeldaten f\u00fcr die Forschung zu erzielen. Die\r\nRolle der Forschungsdatenzentren des Statistischen Bundesamtes und der L\u00e4nder ist durch\r\nentsprechende Anpassungen im Forschungsdatengesetz zu st\u00e4rken.\r\nDatentreuh\u00e4nder\r\nIn den Eckpunkten des BMBF f\u00fcr das Forschungsdatengesetz wird die Einf\u00fchrung eines German\r\nMicro Data Center als Datentreuh\u00e4nder angek\u00fcndigt. Dies ist aus Sicht der Sozial- und\r\nWirtschaftswissenschaften zu begr\u00fc\u00dfen. Eine solche Einrichtung sollte eine technisch-\r\norganisatorische Infrastruktur f\u00fcr die datenschutzkonforme (virtuelle) Verkn\u00fcpfung von\r\nansonsten in getrennten Datensilos befindlichen Mikrodaten f\u00fcr Forschungszwecke bereitstellen.\r\nEine wesentliche Voraussetzung ist allerdings eine gesetzliche Regelung der Zul\u00e4ssigkeit von Verkn\u00fcpfungen zu Forschungszwecken (im Rahmen einer gesch\u00fctzten Umgebung bei einer\r\nunabh\u00e4ngigen Organisation).\r\nIn der neu aufzubauenden Infrastruktur bzw. bei dem Treuh\u00e4nder sollte\r\n\uf0a7 der datenschutzkonforme Zugang zu (pseudonymisierten) Mikrodaten der amtlichen\r\nStatistik und Register erm\u00f6glicht werden,\r\n\uf0a7 bereichs\u00fcbergreifende Datenverkn\u00fcpfungen der Statistik- und Registerdaten sowie\r\ndieser Daten mit wissenschaftsgenerierten Daten f\u00fcr die Analyse durch die\r\nunabh\u00e4ngige wissenschaftliche Forschung erfolgen k\u00f6nnen und\r\n\uf0a7 der Datenzugang der unabh\u00e4ngigen Forschung diskriminierungsfrei, d. h. ohne\r\nfinanzielle und organisatorische H\u00fcrden \u00fcber einen Remote Access m\u00f6glich sein.\r\nOhne einen Datentreuh\u00e4nder zur Verkn\u00fcpfung von Daten k\u00f6nnen die Potenziale von Daten in\r\nDeutschland nicht genutzt werden und wichtige gesellschaftliche Fragen bleiben\r\nunbeantwortet. Das ist ein Nachteil f\u00fcr eine evidenzbasierte Politik, die nicht gen\u00fcgend\r\nempirische Ergebnisse zu wichtigen Fragen erh\u00e4lt, und ein Wettbewerbsnachteil f\u00fcr die\r\ndeutsche Forschung, also ein doppelter Standortnachteil f\u00fcr Deutschland.\r\nL\u00f6schfristen\r\nIn vielen Statistikgesetzen wie beispielsweise zur Hochschulstatistik sind L\u00f6schfristen\r\nvorgesehen (z. B. nur vier Jahre f\u00fcr Daten zu Promovierenden an Hochschulen), die eine\r\nlangfristige Speicherung von Daten im statistischen System verhindern. Um keine wichtigen\r\nForschungsdaten zu verlieren, sollte das Forschungsdatengesetz ein Konzept zur langfristigen\r\nSpeicherung von pseudonymisierten Forschungsdaten bzw. Mikrodaten in einem Archiv f\u00fcr die\r\nForschung umfassen.\r\nForschungsfreundlicher Datenschutz\r\nDer RatSWD begr\u00fc\u00dft, dass das Forschungsdatengesetz neue Regelungen f\u00fcr einen\r\nforschungsfreundlichen Datenschutz mit einer einheitlicheren Datenschutzaufsicht treffen soll.\r\nAuch hier gilt es, die Ideen zu konkretisieren und zu sch\u00e4rfen: Die Wissenschaft braucht\r\nbundeseinheitliche und rechtsform\u00fcbergreifende Datenschutzregeln und eine einheitliche\r\nAuslegung der Regeln. Daher sollten die Datenschutzaufsichtsbeh\u00f6rden einbezogen werden,\r\num gesetzliche L\u00f6sungen f\u00fcr einen forschungsfreundlichen Datenschutz abzustimmen.\r\nMetadatenkataloge\r\nDas Eckpunktepapier sieht vor, dass au\u00dferuniversit\u00e4re Forschungsorganisationen auf die\r\nErstellung eines Metadatenkatalogs verpflichtet werden sollen, w\u00e4hrend f\u00fcr andere\r\nInstitutionen eine Kann-Regelung vorgesehen ist. Aus Sicht der Sozial- und\r\nWirtschaftswissenschaften ist eine solche Regelung erstens nicht notwendig und w\u00e4re zweitens\r\nauch nur bedingt effektiv, wenn sie nicht ganzheitlich (also alle Daten in der Gesellschaft umfassend) Anwendung findet. Im Rahmen des Aufbaus der Nationalen Forschungs-\r\ndateninfrastruktur (NFDI) laufen bereits umfangreiche Vorhaben in der Wissenschaft zur\r\nErschlie\u00dfung von Datenbest\u00e4nden mittels Metadatenkatalogen und an der Entwicklung\r\nentsprechender (internationaler) Standards wird intensiv gearbeitet.\r\nDie Eckpunkte zum Forschungsdatengesetz greifen wichtige Anliegen der Forschung auf. Das\r\nnun auszuformulierende Forschungsdatengesetz muss den Datenzugang der Forschung in\r\nDeutschland substantiell verbessern."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

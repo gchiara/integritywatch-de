@@ -1,0 +1,820 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-09-18T20:22:55.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-07T09:04:03.000+01:00",
+        "lastUpdateDate": "2024-07-08T21:05:54.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 41179,
+                "validFromDate": "2024-07-08T21:05:54.000+02:00",
+                "version": 11,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 38926,
+                "validFromDate": "2024-06-28T12:53:45.000+02:00",
+                "validUntilDate": "2024-07-08T21:05:54.000+02:00",
+                "version": 10,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 18770,
+                "validFromDate": "2023-04-03T10:04:50.000+02:00",
+                "validUntilDate": "2024-06-28T12:53:45.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17380,
+                "validFromDate": "2023-03-15T11:48:48.000+01:00",
+                "validUntilDate": "2023-04-03T10:04:50.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 11554,
+                "validFromDate": "2022-09-18T20:22:55.000+02:00",
+                "validUntilDate": "2023-03-15T11:48:48.000+01:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION_V2",
+            "de": "Sonstiges Unternehmen",
+            "en": "Other company"
+        },
+        "activityDescription": "Zalando ist eine f\u00fchrende Online Plattform f\u00fcr Mode und Lifestyle in Europa. Im Jahr 2008 in Berlin gegr\u00fcndet, bietet Zalando heute mehr als 49 Millionen aktiven KundInnen in 25 L\u00e4ndern Produkte aus den Bereichen Bekleidung, Schuhe, Accessoires und Kosmetik. Als Europas modischstes Tech Unternehmen suchen wir laufend nach neuen digitalen L\u00f6sungen f\u00fcr jeden Teil des Einkaufserlebnisses, f\u00fcr unsere KundInnen, PartnerInnen und alle anderen Akteure, die Zalando mit uns gestalten wollen. Unsere Vision ist, der Starting Point for Fashion, die erste Anlaufstelle f\u00fcr Mode, und eine nachhaltige Plattform mit einer nettopositiven Auswirkung auf Mensch und Erde zu sein. Diese Vision zu erkl\u00e4ren und zu unterst\u00fctzen ist Ziel unserer Interessenvertetung.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_MEDIA_COPYRIGHT",
+                "de": "Urheberrecht",
+                "en": "Copyright"
+            },
+            {
+                "code": "FOI_ECONOMY_FINANCE",
+                "de": "Bank- und Finanzwesen",
+                "en": "Banking and finance"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ECONOMY_ECOMMERCE",
+                "de": "E-Commerce",
+                "en": "E-commerce"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/c7/71/332228/Annual-Report_Zalando-SE_EN_241203_s-1.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.53,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 220001,
+            "to": 230000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Zalando SE",
+            "street": "Valeska-Gert-Str. ",
+            "streetNumber": "5",
+            "type": "NATIONAL",
+            "zipCode": "10243"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "publicaffairs_dach@zalando.de"
+                }
+            ],
+            "phoneNumber": "+493027594693",
+            "websites": [
+                {
+                    "website": "https://corporate.zalando.com/de/impressum"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Darija ",
+                "lastName": "Br\u00e4uniger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Daniel ",
+                "lastName": "Enke",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr. ",
+                "firstName": "Astrid",
+                "lastName": "Arndt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "David",
+                "lastName": "Schneider",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Gentz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "David",
+                "lastName": "Schr\u00f6der",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Daniel ",
+                "lastName": "Steffens ",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Ninja",
+                "lastName": "Reggelin",
+                "recentGovernmentFunction": {
+                    "endDate": "2022-08",
+                    "ended": true,
+                    "federalAdministration": {
+                        "function": "Referentin",
+                        "supremeFederalAuthority": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK) oder dessen Gesch\u00e4ftsbereich",
+                        "supremeFederalAuthorityShort": "BMWK"
+                    },
+                    "type": {
+                        "code": "FEDERAL_ADMINISTRATION",
+                        "de": "Bundesverwaltung",
+                        "en": "Federal administration"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "firstName": "Simon",
+                "lastName": "Thiel",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_SE",
+            "de": "Europ\u00e4ische Aktiengesellschaft (SE)",
+            "en": "European stock company (SE)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Dr. ",
+                "entrustedPerson": true,
+                "firstName": "Astrid",
+                "function": "Vorstand",
+                "lastName": "Arndt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "David",
+                "function": "Vorstand, Co-Vorstandsvorsitzender",
+                "lastName": "Schneider",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Robert",
+                "function": "Vorstand, Co-Vorstandsvorsitzender",
+                "lastName": "Gentz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "David",
+                "function": "Vorstand",
+                "lastName": "Schr\u00f6der",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr. ",
+                "entrustedPerson": false,
+                "firstName": "Sandra ",
+                "function": "Vorstand",
+                "lastName": "Dembeck",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Bitkom"
+            },
+            {
+                "membership": "bevh"
+            },
+            {
+                "membership": "Bundesverband Deutscher Startups"
+            },
+            {
+                "membership": "EUTA"
+            },
+            {
+                "membership": "eCommerce Europe "
+            },
+            {
+                "membership": "Policy Hub"
+            },
+            {
+                "membership": "Wirtschaftskoalition f\u00fcr Daten & Digitales"
+            },
+            {
+                "membership": "GermanFashion Modeverband Deutschland e.V."
+            },
+            {
+                "membership": "BVZI, Bundesverband der Zahlungs- und E-Geld-Institute"
+            },
+            {
+                "membership": "PVD, Prepaid Verband Deutschland"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Zalando "
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R003005/41179",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-28T12:53:45.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/ae/6a/332229/Lobbyregister-Detailansicht-R003005-2024-07-08_21-05-54.pdf",
+        "validFromDate": "2024-07-08T21:05:54.000+02:00",
+        "version": 11
+    },
+    "registerEntryId": 41179,
+    "registerNumber": "R003005",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BDSG",
+                        "title": "Bundesdatenschutzgesetz",
+                        "url": "https://www.gesetze-im-internet.de/bdsg_2018"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Zalando setzt sich f\u00fcr eine Anpassung des Anwendungsbereichs des neuen \u00a737a. Um weiter eine effektive Betrugsp\u00e4vention im Onlinehandel zu erm\u00f6glichen, muss Anti-Betrug-Scoring aus dem neuen \u00a737a ausgenommen werden. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/108/2010859.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMI",
+                                "title": "Bundesministerium des Innern und f\u00fcr Heimat",
+                                "url": "https://www.bmi.bund.de/DE/startseite/startseite-node.html"
+                            }
+                        ],
+                        "printingNumber": "20/10859",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/erstes-gesetz-zur-%C3%A4nderung-des-bundesdatenschutzgesetzes/308702",
+                        "title": "Entwurf eines Ersten Gesetzes zur \u00c4nderung des Bundesdatenschutzgesetzes"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0009224",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/87/68/323796/Stellungnahme-Gutachten-SG2406270030.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-13"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009224",
+                        "regulatoryProjectTitle": "Effektive Betrugsp\u00e4vention im Onlinehandel erm\u00f6glichen",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Betrug im Onlinehandel nicht T\u00fcr und Tor \u00f6ffnen\r\nPositionspapier zum Kabinettsbeschluss zum 1. BDSG\u00c4ndG\r\n13. M\u00e4rz 2024\r\nDer Entwurf zur \u00c4nderung des BDSG beinhaltet neben neuen Regelungen zur Datenschutzkonferenz (DSK) unter anderem auch \u00c4nderungen, die vermutlich darauf abzielen, Zahlungsf\u00e4higkeitsdiskriminierung abzustellen. Leider ist dabei jedoch der Anwendungsbereich so weit gefasst, dass durch die vorgeschlagenen Regelungen die Betrugspr\u00e4vention stark eingeschr\u00e4nkt werden w\u00fcrde.\r\nBetrugspr\u00e4vention ist im Onlinehandel von gro\u00dfer Bedeutung\r\nDurch eine wirksame Betrugspr\u00e4vention werden Verbraucher*innen vor Identit\u00e4tsdiebstahl, betr\u00fcgerischen Transaktionen und finanziellen Verlusten gesch\u00fctzt. Dies tr\u00e4gt dazu bei, das Vertrauen der Verbraucher*innen in den Onlinehandel aufrechtzuerhalten und ihre Sicherheit beim Einkaufen im Internet zu gew\u00e4hrleisten.\r\nBetrug im Onlinehandel kann erhebliche wirtschaftliche Sch\u00e4den f\u00fcr Unternehmen verursachen, sei es durch finanzielle Verluste, R\u00fcckbuchungen von Zahlungen oder die Beeintr\u00e4chtigung des Markenrufs. Eine wirksame Betrugspr\u00e4vention hilft Unternehmen, diese Risiken zu minimieren und ihre wirtschaftliche Stabilit\u00e4t zu erhalten.\r\nBetrug kann nicht nur finanzielle Verluste f\u00fcr Verbraucher*innen verursachen, sondern auch den Ruf von Onlineh\u00e4ndlern und den der gesamten Branche beeintr\u00e4chtigen. Durch die Vermeidung von Betrug wird die Integrit\u00e4t des Onlinehandels gewahrt und ein positives Gesch\u00e4ftsumfeld geschaffen.\r\nEin sicherer und vertrauensw\u00fcrdiger Onlinehandel f\u00f6rdert das Wachstum der Branche, indem er Verbraucher*innen dazu ermutigt, online einzukaufen und Unternehmen dazu ermutigt, in den Onlinevertrieb zu investieren. Eine effektive Betrugspr\u00e4vention schafft ein Umfeld, das das Wachstum und die Innovation im Onlinehandel unterst\u00fctzt.\r\nLetztlich sind Unternehmen im Onlinehandel sogar gesetzlich dazu verpflichtet, angemessene Ma\u00dfnahmen zur Betrugspr\u00e4vention zu ergreifen und die Sicherheit ihrer Kunden*innen zu gew\u00e4hrleisten. Die DSGVO erkennt die Betrugspr\u00e4vention daher ausdr\u00fccklich als Grund (legitimes Interesse) f\u00fcr Datenverarbeitung an.\r\nDenn Betrugspr\u00e4vention im Onlinehandel ist entscheidend, um Verbraucher*innen zu sch\u00fctzen, das Vertrauen in den Onlinehandel aufrechtzuerhalten, wirtschaftliche Sch\u00e4den zu vermeiden und das Wachstum der Branche zu f\u00f6rdern.\r\n1\r\n   Rechtssicherheit ist gerade im Datenschutzbereich besonders wichtig\r\nRechtssicherheit ist ein entscheidender Aspekt f\u00fcr Unternehmen, da sie eine stabile Grundlage f\u00fcr Gesch\u00e4ftsaktivit\u00e4ten bietet und das Risiko rechtlicher Unsicherheiten und potenzieller Streitigkeiten minimiert. Insbesondere im Bereich des Datenschutzes ist Rechtssicherheit von gro\u00dfer Bedeutung, da dieser Bereich h\u00e4ufig von divergierenden Auslegungen und Interpretationen gepr\u00e4gt ist, was zu einer erh\u00f6hten Rechtsunsicherheit f\u00fchrt.\r\nDie Einf\u00fchrung neuer Klageinstrumente und die verst\u00e4rkte \u00dcberwachung von Unternehmen im Datenschutzbereich sind grunds\u00e4tzlich zu begr\u00fc\u00dfen, da sie den Schutz der Privatsph\u00e4re und der Daten der Verbraucher*innen f\u00f6rdern. Jedoch wird dadurch auch die Notwendigkeit klarer und eindeutiger Formulierungen in den Gesetzen noch dringlicher. Unternehmen m\u00fcssen in der Lage sein, die Anforderungen des Datenschutzrechts eindeutig zu verstehen und entsprechende Ma\u00dfnahmen zu ergreifen, um ihre Datenverarbeitungen in Einklang mit den gesetzlichen Vorgaben zu bringen.\r\nRechtsunsicherheit im Bereich des Datenschutzes kann erhebliche zus\u00e4tzliche Kosten verursachen, aber auch Innovation behindern, da Unternehmen m\u00f6glicherweise z\u00f6gerlich sind, neue Technologien und datenbasierte Produkte zu entwickeln.\r\n\u00a7 37a BDSG\u00c4ndG-E ist inhaltlich und handwerklich nicht gegl\u00fcckt\r\nDer Entwurf einer Regelung in \u00a7 37a BDSG-E ist aus unserer Sicht inhaltlich und auch handwerklich nicht gegl\u00fcckt. Bei einer falschen Lesart der Vorschrift k\u00f6nnte diese erhebliche negative Auswirkungen auf Onlineh\u00e4ndler haben und auch dem Bed\u00fcrfnis des Schutzes der Verbraucher*innen zuwiderlaufen. Im Einzelnen:\r\nA. Der EUGH hat die vorgeschlagenen \u00c4nderungen gar nicht verlangt\r\nNach unserem Verst\u00e4ndnis basiert der Vorschlag auf dem Umstand, dass der EuGH in dem Verfahren \u201eSCHUFA / automatisierte Einzelfallentscheidung\u201c einen Hinweis dahingehend gegeben hat, dass die jetzige Vorschrift in \u00a7 31 Abs.1 BDSG nicht europarechtskonform sei. Wir nehmen daher an, dass mit der vorgeschlagenen \u00c4nderung eine gesetzliche Regelung f\u00fcr die Datenverarbeitungen durch Auskunfteien geschaffen werden soll.\r\nDas hat der EUGH allerdings \u00fcberhaupt nicht verlangt. Der Europ\u00e4ische Gerichtshof hat festgestellt, dass die SCHUFA in bestimmten Situationen automatisierte Einzelentscheidungen trifft, die sich auf Betroffene auswirken, wenn sie von Dritten (z.B. H\u00e4ndlern) verwendet werden ohne dass die H\u00e4ndler die n\u00e4heren Umst\u00e4nde dieser Entscheidung steuern oder kontrollieren k\u00f6nnen. Dies lie\u00df eine Schutzl\u00fccke bei den Auskunftsanspr\u00fcchen entstehen, welche der EuGH nunmehr schlie\u00dfen wollte. Ohne das Vorliegen einer automatisierten Einzelfallentscheidung h\u00e4tte eine betroffene Person kein Recht darauf, von der SCHUFA Auskunft \u00fcber ihre Scorewertbildung zu erhalten, wie es in Art. 15 Abs. 1 Ziffer h) der DSGVO vorgesehen ist.\r\n2\r\n\r\n   Damit hat der EuGH zur Schlie\u00dfung einer Schutzl\u00fccke die automatisierte Einzelfallentscheidung zeitlich auf die Auskunftei vorverlagert. Dogmatisch konsequent muss daher auch die im Massenverkehr (z. B. Onlinehandel) einschl\u00e4gige Ausnahmeregelung in Art. 22 Abs.2 Ziffer a) DSGVO vorverlegt gelten und der Auskunftei eine vollautomatisierte Entscheidung erlaubt bleiben, wenn diese vor dem Hintergrund eines Vertragsabschlusses eines H\u00e4ndlers erfolgt.\r\nDer Entscheidung des EuGH ist nicht zu entnehmen, dass der Anwendungsbereich des Art. 22 DSGVO nicht ganzheitlich auf Auskunfteien ausgedehnt oder etwa im Regelungsbereich aufgespalten werden sollte. Der Entwurf des \u00a7 37a BDSG-E f\u00fchrt jedoch zu eben jener Aufspaltung. Diese ist weder von der DSGVO gedeckt noch vom EuGH vorgesehen, woraus sich die Europarechtswidrigkeit ergibt.\r\nB. \u00c4nderungen m\u00fcssen auf die richtige \u00d6ffnungsklausel gest\u00fctzt und auf Auskunfteien beschr\u00e4nkt werden\r\nIn dem Entwurf wird die nationale Gesetzgebungskompetenz auf die \u00d6ffnungsklausel in Art. 22 Abs.2 Ziffer b) DSGVO gest\u00fctzt. Diese ist aber sehr \u201eeng\u201c, da sie ausschlie\u00dflich die automatisierte Einzelfallentscheidung an sich erfasst. Vor diesem Hintergrund bestehen erhebliche Zweifel, ob die \u00d6ffnungsklausel f\u00fcr die geplante \u00c4nderung verwendet werden darf. Dies gilt insbesondere f\u00fcr die einzuhaltenden \u201emateriellrechtlichen\u201c Voraussetzungen (z.B. keine Nutzung von Anschriftendaten). Diese materiellrechtlichen Voraussetzungen sollen wohl eine Ausformung der \u201eangemessenen Ma\u00dfnahmen zur Wahrung der Rechte und Freiheiten sowie der berechtigten Interessen der betroffenen Person\u201c (Art. 22 Abs.2 Ziffer b) DSGVO) darstellen. Bei den in Art. 22 Abs.2 Ziffer b) DSGVO genannten Ma\u00dfnahmen kann es sich aber lediglich um \u201everfahrensrechtliche\u201c handeln, was sich bereits aus den Vorgaben aus Art. 22 Abs.3 DSGVO ergibt. Nach der Rechtsprechung des EuGH sind materiellrechtliche Vorgaben stets anhand der Vorschrift Art. 6 DSGVO zu messen.\r\nBesser w\u00e4re es aus unserer Sicht, eine Regelung \u2013 sofern man diese \u00fcberhaupt schaffen m\u00f6chte \u2013 auf die \u00d6ffnungsklausel in Art. 23 Abs.1 Ziffer e) DSGVO (allgemeines \u00f6ffentliches Interesse) zu st\u00fctzen. Dies kann aus unserer Sicht rechtssicher erfolgen, wenn man den \u00a7 37a BDSG auf die Datenverarbeitung durch Auskunfteien beschr\u00e4nkt. Hierf\u00fcr m\u00fcsste unter anderem die Regelung in \u00a7 37a Abs.1 Nr.1 BDSG-E gestrichen werden. Dies w\u00e4re logisch konsequent, da im EuGH-Urteil in erster Linie um Datenverarbeitungen durch Auskunfteien geregelt werden.\r\nC. \u00a7 37a Abs.2 BDSG-E muss die Ausnahmetatbest\u00e4nde klar benennen\r\nDie Vorschrift in \u00a7 37a Abs.2 BDSG-E ist von ihrem Wortlaut her nicht eindeutig so zu verstehen, dass diese keine Anwendung findet, wenn Verantwortliche sich auf die Ausnahmetatbest\u00e4nde in Art. 22 Abs.2 Ziffer a) und c) DSGVO berufen k\u00f6nnen. Die Begr\u00fcndung in dem Entwurf ist zwar wohl dahingehend zu verstehen \u2013 die Regelung muss aber eindeutig formuliert sein, um in diesem zentralen Punkt Rechtssicherheit und pr\u00e4zise Anwendungsklarheit zu schaffen.\r\n3\r\n\r\n  D. Anschriftendaten m\u00fcssen f\u00fcr die Betrugspr\u00e4vention genutzt werden d\u00fcrfen\r\nDie Nutzung von Anschriftendaten ist im Rahmen der Betrugspr\u00e4vention essentiell. Es gibt n\u00e4mlich z.B. anonyme Anschriften (gro\u00dfe Wohnbl\u00f6cke, \u00f6ffentliche Einrichtungen, etc.), die es Betr\u00fcgern leichter machen, Bestellbetrug zu begehen.\r\nDass diese Daten im Rahmen der Betrugspr\u00e4vention bzw. bei der Bildung von Betrugsscores genutzt werden d\u00fcrfen, haben die Datenschutzbeh\u00f6rden anerkannt. Die Schaffung von L\u00fccken im Bereich der Betrugspr\u00e4vention l\u00e4uft auch den Verbraucher*inneninteressen zuwider. Versandh\u00e4ndler sind im \u00dcbrigen bereits aus gesetzlichen Gr\u00fcnden dazu verpflichtet, Identit\u00e4tsdiebst\u00e4hle zu vermeiden. Dies ergibt sich aus der Entscheidung des BGH \u201eIdentit\u00e4tsdiebstahl II\u201c. Hierf\u00fcr m\u00fcssen sie die relevanten Daten, zu denen insbesondere auch Anschriftendaten geh\u00f6ren, verarbeiten d\u00fcrfen. Dar\u00fcber hinaus steht die Regelung auch im Widerspruch dazu, dass der Europ\u00e4ische Gesetzgeber im Rahmen der KI-Verordnung ausdr\u00fccklich festgelegt hat, dass der Einsatz von KI zum Zweck der Betrugspr\u00e4vention nicht unter die Kategorie \u201eHochrisiko\u201c f\u00e4llt.\r\nE. Zweckbegrenzung ist europarechtswidrig\r\nDie Zweckbegrenzung in \u00a7 37a Abs.2 Nr.3 b) BDSG-E ist nicht mit den Grunds\u00e4tzen aus Art. 6 Abs.4 DSGVO vereinbar. In der Praxis werden dieselben Datenkategorien vollkommen rechtm\u00e4\u00dfig f\u00fcr eine Vielzahl an Zwecken genutzt.\r\nF. Gesch\u00e4ftsgeheimnisse werden zu weitreichend eingeschr\u00e4nkt\r\n\u00a7 37a Abs.6 BDSG-E soll sich vermutlich auf die Bildung von Scorewerten beziehen. In der aktuellen Formulierung bezieht es sich aber auf die \u201cVerantwortlichen\u201d. Das bedeutet, dass dieser Absatz auch in anderen F\u00e4llen \u2013 die keine Scorewertbildung sind \u2013 Anwendung finden w\u00fcrde, solange der Verantwortliche auch Scorewerte bildet. Ein Unternehmen, das Scorewerte bildet, d\u00fcrfte sich daher auch in anderen F\u00e4llen nicht auf die angedachte Ausnahme f\u00fcr den Schutz von Gesch\u00e4ftsgeheimnissen beziehen. Diese referenziert n\u00e4mlich auf den Verantwortlichen, der Scorewerte bildet und nicht auf die Scorewertbildung an sich.\r\nWas ge\u00e4ndert werden muss:\r\n\u25a0 Den neuen \u00a7 37a auf Auskunfteien beschr\u00e4nken und \u00a7 37a Abs.1 Nr.1 BDSG-E streichen.\r\n\u25a0 \u00a7 37a Abs.2 BDSG-E eindeutig formulieren, damit sich Verantwortliche auf die Ausnahmetatbest\u00e4nde in Art. 22 Abs. 2 a) und c) DSGVO berufen k\u00f6nnen.\r\n\u25a0 Die Nutzung von Daten \u2013 insbesondere Anschriftendaten \u2013 f\u00fcr die Betrugspr\u00e4vention weiter zulassen.\r\n\u25a0 Zweckbegrenzung in \u00a7 37a Abs. 2 Nr.3 b) BDSG-E streichen.\r\n\u25a0 \u00a7 37a Abs 6 BDSG-E umformulieren und auf die Bildung von Scorewerten\r\nbeziehen."
+                        }
+                    }
+                ],
+                "title": "Effektive Betrugsp\u00e4vention im Onlinehandel erm\u00f6glichen"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Nationale Umsetzung der KI Verordnung der Europ\u00e4ischen Union",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009225",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/9c/0b/323798/Stellungnahme-Gutachten-SG2406270042.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                        "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                        "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-01"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009225",
+                        "regulatoryProjectTitle": "KI-Aufsicht sachgerecht gestalten",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "EU AI Act \u2013 Nationale Umsetzung\r\nPosition Zalando\r\n29. Februar 2024\r\nAls kundenzentriertes Unternehmen, das k\u00fcnstliche Intelligenz entwickelt und einsetzt, handelt es sich in einem wesentlichen Teil unserer Anwendungsf\u00e4lle um personenbezogene Daten. Die Aufsicht \u00fcber den Umgang mit diesen Daten liegt derzeit im Zust\u00e4ndigkeitsbereich der Datenschutzaufsichten. Bei der Frage der Aufsicht \u00fcber k\u00fcnstliche Intelligenz besteht daher die Herausforderung in der potenziellen Fragmentierung der Regelungen, sollte die Regulierung bei einer anderen Aufsicht liegen. In diesem Fall besteht die Gefahr unterschiedlicher Rechtsanwendung ansonsten einheitlicher Lebenssachverhalte. Dies wiederum birgt das Risiko von Rechtsunsicherheit und verursacht in der Folge Innovationshemmnisse.\r\nEine konsistente Aufsicht und einheitliche Auslegung sind elementar.\r\nDie Frage der Zust\u00e4ndigkeit f\u00fcr die zuk\u00fcnftige Umsetzung des EU AI Act in Deutschland ist von entscheidender Bedeutung. Dabei geht es um zwei wesentliche k\u00fcnftige Aufgaben: die Kl\u00e4rung rechtlicher Fragen und die Standardsetzung.\r\n1. Kl\u00e4rung rechtlicher Fragen: F\u00fcr die Kl\u00e4rung rechtlicher Fragen w\u00fcrden sich die Datenschutzaufsichten anbieten, die bereits Erfahrung im Bereich der personenbezogenen Daten haben und \u00fcber die erforderliche Expertise verf\u00fcgen. Dar\u00fcber hinaus sind viele Aspekte, die bei k\u00fcnstlicher Intelligenz eine wichtige Rolle spielen \u2013 bspw. Fairness oder Bias \u2013, den Datenschutzaufsichten bereits vertraut. Auch hier besteht bei ihnen bereits Sachkompetenz, die bei anderen Beh\u00f6rden erst aufgebaut werden m\u00fcsste.\r\n2. Standardsetzung: Die Setzung von technischen Standards wird f\u00fcr die erfolgreiche Umsetzung des EU AI Acts elementar sein. Die Standards sollten vollharmonisiert und auch f\u00fcr Beh\u00f6rden verbindlich sein. F\u00fcr die Setzung von Standards (Datenqualit\u00e4t, Trainingsdaten, Erkl\u00e4rbarkeit und Transparenz, Marktbeobachtung usw.) ist eine technisch arbeitende Beh\u00f6rde auf Bundesebene zu bevorzugen, die bestehende (internationale) Standardisierungsgremien beauftragen und mit ihnen zusammenarbeiten kann. Hier k\u00f6nnte sich beispielsweise die Bundesnetzagentur als geeignete Instanz anbieten.\r\n1\r\n Die erfolgreiche Umsetzung des EU AI Act in Deutschland erfordert eine klare Zust\u00e4ndigkeitsregelung und eine konsistente Auslegung \u2013 sowohl des EU AI Acts selbst als auch der ber\u00fchrten Datenschutzbestimmungen. Nur so k\u00f6nnen Rechtsunsicherheit vermieden und Innovationen gef\u00f6rdert werden, w\u00e4hrend gleichzeitig der Schutz personenbezogener Daten gew\u00e4hrleistet wird."
+                        }
+                    }
+                ],
+                "title": "KI-Aufsicht sachgerecht gestalten"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Zalando spricht sich gegen die Aufnahme von nicht-\u00f6kologischen Kriterien aus",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009226",
+                "statements": [],
+                "title": "Nicht-\u00f6kologische Bewertungskriterien in EPR-Systemen"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GWB",
+                        "title": "Gesetz gegen Wettbewerbsbeschr\u00e4nkungen",
+                        "url": "https://www.gesetze-im-internet.de/gwb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Wettbewerb im Digitalen und konkret Regelungen f\u00fcr Unternehmen mit \u00fcberragender markt\u00fcbergreifender Bedeutung",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_COMPETITION_LAW",
+                        "de": "Wettbewerbsrecht",
+                        "en": "Competition law"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009227",
+                "statements": [],
+                "title": "12. GWB-Novelle"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Vorvertragliche Informationen und Kreditw\u00fcrdigkeitspr\u00fcfungen m\u00fcssen in vertretbarem und verbraucherfreundlichem Rahmen bleiben ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_FINANCE",
+                        "de": "Bank- und Finanzwesen",
+                        "en": "Banking and finance"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009228",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/e4/c0/323800/Stellungnahme-Gutachten-SG2406270043.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                        "de": "Bundesministerium der Finanzen (BMF)",
+                                        "en": "Bundesministerium der Finanzen (BMF)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-01"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009228",
+                        "regulatoryProjectTitle": "EU Verbraucherkreditrichtlinie",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Umsetzung der EU-Richtlinie \u00fcber Verbraucherkredit- vertr\u00e4ge in Deutschland\r\nEinsch\u00e4tzung und Umsetzungsvorschl\u00e4ge von Zalando\r\nNovember 2023\r\nAm 30. Oktober 2023 wurde die EU Richtlinie \u00fcber Verbraucherkreditvertr\u00e4ge1 im EU-Amtsblatt ver\u00f6ffentlicht. Damit wird das europ\u00e4ische Verbraucherkreditrecht weitgehend reformiert und insbesondere in Deutschland der beliebte Rechnungskauf vor neue regulatorische Herausforderungen gestellt. Der deutsche Gesetzgeber hat 24 Monate Zeit die EU Vorgaben umzusetzen und praxistaugliche L\u00f6sungen zu finden, um den Rechnungskauf als sinnvollen Bezahlvorgang auch im E-Commerce zu erhalten.\r\nAuf den Rechnungskauf fanden bislang die Regelungen des Verbraucherkreditrechts richtigerweise keine Anwendung. Dies schien wohl auch grunds\u00e4tzlich weiterhin vom EU-Gesetzgeber intendiert. Dennoch l\u00e4sst der finale EU-Kompromiss vermuten, dass der Rechnungskauf - sogar bei h\u00f6chstens 14 Tagen Zahlungsfrist - nur noch teilweise vom Anwendungsbereich ausgenommen werden bzw. zuk\u00fcnftig einem Verbraucherkreditvertrag entsprechen k\u00f6nnte.\r\nIn diesem Fall m\u00fcssten bei einem Kauf auf Rechnung umfangreiche vorvertragliche Informationen (bei Online-K\u00e4ufen sogar standardm\u00e4\u00dfig in Papierform) dem Kunden vorab zur Verf\u00fcgung gestellt sowie eine Kreditw\u00fcrdigkeitspr\u00fcfung durchgef\u00fchrt werden. Dies stellt H\u00e4ndler und Marktpl\u00e4tze vor enorme Herausforderungen und ist f\u00fcr Kunden umst\u00e4ndlich und nicht nachzuvollziehen.\r\nEine zielgenaue und l\u00f6sungsorientierte Umsetzung der Richtlinie f\u00fcr alle Gesch\u00e4ftsmodelle im E-Commerce ist notwendig, um Wettbewerbsverzerrungen zu vermeiden und die Kundenzufriedenheit zu bewahren. Ansonsten werden unter anderem hybride Marktpl\u00e4tze mit Plattform- und Einzelhandelsgesch\u00e4ft gegen\u00fcber anderen H\u00e4ndlern oder auch BNPL-Anbietern schlechter gestellt.\r\nLangfristig steht zu bef\u00fcrchten, dass H\u00e4ndler und Kunden damit auf andere Bezahlmethoden zur\u00fcckgreifen. Damit stirbt wom\u00f6glich gerade die Bezahlmethode aus, die verbraucherorientiert und risikofrei eine Begleichung mit Erhalt der Ware vorsieht. \u201cConvenience\u201d f\u00fcr den Verbraucher geht in erh\u00f6htem Ma\u00dfe verloren. H\u00e4ndler werden gezwungen, vermehrt auf Drittanbieter zur Zahlungsabwicklung zur\u00fcckzugreifen, anstatt eigene L\u00f6sungen anzubieten, die auf den jeweiligen H\u00e4ndler oder Marktplatz abgestimmt sind und damit die gr\u00f6\u00dfte \u201cConvenience\u201d und den h\u00f6chsten Sicherheitsstandard gew\u00e4hren k\u00f6nnen. Weniger Wettbewerb im Markt f\u00fcr Zahlungs- und Finanzierungsm\u00f6glichkeiten d\u00fcrfte dann zwangsl\u00e4ufig zu einer h\u00f6heren Kostenlast f\u00fcr Verbraucher und H\u00e4ndler gleicherma\u00dfen f\u00fchren.\r\nAufgrund dieser weitreichenden und f\u00fcr den Online-Handel nicht zu untersch\u00e4tzenden Auswirkungen nimmt Zalando im Folgenden Stellung zur Umsetzung der EU-Verbraucherkreditvertragsrichtlinie und bittet den Gesetzgeber um f\u00fcr die Praxis\r\n1 https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:L_202302225 1\r\n  \r\n zielf\u00fchrende Ber\u00fccksichtigung, um den Rechnungskauf als beliebte Zahlungsabwicklung f\u00fcr H\u00e4ndler und Kunden in Deutschland nachhaltig zu erhalten.\r\nZalando SE und Zalando Payments GmbH\r\nZalando ist eine der f\u00fchrenden Online-Destinationen f\u00fcr Mode und Lifestyle in Europa. Im Jahr 2008 in Berlin gegr\u00fcndet, bietet Zalando heute mehr als 50 Millionen aktiven Kund*innen in 25 L\u00e4ndern Produkte aus den Bereichen Bekleidung, Schuhe, Accessoires und Kosmetik.\r\nF\u00fcr Zalando war die Zahlungsabwicklung seit Gr\u00fcndung 2008 ein wesentlicher Treiber f\u00fcr die Kundenzufriedenheit, das Wachstum und die Rentabilit\u00e4t. Um Kunden ein echtes \u201eUmkleidezimmer-Erlebnis zu Hause\u201c zu bieten, wurden die kostenlose Lieferung und kostenlose R\u00fccksendungen durch den in Deutschland \u00fcblichen und beliebten Kauf auf Rechnung erg\u00e4nzt. Mit der Entwicklung des kuratierten Plattformdienstes Zalando Partner Program, wurden die regulatorischen H\u00fcrden h\u00f6her um dasselbe Angebot gegen\u00fcber Partnern (H\u00e4ndlern, die \u00fcber die Zalando Plattform verkaufen) und Kunden zu bieten, den sie vom Direktkauf bei Zalando gewohnt sind. 2016 wurde die Zalando Payments GmbH (ZPS) als hundertprozentige Tochtergesellschaft der Zalando SE gegr\u00fcndet. Diese erhielt im Fr\u00fchjahr 2019 eine E-Geld-Lizenz von der deutschen Finanzaufsicht BaFin.\r\nHeute bietet Zalando in 25 L\u00e4ndern verteilt 20 verschiedene Zalandungsoptionen an. Beliebt im deutschsprachigen Raum ist dabei weiterhin der Kauf auf Rechnung: Der offene Betrag ist innerhalb von 14 Tagen nach der Versandbest\u00e4tigung f\u00e4llig. Es werden keine zus\u00e4tzlichen Geb\u00fchren oder Zinsen f\u00e4llig. Ratenkauf wird weder \u00fcber Zalando selbst noch \u00fcber ZPS angeboten.\r\nDieser Kauf auf Rechnung wie Zalando ihn anbietet (zins- und geb\u00fchrenfreie Zahlung erst nach Erhalt der Ware innerhalb von 14 Tagen ab Versandbest\u00e4tigung) erm\u00f6glicht Verbrauchern ein bequemes Einkaufen im Online-Handel: schnell (keine Angabe von Zahlungsmittelinformationen), sicher (Zahlung erst mit Erhalt der Ware) und liquidit\u00e4tsschonend (kein Bezahlen in der Zahlungsfrist retournierter Ware). H\u00e4ndlern bietet der Rechnungskauf eine Zahlungsart mit hoher Conversion-Rate2 und ohne die kostenintensive Einbindung und Abh\u00e4ngigkeit weiterer Drittanbieter.\r\nF\u00fcr die Zahlungsabwicklung innerhalb der Unternehmensgruppe erwirbt die Zalando Payments GmbH die Zahlungsforderung der Zalando SE bzw. der Partner, die \u00fcber die Plattform verkaufen, gegen den Kunden. Wie bereits erw\u00e4hnt, ist die 100 prozentige Zalando Tochter Zalando Payments GmbH ein von der Aufsichtsbeh\u00f6rde BaFin reguliertes E-Geld-Institut. Damit werden in h\u00f6chstm\u00f6glichem Ma\u00df der Verbraucherschutz, die Finanzstabilit\u00e4t, die Sicherung von entgegengenommenen Geldbetr\u00e4gen und die Einhaltung geltender Gesetze und Vorschriften gew\u00e4hrleistet. Der Beantragungssprozess beinhaltet die Bereitstellung detaillierter Informationen \u00fcber die Eigent\u00fcmerstruktur, das Gesch\u00e4ftsmodell, die Risikomanagementpraktiken, Absicherung und die Verbraucherschutzma\u00dfnahmen des Unternehmens. Ferner erfolgen regelm\u00e4\u00dfig\r\n2 Verh\u00e4ltnis von Besuchern eines Onlineshops zu der Anzahl get\u00e4tigter K\u00e4ufe. 2\r\n  \r\n strenge Audits. Ein f\u00fcr Verbraucher entscheidender Vorteil sind die strengen Sicherungsanforderungen f\u00fcr die Entgegennahme von Geldbetr\u00e4gen.\r\nIm Gegensatz zu einer Zahlungsabwicklung \u00fcber einen externen Dienstleister oder Drittanbieter, bleibt der Kauf auf Rechnung \u00fcber die Zalando Webseite zu jedem Zeitpunkt in der Verantwortung der Zalando Unternehmensgruppe.\r\nEU Richtlinie: Kreditvertrag, Rechnungskauf und BNPL (\u00fcber Drittanbieter)\r\nDie neue EU Richtlinie \u00fcber Verbraucherkreditvertr\u00e4ge wurde getrieben von dem politischen Ziel, sogenannte \u201cBuy now pay later\u201d (BNPL) Produkte in den Anwendungsbereich aufzunehmen. Ausgeschlossen von der Richtlinie werden sollten weiterhin \u201cKreditvertr\u00e4ge, die die unentgeltliche Stundung einer bestehenden Forderung zum Gegenstand haben\u201d3. Diese Umschreibung eines Zahlungsaufschubs (\u201cdeferred payment\u201d) entspricht dem Rechnungskauf und sollte diesen entsprechend sch\u00fctzen. Der finale Gesetzestext gem. Artikel 2 Abs. 2 h) der Richtlinie ist jedoch in einigen Teilen unklar, so dass es auf den deutschen Gesetzgeber ankommt, eine rechtssichere Anwendung zu gew\u00e4hrleisten.\r\nWirtschaftlich gesehen kann der Rechnungskauf aufgrund seiner Zinsfreiheit und der Vereinbarung kurzer Zahlungsziele keinem Kreditvertrag gleichgesetzt werden. Vielmehr sch\u00fctzt das verl\u00e4ngerte und dennoch sehr kurze Zahlungsziel den Verbraucher vor den besonderen Nachteilen des Fernabsatzkaufs und Vorauszahlung f\u00fcr Ware, die noch geliefert wird oder im Fall von Retouren oder Schlecht-/Falschlieferung vor unn\u00f6tigen Zahlungen und R\u00fcckbuchungen.\r\nDurch den Rechnungskauf kann der Verbraucher erst bezahlen, wenn ein Artikel oder eine Dienstleistung in Empfang genommen und angenommen wurde. Gleichzeitig entstehen keine einem Kreditvertrag entsprechenden Risiken f\u00fcr Verbraucher, insbesondere das Risiko einer \u00dcberschuldung durch Aufbau einer Vielzahl parallel und lang laufender Zinsverpflichtungen, denn beim Rechnungskauf, wie Zalando ihn anbietet, ist die Zahlung innerhalb von 14 Tagen f\u00e4llig. Ferner unterliegen alle Verk\u00e4ufe Risikomanagementprozessen, um sowohl Zalando-H\u00e4ndler als auch Kunden vor Zahlungsausf\u00e4llen sowie \u00dcberschuldung zu sch\u00fctzen.\r\nDer EU-Gesetzgeber hat diese Argumente anerkannt und f\u00fcr gro\u00dfe H\u00e4ndler den Rechnungskauf mit Zahlungsziel bis zu 14 Tagen von der Verbraucherkreditrichtlinie ausgeschlossen (Artikel 2 Abs. 2h der Richtlinie). Fraglich ist jedoch, ob die gleichen Bedingungen auch H\u00e4ndler mit eigener Zahlungsabwicklungsgesellschaft oder f\u00fcr Marktpl\u00e4tze gelten. Denn von einem Rechnungskauf sei nur auszugehen, \"ohne dass ein Dritter Kredit anbietet\" bzw. \"ein Dritter bietet weder einen Kredit an noch erwirbt ein Dritter einen Zahlungsanspruch.\u201d Dabei ist nicht klar, welche F\u00e4lle mit der Einbindung von Dritten in die Zahlungsabwicklung des Rechnungskauf gemeint sind und wer Gl\u00e4ubiger im Fall des Marktplatzmodells ist.\r\n3 Artikel 2, Abs. 2, g) Vorschlag der EU Kommission vom 30.06.2021 f\u00fcr eine Richtlinie \u00fcber Verbraucherkreditvertr\u00e4ge, SEC(2021) 281 final\r\n  3\r\n\r\n Unseres Erachtens sollte hier auf die Intention des Gesetzgebers abgestellt werden, die sich aus den Erw\u00e4gungsgr\u00fcnden 16 und 17 ergeben: Ein Zahlungsaufschub sollte nicht in den Anwendungsbereich fallen, sondern vielmehr nur BNPL-Produkte, bei denen es sich um \u201cneue digitale Finanzinstrumente\u201d handelt. Ein Rechnungskauf, der in der H\u00e4ndler-Unternehmensgruppe oder \u00fcber den Marktplatz, auf dem auch verkauft wird, abgewickelt wird, stellt kein solches neues Finanzierungsinstrument dar. Vielmehr handelt es sich um eine jahrzehntealte Zahlmethode des Versandhandels und Fernabsatzes.\r\nDer Kauf auf Rechnung bei Zalando kann auch nicht, wie bei Drittanbietern, in einen Ratenkauf umgewandelt werden und wird nicht automatisch abgebucht, sondern verlangt vielmehr ein Ausl\u00f6sen der Bezahlung.4 Weiterhin ist es bei gro\u00dfen H\u00e4ndlern und Marktpl\u00e4tzen die Konsequenz regulatorischer Auflagen, die Zahlungsabwicklung innerhalb einer eigenst\u00e4ndigen Rechtsform zu organisieren. Die gesamte Abwicklung bleibt in der Unternehmensgruppe des H\u00e4ndlers/Marktplatzes bzw. ultimativ beim H\u00e4ndler (SE als Muttergesellschaft).\r\nEin \u201cDritter\u201d gem. Artikel 2 Abs. 2h sollte insofern als \u201cDrittanbieter\u201d zu verstehen sein, der nicht organisatorisch und gesellschaftsrechtlich in die H\u00e4ndlergruppe oder den Marktplatz integriert ist. Andernfalls drohen starke Wettbewerbsverzerrungen. H\u00e4ndler, die den Rechnungskauf \u00fcber die (durch die Payment Services Directive 2 regulatorisch erforderliche) Einbindung eines Zahlungsdienstleisters abwickeln, w\u00fcrden ansonsten schlechter gestellt gegen\u00fcber H\u00e4ndlern, die Rechnungen stellen. Es ist kein sachlicher Grund erkennbar, weshalb f\u00fcr einen gro\u00dfen Einzelh\u00e4ndler und einen Zahlungsdienstleister, der die Forderungsabwicklung anderer H\u00e4ndler aufgrund einer regulatorischen Anforderung aggregiert (insbesondere auf einer Plattform), unterschiedliche Regelungen gelten sollten. Durch die Beaufsichtigung des Zahlungsdienstleisters durch die Aufsichtsbeh\u00f6rde BaFin k\u00f6nnen vielmehr ein h\u00f6chstm\u00f6gliches Ma\u00df an Verbraucherschutz, Finanzstabilit\u00e4t, Sicherung der entgegengenommenen Gelder und die Einhaltung geltender Gesetze und Vorschriften gew\u00e4hrleistet werden.\r\nBei unterschiedlicher Anwendung unter H\u00e4ndlern mit eigener Zahlungsgesellschaft und Marktpl\u00e4tzen w\u00e4re zudem f\u00fcr den Verbraucher nicht erkennbar und erkl\u00e4rbar, wann er bei welchem H\u00e4ndler online einen Kauf auf Rechnung oder einen Verbraucherkreditvertrag abschlie\u00dft und welche Rechte und Pflichten sich daraus ergeben. Zum Beispiel w\u00fcrde bei einem der EU-Richtlinie unterfallenden Rechnungskauf das Verbraucherkredit Widerrufsrecht gelten - im Gegensatz zu dem Fernabsatz Widerrufsrecht, welches andere Belehrungen und Fristen beinhaltet.\r\nSollten Rechnungsk\u00e4ufe bei Marktpl\u00e4tzen und H\u00e4ndlern mit eigener Zahlungsgesellschaft als Verbraucherkreditvertr\u00e4ge gewertet werden, drohen deutliche Wettbewerbsverzerrungen. Zum Einen werden diese Gesch\u00e4ftsmodelle gegen\u00fcber Wettbewerbern benachteiligt, die weiterhin g\u00fcnstig einen Kauf auf Rechnung anbieten k\u00f6nnen, den Verbraucher ohne die zus\u00e4tzlichen Auflagen der Informationen und Kreditpr\u00fcfung auch gerne weiterhin nutzen, w\u00e4hrend sie von einem Kauf auf Rechnung\r\n4 So auch die Verbraucherzentrale: https://www.verbraucherzentrale.de/wissen/digitale-welt/onlinedienste/buy-now-pay-later-schuldenf alle-oder-moderner-rechnungskauf-75599#:~:text=%E2%80%9EBuy%20now%2C%20pay%20later %E2%80%9C%20steht%20f%C3%BCr%20die%20M%C3%B6glichkeit%2C,%C3%BCblich%20in %20Raten%20aufteilen%20k%C3%B6nnen.\r\n  4\r\n\r\nbei Marktpl\u00e4tzen abgeschreckt werden und wiederum auf andere f\u00fcr den Marktplatz kostenintensiven Bezahlmethoden \u00fcber Drittanbieter ausweichen.\r\nZum Anderen werden diese Gesch\u00e4ftsmodelle aber auch gegen\u00fcber BNPL Anbietern schlechter gestellt. Denn im Gegensatz zum Marktplatz, bei dem mit jeder Bestellung die Kreditpr\u00fcfung und Informationswarnung erfolgen m\u00fcsste, wird es bei BNPL Anbietern \u00fcber die \u201cWallet-L\u00f6sung\u201d nur einmal bei Einrichten des BNPL-Kontos erfolgen. Damit sind die H\u00fcrden und Abschreckung des Rechnungskaufs f\u00fcr Kunden auf Marktpl\u00e4tzen so hoch, dass er nicht mehr genutzt und angeboten wird - w\u00e4hrend Wettbewerber ohne Zahlungsgesellschaft ihn wie bislang anbieten und BNPL-Anbieter an Zulauf gewinnen.\r\nPetitum:\r\n\u27a2 Die Erw\u00e4gungsgr\u00fcnde der Richtlinie geben klar vor, dass Verbraucher weiterhin die M\u00f6glichkeit haben sollen, innerhalb von 14 Tagen ohne (Zins)Kosten unkompliziert \u201eauf Rechnung\u201c kaufen zu k\u00f6nnen. Dies gilt auch, wenn der Rechnungskauf durch gro\u00dfe oder sehr gro\u00dfe H\u00e4ndler angeboten wird. Klargestellt werden sollte, dass dazu H\u00e4ndler geh\u00f6ren, die unternehmensintern Zahlungen ohne externe Dienstleister abwickeln.\r\n\u27a2 Platform- oder Marktplatzmodelle bzw. H\u00e4ndler, die \u00fcber solche Vertriebsm\u00f6glichkeiten verkaufen, sollten entsprechend gleichlautend behandelt werden.\r\n\u27a2 Im Umsetzungsgesetz sollten klarstellende Ausnahmen aufgenommen werden, dass die in der Richtlinie f\u00fcr \u201eZahlungsaufsch\u00fcbe\u201c vorgegebenen Einschr\u00e4nkungen hinsichtlich Dritter (\"ohne dass ein Dritter Kredit anbietet\" / \"ein Dritter bietet weder einen Kredit an noch erwirbt ein Dritter einen Zahlungsanspruch\") nur greifen, soweit dieser Dritte f\u00fcr die betroffene Forderung auch eine \u2013 kostenpflichtige \u2013 Kreditierung anbietet.\r\n\u27a2 Artikel 2 Abs. 8 gew\u00e4hrt den Mitgliedstaaten entscheidenden Spielraum, bestimmte Vorschriften der Richtlinie u.a. auf zins- und geb\u00fchrenfreie Kreditvertr\u00e4ge nicht umzusetzen. Um der Bedeutung und Vorteile des Rechnungskaufs f\u00fcr den Handel gerecht zu werden, sollte Deutschland von diesem Recht Gebrauch machen."
+                        }
+                    }
+                ],
+                "title": "EU Verbraucherkreditrichtlinie"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Zalando unterst\u00fctzt die Abschaffung der 150 \u20ac Zollfreigrenze und die Einf\u00fchrung des \"fiktiven Einf\u00fchrers\"",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                        "de": "G\u00fcterverkehr",
+                        "en": "Freight transportation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009229",
+                "statements": [],
+                "title": "EU Zollreform"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/87/68/323796/Stellungnahme-Gutachten-SG2406270030.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-03-13"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009224",
+                "regulatoryProjectTitle": "Effektive Betrugsp\u00e4vention im Onlinehandel erm\u00f6glichen",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Betrug im Onlinehandel nicht T\u00fcr und Tor \u00f6ffnen\r\nPositionspapier zum Kabinettsbeschluss zum 1. BDSG\u00c4ndG\r\n13. M\u00e4rz 2024\r\nDer Entwurf zur \u00c4nderung des BDSG beinhaltet neben neuen Regelungen zur Datenschutzkonferenz (DSK) unter anderem auch \u00c4nderungen, die vermutlich darauf abzielen, Zahlungsf\u00e4higkeitsdiskriminierung abzustellen. Leider ist dabei jedoch der Anwendungsbereich so weit gefasst, dass durch die vorgeschlagenen Regelungen die Betrugspr\u00e4vention stark eingeschr\u00e4nkt werden w\u00fcrde.\r\nBetrugspr\u00e4vention ist im Onlinehandel von gro\u00dfer Bedeutung\r\nDurch eine wirksame Betrugspr\u00e4vention werden Verbraucher*innen vor Identit\u00e4tsdiebstahl, betr\u00fcgerischen Transaktionen und finanziellen Verlusten gesch\u00fctzt. Dies tr\u00e4gt dazu bei, das Vertrauen der Verbraucher*innen in den Onlinehandel aufrechtzuerhalten und ihre Sicherheit beim Einkaufen im Internet zu gew\u00e4hrleisten.\r\nBetrug im Onlinehandel kann erhebliche wirtschaftliche Sch\u00e4den f\u00fcr Unternehmen verursachen, sei es durch finanzielle Verluste, R\u00fcckbuchungen von Zahlungen oder die Beeintr\u00e4chtigung des Markenrufs. Eine wirksame Betrugspr\u00e4vention hilft Unternehmen, diese Risiken zu minimieren und ihre wirtschaftliche Stabilit\u00e4t zu erhalten.\r\nBetrug kann nicht nur finanzielle Verluste f\u00fcr Verbraucher*innen verursachen, sondern auch den Ruf von Onlineh\u00e4ndlern und den der gesamten Branche beeintr\u00e4chtigen. Durch die Vermeidung von Betrug wird die Integrit\u00e4t des Onlinehandels gewahrt und ein positives Gesch\u00e4ftsumfeld geschaffen.\r\nEin sicherer und vertrauensw\u00fcrdiger Onlinehandel f\u00f6rdert das Wachstum der Branche, indem er Verbraucher*innen dazu ermutigt, online einzukaufen und Unternehmen dazu ermutigt, in den Onlinevertrieb zu investieren. Eine effektive Betrugspr\u00e4vention schafft ein Umfeld, das das Wachstum und die Innovation im Onlinehandel unterst\u00fctzt.\r\nLetztlich sind Unternehmen im Onlinehandel sogar gesetzlich dazu verpflichtet, angemessene Ma\u00dfnahmen zur Betrugspr\u00e4vention zu ergreifen und die Sicherheit ihrer Kunden*innen zu gew\u00e4hrleisten. Die DSGVO erkennt die Betrugspr\u00e4vention daher ausdr\u00fccklich als Grund (legitimes Interesse) f\u00fcr Datenverarbeitung an.\r\nDenn Betrugspr\u00e4vention im Onlinehandel ist entscheidend, um Verbraucher*innen zu sch\u00fctzen, das Vertrauen in den Onlinehandel aufrechtzuerhalten, wirtschaftliche Sch\u00e4den zu vermeiden und das Wachstum der Branche zu f\u00f6rdern.\r\n1\r\n   Rechtssicherheit ist gerade im Datenschutzbereich besonders wichtig\r\nRechtssicherheit ist ein entscheidender Aspekt f\u00fcr Unternehmen, da sie eine stabile Grundlage f\u00fcr Gesch\u00e4ftsaktivit\u00e4ten bietet und das Risiko rechtlicher Unsicherheiten und potenzieller Streitigkeiten minimiert. Insbesondere im Bereich des Datenschutzes ist Rechtssicherheit von gro\u00dfer Bedeutung, da dieser Bereich h\u00e4ufig von divergierenden Auslegungen und Interpretationen gepr\u00e4gt ist, was zu einer erh\u00f6hten Rechtsunsicherheit f\u00fchrt.\r\nDie Einf\u00fchrung neuer Klageinstrumente und die verst\u00e4rkte \u00dcberwachung von Unternehmen im Datenschutzbereich sind grunds\u00e4tzlich zu begr\u00fc\u00dfen, da sie den Schutz der Privatsph\u00e4re und der Daten der Verbraucher*innen f\u00f6rdern. Jedoch wird dadurch auch die Notwendigkeit klarer und eindeutiger Formulierungen in den Gesetzen noch dringlicher. Unternehmen m\u00fcssen in der Lage sein, die Anforderungen des Datenschutzrechts eindeutig zu verstehen und entsprechende Ma\u00dfnahmen zu ergreifen, um ihre Datenverarbeitungen in Einklang mit den gesetzlichen Vorgaben zu bringen.\r\nRechtsunsicherheit im Bereich des Datenschutzes kann erhebliche zus\u00e4tzliche Kosten verursachen, aber auch Innovation behindern, da Unternehmen m\u00f6glicherweise z\u00f6gerlich sind, neue Technologien und datenbasierte Produkte zu entwickeln.\r\n\u00a7 37a BDSG\u00c4ndG-E ist inhaltlich und handwerklich nicht gegl\u00fcckt\r\nDer Entwurf einer Regelung in \u00a7 37a BDSG-E ist aus unserer Sicht inhaltlich und auch handwerklich nicht gegl\u00fcckt. Bei einer falschen Lesart der Vorschrift k\u00f6nnte diese erhebliche negative Auswirkungen auf Onlineh\u00e4ndler haben und auch dem Bed\u00fcrfnis des Schutzes der Verbraucher*innen zuwiderlaufen. Im Einzelnen:\r\nA. Der EUGH hat die vorgeschlagenen \u00c4nderungen gar nicht verlangt\r\nNach unserem Verst\u00e4ndnis basiert der Vorschlag auf dem Umstand, dass der EuGH in dem Verfahren \u201eSCHUFA / automatisierte Einzelfallentscheidung\u201c einen Hinweis dahingehend gegeben hat, dass die jetzige Vorschrift in \u00a7 31 Abs.1 BDSG nicht europarechtskonform sei. Wir nehmen daher an, dass mit der vorgeschlagenen \u00c4nderung eine gesetzliche Regelung f\u00fcr die Datenverarbeitungen durch Auskunfteien geschaffen werden soll.\r\nDas hat der EUGH allerdings \u00fcberhaupt nicht verlangt. Der Europ\u00e4ische Gerichtshof hat festgestellt, dass die SCHUFA in bestimmten Situationen automatisierte Einzelentscheidungen trifft, die sich auf Betroffene auswirken, wenn sie von Dritten (z.B. H\u00e4ndlern) verwendet werden ohne dass die H\u00e4ndler die n\u00e4heren Umst\u00e4nde dieser Entscheidung steuern oder kontrollieren k\u00f6nnen. Dies lie\u00df eine Schutzl\u00fccke bei den Auskunftsanspr\u00fcchen entstehen, welche der EuGH nunmehr schlie\u00dfen wollte. Ohne das Vorliegen einer automatisierten Einzelfallentscheidung h\u00e4tte eine betroffene Person kein Recht darauf, von der SCHUFA Auskunft \u00fcber ihre Scorewertbildung zu erhalten, wie es in Art. 15 Abs. 1 Ziffer h) der DSGVO vorgesehen ist.\r\n2\r\n\r\n   Damit hat der EuGH zur Schlie\u00dfung einer Schutzl\u00fccke die automatisierte Einzelfallentscheidung zeitlich auf die Auskunftei vorverlagert. Dogmatisch konsequent muss daher auch die im Massenverkehr (z. B. Onlinehandel) einschl\u00e4gige Ausnahmeregelung in Art. 22 Abs.2 Ziffer a) DSGVO vorverlegt gelten und der Auskunftei eine vollautomatisierte Entscheidung erlaubt bleiben, wenn diese vor dem Hintergrund eines Vertragsabschlusses eines H\u00e4ndlers erfolgt.\r\nDer Entscheidung des EuGH ist nicht zu entnehmen, dass der Anwendungsbereich des Art. 22 DSGVO nicht ganzheitlich auf Auskunfteien ausgedehnt oder etwa im Regelungsbereich aufgespalten werden sollte. Der Entwurf des \u00a7 37a BDSG-E f\u00fchrt jedoch zu eben jener Aufspaltung. Diese ist weder von der DSGVO gedeckt noch vom EuGH vorgesehen, woraus sich die Europarechtswidrigkeit ergibt.\r\nB. \u00c4nderungen m\u00fcssen auf die richtige \u00d6ffnungsklausel gest\u00fctzt und auf Auskunfteien beschr\u00e4nkt werden\r\nIn dem Entwurf wird die nationale Gesetzgebungskompetenz auf die \u00d6ffnungsklausel in Art. 22 Abs.2 Ziffer b) DSGVO gest\u00fctzt. Diese ist aber sehr \u201eeng\u201c, da sie ausschlie\u00dflich die automatisierte Einzelfallentscheidung an sich erfasst. Vor diesem Hintergrund bestehen erhebliche Zweifel, ob die \u00d6ffnungsklausel f\u00fcr die geplante \u00c4nderung verwendet werden darf. Dies gilt insbesondere f\u00fcr die einzuhaltenden \u201emateriellrechtlichen\u201c Voraussetzungen (z.B. keine Nutzung von Anschriftendaten). Diese materiellrechtlichen Voraussetzungen sollen wohl eine Ausformung der \u201eangemessenen Ma\u00dfnahmen zur Wahrung der Rechte und Freiheiten sowie der berechtigten Interessen der betroffenen Person\u201c (Art. 22 Abs.2 Ziffer b) DSGVO) darstellen. Bei den in Art. 22 Abs.2 Ziffer b) DSGVO genannten Ma\u00dfnahmen kann es sich aber lediglich um \u201everfahrensrechtliche\u201c handeln, was sich bereits aus den Vorgaben aus Art. 22 Abs.3 DSGVO ergibt. Nach der Rechtsprechung des EuGH sind materiellrechtliche Vorgaben stets anhand der Vorschrift Art. 6 DSGVO zu messen.\r\nBesser w\u00e4re es aus unserer Sicht, eine Regelung \u2013 sofern man diese \u00fcberhaupt schaffen m\u00f6chte \u2013 auf die \u00d6ffnungsklausel in Art. 23 Abs.1 Ziffer e) DSGVO (allgemeines \u00f6ffentliches Interesse) zu st\u00fctzen. Dies kann aus unserer Sicht rechtssicher erfolgen, wenn man den \u00a7 37a BDSG auf die Datenverarbeitung durch Auskunfteien beschr\u00e4nkt. Hierf\u00fcr m\u00fcsste unter anderem die Regelung in \u00a7 37a Abs.1 Nr.1 BDSG-E gestrichen werden. Dies w\u00e4re logisch konsequent, da im EuGH-Urteil in erster Linie um Datenverarbeitungen durch Auskunfteien geregelt werden.\r\nC. \u00a7 37a Abs.2 BDSG-E muss die Ausnahmetatbest\u00e4nde klar benennen\r\nDie Vorschrift in \u00a7 37a Abs.2 BDSG-E ist von ihrem Wortlaut her nicht eindeutig so zu verstehen, dass diese keine Anwendung findet, wenn Verantwortliche sich auf die Ausnahmetatbest\u00e4nde in Art. 22 Abs.2 Ziffer a) und c) DSGVO berufen k\u00f6nnen. Die Begr\u00fcndung in dem Entwurf ist zwar wohl dahingehend zu verstehen \u2013 die Regelung muss aber eindeutig formuliert sein, um in diesem zentralen Punkt Rechtssicherheit und pr\u00e4zise Anwendungsklarheit zu schaffen.\r\n3\r\n\r\n  D. Anschriftendaten m\u00fcssen f\u00fcr die Betrugspr\u00e4vention genutzt werden d\u00fcrfen\r\nDie Nutzung von Anschriftendaten ist im Rahmen der Betrugspr\u00e4vention essentiell. Es gibt n\u00e4mlich z.B. anonyme Anschriften (gro\u00dfe Wohnbl\u00f6cke, \u00f6ffentliche Einrichtungen, etc.), die es Betr\u00fcgern leichter machen, Bestellbetrug zu begehen.\r\nDass diese Daten im Rahmen der Betrugspr\u00e4vention bzw. bei der Bildung von Betrugsscores genutzt werden d\u00fcrfen, haben die Datenschutzbeh\u00f6rden anerkannt. Die Schaffung von L\u00fccken im Bereich der Betrugspr\u00e4vention l\u00e4uft auch den Verbraucher*inneninteressen zuwider. Versandh\u00e4ndler sind im \u00dcbrigen bereits aus gesetzlichen Gr\u00fcnden dazu verpflichtet, Identit\u00e4tsdiebst\u00e4hle zu vermeiden. Dies ergibt sich aus der Entscheidung des BGH \u201eIdentit\u00e4tsdiebstahl II\u201c. Hierf\u00fcr m\u00fcssen sie die relevanten Daten, zu denen insbesondere auch Anschriftendaten geh\u00f6ren, verarbeiten d\u00fcrfen. Dar\u00fcber hinaus steht die Regelung auch im Widerspruch dazu, dass der Europ\u00e4ische Gesetzgeber im Rahmen der KI-Verordnung ausdr\u00fccklich festgelegt hat, dass der Einsatz von KI zum Zweck der Betrugspr\u00e4vention nicht unter die Kategorie \u201eHochrisiko\u201c f\u00e4llt.\r\nE. Zweckbegrenzung ist europarechtswidrig\r\nDie Zweckbegrenzung in \u00a7 37a Abs.2 Nr.3 b) BDSG-E ist nicht mit den Grunds\u00e4tzen aus Art. 6 Abs.4 DSGVO vereinbar. In der Praxis werden dieselben Datenkategorien vollkommen rechtm\u00e4\u00dfig f\u00fcr eine Vielzahl an Zwecken genutzt.\r\nF. Gesch\u00e4ftsgeheimnisse werden zu weitreichend eingeschr\u00e4nkt\r\n\u00a7 37a Abs.6 BDSG-E soll sich vermutlich auf die Bildung von Scorewerten beziehen. In der aktuellen Formulierung bezieht es sich aber auf die \u201cVerantwortlichen\u201d. Das bedeutet, dass dieser Absatz auch in anderen F\u00e4llen \u2013 die keine Scorewertbildung sind \u2013 Anwendung finden w\u00fcrde, solange der Verantwortliche auch Scorewerte bildet. Ein Unternehmen, das Scorewerte bildet, d\u00fcrfte sich daher auch in anderen F\u00e4llen nicht auf die angedachte Ausnahme f\u00fcr den Schutz von Gesch\u00e4ftsgeheimnissen beziehen. Diese referenziert n\u00e4mlich auf den Verantwortlichen, der Scorewerte bildet und nicht auf die Scorewertbildung an sich.\r\nWas ge\u00e4ndert werden muss:\r\n\u25a0 Den neuen \u00a7 37a auf Auskunfteien beschr\u00e4nken und \u00a7 37a Abs.1 Nr.1 BDSG-E streichen.\r\n\u25a0 \u00a7 37a Abs.2 BDSG-E eindeutig formulieren, damit sich Verantwortliche auf die Ausnahmetatbest\u00e4nde in Art. 22 Abs. 2 a) und c) DSGVO berufen k\u00f6nnen.\r\n\u25a0 Die Nutzung von Daten \u2013 insbesondere Anschriftendaten \u2013 f\u00fcr die Betrugspr\u00e4vention weiter zulassen.\r\n\u25a0 Zweckbegrenzung in \u00a7 37a Abs. 2 Nr.3 b) BDSG-E streichen.\r\n\u25a0 \u00a7 37a Abs 6 BDSG-E umformulieren und auf die Bildung von Scorewerten\r\nbeziehen."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/9c/0b/323798/Stellungnahme-Gutachten-SG2406270042.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-01"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009225",
+                "regulatoryProjectTitle": "KI-Aufsicht sachgerecht gestalten",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "EU AI Act \u2013 Nationale Umsetzung\r\nPosition Zalando\r\n29. Februar 2024\r\nAls kundenzentriertes Unternehmen, das k\u00fcnstliche Intelligenz entwickelt und einsetzt, handelt es sich in einem wesentlichen Teil unserer Anwendungsf\u00e4lle um personenbezogene Daten. Die Aufsicht \u00fcber den Umgang mit diesen Daten liegt derzeit im Zust\u00e4ndigkeitsbereich der Datenschutzaufsichten. Bei der Frage der Aufsicht \u00fcber k\u00fcnstliche Intelligenz besteht daher die Herausforderung in der potenziellen Fragmentierung der Regelungen, sollte die Regulierung bei einer anderen Aufsicht liegen. In diesem Fall besteht die Gefahr unterschiedlicher Rechtsanwendung ansonsten einheitlicher Lebenssachverhalte. Dies wiederum birgt das Risiko von Rechtsunsicherheit und verursacht in der Folge Innovationshemmnisse.\r\nEine konsistente Aufsicht und einheitliche Auslegung sind elementar.\r\nDie Frage der Zust\u00e4ndigkeit f\u00fcr die zuk\u00fcnftige Umsetzung des EU AI Act in Deutschland ist von entscheidender Bedeutung. Dabei geht es um zwei wesentliche k\u00fcnftige Aufgaben: die Kl\u00e4rung rechtlicher Fragen und die Standardsetzung.\r\n1. Kl\u00e4rung rechtlicher Fragen: F\u00fcr die Kl\u00e4rung rechtlicher Fragen w\u00fcrden sich die Datenschutzaufsichten anbieten, die bereits Erfahrung im Bereich der personenbezogenen Daten haben und \u00fcber die erforderliche Expertise verf\u00fcgen. Dar\u00fcber hinaus sind viele Aspekte, die bei k\u00fcnstlicher Intelligenz eine wichtige Rolle spielen \u2013 bspw. Fairness oder Bias \u2013, den Datenschutzaufsichten bereits vertraut. Auch hier besteht bei ihnen bereits Sachkompetenz, die bei anderen Beh\u00f6rden erst aufgebaut werden m\u00fcsste.\r\n2. Standardsetzung: Die Setzung von technischen Standards wird f\u00fcr die erfolgreiche Umsetzung des EU AI Acts elementar sein. Die Standards sollten vollharmonisiert und auch f\u00fcr Beh\u00f6rden verbindlich sein. F\u00fcr die Setzung von Standards (Datenqualit\u00e4t, Trainingsdaten, Erkl\u00e4rbarkeit und Transparenz, Marktbeobachtung usw.) ist eine technisch arbeitende Beh\u00f6rde auf Bundesebene zu bevorzugen, die bestehende (internationale) Standardisierungsgremien beauftragen und mit ihnen zusammenarbeiten kann. Hier k\u00f6nnte sich beispielsweise die Bundesnetzagentur als geeignete Instanz anbieten.\r\n1\r\n Die erfolgreiche Umsetzung des EU AI Act in Deutschland erfordert eine klare Zust\u00e4ndigkeitsregelung und eine konsistente Auslegung \u2013 sowohl des EU AI Acts selbst als auch der ber\u00fchrten Datenschutzbestimmungen. Nur so k\u00f6nnen Rechtsunsicherheit vermieden und Innovationen gef\u00f6rdert werden, w\u00e4hrend gleichzeitig der Schutz personenbezogener Daten gew\u00e4hrleistet wird."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/e4/c0/323800/Stellungnahme-Gutachten-SG2406270043.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                "de": "Bundesministerium der Finanzen (BMF)",
+                                "en": "Bundesministerium der Finanzen (BMF)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-01"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009228",
+                "regulatoryProjectTitle": "EU Verbraucherkreditrichtlinie",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Umsetzung der EU-Richtlinie \u00fcber Verbraucherkredit- vertr\u00e4ge in Deutschland\r\nEinsch\u00e4tzung und Umsetzungsvorschl\u00e4ge von Zalando\r\nNovember 2023\r\nAm 30. Oktober 2023 wurde die EU Richtlinie \u00fcber Verbraucherkreditvertr\u00e4ge1 im EU-Amtsblatt ver\u00f6ffentlicht. Damit wird das europ\u00e4ische Verbraucherkreditrecht weitgehend reformiert und insbesondere in Deutschland der beliebte Rechnungskauf vor neue regulatorische Herausforderungen gestellt. Der deutsche Gesetzgeber hat 24 Monate Zeit die EU Vorgaben umzusetzen und praxistaugliche L\u00f6sungen zu finden, um den Rechnungskauf als sinnvollen Bezahlvorgang auch im E-Commerce zu erhalten.\r\nAuf den Rechnungskauf fanden bislang die Regelungen des Verbraucherkreditrechts richtigerweise keine Anwendung. Dies schien wohl auch grunds\u00e4tzlich weiterhin vom EU-Gesetzgeber intendiert. Dennoch l\u00e4sst der finale EU-Kompromiss vermuten, dass der Rechnungskauf - sogar bei h\u00f6chstens 14 Tagen Zahlungsfrist - nur noch teilweise vom Anwendungsbereich ausgenommen werden bzw. zuk\u00fcnftig einem Verbraucherkreditvertrag entsprechen k\u00f6nnte.\r\nIn diesem Fall m\u00fcssten bei einem Kauf auf Rechnung umfangreiche vorvertragliche Informationen (bei Online-K\u00e4ufen sogar standardm\u00e4\u00dfig in Papierform) dem Kunden vorab zur Verf\u00fcgung gestellt sowie eine Kreditw\u00fcrdigkeitspr\u00fcfung durchgef\u00fchrt werden. Dies stellt H\u00e4ndler und Marktpl\u00e4tze vor enorme Herausforderungen und ist f\u00fcr Kunden umst\u00e4ndlich und nicht nachzuvollziehen.\r\nEine zielgenaue und l\u00f6sungsorientierte Umsetzung der Richtlinie f\u00fcr alle Gesch\u00e4ftsmodelle im E-Commerce ist notwendig, um Wettbewerbsverzerrungen zu vermeiden und die Kundenzufriedenheit zu bewahren. Ansonsten werden unter anderem hybride Marktpl\u00e4tze mit Plattform- und Einzelhandelsgesch\u00e4ft gegen\u00fcber anderen H\u00e4ndlern oder auch BNPL-Anbietern schlechter gestellt.\r\nLangfristig steht zu bef\u00fcrchten, dass H\u00e4ndler und Kunden damit auf andere Bezahlmethoden zur\u00fcckgreifen. Damit stirbt wom\u00f6glich gerade die Bezahlmethode aus, die verbraucherorientiert und risikofrei eine Begleichung mit Erhalt der Ware vorsieht. \u201cConvenience\u201d f\u00fcr den Verbraucher geht in erh\u00f6htem Ma\u00dfe verloren. H\u00e4ndler werden gezwungen, vermehrt auf Drittanbieter zur Zahlungsabwicklung zur\u00fcckzugreifen, anstatt eigene L\u00f6sungen anzubieten, die auf den jeweiligen H\u00e4ndler oder Marktplatz abgestimmt sind und damit die gr\u00f6\u00dfte \u201cConvenience\u201d und den h\u00f6chsten Sicherheitsstandard gew\u00e4hren k\u00f6nnen. Weniger Wettbewerb im Markt f\u00fcr Zahlungs- und Finanzierungsm\u00f6glichkeiten d\u00fcrfte dann zwangsl\u00e4ufig zu einer h\u00f6heren Kostenlast f\u00fcr Verbraucher und H\u00e4ndler gleicherma\u00dfen f\u00fchren.\r\nAufgrund dieser weitreichenden und f\u00fcr den Online-Handel nicht zu untersch\u00e4tzenden Auswirkungen nimmt Zalando im Folgenden Stellung zur Umsetzung der EU-Verbraucherkreditvertragsrichtlinie und bittet den Gesetzgeber um f\u00fcr die Praxis\r\n1 https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:L_202302225 1\r\n  \r\n zielf\u00fchrende Ber\u00fccksichtigung, um den Rechnungskauf als beliebte Zahlungsabwicklung f\u00fcr H\u00e4ndler und Kunden in Deutschland nachhaltig zu erhalten.\r\nZalando SE und Zalando Payments GmbH\r\nZalando ist eine der f\u00fchrenden Online-Destinationen f\u00fcr Mode und Lifestyle in Europa. Im Jahr 2008 in Berlin gegr\u00fcndet, bietet Zalando heute mehr als 50 Millionen aktiven Kund*innen in 25 L\u00e4ndern Produkte aus den Bereichen Bekleidung, Schuhe, Accessoires und Kosmetik.\r\nF\u00fcr Zalando war die Zahlungsabwicklung seit Gr\u00fcndung 2008 ein wesentlicher Treiber f\u00fcr die Kundenzufriedenheit, das Wachstum und die Rentabilit\u00e4t. Um Kunden ein echtes \u201eUmkleidezimmer-Erlebnis zu Hause\u201c zu bieten, wurden die kostenlose Lieferung und kostenlose R\u00fccksendungen durch den in Deutschland \u00fcblichen und beliebten Kauf auf Rechnung erg\u00e4nzt. Mit der Entwicklung des kuratierten Plattformdienstes Zalando Partner Program, wurden die regulatorischen H\u00fcrden h\u00f6her um dasselbe Angebot gegen\u00fcber Partnern (H\u00e4ndlern, die \u00fcber die Zalando Plattform verkaufen) und Kunden zu bieten, den sie vom Direktkauf bei Zalando gewohnt sind. 2016 wurde die Zalando Payments GmbH (ZPS) als hundertprozentige Tochtergesellschaft der Zalando SE gegr\u00fcndet. Diese erhielt im Fr\u00fchjahr 2019 eine E-Geld-Lizenz von der deutschen Finanzaufsicht BaFin.\r\nHeute bietet Zalando in 25 L\u00e4ndern verteilt 20 verschiedene Zalandungsoptionen an. Beliebt im deutschsprachigen Raum ist dabei weiterhin der Kauf auf Rechnung: Der offene Betrag ist innerhalb von 14 Tagen nach der Versandbest\u00e4tigung f\u00e4llig. Es werden keine zus\u00e4tzlichen Geb\u00fchren oder Zinsen f\u00e4llig. Ratenkauf wird weder \u00fcber Zalando selbst noch \u00fcber ZPS angeboten.\r\nDieser Kauf auf Rechnung wie Zalando ihn anbietet (zins- und geb\u00fchrenfreie Zahlung erst nach Erhalt der Ware innerhalb von 14 Tagen ab Versandbest\u00e4tigung) erm\u00f6glicht Verbrauchern ein bequemes Einkaufen im Online-Handel: schnell (keine Angabe von Zahlungsmittelinformationen), sicher (Zahlung erst mit Erhalt der Ware) und liquidit\u00e4tsschonend (kein Bezahlen in der Zahlungsfrist retournierter Ware). H\u00e4ndlern bietet der Rechnungskauf eine Zahlungsart mit hoher Conversion-Rate2 und ohne die kostenintensive Einbindung und Abh\u00e4ngigkeit weiterer Drittanbieter.\r\nF\u00fcr die Zahlungsabwicklung innerhalb der Unternehmensgruppe erwirbt die Zalando Payments GmbH die Zahlungsforderung der Zalando SE bzw. der Partner, die \u00fcber die Plattform verkaufen, gegen den Kunden. Wie bereits erw\u00e4hnt, ist die 100 prozentige Zalando Tochter Zalando Payments GmbH ein von der Aufsichtsbeh\u00f6rde BaFin reguliertes E-Geld-Institut. Damit werden in h\u00f6chstm\u00f6glichem Ma\u00df der Verbraucherschutz, die Finanzstabilit\u00e4t, die Sicherung von entgegengenommenen Geldbetr\u00e4gen und die Einhaltung geltender Gesetze und Vorschriften gew\u00e4hrleistet. Der Beantragungssprozess beinhaltet die Bereitstellung detaillierter Informationen \u00fcber die Eigent\u00fcmerstruktur, das Gesch\u00e4ftsmodell, die Risikomanagementpraktiken, Absicherung und die Verbraucherschutzma\u00dfnahmen des Unternehmens. Ferner erfolgen regelm\u00e4\u00dfig\r\n2 Verh\u00e4ltnis von Besuchern eines Onlineshops zu der Anzahl get\u00e4tigter K\u00e4ufe. 2\r\n  \r\n strenge Audits. Ein f\u00fcr Verbraucher entscheidender Vorteil sind die strengen Sicherungsanforderungen f\u00fcr die Entgegennahme von Geldbetr\u00e4gen.\r\nIm Gegensatz zu einer Zahlungsabwicklung \u00fcber einen externen Dienstleister oder Drittanbieter, bleibt der Kauf auf Rechnung \u00fcber die Zalando Webseite zu jedem Zeitpunkt in der Verantwortung der Zalando Unternehmensgruppe.\r\nEU Richtlinie: Kreditvertrag, Rechnungskauf und BNPL (\u00fcber Drittanbieter)\r\nDie neue EU Richtlinie \u00fcber Verbraucherkreditvertr\u00e4ge wurde getrieben von dem politischen Ziel, sogenannte \u201cBuy now pay later\u201d (BNPL) Produkte in den Anwendungsbereich aufzunehmen. Ausgeschlossen von der Richtlinie werden sollten weiterhin \u201cKreditvertr\u00e4ge, die die unentgeltliche Stundung einer bestehenden Forderung zum Gegenstand haben\u201d3. Diese Umschreibung eines Zahlungsaufschubs (\u201cdeferred payment\u201d) entspricht dem Rechnungskauf und sollte diesen entsprechend sch\u00fctzen. Der finale Gesetzestext gem. Artikel 2 Abs. 2 h) der Richtlinie ist jedoch in einigen Teilen unklar, so dass es auf den deutschen Gesetzgeber ankommt, eine rechtssichere Anwendung zu gew\u00e4hrleisten.\r\nWirtschaftlich gesehen kann der Rechnungskauf aufgrund seiner Zinsfreiheit und der Vereinbarung kurzer Zahlungsziele keinem Kreditvertrag gleichgesetzt werden. Vielmehr sch\u00fctzt das verl\u00e4ngerte und dennoch sehr kurze Zahlungsziel den Verbraucher vor den besonderen Nachteilen des Fernabsatzkaufs und Vorauszahlung f\u00fcr Ware, die noch geliefert wird oder im Fall von Retouren oder Schlecht-/Falschlieferung vor unn\u00f6tigen Zahlungen und R\u00fcckbuchungen.\r\nDurch den Rechnungskauf kann der Verbraucher erst bezahlen, wenn ein Artikel oder eine Dienstleistung in Empfang genommen und angenommen wurde. Gleichzeitig entstehen keine einem Kreditvertrag entsprechenden Risiken f\u00fcr Verbraucher, insbesondere das Risiko einer \u00dcberschuldung durch Aufbau einer Vielzahl parallel und lang laufender Zinsverpflichtungen, denn beim Rechnungskauf, wie Zalando ihn anbietet, ist die Zahlung innerhalb von 14 Tagen f\u00e4llig. Ferner unterliegen alle Verk\u00e4ufe Risikomanagementprozessen, um sowohl Zalando-H\u00e4ndler als auch Kunden vor Zahlungsausf\u00e4llen sowie \u00dcberschuldung zu sch\u00fctzen.\r\nDer EU-Gesetzgeber hat diese Argumente anerkannt und f\u00fcr gro\u00dfe H\u00e4ndler den Rechnungskauf mit Zahlungsziel bis zu 14 Tagen von der Verbraucherkreditrichtlinie ausgeschlossen (Artikel 2 Abs. 2h der Richtlinie). Fraglich ist jedoch, ob die gleichen Bedingungen auch H\u00e4ndler mit eigener Zahlungsabwicklungsgesellschaft oder f\u00fcr Marktpl\u00e4tze gelten. Denn von einem Rechnungskauf sei nur auszugehen, \"ohne dass ein Dritter Kredit anbietet\" bzw. \"ein Dritter bietet weder einen Kredit an noch erwirbt ein Dritter einen Zahlungsanspruch.\u201d Dabei ist nicht klar, welche F\u00e4lle mit der Einbindung von Dritten in die Zahlungsabwicklung des Rechnungskauf gemeint sind und wer Gl\u00e4ubiger im Fall des Marktplatzmodells ist.\r\n3 Artikel 2, Abs. 2, g) Vorschlag der EU Kommission vom 30.06.2021 f\u00fcr eine Richtlinie \u00fcber Verbraucherkreditvertr\u00e4ge, SEC(2021) 281 final\r\n  3\r\n\r\n Unseres Erachtens sollte hier auf die Intention des Gesetzgebers abgestellt werden, die sich aus den Erw\u00e4gungsgr\u00fcnden 16 und 17 ergeben: Ein Zahlungsaufschub sollte nicht in den Anwendungsbereich fallen, sondern vielmehr nur BNPL-Produkte, bei denen es sich um \u201cneue digitale Finanzinstrumente\u201d handelt. Ein Rechnungskauf, der in der H\u00e4ndler-Unternehmensgruppe oder \u00fcber den Marktplatz, auf dem auch verkauft wird, abgewickelt wird, stellt kein solches neues Finanzierungsinstrument dar. Vielmehr handelt es sich um eine jahrzehntealte Zahlmethode des Versandhandels und Fernabsatzes.\r\nDer Kauf auf Rechnung bei Zalando kann auch nicht, wie bei Drittanbietern, in einen Ratenkauf umgewandelt werden und wird nicht automatisch abgebucht, sondern verlangt vielmehr ein Ausl\u00f6sen der Bezahlung.4 Weiterhin ist es bei gro\u00dfen H\u00e4ndlern und Marktpl\u00e4tzen die Konsequenz regulatorischer Auflagen, die Zahlungsabwicklung innerhalb einer eigenst\u00e4ndigen Rechtsform zu organisieren. Die gesamte Abwicklung bleibt in der Unternehmensgruppe des H\u00e4ndlers/Marktplatzes bzw. ultimativ beim H\u00e4ndler (SE als Muttergesellschaft).\r\nEin \u201cDritter\u201d gem. Artikel 2 Abs. 2h sollte insofern als \u201cDrittanbieter\u201d zu verstehen sein, der nicht organisatorisch und gesellschaftsrechtlich in die H\u00e4ndlergruppe oder den Marktplatz integriert ist. Andernfalls drohen starke Wettbewerbsverzerrungen. H\u00e4ndler, die den Rechnungskauf \u00fcber die (durch die Payment Services Directive 2 regulatorisch erforderliche) Einbindung eines Zahlungsdienstleisters abwickeln, w\u00fcrden ansonsten schlechter gestellt gegen\u00fcber H\u00e4ndlern, die Rechnungen stellen. Es ist kein sachlicher Grund erkennbar, weshalb f\u00fcr einen gro\u00dfen Einzelh\u00e4ndler und einen Zahlungsdienstleister, der die Forderungsabwicklung anderer H\u00e4ndler aufgrund einer regulatorischen Anforderung aggregiert (insbesondere auf einer Plattform), unterschiedliche Regelungen gelten sollten. Durch die Beaufsichtigung des Zahlungsdienstleisters durch die Aufsichtsbeh\u00f6rde BaFin k\u00f6nnen vielmehr ein h\u00f6chstm\u00f6gliches Ma\u00df an Verbraucherschutz, Finanzstabilit\u00e4t, Sicherung der entgegengenommenen Gelder und die Einhaltung geltender Gesetze und Vorschriften gew\u00e4hrleistet werden.\r\nBei unterschiedlicher Anwendung unter H\u00e4ndlern mit eigener Zahlungsgesellschaft und Marktpl\u00e4tzen w\u00e4re zudem f\u00fcr den Verbraucher nicht erkennbar und erkl\u00e4rbar, wann er bei welchem H\u00e4ndler online einen Kauf auf Rechnung oder einen Verbraucherkreditvertrag abschlie\u00dft und welche Rechte und Pflichten sich daraus ergeben. Zum Beispiel w\u00fcrde bei einem der EU-Richtlinie unterfallenden Rechnungskauf das Verbraucherkredit Widerrufsrecht gelten - im Gegensatz zu dem Fernabsatz Widerrufsrecht, welches andere Belehrungen und Fristen beinhaltet.\r\nSollten Rechnungsk\u00e4ufe bei Marktpl\u00e4tzen und H\u00e4ndlern mit eigener Zahlungsgesellschaft als Verbraucherkreditvertr\u00e4ge gewertet werden, drohen deutliche Wettbewerbsverzerrungen. Zum Einen werden diese Gesch\u00e4ftsmodelle gegen\u00fcber Wettbewerbern benachteiligt, die weiterhin g\u00fcnstig einen Kauf auf Rechnung anbieten k\u00f6nnen, den Verbraucher ohne die zus\u00e4tzlichen Auflagen der Informationen und Kreditpr\u00fcfung auch gerne weiterhin nutzen, w\u00e4hrend sie von einem Kauf auf Rechnung\r\n4 So auch die Verbraucherzentrale: https://www.verbraucherzentrale.de/wissen/digitale-welt/onlinedienste/buy-now-pay-later-schuldenf alle-oder-moderner-rechnungskauf-75599#:~:text=%E2%80%9EBuy%20now%2C%20pay%20later %E2%80%9C%20steht%20f%C3%BCr%20die%20M%C3%B6glichkeit%2C,%C3%BCblich%20in %20Raten%20aufteilen%20k%C3%B6nnen.\r\n  4\r\n\r\nbei Marktpl\u00e4tzen abgeschreckt werden und wiederum auf andere f\u00fcr den Marktplatz kostenintensiven Bezahlmethoden \u00fcber Drittanbieter ausweichen.\r\nZum Anderen werden diese Gesch\u00e4ftsmodelle aber auch gegen\u00fcber BNPL Anbietern schlechter gestellt. Denn im Gegensatz zum Marktplatz, bei dem mit jeder Bestellung die Kreditpr\u00fcfung und Informationswarnung erfolgen m\u00fcsste, wird es bei BNPL Anbietern \u00fcber die \u201cWallet-L\u00f6sung\u201d nur einmal bei Einrichten des BNPL-Kontos erfolgen. Damit sind die H\u00fcrden und Abschreckung des Rechnungskaufs f\u00fcr Kunden auf Marktpl\u00e4tzen so hoch, dass er nicht mehr genutzt und angeboten wird - w\u00e4hrend Wettbewerber ohne Zahlungsgesellschaft ihn wie bislang anbieten und BNPL-Anbieter an Zulauf gewinnen.\r\nPetitum:\r\n\u27a2 Die Erw\u00e4gungsgr\u00fcnde der Richtlinie geben klar vor, dass Verbraucher weiterhin die M\u00f6glichkeit haben sollen, innerhalb von 14 Tagen ohne (Zins)Kosten unkompliziert \u201eauf Rechnung\u201c kaufen zu k\u00f6nnen. Dies gilt auch, wenn der Rechnungskauf durch gro\u00dfe oder sehr gro\u00dfe H\u00e4ndler angeboten wird. Klargestellt werden sollte, dass dazu H\u00e4ndler geh\u00f6ren, die unternehmensintern Zahlungen ohne externe Dienstleister abwickeln.\r\n\u27a2 Platform- oder Marktplatzmodelle bzw. H\u00e4ndler, die \u00fcber solche Vertriebsm\u00f6glichkeiten verkaufen, sollten entsprechend gleichlautend behandelt werden.\r\n\u27a2 Im Umsetzungsgesetz sollten klarstellende Ausnahmen aufgenommen werden, dass die in der Richtlinie f\u00fcr \u201eZahlungsaufsch\u00fcbe\u201c vorgegebenen Einschr\u00e4nkungen hinsichtlich Dritter (\"ohne dass ein Dritter Kredit anbietet\" / \"ein Dritter bietet weder einen Kredit an noch erwirbt ein Dritter einen Zahlungsanspruch\") nur greifen, soweit dieser Dritte f\u00fcr die betroffene Forderung auch eine \u2013 kostenpflichtige \u2013 Kreditierung anbietet.\r\n\u27a2 Artikel 2 Abs. 8 gew\u00e4hrt den Mitgliedstaaten entscheidenden Spielraum, bestimmte Vorschriften der Richtlinie u.a. auf zins- und geb\u00fchrenfreie Kreditvertr\u00e4ge nicht umzusetzen. Um der Bedeutung und Vorteile des Rechnungskaufs f\u00fcr den Handel gerecht zu werden, sollte Deutschland von diesem Recht Gebrauch machen."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

@@ -1,0 +1,218 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-03-01T17:07:00.000+01:00",
+                "untilDate": "2023-06-12T16:31:27.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-01T17:07:00.000+01:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2023-06-12T16:31:27.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2022-11-11T13:08:54.000+01:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2023-06-12T16:31:27.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 13071,
+                "validFromDate": "2022-11-11T13:08:54.000+01:00",
+                "version": 3,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 7890,
+                "validFromDate": "2022-04-27T17:12:35.000+02:00",
+                "validUntilDate": "2022-11-11T13:08:54.000+01:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 2021,
+                "validFromDate": "2022-03-01T17:07:00.000+01:00",
+                "validUntilDate": "2022-04-27T17:12:35.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_CONSULTING",
+            "de": "Beratungsunternehmen, selbst\u00e4ndige Beraterin oder selbst\u00e4ndiger Berater",
+            "en": "Consulting company, independent consultant"
+        },
+        "activityDescription": "Organisation von Ausstellungen f\u00fcr Landesparteien/ politische Institutionen und Organisation von Informationsst\u00e4nden f\u00fcr Unternehmen/ Institutionen auf politischen Veranstaltungen.\r\nRedaktion und Produktion von Publikationen.",
+        "activityOperationType": "BOTH",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "clientIdentity": {
+        "clientOrganizations": [
+            {
+                "address": {
+                    "city": "Bonn",
+                    "country": {
+                        "code": "DE",
+                        "de": "Deutschland",
+                        "en": "Germany"
+                    },
+                    "nationalAdditional1": "Deutsche Post AG",
+                    "nationalAdditional2": "Zentrale",
+                    "street": "Charles-de-Gaulle-Str.",
+                    "streetNumber": "20",
+                    "type": "NATIONAL",
+                    "zipCode": "53113"
+                },
+                "contactDetails": {
+                    "emails": [
+                        {
+                            "email": "lobbyregistermail@dpdhl.com"
+                        }
+                    ],
+                    "phoneNumber": "+492281820",
+                    "websites": [
+                        {
+                            "website": "www.deutschepost.de"
+                        }
+                    ]
+                },
+                "legalForm": {
+                    "code": "LF_AG",
+                    "de": "Aktiengesellschaft (AG)",
+                    "en": "Stock company (AG)"
+                },
+                "legalFormType": {
+                    "code": "JURISTIC_PERSON",
+                    "de": "Juristische Person",
+                    "en": "Legal person"
+                },
+                "legalRepresentatives": [
+                    {
+                        "academicDegreeBefore": "Dr.",
+                        "commonFirstName": "Frank",
+                        "emails": [
+                            {
+                                "email": "lobbyregistermail@dpdhl.com"
+                            }
+                        ],
+                        "function": "Vorstandsvorsitzender",
+                        "lastName": "Appel",
+                        "phoneNumber": "+492281820"
+                    }
+                ],
+                "name": "Deutsche Post AG"
+            },
+            {
+                "referenceDetailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001114",
+                "referenceName": "Deutsche Post AG"
+            }
+        ],
+        "clientsPresent": true
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2021-12",
+        "fiscalYearStart": "2021-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 20001,
+            "to": 30000
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2021-12",
+        "fiscalYearStart": "2021-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "academicDegreeBefore": "Dipl. P\u00e4d.",
+        "commonFirstName": "Reiner",
+        "identity": "NATURAL",
+        "lastName": "Lehmann"
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2021-12",
+        "fiscalYearStart": "2021-01",
+        "publicAllowancesPresent": false,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2022-11-11T13:08:54.000+01:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002511/13071",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/bf/15/186386/Lobbyregister-Detailansicht-R002511-2022-11-11_13-08-54.pdf",
+        "refusedAnything": false,
+        "validFromDate": "2022-11-11T13:08:54.000+01:00",
+        "version": 3
+    },
+    "registerEntryId": 13071,
+    "registerNumber": "R002511"
+}

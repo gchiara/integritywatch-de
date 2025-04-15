@@ -1,0 +1,197 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-07-01T12:52:46.000+02:00",
+                "untilDate": "2024-07-02T00:11:46.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-05-06T10:03:38.000+02:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-07-02T00:11:46.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2023-06-12T10:19:13.000+02:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2024-07-02T00:11:46.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 21399,
+                "validFromDate": "2023-06-12T10:19:13.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 9932,
+                "validFromDate": "2022-07-01T12:52:46.000+02:00",
+                "validUntilDate": "2023-06-12T10:19:13.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION",
+            "de": "Unternehmen",
+            "en": "Company"
+        },
+        "activityDescription": "Gegenstand der Genossenschaft ist die gemeinschaftliche Entwicklung von Software f\u00fcr die Abrechnung von aus Apotheken belieferten Arznei- und Hilfsmittelrezepte sowie alle damit im Zusammenhang stehenden Services und Wertsch\u00f6pfungsprozesse. \r\n\r\nDie ARZsoftware hat sich daher zum Ziel gesetzt, gemeinsam mit den Mitgliedsorganisationen der Apothekerschaft, sowie den Apotheken - Warenwirtschaftssystemanbietern an zukunftsorientierten technologischen L\u00f6sungen f\u00fcr die Apotheke zu arbeiten und daf\u00fcr die \u00f6ffentlichen politischen Entscheidungsprozesses zu unterst\u00fctzen.",
+        "activityOperationType": "SELF_OPERATED",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ECONOMY_ECOMMERCE",
+                "de": "E-Commerce",
+                "en": "E-commerce"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_HEALTH_MEDICINE",
+                "de": "Arzneimittel",
+                "en": "Medicine"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "annualReports": {
+        "annualReportExists": false,
+        "disclosureRequirementsExist": true
+    },
+    "clientIdentity": {
+        "clientsPresent": false
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2021-12",
+        "fiscalYearStart": "2021-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2021-12",
+        "fiscalYearStart": "2021-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Neu-Isenburg",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Hermannstr.",
+            "streetNumber": "54 -56",
+            "type": "NATIONAL",
+            "zipCode": "63263"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "m.doerr@arzsoftware.de"
+                }
+            ],
+            "phoneNumber": "+4969380977301",
+            "websites": [
+                {
+                    "website": "https://www.arzsoftware.de"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EG",
+            "de": "Eingetragene Genossenschaft (eG)",
+            "en": "Registered cooperative (eG)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Michael",
+                "emails": [
+                    {
+                        "email": "m.doerr@arzsoftware.de"
+                    }
+                ],
+                "function": "Vorstand",
+                "lastName": "D\u00f6rr",
+                "phoneNumber": "+4969380977301"
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2022-04-01",
+            "totalCount": 7
+        },
+        "membersPresent": true,
+        "membershipsPresent": false,
+        "name": "ARZsoftware",
+        "namedEmployeesPresent": false
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2021-12",
+        "fiscalYearStart": "2021-01",
+        "publicAllowancesPresent": false,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-06-12T10:19:13.000+02:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R004456/21399",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/0b/7e/212804/Lobbyregister-Detailansicht-R004456-2023-06-12_10-19-13.pdf",
+        "refusedAnything": false,
+        "validFromDate": "2023-06-12T10:19:13.000+02:00",
+        "version": 3
+    },
+    "registerEntryId": 21399,
+    "registerNumber": "R004456"
+}

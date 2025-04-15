@@ -1,0 +1,630 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-02-25T14:30:29.000+01:00",
+                "untilDate": "2024-07-02T00:40:41.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-25T14:30:29.000+01:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-07-02T00:40:41.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2024-02-13T09:41:22.000+01:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2024-07-02T00:40:41.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 28681,
+                "validFromDate": "2024-02-13T09:41:22.000+01:00",
+                "version": 8,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 28436,
+                "validFromDate": "2024-01-23T11:31:57.000+01:00",
+                "validUntilDate": "2024-02-13T09:41:22.000+01:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 28410,
+                "validFromDate": "2024-01-23T11:07:44.000+01:00",
+                "validUntilDate": "2024-01-23T11:31:57.000+01:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25942,
+                "validFromDate": "2023-10-02T11:04:48.000+02:00",
+                "validUntilDate": "2024-01-23T11:07:44.000+01:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25474,
+                "validFromDate": "2023-09-08T09:06:53.000+02:00",
+                "validUntilDate": "2023-10-02T11:04:48.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17053,
+                "validFromDate": "2023-03-14T13:51:13.000+01:00",
+                "validUntilDate": "2023-09-08T09:06:53.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17048,
+                "validFromDate": "2023-02-23T12:27:45.000+01:00",
+                "validUntilDate": "2023-03-14T13:51:13.000+01:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 1263,
+                "validFromDate": "2022-02-25T14:30:29.000+01:00",
+                "validUntilDate": "2023-02-23T12:27:45.000+01:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PROFESSION_ASSOC",
+            "de": "Berufsverband",
+            "en": "Professional association"
+        },
+        "activityDescription": "- Die Belange der Land- und Forstwirtschaft und des l\u00e4ndlichen Raumes in der Gesellschaft und in der \u00d6ffentlichkeit sowie gegen\u00fcber Parlament und Regierung, auch durch die Herausgabe von Verbandsbl\u00e4ttern, zu vertreten\r\n- Bildung und Ausbildung der Jugend sowie Ausbau und F\u00f6rderung der Erwachsenenbildung durch Schaffung oder Unterhaltung geeigneter Schulungseinrichtungen.\r\n- F\u00f6rderung und Unterst\u00fctzung der berufsst\u00e4ndischen Landfrauenarbeit einschlie\u00dflich der Landfrauenerholung.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_OTHER",
+                "de": "Sonstiges im Bereich \"Verkehr\"",
+                "en": "Other in the field of \"Transportation\""
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_LAS_TOURISM",
+                "de": "Tourismus",
+                "en": "Tourism"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_SS_LONGTERM",
+                "de": "Pflegeversicherung",
+                "en": "Long term care"
+            },
+            {
+                "code": "FOI_SS_OLD_AGE",
+                "de": "Rente/Alterssicherung",
+                "en": "Old-age insurance"
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_SS_HEALTH",
+                "de": "Krankenversicherung",
+                "en": "Health insurance"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_MEDIA_COPYRIGHT",
+                "de": "Urheberrecht",
+                "en": "Copyright"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_SS_ACCIDENT",
+                "de": "Unfallversicherung",
+                "en": "Accident insurance"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_AF_FOOD_SAFETY",
+                "de": "Lebensmittelsicherheit",
+                "en": "Food safety"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_AF_AQUACULTURE",
+                "de": "Fischerei/Aquakultur",
+                "en": "Fishery/aquaculture"
+            },
+            {
+                "code": "FOI_RP_OTHER",
+                "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                "en": "Other in the field of \"Spatial planning, construction and housing\""
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "annualReports": {
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": true
+    },
+    "clientIdentity": {
+        "clientsPresent": false
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "refuseDonatorsInformation": true
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 31,
+            "to": 40
+        }
+    },
+    "financialExpenses": {
+        "refuseFinancialExpensesInformation": true
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Stuttgart",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Bopserstra\u00dfe",
+            "streetNumber": "17",
+            "type": "NATIONAL",
+            "zipCode": "70180"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "lbv@lbv-bw.de"
+                }
+            ],
+            "phoneNumber": "+4971121400",
+            "websites": [
+                {
+                    "website": "www.lbv-bw.de"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Joachim",
+                "emails": [
+                    {
+                        "email": "lbv@lbv-bw.de"
+                    }
+                ],
+                "function": "Pr\u00e4sident",
+                "lastName": "Rukwied",
+                "phoneNumber": "+4971121400"
+            },
+            {
+                "commonFirstName": "Hans-Benno",
+                "emails": [
+                    {
+                        "email": "lbv@lbv-bw.de"
+                    }
+                ],
+                "function": "Vizepr\u00e4sident",
+                "lastName": "Wichert",
+                "phoneNumber": "+4971121400"
+            },
+            {
+                "commonFirstName": "Roswitha ",
+                "emails": [
+                    {
+                        "email": "lbv@lbv-bw.de"
+                    }
+                ],
+                "function": "Vizepr\u00e4sidentin",
+                "lastName": "Geyer-F\u00e4\u00dfler",
+                "phoneNumber": "+4971121400"
+            },
+            {
+                "commonFirstName": "J\u00fcrgen",
+                "emails": [
+                    {
+                        "email": "lbv@lbv-bw.de"
+                    }
+                ],
+                "function": "Vizepr\u00e4sident",
+                "lastName": "Maurer",
+                "phoneNumber": "+4971121400"
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-01-01",
+            "totalCount": 29774
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Deutscher Bauernverband"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Landesbauernverband in Baden-W\u00fcrttemberg e.V.",
+        "namedEmployees": [
+            {
+                "commonFirstName": "Marco ",
+                "lastName": "Eberle"
+            },
+            {
+                "commonFirstName": "Heiko",
+                "lastName": "Strunk"
+            },
+            {
+                "commonFirstName": "Horst",
+                "lastName": "Wenk"
+            },
+            {
+                "commonFirstName": "Kathrin",
+                "lastName": "Weik"
+            },
+            {
+                "commonFirstName": "Julia",
+                "lastName": "Kottler"
+            },
+            {
+                "commonFirstName": "Michael",
+                "lastName": "Schulz"
+            },
+            {
+                "commonFirstName": "Dieter",
+                "lastName": "Seyda"
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Dominik",
+                "lastName": "Modrzejewski"
+            },
+            {
+                "commonFirstName": "Elisabeth",
+                "lastName": "B\u00f6hnlein"
+            },
+            {
+                "commonFirstName": "Ina",
+                "lastName": "Jungbluth"
+            },
+            {
+                "commonFirstName": "Michelle",
+                "lastName": "Lumpe"
+            },
+            {
+                "commonFirstName": "Andrea",
+                "lastName": "Bauer"
+            },
+            {
+                "commonFirstName": "Manfred",
+                "lastName": "Oetzel"
+            },
+            {
+                "commonFirstName": "Mirjam",
+                "lastName": "Schumacher"
+            },
+            {
+                "commonFirstName": "Sandra",
+                "lastName": "Stephan"
+            },
+            {
+                "commonFirstName": "Andreas",
+                "lastName": "Kn\u00e4uer"
+            },
+            {
+                "commonFirstName": "Patrizia",
+                "lastName": "B\u00fcttner"
+            },
+            {
+                "commonFirstName": "Lisa",
+                "lastName": "Guth"
+            },
+            {
+                "commonFirstName": "Helmut",
+                "lastName": "Bleher"
+            },
+            {
+                "commonFirstName": "Rolf",
+                "lastName": "Berger"
+            },
+            {
+                "commonFirstName": "Andreas",
+                "lastName": "Sigmund"
+            },
+            {
+                "commonFirstName": "Stefan",
+                "lastName": "Fr\u00f6ber"
+            },
+            {
+                "commonFirstName": "Johannes",
+                "lastName": "Strauss"
+            },
+            {
+                "commonFirstName": "Jan",
+                "lastName": "Schwarting"
+            },
+            {
+                "commonFirstName": "Niklas",
+                "lastName": "Kreeb"
+            },
+            {
+                "commonFirstName": "Thomas",
+                "lastName": "Pfeifle"
+            },
+            {
+                "commonFirstName": "Andreas ",
+                "lastName": "Braig"
+            },
+            {
+                "commonFirstName": "Luzie",
+                "lastName": "Bitterich"
+            },
+            {
+                "commonFirstName": "Martina",
+                "lastName": "Krattenmacher"
+            },
+            {
+                "academicDegreeAfter": "LL.M",
+                "commonFirstName": "Chris",
+                "lastName": "Wagner"
+            },
+            {
+                "commonFirstName": "Rainer",
+                "lastName": "Koch"
+            },
+            {
+                "academicDegreeAfter": "B.Sc.",
+                "commonFirstName": "Sylvia",
+                "lastName": "Ewers"
+            },
+            {
+                "commonFirstName": "Ann-Kathrin",
+                "lastName": "Brodbeck"
+            }
+        ],
+        "namedEmployeesPresent": true
+    },
+    "publicAllowances": {
+        "refusePublicAllowancesInformation": true
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2024-02-13T09:41:22.000+01:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001651/28681",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/aa/ab/256233/Lobbyregister-Detailansicht-R001651-2024-02-13_09-41-22.pdf",
+        "refusedAnything": true,
+        "validFromDate": "2024-02-13T09:41:22.000+01:00",
+        "version": 8
+    },
+    "registerEntryId": 28681,
+    "registerNumber": "R001651"
+}

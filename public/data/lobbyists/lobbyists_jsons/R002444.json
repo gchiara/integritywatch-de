@@ -1,0 +1,631 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-28T15:20:01.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-01T12:45:48.000+01:00",
+        "lastUpdateDate": "2024-06-25T15:43:06.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 36318,
+                "validFromDate": "2024-06-25T15:43:06.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16964,
+                "validFromDate": "2023-02-28T15:20:01.000+01:00",
+                "validUntilDate": "2024-06-25T15:43:06.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_CONSULTING",
+            "de": "Beratungsunternehmen, selbst\u00e4ndige Beraterin oder selbst\u00e4ndiger Berater",
+            "en": "Consulting company, independent consultant"
+        },
+        "activityDescription": "Die Industrieanlagen-Betriebsgesellschaft mbH wurde 1961 auf Initiative der Bundesrepublik Deutschland als zentrale Analyse- und Testeinrichtung f\u00fcr die Luftfahrt und das Verteidigungsministerium gegr\u00fcndet. Die IABG wurde 1993 privatisiert und ist heute ein eigent\u00fcmergef\u00fchrtes europ\u00e4isches Technologie-Unternehmen mit den Kernkompetenzen Analyse, Simulation und Test und Anlagenbetrieb. Der Begriff Sicherheit bildet dabei das thematische Dach des Portfolios: Funktionssicherheit neu entwickelter High-Tech-Produkte und Verkehrssysteme (Safety) sowie Sicherheit von Staat, Wirtschaft und Gesellschaft (Security). In diesem Kontext erbringt die IABG technisch-wissenschaftliche Dienstleistungen f\u00fcr private und \u00f6ffentliche Kunden in den Hauptgesch\u00e4ftsfeldern:\r\n\r\n- Automotive\r\n- InfoKom\r\n- Mobilit\u00e4t & Energie\r\n- Umwelt & Geodaten Services\r\n- Luftfahrt\r\n- Raumfahrt\r\n- Verteidigung & Sicherheit\r\n- Innovation\r\n\r\nDie IABG besch\u00e4ftigt rund 1.100 hochqualifizierte Mitarbeiter am Stammsitz in Ottobrunn sowie in kundennahen inl\u00e4ndischen und ausl\u00e4ndischen Niederlassungen. Die IABG ist konzernunabh\u00e4ngig und produktneutral und vertritt, oftmals bewertend t\u00e4tig, ausschlie\u00dflich die Interessen ihrer Kunden. Die Kundenstruktur setzt sich im Wesentlichen zusammen aus renommierten Industrieunternehmen (Hersteller von Luft- und Raumfahrtsystemen, von Automobilen und deren Zulieferer) sowie aus wichtigen Bundesministerien (z.B. Bundesministerium der Verteidigung) und verschiedenen L\u00e4nderministerien (hier insbesondere Ministerien des Innern).\r\n\r\nZum Zwecke der Interessenvertretung werden Gespr\u00e4che mit Vertreterinnen und Vertretern des Bundeskanzleramtes und der Bundesministerien sowie mit Mitgliedern des Deutschen Bundestages gef\u00fchrt. Ziel ist es, die besondere Rolle und Bedeutung der IABG (\u201eSonderrolle\u201c) zu erkl\u00e4ren und gegen\u00fcber den Gespr\u00e4chspartnern ein Verst\u00e4ndnis zu sch\u00e4rfen f\u00fcr die besondere Bedeutung eines unabh\u00e4ngigen und produktneutraler Dienstleisters als Berater und Unterst\u00fctzer f\u00fcr den \u00f6ffentlichen Auftraggeber.\r\n\r\nIm Zuge dessen werden auch vereinzelt Fachgespr\u00e4che und Diskussionsveranstaltungen durchgef\u00fchrt, zu denen Regierungsmitglieder, Abgeordnete sowie Vertreterinnen und Vertreter der Ministerien eingeladen werden.\r\n\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_DEFENSE_ARMAMENTS",
+                "de": "R\u00fcstungsangelegenheiten",
+                "en": "Armaments matters"
+            },
+            {
+                "code": "FOI_DEFENSE_POLICY",
+                "de": "Verteidigungspolitik",
+                "en": "Defense policy"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_IS_DISASTER_CONTROL",
+                "de": "Bev\u00f6lkerungsschutz und Katastrophenhilfe",
+                "en": "Civil protection"
+            },
+            {
+                "code": "FOI_DEFENSE_AFFAIRS",
+                "de": "Bundeswehrangelegenheiten",
+                "en": "Bundeswehr affairs"
+            },
+            {
+                "code": "FOI_DEFENSE",
+                "de": "Verteidigung",
+                "en": "Defense"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_DEFENSE_OTHER",
+                "de": "Sonstiges im Bereich \"Verteidigung\"",
+                "en": "Other in the field of \"Defense\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AEROSPACE",
+                "de": "Luft- und Raumfahrt",
+                "en": "Aerospace"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_IS_CYBER",
+                "de": "Cybersicherheit",
+                "en": "Cyber security"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/f8/74/311897/Konzernabschluss-IABG.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.9,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 130001,
+            "to": 140000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Ottobrunn",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Einsteinstra\u00dfe",
+            "streetNumber": "20",
+            "type": "NATIONAL",
+            "zipCode": "85521"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "info@iabg.de",
+            "phoneNumber": "+49302939910",
+            "street": "Friedrichstr.",
+            "streetNumber": "185E",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@iabg.de"
+                }
+            ],
+            "phoneNumber": "+498960880",
+            "websites": [
+                {
+                    "website": "www.iabg.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Prof. Dr.-Ing",
+                "firstName": "Rudolf",
+                "lastName": "Schwarz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl. Ing.",
+                "firstName": "Thomas",
+                "lastName": "K\u00f6hler",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Axel",
+                "lastName": "L\u00fcder",
+                "recentGovernmentFunction": {
+                    "endDate": "2020-07",
+                    "ended": true,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_MEMBER",
+                            "de": "Funktion f\u00fcr ein Mitglied des Deutschen Bundestages",
+                            "en": "Function for a member of the German Bundestag"
+                        },
+                        "functionPosition": "B\u00fcroleiter, wiss. Mitarbeiter"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "academicDegreeBefore": "Dr. Ing.",
+                "firstName": "Karsten",
+                "lastName": "Deiseroth",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "M.Sc",
+                "firstName": "Pelin",
+                "lastName": "Afat",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Prof. Dr.-Ing",
+                "entrustedPerson": true,
+                "firstName": "Rudolf",
+                "function": "Gesch\u00e4ftsf\u00fchrer (Vorsitz)",
+                "lastName": "Schwarz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl. Ing.",
+                "entrustedPerson": true,
+                "firstName": "Thomas",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "K\u00f6hler",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Bundesverband der Deutschen Sicherheits- und Verteidigungsindustrie e.V. (BDSV)"
+            },
+            {
+                "membership": "F\u00f6rderkreis Deutsches Heer e.V. (FKH)"
+            },
+            {
+                "membership": "Deutsche Gesellschaft f\u00fcr Wehrtechnik e.V. (DWT)"
+            },
+            {
+                "membership": "Bundesverband der Deutschen Luft- und Raumfahrtindustrie e.V. (BDLI)"
+            },
+            {
+                "membership": "Bundesverband der Deutschen Industrie e.V. (BDI)"
+            },
+            {
+                "membership": "Forum Luftfahrt, Raumfahrt und Verteidigung"
+            },
+            {
+                "membership": "Verband der Bahnindustrie (VdB)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Industrieanlagen-Betriebsgesellschaft mbH"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Verbundprojekt \"5G-OPERA (5G OPEn RA)\"",
+                "location": "53227 Bonn",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Energie",
+                "publicAllowanceEuro": {
+                    "from": 120001,
+                    "to": 130000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Verbundvorhaben \"Weltraumgest\u00fctzte \u00dcberwachung von GNSS\r\nSignalinterferenzen\"",
+                "location": "53183 Bonn",
+                "name": "DLR eV. Raumfahrtagentur",
+                "publicAllowanceEuro": {
+                    "from": 110001,
+                    "to": 120000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projekt  \"Advanced Galileo PRS resilience for EU Defence\"",
+                "location": "Rue de la Loi' 107 / 1049 Bruxelles",
+                "name": "Europ\u00e4ische Union repr\u00e4sentiert durch EUROPEAN COMMISSION DEFIS Directorate General for Defence Industry and Space",
+                "publicAllowanceEuro": {
+                    "from": 230001,
+                    "to": 240000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": " Verbundprojekt \"Artificial Intelligence in Rescue Chains AIRCIS\"",
+                "location": "51101 K\u00f6ln",
+                "name": "T\u00dcV Rheinland Consulting GmbH Forschungsmanagement",
+                "publicAllowanceEuro": {
+                    "from": 80001,
+                    "to": 90000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Verbundprojekt \"QuNET+ skalierbare Bodenstationen - QuNET+SKALE\"",
+                "location": "10623 Berlin",
+                "name": "VDI VDE lT Projekt gef\u00f6rdert durch Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 80001,
+                    "to": 90000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projekt \"Secure Digital Military Mobility System (SDMMS)\"",
+                "location": "1049 Bruxelles",
+                "name": "European Comission",
+                "publicAllowanceEuro": {
+                    "from": 80001,
+                    "to": 90000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Projekt \"European Initiative for Collaborative Air Combat Standardization (EICAS)\"",
+                "location": "1049 Bruxelles",
+                "name": "European Comission",
+                "publicAllowanceEuro": {
+                    "from": 190001,
+                    "to": 200000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Vorhaben Entwicklung einer Methodik zur Ableitung optimaler Behandlungsstrategien bei unsicheren Cyberbedrohungssituationen von Flugzeugsystemachitekturen",
+                "location": "53227 Bonn",
+                "name": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt e.V. DLR Projektr\u00e4ger Luftfahrtforschung",
+                "publicAllowanceEuro": {
+                    "from": 60001,
+                    "to": 70000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Verbundvorhaben \"KIHBA - K\u00fcnstliche Intelligenz f\u00fcr hochaufgel\u00f6ste Baumartenkennung\"",
+                "location": "10115 Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Energie",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Vorhaben Testverfahren und Nachweisf\u00fchrung f\u00fcr hybrid elektrische Luftfahrtantriebe",
+                "location": "10115 Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Energie",
+                "publicAllowanceEuro": {
+                    "from": 190001,
+                    "to": 200000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Zuwendung f\u00fcr das Vorhaben V&V und Test Definition lron Bird eines hybridelektrischen Regionalflugzeugs mit\r\neinem Wasserstoffbrennstoffzellensystem als Energielieferant",
+                "location": "10115 Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Energie",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Vorhaben \"NIP II-FuE: Entwicklung und Erprobung eines CRYOGAS Wasserstoff-Speichersystems (CcH2) f\u00fcr den Einsatz in Langstrecken-Nutzfahrzeugen\"",
+                "location": "10115 Berlin",
+                "name": "Bundesministerium f\u00fcr Digitales und Verkehr",
+                "publicAllowanceEuro": {
+                    "from": 970001,
+                    "to": 980000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Verbundvorhaben \"PERU- Pulverwiederverwendung und -aufbereitung zur standardisierten und ressourcenschonenden Herstellung von Bauteilen in der additiven Fertigung\"\r\n",
+                "location": "10115 Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Energie",
+                "publicAllowanceEuro": {
+                    "from": 130001,
+                    "to": 140000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Vorhaben Produktion, Optimierung und Virtuelle Nachweisf\u00fchrung f\u00fcr Generative Fertigungsverfahren",
+                "location": "10115 Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Energie",
+                "publicAllowanceEuro": {
+                    "from": 150001,
+                    "to": 160000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Vorhaben \"Potentiale in Analyse-, Fertigungs- und Nachbearbeitungstechnologien be additiver Fertigung f\u00fcr Luftfahrtanwendungen\"",
+                "location": "10115 Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Energie",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Verbundvorhaben \"BUENA - Branchenuebergreifende Industrialisierung von additiver Produktion\"",
+                "location": "10115 Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Verbundsvorhabent \"SmarTram Autonom fahrendes Transportsystem f\u00fcr den Stadtverkehr mit erh\u00f6htem Passagierkomfort\"",
+                "location": "10115 Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 130001,
+                    "to": 140000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002444/36318",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-25T15:43:06.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/08/9b/311899/Lobbyregister-Detailansicht-R002444-2024-06-25_15-43-06.pdf",
+        "validFromDate": "2024-06-25T15:43:06.000+02:00",
+        "version": 3
+    },
+    "registerEntryId": 36318,
+    "registerNumber": "R002444",
+    "regulatoryProjects": {
+        "regulatoryProjects": [],
+        "regulatoryProjectsPresent": false
+    },
+    "statements": {}
+}

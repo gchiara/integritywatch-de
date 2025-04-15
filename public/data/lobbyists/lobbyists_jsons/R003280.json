@@ -1,0 +1,944 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-03-10T14:48:46.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-10T14:48:46.000+01:00",
+        "lastUpdateDate": "2024-08-29T16:10:43.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 40347,
+                "validFromDate": "2024-08-29T16:10:43.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 36603,
+                "validFromDate": "2024-06-26T16:00:42.000+02:00",
+                "validUntilDate": "2024-08-29T16:10:43.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17077,
+                "validFromDate": "2023-03-31T14:52:04.000+02:00",
+                "validUntilDate": "2024-06-26T16:00:42.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 4862,
+                "validFromDate": "2022-03-10T14:48:46.000+01:00",
+                "validUntilDate": "2023-03-31T14:52:04.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Die Cruise Lines International Association (Europe), ASBL mit Sitz in Br\u00fcssel, ist der Interessenverband der internationalen Kreuzfahrtindustrie und hat die von Beust & Coll. Beratungsgesellschaft mbH & Co. KG mit Sitz in Hamburg mit der Wahrnehmung ihrer Interessen bzw. der Interessen ihrer Mitglieder in Deutschland beauftragt. Das schlie\u00dft u.a. die Interessenvertretung gegen\u00fcber allen \u00f6ffentlichen Stellen, Verwaltungen sowie Bundesbeh\u00f6rden, Bundesministerien, Bundestag und Bundesrat ein. ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_RPI_LAWS",
+                "de": "Ausl\u00e4nder- und Aufenthaltsrecht",
+                "en": "Foreign laws"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_LAS_TOURISM",
+                "de": "Tourismus",
+                "en": "Tourism"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_ECONOMY_INSURANCE",
+                "de": "Versicherungswesen",
+                "en": "Insurance"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_OTHER",
+                "de": "Sonstiges im Bereich \"Verkehr\"",
+                "en": "Other in the field of \"Transportation\""
+            },
+            {
+                "code": "FOI_IS_CYBER",
+                "de": "Cybersicherheit",
+                "en": "Cyber security"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_RPI_OTHER",
+                "de": "Sonstiges im Bereich \"Migration, Fl\u00fcchtlingspolitik und Integration\"",
+                "en": "Other in the field of \"Migration, refugee policy and integration\""
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_LAS_OTHER",
+                "de": "Sonstiges im Bereich \"Sport, Freizeit und Tourismus\"",
+                "en": "Other in the field of \"Sports, leisure and tourism\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_IS_OTHER",
+                "de": "Sonstiges im Bereich \"Innere Sicherheit\"",
+                "en": "Other in the field of \"Internal security\""
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            },
+            {
+                "code": "CONTRACTS_OPERATED_BY_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird in eigenem Interesse durch die Beauftragung Dritter wahrgenommen",
+                "en": "Contracts are awarded to third parties to represent own interests of the company"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/8f/ed/348514/CLIA-EU-2023-Annual-Accounts.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.4,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 30001,
+            "to": 40000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Br\u00fcssel",
+            "country": {
+                "code": "BE",
+                "de": "Belgien",
+                "en": "Belgium"
+            },
+            "internationalAdditional1": " Rue du Tr\u00f4ne 60",
+            "internationalAdditional2": "1050",
+            "type": "FOREIGN"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "mclaurent@cruising.org"
+                }
+            ],
+            "phoneNumber": "+3227090131",
+            "websites": [
+                {
+                    "website": "www.cruising.org"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Marie Caroline",
+                "lastName": "Laurent",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Georg",
+                "lastName": "Ehrmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Jan",
+                "lastName": "Fluck",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Jan",
+                "lastName": "Wehrhold",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_OTHER_JP_INTERNATIONAL",
+            "de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+            "en": "Other juristic person",
+            "legalFormText": "ASBL"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Marie Caroline",
+                "function": "Director General",
+                "lastName": "Laurent",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Joshua",
+                "function": "Administrateur",
+                "lastName": "Good",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-17",
+            "naturalPersons": 0,
+            "organizations": 32,
+            "totalCount": 32
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Cruise Lines International Association US (CLIA)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Cruise Lines International Association Europe"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 10001,
+            "to": 20000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R003280/40347",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-26T16:00:42.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/4c/de/348517/Lobbyregister-Detailansicht-R003280-2024-08-29_16-10-43.pdf",
+        "validFromDate": "2024-08-29T16:10:43.000+02:00",
+        "version": 4
+    },
+    "registerEntryId": 40347,
+    "registerNumber": "R003280",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "36. BImSchV",
+                        "title": "Sechsunddrei\u00dfigste Verordnung zur Durchf\u00fchrung des Bundes-Immissionsschutzgesetzes (Verordnung zur Durchf\u00fchrung der Regelungen der Biokraftstoffquote)",
+                        "url": "https://www.gesetze-im-internet.de/bimschv_36"
+                    },
+                    {
+                        "shortTitle": "BImSchG",
+                        "title": "Gesetz zum Schutz vor sch\u00e4dlichen Umwelteinwirkungen durch Luftverunreinigungen, Ger\u00e4usche, Ersch\u00fctterungen und \u00e4hnliche Vorg\u00e4nge",
+                        "url": "https://www.gesetze-im-internet.de/bimschg"
+                    },
+                    {
+                        "shortTitle": "37. BImSchV",
+                        "title": "Verordnung zur Neufassung der Siebenunddrei\u00dfigsten Verordnung zur Durchf\u00fchrung des Bundes-Immissionsschutzgesetzes(Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen \u00d6len auf die Treibhausgasquote)",
+                        "url": "https://www.gesetze-im-internet.de/bimschv_37_2024"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Erweiterung des Geltungsbereichs der Treibhausgasquote auf Kraftstoffe f\u00fcr den Luft- und Schiffsverkehr:\r\nFestschreibung der durch die RED III erm\u00f6glichten, jedoch freiwilligen Quote zur Bereitstellung von erneuerbaren Kraftstoffen nicht-biogenen Ursprungs (RFNBO) als auch die Erh\u00f6hung des Multiplikators f\u00fcr RFNBO und fortschrittliche Biokraftstoffe f\u00fcr die Schifffahrtsbranche",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_POLLUTION",
+                        "de": "Immissionsschutz",
+                        "en": "Immission control"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_SHIPPING",
+                        "de": "Schifffahrt",
+                        "en": "Shipping"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006595",
+                "statements": [],
+                "title": "\u00c4nderung des Bundes-Immissionsschutzgesetzes "
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Verwendung der Mittel aus dem EU-ETS f\u00fcr die maritime Branche zur Dekarbonisierung des Sektors, bspw. durch passende F\u00f6rderprogramme und Forschung, sowie der fl\u00e4chendeckenden Verf\u00fcgbarkeit von Landstrom",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_POLLUTION",
+                        "de": "Immissionsschutz",
+                        "en": "Immission control"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_SHIPPING",
+                        "de": "Schifffahrt",
+                        "en": "Shipping"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006596",
+                "statements": [],
+                "title": "EU-Emmissionshandel (EU-ETS)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Ausweitung der Rolle von alternativen Kraftstoffen in den deutschen Bem\u00fchungen zum Klimaschutz, sowie anderer Ma\u00dfnahmen mit Blick auf die Bed\u00fcrfnisse und Herausforderungen in der Dekarbonisierung der Schifffahrt, wie beispielsweise die F\u00f6rderung alternativer Antriebs- und Energiesysteme; die fl\u00e4chendeckende Versorgung mit klimafreundlichen Energietr\u00e4gern; sowie einer zielgerichteten und innovationsf\u00f6rdernden maritimen Schiffspolitik, insbesondere mit Blick auf deutsche und europ\u00e4ische Werften",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                        "de": "Verkehrsinfrastruktur",
+                        "en": "Infrastructure"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_POLLUTION",
+                        "de": "Immissionsschutz",
+                        "en": "Immission control"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_SHIPPING",
+                        "de": "Schifffahrt",
+                        "en": "Shipping"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/081/2008150.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMWK",
+                                "title": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                                "url": "https://www.bmwk.de/Navigation/DE/Home/home.html"
+                            }
+                        ],
+                        "printingNumber": "20/8150",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/klimaschutzprogramm-2023-der-bundesregierung/304392",
+                        "title": "Klimaschutzprogramm 2023 der Bundesregierung"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0006597",
+                "statements": [],
+                "title": "Ausweitung der Rolle von alternativen Kraftstoffen im Klimaschutzprogramm 2023 der Bundesregierung"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Anerkennung der Wichtigkeit der Hafenwirtschaft in Deutschland, daher braucht es eine moderne und angemessene Finanzierung und Ausbau bestehender Strukturen in einem konstruktiven Dialog zwischen Bund, L\u00e4ndern, Hafenst\u00e4dten und Wirtschaft",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                        "de": "Verkehrsinfrastruktur",
+                        "en": "Infrastructure"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_SHIPPING",
+                        "de": "Schifffahrt",
+                        "en": "Shipping"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_LEISURE_AND_SPORT",
+                        "de": "Sport, Freizeit und Tourismus",
+                        "en": "Sports, leisure and tourism"
+                    },
+                    {
+                        "code": "FOI_LAS_TOURISM",
+                        "de": "Tourismus",
+                        "en": "Tourism"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/109/2010900.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMDV",
+                                "title": "Bundesministerium f\u00fcr Digitales und Verkehr",
+                                "url": "https://bmdv.bund.de/DE/Home/home.html"
+                            }
+                        ],
+                        "printingNumber": "20/10900",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/nationale-hafenstrategie-der-bundesregierung-f%C3%BCr-die-see-und-binnenh%C3%A4fen/310538",
+                        "title": "Nationale Hafenstrategie der Bundesregierung f\u00fcr die See- und Binnenh\u00e4fen"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0006598",
+                "statements": [],
+                "title": "Integration der Kreuzfahrt in die Nationalen Hafenstrategie der Bundesregierung f\u00fcr die See- und Binnenh\u00e4fen"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Aufnahme und Anerkennung der Kreuzfahrt als wichtiger und planbarer Teil der Tourismuswirtschaft in Deutschland, insbesondere f\u00fcr die deutschen K\u00fcstenregionen aber auch dar\u00fcber hinaus. Ber\u00fccksichtigung der Erfolge der Kreuzfahrtindustrie auf dem Weg zur Klimaneutralit\u00e4t, sowie der Rolle als wichtigem Teil der deutschen Tourismusbranche",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    },
+                    {
+                        "code": "FOI_LEISURE_AND_SPORT",
+                        "de": "Sport, Freizeit und Tourismus",
+                        "en": "Sports, leisure and tourism"
+                    },
+                    {
+                        "code": "FOI_LAS_TOURISM",
+                        "de": "Tourismus",
+                        "en": "Tourism"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/026/2002690.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMWK",
+                                "title": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                                "url": "https://www.bmwk.de/Navigation/DE/Home/home.html"
+                            }
+                        ],
+                        "printingNumber": "20/2690",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/eckpunkte-zur-weiterentwicklung-der-nationalen-tourismusstrategie-nachhaltigen-tourismus-wettbewerbsf%C3%A4hig-gestalten/289613",
+                        "title": "Eckpunkte zur Weiterentwicklung der Nationalen Tourismusstrategie - Nachhaltigen Tourismus wettbewerbsf\u00e4hig gestalten"
+                    },
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/050/2005012.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMWK",
+                                "title": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                                "url": "https://www.bmwk.de/Navigation/DE/Home/home.html"
+                            }
+                        ],
+                        "printingNumber": "20/5012",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/eckpunkte-der-bundesregierung-zur-nationalen-plattform-zukunft-des-tourismus/294761",
+                        "title": "Eckpunkte der Bundesregierung zur \"Nationalen Plattform Zukunft des Tourismus\""
+                    },
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/brd/2022/0332-22.pdf",
+                        "issuer": "BR",
+                        "leadingMinistries": [],
+                        "printingNumber": "332/22",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/eckpunkte-zur-weiterentwicklung-der-nationalen-tourismusstrategie-nachhaltigen-tourismus-wettbewerbsf%C3%A4hig-gestalten/289613",
+                        "title": "Eckpunkte zur Weiterentwicklung der Nationalen Tourismusstrategie - Nachhaltigen Tourismus wettbewerbsf\u00e4hig gestalten"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0006599",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/99/9d/348515/Stellungnahme-Gutachten-SG2408290016.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                        "de": "Gremien",
+                                        "en": "Committees"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-07-03"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0006599",
+                        "regulatoryProjectTitle": "Integration der Kreuzfahrt in die Nationale Tourismusstrategie der Bundesregierung",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Eine aktive Kreuzschifffahrt f\u00fcr nachhaltige Touristik,\r\nEnergie und Wirtschaften in Deutschland\r\n\r\nBedeutung der Kreuzschifffahrt f\u00fcr die deutsche Wirtschaft und Schiffsbauindustrie\r\n\r\nDeutschland ist seit jeher eng mit der Schifffahrt und insbesondere mit der Kreuzschifffahrt verkn\u00fcpft und der f\u00fchrende Quellmarkt Europas mit \u00fcber 1,9 Mio. deutschen Kreuzfahrtpassagieren im Jahr 2023. Insgesamt sind \u00fcber 30 Kreuzfahrtunternehmen in Deutschland t\u00e4tig, von denen mehrere in Deutschland ans\u00e4ssig sind und speziell deutsche Reisende ansprechen. Dabei kann die Kreuzschifffahrt in Deutschland ein stetiges Wachstum entlang aller Altersgruppen vorweisen. \r\n\r\nIm Jahr 2022 schaffte die Kreuzfahrtindustrie \u00fcber 59.000 Arbeitspl\u00e4tze und generierte einen Gesamtwert von mehr als 9,3 Mrd. Euro in Deutschland. Neben den Ausgaben der Passagiere und Angestellten auf Land profitiert insbesondere der deutsche Schiffsbau immens von der Kreuzschifffahrt: Die Aktivit\u00e4ten der Kreuzschifffahrt im Schiffsbau trugen mit 2,1 Mrd. Euro zum deutschen Bruttoinlandsprodukt bei. Im zivilen Schiffsbau in Deutschland macht die internationale Kreuzschifffahrt mit teils \u00fcber 70 % der Ablieferungen den L\u00f6wenanteil aus und stellt so eine tragende S\u00e4ule f\u00fcr die Wertsch\u00f6pfungskette der maritimen Industrie in Deutschland dar und sorgt daf\u00fcr, dass wichtige Expertise vor Ort sichert.\r\n\r\nKreuzschifffahrt ist nachhaltiger Tourismus\r\n\r\nZeitgleich nimmt die Kreuzschifffahrt ihre Verantwortung im Bereich Dekarbonisierung ernst: Die Technologie f\u00fcr einen gr\u00fcnen Betrieb der Schiffe ist bereits weitgehend vorhanden: Die \u00fcberwiegende Mehrheit der aktuellen Kreuzfahrtflotte ist in der Lage, erneuerbare Kraftstoffe mit sehr geringer technologischer Anpassung zu verwenden. Bis 2027 soll f\u00fcr einen \u00dcbergangszeitraum weltweit mehr als die H\u00e4lfte aller Kreuzfahrtschiffe Fl\u00fcssigerdgas (LNG) als Treibstoff nutzen, welches etwa 20 % weniger Treibhausgasemissionen verursacht und dann durch die Beimischung von Bio LNG sowie synthetischem LNG Schritt f\u00fcr Schritt zur Dekarbonisierung f\u00fchren wird. Auch werden erste Schiffe \u201eMethanol ready\u201c gebaut. Allerdings ist die Verf\u00fcgbarkeit von nachhaltigen Kraftstoffen der alles entscheidende Faktor. Ob gr\u00fcnes Methanol oder gr\u00fcner Ammoniak (f\u00fcr die Kreuzschifffahrt aus Sicherheitsgr\u00fcnden eher keine Option), ob synthetisches LNG (CNG), Bio LNG oder Biokraftstoffe, nur wenn die Produktion im gro\u00dfen Ma\u00dfstab angekurbelt wird, k\u00f6nnen die ambitionierten Ziele erreicht werden. Und die Schifffahrt steht im Wettbewerb mit anderen Verkehrstr\u00e4gern, die von gro\u00dfz\u00fcgigeren finanziellen Anreizen f\u00fcr die Herstellung und Lieferung dieser alternativen Kraftstoffe profitieren k\u00f6nnten, wie z. B. f\u00fcr den Stra\u00dfenverkehr und insbesondere f\u00fcr den Luftverkehr. \r\n\r\nEs m\u00fcssen nun die Rahmenbedingungen durch die Politik geschaffen werden, damit es einen Markthochlauf f\u00fcr nachhaltige Kraftstoffe gibt. Auch sind die Kraftstoffhersteller aufgefordert, in Produktionskapazit\u00e4ten f\u00fcr gr\u00fcne Kraftstoffe zu investieren. In den n\u00e4chsten Jahres werden zun\u00e4chst Biokraftstoffe eine wichtige Rolle spielen, ohne einen massiven Ausbau der Herstellung von E-Fuels allerdings, wird die Schifffahrt insgesamt gro\u00dfe Probleme haben, die Klimaziele zu erreichen. \r\n\r\nEin entscheidender Faktor f\u00fcr das Gelingen der maritimen Energiewende ist der \u201eAustausch\u201c der Flotten, denn neue und damit mit modernster Technik versehene Schiffe haben das Potential, vollst\u00e4ndig CO2 neutral zu fahren. Hier hat die Kreuzschifffahrt den Vorteil, dass ihre Schiffe durchschnittlich nach 14,1 Jahren ausgetauscht werden, w\u00e4hrend dies bei der \u00fcbrigen Schifffahrt nach 20-22 Jahren geschieht.  \r\n\r\nZeitgleich investieren Kreuzfahrtgesellschaften in heimische Forschungsprojekte zu nachhaltigen Energietr\u00e4gern und Hybridoptionen. Neue Schiffe erhalten von vorneherein die entsprechende Technik, bestehende Schiffe werden so nachger\u00fcstet, dass in den H\u00e4fen, in denen Landstromversorgung m\u00f6glich ist, diese genutzt werden kann. Die Landstromversorgung \u2013 hier gilt es Schritt f\u00fcr Schritt alle H\u00e4fen entsprechend auszustatten, wird einen signifikanten Beitrag zur CO2- und Emissionsreduktion leisten.\r\n\r\nDoch nicht nur im Hinblick auf Antrieb und Kraftstoffe setzt die Kreuzschifffahrt auf Nachhaltigkeit: Plastik- und Einwegprodukte werden m\u00f6glichst vermieden, dort wo es m\u00f6glich ist, durch Materialien aus nachwachsenden Rohstoffen ersetzt und nicht vermeidbare Plastik-/ Einwegprodukte werden optimal verwertet und bereits an Bord f\u00fcr das Recycling vorbereitet. Dabei erfolgt eine Trennung in 40 Kategorien f\u00fcr die landseitige Weiterverarbeitung. \r\n\r\nIn puncto Energieeffizienz sind Kreuzfahrtschiffe First Mover und haben beispielsweise durch Abw\u00e4rmenutzung der Motorenw\u00e4rme, durch Weiterentwicklung der Brennstoffzellentechnologie, durch Einsatz modernster Materialien und Digitalisierung kontinuierlich ihren Energieverbrauch gesenkt.\r\n\r\nIn modernen Osmoseumkehranlagen produzieren moderne Kreuzfahrtschiffe aus Meerwasser den hochwertiges Trinkwasser und reduzieren damit erheblich die Aufnahme von Trinkwasser in den Destinationen. Daneben setzt die Kreuzschifffahrt auf Reduzierung des Wasserverbrauchs an Bord, beispielsweise durch Infrarot-Wasserh\u00e4hne und Vakuumtoilettensysteme. An Bord der neuen Schiffe werden biologische Membrankl\u00e4ranlagen genutzt, die einen Abwasserreinheitsgrad erreichen, der selbst von vielen Kl\u00e4r- und Reinigungsanlagen an Land nicht erzielt wird.\r\n\r\nKreuzfahrt mit Planbarkeit von G\u00e4stebewegungen wichtiger Partner f\u00fcr Destinationen\r\n\r\nIn vielen L\u00e4ndern steigt die Belastung durch den zunehmenden Tourismus. Im Gegensatz zum Landtourismus lassen sich die G\u00e4stebewegungen von Kreuzfahrten planen und kontrollieren. Durch enge Abstimmungen und regelm\u00e4\u00dfige Evaluationen mit den Destinationen schaffen die Reedereien gezielt praktische L\u00f6sungen, um Partnerst\u00e4dte und H\u00e4fen zu unterst\u00fctzen. Insgesamt haben Kreuzfahrten weltweit nur einen Anteil von 2 % am Gesamttourismus und oft weniger als 5 % bei unseren Destinationen. Venedig wird oft als Beispiel erw\u00e4hnt: Der Anteil der Kreuzfahrttouristen an der Gesamtzahl der Touristen in Venedig liegt bei 1,6 Millionen von insgesamt rund 30 Millionen Besuchern j\u00e4hrlich. Das Beispiel Dubrovnik, wo sich CLIA und die Stadt auf eine gemeinsame Entwicklung eines Destinationsmanagement-Plans f\u00fcr die Stadt auf Grundlage der UN-Kriterien f\u00fcr nachhaltigen Tourismus verst\u00e4ndigt haben, zeigt, dass die Branche reagiert.\r\n\r\nEin weiterer Aspekt in der aktuellen Overtourism Debatte ist die Wohnungsnot der Bewohner, die durch zunehmende Vermietung von Ferienwohnungen ausgel\u00f6st wird. Die Kreuzfahrtg\u00e4ste \u00fcbernachten auf den Schiffen und tragen zu dem Problem nicht bei.\r\n\r\nZudem zeigen unsere Daten, dass etwa 60 Prozent der G\u00e4ste noch einmal an die Orte ihrer Reise zur\u00fcckkehren und so den langfristigen Tourismus in den L\u00e4ndern erheblich st\u00e4rken. Diese Entwicklung war beispielsweise mit amerikanischen Touristen in Spanien zu beobachten. \r\n\r\nCLIA in Deutschland\r\n\r\nDabei sieht sich CLIA als engagierter Partner f\u00fcr Beh\u00f6rden, Politik, H\u00e4fen und St\u00e4dte, der die Interessen und Ambitionen der globalen Kreuzschifffahrt b\u00fcndelt sowie mit seinen internationalen Erfahrungen an L\u00f6sungen f\u00fcr einen nachhaltigen Tourismus mitarbeitet.\r\n\r\nUm Deutschland als wichtigen Quellmarkt, Industriestandort und Tourismusziel f\u00fcr die Kreuzschifffahrt beizubehalten wird sich CLIA in Deutschland durch folgende Ma\u00dfnahmen engagieren:\r\n\r\n1.\tEinbeziehen von Kreuzfahrten in die nationale Tourismusstrategie und aktive Teilnahme an der Nationalen Plattform Zukunft des Tourismus, dabei Einbringen von internationalen Best Practice Beispielen und Abbau von Vorbehalten gegen den Kreuzschifffahrttourismus.\r\n\r\n2.\tEinbringen in die Verfahren zur z\u00fcgigen Umsetzung des \u201eFit for 55\u201c-Pakets mit den Forderungen:\r\n\u2022\tNutzen der Einnahmen aus dem maritimen EU-Emissionshandel (EU-ETS) f\u00fcr die Dekarbonisierung der Schifffahrt: \r\nAb dem 1. Januar 2024 wird das EU-ETS schrittweise auf die CO2-Emissionen aller gro\u00dfen Schiffe ausgeweitet, die EU-H\u00e4fen anlaufen, unabh\u00e4ngig von ihrer Flagge. Die Einnahmen aus der Versteigerung von Zertifikaten verschaffen Deutschland einen wichtigen Haushaltsspielraum in Zeiten einer angespannten Haushaltslage. Diese Einnahmen sollten zumindest in Teilen genutzt werden, um den immensen Investitionsbedarf der maritimen Dekarbonisierung zu adressieren.\r\n\r\n\u2022\tAnreize f\u00fcr Produktion und Bereitstellung von nachhaltigen Kraftstoffen f\u00fcr die Schifffahrt: \r\nIm Zuge der Umsetzung der Erneuerbaren Energien Richtlinie (RED III) empfiehlt CLIA sowohl die Festschreibung der durch die REDIII erm\u00f6glichten, jedoch freiwilligen Quote zur Bereitstellung von erneuerbaren Kraftstoffen nicht-biogenen Ursprungs (RFNBO) als auch die Erh\u00f6hung des Multiplikators f\u00fcr RFNBO und fortschrittliche Biokraftstoffe auf Zwei. So kann vermieden werden, dass der Schifffahrtssektor die alleinige Verantwortung f\u00fcr die Kraftstoffbeschaffung tr\u00e4gt.\r\n3.\tEtablieren von CLIA als fester Ansprechpartner f\u00fcr Ministerien und zust\u00e4ndige Bundestagsabgeordnete in maritimen und touristischen Fragen.\r\n\r\n4.\tAgieren auf Bundes- und L\u00e4nderebene f\u00fcr eine ausreichende Infrastrukturbereitstellung f\u00fcr nachhaltige Kraftstoffe und Landstromversorgung nach den Vorgaben der Verordnung \u00fcber den Aufbau der Infrastruktur f\u00fcr alternative Kraftstoffe (AFIR) in der Nationalen Hafenstrategie.\r\n\r\n5.\tUnterst\u00fctzung des Schiffbaus und der maritime Dekarbonisierung durch passgenaue F\u00f6rderprogramme, Forschung und Einbeziehen in den Nationalen Aktionsplan klimafreundliche Schifffahrt.\r\n"
+                        }
+                    }
+                ],
+                "title": "Integration der Kreuzfahrt in die Nationale Tourismusstrategie der Bundesregierung"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/99/9d/348515/Stellungnahme-Gutachten-SG2408290016.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                "de": "Gremien",
+                                "en": "Committees"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-07-03"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0006599",
+                "regulatoryProjectTitle": "Integration der Kreuzfahrt in die Nationale Tourismusstrategie der Bundesregierung",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Eine aktive Kreuzschifffahrt f\u00fcr nachhaltige Touristik,\r\nEnergie und Wirtschaften in Deutschland\r\n\r\nBedeutung der Kreuzschifffahrt f\u00fcr die deutsche Wirtschaft und Schiffsbauindustrie\r\n\r\nDeutschland ist seit jeher eng mit der Schifffahrt und insbesondere mit der Kreuzschifffahrt verkn\u00fcpft und der f\u00fchrende Quellmarkt Europas mit \u00fcber 1,9 Mio. deutschen Kreuzfahrtpassagieren im Jahr 2023. Insgesamt sind \u00fcber 30 Kreuzfahrtunternehmen in Deutschland t\u00e4tig, von denen mehrere in Deutschland ans\u00e4ssig sind und speziell deutsche Reisende ansprechen. Dabei kann die Kreuzschifffahrt in Deutschland ein stetiges Wachstum entlang aller Altersgruppen vorweisen. \r\n\r\nIm Jahr 2022 schaffte die Kreuzfahrtindustrie \u00fcber 59.000 Arbeitspl\u00e4tze und generierte einen Gesamtwert von mehr als 9,3 Mrd. Euro in Deutschland. Neben den Ausgaben der Passagiere und Angestellten auf Land profitiert insbesondere der deutsche Schiffsbau immens von der Kreuzschifffahrt: Die Aktivit\u00e4ten der Kreuzschifffahrt im Schiffsbau trugen mit 2,1 Mrd. Euro zum deutschen Bruttoinlandsprodukt bei. Im zivilen Schiffsbau in Deutschland macht die internationale Kreuzschifffahrt mit teils \u00fcber 70 % der Ablieferungen den L\u00f6wenanteil aus und stellt so eine tragende S\u00e4ule f\u00fcr die Wertsch\u00f6pfungskette der maritimen Industrie in Deutschland dar und sorgt daf\u00fcr, dass wichtige Expertise vor Ort sichert.\r\n\r\nKreuzschifffahrt ist nachhaltiger Tourismus\r\n\r\nZeitgleich nimmt die Kreuzschifffahrt ihre Verantwortung im Bereich Dekarbonisierung ernst: Die Technologie f\u00fcr einen gr\u00fcnen Betrieb der Schiffe ist bereits weitgehend vorhanden: Die \u00fcberwiegende Mehrheit der aktuellen Kreuzfahrtflotte ist in der Lage, erneuerbare Kraftstoffe mit sehr geringer technologischer Anpassung zu verwenden. Bis 2027 soll f\u00fcr einen \u00dcbergangszeitraum weltweit mehr als die H\u00e4lfte aller Kreuzfahrtschiffe Fl\u00fcssigerdgas (LNG) als Treibstoff nutzen, welches etwa 20 % weniger Treibhausgasemissionen verursacht und dann durch die Beimischung von Bio LNG sowie synthetischem LNG Schritt f\u00fcr Schritt zur Dekarbonisierung f\u00fchren wird. Auch werden erste Schiffe \u201eMethanol ready\u201c gebaut. Allerdings ist die Verf\u00fcgbarkeit von nachhaltigen Kraftstoffen der alles entscheidende Faktor. Ob gr\u00fcnes Methanol oder gr\u00fcner Ammoniak (f\u00fcr die Kreuzschifffahrt aus Sicherheitsgr\u00fcnden eher keine Option), ob synthetisches LNG (CNG), Bio LNG oder Biokraftstoffe, nur wenn die Produktion im gro\u00dfen Ma\u00dfstab angekurbelt wird, k\u00f6nnen die ambitionierten Ziele erreicht werden. Und die Schifffahrt steht im Wettbewerb mit anderen Verkehrstr\u00e4gern, die von gro\u00dfz\u00fcgigeren finanziellen Anreizen f\u00fcr die Herstellung und Lieferung dieser alternativen Kraftstoffe profitieren k\u00f6nnten, wie z. B. f\u00fcr den Stra\u00dfenverkehr und insbesondere f\u00fcr den Luftverkehr. \r\n\r\nEs m\u00fcssen nun die Rahmenbedingungen durch die Politik geschaffen werden, damit es einen Markthochlauf f\u00fcr nachhaltige Kraftstoffe gibt. Auch sind die Kraftstoffhersteller aufgefordert, in Produktionskapazit\u00e4ten f\u00fcr gr\u00fcne Kraftstoffe zu investieren. In den n\u00e4chsten Jahres werden zun\u00e4chst Biokraftstoffe eine wichtige Rolle spielen, ohne einen massiven Ausbau der Herstellung von E-Fuels allerdings, wird die Schifffahrt insgesamt gro\u00dfe Probleme haben, die Klimaziele zu erreichen. \r\n\r\nEin entscheidender Faktor f\u00fcr das Gelingen der maritimen Energiewende ist der \u201eAustausch\u201c der Flotten, denn neue und damit mit modernster Technik versehene Schiffe haben das Potential, vollst\u00e4ndig CO2 neutral zu fahren. Hier hat die Kreuzschifffahrt den Vorteil, dass ihre Schiffe durchschnittlich nach 14,1 Jahren ausgetauscht werden, w\u00e4hrend dies bei der \u00fcbrigen Schifffahrt nach 20-22 Jahren geschieht.  \r\n\r\nZeitgleich investieren Kreuzfahrtgesellschaften in heimische Forschungsprojekte zu nachhaltigen Energietr\u00e4gern und Hybridoptionen. Neue Schiffe erhalten von vorneherein die entsprechende Technik, bestehende Schiffe werden so nachger\u00fcstet, dass in den H\u00e4fen, in denen Landstromversorgung m\u00f6glich ist, diese genutzt werden kann. Die Landstromversorgung \u2013 hier gilt es Schritt f\u00fcr Schritt alle H\u00e4fen entsprechend auszustatten, wird einen signifikanten Beitrag zur CO2- und Emissionsreduktion leisten.\r\n\r\nDoch nicht nur im Hinblick auf Antrieb und Kraftstoffe setzt die Kreuzschifffahrt auf Nachhaltigkeit: Plastik- und Einwegprodukte werden m\u00f6glichst vermieden, dort wo es m\u00f6glich ist, durch Materialien aus nachwachsenden Rohstoffen ersetzt und nicht vermeidbare Plastik-/ Einwegprodukte werden optimal verwertet und bereits an Bord f\u00fcr das Recycling vorbereitet. Dabei erfolgt eine Trennung in 40 Kategorien f\u00fcr die landseitige Weiterverarbeitung. \r\n\r\nIn puncto Energieeffizienz sind Kreuzfahrtschiffe First Mover und haben beispielsweise durch Abw\u00e4rmenutzung der Motorenw\u00e4rme, durch Weiterentwicklung der Brennstoffzellentechnologie, durch Einsatz modernster Materialien und Digitalisierung kontinuierlich ihren Energieverbrauch gesenkt.\r\n\r\nIn modernen Osmoseumkehranlagen produzieren moderne Kreuzfahrtschiffe aus Meerwasser den hochwertiges Trinkwasser und reduzieren damit erheblich die Aufnahme von Trinkwasser in den Destinationen. Daneben setzt die Kreuzschifffahrt auf Reduzierung des Wasserverbrauchs an Bord, beispielsweise durch Infrarot-Wasserh\u00e4hne und Vakuumtoilettensysteme. An Bord der neuen Schiffe werden biologische Membrankl\u00e4ranlagen genutzt, die einen Abwasserreinheitsgrad erreichen, der selbst von vielen Kl\u00e4r- und Reinigungsanlagen an Land nicht erzielt wird.\r\n\r\nKreuzfahrt mit Planbarkeit von G\u00e4stebewegungen wichtiger Partner f\u00fcr Destinationen\r\n\r\nIn vielen L\u00e4ndern steigt die Belastung durch den zunehmenden Tourismus. Im Gegensatz zum Landtourismus lassen sich die G\u00e4stebewegungen von Kreuzfahrten planen und kontrollieren. Durch enge Abstimmungen und regelm\u00e4\u00dfige Evaluationen mit den Destinationen schaffen die Reedereien gezielt praktische L\u00f6sungen, um Partnerst\u00e4dte und H\u00e4fen zu unterst\u00fctzen. Insgesamt haben Kreuzfahrten weltweit nur einen Anteil von 2 % am Gesamttourismus und oft weniger als 5 % bei unseren Destinationen. Venedig wird oft als Beispiel erw\u00e4hnt: Der Anteil der Kreuzfahrttouristen an der Gesamtzahl der Touristen in Venedig liegt bei 1,6 Millionen von insgesamt rund 30 Millionen Besuchern j\u00e4hrlich. Das Beispiel Dubrovnik, wo sich CLIA und die Stadt auf eine gemeinsame Entwicklung eines Destinationsmanagement-Plans f\u00fcr die Stadt auf Grundlage der UN-Kriterien f\u00fcr nachhaltigen Tourismus verst\u00e4ndigt haben, zeigt, dass die Branche reagiert.\r\n\r\nEin weiterer Aspekt in der aktuellen Overtourism Debatte ist die Wohnungsnot der Bewohner, die durch zunehmende Vermietung von Ferienwohnungen ausgel\u00f6st wird. Die Kreuzfahrtg\u00e4ste \u00fcbernachten auf den Schiffen und tragen zu dem Problem nicht bei.\r\n\r\nZudem zeigen unsere Daten, dass etwa 60 Prozent der G\u00e4ste noch einmal an die Orte ihrer Reise zur\u00fcckkehren und so den langfristigen Tourismus in den L\u00e4ndern erheblich st\u00e4rken. Diese Entwicklung war beispielsweise mit amerikanischen Touristen in Spanien zu beobachten. \r\n\r\nCLIA in Deutschland\r\n\r\nDabei sieht sich CLIA als engagierter Partner f\u00fcr Beh\u00f6rden, Politik, H\u00e4fen und St\u00e4dte, der die Interessen und Ambitionen der globalen Kreuzschifffahrt b\u00fcndelt sowie mit seinen internationalen Erfahrungen an L\u00f6sungen f\u00fcr einen nachhaltigen Tourismus mitarbeitet.\r\n\r\nUm Deutschland als wichtigen Quellmarkt, Industriestandort und Tourismusziel f\u00fcr die Kreuzschifffahrt beizubehalten wird sich CLIA in Deutschland durch folgende Ma\u00dfnahmen engagieren:\r\n\r\n1.\tEinbeziehen von Kreuzfahrten in die nationale Tourismusstrategie und aktive Teilnahme an der Nationalen Plattform Zukunft des Tourismus, dabei Einbringen von internationalen Best Practice Beispielen und Abbau von Vorbehalten gegen den Kreuzschifffahrttourismus.\r\n\r\n2.\tEinbringen in die Verfahren zur z\u00fcgigen Umsetzung des \u201eFit for 55\u201c-Pakets mit den Forderungen:\r\n\u2022\tNutzen der Einnahmen aus dem maritimen EU-Emissionshandel (EU-ETS) f\u00fcr die Dekarbonisierung der Schifffahrt: \r\nAb dem 1. Januar 2024 wird das EU-ETS schrittweise auf die CO2-Emissionen aller gro\u00dfen Schiffe ausgeweitet, die EU-H\u00e4fen anlaufen, unabh\u00e4ngig von ihrer Flagge. Die Einnahmen aus der Versteigerung von Zertifikaten verschaffen Deutschland einen wichtigen Haushaltsspielraum in Zeiten einer angespannten Haushaltslage. Diese Einnahmen sollten zumindest in Teilen genutzt werden, um den immensen Investitionsbedarf der maritimen Dekarbonisierung zu adressieren.\r\n\r\n\u2022\tAnreize f\u00fcr Produktion und Bereitstellung von nachhaltigen Kraftstoffen f\u00fcr die Schifffahrt: \r\nIm Zuge der Umsetzung der Erneuerbaren Energien Richtlinie (RED III) empfiehlt CLIA sowohl die Festschreibung der durch die REDIII erm\u00f6glichten, jedoch freiwilligen Quote zur Bereitstellung von erneuerbaren Kraftstoffen nicht-biogenen Ursprungs (RFNBO) als auch die Erh\u00f6hung des Multiplikators f\u00fcr RFNBO und fortschrittliche Biokraftstoffe auf Zwei. So kann vermieden werden, dass der Schifffahrtssektor die alleinige Verantwortung f\u00fcr die Kraftstoffbeschaffung tr\u00e4gt.\r\n3.\tEtablieren von CLIA als fester Ansprechpartner f\u00fcr Ministerien und zust\u00e4ndige Bundestagsabgeordnete in maritimen und touristischen Fragen.\r\n\r\n4.\tAgieren auf Bundes- und L\u00e4nderebene f\u00fcr eine ausreichende Infrastrukturbereitstellung f\u00fcr nachhaltige Kraftstoffe und Landstromversorgung nach den Vorgaben der Verordnung \u00fcber den Aufbau der Infrastruktur f\u00fcr alternative Kraftstoffe (AFIR) in der Nationalen Hafenstrategie.\r\n\r\n5.\tUnterst\u00fctzung des Schiffbaus und der maritime Dekarbonisierung durch passgenaue F\u00f6rderprogramme, Forschung und Einbeziehen in den Nationalen Aktionsplan klimafreundliche Schifffahrt.\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

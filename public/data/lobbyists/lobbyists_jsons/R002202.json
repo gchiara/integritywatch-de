@@ -1,0 +1,746 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-03-01T14:45:43.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-28T15:37:46.000+01:00",
+        "lastUpdateDate": "2024-08-14T16:17:46.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42877,
+                "validFromDate": "2024-08-14T16:17:46.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 39525,
+                "validFromDate": "2024-06-26T16:33:18.000+02:00",
+                "validUntilDate": "2024-08-14T16:17:46.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26299,
+                "validFromDate": "2023-10-19T16:25:31.000+02:00",
+                "validUntilDate": "2024-06-26T16:33:18.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17444,
+                "validFromDate": "2023-03-01T14:45:43.000+01:00",
+                "validUntilDate": "2023-10-19T16:25:31.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_NETWORK_WITHOUT_LEGAL_FORM",
+            "de": "Plattform, Netzwerk, Interessengemeinschaft, Denkfabrik, Initiative, Aktionsb\u00fcndnis o.\u00a0\u00e4.",
+            "en": "Platform, network, community of interest, think tank, initiative, action alliance"
+        },
+        "activityDescription": "Die Power to X Allianz hat sich zusammengefunden, um die wesentlichen Voraussetzungen eines Markthochlaufs von Power to X (PtX-)Technologien entlang der gesamten Wertsch\u00f6pfungskette aufzuzeigen. Die PtX-Technologien umfassen die Umwandlung von erneuerbarem Strom in gr\u00fcne Gase wie Wasserstoff oder Methan (Power to Gas), in fl\u00fcssige Energietr\u00e4ger wie Kraft- und Brennstoffe (Power to Liquids) f\u00fcr eine nachhaltige Mobilit\u00e4t und in Geb\u00e4uden oder zur Synthese von chemischen Grundstoffen f\u00fcr die Industrie (Power to Chemicals).\r\nZiel der Interessenvertretung ist die Erl\u00e4uterung von \u00c4nderungsnotwendigkeiten hinsichtlich der Entwicklung eines funktionierenden Marktes f\u00fcr PtX-Technologien von Produktion bis Anwendung in allen Sektoren sowie dem ganzheitlichen Gelingen einer integrierten Energiewende im Zusammenspiel von PtX-Technologien mit anderen Klimaschutztechnologien- und Anwendungen (Sektorenkopplung).\r\nDie Interessensvertretung erfolgt dabei haupts\u00e4chlich durch die Erstellung von Impuls- und Positionspapieren, der Durchf\u00fchrung von und Teilnahme an Diskussionsveranstaltungen sowie dem direkten Austausch mit Vertreterinnen und Vertretern des Deutschen Bundestags und der Bundesregierung.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AEROSPACE",
+                "de": "Luft- und Raumfahrt",
+                "en": "Aerospace"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ECONOMY_AUTOMOBILE",
+                "de": "Automobilwirtschaft",
+                "en": "Automotive industry"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            },
+            {
+                "code": "CONTRACTS_OPERATED_BY_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird in eigenem Interesse durch die Beauftragung Dritter wahrgenommen",
+                "en": "Contracts are awarded to third parties to represent own interests of the company"
+            }
+        ]
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/87/fb/343322/de_ge_pol_Verhaltenskodex.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.77,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 150001,
+            "to": 160000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "c/o Johanssen + Kretschmer",
+            "street": "Wilhelmstra\u00dfe",
+            "streetNumber": "118",
+            "type": "NATIONAL",
+            "zipCode": "10963"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "ptx-allianz@jk-kom.de"
+                }
+            ],
+            "phoneNumber": "+493052000570",
+            "websites": [
+                {
+                    "website": "https://www.ptx-allianz.de/"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Heiko",
+                "lastName": "Kretschmer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Barbara",
+                "lastName": "Minderjahn",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Florian",
+                "lastName": "Schmitz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Philipp",
+                "lastName": "Sommer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Kathi",
+                "lastName": "Weiler",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+            "en": "Networks, platforms or other forms of collective activity",
+            "legalFormText": "Netzwerk ohne Rechtsform - organisierter Zusammenschluss mehrerer Unternehmen"
+        },
+        "legalFormType": {
+            "code": "NETWORK_PLATFORM_OR_OTHER",
+            "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+            "en": "Network, platform or other form of collective activity"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Heiko",
+                "function": "Gesch\u00e4ftsf\u00fchrer JK",
+                "lastName": "Kretschmer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Barbara",
+                "function": "Associate Partner",
+                "lastName": "Minderjahn",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-26",
+            "naturalPersons": 0,
+            "organizations": 10,
+            "totalCount": 10
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "European Clean Hydrogen Alliance"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Power to X Allianz (PtX Allianz)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "BP Europa SE"
+            },
+            {
+                "name": "ONTRAS Gastransport GmbH"
+            },
+            {
+                "name": "RWE Generation SE"
+            },
+            {
+                "name": "Uniper SE"
+            },
+            {
+                "name": "Wirtschaftsverband Fuels und Energie e.V. (en2x)"
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 220001,
+            "to": 230000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002202/42877",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-26T16:33:18.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b5/a4/343325/Lobbyregister-Detailansicht-R002202-2024-08-14_16-17-46.pdf",
+        "validFromDate": "2024-08-14T16:17:46.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 42877,
+    "registerNumber": "R002202",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Bessere finanzielle Ausstattung bestehender Instrumente zum Hochlauf gr\u00fcner PtX-Produkte, insbesondere H2Global und European Hydrogen Bank (Auction as a Service)\r\nEntwicklung weiterer Ma\u00dfnahmen, die insbesondere die Anreize und Finanzierungsperspektiven f\u00fcr die Produktion, den Transport und die Anwendung setzen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                        "de": "Stra\u00dfenverkehr",
+                        "en": "Road traffic"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_NET",
+                        "de": "Energienetze",
+                        "en": "Energy networks"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_FOREIGN_TRADE",
+                        "de": "Au\u00dfenwirtschaft",
+                        "en": "Foreign trade"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                        "de": "Personenverkehr",
+                        "en": "Public transportation"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_AUTOMOBILE",
+                        "de": "Automobilwirtschaft",
+                        "en": "Automotive industry"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_POLICY",
+                        "de": "Verkehrspolitik",
+                        "en": "Transport policy"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    },
+                    {
+                        "code": "FOI_ENERGY_FOSSILE",
+                        "de": "Fossile Energien",
+                        "en": "Fossil fuels"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                        "de": "Verkehrsinfrastruktur",
+                        "en": "Infrastructure"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OTHER",
+                        "de": "Sonstiges im Bereich \"Energie\"",
+                        "en": "Other in the field of \"Energy\""
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_AEROSPACE",
+                        "de": "Luft- und Raumfahrt",
+                        "en": "Aerospace"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006670",
+                "statements": [],
+                "title": "Anpassung der Rahmenbedingungen f\u00fcr Investitionen in PtX- und Wasserstoffprojekte"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "37. BImSchV",
+                        "title": "Verordnung zur Neufassung der Siebenunddrei\u00dfigsten Verordnung zur Durchf\u00fchrung des Bundes-Immissionsschutzgesetzes(Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen \u00d6len auf die Treibhausgasquote)",
+                        "url": "https://www.gesetze-im-internet.de/bimschv_37_2024"
+                    },
+                    {
+                        "shortTitle": "WindSeeG",
+                        "title": "Gesetz zur Entwicklung und F\u00f6rderung der Windenergie auf See",
+                        "url": "https://www.gesetze-im-internet.de/windseeg"
+                    },
+                    {
+                        "shortTitle": "BImSchG",
+                        "title": "Gesetz zum Schutz vor sch\u00e4dlichen Umwelteinwirkungen durch Luftverunreinigungen, Ger\u00e4usche, Ersch\u00fctterungen und \u00e4hnliche Vorg\u00e4nge",
+                        "url": "https://www.gesetze-im-internet.de/bimschg"
+                    },
+                    {
+                        "shortTitle": "EEG 2023",
+                        "title": "Gesetz f\u00fcr den Ausbau erneuerbarer Energien",
+                        "url": "https://www.gesetze-im-internet.de/eeg_2014"
+                    },
+                    {
+                        "shortTitle": "EnWG",
+                        "title": "Gesetz \u00fcber die Elektrizit\u00e4ts- und Gasversorgung",
+                        "url": "https://www.gesetze-im-internet.de/enwg_2005"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "F\u00fcr einen Gro\u00dfteil der bis 2030 zu realisierenden heimischen Elektrolyseleistung von 10 GW existiert bislang keine Investitionsentscheidung. Die PtX Allianz ist \u00fcberzeugt, dass diese, f\u00fcr den Klimaschutz existenziellen, Investitionen privatwirtschaftlich m\u00f6glich sind \u2013 sofern die politischen Stellschrauben richtig justiert werden. Die PtX Allianz fordert Anpassungen bei bestehenden Instrumenten zum Wasserstoff- und PtX-Hochlauf der Bundesregierung und zeigt M\u00f6glichkeiten zur Weiterentwicklung auf.\r\nUm die Investitionen in die ersten gr\u00fcnen Wasserstoff- und PtX-Projekte im industriellen Ma\u00dfstab zu erm\u00f6glichen, h\u00e4lt die PtX Allianz zudem die Einf\u00fchrung eines neuen verursachergerechten Finanzierungsmechanismus \u2013 des PtX-Hochlauffonds \u2013 f\u00fcr unabdingbar.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_OTHER",
+                        "de": "Sonstiges im Bereich \"Umwelt\"",
+                        "en": "Other in the field of \"Environment\""
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_POLICY",
+                        "de": "Verkehrspolitik",
+                        "en": "Transport policy"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                        "de": "Personenverkehr",
+                        "en": "Public transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_AEROSPACE",
+                        "de": "Luft- und Raumfahrt",
+                        "en": "Aerospace"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_NET",
+                        "de": "Energienetze",
+                        "en": "Energy networks"
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OTHER",
+                        "de": "Sonstiges im Bereich \"Energie\"",
+                        "en": "Other in the field of \"Energy\""
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011611",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/18/2b/343323/Stellungnahme-Gutachten-SG2408140009.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                        "de": "Bundeskanzleramt (BKAmt)",
+                                        "en": "Bundeskanzleramt (BKAmt)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                        "de": "Bundesministerium der Finanzen (BMF)",
+                                        "en": "Bundesministerium der Finanzen (BMF)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                        "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                        "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-07-08"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0011611",
+                        "regulatoryProjectTitle": "Update des Instrumentenmixes der Bundesregierung f\u00fcr den PtX-Hochlauf und Vorschlag eines PtX-Hochlauffonds",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Instrumentenmix der Bundesregierung f\u00fcr den PtX-Hochlauf braucht jetzt ein Update\r\nDeutschland soll 2045 klimaneutral sein, bis 2030 sollen die bundesweiten Treibhausgas-Emissionen bereits um 65 % reduziert werden. Gr\u00fcner Wasserstoff und gr\u00fcne PtX-Produkte spielen hierf\u00fcr eine essenzielle Rolle. Die Ziele der nationalen Wasserstoffstrategie tragen diesem Umstand Rechnung: Bis 2030 sollen 10 GW heimische Elektrolyseleistung installiert sein, um rund ein Drittel bis die H\u00e4lfte der erwarteten nationalen Wasserstoffnachfrage (95 bis 130 TWh (2030)) decken zu k\u00f6nnen. Aktuell besteht f\u00fcr fast 95 % dieses heimischen Elektrolyseziels jedoch noch keine Investitionsentscheidung, gleiches gilt auch f\u00fcr die Umstellung auf der Seite der Wasserstoffnutzer (z. B. auf wasserstoffbasierte Produktionsverfahren in der Industrie).\r\nEin zentraler Hebel f\u00fcr einen erfolgreichen Wasserstoff- und PtX-Hochlauf besteht darin, diese Investitionsl\u00fccke mit geeigneten politischen Ma\u00dfnahmen zu schlie\u00dfen. Klar ist: Eine \u201eOne size fits all\u201c-L\u00f6sung gibt es hierbei nicht; d. h. es braucht einen ausgewogenen Instrumentenmix, um das Henne-Ei-Problem des gr\u00fcnen PtX- und Wasserstoffhochlaufes aufzul\u00f6sen \u2013 Produktion, Transport und Anwendungen m\u00fcssen gleichzeitig angeschoben werden. Klar ist aber auch: Der bisher implementierte Instrumentenmix der Bundesregierung bringt die ben\u00f6tigten Investitionsentscheidungen aktuell nicht hervor.\r\nDiese ausbleibenden Investitionen haben zahlreiche Gr\u00fcnde: Die ersten Produktions- sowie Anwendungsanlagen sind verh\u00e4ltnism\u00e4\u00dfig teuer, da die jeweilige Lernkurve mitfinanziert werden muss. Die damit erschlie\u00dfbaren Skaleneffekte und Effizienzgewinne sind volkswirtschaftlich nat\u00fcrlich w\u00fcnschenswert. Sie bedeuten betriebswirtschaftlich aber auch, dass gerade diejenigen, die als erste in derartige klimafreundliche Technologien investieren, finanzielle Nachteile gegen\u00fcber sp\u00e4teren Investitionen tragen m\u00fcssen: Ihre gr\u00fcnen Wasserstoff- und PtX-Produkte oder klimafreundlichen Endprodukte werden kostenintensiver in der Herstellung sein als diejenigen, deren Produktion ein paar Jahre sp\u00e4ter in Betrieb geht. Bei Amortisationszeitr\u00e4umen von zumeist \u00fcber 10 Jahren w\u00fcrden derartige erste Produktionsanlagen sehr wahrscheinlich bereits nach wenigen Jahren zu gestrandeten Investitionen (\u201estranded investments\u201c).\r\nDie Bundesregierung hat dies erkannt und bereits erste wichtige Instrumente und Ma\u00dfnahmen f\u00fcr den Markthochlauf von gr\u00fcnen PtX-Produkten verabschiedet. Trotzdem m\u00fcssen aus unserer Sicht jetzt der Instrumentenmix vervollst\u00e4ndigt und bessere Anreize f\u00fcr die Finanzierung gesetzt werden, um den sich abzuzeichnenden Investitionsstau aufzul\u00f6sen. Deshalb wird im Folgenden diskutiert, welchen Schwierigkeiten die aktuell gew\u00e4hlten Instrumente und Ma\u00dfnahmen gegen\u00fcberstehen und wie die H\u00fcrden aus Sicht der PtX-Allianz \u00fcberwunden werden k\u00f6nnten.\r\nDie Klimaschutzvertr\u00e4ge sollen die Mehrkosten des Einsatzes von Wasserstoff f\u00fcr die Dekarbonisierung der Industrie ausgleichen und f\u00fcr die zu f\u00f6rdernden Unternehmen erf\u00fcllen sie diesen Zweck aller Voraussicht nach auch. Sie sind daher ein unverzichtbares Instrument, um den Wirtschaftsstandort Deutschland zukunftsfest zu machen. Aufgrund der Orientierung der Differenzkontraktf\u00f6rderung am t\u00e4glichen Grenzkostenpreis von Wasserstoff erm\u00f6glichen sie allerdings keine langfristigen Abnahmevertr\u00e4ge mit den entsprechenden Produzenten. Eine Abl\u00f6sung der Klimaschutzvertr\u00e4ge durch die \u201eGr\u00fcnen Leitm\u00e4rkte\u201c, wie vom Bundeswirtschaftsministerium (BMWK) vorgesehen, w\u00fcrde daran nichts \u00e4ndern. Klimaschutzvertr\u00e4ge k\u00f6nnen daher nur sektorspezifisch wirken; d. h. f\u00fcr den Aufbau der notwendigen Elektrolysekapazit\u00e4ten bedarf es weiterer Instrumente.\r\nIn Bezug auf die Transformation der Infrastruktur stellt der Aufbau eines H2-Kernnetzes in Deutschland einen wichtigen Meilenstein dar. Wichtig ist aber auch, vom Kern in die Fl\u00e4che zu kommen: Sowohl bei der weiteren Transformationsplanung als auch der Transformationsfinanzierung sollten die Verteilnetze mit in den Blick genommen werden, die unter anderem auch wichtige Industrie- und Gewerbecluster enthalten.\r\nMit der European Hydrogen Bank (EHB) steht ein europaweites Instrument zur Verf\u00fcgung, das produktionsseitige Differenzkosten von Wasserstoff \u00fcber einen Zeitraum von 10 Jahren ausgleicht. Dies ist wichtig und hilfreich, um den Wasserstoffhochlauf auf europ\u00e4ischer Ebene voranzubringen. In der ersten Auktionsrunde hat sich allerdings gezeigt, dass Produktionsstandorte in Deutschland bislang noch nicht konkurrenzf\u00e4hig sind, um von der EHB zu profitieren. Wir bewerten positiv, dass die Bundesregierung den Mechanismus \u201eAuction as a Service\u201c nutzt, um gezielt inl\u00e4ndische Produktionskapazit\u00e4ten aufzubauen. Die zun\u00e4chst hierf\u00fcr eingesetzten 350 Millionen Euro reichen allerdings f\u00fcr maximal 0,9 der 10 GW zu errichtenden Elektrolysekapazit\u00e4t aus. Daher sollten die Mittel dringend erh\u00f6ht werden. Auch die nun voraussichtlich angesetzte Preisobergrenze von 1,44 Euro/kg Wasserstoff, die sich aus der ersten Auktionsrunde der EHB ergibt (Preis des letzten Projekts mal den Faktor 3), wird f\u00fcr deutsche Projekte nur schwer zu erreichen sein.\r\nIm Mobilit\u00e4tssektor finden sich mehrere Quotenregelungen, die den Hochlauf gr\u00fcner PtX-Produkte anreizen sollen. So wurde mit der Novelle der 37. BImSchV eine dreifache Anrechnung von gr\u00fcnem Wasserstoff auf die Treibhausgas-Minderungsquote im Verkehr erm\u00f6glicht. Vor dem Hintergrund der kosteng\u00fcnstigen anderweitigen Erf\u00fcllungsoptionen und der gegenw\u00e4rtig niedrigen Zertifikatpreise ist allerdings aktuell keine Wirkung von diesem Instrument im Markt zu beobachten.\r\nIm Jahr 2026 greift die nationale PtL-Quote in der Luftfahrt erstmals: Zu diesem Zeitpunkt sollen Flugzeuge an deutschen Flugh\u00e4fen mit 0,5 % synthetischen Kraftstoffen betankt werden. Es befindet sich allerdings gegenw\u00e4rtig keine industrielle Produktionsanlage f\u00fcr synthetisches Kerosin in Betrieb oder Bau. Diese Quote wird aufgrund inexistenter Produktion daher absehbar nicht erf\u00fcllt werden k\u00f6nnen. Quotenregelungen k\u00f6nnen generell auf das Ziel einzahlen, eine konstante Abnahme von gr\u00fcnen PtX-Produkten zu generieren. Sie k\u00f6nnen aber alleinstehend keine Investitionsentscheidungen f\u00fcr gro\u00dfskalige Produktionsanlagen ausl\u00f6sen, denn gerade die ersten derartigen Produktionsanlagen ben\u00f6tigen vor allem auch eine verl\u00e4ssliche Preis-Perspektive. Aufgrund einer m\u00f6glichen politischen Einflussnahme auf Quoten f\u00fchrt das Instrument auch nicht zu einer \u201eBankability\u201c f\u00fcr Projekte. Im Zuge der Anpassung des Bundeshaushaltes f\u00fcr 2024 wurde die hierf\u00fcr dringend ben\u00f6tigte F\u00f6rderung von PtL-Produktionsanlagen allerdings weitgehend gestrichen. Dies bewerten wir als einen schwerwiegenden Fehler.\r\nAls besonders wichtig erachten wir die Diskussion \u00fcber die Einf\u00fchrung einer Gr\u00fcngasquote f\u00fcr den Gasvertrieb, um die Abnahmeoptionen f\u00fcr Produzenten zu erh\u00f6hen, den Hochlauf klimafreundlicher Power-to-Gas-Energietr\u00e4ger zu beschleunigen und die Verbrauchssektoren fossilfrei zu stellen. Doch auch bei der Einf\u00fchrung einer Gr\u00fcngasquote m\u00fcssen die oben beschriebenen Aspekte zum Anlauf bedacht werden. So m\u00fcssten \u201eFirst-Mover\u201c-Nachteile bei neuen Anlagen ausgeglichen werden. Die PtX Allianz wird sich aktiv in die Diskussion zur Gr\u00fcngasquote einbringen.\r\nDas Windenergie-auf-See-Gesetz erm\u00e4chtigt das Bundesministerium f\u00fcr Wirtschaft und Klimaschutz bereits seit 2023, j\u00e4hrlich eine systemdienliche Elektrolyseleistung von 500 MW auszuschreiben. Bis 2028 k\u00f6nnten so kumuliert zumindest 3 der angestrebten 10 GW Elektrolyseleistung realisiert werden. Aufgrund der fehlenden Definition der Systemdienlichkeit ist bisher allerdings keine Ausschreibung erfolgt. Wir appellieren an das BMWK, eine derartige praxistaugliche Definition zu erarbeiten und die Ausschreibungen durchzuf\u00fchren.\r\nIn Anbetracht der ambitionierten Klimaziele bis 2030 und 2045 hat die Bundesregierung bereits zahlreiche gute marktf\u00f6rdernde Instrumente auf den Weg gebracht. Allerdings bedarf es dringend einer besseren finanziellen Ausstattung bestehender Instrumente zum Hochlauf gr\u00fcner PtX-Produkte sowie weiterer Ma\u00dfnahmen, die insbesondere die Anreize und Finanzierungsperspektiven f\u00fcr die Produktion, den Transport und die Anwendung setzen.\r\nDie Power to X Allianz schl\u00e4gt daher die Einf\u00fchrung eines PtX-Hochlauffonds vor, aus dem die noch bestehenden Mehrkosten gr\u00fcner PtX-Produkte ausgeglichen werden. Der Fonds soll sich dabei prim\u00e4r aus verursachergerechten, haushaltsunabh\u00e4ngigen Einnahmequellen wie zweckgebundenen PtX-Abgaben speisen. Die Mittel sollen dann \u00fcber ein Ausschreibungsverfahren als F\u00f6rderung zum Ausgleich von produktionsseitigen Differenzkosten investiert werden, um die ersten PtX-Projekte im industriellen Ma\u00dfstab in Deutschland zu realisieren.\r\nAuch m\u00f6chte die Power to X Allianz auf den Vorschlag eines Energiewende-Fonds des Bundesverbands der Energie- und Wasserwirtschaft (BDEW), des Verbands kommunaler Unternehmen (VKU) und Deloitte verweisen. Mithilfe eines solchen Fonds lie\u00dfe sich die Eigenkapitalquote der in der Energiewende investierten Unternehmen erh\u00f6hen, um wichtige Hebeleffekte bei der Kreditaufnahme zu erwirken."
+                        }
+                    }
+                ],
+                "title": "Update des Instrumentenmixes der Bundesregierung f\u00fcr den PtX-Hochlauf und Vorschlag eines PtX-Hochlauffonds"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/18/2b/343323/Stellungnahme-Gutachten-SG2408140009.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                "de": "Bundeskanzleramt (BKAmt)",
+                                "en": "Bundeskanzleramt (BKAmt)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                "de": "Bundesministerium der Finanzen (BMF)",
+                                "en": "Bundesministerium der Finanzen (BMF)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-07-08"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0011611",
+                "regulatoryProjectTitle": "Update des Instrumentenmixes der Bundesregierung f\u00fcr den PtX-Hochlauf und Vorschlag eines PtX-Hochlauffonds",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Instrumentenmix der Bundesregierung f\u00fcr den PtX-Hochlauf braucht jetzt ein Update\r\nDeutschland soll 2045 klimaneutral sein, bis 2030 sollen die bundesweiten Treibhausgas-Emissionen bereits um 65 % reduziert werden. Gr\u00fcner Wasserstoff und gr\u00fcne PtX-Produkte spielen hierf\u00fcr eine essenzielle Rolle. Die Ziele der nationalen Wasserstoffstrategie tragen diesem Umstand Rechnung: Bis 2030 sollen 10 GW heimische Elektrolyseleistung installiert sein, um rund ein Drittel bis die H\u00e4lfte der erwarteten nationalen Wasserstoffnachfrage (95 bis 130 TWh (2030)) decken zu k\u00f6nnen. Aktuell besteht f\u00fcr fast 95 % dieses heimischen Elektrolyseziels jedoch noch keine Investitionsentscheidung, gleiches gilt auch f\u00fcr die Umstellung auf der Seite der Wasserstoffnutzer (z. B. auf wasserstoffbasierte Produktionsverfahren in der Industrie).\r\nEin zentraler Hebel f\u00fcr einen erfolgreichen Wasserstoff- und PtX-Hochlauf besteht darin, diese Investitionsl\u00fccke mit geeigneten politischen Ma\u00dfnahmen zu schlie\u00dfen. Klar ist: Eine \u201eOne size fits all\u201c-L\u00f6sung gibt es hierbei nicht; d. h. es braucht einen ausgewogenen Instrumentenmix, um das Henne-Ei-Problem des gr\u00fcnen PtX- und Wasserstoffhochlaufes aufzul\u00f6sen \u2013 Produktion, Transport und Anwendungen m\u00fcssen gleichzeitig angeschoben werden. Klar ist aber auch: Der bisher implementierte Instrumentenmix der Bundesregierung bringt die ben\u00f6tigten Investitionsentscheidungen aktuell nicht hervor.\r\nDiese ausbleibenden Investitionen haben zahlreiche Gr\u00fcnde: Die ersten Produktions- sowie Anwendungsanlagen sind verh\u00e4ltnism\u00e4\u00dfig teuer, da die jeweilige Lernkurve mitfinanziert werden muss. Die damit erschlie\u00dfbaren Skaleneffekte und Effizienzgewinne sind volkswirtschaftlich nat\u00fcrlich w\u00fcnschenswert. Sie bedeuten betriebswirtschaftlich aber auch, dass gerade diejenigen, die als erste in derartige klimafreundliche Technologien investieren, finanzielle Nachteile gegen\u00fcber sp\u00e4teren Investitionen tragen m\u00fcssen: Ihre gr\u00fcnen Wasserstoff- und PtX-Produkte oder klimafreundlichen Endprodukte werden kostenintensiver in der Herstellung sein als diejenigen, deren Produktion ein paar Jahre sp\u00e4ter in Betrieb geht. Bei Amortisationszeitr\u00e4umen von zumeist \u00fcber 10 Jahren w\u00fcrden derartige erste Produktionsanlagen sehr wahrscheinlich bereits nach wenigen Jahren zu gestrandeten Investitionen (\u201estranded investments\u201c).\r\nDie Bundesregierung hat dies erkannt und bereits erste wichtige Instrumente und Ma\u00dfnahmen f\u00fcr den Markthochlauf von gr\u00fcnen PtX-Produkten verabschiedet. Trotzdem m\u00fcssen aus unserer Sicht jetzt der Instrumentenmix vervollst\u00e4ndigt und bessere Anreize f\u00fcr die Finanzierung gesetzt werden, um den sich abzuzeichnenden Investitionsstau aufzul\u00f6sen. Deshalb wird im Folgenden diskutiert, welchen Schwierigkeiten die aktuell gew\u00e4hlten Instrumente und Ma\u00dfnahmen gegen\u00fcberstehen und wie die H\u00fcrden aus Sicht der PtX-Allianz \u00fcberwunden werden k\u00f6nnten.\r\nDie Klimaschutzvertr\u00e4ge sollen die Mehrkosten des Einsatzes von Wasserstoff f\u00fcr die Dekarbonisierung der Industrie ausgleichen und f\u00fcr die zu f\u00f6rdernden Unternehmen erf\u00fcllen sie diesen Zweck aller Voraussicht nach auch. Sie sind daher ein unverzichtbares Instrument, um den Wirtschaftsstandort Deutschland zukunftsfest zu machen. Aufgrund der Orientierung der Differenzkontraktf\u00f6rderung am t\u00e4glichen Grenzkostenpreis von Wasserstoff erm\u00f6glichen sie allerdings keine langfristigen Abnahmevertr\u00e4ge mit den entsprechenden Produzenten. Eine Abl\u00f6sung der Klimaschutzvertr\u00e4ge durch die \u201eGr\u00fcnen Leitm\u00e4rkte\u201c, wie vom Bundeswirtschaftsministerium (BMWK) vorgesehen, w\u00fcrde daran nichts \u00e4ndern. Klimaschutzvertr\u00e4ge k\u00f6nnen daher nur sektorspezifisch wirken; d. h. f\u00fcr den Aufbau der notwendigen Elektrolysekapazit\u00e4ten bedarf es weiterer Instrumente.\r\nIn Bezug auf die Transformation der Infrastruktur stellt der Aufbau eines H2-Kernnetzes in Deutschland einen wichtigen Meilenstein dar. Wichtig ist aber auch, vom Kern in die Fl\u00e4che zu kommen: Sowohl bei der weiteren Transformationsplanung als auch der Transformationsfinanzierung sollten die Verteilnetze mit in den Blick genommen werden, die unter anderem auch wichtige Industrie- und Gewerbecluster enthalten.\r\nMit der European Hydrogen Bank (EHB) steht ein europaweites Instrument zur Verf\u00fcgung, das produktionsseitige Differenzkosten von Wasserstoff \u00fcber einen Zeitraum von 10 Jahren ausgleicht. Dies ist wichtig und hilfreich, um den Wasserstoffhochlauf auf europ\u00e4ischer Ebene voranzubringen. In der ersten Auktionsrunde hat sich allerdings gezeigt, dass Produktionsstandorte in Deutschland bislang noch nicht konkurrenzf\u00e4hig sind, um von der EHB zu profitieren. Wir bewerten positiv, dass die Bundesregierung den Mechanismus \u201eAuction as a Service\u201c nutzt, um gezielt inl\u00e4ndische Produktionskapazit\u00e4ten aufzubauen. Die zun\u00e4chst hierf\u00fcr eingesetzten 350 Millionen Euro reichen allerdings f\u00fcr maximal 0,9 der 10 GW zu errichtenden Elektrolysekapazit\u00e4t aus. Daher sollten die Mittel dringend erh\u00f6ht werden. Auch die nun voraussichtlich angesetzte Preisobergrenze von 1,44 Euro/kg Wasserstoff, die sich aus der ersten Auktionsrunde der EHB ergibt (Preis des letzten Projekts mal den Faktor 3), wird f\u00fcr deutsche Projekte nur schwer zu erreichen sein.\r\nIm Mobilit\u00e4tssektor finden sich mehrere Quotenregelungen, die den Hochlauf gr\u00fcner PtX-Produkte anreizen sollen. So wurde mit der Novelle der 37. BImSchV eine dreifache Anrechnung von gr\u00fcnem Wasserstoff auf die Treibhausgas-Minderungsquote im Verkehr erm\u00f6glicht. Vor dem Hintergrund der kosteng\u00fcnstigen anderweitigen Erf\u00fcllungsoptionen und der gegenw\u00e4rtig niedrigen Zertifikatpreise ist allerdings aktuell keine Wirkung von diesem Instrument im Markt zu beobachten.\r\nIm Jahr 2026 greift die nationale PtL-Quote in der Luftfahrt erstmals: Zu diesem Zeitpunkt sollen Flugzeuge an deutschen Flugh\u00e4fen mit 0,5 % synthetischen Kraftstoffen betankt werden. Es befindet sich allerdings gegenw\u00e4rtig keine industrielle Produktionsanlage f\u00fcr synthetisches Kerosin in Betrieb oder Bau. Diese Quote wird aufgrund inexistenter Produktion daher absehbar nicht erf\u00fcllt werden k\u00f6nnen. Quotenregelungen k\u00f6nnen generell auf das Ziel einzahlen, eine konstante Abnahme von gr\u00fcnen PtX-Produkten zu generieren. Sie k\u00f6nnen aber alleinstehend keine Investitionsentscheidungen f\u00fcr gro\u00dfskalige Produktionsanlagen ausl\u00f6sen, denn gerade die ersten derartigen Produktionsanlagen ben\u00f6tigen vor allem auch eine verl\u00e4ssliche Preis-Perspektive. Aufgrund einer m\u00f6glichen politischen Einflussnahme auf Quoten f\u00fchrt das Instrument auch nicht zu einer \u201eBankability\u201c f\u00fcr Projekte. Im Zuge der Anpassung des Bundeshaushaltes f\u00fcr 2024 wurde die hierf\u00fcr dringend ben\u00f6tigte F\u00f6rderung von PtL-Produktionsanlagen allerdings weitgehend gestrichen. Dies bewerten wir als einen schwerwiegenden Fehler.\r\nAls besonders wichtig erachten wir die Diskussion \u00fcber die Einf\u00fchrung einer Gr\u00fcngasquote f\u00fcr den Gasvertrieb, um die Abnahmeoptionen f\u00fcr Produzenten zu erh\u00f6hen, den Hochlauf klimafreundlicher Power-to-Gas-Energietr\u00e4ger zu beschleunigen und die Verbrauchssektoren fossilfrei zu stellen. Doch auch bei der Einf\u00fchrung einer Gr\u00fcngasquote m\u00fcssen die oben beschriebenen Aspekte zum Anlauf bedacht werden. So m\u00fcssten \u201eFirst-Mover\u201c-Nachteile bei neuen Anlagen ausgeglichen werden. Die PtX Allianz wird sich aktiv in die Diskussion zur Gr\u00fcngasquote einbringen.\r\nDas Windenergie-auf-See-Gesetz erm\u00e4chtigt das Bundesministerium f\u00fcr Wirtschaft und Klimaschutz bereits seit 2023, j\u00e4hrlich eine systemdienliche Elektrolyseleistung von 500 MW auszuschreiben. Bis 2028 k\u00f6nnten so kumuliert zumindest 3 der angestrebten 10 GW Elektrolyseleistung realisiert werden. Aufgrund der fehlenden Definition der Systemdienlichkeit ist bisher allerdings keine Ausschreibung erfolgt. Wir appellieren an das BMWK, eine derartige praxistaugliche Definition zu erarbeiten und die Ausschreibungen durchzuf\u00fchren.\r\nIn Anbetracht der ambitionierten Klimaziele bis 2030 und 2045 hat die Bundesregierung bereits zahlreiche gute marktf\u00f6rdernde Instrumente auf den Weg gebracht. Allerdings bedarf es dringend einer besseren finanziellen Ausstattung bestehender Instrumente zum Hochlauf gr\u00fcner PtX-Produkte sowie weiterer Ma\u00dfnahmen, die insbesondere die Anreize und Finanzierungsperspektiven f\u00fcr die Produktion, den Transport und die Anwendung setzen.\r\nDie Power to X Allianz schl\u00e4gt daher die Einf\u00fchrung eines PtX-Hochlauffonds vor, aus dem die noch bestehenden Mehrkosten gr\u00fcner PtX-Produkte ausgeglichen werden. Der Fonds soll sich dabei prim\u00e4r aus verursachergerechten, haushaltsunabh\u00e4ngigen Einnahmequellen wie zweckgebundenen PtX-Abgaben speisen. Die Mittel sollen dann \u00fcber ein Ausschreibungsverfahren als F\u00f6rderung zum Ausgleich von produktionsseitigen Differenzkosten investiert werden, um die ersten PtX-Projekte im industriellen Ma\u00dfstab in Deutschland zu realisieren.\r\nAuch m\u00f6chte die Power to X Allianz auf den Vorschlag eines Energiewende-Fonds des Bundesverbands der Energie- und Wasserwirtschaft (BDEW), des Verbands kommunaler Unternehmen (VKU) und Deloitte verweisen. Mithilfe eines solchen Fonds lie\u00dfe sich die Eigenkapitalquote der in der Energiewende investierten Unternehmen erh\u00f6hen, um wichtige Hebeleffekte bei der Kreditaufnahme zu erwirken."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

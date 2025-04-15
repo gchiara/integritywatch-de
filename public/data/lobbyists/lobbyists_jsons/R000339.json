@@ -1,0 +1,916 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-07T15:16:09.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-08T09:44:41.000+01:00",
+        "lastUpdateDate": "2024-06-21T13:12:39.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 38439,
+                "validFromDate": "2024-06-21T13:12:39.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 36355,
+                "validFromDate": "2024-06-17T12:03:57.000+02:00",
+                "validUntilDate": "2024-06-21T13:12:39.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 35346,
+                "validFromDate": "2024-06-03T15:30:22.000+02:00",
+                "validUntilDate": "2024-06-17T12:03:57.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 20124,
+                "validFromDate": "2023-05-22T16:02:35.000+02:00",
+                "validUntilDate": "2024-06-03T15:30:22.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16041,
+                "validFromDate": "2023-02-07T15:16:09.000+01:00",
+                "validUntilDate": "2023-05-22T16:02:35.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Der WSM hat die Aufgabe, die gemeinsamen Belange der in ihr zusammengeschlossenen Industriezweige zu wahren und zu f\u00f6rdern. Derzeit sind 13 Industriezweige der Stahl- und Metallverarbeitung im WSM organisiert. \r\n\r\nDer WSM bietet seinen Mitgliedsverb\u00e4nden und Mitgliedsunternehmen die M\u00f6glichkeit der Vernetzung, des Erfahrungsaustauschs und der Zusammenarbeit untereinander und mit anderen Akteuren aus Wirtschaft und Wissenschaft in den Grenzen des wettbewerblich Erlaubtem.\r\n\r\nDie Interessenvertretung wird ausge\u00fcbt durch den Dialog mit der Politik in Form von Stellungnahmen und Gespr\u00e4chen sowie Dialogen in unterschiedlichen Formaten wie beispielsweis die Einladung zu Verbandsveranstaltungen.    \r\n\r\n\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_DEFENSE_ARMAMENTS",
+                "de": "R\u00fcstungsangelegenheiten",
+                "en": "Armaments matters"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_ECONOMY_AUTOMOBILE",
+                "de": "Automobilwirtschaft",
+                "en": "Automotive industry"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_DEFENSE",
+                "de": "Verteidigung",
+                "en": "Defense"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/ac/ff/303580/788703-Jahresabschluss-2023_Auszug.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 2.6,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 180001,
+            "to": 190000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "D\u00fcsseldorf",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Uerdinger Stra\u00dfe",
+            "streetNumber": "58-62",
+            "type": "NATIONAL",
+            "zipCode": "40474"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "cvietmeyer@wsm-net.de"
+                },
+                {
+                    "email": "ystoermer@wsm-net.de"
+                }
+            ],
+            "phoneNumber": "+4921195786822",
+            "websites": [
+                {
+                    "website": "www.wsm-net.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Ulrich",
+                "lastName": "Flatken",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Christian",
+                "lastName": "Vietmeyer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Holger",
+                "lastName": "Ade",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Volker",
+                "lastName": "Bockskopf",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Christian ",
+                "lastName": "von der Crone ",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Ulrich",
+                "function": "Pr\u00e4sident",
+                "lastName": "Flatken",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Christian ",
+                "function": "Vizepr\u00e4sident",
+                "lastName": "von der Crone ",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-03",
+            "naturalPersons": 0,
+            "organizations": 18,
+            "totalCount": 18
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Bundesverband der Deutschen Industrie e.V."
+            },
+            {
+                "membership": "ArGeZ Arbeitsgemeinschaft Zulieferindustrie "
+            },
+            {
+                "membership": "B\u00fcndnis faire Energiewende "
+            },
+            {
+                "membership": "Initiative pro AGB-Recht"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "WSM Wirtschaftsverband Stahl- und Metallverarbeitung e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "Industrieverband Blechumformung e.V."
+            },
+            {
+                "name": "Fachvereinigung Kaltwalzwerke e.V."
+            },
+            {
+                "name": "Industrieverband Massivumformung e.V."
+            },
+            {
+                "name": "Deutscher Schraubenverband e.V."
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 1050001,
+            "to": 1060000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000339/38439",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-17T12:03:57.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/4d/55/303583/Lobbyregister-Detailansicht-R000339-2024-06-21_13-12-39.pdf",
+        "validFromDate": "2024-06-21T13:12:39.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 38439,
+    "registerNumber": "R000339",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "LkSG",
+                        "title": "Gesetz \u00fcber die unternehmerischen Sorgfaltspflichten zur Vermeidung von Menschenrechtsverletzungen in Lieferketten",
+                        "url": "https://www.gesetze-im-internet.de/lksg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Das Lieferkettensorgfaltspflichtengesetzes (LKSG) ist an die Vorgaben der DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on Corporate Sustainability Due Diligence and amending Directive (EU) 2019/1937 \"CSDDD\") anzupassen. F\u00fcr die WSM-Branchen ist eine b\u00fcrokratiearme und praxistaugliche Neuregelung wichtig.  ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_LAW_CIVIL_RIGHT",
+                        "de": "Zivilrecht",
+                        "en": "Civil rights"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002509",
+                "statements": [],
+                "title": "Anpassung des Lieferkettensorgfaltspflichtengesetz an europ\u00e4ische Vorgaben praxistauglich gestalten "
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BImSchG",
+                        "title": "Gesetz zum Schutz vor sch\u00e4dlichen Umwelteinwirkungen durch Luftverunreinigungen, Ger\u00e4usche, Ersch\u00fctterungen und \u00e4hnliche Vorg\u00e4nge",
+                        "url": "https://www.gesetze-im-internet.de/bimschg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Anpassung des BImSchG an die Directive of the European Parliament and of the Council amending Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) and Council Directive 1999/31/EC of 26 April 1999 on the landfill of waste praxistauglich gestalten. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_POLLUTION",
+                        "de": "Immissionsschutz",
+                        "en": "Immission control"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002510",
+                "statements": [],
+                "title": "Anpassung des BImSchG an EU-Richtlinie IED praxistauglich gestalten "
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BImSchG",
+                        "title": "Gesetz zum Schutz vor sch\u00e4dlichen Umwelteinwirkungen durch Luftverunreinigungen, Ger\u00e4usche, Ersch\u00fctterungen und \u00e4hnliche Vorg\u00e4nge",
+                        "url": "https://www.gesetze-im-internet.de/bimschg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Umsetzung bzw. Novelle des vorhandenen BImSchG im Rahmen des beschlossene Bund-L\u00e4nder-Pakt zur Beschleunigung von Verfahren",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_POLLUTION",
+                        "de": "Immissionsschutz",
+                        "en": "Immission control"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002511",
+                "statements": [],
+                "title": "Novelle BImSchG "
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BGB",
+                        "title": "B\u00fcrgerliches Gesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Es gibt Bestrebungen, das Recht der Allgemeinen Gesch\u00e4ftsbedingungen (AGB) im unternehmerischen Rechtsverkehr (B2B) zu reformieren. Der Schutz derjenigen Unternehmen, die AGB anderer Unternehmen akzeptieren, darf indes nicht herabgesetzt werden.  ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_CIVIL_RIGHT",
+                        "de": "Zivilrecht",
+                        "en": "Civil rights"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002512",
+                "statements": [],
+                "title": "Recht der Allgemeinen Gesch\u00e4ftsbedingungen im unternehmerischen Rechtsverkehr erhalten "
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Der zu erwartende weitere signifikante Anstieg der Netzentgelte muss durch eine staatliche \r\nFinanzierung zumindest der energiewendebedingten Kostenbestandteile gebremst werden. Ein \r\nbeschleunigter Ausbau der Netze kann perspektivisch ebenfalls kostend\u00e4mpfend wirken, d\u00fcrfte \r\njedoch kurzfristig eher kostenerh\u00f6hende Effekte haben.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_NET",
+                        "de": "Energienetze",
+                        "en": "Energy networks"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002513",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/36/65/293656/Stellungnahme-Gutachten-SG2406120088.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-17"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002513",
+                        "regulatoryProjectTitle": "Strom\u00fcbertragungsnetzentgelte stabilisieren ",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Argumentationspapier zur Entwicklung der Energiepreise \r\nim Zeitraum 2019 bis 2025 \r\n\r\nAnlass und Ziel des Argumentationspapiers\r\nDie Preise f\u00fcr Strom und Erdgas waren im Verlauf der durch die Corona-Pandemie sowie den russischen Angriff auf die Ukraine ausgel\u00f6sten Energiekrise bis zu deren H\u00f6hepunkt im Herbst 2022 hoch volatil. Seitdem ist eine Beruhigung der M\u00e4rkte mit der Folge r\u00fcckl\u00e4ufiger Preise eingetreten. Politiker weisen in Gespr\u00e4chen \u2013 m\u00f6glicherweise koordiniert \u2013 auf diese Marktentwicklung hin und blocken konstruktive Vorschl\u00e4ge f\u00fcr politische Ma\u00dfnahmen zur Stabilisierung der Energiepreise auf einem verl\u00e4sslich stabilen, international wettbewerbsf\u00e4higen Niveau ab. \r\nDas WSM-Argumentationspapier zur Entwicklung der Energiepreise im Zeitraum 2019 bis 2025 bildet die tats\u00e4chliche Entwicklung der Energiepreise f\u00fcr mittelst\u00e4ndische Industrieunternehmen ab, stellt die Preise in einen internationalen Vergleich und skizziert den Handlungsdruck sowie -optionen der politisch Handelnden.\r\nDie faktenbasierte Beschreibung der Strompreissituation relativiert interessengeleitete Informationen und liefert eine verl\u00e4ssliche Datenbasis f\u00fcr zielf\u00fchrende energiepolitische Entscheidungen der Bundes-regierung.\r\n\r\nBeschreibung der Energiemarktentwicklung\r\nDer Bundesverband der Energie- und Wasserwirtschaft (BDEW) beleuchtet die Entwicklung der Strompreise f\u00fcr mittelgro\u00dfe Industriekunden in seiner Strommarktanalyse aus Februar 2024 zutreffend. Die nachstehende Grafik veranschaulicht, dass der marktabh\u00e4ngige (in dunkelblau dargestellte) Anteil an den Strompreisen bereits vor dem letzten Vorkrisenjahr 2019 kontinuierlich mit einer durchschnittlichen Rate von mehr als 7 Prozent angestiegen ist, also um das 3,5-fache der Zielinflation. Im Jahr 2024 liegt der marktabh\u00e4ngige Bestandteil des Strompreises 70 Prozent \u00fcber dem Niveau des Jahres 2019. \r\nDer Blick auf die Summe aller Strompreiskomponenten best\u00e4tigt, dass die Politik in der Energie\u00ackrise den Handlungsbedarf erkannt und insbesondere die EEG-Umlage und die Stromsteuer signifikant reduziert hat. F\u00fcr die stromintensiven Mittelst\u00e4ndler haben diese beiden Ma\u00dfnahmen allerdings lediglich zu marginalen Entlastungen gef\u00fchrt, da diese die bestehenden Entlastungs\u00actatbest\u00e4nde nutzen konnten. \r\n\r\n \r\nQuelle: BDEW Strommarktanalyse Februar 2024 \r\n\r\nEntscheidend sind die H\u00f6he und die Entwicklung der marktab\u00ach\u00e4ngigen Preisbestandteile, die aufgrund steigender Netzkosten perspektivisch in Deutschland auf einem hohen Niveau bleiben.\r\n \r\nQuelle: AFRY-Analyse, BNetzA \u2013 Darstellung f\u00fcr energieintensives mittelst\u00e4ndisches Unternehmen\r\n\r\nInternationaler Vergleich der Energiepreise und Implikationen f\u00fcr die mittelst\u00e4ndische Industrie\r\nStellt man die marktabh\u00e4ngigen Strompreiskomponenten in einen internationalen Kontext, wird der Wettbewerbsnachteil der deutschen energieintensiven mittelst\u00e4ndischen Unternehmen deutlich. Insbesondere in den USA haben die Wettbewerber Zugang zu deutlich g\u00fcnstigerem Strom, im Jahr 2023 lag der Preisunterschied bei einem Faktor gr\u00f6\u00dfer 3,5. Aber auch innerhalb der EU sind die Differenzen signifikant hoch, gegen\u00fcber seinem franz\u00f6sischen Wettbewerber unmittelbar hinter der Landesgrenze bezahlt der deutsche Mittelst\u00e4ndler 40 bis 80 Prozent mehr f\u00fcr Strom.  \r\n \r\nQuelle: AFRY-Analyse \r\n\r\nPolitische Handlungsoptionen\r\nDie auf den Folgeseiten zusammengestellten Originalzitate und Daten aus den Mitgliedsunternehmen belegen einerseits die zuvor dargestellten Preisentwicklungen. Dar\u00fcber hinaus schildern die Unternehmer ihre Handlungsoptionen im Hinblick auf die perspektivisch im internationalen Vergleich zu hohen Energiekosten. Es wird klar, dass die Mittelst\u00e4ndler zwar standorttreu sein m\u00f6chten, sie jedoch keine Alternativen zu mindestens teilweise Verlagerungen ihrer Produktion ins Ausland sehen.\r\nDie Politik ist daher gefordert, folgende Handlungsoptionen vorbehaltlos zu pr\u00fcfen:\r\n\uf0a7\tDer B\u00f6rsen-Strompreis kann durch eine Verschiebung der brennstoffbetriebenen Kraftwerke in eine Kapazit\u00e4ts- und Netzreserve reduziert werden. Die Preisbildung am Markt nach dem bew\u00e4hrten Merit-Order-Prinzip der verbleibenden regenerativen Kraftwerke f\u00fchrt zu einem niedrigeren \u201eregenerativen Strompreis\u201c f\u00fcr alle Verbraucher, sowohl f\u00fcr die Industrie als auch f\u00fcr private und \u00f6ffentliche Haushalte.\r\n\uf0a7\tDer zu erwartende weitere signifikante Anstieg der Netzentgelte kann nur durch eine staatliche Finanzierung zumindest der energiewendebedingten Kostenbestandteile gebremst werden. Ein beschleunigter Ausbau der Netze kann perspektivisch ebenfalls kostend\u00e4mpfend wirken, d\u00fcrfte jedoch kurzfristig eher kostenerh\u00f6hende Effekte haben. \r\n\uf0a7\tErm\u00f6glichung der Transformation durch Umgestaltung der Finanzierung von Erh\u00f6hungen der Netz-anschlussleistungen (Baukostenzusch\u00fcsse) und Ber\u00fccksichtigung mittelst\u00e4ndischer Standorte bei der Planung des Wasserstoffnetzes.   \r\n\r\n\u2003\r\nDie aktuelle Situation der mittelst\u00e4ndischen Industrie \u2013 Originalzitate von Unternehmen:\r\n1.\tUnternehmen der Branche W\u00e4rmebehandlung:\r\n2.\tUnternehmen der Branche Blechverarbeitung\r\n\r\n \r\n\u2003\r\n3.\tUnternehmen der Branche W\u00e4rmebehandlung\r\n\r\n\r\n\u2003\r\n4.\tUnternehmen der Branche Kaltwalzwerke\r\n\u2003\r\n5.\tWeitere Daten aus vier Unternehmen ohne Kommentierung\r\na) \tBranche Kaltwalzwerke\r\nStromkosten (Index)\r\n \r\n\r\nAnmerkung WSM:\r\nDie Stromkosten liegen f\u00fcr das Unternehmen im Jahr 2024 um 65% \u00fcber den Kosten im Jahr 2020, obwohl die Steuern, Abgaben und Umlagen um rund 80% reduziert wurden. Die Strompreise und die Netzkosten sind dagegen mehr als doppelt so hoch wie 2020. \u2003\r\nb) \tBranche Massivumformung\r\nStrompreis (Ct/kWh)\r\n2019\t2021\t2023\t2025\r\n15,96\t13,54\t12,16\t23,18\r\n4,84\t6,78\t13,60\t \r\n3,53\t7,79\t15,73\t15,19\r\n4,30\t5,05\t10,78\t \r\n5,60\t22,50\t11,40\t \r\n4,30\t4,50\t12,00\t10,50\r\n5,46\t5,20\t22,34\t \r\nDas Unternehmen in Zeile 1 hat die Netzkosten, Umlagen und Steuern einbezogen, die anderen Unternehmen haben die reinen Arbeitspreis angegeben.\r\n\r\nAnmerkung WSM:\r\nDie beiden Unternehmen, die f\u00fcr 2025 einen Strompreis angegeben haben, sehen einer Erh\u00f6hung um 330 bzw. 144 % entgegen. Selbst bei Ber\u00fccksichtigung der gesunkenen Steuern und Abgaben betr\u00e4gt der Kostenanstieg 44% (Unternehmen Zeile 1). \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                        }
+                    },
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/35/d2/303581/Stellungnahme-Gutachten-SG2406210139.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-04"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002513",
+                        "regulatoryProjectTitle": "Strom\u00fcbertragungsnetzentgelte stabilisieren ",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "B\u00fcndnis faire Energiewende\r\nDie Stromkosten bleiben eine Herausforderung \u2013 schnelle L\u00f6sungen sind erforderlich, \r\nwenn wir die De-Industrialisierung stoppen wollen\r\nDie mittelst\u00e4ndische Industrie in Deutschland leidet unter einer immensen B\u00fcrokratielast, hohen \r\nSteuern und hohen Energiekosten. Diese Belastungen f\u00fchren schon jetzt zum Abflie\u00dfen von In\u0002vestitionen ins Ausland und verst\u00e4rken die Abwanderung vom Standort Deutschland. Damit hat \r\ndie viel bef\u00fcrchtete De-Industrialisierung Deutschlands begonnen. \r\nDie Politik hat das in Teilen erkannt, aber es ist bisher kein wirksames und umfassendes Gegen\u0002steuern zu erkennen. Im Gegenteil:\r\nDer energieintensive Mittelstand wird u. a. mit den gestiegenen Stromkosten weiterhin allein ge\u0002lassen, obwohl immer mehr vor allem energieintensive Produktion aus Deutschland abwandert. \r\nVon einer Entspannung der Lage bei den Energiekosten, wie dies in \u00f6ffentlichen Diskussionen \r\nderzeit vielfach behauptet wird, kann keine Rede sein. \r\nWir nehmen diese Diskussionen zum Anlass, uns zum Thema Energie- und Stromkosten f\u00fcr den \r\nenergieintensiven Mittelstand in Deutschland erneut einzubringen.\r\nDer nicht wettbewerbsf\u00e4hige Strompreis hat keine konjunkturellen, sondern strukturelle Gr\u00fcnde:\r\n\u2022 Sinkende Strommarktpreise entlasten nicht automatisch, da mittelst\u00e4ndische Unternehmen \r\nregelm\u00e4\u00dfig langfristige Versorgungsvertr\u00e4ge abschlie\u00dfen, die sie nicht ad-hoc aufk\u00fcndi\u0002gen k\u00f6nnen. F\u00fcr eine Teilnahme am Spotmarkt fehlen personelle Ressourcen.\r\n\u2022 Eine Ausrichtung der Produktion am Dargebot der Energieerzeugung ist f\u00fcr mittelst\u00e4ndische \r\nBetriebe keine Option, denn die Produktion ist nur dann effizient, wenn die Anlagen im Drei\u0002schichtmodell betrieben werden.\r\n\u2022 Zudem m\u00fcssen die Betriebe ihren Kunden verl\u00e4ssliche Konditionen bieten. Gerade wenn sie \r\nTeil einer funktionierenden Lieferkette sind, schlie\u00dfen sie mit den Kunden l\u00e4ngerfristige Ver\u0002tr\u00e4ge ab. Daher werden auch auf der Einkaufsseite entsprechend kongruente Liefervereinba\u0002rungen getroffen. Das gilt auch f\u00fcr den Energieeinkauf. In der Regel werden (Mehr-)Jahres\u0002vertr\u00e4ge beim Strombezug abgeschlossen und es wird nicht an der B\u00f6rse eingekauft, um \r\n2\r\nPlanungssicherheit auch f\u00fcr die Kunden zu erreichen, Schwankungen auszugleichen und Ri\u0002siken einzuhegen.\r\n\u2022 Entscheidend sind zudem nicht allein die (gesunkenen) Strom(erzeuger)preise, sondern die \r\ngesamten StromKOSTEN, die schlussendlich mit Netzentgelten, Abgaben und Umlagen auf \r\nder Stromrechnung stehen.\r\n\u2022 Sinkende Strommarktpreise oder wegfallende Umlagen helfen nicht, wenn daf\u00fcr die Netzent\u0002gelte rasant ansteigen.\r\n\u2022 Niedrigere Netzentgelte stehen dagegen nur Gro\u00dfabnehmern oder solchen Unternehmen zur \r\nVerf\u00fcgung, die ihren Energieverbrauch aus den Hochlastzeitfenstern herausnehmen k\u00f6nnen. \r\nDie meisten kleinen und mittleren Unternehmen k\u00f6nnen das nicht leisten.\r\n\u2022 Die befristete Senkung der Stromsteuer auf das europ\u00e4ische Mindestma\u00df friert die aktuelle \r\nStromsteuerbelastung der Unternehmen allenfalls auf dem bestehenden Niveau ein, da diese \r\nbereits vorher durch den Spitzenausgleich entlastet waren. Die befristete Senkung ist daher \r\nkeine Entlastung der Unternehmen, die \u00fcber den Erhalt des Status quo hinaus ginge.\r\n\u2022 Die Strompreiskompensation (SPK) als Mittel der Stromkostensenkung steht nur wenigen \r\nausgew\u00e4hlten Branchen zur Verf\u00fcgung.\r\n\u2022 Die meisten energieintensiven Mittelst\u00e4ndler werden bei der SPK \u00fcber Branchenlisten aus\u0002sortiert, Sondervoraussetzungen unterworfen oder administrativ schlicht \u00fcberfordert, wenn \r\nsie die SPK beantragen wollen.\r\n\u2022 Das Fehlen konsequenter und planvoller Gegensteuerung \u2013 wie etwa durch einen Br\u00fc\u0002ckenstrompreis \u2013 hat den Unternehmen jede Planungsperspektive genommen. Die Auftr\u00e4ge \r\nbrechen weg, weil die Kunden nicht mehr bereit sind, die erh\u00f6hten Kosten zu zahlen und die \r\nKunden verlieren das Vertrauen in die heimischen Unternehmen. Die De-Industrialisierung\r\nist nicht zu bef\u00fcrchten oder ein Ger\u00fccht, sie findet jetzt statt.\r\nWir fordern daher auch weiterhin und dringend:\r\n1. Die Energiepolitik in Deutschland muss den Anspruch und das Ziel haben und alles daf\u00fcr tun, \r\nden Unternehmen Strom zu international wettbewerbsf\u00e4higen Preisen zur Verf\u00fcgung zu \r\nstellen. Hohe Stromkosten in Deutschland sind kein Schicksal, sondern die Folge verfehlter \r\nEnergiepolitik.\r\n2. Alle Ans\u00e4tze, die Stromkosten zu deckeln oder den Aufwand f\u00fcr den Netzausbau zeitlich zu \r\nstrecken, m\u00fcssen sich an der internationalen Wettbewerbsf\u00e4higkeit der Unternehmen mes\u0002sen lassen.\r\n3. Die Netzkosten werden durch den notwendigen massiven Aus- und Umbau der Energienetze \r\nin den n\u00e4chsten Jahren massiv ansteigen. Es muss deshalb dar\u00fcber nachgedacht werden, \r\nwie dieser Ausbau m\u00f6glichst kosteneffizient erfolgen kann, z. B. in dem man auf Erdverkabe\u0002lung weitgehend verzichtet und zum Bau von Freileitungen zur\u00fcckkehrt. \r\n4. Zudem d\u00fcrfen die Netzentgelte die Unternehmen und Verbraucher nicht \u00fcberfordern, so dass \r\ndie Finanzierung der Netzkosten zeitlich \u00fcber einen langen Zeitraum gestreckt oder auch min\u0002destens teilweise durch Haushaltsmittel finanziert werden m\u00fcssen, wie es z. B. beim Stra\u00dfen\u0002und Schienennetz auch geschieht.\r\n5. F\u00f6rderprogramme zur De-Fossilisierung, wie etwa Klimaschutzvertr\u00e4ge, m\u00fcssen f\u00fcr den \r\nMittelstand in der Praxis nutzbar sein und mit einfachen Verfahren beantragt werden k\u00f6nnen.\r\n6. Die Politik muss bereit sein, auch die Zusatzkosten durch das Instrument der CO2-Beprei\u0002sung kritisch zu hinterfragen, gerade im Hinblick auf mittelst\u00e4ndische Unternehmen und mit \r\nR\u00fccksicht auf das fehlende internationale Level-Playing-Field im Klimaschutz. Ein wirksamer \r\nund praktikabler Carbon-Leakage-Schutz ist f\u00fcr die Unternehmen deshalb essentiell.\r\n7. Die Politik muss einen nachvollziehbaren, verl\u00e4sslichen und finanziell langfristig abge\u0002sicherten Rahmen f\u00fcr den Umstieg in klimaneutrale Formen der Energieerzeugung und der \r\nProduktion schaffen, der den Standort und die Beteiligten nicht \u00fcberfordert.\r\n3\r\nZum \u201eB\u00fcndnis faire Energiewende\u201c geh\u00f6ren:\r\n\u2022 Bundesverband der Deutschen Gie\u00dferei-Industrie BDG, www.guss.de\r\n\u2022 Bundesverband Keramische Industrie e. V., www.keramverbaende.de\r\n\u2022 Bundesverband der Energieabnehmer e. V., www.vea.de\r\n\u2022 Gesamtverband der deutschen Textil- und Modeindustrie e. V., www.textil-mode.de\r\n\u2022 Gesamtverband Kunststoffverarbeitende Industrie e. V., www.gkv.de\r\n\u2022 wdk Wirtschaftsverband der deutschen Kautschukindustrie e. V., www.wdk.de\r\n\u2022 WSM Wirtschaftsverband Stahl- und Metallverarbeitung e. V., www.wsm-net.de\r\n\u2022 Deutsche Feuerfest-Industrie e. V., www.dffi.de\r\n\u2022 Industrieverband Feuerverzinken e. V., www.feuerverzinken.com\r\nDie Verb\u00e4nde im \u201eB\u00fcndnis faire Energiewende\u201c vertreten branchen\u00fcbergreifend mehr als\r\n10 000 vorwiegend mittelst\u00e4ndische deutsche Unternehmen mit ca. einer Million Besch\u00e4ftigten \r\nund etwa 200 Milliarden Euro Jahresumsatz.\r\nDer Querschnittsverband Bundesverband der Energieab"
+                        }
+                    }
+                ],
+                "title": "Strom\u00fcbertragungsnetzentgelte stabilisieren "
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Der B\u00f6rsen-Strompreis kann durch eine Verschiebung der brennstoffbetriebenen Kraftwerke in \r\neine Kapazit\u00e4ts- und Netzreserve reduziert werden. Die Preisbildung am Markt nach dem \r\nbew\u00e4hrten Merit-Order-Prinzip der verbleibenden regenerativen Kraftwerke f\u00fchrt zu einem \r\nniedrigeren \u201eregenerativen Strompreis\u201c f\u00fcr alle Verbraucher, sowohl f\u00fcr die Industrie als auch f\u00fcr \r\nprivate und \u00f6ffentliche Haushalte. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002514",
+                "statements": [],
+                "title": "Strommarktdesign novellieren "
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EDL-G",
+                        "title": "Gesetz \u00fcber Energiedienstleistungen und andere Energieeffizienzma\u00dfnahmen",
+                        "url": "https://www.gesetze-im-internet.de/edl-g"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Der Entwurf eines Gesetzes zur \u00c4nderung des Gesetzes \u00fcber Energiedienstleistungen und andere Effizienzma\u00dfnahmen soll mittelstands- und praxistauglich 1:1 an die EU-Richtlinie angepasst werden. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OTHER",
+                        "de": "Sonstiges im Bereich \"Energie\"",
+                        "en": "Other in the field of \"Energy\""
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002515",
+                "statements": [],
+                "title": "Gesetz \u00fcber Energieeffizienzma\u00dfnahmen 1:1 an EU-Richtlinie anpassen   "
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BEHG",
+                        "title": "Gesetz \u00fcber einen nationalen Zertifikatehandel f\u00fcr Brennstoffemissionen",
+                        "url": "https://www.gesetze-im-internet.de/behg"
+                    },
+                    {
+                        "shortTitle": "BECV",
+                        "title": "Verordnung \u00fcber Ma\u00dfnahmen zur Vermeidung von Carbon-Leakage durch den nationalen Brennstoffemissionshandel",
+                        "url": "https://www.gesetze-im-internet.de/becv"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Listen berechtigter Branchen nach der Brennstoffemissionshandels-Carbon-Leakage-Verordnung (BECV) zum Brennstoffemissionshandelsgesetz (BEHG) m\u00fcssen auf Antrag der Bundesregierung beihilferechtlich von der EU-Kommission genehmigt werden. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002516",
+                "statements": [],
+                "title": "Branchenlisten zum Brennstoffemissionshandels-Carbon-Leakage-Verordnung (BECV) "
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/36/65/293656/Stellungnahme-Gutachten-SG2406120088.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-17"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002513",
+                "regulatoryProjectTitle": "Strom\u00fcbertragungsnetzentgelte stabilisieren ",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Argumentationspapier zur Entwicklung der Energiepreise \r\nim Zeitraum 2019 bis 2025 \r\n\r\nAnlass und Ziel des Argumentationspapiers\r\nDie Preise f\u00fcr Strom und Erdgas waren im Verlauf der durch die Corona-Pandemie sowie den russischen Angriff auf die Ukraine ausgel\u00f6sten Energiekrise bis zu deren H\u00f6hepunkt im Herbst 2022 hoch volatil. Seitdem ist eine Beruhigung der M\u00e4rkte mit der Folge r\u00fcckl\u00e4ufiger Preise eingetreten. Politiker weisen in Gespr\u00e4chen \u2013 m\u00f6glicherweise koordiniert \u2013 auf diese Marktentwicklung hin und blocken konstruktive Vorschl\u00e4ge f\u00fcr politische Ma\u00dfnahmen zur Stabilisierung der Energiepreise auf einem verl\u00e4sslich stabilen, international wettbewerbsf\u00e4higen Niveau ab. \r\nDas WSM-Argumentationspapier zur Entwicklung der Energiepreise im Zeitraum 2019 bis 2025 bildet die tats\u00e4chliche Entwicklung der Energiepreise f\u00fcr mittelst\u00e4ndische Industrieunternehmen ab, stellt die Preise in einen internationalen Vergleich und skizziert den Handlungsdruck sowie -optionen der politisch Handelnden.\r\nDie faktenbasierte Beschreibung der Strompreissituation relativiert interessengeleitete Informationen und liefert eine verl\u00e4ssliche Datenbasis f\u00fcr zielf\u00fchrende energiepolitische Entscheidungen der Bundes-regierung.\r\n\r\nBeschreibung der Energiemarktentwicklung\r\nDer Bundesverband der Energie- und Wasserwirtschaft (BDEW) beleuchtet die Entwicklung der Strompreise f\u00fcr mittelgro\u00dfe Industriekunden in seiner Strommarktanalyse aus Februar 2024 zutreffend. Die nachstehende Grafik veranschaulicht, dass der marktabh\u00e4ngige (in dunkelblau dargestellte) Anteil an den Strompreisen bereits vor dem letzten Vorkrisenjahr 2019 kontinuierlich mit einer durchschnittlichen Rate von mehr als 7 Prozent angestiegen ist, also um das 3,5-fache der Zielinflation. Im Jahr 2024 liegt der marktabh\u00e4ngige Bestandteil des Strompreises 70 Prozent \u00fcber dem Niveau des Jahres 2019. \r\nDer Blick auf die Summe aller Strompreiskomponenten best\u00e4tigt, dass die Politik in der Energie\u00ackrise den Handlungsbedarf erkannt und insbesondere die EEG-Umlage und die Stromsteuer signifikant reduziert hat. F\u00fcr die stromintensiven Mittelst\u00e4ndler haben diese beiden Ma\u00dfnahmen allerdings lediglich zu marginalen Entlastungen gef\u00fchrt, da diese die bestehenden Entlastungs\u00actatbest\u00e4nde nutzen konnten. \r\n\r\n \r\nQuelle: BDEW Strommarktanalyse Februar 2024 \r\n\r\nEntscheidend sind die H\u00f6he und die Entwicklung der marktab\u00ach\u00e4ngigen Preisbestandteile, die aufgrund steigender Netzkosten perspektivisch in Deutschland auf einem hohen Niveau bleiben.\r\n \r\nQuelle: AFRY-Analyse, BNetzA \u2013 Darstellung f\u00fcr energieintensives mittelst\u00e4ndisches Unternehmen\r\n\r\nInternationaler Vergleich der Energiepreise und Implikationen f\u00fcr die mittelst\u00e4ndische Industrie\r\nStellt man die marktabh\u00e4ngigen Strompreiskomponenten in einen internationalen Kontext, wird der Wettbewerbsnachteil der deutschen energieintensiven mittelst\u00e4ndischen Unternehmen deutlich. Insbesondere in den USA haben die Wettbewerber Zugang zu deutlich g\u00fcnstigerem Strom, im Jahr 2023 lag der Preisunterschied bei einem Faktor gr\u00f6\u00dfer 3,5. Aber auch innerhalb der EU sind die Differenzen signifikant hoch, gegen\u00fcber seinem franz\u00f6sischen Wettbewerber unmittelbar hinter der Landesgrenze bezahlt der deutsche Mittelst\u00e4ndler 40 bis 80 Prozent mehr f\u00fcr Strom.  \r\n \r\nQuelle: AFRY-Analyse \r\n\r\nPolitische Handlungsoptionen\r\nDie auf den Folgeseiten zusammengestellten Originalzitate und Daten aus den Mitgliedsunternehmen belegen einerseits die zuvor dargestellten Preisentwicklungen. Dar\u00fcber hinaus schildern die Unternehmer ihre Handlungsoptionen im Hinblick auf die perspektivisch im internationalen Vergleich zu hohen Energiekosten. Es wird klar, dass die Mittelst\u00e4ndler zwar standorttreu sein m\u00f6chten, sie jedoch keine Alternativen zu mindestens teilweise Verlagerungen ihrer Produktion ins Ausland sehen.\r\nDie Politik ist daher gefordert, folgende Handlungsoptionen vorbehaltlos zu pr\u00fcfen:\r\n\uf0a7\tDer B\u00f6rsen-Strompreis kann durch eine Verschiebung der brennstoffbetriebenen Kraftwerke in eine Kapazit\u00e4ts- und Netzreserve reduziert werden. Die Preisbildung am Markt nach dem bew\u00e4hrten Merit-Order-Prinzip der verbleibenden regenerativen Kraftwerke f\u00fchrt zu einem niedrigeren \u201eregenerativen Strompreis\u201c f\u00fcr alle Verbraucher, sowohl f\u00fcr die Industrie als auch f\u00fcr private und \u00f6ffentliche Haushalte.\r\n\uf0a7\tDer zu erwartende weitere signifikante Anstieg der Netzentgelte kann nur durch eine staatliche Finanzierung zumindest der energiewendebedingten Kostenbestandteile gebremst werden. Ein beschleunigter Ausbau der Netze kann perspektivisch ebenfalls kostend\u00e4mpfend wirken, d\u00fcrfte jedoch kurzfristig eher kostenerh\u00f6hende Effekte haben. \r\n\uf0a7\tErm\u00f6glichung der Transformation durch Umgestaltung der Finanzierung von Erh\u00f6hungen der Netz-anschlussleistungen (Baukostenzusch\u00fcsse) und Ber\u00fccksichtigung mittelst\u00e4ndischer Standorte bei der Planung des Wasserstoffnetzes.   \r\n\r\n\u2003\r\nDie aktuelle Situation der mittelst\u00e4ndischen Industrie \u2013 Originalzitate von Unternehmen:\r\n1.\tUnternehmen der Branche W\u00e4rmebehandlung:\r\n2.\tUnternehmen der Branche Blechverarbeitung\r\n\r\n \r\n\u2003\r\n3.\tUnternehmen der Branche W\u00e4rmebehandlung\r\n\r\n\r\n\u2003\r\n4.\tUnternehmen der Branche Kaltwalzwerke\r\n\u2003\r\n5.\tWeitere Daten aus vier Unternehmen ohne Kommentierung\r\na) \tBranche Kaltwalzwerke\r\nStromkosten (Index)\r\n \r\n\r\nAnmerkung WSM:\r\nDie Stromkosten liegen f\u00fcr das Unternehmen im Jahr 2024 um 65% \u00fcber den Kosten im Jahr 2020, obwohl die Steuern, Abgaben und Umlagen um rund 80% reduziert wurden. Die Strompreise und die Netzkosten sind dagegen mehr als doppelt so hoch wie 2020. \u2003\r\nb) \tBranche Massivumformung\r\nStrompreis (Ct/kWh)\r\n2019\t2021\t2023\t2025\r\n15,96\t13,54\t12,16\t23,18\r\n4,84\t6,78\t13,60\t \r\n3,53\t7,79\t15,73\t15,19\r\n4,30\t5,05\t10,78\t \r\n5,60\t22,50\t11,40\t \r\n4,30\t4,50\t12,00\t10,50\r\n5,46\t5,20\t22,34\t \r\nDas Unternehmen in Zeile 1 hat die Netzkosten, Umlagen und Steuern einbezogen, die anderen Unternehmen haben die reinen Arbeitspreis angegeben.\r\n\r\nAnmerkung WSM:\r\nDie beiden Unternehmen, die f\u00fcr 2025 einen Strompreis angegeben haben, sehen einer Erh\u00f6hung um 330 bzw. 144 % entgegen. Selbst bei Ber\u00fccksichtigung der gesunkenen Steuern und Abgaben betr\u00e4gt der Kostenanstieg 44% (Unternehmen Zeile 1). \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/35/d2/303581/Stellungnahme-Gutachten-SG2406210139.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            }
+                        ],
+                        "sendingDate": "2024-06-04"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002513",
+                "regulatoryProjectTitle": "Strom\u00fcbertragungsnetzentgelte stabilisieren ",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "B\u00fcndnis faire Energiewende\r\nDie Stromkosten bleiben eine Herausforderung \u2013 schnelle L\u00f6sungen sind erforderlich, \r\nwenn wir die De-Industrialisierung stoppen wollen\r\nDie mittelst\u00e4ndische Industrie in Deutschland leidet unter einer immensen B\u00fcrokratielast, hohen \r\nSteuern und hohen Energiekosten. Diese Belastungen f\u00fchren schon jetzt zum Abflie\u00dfen von In\u0002vestitionen ins Ausland und verst\u00e4rken die Abwanderung vom Standort Deutschland. Damit hat \r\ndie viel bef\u00fcrchtete De-Industrialisierung Deutschlands begonnen. \r\nDie Politik hat das in Teilen erkannt, aber es ist bisher kein wirksames und umfassendes Gegen\u0002steuern zu erkennen. Im Gegenteil:\r\nDer energieintensive Mittelstand wird u. a. mit den gestiegenen Stromkosten weiterhin allein ge\u0002lassen, obwohl immer mehr vor allem energieintensive Produktion aus Deutschland abwandert. \r\nVon einer Entspannung der Lage bei den Energiekosten, wie dies in \u00f6ffentlichen Diskussionen \r\nderzeit vielfach behauptet wird, kann keine Rede sein. \r\nWir nehmen diese Diskussionen zum Anlass, uns zum Thema Energie- und Stromkosten f\u00fcr den \r\nenergieintensiven Mittelstand in Deutschland erneut einzubringen.\r\nDer nicht wettbewerbsf\u00e4hige Strompreis hat keine konjunkturellen, sondern strukturelle Gr\u00fcnde:\r\n\u2022 Sinkende Strommarktpreise entlasten nicht automatisch, da mittelst\u00e4ndische Unternehmen \r\nregelm\u00e4\u00dfig langfristige Versorgungsvertr\u00e4ge abschlie\u00dfen, die sie nicht ad-hoc aufk\u00fcndi\u0002gen k\u00f6nnen. F\u00fcr eine Teilnahme am Spotmarkt fehlen personelle Ressourcen.\r\n\u2022 Eine Ausrichtung der Produktion am Dargebot der Energieerzeugung ist f\u00fcr mittelst\u00e4ndische \r\nBetriebe keine Option, denn die Produktion ist nur dann effizient, wenn die Anlagen im Drei\u0002schichtmodell betrieben werden.\r\n\u2022 Zudem m\u00fcssen die Betriebe ihren Kunden verl\u00e4ssliche Konditionen bieten. Gerade wenn sie \r\nTeil einer funktionierenden Lieferkette sind, schlie\u00dfen sie mit den Kunden l\u00e4ngerfristige Ver\u0002tr\u00e4ge ab. Daher werden auch auf der Einkaufsseite entsprechend kongruente Liefervereinba\u0002rungen getroffen. Das gilt auch f\u00fcr den Energieeinkauf. In der Regel werden (Mehr-)Jahres\u0002vertr\u00e4ge beim Strombezug abgeschlossen und es wird nicht an der B\u00f6rse eingekauft, um \r\n2\r\nPlanungssicherheit auch f\u00fcr die Kunden zu erreichen, Schwankungen auszugleichen und Ri\u0002siken einzuhegen.\r\n\u2022 Entscheidend sind zudem nicht allein die (gesunkenen) Strom(erzeuger)preise, sondern die \r\ngesamten StromKOSTEN, die schlussendlich mit Netzentgelten, Abgaben und Umlagen auf \r\nder Stromrechnung stehen.\r\n\u2022 Sinkende Strommarktpreise oder wegfallende Umlagen helfen nicht, wenn daf\u00fcr die Netzent\u0002gelte rasant ansteigen.\r\n\u2022 Niedrigere Netzentgelte stehen dagegen nur Gro\u00dfabnehmern oder solchen Unternehmen zur \r\nVerf\u00fcgung, die ihren Energieverbrauch aus den Hochlastzeitfenstern herausnehmen k\u00f6nnen. \r\nDie meisten kleinen und mittleren Unternehmen k\u00f6nnen das nicht leisten.\r\n\u2022 Die befristete Senkung der Stromsteuer auf das europ\u00e4ische Mindestma\u00df friert die aktuelle \r\nStromsteuerbelastung der Unternehmen allenfalls auf dem bestehenden Niveau ein, da diese \r\nbereits vorher durch den Spitzenausgleich entlastet waren. Die befristete Senkung ist daher \r\nkeine Entlastung der Unternehmen, die \u00fcber den Erhalt des Status quo hinaus ginge.\r\n\u2022 Die Strompreiskompensation (SPK) als Mittel der Stromkostensenkung steht nur wenigen \r\nausgew\u00e4hlten Branchen zur Verf\u00fcgung.\r\n\u2022 Die meisten energieintensiven Mittelst\u00e4ndler werden bei der SPK \u00fcber Branchenlisten aus\u0002sortiert, Sondervoraussetzungen unterworfen oder administrativ schlicht \u00fcberfordert, wenn \r\nsie die SPK beantragen wollen.\r\n\u2022 Das Fehlen konsequenter und planvoller Gegensteuerung \u2013 wie etwa durch einen Br\u00fc\u0002ckenstrompreis \u2013 hat den Unternehmen jede Planungsperspektive genommen. Die Auftr\u00e4ge \r\nbrechen weg, weil die Kunden nicht mehr bereit sind, die erh\u00f6hten Kosten zu zahlen und die \r\nKunden verlieren das Vertrauen in die heimischen Unternehmen. Die De-Industrialisierung\r\nist nicht zu bef\u00fcrchten oder ein Ger\u00fccht, sie findet jetzt statt.\r\nWir fordern daher auch weiterhin und dringend:\r\n1. Die Energiepolitik in Deutschland muss den Anspruch und das Ziel haben und alles daf\u00fcr tun, \r\nden Unternehmen Strom zu international wettbewerbsf\u00e4higen Preisen zur Verf\u00fcgung zu \r\nstellen. Hohe Stromkosten in Deutschland sind kein Schicksal, sondern die Folge verfehlter \r\nEnergiepolitik.\r\n2. Alle Ans\u00e4tze, die Stromkosten zu deckeln oder den Aufwand f\u00fcr den Netzausbau zeitlich zu \r\nstrecken, m\u00fcssen sich an der internationalen Wettbewerbsf\u00e4higkeit der Unternehmen mes\u0002sen lassen.\r\n3. Die Netzkosten werden durch den notwendigen massiven Aus- und Umbau der Energienetze \r\nin den n\u00e4chsten Jahren massiv ansteigen. Es muss deshalb dar\u00fcber nachgedacht werden, \r\nwie dieser Ausbau m\u00f6glichst kosteneffizient erfolgen kann, z. B. in dem man auf Erdverkabe\u0002lung weitgehend verzichtet und zum Bau von Freileitungen zur\u00fcckkehrt. \r\n4. Zudem d\u00fcrfen die Netzentgelte die Unternehmen und Verbraucher nicht \u00fcberfordern, so dass \r\ndie Finanzierung der Netzkosten zeitlich \u00fcber einen langen Zeitraum gestreckt oder auch min\u0002destens teilweise durch Haushaltsmittel finanziert werden m\u00fcssen, wie es z. B. beim Stra\u00dfen\u0002und Schienennetz auch geschieht.\r\n5. F\u00f6rderprogramme zur De-Fossilisierung, wie etwa Klimaschutzvertr\u00e4ge, m\u00fcssen f\u00fcr den \r\nMittelstand in der Praxis nutzbar sein und mit einfachen Verfahren beantragt werden k\u00f6nnen.\r\n6. Die Politik muss bereit sein, auch die Zusatzkosten durch das Instrument der CO2-Beprei\u0002sung kritisch zu hinterfragen, gerade im Hinblick auf mittelst\u00e4ndische Unternehmen und mit \r\nR\u00fccksicht auf das fehlende internationale Level-Playing-Field im Klimaschutz. Ein wirksamer \r\nund praktikabler Carbon-Leakage-Schutz ist f\u00fcr die Unternehmen deshalb essentiell.\r\n7. Die Politik muss einen nachvollziehbaren, verl\u00e4sslichen und finanziell langfristig abge\u0002sicherten Rahmen f\u00fcr den Umstieg in klimaneutrale Formen der Energieerzeugung und der \r\nProduktion schaffen, der den Standort und die Beteiligten nicht \u00fcberfordert.\r\n3\r\nZum \u201eB\u00fcndnis faire Energiewende\u201c geh\u00f6ren:\r\n\u2022 Bundesverband der Deutschen Gie\u00dferei-Industrie BDG, www.guss.de\r\n\u2022 Bundesverband Keramische Industrie e. V., www.keramverbaende.de\r\n\u2022 Bundesverband der Energieabnehmer e. V., www.vea.de\r\n\u2022 Gesamtverband der deutschen Textil- und Modeindustrie e. V., www.textil-mode.de\r\n\u2022 Gesamtverband Kunststoffverarbeitende Industrie e. V., www.gkv.de\r\n\u2022 wdk Wirtschaftsverband der deutschen Kautschukindustrie e. V., www.wdk.de\r\n\u2022 WSM Wirtschaftsverband Stahl- und Metallverarbeitung e. V., www.wsm-net.de\r\n\u2022 Deutsche Feuerfest-Industrie e. V., www.dffi.de\r\n\u2022 Industrieverband Feuerverzinken e. V., www.feuerverzinken.com\r\nDie Verb\u00e4nde im \u201eB\u00fcndnis faire Energiewende\u201c vertreten branchen\u00fcbergreifend mehr als\r\n10 000 vorwiegend mittelst\u00e4ndische deutsche Unternehmen mit ca. einer Million Besch\u00e4ftigten \r\nund etwa 200 Milliarden Euro Jahresumsatz.\r\nDer Querschnittsverband Bundesverband der Energieab"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

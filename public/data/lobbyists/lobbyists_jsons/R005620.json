@@ -1,0 +1,212 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-01-19T12:32:45.000+01:00",
+                "untilDate": "2024-07-02T00:22:38.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2023-01-19T12:32:45.000+01:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-07-02T00:22:38.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2023-06-08T13:14:29.000+02:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2024-07-02T00:22:38.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 20977,
+                "validFromDate": "2023-06-08T13:14:29.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 14892,
+                "validFromDate": "2023-01-19T12:32:45.000+01:00",
+                "validUntilDate": "2023-06-08T13:14:29.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION",
+            "de": "Unternehmen",
+            "en": "Company"
+        },
+        "activityDescription": "Mitwirkung in der Plattform H2 Dezentral der dena",
+        "activityOperationType": "BOTH",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "annualReports": {
+        "annualReportExists": true,
+        "disclosureRequirementsExist": true,
+        "locationOfReportPublication": "www.bundesanzeiger-verlag.de",
+        "reportWasPublishedElsewhere": true
+    },
+    "clientIdentity": {
+        "clientsPresent": false
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Wismar",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Hoeller Electrolyzer GmbH",
+            "street": "Alter Holzhafen",
+            "streetNumber": "17 b",
+            "type": "NATIONAL",
+            "zipCode": "23966"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@hoeller-electrolyzer.com"
+                }
+            ],
+            "phoneNumber": "+493841389012",
+            "websites": [
+                {
+                    "website": "www.hoeller-electrolyzer.com"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "commonFirstName": "Stefan",
+                "emails": [
+                    {
+                        "email": "s.hoeller@hoeller-electrolyzer.com"
+                    }
+                ],
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "H\u00f6ller",
+                "phoneNumber": "+4938413890111"
+            },
+            {
+                "commonFirstName": "Matthias",
+                "emails": [
+                    {
+                        "email": "m.kramer@hoeller-electrolyzer.com"
+                    }
+                ],
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Kramer",
+                "phoneNumber": "+4938413890112"
+            }
+        ],
+        "membersPresent": false,
+        "membershipsPresent": false,
+        "name": "Hoeller Electrolyzer GmbH",
+        "namedEmployeesPresent": false
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "publicAllowances": [
+            {
+                "description": "F\u00f6rderung F&E-Vorhaben",
+                "location": "Schwerin",
+                "name": "Land Mecklenburg-Vorpommern",
+                "publicAllowanceEuro": {
+                    "from": 160001,
+                    "to": 170000
+                }
+            },
+            {
+                "description": "F\u00f6rderung im Rahmen eines Verbundvorhabens",
+                "location": "Berlin",
+                "name": "BMWi / PtJ",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                }
+            },
+            {
+                "description": "F\u00f6rderung im Rahmen eines Verbundprojekts",
+                "location": "Berlin",
+                "name": "BMBF / PtJ",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-06-08T13:14:29.000+02:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R005620/20977",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/94/84/212337/Lobbyregister-Detailansicht-R005620-2023-06-08_13-14-29.pdf",
+        "refusedAnything": false,
+        "validFromDate": "2023-06-08T13:14:29.000+02:00",
+        "version": 2
+    },
+    "registerEntryId": 20977,
+    "registerNumber": "R005620"
+}

@@ -1,0 +1,868 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-11-29T13:08:14.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-28T13:45:15.000+01:00",
+        "lastUpdateDate": "2024-08-12T11:49:35.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42762,
+                "validFromDate": "2024-08-12T11:49:35.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 40581,
+                "validFromDate": "2024-07-02T10:17:12.000+02:00",
+                "validUntilDate": "2024-08-12T11:49:35.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 32419,
+                "validFromDate": "2024-06-27T13:20:21.000+02:00",
+                "validUntilDate": "2024-07-02T10:17:12.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21849,
+                "validFromDate": "2023-06-26T09:20:56.000+02:00",
+                "validUntilDate": "2024-06-27T13:20:21.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 13489,
+                "validFromDate": "2022-11-29T13:08:14.000+01:00",
+                "validUntilDate": "2023-06-26T09:20:56.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_NONPROFIT_ORGA_V2",
+            "de": "Nichtregierungsorganisation (NGO)",
+            "en": "Non-governmental organization (NGO)"
+        },
+        "activityDescription": "terre des hommes Deutschland e.V. setzt sich als entwicklungspolitische Kinderrechtsorganisation daf\u00fcr ein, Zukunft f\u00fcr Kinder in einer gerechten und friedlichen Welt zu schaffen, und zwar f\u00fcr die heute lebenden Kinder ebenso wie f\u00fcr nachfolgende Generationen. Die fundamentalen Prinzipien der Menschenrechte, der Toleranz und der Gleichberechtigung aller Menschen unabh\u00e4ngig von Herkunft, legalem Status, Geschlecht, Religion und sexueller Orientierung, sind Grundlage der Arbeit. terre des hommes ist unabh\u00e4ngig von Regierungen, Wirtschaft, Religionsgemeinschaften und Parteien. terre des hommes setzt sich ein f\u00fcr eine Welt, in der f\u00fcr alle Kinder das \u00dcberleben gesichert ist, kein Kind mehr ausgebeutet wird, alle Kinder Bildungs- und Entwicklungschancen haben, die Kinderrechte verwirklicht sind, wirtschaftliche und soziale Gerechtigkeit und Frieden herrschen und in der Konflikte gewaltfrei gel\u00f6st werden. terre des hommes Deutschland e.V. versteht sich als B\u00fcrgerinitiative und sucht Menschen im S\u00fcden und im Norden, die sich gemeinsam mit terre des hommes f\u00fcr die Verwirklichung dieser Vision einsetzen wollen. ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_DEFENSE_AFFAIRS",
+                "de": "Bundeswehrangelegenheiten",
+                "en": "Bundeswehr affairs"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_RPI_INTEGRATION",
+                "de": "Integration",
+                "en": "Integration"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_DEFENSE_ARMAMENTS",
+                "de": "R\u00fcstungsangelegenheiten",
+                "en": "Armaments matters"
+            },
+            {
+                "code": "FOI_RPI_OTHER",
+                "de": "Sonstiges im Bereich \"Migration, Fl\u00fcchtlingspolitik und Integration\"",
+                "en": "Other in the field of \"Migration, refugee policy and integration\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_RPI_LAWS",
+                "de": "Ausl\u00e4nder- und Aufenthaltsrecht",
+                "en": "Foreign laws"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_SP_CHILDREN",
+                "de": "Kinder- und Jugendpolitik",
+                "en": "Child and youth policy"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_RPI_MIGRATION",
+                "de": "Migration",
+                "en": "Migration and residence"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_RPI_REFUGEE",
+                "de": "Asyl und Fl\u00fcchtlingsschutz",
+                "en": "Asylum and refugee protection"
+            },
+            {
+                "code": "FOI_DEFENSE",
+                "de": "Verteidigung",
+                "en": "Defense"
+            },
+            {
+                "code": "FOI_SP_OTHER",
+                "de": "Sonstiges im Bereich \"Gesellschaftspolitik und soziale Gruppen\"",
+                "en": "Other in the field of \"Social politics and social groups\""
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/03/26/342759/TDH_Jahresbericht_2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "Spende ",
+                "donationEuro": {
+                    "from": 2740001,
+                    "to": 2750000
+                },
+                "name": "Stiftung anonym (Spende ist vor dem 1.3.24 erfolgt, vgl. \u00a7 8 Absatz 3 LobbyRG)"
+            },
+            {
+                "description": "Spende",
+                "donationEuro": {
+                    "from": 4150001,
+                    "to": 4160000
+                },
+                "name": "Verein anonym (Spende ist vor dem 1.3.24 erfolgt, vgl. \u00a7 8 Absatz 3 LobbyRG)"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 11010001,
+            "to": 11020000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 2.68,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 250001,
+            "to": 260000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Osnabr\u00fcck",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Ruppenkampstra\u00dfe",
+            "streetNumber": "11a",
+            "type": "NATIONAL",
+            "zipCode": "49084"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "m.firchau@tdh.de",
+            "nationalAdditional1": "Berlin",
+            "nationalAdditional2": "Berlin",
+            "phoneNumber": "+4930166385388",
+            "street": "Sophienstra\u00dfe",
+            "streetNumber": "1",
+            "type": "NATIONAL",
+            "zipCode": "10178"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@tdh.de"
+                }
+            ],
+            "phoneNumber": "+4954171010",
+            "websites": [
+                {
+                    "website": "www.tdh.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Beat",
+                "lastName": "Wehrle",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Larisa",
+                "lastName": "Machemer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Berthold",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Barbara",
+                "lastName": "K\u00fcppers",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Antje",
+                "lastName": "Ruhmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Ralf",
+                "lastName": "Willinger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Jonas",
+                "lastName": "Schubert",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Joshua",
+                "lastName": "Hofert",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Katharina",
+                "lastName": "Debring",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Magdalena",
+                "lastName": "Firchau",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Annika",
+                "lastName": "Schlingheider",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Beat",
+                "function": "Vorstand Programme",
+                "lastName": "Wehrle",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Larisa",
+                "function": "Vorstand Finanzen/Verwaltung/Personal",
+                "lastName": "Machemer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Joshua",
+                "function": "Vorstand Kommunikation",
+                "lastName": "Hofert",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-05-31",
+            "naturalPersons": 1582,
+            "organizations": 0,
+            "totalCount": 1582
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "ECPAT Deutschland e.V."
+            },
+            {
+                "membership": "VENRO - Verband Entwicklungspolitik und Humanit\u00e4re Hilfe deutscher Nichtregierungsorganisationen"
+            },
+            {
+                "membership": "Forum Menschenrechte"
+            },
+            {
+                "membership": "B\u00fcndnis Entwicklung Hilft"
+            },
+            {
+                "membership": "ATTAC"
+            },
+            {
+                "membership": "Deutsches B\u00fcndnis Kindersoldaten"
+            },
+            {
+                "membership": "Aktion Aufschrei - Stoppt den Waffenhandel"
+            },
+            {
+                "membership": "Textilb\u00fcndnis"
+            },
+            {
+                "membership": "Unter18Nie "
+            },
+            {
+                "membership": "National Coalition f\u00fcr die Umsetzung der UN-Kinderrechtskonvention in Deutschland"
+            },
+            {
+                "membership": "Deutsches Institut f\u00fcr Menschenrechte"
+            },
+            {
+                "membership": "Bundesfachverband unbegleitete minderj\u00e4hrige Fl\u00fcchtlinge"
+            },
+            {
+                "membership": "CorA-Netzwerk f\u00fcr Unternehmensverantwortung"
+            },
+            {
+                "membership": "Initiative Lieferkettengesetz"
+            },
+            {
+                "membership": "Fokus Sahel"
+            },
+            {
+                "membership": "Alliance 8.7"
+            },
+            {
+                "membership": "Joining Forces"
+            },
+            {
+                "membership": "Runder Tisch Zentralamerika"
+            },
+            {
+                "membership": "KoBra - Kooperation Brasilien e.V."
+            },
+            {
+                "membership": "Kolko/MRKK"
+            },
+            {
+                "membership": "Internationale Woche gegen Rassismus"
+            },
+            {
+                "membership": "Deutsche Gesellschaft f\u00fcr Evaluation e.V. (DeGEval)"
+            },
+            {
+                "membership": "Myanmar Netzwerk"
+            },
+            {
+                "membership": "Responsible Mica Initiative"
+            },
+            {
+                "membership": "B\u00fcndnis Zusammen f\u00fcr Demokratie"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "terre des hommes Deutschland e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "terre des hommes Deutschland e.V. setzt mit finanzieller Unterst\u00fctzung des Bundesministeriums f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung Projekte in u.a. Pakistan, Indien, Nepal, Peru, Brasilien, Kolumbien, Nepal, Philippinen, Thailand, Burkina Faso, Mosambik, Kenia und Simbabwe um.",
+                "location": "Bonn/Berlin",
+                "name": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung",
+                "publicAllowanceEuro": {
+                    "from": 15420001,
+                    "to": 15430000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "terre des hommes Deutschland e.V. ist beteiligt an der Xenia gGmbH. Diese ist Tr\u00e4ger von Kita-Einrichtungen in Wiesbaden.",
+                "location": "Wiesbaden",
+                "name": "Stadt Wiesbaden - Kita Wiesbaden",
+                "publicAllowanceEuro": {
+                    "from": 1580001,
+                    "to": 1590000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_MUNICIPALITY",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Kommune",
+                    "en": "German Public Sector \u2013 Municipality"
+                }
+            },
+            {
+                "description": "Unterst\u00fctzung Internationales Jugendnetzwerk",
+                "location": "Osnabr\u00fcck",
+                "name": "Stadt Osnabr\u00fcck",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_MUNICIPALITY",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Kommune",
+                    "en": "German Public Sector \u2013 Municipality"
+                }
+            },
+            {
+                "description": "Humanit\u00e4re Hilfe in der Ukraine",
+                "location": "Berlin",
+                "name": "Ausw\u00e4rtiges Amt",
+                "publicAllowanceEuro": {
+                    "from": 3990001,
+                    "to": 4000000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projekt zur Unterst\u00fctzung von unbegleiteten Minderj\u00e4hrigen in Deutschland",
+                "location": "N\u00fcrnberg",
+                "name": "Bundesamt f\u00fcr Migration und Fl\u00fcchtlinge",
+                "publicAllowanceEuro": {
+                    "from": 1740001,
+                    "to": 1750000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002091/42762",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-27T13:20:21.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/58/81/342760/Lobbyregister-Detailansicht-R002091-2024-08-12_11-49-35.pdf",
+        "validFromDate": "2024-08-12T11:49:35.000+02:00",
+        "version": 8
+    },
+    "registerEntryId": 42762,
+    "registerNumber": "R002091",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "AufenthG",
+                        "title": "Gesetz \u00fcber den Aufenthalt, die Erwerbst\u00e4tigkeit und die Integration von Ausl\u00e4ndern im Bundesgebiet",
+                        "url": "https://www.gesetze-im-internet.de/aufenthg_2004"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Wir unterst\u00fctzen die im Koalitionsvertrag von der Bundesregierung vorgeschlagene Erleichterung des Nachzugs von Geschwistern zu unbegleiteten minderj\u00e4hrigen Fl\u00fcchtlingen im Rahmen des Familiennachzugs.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                        "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                        "en": "Migration, refugee policy and integration"
+                    },
+                    {
+                        "code": "FOI_RPI_LAWS",
+                        "de": "Ausl\u00e4nder- und Aufenthaltsrecht",
+                        "en": "Foreign laws"
+                    },
+                    {
+                        "code": "FOI_RPI_REFUGEE",
+                        "de": "Asyl und Fl\u00fcchtlingsschutz",
+                        "en": "Asylum and refugee protection"
+                    },
+                    {
+                        "code": "FOI_RPI_INTEGRATION",
+                        "de": "Integration",
+                        "en": "Integration"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007218",
+                "statements": [],
+                "title": "Geschwisternachzug unbegleitete Minderj\u00e4hrige"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "StAG",
+                        "title": "Staatsangeh\u00f6rigkeitsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/rustag"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "TdH begr\u00fc\u00dft das Ziel des Gesetzes, den Zugang zur deutschen Staatsangeh\u00f6rigkeit f\u00fcr die auf Dauer rechtm\u00e4\u00dfig in Deutschland lebenden Ausl\u00e4nder zu vereinfachen und beschleunigen, um ihnen eine gleichberechtigte Teilhabe zu erm\u00f6glichen. terre des hommes bewertet insbesondere die Verk\u00fcrzung der Voraufenthaltszeiten f\u00fcr das die Staatsangeh\u00f6rigkeit vermittelnde Elternteil bei in Deutschland geborenen Kindern sowie die Verk\u00fcrzung der Voraufenthaltszeit bei der Anspruchseinb\u00fcrgerung positiv. Auch die grundlegende Anerkennung von Mehrstaatigkeit begr\u00fc\u00dft terre des hommes aus kinderrechtlicher Sicht stark. Besorgniserregend ist allerdings die vorgeschlagene \u00c4nderung, die die Voraussetzungen zum Absehen von Lebensunterhaltssicherung bei der Anspruchseinb\u00fcrgerung erheblich verengt.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                        "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                        "en": "Migration, refugee policy and integration"
+                    },
+                    {
+                        "code": "FOI_RPI_LAWS",
+                        "de": "Ausl\u00e4nder- und Aufenthaltsrecht",
+                        "en": "Foreign laws"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/090/2009044.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMI",
+                                "title": "Bundesministerium des Innern und f\u00fcr Heimat",
+                                "url": "https://www.bmi.bund.de/DE/startseite/startseite-node.html"
+                            }
+                        ],
+                        "printingNumber": "20/9044",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-modernisierung-des-staatsangeh%C3%B6rigkeitsrechts-starmodg/303313",
+                        "title": "Entwurf eines Gesetzes zur Modernisierung des Staatsangeh\u00f6rigkeitsrechts (StARModG)"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0007219",
+                "statements": [],
+                "title": "Staatsangeh\u00f6rigkeitsrecht"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "AsylG",
+                        "title": "Asylgesetz",
+                        "url": "https://www.gesetze-im-internet.de/asylvfg_1992"
+                    },
+                    {
+                        "shortTitle": "AufenthG",
+                        "title": "Gesetz \u00fcber den Aufenthalt, die Erwerbst\u00e4tigkeit und die Integration von Ausl\u00e4ndern im Bundesgebiet",
+                        "url": "https://www.gesetze-im-internet.de/aufenthg_2004"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Ber\u00fccksichtigung von Kinderrechten in den Verhandlungen zur Ausgestaltung des Gemeinsamen Europ\u00e4ischen Asylsystems",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                        "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                        "en": "Migration, refugee policy and integration"
+                    },
+                    {
+                        "code": "FOI_RPI_REFUGEE",
+                        "de": "Asyl und Fl\u00fcchtlingsschutz",
+                        "en": "Asylum and refugee protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007220",
+                "statements": [],
+                "title": "Gemeinsames Europ\u00e4isches Asylsystem"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "WPflG",
+                        "title": "Wehrpflichtgesetz",
+                        "url": "https://www.gesetze-im-internet.de/wehrpflg"
+                    },
+                    {
+                        "shortTitle": "SG",
+                        "title": "Gesetz \u00fcber die Rechtsstellung der Soldaten",
+                        "url": "https://www.gesetze-im-internet.de/sg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Wir setzen uns f\u00fcr eine konsequente Umsetzung der Vereinbarung im Koalitionsvertrag ein \u2013 d.h. keine Soldatenvertr\u00e4ge unter 18 Jahren, damit die regelm\u00e4\u00dfigen schweren Kinderrechtsverletzungen an minderj\u00e4hrigen Soldat:innen der Bundeswehr gestoppt werden und damit Deutschland den internationalen Straight18-Standard nicht l\u00e4nger schw\u00e4cht und einh\u00e4lt, den \u00fcber 150 L\u00e4nder weltweit einhalten, und die UN-Empfehlungen umsetzt.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_CHILDREN",
+                        "de": "Kinder- und Jugendpolitik",
+                        "en": "Child and youth policy"
+                    },
+                    {
+                        "code": "FOI_DEFENSE",
+                        "de": "Verteidigung",
+                        "en": "Defense"
+                    },
+                    {
+                        "code": "FOI_DEFENSE_AFFAIRS",
+                        "de": "Bundeswehrangelegenheiten",
+                        "en": "Bundeswehr affairs"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007221",
+                "statements": [],
+                "title": "Erh\u00f6hung des Rekrutierungsalters f\u00fcr Soldat:innen der Bundeswehr auf 18 Jahre (Straight 18)"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "AWG",
+                        "title": "Au\u00dfenwirtschaftsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/awg_2013"
+                    },
+                    {
+                        "shortTitle": "AWV",
+                        "title": "Au\u00dfenwirtschaftsverordnung",
+                        "url": "https://www.gesetze-im-internet.de/awv_2013"
+                    },
+                    {
+                        "shortTitle": "KrWaffKontrG",
+                        "title": "Ausf\u00fchrungsgesetz zu Artikel 26 Abs. 2 des Grundgesetzes",
+                        "url": "https://www.gesetze-im-internet.de/krwaffkontrg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Wir setzen uns ein f\u00fcr ein striktes R\u00fcstungsexportkontrollgesetz, einen kompletten Stopp des Exports von Kleinwaffen, der f\u00fcr Zivilisten t\u00f6dlichsten Waffenart, und f\u00fcr eine strikte Begrenzung und Kontrolle des Exports von R\u00fcstungsg\u00fctern gem\u00e4\u00df festgeschriebener Kriterien (Kinder- und Menschenrechte, u.a.)",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_DEFENSE",
+                        "de": "Verteidigung",
+                        "en": "Defense"
+                    },
+                    {
+                        "code": "FOI_DEFENSE_ARMAMENTS",
+                        "de": "R\u00fcstungsangelegenheiten",
+                        "en": "Armaments matters"
+                    },
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007222",
+                "statements": [],
+                "title": "Strikte Begrenzung und Kontrolle von R\u00fcstungsexporten"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "HG 2024",
+                        "title": "Gesetz \u00fcber die Feststellung des Bundeshaushaltsplans f\u00fcr das Haushaltsjahr 2024",
+                        "url": "https://www.gesetze-im-internet.de/hg_2024"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Seit \u00fcber drei\u00dfig Jahren gibt terre des hommes, gemeinsam mit der Welthungerhilfe, den Kompass zur Wirklichkeit der Deutschen Entwicklungspolitik heraus, welcher allj\u00e4hrlich die \u00f6ffentlichen Entwicklungsleistungen, ODA, sowie die Entwicklungspolitik der Bundesregierung analysiert und politische Empfehlungen zur Diskussion stellt.\r\nAu\u00dferdem ist tdh Teil der Kampagne #LuftNachOben, welche die Haushaltsk\u00fcrzungen thematisiert.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_DEVELOPMENT_POLICY",
+                        "de": "Entwicklungspolitik",
+                        "en": "Development policy"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/078/2007800.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMF",
+                                "title": "Bundesministerium der Finanzen",
+                                "url": "https://www.bundesfinanzministerium.de/Web/DE/Home/home.html"
+                            }
+                        ],
+                        "printingNumber": "20/7800",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-%C3%BCber-die-feststellung-des-bundeshaushaltsplans-f%C3%BCr-das-haushaltsjahr-2024/302729",
+                        "title": "Entwurf eines Gesetzes \u00fcber die Feststellung des Bundeshaushaltsplans f\u00fcr das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0007223",
+                "statements": [],
+                "title": "Ver\u00f6ffentlichung Kompass-Bericht und Mitwirkung an Kampagne #LuftNachOben"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "LobbyRG",
+                        "title": "Gesetz zur Einf\u00fchrung eines Lobbyregisters f\u00fcr die Interessenvertretung gegen\u00fcber dem Deutschen Bundestag und gegen\u00fcber der Bundesregierung",
+                        "url": "https://www.gesetze-im-internet.de/lobbyrg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Das bestehende Lobbyregistergesetz sollte ge\u00e4ndert werden hinsichtlich der Offenlegung von Daten von Spender*innen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_DEVELOPMENT_POLICY",
+                        "de": "Entwicklungspolitik",
+                        "en": "Development policy"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/073/2007346.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [],
+                        "printingNumber": "20/7346",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-%C3%A4nderung-des-lobbyregistergesetzes/300955",
+                        "title": "Entwurf eines Gesetzes zur \u00c4nderung des Lobbyregistergesetzes"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0007224",
+                "statements": [],
+                "title": "\u00c4nderung des Lobbyregistergesetzes"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

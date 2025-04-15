@@ -1,0 +1,214 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-07-06T11:23:51.000+02:00",
+                "untilDate": "2024-07-02T00:34:33.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-07-06T11:23:51.000+02:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-07-02T00:34:33.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2023-09-18T10:35:32.000+02:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2024-07-02T00:34:33.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 12202,
+                "validFromDate": "2023-09-18T10:35:32.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 9732,
+                "validFromDate": "2022-07-06T11:23:51.000+02:00",
+                "validUntilDate": "2023-09-18T10:35:32.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PROFESSION_ASSOC",
+            "de": "Berufsverband",
+            "en": "Professional association"
+        },
+        "activityDescription": "Zweck der Genossenschaft ist die Sicherung der freiberuflichen Position und der wirtschaftlichen Existenz der niedergelassenen \u00c4rzte. Weitere Ziele sind der Erhalt und Verbesserung der regionalen Versorgung. ",
+        "activityOperationType": "SELF_OPERATED",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "annualReports": {
+        "annualReportExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/fd/ea/231720/JahresabschlussGNO-2022.pdf",
+        "disclosureRequirementsExist": true,
+        "reportWasPublishedElsewhere": false
+    },
+    "clientIdentity": {
+        "clientsPresent": false
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2021-12",
+        "fiscalYearStart": "2021-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 0,
+            "to": 0
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2021-12",
+        "fiscalYearStart": "2021-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Fulda",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Gerloser Weg",
+            "streetNumber": "20",
+            "type": "NATIONAL",
+            "zipCode": "36039"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@gesundheitsnetzosthessen.de"
+                }
+            ],
+            "phoneNumber": "+496612427770",
+            "websites": [
+                {
+                    "website": "www.gesundheitsnetzosthessen.de"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EG",
+            "de": "Eingetragene Genossenschaft (eG)",
+            "en": "Registered cooperative (eG)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Ralph ",
+                "emails": [
+                    {
+                        "email": "info@gesundheitsnetzosthessen.de"
+                    }
+                ],
+                "function": "Vorstandsvorsitzender",
+                "lastName": "H\u00f6nscher",
+                "phoneNumber": "+496612427770"
+            },
+            {
+                "commonFirstName": "Gabriele",
+                "emails": [
+                    {
+                        "email": "info@gesundheitsnetzosthessen.de"
+                    }
+                ],
+                "function": "Gesch\u00e4ftsf\u00fchrender Vorstand",
+                "lastName": "Bleul",
+                "phoneNumber": "+496612427770"
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Ralf",
+                "emails": [
+                    {
+                        "email": "info@gesundheitsnetzosthessen.de"
+                    }
+                ],
+                "function": "Vorstand",
+                "lastName": "George",
+                "phoneNumber": "+496612427770"
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2022-06-29",
+            "totalCount": 150
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Hessenmed e. V. "
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Gesundheitsnetz Osthessen eG",
+        "namedEmployees": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "J\u00f6rg",
+                "lastName": "Simon"
+            }
+        ],
+        "namedEmployeesPresent": true
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2021-12",
+        "fiscalYearStart": "2021-01",
+        "publicAllowancesPresent": false,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-09-18T10:35:32.000+02:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R004898/12202",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/56/35/231721/Lobbyregister-Detailansicht-R004898-2023-09-18_10-35-32.pdf",
+        "refusedAnything": false,
+        "validFromDate": "2023-09-18T10:35:32.000+02:00",
+        "version": 2
+    },
+    "registerEntryId": 12202,
+    "registerNumber": "R004898"
+}

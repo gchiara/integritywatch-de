@@ -1,0 +1,802 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-01-25T10:42:28.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-18T15:11:56.000+01:00",
+        "lastUpdateDate": "2024-06-26T11:37:06.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 39387,
+                "validFromDate": "2024-06-26T11:37:06.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 15387,
+                "validFromDate": "2023-01-25T10:42:28.000+01:00",
+                "validUntilDate": "2024-06-26T11:37:06.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_CONSULTING",
+            "de": "Beratungsunternehmen, selbst\u00e4ndige Beraterin oder selbst\u00e4ndiger Berater",
+            "en": "Consulting company, independent consultant"
+        },
+        "activityDescription": "Zum Zwecke der Interessenvertretung werden Gespr\u00e4che mit Vertreterinnen und Vertretern der Bundesregierung und der Bundesministerien sowie mit dem Deutschen Bundestag zur Sachstandsaufkl\u00e4rung sowie etwaiger Erl\u00e4uterung von \u00c4nderungsnotwendigkeiten hinsichtlich einer Vielzahl von Themenfeldern, gef\u00fchrt. Zweck der Interessenvertretung ist es, die Sicht der beauftragenden Organisationen zu vermitteln.\r\n\r\nDar\u00fcber hinaus werden in Einzelf\u00e4llen auch Stellungnahmen und Gutachten zu konkreten\r\nRegelungsvorhaben erarbeitet und \u00fcbermittelt.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_ECONOMY_FINANCE",
+                "de": "Bank- und Finanzwesen",
+                "en": "Banking and finance"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_HEALTH_CARE",
+                "de": "Pflege",
+                "en": "Health care"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_SA_OTHER",
+                "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                "en": "Other in the field of \"Government and administration\""
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_IS_CRIME",
+                "de": "Kriminalit\u00e4tsbek\u00e4mpfung",
+                "en": "Fight against crime"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_HEALTH_MEDICINE",
+                "de": "Arzneimittel",
+                "en": "Medicine"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "ON_BEHALF_OF_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird im Auftrag Dritter selbst wahrgenommen",
+                "en": "Representation of interests is carried out on behalf of third parties themselves"
+            }
+        ]
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "financialResourcesReceived": {
+                                "from": 50001,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 100000
+                            },
+                            "referenceDetailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002291",
+                            "referenceName": "EUTOP Europe GmbH (EUTOP)"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [],
+                    "lobbyingIsCarriedOutByLobbyist": true
+                },
+                "description": "Im Rahmen des Auftrags zur Unterst\u00fctzung der Auftr\u00e4ge der EUTOP Group werden Gespr\u00e4che mit\r\nVertreterinnen und Vertretern der Bundesregierung und der Bundesministerien sowie mit dem\r\nDeutschen Bundestag zur Sachstandsaufkl\u00e4rung sowie etwaiger Erl\u00e4uterung von\r\n\u00c4nderungsnotwendigkeiten hinsichtlich einer Vielzahl von Themenfeldern, gef\u00fchrt. Zweck der\r\nInteressenvertretung ist es, die Sicht der beauftragenden Organisationen zu vermitteln.",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                        "de": "Verkehrsinfrastruktur",
+                        "en": "Infrastructure"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_OTHER",
+                        "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                        "en": "Other in the field of \"Economy\""
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_POLICY",
+                        "de": "Verkehrspolitik",
+                        "en": "Transport policy"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_OTHER",
+                        "de": "Sonstiges im Bereich \"Recht\"",
+                        "en": "Other in the field of \"Law\""
+                    },
+                    {
+                        "code": "FOI_WORK",
+                        "de": "Arbeit und Besch\u00e4ftigung",
+                        "en": "Work and employment"
+                    },
+                    {
+                        "code": "FOI_WORK_RIGHT",
+                        "de": "Arbeitsrecht/Arbeitsbedingungen",
+                        "en": "Work right"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_MEDICINE",
+                        "de": "Arzneimittel",
+                        "en": "Medicine"
+                    },
+                    {
+                        "code": "FOI_LAW_PUBLIC",
+                        "de": "\u00d6ffentliches Recht",
+                        "en": "Public law"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    },
+                    {
+                        "code": "FOI_STATE_ADMIN",
+                        "de": "Staat und Verwaltung",
+                        "en": "Government and administration"
+                    },
+                    {
+                        "code": "FOI_SA_OTHER",
+                        "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                        "en": "Other in the field of \"Government and administration\""
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                        "de": "Stra\u00dfenverkehr",
+                        "en": "Road traffic"
+                    },
+                    {
+                        "code": "FOI_LAW_CIVIL_RIGHT",
+                        "de": "Zivilrecht",
+                        "en": "Civil rights"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_INDUSTRY",
+                        "de": "Lebens- und Genussmittelindustrie",
+                        "en": "Food and luxury food industry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_ANIMAL",
+                        "de": "Tierschutz",
+                        "en": "Animal welfare"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_FINANCE",
+                        "de": "Bank- und Finanzwesen",
+                        "en": "Banking and finance"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    },
+                    {
+                        "code": "FOI_HEALTH_OTHER",
+                        "de": "Sonstiges im Bereich \"Gesundheit\"",
+                        "en": "Other in the field of \"Health\""
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_HEALTH_CARE",
+                        "de": "Pflege",
+                        "en": "Health care"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                        "de": "G\u00fcterverkehr",
+                        "en": "Freight transportation"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CRIME",
+                        "de": "Kriminalit\u00e4tsbek\u00e4mpfung",
+                        "en": "Fight against crime"
+                    }
+                ],
+                "regulatoryProjects": []
+            }
+        ],
+        "contractsPresent": true
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.4,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "academicDegreeBefore": "Dr.",
+        "entrustedPersonsPresent": false,
+        "firstName": "Hans-Ulrich",
+        "identity": "NATURAL",
+        "lastName": "Kr\u00fcger",
+        "memberships": [
+            {
+                "membership": "SPD"
+            }
+        ],
+        "membershipsPresent": true,
+        "naturalPersonType": {
+            "code": "OTHER",
+            "de": "Andere nat\u00fcrliche Person",
+            "en": "Other natural person"
+        },
+        "recentGovernmentFunctionPresent": false
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000669/39387",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-26T11:37:06.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a8/39/314184/Lobbyregister-Detailansicht-R000669-2024-06-26_11-37-06.pdf",
+        "validFromDate": "2024-06-26T11:37:06.000+02:00",
+        "version": 6
+    },
+    "registerEntryId": 39387,
+    "registerNumber": "R000669",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die Mittel der Sozialstrukturf\u00f6rderung (Titel 23) im Haushalt des BMZ sollten im Bundeshaushalt 2025 unver\u00e4ndert bleiben.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    },
+                    {
+                        "code": "FOI_STATE_ADMIN",
+                        "de": "Staat und Verwaltung",
+                        "en": "Government and administration"
+                    },
+                    {
+                        "code": "FOI_SA_OTHER",
+                        "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                        "en": "Other in the field of \"Government and administration\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006227",
+                "statements": [],
+                "title": "Mittel der Sozialstrukturf\u00f6rderung beibehalten"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "LkSG",
+                        "title": "Gesetz \u00fcber die unternehmerischen Sorgfaltspflichten zur Vermeidung von Menschenrechtsverletzungen in Lieferketten",
+                        "url": "https://www.gesetze-im-internet.de/lksg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Schaffung eines Level-Playing-Field in der Vergabe von Pr\u00fcfauftr\u00e4gen der Nachhaltigkeitsberichterstattung von Unternehmen.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmj.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/RefE_CSRD_UmsG.pdf?__blob=publicationFile&v=2",
+                            "draftBillProjectUrl": "https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2024_CSRD_UmsG.html?nn=110518",
+                            "shortTitle": "BMJ",
+                            "title": "Bundesministerium der Justiz",
+                            "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                        }
+                    ],
+                    "publicationDate": "2024-03-22",
+                    "title": "Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2022/2464 des Europ\u00e4ischen Parlaments und des Rates vom 14. Dezember 2022 zur \u00c4nderung der Verordnung (EU) Nr. 537/2014 und der Richtlinien 2004/109/EG, 2006/43/EG und 2013/34/EU hinsichtlich der Nachhaltigkeitsberichterstattung von Unternehmen"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_OTHER",
+                        "de": "Sonstiges im Bereich \"Recht\"",
+                        "en": "Other in the field of \"Law\""
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_FINANCE",
+                        "de": "Bank- und Finanzwesen",
+                        "en": "Banking and finance"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006228",
+                "statements": [],
+                "title": "Umsetzung der EU Corporate Sustainability Reporting Directive (CSRD) in deutsches Recht"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BNotO",
+                        "title": "Bundesnotarordnung",
+                        "url": "https://www.gesetze-im-internet.de/bnoto"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "F\u00f6rderung von Unternehmensgr\u00fcndungen durch die Mitwirkung von Notaren und Etablierung digitaler Datenkreisl\u00e4ufe.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_OTHER",
+                        "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                        "en": "Other in the field of \"Economy\""
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/113/2011306.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMJ",
+                                "title": "Bundesministerium der Justiz",
+                                "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                            }
+                        ],
+                        "printingNumber": "20/11306",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/viertes-gesetz-zur-entlastung-der-b%C3%BCrgerinnen-und-b%C3%BCrger-der-wirtschaft/309845",
+                        "title": "Entwurf eines Vierten Gesetzes zur Entlastung der B\u00fcrgerinnen und B\u00fcrger, der Wirtschaft sowie der Verwaltung von B\u00fcrokratie - (Viertes B\u00fcrokratieentlastungsgesetz)"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0006229",
+                "statements": [],
+                "title": "Effizienzsteigerung bei Unternehmensgr\u00fcndungen im Rahmen des BEG IV"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GwG",
+                        "title": "Gesetz \u00fcber das Aufsp\u00fcren von Gewinnen aus schweren Straftaten",
+                        "url": "https://www.gesetze-im-internet.de/gwg_2017"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Unterst\u00fctzung bei verh\u00e4ltnism\u00e4\u00dfiger Ausgestaltung der Daten\u00fcbermittlung.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    },
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CRIME",
+                        "de": "Kriminalit\u00e4tsbek\u00e4mpfung",
+                        "en": "Fight against crime"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/096/2009648.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMF",
+                                "title": "Bundesministerium der Finanzen",
+                                "url": "https://www.bundesfinanzministerium.de/Web/DE/Home/home.html"
+                            }
+                        ],
+                        "printingNumber": "20/9648",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-verbesserung-der-bek%C3%A4mpfung-von-finanzkriminalit%C3%A4t-finanzkriminalit%C3%A4tsbek%C3%A4mpfungsgesetz-fkbg/304773",
+                        "title": "Entwurf eines Gesetzes zur Verbesserung der Bek\u00e4mpfung von Finanzkriminalit\u00e4t (Finanzkriminalit\u00e4tsbek\u00e4mpfungsgesetz - FKBG)"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0006230",
+                "statements": [],
+                "title": "Verbesserung der staatlichen Geldw\u00e4schebek\u00e4mpfung "
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "OZG",
+                        "title": "Gesetz zur Verbesserung des Onlinezugangs zu Verwaltungsleistungen",
+                        "url": "https://www.gesetze-im-internet.de/ozg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die Verwaltungsdigitalisierung sollte \u00f6ffentliche Stellen wie Notare medienbruchfrei mit einbeziehen und die digitale Infrastruktur effektiv integrieren.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_STATE_ADMIN",
+                        "de": "Staat und Verwaltung",
+                        "en": "Government and administration"
+                    },
+                    {
+                        "code": "FOI_SA_OTHER",
+                        "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                        "en": "Other in the field of \"Government and administration\""
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/080/2008093.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMI",
+                                "title": "Bundesministerium des Innern und f\u00fcr Heimat",
+                                "url": "https://www.bmi.bund.de/DE/startseite/startseite-node.html"
+                            }
+                        ],
+                        "printingNumber": "20/8093",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-%C3%A4nderung-des-onlinezugangsgesetzes-sowie-weiterer-vorschriften-zur-digitalisierung/300144",
+                        "title": "Entwurf eines Gesetzes zur \u00c4nderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-\u00c4nderungsgesetz - OZG\u00c4ndG)"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0006231",
+                "statements": [],
+                "title": "Einbeziehung \u00f6ffentlicher Stellen im Onlinezugangsgesetz 2.0"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

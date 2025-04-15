@@ -1,0 +1,659 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-04-12T12:00:14.000+02:00",
+                "untilDate": "2024-07-02T00:34:43.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-04-12T12:00:14.000+02:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-07-02T00:34:43.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2024-06-19T14:22:39.000+02:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2024-07-02T00:34:43.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 28423,
+                "validFromDate": "2024-06-19T14:22:39.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 15136,
+                "validFromDate": "2023-07-07T15:43:53.000+02:00",
+                "validUntilDate": "2024-06-19T14:22:39.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 2892,
+                "validFromDate": "2022-04-12T12:00:14.000+02:00",
+                "validUntilDate": "2023-07-07T15:43:53.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_EMPLOYER_ASSOC",
+            "de": "Arbeitgeberverband",
+            "en": "Employers association"
+        },
+        "activityDescription": "Beratung der Mitgliedsverb\u00e4nde in sozial- und wirtschaftspolitischen Angelegenheiten. Deren Interessen vertreten wir gegen\u00fcber der Bundespolitik durch Gespr\u00e4che, Publikationen, schriftliche Korrespondenz, \u00f6ffentliche Veranstaltungen, Unternehmensbesuche, \u00d6ffentlichkeitsarbeit\r\n\r\nDie VhU erbringt f\u00fcr ihre Mitgliedsverb\u00e4nde, in denen rund 100.00 Unternehmen mit 1,5 Millionen Besch\u00e4ftigten Mitglied sind, die branchen\u00fcbergreifende politische Interessenvertretung. Sie ist die Stimme der freiwillig organisierten hessischen Wirtschaft. Alle Unternehmensgr\u00f6\u00dfen und nahezu alle Branchen sind vertreten: von Landwirtschaft, Rohstoffgewinnung und Bau \u00fcber Industrie, Handel und Energie bis zu Handwerk, Verkehr, Banken, Versicherungen, Medien, IT und weiteren Dienstleistungen.\r\n\r\nDie VhU verfolgt das Ziel, die Attraktivit\u00e4t des Wirtschaftsstandorts Hessen zu steigern. Im Rahmen eines ordoliberalen Verst\u00e4ndnisses der sozialen Marktwirtschaft und einer Verantwortung f\u00fcr den Heimatstandort Hessen werden die Anliegen der gesamten hessischen Wirtschaft branchen\u00fcbergreifend aus Sicht der Anbieter wie auch der Nachfrager mit Hilfe von Praxisbeispielen aus hessischen Betrieben gegen\u00fcber politischen Entscheidern und in der \u00d6ffentlichkeit vertreten. Die VhU ist \u00fcberparteilich und arbeitet mit anderen gro\u00dfen gesellschaftlichen Organisationen zusammen, wie zum Beispiel Kirchen, Parteien, Kammern, Gewerkschaften, Sozial- und Umweltverb\u00e4nden und Hochschulen.\r\n",
+        "activityOperationType": "SELF_OPERATED",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ECONOMY_AUTOMOBILE",
+                "de": "Automobilwirtschaft",
+                "en": "Automotive industry"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_RPI_LAWS",
+                "de": "Ausl\u00e4nder- und Aufenthaltsrecht",
+                "en": "Foreign laws"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_RPI_MIGRATION",
+                "de": "Migration",
+                "en": "Migration and residence"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_MEDIA_COPYRIGHT",
+                "de": "Urheberrecht",
+                "en": "Copyright"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_SP_OTHER",
+                "de": "Sonstiges im Bereich \"Gesellschaftspolitik und soziale Gruppen\"",
+                "en": "Other in the field of \"Social politics and social groups\""
+            },
+            {
+                "code": "FOI_SS_ACCIDENT",
+                "de": "Unfallversicherung",
+                "en": "Accident insurance"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_RP_CITY",
+                "de": "Stadtentwicklung",
+                "en": "Urban development"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_SS_LONGTERM",
+                "de": "Pflegeversicherung",
+                "en": "Long term care"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_SS_OLD_AGE",
+                "de": "Rente/Alterssicherung",
+                "en": "Old-age insurance"
+            },
+            {
+                "code": "FOI_SS_HEALTH",
+                "de": "Krankenversicherung",
+                "en": "Health insurance"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_RPI_REFUGEE",
+                "de": "Asyl und Fl\u00fcchtlingsschutz",
+                "en": "Asylum and refugee protection"
+            },
+            {
+                "code": "FOI_RPI_INTEGRATION",
+                "de": "Integration",
+                "en": "Integration"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_SS_OTHER",
+                "de": "Sonstiges im Bereich \"Soziale Sicherung\"",
+                "en": "Other in the field of \"Social security\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_HEALTH_CARE",
+                "de": "Pflege",
+                "en": "Health care"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ECONOMY_INSURANCE",
+                "de": "Versicherungswesen",
+                "en": "Insurance"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_EP_CHILDHOOD",
+                "de": "Vorschulische Bildung",
+                "en": "Early childhood education"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_RP_RESIDE",
+                "de": "Wohnen",
+                "en": "Reside"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_SS_BASIC",
+                "de": "Grundsicherung",
+                "en": "Basic security"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_RPI_OTHER",
+                "de": "Sonstiges im Bereich \"Migration, Fl\u00fcchtlingspolitik und Integration\"",
+                "en": "Other in the field of \"Migration, refugee policy and integration\""
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_ECONOMY_ECOMMERCE",
+                "de": "E-Commerce",
+                "en": "E-commerce"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_SS_UNEMPLOYMENT",
+                "de": "Arbeitslosenversicherung",
+                "en": "Unemployment insurance"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AEROSPACE",
+                "de": "Luft- und Raumfahrt",
+                "en": "Aerospace"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_SP_DISABILITY",
+                "de": "Rechte von Menschen mit Behinderung",
+                "en": "Rights of people with disabilities"
+            },
+            {
+                "code": "FOI_SP_FAMILY",
+                "de": "Familienpolitik",
+                "en": "Family policy"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_ECONOMY_FINANCE",
+                "de": "Bank- und Finanzwesen",
+                "en": "Banking and finance"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_ECONOMY_HANDCRAFT",
+                "de": "Handwerk",
+                "en": "Handcraft"
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "annualReports": {
+        "annualReportExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/06/6e/298872/VhU-Ergebnisrechnung-2023.pdf",
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false
+    },
+    "clientIdentity": {
+        "clientsPresent": false
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2023-12",
+        "fiscalYearStart": "2023-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 110001,
+            "to": 120000
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2023-12",
+        "fiscalYearStart": "2023-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Frankfurt",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Emil-von-Behring-Stra\u00dfe",
+            "streetNumber": "4",
+            "type": "NATIONAL",
+            "zipCode": "60439"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info-vhu@vhu.de"
+                }
+            ],
+            "phoneNumber": "+496995808131",
+            "websites": [
+                {
+                    "website": "www.vhu.de"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Wolf",
+                "emails": [
+                    {
+                        "email": "mang-w@vhu.de"
+                    }
+                ],
+                "function": "Pr\u00e4sident",
+                "lastName": "Mang",
+                "phoneNumber": "+496995808131"
+            },
+            {
+                "commonFirstName": "Wolfgang",
+                "emails": [
+                    {
+                        "email": "kramwinkel-w@vhu.de"
+                    }
+                ],
+                "function": "Vizepr\u00e4sident",
+                "lastName": "Kramwinkel",
+                "phoneNumber": "+496995808131"
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-05-21",
+            "totalCount": 86
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Bundesvereinigung der Deutschen Arbeitgeberverb\u00e4nde (BDA)"
+            },
+            {
+                "membership": "Bundesverband der Deutschen Industrie (BDI)"
+            },
+            {
+                "membership": "Vereinigung f\u00fcr die Sicherheit der Wirtschaft e.V."
+            },
+            {
+                "membership": "Arbeitsgerichtsverband e.V."
+            },
+            {
+                "membership": "Deutscher Sozialrechtsverband e.V."
+            },
+            {
+                "membership": "Arbeitsgemeinschaft f\u00fcr betriebliche Altersversorgung e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Vereinigung der hessischen Unternehmerverb\u00e4nde e.V.",
+        "namedEmployees": [
+            {
+                "commonFirstName": "Dirk",
+                "lastName": "Pollert"
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Clemens",
+                "lastName": "Christmann"
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Stefan",
+                "lastName": "Hoehl"
+            },
+            {
+                "commonFirstName": "Marius",
+                "lastName": "Naser"
+            },
+            {
+                "commonFirstName": "Tobias",
+                "lastName": "Gr\u00fcn"
+            },
+            {
+                "commonFirstName": "Kai",
+                "lastName": "W\u00e4chter"
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Vladimir",
+                "lastName": "von Schnurbein"
+            },
+            {
+                "commonFirstName": "Jonas",
+                "lastName": "Fidler"
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "commonFirstName": "Carla",
+                "lastName": "Thiel"
+            },
+            {
+                "commonFirstName": "Marius",
+                "lastName": "Sch\u00e4fer"
+            }
+        ],
+        "namedEmployeesPresent": true
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2023-12",
+        "fiscalYearStart": "2023-01",
+        "publicAllowancesPresent": false,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-07-07T15:43:53.000+02:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R004172/28423",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/7b/4a/298873/Lobbyregister-Detailansicht-R004172-2024-06-19_14-22-39.pdf",
+        "refusedAnything": false,
+        "validFromDate": "2024-06-19T14:22:39.000+02:00",
+        "version": 3
+    },
+    "registerEntryId": 28423,
+    "registerNumber": "R004172"
+}

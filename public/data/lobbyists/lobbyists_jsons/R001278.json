@@ -1,0 +1,902 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-04-12T17:37:52.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-24T13:26:40.000+01:00",
+        "lastUpdateDate": "2024-06-20T11:04:03.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37879,
+                "validFromDate": "2024-06-20T11:04:03.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 30225,
+                "validFromDate": "2024-06-18T10:12:17.000+02:00",
+                "validUntilDate": "2024-06-20T11:04:03.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 36082,
+                "validFromDate": "2024-06-07T19:06:23.000+02:00",
+                "validUntilDate": "2024-06-18T10:12:17.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26183,
+                "validFromDate": "2023-10-13T09:50:14.000+02:00",
+                "validUntilDate": "2024-06-07T19:06:23.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 24400,
+                "validFromDate": "2023-08-04T08:31:52.000+02:00",
+                "validUntilDate": "2023-10-13T09:50:14.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 7504,
+                "validFromDate": "2023-06-01T18:43:00.000+02:00",
+                "validUntilDate": "2023-08-04T08:31:52.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 7503,
+                "validFromDate": "2022-04-12T17:37:52.000+02:00",
+                "validUntilDate": "2023-06-01T18:43:00.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Die fwd: Bundesvereinigung Veranstaltungswirtschaft ist ein Verband der Veranstaltungswirtschaft. Zum Zwecke der Interessenvertretung werden Gespr\u00e4che mit Vertreter:innen des Bundeskanzleramtes, des Bundestages, der Bundesministerien und anderen relevanten staatlichen Stellen gef\u00fchrt, zur Erl\u00e4uterung von \u00c4nderungsnotwendigkeiten hinsichtlich einer Vielzahl von Themenfeldern, die als Rahmenbedingungen f\u00fcr unternehmerische T\u00e4tigkeit der Verbandsmitglieder von gro\u00dfer Bedeutung sind. Dabei geht es u.a. um den Fachkr\u00e4ftemangel, Aus- und Weiterbildung, statistische Erfassung, Steuererleichterungen, Scheinselbstst\u00e4ndigkeit, Nachhaltigkeit und  Kreislaufwirtschaft bis hin zum B\u00fcrokratieabbau. Zweck der Interessenvertretung ist es, die Sicht der Praxis zu vermitteln und Impulse zur Verbesserung der gesamtwirtschaftlichen und branchenspezifischen Lage zu geben. Im Zuge dessen werden politische Veranstaltungen und Treffen durchgef\u00fchrt, zu denen Regierungsmitglieder, Abgeordnete sowie Vertreter:innen der Ministerien und relevanten staatlichen Stellen eingeladen werden. Dar\u00fcber hinaus werden in Einzelf\u00e4llen auch Stellungnahmen und Gutachten zu konkreten Regelungsvorhaben erarbeitet und \u00fcbermittelt. ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_RPI_MIGRATION",
+                "de": "Migration",
+                "en": "Migration and residence"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_RPI_INTEGRATION",
+                "de": "Integration",
+                "en": "Integration"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_RPI_LAWS",
+                "de": "Ausl\u00e4nder- und Aufenthaltsrecht",
+                "en": "Foreign laws"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_SS_OLD_AGE",
+                "de": "Rente/Alterssicherung",
+                "en": "Old-age insurance"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_SS_BASIC",
+                "de": "Grundsicherung",
+                "en": "Basic security"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_SS_ACCIDENT",
+                "de": "Unfallversicherung",
+                "en": "Accident insurance"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_LAS_TOURISM",
+                "de": "Tourismus",
+                "en": "Tourism"
+            },
+            {
+                "code": "FOI_SS_HEALTH",
+                "de": "Krankenversicherung",
+                "en": "Health insurance"
+            },
+            {
+                "code": "FOI_CULTURE",
+                "de": "Kultur",
+                "en": "Culture"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            },
+            {
+                "code": "FOI_MEDIA_COPYRIGHT",
+                "de": "Urheberrecht",
+                "en": "Copyright"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_MEDIA_ADVERTISEMENT",
+                "de": "Werbung",
+                "en": "Advertising"
+            },
+            {
+                "code": "FOI_ECONOMY_HANDCRAFT",
+                "de": "Handwerk",
+                "en": "Handcraft"
+            },
+            {
+                "code": "FOI_SP_DIVERSITY",
+                "de": "Diversit\u00e4tspolitik",
+                "en": "Diversity policy"
+            },
+            {
+                "code": "FOI_SS_UNEMPLOYMENT",
+                "de": "Arbeitslosenversicherung",
+                "en": "Unemployment insurance"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/e4/d7/300380/96265-JA-2023-Mitglieder.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.1,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 20001,
+            "to": 30000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Rheda-Wiedenbr\u00fcck",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Hauptstra\u00dfe ",
+            "streetNumber": "122-124",
+            "type": "NATIONAL",
+            "zipCode": "33378"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "odsuren.terbishdavga@forward.live",
+            "nationalAdditional1": "c/o expopartner",
+            "phoneNumber": "+495242945415",
+            "street": "Markgrafenstra\u00dfe",
+            "streetNumber": "88",
+            "type": "NATIONAL",
+            "zipCode": "10969"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@forward.live"
+                },
+                {
+                    "email": "odsuren.terbishdavga@forward.live"
+                },
+                {
+                    "email": "silke.schulte@forwardservice.live"
+                }
+            ],
+            "phoneNumber": "+49524294540",
+            "websites": [
+                {
+                    "website": "www.forward.live"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Odsuren",
+                "lastName": "Terbishdavga",
+                "recentGovernmentFunction": {
+                    "endDate": "2021-10",
+                    "ended": true,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_MEMBER",
+                            "de": "Funktion f\u00fcr ein Mitglied des Deutschen Bundestages",
+                            "en": "Function for a member of the German Bundestag"
+                        },
+                        "functionPosition": "Sachbearbeiterin"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "firstName": "Alexander",
+                "lastName": "Ostermaier",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Christian",
+                "lastName": "Eichenberger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Christian",
+                "lastName": "Seidenst\u00fccker",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": false,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Andreas ",
+                "function": "Finanzvorstand",
+                "lastName": "Weber",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Odsuren",
+                "function": "Referentin politische Kommunikation",
+                "lastName": "Terbishdavga",
+                "recentGovernmentFunction": {
+                    "endDate": "2021-10",
+                    "ended": true,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_MEMBER",
+                            "de": "Funktion f\u00fcr ein Mitglied des Deutschen Bundestages",
+                            "en": "Function for a member of the German Bundestag"
+                        },
+                        "functionPosition": "Sachbearbeiterin"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Alexander",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Ostermaier",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Christian",
+                "function": "Vorstandsmitglied",
+                "lastName": "Eichenberger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Christian",
+                "function": "Vorstandsmitglied",
+                "lastName": "Seidenst\u00fccker",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "J\u00f6rg",
+                "function": "Vorstandsmitglied",
+                "lastName": "Zei\u00dfig",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Markus",
+                "function": "Vorsitzender",
+                "lastName": "Illing",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Vera",
+                "function": "stellvertretende Vorsitzende",
+                "lastName": "Vieh\u00f6fer",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-03-15",
+            "naturalPersons": 16,
+            "organizations": 257,
+            "totalCount": 273
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "BVMW Bundesverband Mittelst\u00e4ndische Wirtschaft"
+            },
+            {
+                "membership": "BNW Bundesverband Nachhaltiges Wirtschaft"
+            },
+            {
+                "membership": "APWPT Association of Professional Wireless Production Technology"
+            },
+            {
+                "membership": "AUMA Ausstellungs- und Messe-Ausschuss der Deutschen Wirtschaft"
+            },
+            {
+                "membership": "DGVM Deutsche Gesellschaft f\u00fcr Verbandsmanagement"
+            },
+            {
+                "membership": "DIN German Institute for Standardization"
+            },
+            {
+                "membership": "IFES International Federation of Exhibition and Event Services"
+            },
+            {
+                "membership": "IGVW Interessengemeinschaft Veranstaltungswirtschaft"
+            },
+            {
+                "membership": "Livecom Alliance"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "fwd: Bundesvereinigung Veranstaltungswirtschaft e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 670001,
+            "to": 680000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001278/37879",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-20T11:04:03.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/4a/36/300381/Lobbyregister-Detailansicht-R001278-2024-06-20_11-04-03.pdf",
+        "validFromDate": "2024-06-20T11:04:03.000+02:00",
+        "version": 8
+    },
+    "registerEntryId": 37879,
+    "registerNumber": "R001278",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "SchwarzArbG",
+                        "title": "Gesetz zur Bek\u00e4mpfung der Schwarzarbeit und illegalen Besch\u00e4ftigung",
+                        "url": "https://www.gesetze-im-internet.de/schwarzarbg_2004"
+                    },
+                    {
+                        "shortTitle": "SGB 4",
+                        "title": "Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften f\u00fcr die Sozialversicherung - (Artikel I des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845)",
+                        "url": "https://www.gesetze-im-internet.de/sgb_4"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Soloselbstst\u00e4ndige k\u00f6nnen von Unternehmen h\u00e4ufig nicht rechtssicher beauftragt werden und es kann dann bei einer etwaigen sp\u00e4teren \u00dcberpr\u00fcfung zur Feststellung von Scheinselbstst\u00e4ndigkeit kommen. Hier bedarf es einer grundlegenden Ver\u00e4nderung im Interesse der Soloselbst\u00e4ndigen, der Auftraggeber und der Sozialkassen. Au\u00dferdem kann der Tatbestand der Scheinselbstst\u00e4ndigkeit nach jetziger Rechtsprechung strafrechtliche Konsequenzen haben. Wenn dem Auftraggeber Vorsatz \u2013 also Absicht \u2013 nachgewiesen wird, drohen Geld- oder Freiheitsstrafen f\u00fcr Sozialversicherungsbetrug.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_WORK",
+                        "de": "Arbeit und Besch\u00e4ftigung",
+                        "en": "Work and employment"
+                    },
+                    {
+                        "code": "FOI_WORK_RIGHT",
+                        "de": "Arbeitsrecht/Arbeitsbedingungen",
+                        "en": "Work right"
+                    },
+                    {
+                        "code": "FOI_WORK_POLICY",
+                        "de": "Arbeitsmarkt",
+                        "en": "Job market"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_SECURITY",
+                        "de": "Soziale Sicherung",
+                        "en": "Social security"
+                    },
+                    {
+                        "code": "FOI_SS_BASIC",
+                        "de": "Grundsicherung",
+                        "en": "Basic security"
+                    },
+                    {
+                        "code": "FOI_WORK_OTHER",
+                        "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                        "en": "Other in the field of \"Work and employment\""
+                    },
+                    {
+                        "code": "FOI_SS_OLD_AGE",
+                        "de": "Rente/Alterssicherung",
+                        "en": "Old-age insurance"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002726",
+                "statements": [],
+                "title": "Rechtssichere Beauftragung von selbstst\u00e4ndigen Einzelunternehmern erm\u00f6glichen"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EStG",
+                        "title": "Einkommensteuergesetz",
+                        "url": "https://www.gesetze-im-internet.de/estg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die Anhebung des Freibetrags f\u00fcr Betriebsveranstaltungen auf 300 Euro pro Person und Betriebsveranstaltung (f\u00fcr mindestens zwei Betriebsveranstaltungen p.a.) soll im Jahressteuergesetz 2024 inkludiert werden um die Auftragslage der Veranstaltungswirtschaft zu verbessern und Mitarbeiterbindung in Unternehmen wirtschaftszweig\u00fcbergreifend zu erh\u00f6hen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_WORK",
+                        "de": "Arbeit und Besch\u00e4ftigung",
+                        "en": "Work and employment"
+                    },
+                    {
+                        "code": "FOI_WORK_RIGHT",
+                        "de": "Arbeitsrecht/Arbeitsbedingungen",
+                        "en": "Work right"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_SECURITY",
+                        "de": "Soziale Sicherung",
+                        "en": "Social security"
+                    },
+                    {
+                        "code": "FOI_SS_OLD_AGE",
+                        "de": "Rente/Alterssicherung",
+                        "en": "Old-age insurance"
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    },
+                    {
+                        "code": "FOI_WORK_POLICY",
+                        "de": "Arbeitsmarkt",
+                        "en": "Job market"
+                    },
+                    {
+                        "code": "FOI_SS_UNEMPLOYMENT",
+                        "de": "Arbeitslosenversicherung",
+                        "en": "Unemployment insurance"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002727",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b8/ec/295682/Stellungnahme-Gutachten-SG2405280001.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-28"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002727",
+                        "regulatoryProjectTitle": "Steuerlicher Freibetrag bei Betriebsfeiern",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Ob Weltwirtschaftsgipfel, Olympische Spiele, Welt- und Europameisterschaften, G7- oder G20-Gipfel, Expos, Klimakonferenzen, Konzerte und Festivals: Viele dieser Veranstaltungen wurden von deutschen Agenturen, Konzertveranstaltern, Messe-, Technik- und B\u00fchnenbaufirmen und Dienstleistern konzipiert, geplant, ausgestattet und durchgef\u00fchrt. \r\n\r\nMit 81 Mrd. Euro Kernumsatz und 1,1 Mio. Erwerbst\u00e4tigen ist die Veranstaltungswirtschaft Deutschlands sechstgr\u00f6\u00dfter Wirtschaftszweig. Mit \u00fcber 240.000 Unternehmen ist sie sehr stark von klein- und mittelst\u00e4ndischen Unternehmen gepr\u00e4gt. Die deutsche Veranstaltungswirtschaft gilt weltweit nicht nur als die am besten ausgebildete in ihrem Sektor. Sie z\u00e4hlt auch im globalen Vergleich zu den TOP-3-Destinationen. Vor Corona belebten j\u00e4hrlich 424 Mio. Veranstaltungsbesucher:innen die Innenst\u00e4dte, Hotels und den Tourismus in Deutschland.\r\n\r\nDie Branche steht weiterhin vor gro\u00dfen Herausforderungen wie z.B. branchenspezifische Teuerungen von \u00fcber 45 Prozent. Dementsprechend ist eine solide Perspektive dringend notwendig. Wesentlich ist, dass auf die Forderungen der Betroffenen eingegangen wird, so dass realit\u00e4tsnahe und effektive L\u00f6sungen konzipiert werden. Vor allem gibt es Handlungsbedarf bei der Anhebung des Freibetrags f\u00fcr Betriebsveranstaltungen. \r\n\r\nUm ein positives Signal zu senden, pl\u00e4dieren wir f\u00fcr eine Erh\u00f6hung auf 300 Euro pro Person und Betriebsveranstaltung. Dies sollte f\u00fcr mindestens zwei Betriebsveranstaltungen pro Jahr gelten. Die Summe von 300 Euro ergibt sich aus der konservativen Kostenhochrechnung einer durchschnittlichen  Betriebsfeier im Jahr 2023.\r\n\r\n\uf0d8\tVeranstaltung f\u00fcr 100 Personen an einem Wochentag mit Auf- und Abbau an einem Tag, ohne Zuschl\u00e4ge und zus\u00e4tzlichen Miettag\r\n\uf0d8\tF\u00fcr lokale Veranstaltungen ohne Reisekosten und Unterkunft \r\nLocation\t5.000 Euro\r\n\r\nAusstattung (Stehtische, Hocker, Biergarnituren)\t2.000 Euro\r\n\r\nCatering (Buffet mit 3 G\u00e4ngen, Getr\u00e4nkepauschale f\u00fcr Bier, Wein, Sekt und AFG)\t10.000 Euro\r\nTechnik (Licht, Ton, B\u00fchne)\t8.000 Euro\r\nEntertainment (Showband f\u00fcr 3h)\t5.000 Euro\r\n\t\r\nInsgesamt\t30.000 Euro\r\np.p.\t300 Euro\r\n\r\n"
+                        }
+                    }
+                ],
+                "title": "Steuerlicher Freibetrag bei Betriebsfeiern"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BFStrMG",
+                        "title": "Gesetz \u00fcber die Erhebung von streckenbezogenen Geb\u00fchren f\u00fcr die Benutzung von Bundesautobahnen und Bundesstra\u00dfen",
+                        "url": "https://www.gesetze-im-internet.de/bfstrmg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Das Bundesamt f\u00fcr Logistik und Mobilit\u00e4t (BALM) hat im M\u00e4rz 2024 eine Liste mit handwerks\u00e4hnlichen T\u00e4tigkeiten als Hilfestellung f\u00fcr den Rechtsanwender ver\u00f6ffentlicht. \r\n\r\nBALM_Handwerkerausnahmeregelung_Liste_der_handwerklichen_Taetigkeiten.pdf\r\n\r\nDiese Liste enth\u00e4lt auch nach der \u00dcberarbeitung im Mai 2024 keine handwerks\u00e4hnlichen T\u00e4tigkeiten, die typischerweise in der Veranstaltungswirtschaft regelm\u00e4\u00dfig ausge\u00fcbt werden (z.B. Messebauer, Veranstaltungstechniker).\r\n\r\nWir fordern die Aufnahme aller in der Veranstaltungswirtschaft ausge\u00fcbten handwerklichen T\u00e4tigkeiten in die BALM-Liste der handwerks\u00e4hnlichen T\u00e4tigkeiten.\r\n",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_HANDCRAFT",
+                        "de": "Handwerk",
+                        "en": "Handcraft"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                        "de": "G\u00fcterverkehr",
+                        "en": "Freight transportation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003402",
+                "statements": [],
+                "title": "LKW-Maut Erh\u00f6hung zum 1. Juli 2024 (Ausnahmeregelung f\u00fcr Veranstaltungswirtschaft)"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GewStG",
+                        "title": "Gewerbesteuergesetz",
+                        "url": "https://www.gesetze-im-internet.de/gewstg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die kurzfristige Anmietung von Wirtschaftsg\u00fctern unterliegt der gewerbesteuerlichen Hinzurechnung entsprechend des \u00a7 8 Gewerbesteuergesetz. Auf der Basis des Gesetzes sollen Bedarfsspitzen von der Hinzurechnung ausgenommen werden.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003403",
+                "statements": [],
+                "title": "Gewerbesteuerlichen Hinzurechnungen bei kurzfristigen Anmietungen "
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b8/ec/295682/Stellungnahme-Gutachten-SG2405280001.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-05-28"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002727",
+                "regulatoryProjectTitle": "Steuerlicher Freibetrag bei Betriebsfeiern",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Ob Weltwirtschaftsgipfel, Olympische Spiele, Welt- und Europameisterschaften, G7- oder G20-Gipfel, Expos, Klimakonferenzen, Konzerte und Festivals: Viele dieser Veranstaltungen wurden von deutschen Agenturen, Konzertveranstaltern, Messe-, Technik- und B\u00fchnenbaufirmen und Dienstleistern konzipiert, geplant, ausgestattet und durchgef\u00fchrt. \r\n\r\nMit 81 Mrd. Euro Kernumsatz und 1,1 Mio. Erwerbst\u00e4tigen ist die Veranstaltungswirtschaft Deutschlands sechstgr\u00f6\u00dfter Wirtschaftszweig. Mit \u00fcber 240.000 Unternehmen ist sie sehr stark von klein- und mittelst\u00e4ndischen Unternehmen gepr\u00e4gt. Die deutsche Veranstaltungswirtschaft gilt weltweit nicht nur als die am besten ausgebildete in ihrem Sektor. Sie z\u00e4hlt auch im globalen Vergleich zu den TOP-3-Destinationen. Vor Corona belebten j\u00e4hrlich 424 Mio. Veranstaltungsbesucher:innen die Innenst\u00e4dte, Hotels und den Tourismus in Deutschland.\r\n\r\nDie Branche steht weiterhin vor gro\u00dfen Herausforderungen wie z.B. branchenspezifische Teuerungen von \u00fcber 45 Prozent. Dementsprechend ist eine solide Perspektive dringend notwendig. Wesentlich ist, dass auf die Forderungen der Betroffenen eingegangen wird, so dass realit\u00e4tsnahe und effektive L\u00f6sungen konzipiert werden. Vor allem gibt es Handlungsbedarf bei der Anhebung des Freibetrags f\u00fcr Betriebsveranstaltungen. \r\n\r\nUm ein positives Signal zu senden, pl\u00e4dieren wir f\u00fcr eine Erh\u00f6hung auf 300 Euro pro Person und Betriebsveranstaltung. Dies sollte f\u00fcr mindestens zwei Betriebsveranstaltungen pro Jahr gelten. Die Summe von 300 Euro ergibt sich aus der konservativen Kostenhochrechnung einer durchschnittlichen  Betriebsfeier im Jahr 2023.\r\n\r\n\uf0d8\tVeranstaltung f\u00fcr 100 Personen an einem Wochentag mit Auf- und Abbau an einem Tag, ohne Zuschl\u00e4ge und zus\u00e4tzlichen Miettag\r\n\uf0d8\tF\u00fcr lokale Veranstaltungen ohne Reisekosten und Unterkunft \r\nLocation\t5.000 Euro\r\n\r\nAusstattung (Stehtische, Hocker, Biergarnituren)\t2.000 Euro\r\n\r\nCatering (Buffet mit 3 G\u00e4ngen, Getr\u00e4nkepauschale f\u00fcr Bier, Wein, Sekt und AFG)\t10.000 Euro\r\nTechnik (Licht, Ton, B\u00fchne)\t8.000 Euro\r\nEntertainment (Showband f\u00fcr 3h)\t5.000 Euro\r\n\t\r\nInsgesamt\t30.000 Euro\r\np.p.\t300 Euro\r\n\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

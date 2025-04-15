@@ -1,0 +1,369 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-02-28T12:13:31.000+01:00",
+                "untilDate": "2024-07-02T00:35:19.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-28T12:13:31.000+01:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-07-02T00:35:19.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2023-04-06T11:20:54.000+02:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2024-07-02T00:35:19.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 19031,
+                "validFromDate": "2023-04-06T11:20:54.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 15691,
+                "validFromDate": "2023-03-08T14:50:53.000+01:00",
+                "validUntilDate": "2023-04-06T11:20:54.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 67,
+                "validFromDate": "2022-02-28T12:13:31.000+01:00",
+                "validUntilDate": "2023-03-08T14:50:53.000+01:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA",
+            "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen) (GL2022)",
+            "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations) (GL2022)"
+        },
+        "activityDescription": "Zweck der Arbeitsgemeinschaft ist es, die Interessen ihrer Mitglieder zu koordinieren und zu f\u00f6rdern. Dazu geh\u00f6rt auch die Vertretung der Interessen der Mitglieder im politischen Raum. ",
+        "activityOperationType": "SELF_OPERATED",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "clientIdentity": {
+        "clientOrganizations": [
+            {
+                "address": {
+                    "city": "Bonn",
+                    "country": {
+                        "code": "DE",
+                        "de": "Deutschland",
+                        "en": "Germany"
+                    },
+                    "street": "Malteserstra\u00dfe ",
+                    "streetNumber": "3",
+                    "type": "NATIONAL",
+                    "zipCode": "53115"
+                },
+                "contactDetails": {
+                    "emails": [
+                        {
+                            "email": "mail@rrvbonn.de"
+                        }
+                    ],
+                    "phoneNumber": "+49228652534",
+                    "websites": [
+                        {
+                            "website": "www.rrvbonn.de "
+                        }
+                    ]
+                },
+                "legalForm": {
+                    "code": "LF_EV",
+                    "de": "Eingetragener Verein (e. V.)",
+                    "en": "Registered association"
+                },
+                "legalFormType": {
+                    "code": "JURISTIC_PERSON",
+                    "de": "Juristische Person",
+                    "en": "Legal person"
+                },
+                "legalRepresentatives": [
+                    {
+                        "commonFirstName": "Peter",
+                        "emails": [
+                            {
+                                "email": "mail@rrvbonn.de"
+                            }
+                        ],
+                        "function": "Gesch\u00e4ftsf\u00fchrer",
+                        "lastName": "Kasten",
+                        "phoneNumber": "+49228652534"
+                    }
+                ],
+                "name": "Rheinischer R\u00fcbenbauer-Verband e.V."
+            },
+            {
+                "address": {
+                    "city": "Hannover",
+                    "country": {
+                        "code": "DE",
+                        "de": "Deutschland",
+                        "en": "Germany"
+                    },
+                    "street": "Warmb\u00fcchenstra\u00dfe",
+                    "streetNumber": "3",
+                    "type": "NATIONAL",
+                    "zipCode": "30159"
+                },
+                "contactDetails": {
+                    "emails": [
+                        {
+                            "email": "mail@dnz.de"
+                        }
+                    ],
+                    "phoneNumber": "+495113670440",
+                    "websites": [
+                        {
+                            "website": "www.dnz.de "
+                        }
+                    ]
+                },
+                "legalForm": {
+                    "code": "LF_EV",
+                    "de": "Eingetragener Verein (e. V.)",
+                    "en": "Registered association"
+                },
+                "legalFormType": {
+                    "code": "JURISTIC_PERSON",
+                    "de": "Juristische Person",
+                    "en": "Legal person"
+                },
+                "legalRepresentatives": [
+                    {
+                        "academicDegreeBefore": "Dr.",
+                        "commonFirstName": "Heinrich-Hubertus ",
+                        "emails": [
+                            {
+                                "email": "mail@dnz.de"
+                            }
+                        ],
+                        "function": "Gesch\u00e4ftsf\u00fchrer",
+                        "lastName": "Helmke",
+                        "phoneNumber": "+49495113670449"
+                    }
+                ],
+                "name": "Dachverband Norddeutscher Zuckerr\u00fcbenanbauer e.V."
+            },
+            {
+                "address": {
+                    "city": "Ochsenfurt",
+                    "country": {
+                        "code": "DE",
+                        "de": "Deutschland",
+                        "en": "Germany"
+                    },
+                    "street": "Marktbreiter Str",
+                    "streetNumber": "74",
+                    "type": "NATIONAL",
+                    "zipCode": "97199"
+                },
+                "contactDetails": {
+                    "emails": [
+                        {
+                            "email": "vsz@vsz.de"
+                        }
+                    ],
+                    "phoneNumber": "+49933191875",
+                    "websites": [
+                        {
+                            "website": "www.vsz.de"
+                        }
+                    ]
+                },
+                "legalForm": {
+                    "code": "LF_EV",
+                    "de": "Eingetragener Verein (e. V.)",
+                    "en": "Registered association"
+                },
+                "legalFormType": {
+                    "code": "JURISTIC_PERSON",
+                    "de": "Juristische Person",
+                    "en": "Legal person"
+                },
+                "legalRepresentatives": [
+                    {
+                        "commonFirstName": "Fred",
+                        "emails": [
+                            {
+                                "email": "vsz@vsz.de"
+                            }
+                        ],
+                        "function": "Gesch\u00e4ftsf\u00fchrer",
+                        "lastName": "Zeller",
+                        "phoneNumber": "+49933191875"
+                    }
+                ],
+                "name": "Verband S\u00fcddeutscher Zuckerr\u00fcbenanbauer e. V."
+            }
+        ],
+        "clientsPresent": true
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 50001,
+            "to": 60000
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Claire-Waldoff-Stra\u00dfe ",
+            "streetNumber": "7",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "j.meierhoefer@bauernverband.net"
+                }
+            ],
+            "phoneNumber": "+491704827417",
+            "websites": [
+                {
+                    "website": "Keine"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+            "en": "Networks, platforms or other forms of collective activity",
+            "legalFormText": "Arbeitsgemeinschaft"
+        },
+        "legalFormType": {
+            "code": "NETWORK_PLATFORM_OR_OTHER",
+            "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+            "en": "Network, platform or other form of collective activity"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Johann",
+                "emails": [
+                    {
+                        "email": "j.meierhoefer@bauernverband.net"
+                    }
+                ],
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Meierh\u00f6fer",
+                "phoneNumber": "+491704827417"
+            },
+            {
+                "commonFirstName": "Bernhard",
+                "emails": [
+                    {
+                        "email": "mail@rrvbonn.de"
+                    }
+                ],
+                "function": "Vorstandsvorsitzender",
+                "lastName": "Conzen",
+                "phoneNumber": "+49228652534"
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2022-01-01",
+            "totalCount": 5
+        },
+        "membersPresent": true,
+        "membershipsPresent": false,
+        "name": "Arbeitsgemeinschaft Deutscher R\u00fcbenbauerverb\u00e4nde - ADR",
+        "namedEmployeesPresent": false
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "publicAllowancesPresent": false,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-03-08T14:50:53.000+01:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002029/19031",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/9e/d7/204344/Lobbyregister-Detailansicht-R002029-2023-04-06_11-20-54.pdf",
+        "refusedAnything": false,
+        "validFromDate": "2023-04-06T11:20:54.000+02:00",
+        "version": 3
+    },
+    "registerEntryId": 19031,
+    "registerNumber": "R002029"
+}

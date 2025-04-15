@@ -1,0 +1,841 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-27T11:26:56.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-01T10:19:06.000+01:00",
+        "lastUpdateDate": "2024-06-14T12:24:28.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 31956,
+                "validFromDate": "2024-06-14T12:24:28.000+02:00",
+                "version": 10,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27774,
+                "validFromDate": "2024-01-05T09:42:39.000+01:00",
+                "validUntilDate": "2024-06-14T12:24:28.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23030,
+                "validFromDate": "2023-07-04T21:43:11.000+02:00",
+                "validUntilDate": "2024-01-05T09:42:39.000+01:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22550,
+                "validFromDate": "2023-06-29T08:59:51.000+02:00",
+                "validUntilDate": "2023-07-04T21:43:11.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 19488,
+                "validFromDate": "2023-06-29T08:56:40.000+02:00",
+                "validUntilDate": "2023-06-29T08:59:51.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17246,
+                "validFromDate": "2023-02-27T11:26:56.000+01:00",
+                "validUntilDate": "2023-06-29T08:56:40.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Zukunft Fahrrad vertritt die Interessen dynamischer und innovativer Unternehmen der Fahrradwirtschaft mit dem Ziel der F\u00f6rderung einer nachhaltigen, klimaschonenden und gesunden Mobilit\u00e4tswende. Der Fokus liegt dabei auf der F\u00f6rderung und Weiterentwicklung der Fahrradmobilit\u00e4t und Fahrradwirtschaft. Hierf\u00fcr erstellt Zukunft Fahrrad Stellungnahmen zu laufenden Gesetzgebungsverfahren, politische Positionspapiere und wissenschaftliche Studien. \r\nDer Verband steht in einem kontinuierlichen Dialog mit politischen und gesellschaftlichen Entscheidungstr\u00e4ger*innen, genauso wie Medienschaffenden, Wissenschaftler*innen und anderen Akteuren des Mobilit\u00e4tssegments wie Verb\u00e4nden und Unternehmen. \r\nAu\u00dferdem organisiert Zukunft Fahrrad Veranstaltungen wie Parlamentarische Abende, Parlamentarische Fr\u00fchst\u00fccke, Informationsveranstaltungen, Kongresse und weitere Austauschformate und nimmt an Messen, Podiumsdiskussionen und Vortr\u00e4gen teil. ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_LAS_TOURISM",
+                "de": "Tourismus",
+                "en": "Tourism"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_LAS_OTHER",
+                "de": "Sonstiges im Bereich \"Sport, Freizeit und Tourismus\"",
+                "en": "Other in the field of \"Sports, leisure and tourism\""
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_OTHER",
+                "de": "Sonstiges im Bereich \"Verkehr\"",
+                "en": "Other in the field of \"Transportation\""
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_ECONOMY_INSURANCE",
+                "de": "Versicherungswesen",
+                "en": "Insurance"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/d1/a5/292155/Jahresabschluss-2022-Lobbyregister.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/e6/4e/292156/2020-BVZF-Verhaltenskodex.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 2.6,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 200001,
+            "to": 210000
+        },
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Reinhardtstr.",
+            "streetNumber": "31",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@zukunft-fahrrad.org"
+                }
+            ],
+            "phoneNumber": "+4915150553226",
+            "websites": [
+                {
+                    "website": "https://zukunft-fahrrad.org/"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Wasilis",
+                "lastName": "von Rauch",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Ulrich",
+                "lastName": "Prediger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Dorothee",
+                "lastName": "Heine",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Dirk",
+                "lastName": "Zedler",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Elena",
+                "lastName": "Laidler-Zettelmeyer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Alexander",
+                "lastName": "Rosenthal",
+                "recentGovernmentFunction": {
+                    "endDate": "2021-04",
+                    "ended": true,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_MEMBER",
+                            "de": "Funktion f\u00fcr ein Mitglied des Deutschen Bundestages",
+                            "en": "Function for a member of the German Bundestag"
+                        },
+                        "functionPosition": "B\u00fcroleitung"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            },
+            {
+                "firstName": "Arne",
+                "lastName": "Behrensen",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Wasilis",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "von Rauch",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Ulrich",
+                "function": "Vorstandsvorsitzender",
+                "lastName": "Prediger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Dorothee",
+                "function": "stellv. Vorstandsvorsitzende",
+                "lastName": "Heine",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Dirk",
+                "function": "stellv. Vorstandsvorsitzender",
+                "lastName": "Zedler",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-03",
+            "naturalPersons": 2,
+            "organizations": 101,
+            "totalCount": 103
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Cycling Industries Europe (CIE)"
+            },
+            {
+                "membership": "BNW Bundesverband Nachhaltige Wirtschaft e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Zukunft Fahrrad e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01",
+        "totalMembershipFees": {
+            "from": 280001,
+            "to": 290000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002407/31956",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-14T12:24:28.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/88/b9/292163/Lobbyregister-Detailansicht-R002407-2024-06-14_12-24-28.pdf",
+        "validFromDate": "2024-06-14T12:24:28.000+02:00",
+        "version": 10
+    },
+    "registerEntryId": 31956,
+    "registerNumber": "R002407",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EStG",
+                        "title": "Einkommensteuergesetz",
+                        "url": "https://www.gesetze-im-internet.de/estg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die lohnsteuerrechtliche Behandlung von Mobilit\u00e4tsbudgets soll deutlich vereinfacht werden. Dazu sind eine praxisgerechte Definition und eine digitalisierbare Bewertungsvorschrift zur Ermittlung des geldwerten Vorteils der privaten Nutzung erforderlich. Zudem sollte eine Lohnsteuer-Pauschalierung von 25 Prozent f\u00fcr das gesamte Mobilit\u00e4tsbudget erm\u00f6glicht werden, um eine b\u00fcrokratiearme Besteuerung des geldwerten Vorteils sicherzustellen. Gehaltsumwandlungen sollten im Rahmen dieser Regelung zugelassen werden. Davon unber\u00fchrt bleibt die bestehende steuerliche Behandlung von Dienstr\u00e4dern und des \u00d6PNV. Diese k\u00f6nnen parallel angewandt werden.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002319",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/19/59/292157/Stellungnahme-Gutachten-SG2405270002.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                        "de": "Bundesministerium der Finanzen (BMF)",
+                                        "en": "Bundesministerium der Finanzen (BMF)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-23"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002319",
+                        "regulatoryProjectTitle": "Vereinfachung der lohnsteuerlichen Regelungen beim Einsatz eines betrieblichen Mobilit\u00e4tsbudgets",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Das B\u00fcndnis nachhaltige Mobilit\u00e4tswirtschaft, eine Initiative der Verb\u00e4nde Allianz pro Schiene, Bundesverband CarSharing, Verband deutscher Verkehrsunternehmen und Verband Zukunft Fahrrad hatte sich im M\u00e4rz des vergangenen Jahres in einem gemeinsamen Positionspapier mit dem BDI mit der Bitte der steuer- und verwaltungsrechtlichen Vereinfachung von Mobilit\u00e4tsbudgets an das BMF gewandt, um deren Potential f\u00fcr die Nutzung klimafreundlicher Mobilit\u00e4t zu erschlie\u00dfen. Nach kurzem Zeitablauf liegt jetzt ein gelungener Referentenentwurf f\u00fcr ein Jahressteuergesetz 2024 vor, der viele Vereinfachungen enth\u00e4lt, um nachhaltige Mobilit\u00e4t zu unterst\u00fctzen und den wir sehr begr\u00fc\u00dfen. Der Entwurf beinhaltet nach unserer Einsch\u00e4tzung jedoch noch einige wichtige Regelungsl\u00fccken, um deren Klarstellung wir bitten:\r\n1. Der Referentenentwurf geht derzeit vorwiegend von Einzelfahrten aus, da er in seiner Begr\u00fcndung von der \u201ekurzfristigen, gelegentlichen und bedarfsgerechte Bereitstellung verschiedener Mobilit\u00e4tsformen\u201c spricht. Zeitraumbezogene Angebote f\u00fcr nachhaltige Mobilit\u00e4t sind demnach nicht eindeutig ber\u00fccksichtigt. Dies betrifft insbesondere Monats- und Jahresabonnements f\u00fcr Busse, Bahnen, Fahrr\u00e4der und E-Scooter. Da diese nachhaltigen Verkehrsformen nach der Intention des Entwurfes jedoch grunds\u00e4tzlich im Mobilit\u00e4tsbudget vorgesehen sind und den Nutzern auch als Zeitkarten die gew\u00fcnschte Flexibilit\u00e4t bieten, gehen wir derzeit davon aus, dass auch sie beinhaltet sein sollen und bitten um eine Klarstellung in dem Referentenentwurf. Es findet unsere ausdr\u00fcckliche Zustimmung, dass die M\u00f6glichkeit zur dauerhaften und nicht nur gelegentlichen Nutzung von Kraftfahrzeugen (z.B. auf Dauer ausgelegte Mietwagen-, Leasing- oder Abo-Modelle sowie klassische Dienstwagen) vom Anwendungsbereich des Mobilit\u00e4tsbudgets zur F\u00f6rderung nachhaltiger Mobilit\u00e4t explizit abgegrenzt und ausgeschlossen wurde.\r\n2. Die Aufwendungen des Arbeitgebers (einschlie\u00dflich Umsatzsteuer) f\u00fcr\r\nzeitraumbezogene Angebote im Jahresabonnement sowie Jahresnetzkarten, z.B. die BahnCard100, \u00fcberschreiten zwar oftmals den Betrag von \u20ac 2.400, sind jedoch meist gepr\u00e4gt durch die gemischte Nutzung f\u00fcr Dienstwege, Fahrten Wohnung-Arbeitsst\u00e4tte und Privatfahrten. Im Rahmen des Mobilit\u00e4tsbudgets ist jedoch lediglich der private Nutzungsanteil steuerpflichtig. Hierzu enth\u00e4lt der Referentenentwurf keine Regelung, obwohl auch sie nach der Intention des Gesetzes, nachhaltige Mobilit\u00e4t zu f\u00f6rdern, erfasst sein sollten. Die derzeit bestehenden Verwaltungsanweisungen zur Ermittlung des Privatanteils sind schwer zu handhaben und beinhalten aufw\u00e4ndige Prognoseberechnungen \u00fcber das Nutzungsverhalten jedes einzelnen Karteninhabers. Dies f\u00fchrt zu Haftungsrisiken f\u00fcr Arbeitgeber und Arbeitnehmer, was eine geringe Akzeptanz zur Folge hat und benachteiligt diese klimafreundlichen Produkte. Eine einfache und praktikable Regelung, die die gemischte Nutzung von Jahres-/Netzkarten im Rahmen des Mobilit\u00e4tsbudgets regelt, w\u00e4re im Zuge seiner F\u00f6rderung sehr wichtig. Vorstellbar w\u00e4re z.B. eine gesetzlich abgesicherte, pauschale Sch\u00e4tzungsm\u00f6glichkeit des steuerpflichtigen privaten Nutzungsanteils.\r\nEine einfache, praxisgerechte Ausgestaltung k\u00f6nnte anhand eines typisiertes Nutzungsverhaltens der Fahrg\u00e4ste ermittelt werden. So ergab eine Auswertung des Nutzungsverhaltens von Inhabern einer BahnCard100 im Zeitraum Mitte 2022 bis Mitte 2023, dass diese in der 1. Klasse zu ca. 17,5% f\u00fcr steuerpflichtige Privatfahrten im Fernverkehr eingesetzt wurde. Denkbar w\u00e4re folglich eine Sch\u00e4tzung des privaten Nutzungsanteils in H\u00f6he von ca. 20%. Eine solche Regelung w\u00e4re eine echte Vereinfachung im Sinne des gew\u00fcnschten B\u00fcrokratieabbaus und eine Haftungsreduzierung f\u00fcr Arbeitgeber und -nehmer. Zudem k\u00f6nnte die Verbreitung z.B. der BahnCard100 als \u201eeiner Karte f\u00fcr alles\u201c, die bundesweite klimafreundliche Mobilit\u00e4t im Regional- und Fernverkehr als Alternative zum Individualverkehr er\u00f6ffnen. Wir regen daher an, den Referentenentwurf entsprechend zu erg\u00e4nzen, damit die Anwendungsh\u00fcrden bei gemischt genutzten zeitraumbezogenen Angeboten \u00fcberwunden werden.\r\n3. Der Gesetzentwurf sieht zur Gew\u00e4hrung des Budgets den Einsatz von Sachbez\u00fcgen in Form von Gutscheinen, Gutscheinkarten und Prepaid-Karten aber auch von nachtr\u00e4glichen Zusch\u00fcssen vor. Hier k\u00f6nnte es zu unterschiedlichen Besteuerungen aber auch zu Missbrauch kommen, da Gutscheine und Geldkarten bereits im Zeitpunkt des Erwerbs zu versteuern sind, Zusch\u00fcsse jedoch erst nachtr\u00e4glich. Wir bitten darum, in allen F\u00e4llen die \u00dcberpr\u00fcfung eines regelkonformen Einsatzes f\u00fcr nachhaltige Mobilit\u00e4tsangebote sicherzustellen. Vorstellbar w\u00e4re z.B. ein Nachweis des Mitarbeitenden \u00fcber die Nutzung der Mobilit\u00e4tsformen (z.B. in Form von Rechnungen, Belegen, Bezahlnachweise, etc.) gegen\u00fcber dem Arbeitgeber."
+                        }
+                    },
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/3e/0b/292159/Stellungnahme-Gutachten-SG2406140036.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-13"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002319",
+                        "regulatoryProjectTitle": "Vereinfachung der lohnsteuerlichen Regelungen beim Einsatz eines betrieblichen Mobilit\u00e4tsbudgets",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Das B\u00fcndnis nachhaltige Mobilit\u00e4tswirtschaft begr\u00fc\u00dft die Klarstellungen des\r\nvorliegenden Regierungsentwurfs f\u00fcr das Mobilit\u00e4tsbudget sehr, in Bezug auf\r\nAbonnements f\u00fcr Bahnen und Busse sowie die Regelungen gegen Missbrauch.\r\nGleichzeitig bedauern wir, dass Fahrr\u00e4der als ebenfalls nachhaltige\r\nVerkehrstr\u00e4ger in der Klarstellung nicht erw\u00e4hnt wurden. Hier muss der\r\nArbeitnehmer derzeit w\u00e4hlen, ob er eine einmalige Fahrt im Rahmen des\r\nBikesharing nutzt oder ein Dienstrad in Anspruch nimmt, dessen Laufzeit meist\r\n36 Monate betr\u00e4gt. Es besteht jedoch die M\u00f6glichkeit, monatlich k\u00fcndbare\r\nFahrrad-Abonnements ohne Mindest-laufzeit zu nutzen, wenn diese in das\r\nMobilit\u00e4tsbudget aufgenommen werden. Sie z\u00e4hlen ebenfalls zur \u201ekurzfristigen,\r\ngelegentlichen und bedarfsgerechte Bereit-stellung verschiedener\r\nMobilit\u00e4tsformen\u201c und f\u00f6rdern nachhaltige Verkehrskonzepte. Wir bitten\r\ndeshalb darum, sie zu ber\u00fccksichtigen.\r\nWeiterhin pl\u00e4dieren wir f\u00fcr die Chance der Entb\u00fcrokratisierung und Weiter-\r\nentwicklung b\u00fcrgerfreundlicher Tickets im Rahmen der gemischten Nutzung\r\nvon Jahres-/Netzkarten f\u00fcr Bahnen und Busse beim Mobilit\u00e4tsbudget und\r\nschlagen hierf\u00fcr eine gesetzliche Sch\u00e4tzung des steuerpflichtigen privaten\r\nNutzungsanteils anhand eines typisiertes Nutzungsverhaltens der Fahrg\u00e4ste\r\nvon ca. 20% vor. Die derzeit bestehenden Verwaltungsanweisungen zur\r\nErmittlung des Privatanteils sind schwer zu handhaben und beinhalten\r\naufw\u00e4ndige Prognoseberechnungen \u00fcber das Nutzungsverhalten jedes\r\neinzelnen Karteninhabers. Dies hat in der Praxis zu Haftungsrisiken und\r\nAkzeptanzproblemen gef\u00fchrt und benachteiligt diese klimafreundlichen\r\nProdukte. Wir bitten deshalb darum, diese Chance zu nutzen.\r\nAbschlie\u00dfend sehen wir bei der Anforderung an die Zus\u00e4tzlichkeit der\r\nGew\u00e4hrung zum Arbeitslohn noch eine offene Frage: Wie ist es zu werten, wenn\r\nim Arbeitsvertrag eines Arbeitnehmers ein Dienstwagen vereinbart wurde,\r\ndieser sich im Sinne des Klimaschutzes jedoch f\u00fcr ein Downsizing entscheidet\r\nund die frei werdende Verg\u00fctung in ein Mobilit\u00e4tsbudget investieren m\u00f6chte?\r\nNach unserer Einsch\u00e4tzung zu dem im Jahressteuergesetz 2020 in \u00a7 8 Abs. 4\r\nEStG definierten Begriffs der \"Erbringung zus\u00e4tzlich zum ohnehin\r\ngeschuldeten Arbeitslohn\" w\u00e4re das Zus\u00e4tzlichkeitskriterium erf\u00fcllt. Ein\r\nHinweis des Gesetzgebers w\u00e4re jedoch hilfreich."
+                        }
+                    }
+                ],
+                "title": "Vereinfachung der lohnsteuerlichen Regelungen beim Einsatz eines betrieblichen Mobilit\u00e4tsbudgets"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EStG",
+                        "title": "Einkommensteuergesetz",
+                        "url": "https://www.gesetze-im-internet.de/estg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die steuerlichen Regelungen zum Dienstradleasing sind nur per Erlass der Landesfinanzministerien und nicht auf gleicher Ebene im Einkommensteuergesetz geregelt. Daraus folgende steuerliche Detailregelungen werden deshalb vom Dienstwagen abgeleitet, was in der Praxis regelm\u00e4\u00dfig zu Problemen f\u00fchrt. Notwendig ist eine eigenst\u00e4ndige Regelung f\u00fcr Dienstr\u00e4der im Einkommensteuer-\r\ngesetz. Diese w\u00fcrde mehr Rechtssicherheit, Klarheit und Einfachheit f\u00fcr die Nutzung von\r\nDienstr\u00e4dern schaffen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002320",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/be/65/292161/Stellungnahme-Gutachten-SG2405270003.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                        "de": "Bundesministerium der Finanzen (BMF)",
+                                        "en": "Bundesministerium der Finanzen (BMF)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-26"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002320",
+                        "regulatoryProjectTitle": "Aufnahme Dienstradleasing per Gehaltsumwandlung ins Einkommensteuergesetz",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Rechtssicherheit f\u00fcr betriebliche Mobilit\u00e4t:\r\nF\u00f6rderung f\u00fcr Dienstr\u00e4der im Einkommensteuergesetz verankern\r\nDienstradleasing ist eine der innovativen Erfolgsgeschichten der Mobilit\u00e4tsbranche. Es hat sich\r\ninnerhalb von 10 Jahren zu einem der Grundpfeiler betrieblicher Mobilit\u00e4t entwickelt. \u00dcber\r\n100.000 Arbeitgeber bundesweit bieten Dienstradleasing an, zahlreiche Bundesl\u00e4nder,\r\nhunderte Kommunen und \u00fcber 70 % der DAX-Konzerne. Pro Jahr kommen mittlerweile etwa\r\neine Million neue Dienstr\u00e4der auf deutsche Stra\u00dfen. F\u00fcr Unternehmen ist das Dienstrad-\r\nleasing ein attraktives Angebot, um Mitarbeitende zu binden, Fachkr\u00e4fte zu gewinnen, die\r\nGesundheit der Besch\u00e4ftigten zu verbessern und ihre betrieblichen Nachhaltigkeitsziele zu\r\nverfolgen.\r\nDer Wachstumsdynamik des Dienstradleasings steht allerdings seit Beginn eine H\u00fcrde im\r\nWeg: Zwar wurde im Jahr 2012 die vom Dienstwagen bekannte 1 %-Regel auf das Dienstrad\r\n\u00fcbertragen. Allerdings nur per Erlass der Landesfinanzministerien und nicht auf gleicher\r\nEbene im Einkommensteuergesetz. Daraus folgende steuerliche Detailregelungen werden\r\ndeshalb vom Dienstwagen abgeleitet, was in der Praxis regelm\u00e4\u00dfig zu Problemen f\u00fchrt. 2012\r\nwar der Erlass eine pragmatische L\u00f6sung f\u00fcr einen Nischenmarkt. Dieser ist seitdem allerdings\r\nenorm gewachsen und stellt heute einem Milliardenmarkt dar. Die steuerliche Gestaltung\r\nbetrifft mittlerweile mehrere Millionen Dienstr\u00e4der bundesweit und die Steuerabteilungen der\r\nmeisten Unternehmen. Dieser ver\u00e4nderten Bedeutung sollte auch der Gesetzgeber Rechnung\r\ntragen. Es ist Zeit f\u00fcr eine eigenst\u00e4ndige Regelung f\u00fcr Dienstr\u00e4der im Einkommensteuer-\r\ngesetz. Diese w\u00fcrde mehr Rechtssicherheit, Klarheit und Einfachheit f\u00fcr die Nutzung von\r\nDienstr\u00e4dern schaffen.\r\nWie eine Aufnahme ins Gesetz aussehen k\u00f6nnte:\r\n\u00a7 8 Abs. 2 Satz 2 EStG wird um einen zweiten Halbsatz erg\u00e4nzt:\r\nF\u00fcr die private Nutzung eines betrieblichen Kraftfahrzeugs zu privaten Fahrten gilt \u00a7 6 Absatz 1\r\nNummer 4 Satz 2 entsprechend; [neu:] f\u00fcr die private Nutzung eines betrieblichen Fahrrades,\r\ndas kein Kraftfahrzeug im Sinne des \u00a7 6 Absatz 1 Nummer 4 Satz 2 ist, ist bei \u00dcberlassung nach\r\ndem 31. Dezember 2018 und vor dem 1. Januar 2031 f\u00fcr jeden Kalender-monat 1 Prozent eines\r\nauf volle 100 Euro abgerundeten Viertels der unverbindlichen Preisempfehlung zuz\u00fcglich der\r\nKosten f\u00fcr fahrradtypisches Zubeh\u00f6r, Diebstahlschutz und Montage einschlie\u00dflich\r\nUmsatzsteuer ab dem Zeitpunkt der erstmaligen Inbetriebnahme des Fahrrads anzusetzen."
+                        }
+                    }
+                ],
+                "title": "Aufnahme Dienstradleasing per Gehaltsumwandlung ins Einkommensteuergesetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GWB",
+                        "title": "Gesetz gegen Wettbewerbsbeschr\u00e4nkungen",
+                        "url": "https://www.gesetze-im-internet.de/gwb"
+                    },
+                    {
+                        "shortTitle": "VgV",
+                        "title": "Verordnung \u00fcber die Vergabe \u00f6ffentlicher Auftr\u00e4ge",
+                        "url": "https://www.gesetze-im-internet.de/vgv_2016"
+                    },
+                    {
+                        "shortTitle": "SektVO",
+                        "title": "Verordnung \u00fcber die Vergabe von \u00f6ffentlichen Auftr\u00e4gen im Bereich des Verkehrs, der Trinkwasserversorgung und der Energieversorgung",
+                        "url": "https://www.gesetze-im-internet.de/sektvo_2016"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Der zwischen SPD, B\u00dcNDNIS 90/DIE GR\u00dcNEN und FDP im Jahr 2021 vereinbarte Koalitionsvertrag \"Mehr Fortschritt wagen\" hat das Ziel, die \u00f6ffentlichen Vergabeverfahren zu vereinfachen, zu professionalisieren, zu digitalisieren und zu beschleunigen. Die \u00f6ffentliche Beschaffung und Vergabe soll wirtschaftlich, sozial, \u00f6kologisch und innovativ ausgerichtet und die Verbindlichkeit gest\u00e4rkt werden, ohne dabei die Rechtssicherheit von Vergabeentscheidungen zu gef\u00e4hrden oder die Zugangsh\u00fcrden f\u00fcr den Mittelstand zu erh\u00f6hen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002321",
+                "statements": [],
+                "title": "Transformation des Vergaberechts"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BWaldG",
+                        "title": "Gesetz zur Erhaltung des Waldes und zur F\u00f6rderung der Forstwirtschaft",
+                        "url": "https://www.gesetze-im-internet.de/bwaldg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "\r\nDer Koalitionsvertrag der Ampelregierung sieht noch f\u00fcr diese Legislaturperiode die Novellierung des Bundeswaldgesetzes (BWaldG) vor. Die Aktualisierung ist vor allem aufgrund der Herausforderungen des Klimawandels und der Biodiversit\u00e4tskrise notwendig. Ein erster inoffizieller Referentenentwurf des Gesetzes, wird bereits seit Jahresende 2023 intensiv in der Fach\u00f6ffentlichkeit diskutiert. Der Entwurf \u2013 w\u00fcrde dieser so umgesetzt \u2013 w\u00fcrde die bisherige Gleichstellung von Forstwirtschaft, Naturschutz und Erholung aufgeben. Bez\u00fcglich des Naturschutzes wird die Betonung der \u00f6kologischen Leistungen des Waldes ausdr\u00fccklich begr\u00fc\u00dft. Die Details des Papiers lassen jedoch die Bef\u00fcrchtung aufkommen, dass damit das Ende des Radfahrens im Wald, wie wir es bisher kennen, eintreten k\u00f6nnte.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LEISURE_AND_SPORT",
+                        "de": "Sport, Freizeit und Tourismus",
+                        "en": "Sports, leisure and tourism"
+                    },
+                    {
+                        "code": "FOI_LAS_OTHER",
+                        "de": "Sonstiges im Bereich \"Sport, Freizeit und Tourismus\"",
+                        "en": "Other in the field of \"Sports, leisure and tourism\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002322",
+                "statements": [],
+                "title": "Entwurf eines Gesetzes zur Neuordnung des Bundeswaldgesetzes"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "StVZO",
+                        "title": "Stra\u00dfenverkehrs-Zulassungs-Ordnung",
+                        "url": "https://www.gesetze-im-internet.de/stvzo_2012"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Wir setzen uns f\u00fcr Apassungen der StVZO ein, die dem technischen Fortschritt der Fahrradwirtschaft, einer Verbesserung der Verkehrssicherheit und dem Komfort der Fahrradnutzung dienen. Dazu geh\u00f6rt unter anderem die Zul\u00e4ssigkeit von Blinkern an allen Fahrr\u00e4dern und von seitlichen Konturmarkierungen von Lastenr\u00e4dern. ",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://bmdv.bund.de/SharedDocs/DE/Anlage/Gesetze/Gesetze-20/verordnung-zur-neufassung-der-strassenverkehrs-zulassungs-ordnung-und-zur-aenderung-weiterer-vorschriften.pdf?__blob=publicationFile",
+                            "draftBillProjectUrl": "https://bmdv.bund.de/SharedDocs/DE/Gesetze-20/verordnung-zur-neufassung-der-strassenverkehrs-zulassungs-ordnung-und-zur-aenderung-weiterer-vorschriften.html?nn=508840",
+                            "shortTitle": "BMDV",
+                            "title": "Bundesministerium f\u00fcr Digitales und Verkehr",
+                            "url": "https://bmdv.bund.de/DE/Home/home.html"
+                        }
+                    ],
+                    "publicationDate": "2023-06-30",
+                    "title": "Verordnung zur Neufassung der Stra\u00dfenverkehrs-Zulassungs-Ordnung (StVZO) und zur \u00c4nderung weiterer Vorschriften"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_POLICY",
+                        "de": "Verkehrspolitik",
+                        "en": "Transport policy"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                        "de": "Stra\u00dfenverkehr",
+                        "en": "Road traffic"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002323",
+                "statements": [],
+                "title": "StVZO Novelle"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die E-Lastenradrichtlinie f\u00f6rdert im Rahmen der Nationalen Klimaschutzinitiative (NKI) des Bundesministeriums f\u00fcr Wirtschaft und Kliamschutz die Anschaffung gewerblicher E-Lastenr\u00e4der und Anh\u00e4nger. Die F\u00f6rderrichtlinie ist im Februar 2024 ausgelaufen. Eine Novelle der F\u00f6rderrichtlinie ist angek\u00fcndigt. Wir setzen uns f\u00fcr eine Ausweitung und ein baldiges Inkrafttreten der F\u00f6rderichtlinie ein. Die Ausweitung bezieht sich zum Beispiel auf weitere gewerliche Lastenrad-Typen und die Aufnahme von Leasing als f\u00f6rderf\u00e4hige Anschaffungsform.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_POLICY",
+                        "de": "Verkehrspolitik",
+                        "en": "Transport policy"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                        "de": "Stra\u00dfenverkehr",
+                        "en": "Road traffic"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002324",
+                "statements": [],
+                "title": "E-Lastenradrichtlinie"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Erh\u00f6hung Mittel f\u00fcr Fahrradinfrastruktur und F\u00f6rderprogramme im Haushaltsgesetz 2024.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/078/2007800.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMF",
+                                "title": "Bundesministerium der Finanzen",
+                                "url": "https://www.bundesfinanzministerium.de/Web/DE/Home/home.html"
+                            }
+                        ],
+                        "printingNumber": "20/7800",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-%C3%BCber-die-feststellung-des-bundeshaushaltsplans-f%C3%BCr-das-haushaltsjahr-2024/302729",
+                        "title": "Entwurf eines Gesetzes \u00fcber die Feststellung des Bundeshaushaltsplans f\u00fcr das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0002325",
+                "statements": [],
+                "title": "Haushalt 2024"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/19/59/292157/Stellungnahme-Gutachten-SG2405270002.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                "de": "Bundesministerium der Finanzen (BMF)",
+                                "en": "Bundesministerium der Finanzen (BMF)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-23"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002319",
+                "regulatoryProjectTitle": "Vereinfachung der lohnsteuerlichen Regelungen beim Einsatz eines betrieblichen Mobilit\u00e4tsbudgets",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Das B\u00fcndnis nachhaltige Mobilit\u00e4tswirtschaft, eine Initiative der Verb\u00e4nde Allianz pro Schiene, Bundesverband CarSharing, Verband deutscher Verkehrsunternehmen und Verband Zukunft Fahrrad hatte sich im M\u00e4rz des vergangenen Jahres in einem gemeinsamen Positionspapier mit dem BDI mit der Bitte der steuer- und verwaltungsrechtlichen Vereinfachung von Mobilit\u00e4tsbudgets an das BMF gewandt, um deren Potential f\u00fcr die Nutzung klimafreundlicher Mobilit\u00e4t zu erschlie\u00dfen. Nach kurzem Zeitablauf liegt jetzt ein gelungener Referentenentwurf f\u00fcr ein Jahressteuergesetz 2024 vor, der viele Vereinfachungen enth\u00e4lt, um nachhaltige Mobilit\u00e4t zu unterst\u00fctzen und den wir sehr begr\u00fc\u00dfen. Der Entwurf beinhaltet nach unserer Einsch\u00e4tzung jedoch noch einige wichtige Regelungsl\u00fccken, um deren Klarstellung wir bitten:\r\n1. Der Referentenentwurf geht derzeit vorwiegend von Einzelfahrten aus, da er in seiner Begr\u00fcndung von der \u201ekurzfristigen, gelegentlichen und bedarfsgerechte Bereitstellung verschiedener Mobilit\u00e4tsformen\u201c spricht. Zeitraumbezogene Angebote f\u00fcr nachhaltige Mobilit\u00e4t sind demnach nicht eindeutig ber\u00fccksichtigt. Dies betrifft insbesondere Monats- und Jahresabonnements f\u00fcr Busse, Bahnen, Fahrr\u00e4der und E-Scooter. Da diese nachhaltigen Verkehrsformen nach der Intention des Entwurfes jedoch grunds\u00e4tzlich im Mobilit\u00e4tsbudget vorgesehen sind und den Nutzern auch als Zeitkarten die gew\u00fcnschte Flexibilit\u00e4t bieten, gehen wir derzeit davon aus, dass auch sie beinhaltet sein sollen und bitten um eine Klarstellung in dem Referentenentwurf. Es findet unsere ausdr\u00fcckliche Zustimmung, dass die M\u00f6glichkeit zur dauerhaften und nicht nur gelegentlichen Nutzung von Kraftfahrzeugen (z.B. auf Dauer ausgelegte Mietwagen-, Leasing- oder Abo-Modelle sowie klassische Dienstwagen) vom Anwendungsbereich des Mobilit\u00e4tsbudgets zur F\u00f6rderung nachhaltiger Mobilit\u00e4t explizit abgegrenzt und ausgeschlossen wurde.\r\n2. Die Aufwendungen des Arbeitgebers (einschlie\u00dflich Umsatzsteuer) f\u00fcr\r\nzeitraumbezogene Angebote im Jahresabonnement sowie Jahresnetzkarten, z.B. die BahnCard100, \u00fcberschreiten zwar oftmals den Betrag von \u20ac 2.400, sind jedoch meist gepr\u00e4gt durch die gemischte Nutzung f\u00fcr Dienstwege, Fahrten Wohnung-Arbeitsst\u00e4tte und Privatfahrten. Im Rahmen des Mobilit\u00e4tsbudgets ist jedoch lediglich der private Nutzungsanteil steuerpflichtig. Hierzu enth\u00e4lt der Referentenentwurf keine Regelung, obwohl auch sie nach der Intention des Gesetzes, nachhaltige Mobilit\u00e4t zu f\u00f6rdern, erfasst sein sollten. Die derzeit bestehenden Verwaltungsanweisungen zur Ermittlung des Privatanteils sind schwer zu handhaben und beinhalten aufw\u00e4ndige Prognoseberechnungen \u00fcber das Nutzungsverhalten jedes einzelnen Karteninhabers. Dies f\u00fchrt zu Haftungsrisiken f\u00fcr Arbeitgeber und Arbeitnehmer, was eine geringe Akzeptanz zur Folge hat und benachteiligt diese klimafreundlichen Produkte. Eine einfache und praktikable Regelung, die die gemischte Nutzung von Jahres-/Netzkarten im Rahmen des Mobilit\u00e4tsbudgets regelt, w\u00e4re im Zuge seiner F\u00f6rderung sehr wichtig. Vorstellbar w\u00e4re z.B. eine gesetzlich abgesicherte, pauschale Sch\u00e4tzungsm\u00f6glichkeit des steuerpflichtigen privaten Nutzungsanteils.\r\nEine einfache, praxisgerechte Ausgestaltung k\u00f6nnte anhand eines typisiertes Nutzungsverhaltens der Fahrg\u00e4ste ermittelt werden. So ergab eine Auswertung des Nutzungsverhaltens von Inhabern einer BahnCard100 im Zeitraum Mitte 2022 bis Mitte 2023, dass diese in der 1. Klasse zu ca. 17,5% f\u00fcr steuerpflichtige Privatfahrten im Fernverkehr eingesetzt wurde. Denkbar w\u00e4re folglich eine Sch\u00e4tzung des privaten Nutzungsanteils in H\u00f6he von ca. 20%. Eine solche Regelung w\u00e4re eine echte Vereinfachung im Sinne des gew\u00fcnschten B\u00fcrokratieabbaus und eine Haftungsreduzierung f\u00fcr Arbeitgeber und -nehmer. Zudem k\u00f6nnte die Verbreitung z.B. der BahnCard100 als \u201eeiner Karte f\u00fcr alles\u201c, die bundesweite klimafreundliche Mobilit\u00e4t im Regional- und Fernverkehr als Alternative zum Individualverkehr er\u00f6ffnen. Wir regen daher an, den Referentenentwurf entsprechend zu erg\u00e4nzen, damit die Anwendungsh\u00fcrden bei gemischt genutzten zeitraumbezogenen Angeboten \u00fcberwunden werden.\r\n3. Der Gesetzentwurf sieht zur Gew\u00e4hrung des Budgets den Einsatz von Sachbez\u00fcgen in Form von Gutscheinen, Gutscheinkarten und Prepaid-Karten aber auch von nachtr\u00e4glichen Zusch\u00fcssen vor. Hier k\u00f6nnte es zu unterschiedlichen Besteuerungen aber auch zu Missbrauch kommen, da Gutscheine und Geldkarten bereits im Zeitpunkt des Erwerbs zu versteuern sind, Zusch\u00fcsse jedoch erst nachtr\u00e4glich. Wir bitten darum, in allen F\u00e4llen die \u00dcberpr\u00fcfung eines regelkonformen Einsatzes f\u00fcr nachhaltige Mobilit\u00e4tsangebote sicherzustellen. Vorstellbar w\u00e4re z.B. ein Nachweis des Mitarbeitenden \u00fcber die Nutzung der Mobilit\u00e4tsformen (z.B. in Form von Rechnungen, Belegen, Bezahlnachweise, etc.) gegen\u00fcber dem Arbeitgeber."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/3e/0b/292159/Stellungnahme-Gutachten-SG2406140036.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-06-13"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002319",
+                "regulatoryProjectTitle": "Vereinfachung der lohnsteuerlichen Regelungen beim Einsatz eines betrieblichen Mobilit\u00e4tsbudgets",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Das B\u00fcndnis nachhaltige Mobilit\u00e4tswirtschaft begr\u00fc\u00dft die Klarstellungen des\r\nvorliegenden Regierungsentwurfs f\u00fcr das Mobilit\u00e4tsbudget sehr, in Bezug auf\r\nAbonnements f\u00fcr Bahnen und Busse sowie die Regelungen gegen Missbrauch.\r\nGleichzeitig bedauern wir, dass Fahrr\u00e4der als ebenfalls nachhaltige\r\nVerkehrstr\u00e4ger in der Klarstellung nicht erw\u00e4hnt wurden. Hier muss der\r\nArbeitnehmer derzeit w\u00e4hlen, ob er eine einmalige Fahrt im Rahmen des\r\nBikesharing nutzt oder ein Dienstrad in Anspruch nimmt, dessen Laufzeit meist\r\n36 Monate betr\u00e4gt. Es besteht jedoch die M\u00f6glichkeit, monatlich k\u00fcndbare\r\nFahrrad-Abonnements ohne Mindest-laufzeit zu nutzen, wenn diese in das\r\nMobilit\u00e4tsbudget aufgenommen werden. Sie z\u00e4hlen ebenfalls zur \u201ekurzfristigen,\r\ngelegentlichen und bedarfsgerechte Bereit-stellung verschiedener\r\nMobilit\u00e4tsformen\u201c und f\u00f6rdern nachhaltige Verkehrskonzepte. Wir bitten\r\ndeshalb darum, sie zu ber\u00fccksichtigen.\r\nWeiterhin pl\u00e4dieren wir f\u00fcr die Chance der Entb\u00fcrokratisierung und Weiter-\r\nentwicklung b\u00fcrgerfreundlicher Tickets im Rahmen der gemischten Nutzung\r\nvon Jahres-/Netzkarten f\u00fcr Bahnen und Busse beim Mobilit\u00e4tsbudget und\r\nschlagen hierf\u00fcr eine gesetzliche Sch\u00e4tzung des steuerpflichtigen privaten\r\nNutzungsanteils anhand eines typisiertes Nutzungsverhaltens der Fahrg\u00e4ste\r\nvon ca. 20% vor. Die derzeit bestehenden Verwaltungsanweisungen zur\r\nErmittlung des Privatanteils sind schwer zu handhaben und beinhalten\r\naufw\u00e4ndige Prognoseberechnungen \u00fcber das Nutzungsverhalten jedes\r\neinzelnen Karteninhabers. Dies hat in der Praxis zu Haftungsrisiken und\r\nAkzeptanzproblemen gef\u00fchrt und benachteiligt diese klimafreundlichen\r\nProdukte. Wir bitten deshalb darum, diese Chance zu nutzen.\r\nAbschlie\u00dfend sehen wir bei der Anforderung an die Zus\u00e4tzlichkeit der\r\nGew\u00e4hrung zum Arbeitslohn noch eine offene Frage: Wie ist es zu werten, wenn\r\nim Arbeitsvertrag eines Arbeitnehmers ein Dienstwagen vereinbart wurde,\r\ndieser sich im Sinne des Klimaschutzes jedoch f\u00fcr ein Downsizing entscheidet\r\nund die frei werdende Verg\u00fctung in ein Mobilit\u00e4tsbudget investieren m\u00f6chte?\r\nNach unserer Einsch\u00e4tzung zu dem im Jahressteuergesetz 2020 in \u00a7 8 Abs. 4\r\nEStG definierten Begriffs der \"Erbringung zus\u00e4tzlich zum ohnehin\r\ngeschuldeten Arbeitslohn\" w\u00e4re das Zus\u00e4tzlichkeitskriterium erf\u00fcllt. Ein\r\nHinweis des Gesetzgebers w\u00e4re jedoch hilfreich."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/be/65/292161/Stellungnahme-Gutachten-SG2405270003.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                "de": "Bundesministerium der Finanzen (BMF)",
+                                "en": "Bundesministerium der Finanzen (BMF)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-26"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002320",
+                "regulatoryProjectTitle": "Aufnahme Dienstradleasing per Gehaltsumwandlung ins Einkommensteuergesetz",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Rechtssicherheit f\u00fcr betriebliche Mobilit\u00e4t:\r\nF\u00f6rderung f\u00fcr Dienstr\u00e4der im Einkommensteuergesetz verankern\r\nDienstradleasing ist eine der innovativen Erfolgsgeschichten der Mobilit\u00e4tsbranche. Es hat sich\r\ninnerhalb von 10 Jahren zu einem der Grundpfeiler betrieblicher Mobilit\u00e4t entwickelt. \u00dcber\r\n100.000 Arbeitgeber bundesweit bieten Dienstradleasing an, zahlreiche Bundesl\u00e4nder,\r\nhunderte Kommunen und \u00fcber 70 % der DAX-Konzerne. Pro Jahr kommen mittlerweile etwa\r\neine Million neue Dienstr\u00e4der auf deutsche Stra\u00dfen. F\u00fcr Unternehmen ist das Dienstrad-\r\nleasing ein attraktives Angebot, um Mitarbeitende zu binden, Fachkr\u00e4fte zu gewinnen, die\r\nGesundheit der Besch\u00e4ftigten zu verbessern und ihre betrieblichen Nachhaltigkeitsziele zu\r\nverfolgen.\r\nDer Wachstumsdynamik des Dienstradleasings steht allerdings seit Beginn eine H\u00fcrde im\r\nWeg: Zwar wurde im Jahr 2012 die vom Dienstwagen bekannte 1 %-Regel auf das Dienstrad\r\n\u00fcbertragen. Allerdings nur per Erlass der Landesfinanzministerien und nicht auf gleicher\r\nEbene im Einkommensteuergesetz. Daraus folgende steuerliche Detailregelungen werden\r\ndeshalb vom Dienstwagen abgeleitet, was in der Praxis regelm\u00e4\u00dfig zu Problemen f\u00fchrt. 2012\r\nwar der Erlass eine pragmatische L\u00f6sung f\u00fcr einen Nischenmarkt. Dieser ist seitdem allerdings\r\nenorm gewachsen und stellt heute einem Milliardenmarkt dar. Die steuerliche Gestaltung\r\nbetrifft mittlerweile mehrere Millionen Dienstr\u00e4der bundesweit und die Steuerabteilungen der\r\nmeisten Unternehmen. Dieser ver\u00e4nderten Bedeutung sollte auch der Gesetzgeber Rechnung\r\ntragen. Es ist Zeit f\u00fcr eine eigenst\u00e4ndige Regelung f\u00fcr Dienstr\u00e4der im Einkommensteuer-\r\ngesetz. Diese w\u00fcrde mehr Rechtssicherheit, Klarheit und Einfachheit f\u00fcr die Nutzung von\r\nDienstr\u00e4dern schaffen.\r\nWie eine Aufnahme ins Gesetz aussehen k\u00f6nnte:\r\n\u00a7 8 Abs. 2 Satz 2 EStG wird um einen zweiten Halbsatz erg\u00e4nzt:\r\nF\u00fcr die private Nutzung eines betrieblichen Kraftfahrzeugs zu privaten Fahrten gilt \u00a7 6 Absatz 1\r\nNummer 4 Satz 2 entsprechend; [neu:] f\u00fcr die private Nutzung eines betrieblichen Fahrrades,\r\ndas kein Kraftfahrzeug im Sinne des \u00a7 6 Absatz 1 Nummer 4 Satz 2 ist, ist bei \u00dcberlassung nach\r\ndem 31. Dezember 2018 und vor dem 1. Januar 2031 f\u00fcr jeden Kalender-monat 1 Prozent eines\r\nauf volle 100 Euro abgerundeten Viertels der unverbindlichen Preisempfehlung zuz\u00fcglich der\r\nKosten f\u00fcr fahrradtypisches Zubeh\u00f6r, Diebstahlschutz und Montage einschlie\u00dflich\r\nUmsatzsteuer ab dem Zeitpunkt der erstmaligen Inbetriebnahme des Fahrrads anzusetzen."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

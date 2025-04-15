@@ -1,0 +1,568 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-28T18:34:23.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-16T00:42:41.000+01:00",
+        "lastUpdateDate": "2024-06-28T18:29:58.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 38984,
+                "validFromDate": "2024-06-28T18:29:58.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27977,
+                "validFromDate": "2024-06-24T21:23:36.000+02:00",
+                "validUntilDate": "2024-06-28T18:29:58.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25545,
+                "validFromDate": "2023-09-11T12:53:24.000+02:00",
+                "validUntilDate": "2024-06-24T21:23:36.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23260,
+                "validFromDate": "2023-07-10T14:28:52.000+02:00",
+                "validUntilDate": "2023-09-11T12:53:24.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 18813,
+                "validFromDate": "2023-04-03T15:50:47.000+02:00",
+                "validUntilDate": "2023-07-10T14:28:52.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 14313,
+                "validFromDate": "2023-02-28T18:34:23.000+01:00",
+                "validUntilDate": "2023-04-03T15:50:47.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Die Deutsche Physikalische Gesellschaft e. V. (DPG), deren Tradition bis in das Jahr 1845 zur\u00fcckreicht, ist die \u00e4lteste nationale und mit rund 53.000 Mitgliedern auch mitgliederst\u00e4rkste physikalische Fachgesellschaft der Welt. Als gemeinn\u00fctziger Verein verfolgt sie keine wirtschaftlichen Interessen. Die DPG f\u00f6rdert mit Tagungen, Veranstaltungen und Publikationen den Wissenstransfer innerhalb der wissenschaftlichen Gemeinschaft und m\u00f6chte allen Neugierigen ein Fenster zur Physik \u00f6ffnen. Besondere Schwerpunkte sind die F\u00f6rderung des naturwissenschaftlichen Nachwuchses und der Chancengleichheit. \r\nDurch direkte Kontaktaufnahme, aber auch durch die Veranstaltung von Parlamentarischen Abenden und Diskussionsveranstaltungen, zu denen Regierungsmitglieder, Abgeordnete sowie Vertreterinnen und Vertreter der Ministerien eingeladen werden, wird unmittelbar der Kontakt mit Politikerinnen und Politikern sowie Vertreterinnen und Vertretern der Ministerien aufgenommen. \r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_FA_CULTURE",
+                "de": "Ausw\u00e4rtige Kultur- und Bildungspolitik",
+                "en": "Foreign cultural and educational policy"
+            },
+            {
+                "code": "FOI_EP_CHILDHOOD",
+                "de": "Vorschulische Bildung",
+                "en": "Early childhood education"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/54/bb/325880/Jahresabschluss_2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.25,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 30001,
+            "to": 40000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Bad Honnef",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Hauptstr.",
+            "streetNumber": "5",
+            "type": "NATIONAL",
+            "zipCode": "53604"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "boettcher@dpg-physik.de",
+            "nationalAdditional1": "Bad Honnef",
+            "nationalAdditional2": "Bad Honnef",
+            "phoneNumber": "+490302017480",
+            "street": "Am Kupfergraben",
+            "streetNumber": "7",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "dpg@dpg-physik.de"
+                }
+            ],
+            "phoneNumber": "+49222492320",
+            "websites": [
+                {
+                    "website": "www.dpg-physik.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Bernhard",
+                "lastName": "Nunner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Andreas",
+                "lastName": "B\u00f6ttcher",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr.",
+                "firstName": "Klaus",
+                "lastName": "Richter",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Prof. Dr. Dr. h. c.",
+                "entrustedPerson": false,
+                "firstName": "Joachim",
+                "function": "Vizepr\u00e4sident",
+                "lastName": "Ullrich",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": false,
+                "firstName": "Michael",
+                "function": "Schatzmeister",
+                "lastName": "Eppard",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Bernhard",
+                "function": "Hauptgesch\u00e4ftsf\u00fchrer",
+                "lastName": "Nunner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr.",
+                "entrustedPerson": true,
+                "firstName": "Klaus",
+                "function": "Pr\u00e4sident",
+                "lastName": "Richter",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-01-06",
+            "naturalPersons": 51561,
+            "organizations": 142,
+            "totalCount": 51703
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Gesellschaft f\u00fcr Fachdidaktik e.V. (GFD)"
+            },
+            {
+                "membership": "Forschungsgesellschaft Kunststoffe e. V. (FGK)"
+            },
+            {
+                "membership": "MINT EC - Das nationale Excellence-Schulnetzwerk"
+            },
+            {
+                "membership": "Physikalischer Verein"
+            },
+            {
+                "membership": "Gesellschaft der Freunde und F\u00f6rderer des Deutschen R\u00f6ntgen-Museums in Remscheid-Lennep e.V."
+            },
+            {
+                "membership": "Deutsches Museum"
+            },
+            {
+                "membership": "Bundesvereinigung Materialwissenschaft und Werkstofftechnik (BV MatWerk)"
+            },
+            {
+                "membership": "Akkreditierungsagentur f\u00fcr Studieng\u00e4nge der Ingenieurwissenschaften, der Informatik, der Naturwissenschaften und der Mathematik e. V. (ASIIN)"
+            },
+            {
+                "membership": "VdA - Verband deutscher Archivarinnen und Archivare e.V."
+            },
+            {
+                "membership": "International Association of Physics Students (IAPS)"
+            },
+            {
+                "membership": "European Physical Society (EPS)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Deutsche Physikalische Gesellschaft e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 2770001,
+            "to": 2780000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Zuschuss zum laufenden Betrieb des Physikzentrums Bad Honnef im Hause der Elly-H\u00f6lterhoff-B\u00f6cking-Stiftung in Form einer Fehlbedarfsdeckung (Institutionelle F\u00f6rderung)",
+                "location": "D\u00fcsseldorf",
+                "name": "Ministerium f\u00fcr Kultur und Wissenschaft des Landes Nordrhein-Westfalen",
+                "publicAllowanceEuro": {
+                    "from": 190001,
+                    "to": 200000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R003492/38984",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-28T18:29:58.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/e2/93/325883/Lobbyregister-Detailansicht-R003492-2024-06-28_18-29-58.pdf",
+        "validFromDate": "2024-06-28T18:29:58.000+02:00",
+        "version": 9
+    },
+    "registerEntryId": 38984,
+    "registerNumber": "R003492",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "WissZeitVG",
+                        "title": "Gesetz \u00fcber befristete Arbeitsvertr\u00e4ge in der Wissenschaft",
+                        "url": "https://www.gesetze-im-internet.de/wisszeitvg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Gesetz \u00fcber befristete Arbeitsvertr\u00e4ge in der Wissenschaft",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_WORK",
+                        "de": "Arbeit und Besch\u00e4ftigung",
+                        "en": "Work and employment"
+                    },
+                    {
+                        "code": "FOI_WORK_POLICY",
+                        "de": "Arbeitsmarkt",
+                        "en": "Job market"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/115/2011559.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMBF",
+                                "title": "Bundesministerium f\u00fcr Bildung und Forschung",
+                                "url": "https://www.bmbf.de/bmbf/de/home/home_node.html"
+                            }
+                        ],
+                        "printingNumber": "20/11559",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-%C3%A4nderung-des-befristungsrechts-f%C3%BCr-die-wissenschaft/310588",
+                        "title": "Entwurf eines Gesetzes zur \u00c4nderung des Befristungsrechts f\u00fcr die Wissenschaft"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0010157",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/bc/7a/325881/Stellungnahme-Gutachten-SG2406250045.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-08"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0010157",
+                        "regulatoryProjectTitle": "Reform des Wissenschaftszeitvertragsgesetz WissZeitVG)",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "<Anrede> <Titel> <Vorname> <Name> MdB\r\nDeutscher Bundestag\r\nPlatz der Republik 1\r\n11011 Berlin\r\n\r\nBad Honnef, 8. Mai 2024\r\n\r\nZum Gesetzentwurf der Bundesregierung - Entwurf eines Gesetzes zur \u00c4nderung des Befristungsrechts f\u00fcr die Wissenschaft (WissZeitVG)\r\n\r\nSehr geehrte\u2026,\r\n\r\nvor den parlamentarischen Beratungen zum o.g. Gesetzentwurf m\u00f6chte ich Sie auf einige Punkte hinwei-sen, die aus Sicht der Deutschen Physikalischen Gesellschaft (DPG) das deutsche Wissenschaftssystem vor gro\u00dfe Herausforderungen stellen w\u00fcrden. \r\nGenerell gilt:\r\n\u2022\tDie Lebens- und Karrierewege von Absolventinnen und Absolventen eines Physikstudiums sind vielf\u00e4ltig und daher kaum mit einheitlichen Regeln zu begleiten. Der aktuelle Gesetzesentwurf der Bundesregierung unterscheidet als fr\u00fche Karrierestufen in der Wissenschaft nur zwischen einer Promotions- und einer Postdocphase. \r\nF\u00fcr die Physik greift das zu kurz. Hilfreicher ist die vom European Framework for Research Careers etablierte Kategorisierung , welche die Phasen R1 bis R4 vorsieht: W\u00e4hrend eine Promotions-Phase (R1) auf unterschiedliche Berufe in der privaten Wirtschaft oder im \u00f6ffentlichen Dienst vor-bereitet und eine Postdoc-Phase (R2) zur Orientierung und der Forschung an befristeten Projekten dient, streben fortgeschrittene Nachwuchswissenschaftlerinnen oder -wissenschaftler (R3) eine Professur (R4) an.\r\nAus Sicht der Physik halten wir fest:\r\n\u2022\tBefristete Arbeitsverh\u00e4ltnisse sind f\u00fcr Forschung und Lehre an Universit\u00e4ten konstitutiv und daher f\u00fcr Promovierende (R1) und Postdocs (R2) \u2013 im Rahmen typischer Ausbildungs- und Projektdauern \u2013 unabdingbar.\r\n\u2022\tIn der R3-Phase sind belastbare Entfristungsperspektiven wichtig, um herausragende Talente in der Wissenschaft zu halten und um exzellente Professorinnen oder Professoren an Universit\u00e4ten zu gewinnen \u2013 insbesondere angesichts des demographischen Wandels. Sie geben Nachwuchs-wissenschaftlerinnen sowie -wissenschaftlern die Sicherheit, ihre Forschungsleistung im Einklang mit ihrer Lebens- und Familienplanung voll entfalten zu k\u00f6nnen und f\u00f6rdern deren Gleichstellung. Eine Erh\u00f6hung des Verh\u00e4ltnisses von unbefristeten zu befristeten Stellen ist daher anzustreben.\r\n\u2022\tStrikte (gesetzliche) Vorgaben f\u00fcr Befristungsdauern sind auch in der R3-Phase weder f\u00fcr die For-schungsplanung noch f\u00fcr die Diversit\u00e4t individueller Lebensf\u00fchrungen f\u00f6rderlich. Die M\u00f6glichkeit verschiedener Karrierewege (Habilitation, Juniorprofessur, Leitung einer Nachwuchsgruppe, finan-ziert durch Haushalts- oder Drittmittel) zur Professur ist sinnvoll, sofern diese die gleichen M\u00f6g-lichkeiten zur Qualifizierung bieten, insbesondere mit Blick auf Gew\u00e4hrung wissenschaftlicher Selbstst\u00e4ndigkeit und Betreuung von Qualifizierungsarbeiten. Eine H\u00f6chstbefristungsdauer in der \u2013 im Vorschlag der Bundesregierung ungl\u00fccklicherweise undifferenziert betrachteten \u2013 Phase R2/R3 d\u00fcrfte die Qualifizierung f\u00fcr eine Professur (R4-Phase) in vielen F\u00e4llen erschweren. Insbe-sondere kann sie zu unsicherer Anschlussfinanzierung durch Drittmittel oder zu einer Abwande-rung ins Ausland f\u00fchren. Karrierewege in Deutschland w\u00e4ren dadurch strukturell benachteiligt, was weder im Interesse der betroffenen Wissenschaftlerinnen und Wissenschaftler noch im Interesse des deutschen Wissenschaftssystems liegt. \r\nEntscheidend ist auch, dass eine \u00c4nderung des Befristungsrechts von weiteren Ma\u00dfnahmen begleitet werden muss, um die gew\u00fcnschten Wirkungen zu erzielen:\r\n\u2022\tDamit Universit\u00e4ten der Verantwortung f\u00fcr ihre Angestellten gerecht werden und gleichzeitig ihre hohe Forschungs- und Lehrleistung aufrechterhalten k\u00f6nnen, ist die Schaffung zus\u00e4tzlicher unbe-fristeter Stellen notwendig. Diese m\u00fcssen durch eine signifikante Erh\u00f6hung der Grundausstattung sowie der Projektpauschalen bei Drittmitteln finanziert werden, die f\u00fcr forschungsbegleitende Stel-len zusammengef\u00fchrt werden k\u00f6nnen. Damit ist die notwendige Diversifizierung akademischer Karrierewege mit permanenten Stellen neben der Professur zu etablieren.\r\n\u2022\tEine Drittmittelfinanzierung der forschungstragenden Nachwuchswissenschaftlerinnen oder -wissenschaftler (R3) darf nicht zu einer Erh\u00f6hung ihrer Karriererisiken f\u00fchren. W\u00fcnschenswert w\u00e4-re eine kompetitive Antragsm\u00f6glichkeit f\u00fcr unbefristete, von Bund und L\u00e4ndern finanzierte Ad-personam-Stellen f\u00fcr langfristige Projekte in Forschung und Lehre. Dies ist f\u00fcr die nachhaltige Si-cherung eines attraktiven Wissenschaftsstandorts Deutschland erforderlich.\r\nGemeinsam mit anderen mathematisch-naturwissenschaftlichen Fachgesellschaften hat die DPG bereits fr\u00fcher zu weiteren Aspekten der Novellierung des WissZeitVG Stellung genommen. Diese Stellungnahme ist weiterhin relevant. \r\nIch bitte Sie, die genannten Punkte im Interesse der betroffenen Wissenschaftlerinnen und Wissenschaft-ler speziell in der R3-Phase, aber auch im Interesse des Wissenschafts- und Wirtschaftsstandorts Deutschland bei den anstehenden Verhandlungen zu ber\u00fccksichtigen. F\u00fcr Ausk\u00fcnfte und R\u00fcckfragen ste-hen wir gerne zur Verf\u00fcgung.\r\nDie DPG vertritt \u00fcber 50.000 Physikerinnen und Physiker in Deutschland und ist weltweit die gr\u00f6\u00dfte nationa-le physikalische Fachgesellschaft. Ihre Mitglieder kommen vorwiegend aus dem akademischen Bereich, sind aber auch an anderen Stellen in Wirtschaft und Gesellschaft t\u00e4tig.\r\n\r\nMit freundlichen Gr\u00fc\u00dfen\r\n\r\n\r\nKlaus Richter\r\n\r\n\r\n--\r\n  Vgl.: www.dpg-physik.de/veroeffentlichungen/aktuell/2023/stellungnahme-der-deutschen-physikalischen-gesellschaft-zur-geplanten-novellierung-des-wissenschaftszeitvertragsgesetzes#_ftn1)\r\n  Vgl.:  https://euraxess.ec.europa.eu/europe/career-development/training-researchers/research-profiles-descriptors\r\n  Vgl.: www.dpg-physik.de/veroeffentlichungen/aktuell/2023/mathematisch-naturwissenschaftliche-gesellschaften-nehmen-stellung-zur-geplanten-novelle-des-wissenschaftszeitvertragsgesetzes-wisszeitvg\r\n"
+                        }
+                    }
+                ],
+                "title": "Reform des Wissenschaftszeitvertragsgesetz WissZeitVG)"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/bc/7a/325881/Stellungnahme-Gutachten-SG2406250045.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-05-08"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0010157",
+                "regulatoryProjectTitle": "Reform des Wissenschaftszeitvertragsgesetz WissZeitVG)",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "<Anrede> <Titel> <Vorname> <Name> MdB\r\nDeutscher Bundestag\r\nPlatz der Republik 1\r\n11011 Berlin\r\n\r\nBad Honnef, 8. Mai 2024\r\n\r\nZum Gesetzentwurf der Bundesregierung - Entwurf eines Gesetzes zur \u00c4nderung des Befristungsrechts f\u00fcr die Wissenschaft (WissZeitVG)\r\n\r\nSehr geehrte\u2026,\r\n\r\nvor den parlamentarischen Beratungen zum o.g. Gesetzentwurf m\u00f6chte ich Sie auf einige Punkte hinwei-sen, die aus Sicht der Deutschen Physikalischen Gesellschaft (DPG) das deutsche Wissenschaftssystem vor gro\u00dfe Herausforderungen stellen w\u00fcrden. \r\nGenerell gilt:\r\n\u2022\tDie Lebens- und Karrierewege von Absolventinnen und Absolventen eines Physikstudiums sind vielf\u00e4ltig und daher kaum mit einheitlichen Regeln zu begleiten. Der aktuelle Gesetzesentwurf der Bundesregierung unterscheidet als fr\u00fche Karrierestufen in der Wissenschaft nur zwischen einer Promotions- und einer Postdocphase. \r\nF\u00fcr die Physik greift das zu kurz. Hilfreicher ist die vom European Framework for Research Careers etablierte Kategorisierung , welche die Phasen R1 bis R4 vorsieht: W\u00e4hrend eine Promotions-Phase (R1) auf unterschiedliche Berufe in der privaten Wirtschaft oder im \u00f6ffentlichen Dienst vor-bereitet und eine Postdoc-Phase (R2) zur Orientierung und der Forschung an befristeten Projekten dient, streben fortgeschrittene Nachwuchswissenschaftlerinnen oder -wissenschaftler (R3) eine Professur (R4) an.\r\nAus Sicht der Physik halten wir fest:\r\n\u2022\tBefristete Arbeitsverh\u00e4ltnisse sind f\u00fcr Forschung und Lehre an Universit\u00e4ten konstitutiv und daher f\u00fcr Promovierende (R1) und Postdocs (R2) \u2013 im Rahmen typischer Ausbildungs- und Projektdauern \u2013 unabdingbar.\r\n\u2022\tIn der R3-Phase sind belastbare Entfristungsperspektiven wichtig, um herausragende Talente in der Wissenschaft zu halten und um exzellente Professorinnen oder Professoren an Universit\u00e4ten zu gewinnen \u2013 insbesondere angesichts des demographischen Wandels. Sie geben Nachwuchs-wissenschaftlerinnen sowie -wissenschaftlern die Sicherheit, ihre Forschungsleistung im Einklang mit ihrer Lebens- und Familienplanung voll entfalten zu k\u00f6nnen und f\u00f6rdern deren Gleichstellung. Eine Erh\u00f6hung des Verh\u00e4ltnisses von unbefristeten zu befristeten Stellen ist daher anzustreben.\r\n\u2022\tStrikte (gesetzliche) Vorgaben f\u00fcr Befristungsdauern sind auch in der R3-Phase weder f\u00fcr die For-schungsplanung noch f\u00fcr die Diversit\u00e4t individueller Lebensf\u00fchrungen f\u00f6rderlich. Die M\u00f6glichkeit verschiedener Karrierewege (Habilitation, Juniorprofessur, Leitung einer Nachwuchsgruppe, finan-ziert durch Haushalts- oder Drittmittel) zur Professur ist sinnvoll, sofern diese die gleichen M\u00f6g-lichkeiten zur Qualifizierung bieten, insbesondere mit Blick auf Gew\u00e4hrung wissenschaftlicher Selbstst\u00e4ndigkeit und Betreuung von Qualifizierungsarbeiten. Eine H\u00f6chstbefristungsdauer in der \u2013 im Vorschlag der Bundesregierung ungl\u00fccklicherweise undifferenziert betrachteten \u2013 Phase R2/R3 d\u00fcrfte die Qualifizierung f\u00fcr eine Professur (R4-Phase) in vielen F\u00e4llen erschweren. Insbe-sondere kann sie zu unsicherer Anschlussfinanzierung durch Drittmittel oder zu einer Abwande-rung ins Ausland f\u00fchren. Karrierewege in Deutschland w\u00e4ren dadurch strukturell benachteiligt, was weder im Interesse der betroffenen Wissenschaftlerinnen und Wissenschaftler noch im Interesse des deutschen Wissenschaftssystems liegt. \r\nEntscheidend ist auch, dass eine \u00c4nderung des Befristungsrechts von weiteren Ma\u00dfnahmen begleitet werden muss, um die gew\u00fcnschten Wirkungen zu erzielen:\r\n\u2022\tDamit Universit\u00e4ten der Verantwortung f\u00fcr ihre Angestellten gerecht werden und gleichzeitig ihre hohe Forschungs- und Lehrleistung aufrechterhalten k\u00f6nnen, ist die Schaffung zus\u00e4tzlicher unbe-fristeter Stellen notwendig. Diese m\u00fcssen durch eine signifikante Erh\u00f6hung der Grundausstattung sowie der Projektpauschalen bei Drittmitteln finanziert werden, die f\u00fcr forschungsbegleitende Stel-len zusammengef\u00fchrt werden k\u00f6nnen. Damit ist die notwendige Diversifizierung akademischer Karrierewege mit permanenten Stellen neben der Professur zu etablieren.\r\n\u2022\tEine Drittmittelfinanzierung der forschungstragenden Nachwuchswissenschaftlerinnen oder -wissenschaftler (R3) darf nicht zu einer Erh\u00f6hung ihrer Karriererisiken f\u00fchren. W\u00fcnschenswert w\u00e4-re eine kompetitive Antragsm\u00f6glichkeit f\u00fcr unbefristete, von Bund und L\u00e4ndern finanzierte Ad-personam-Stellen f\u00fcr langfristige Projekte in Forschung und Lehre. Dies ist f\u00fcr die nachhaltige Si-cherung eines attraktiven Wissenschaftsstandorts Deutschland erforderlich.\r\nGemeinsam mit anderen mathematisch-naturwissenschaftlichen Fachgesellschaften hat die DPG bereits fr\u00fcher zu weiteren Aspekten der Novellierung des WissZeitVG Stellung genommen. Diese Stellungnahme ist weiterhin relevant. \r\nIch bitte Sie, die genannten Punkte im Interesse der betroffenen Wissenschaftlerinnen und Wissenschaft-ler speziell in der R3-Phase, aber auch im Interesse des Wissenschafts- und Wirtschaftsstandorts Deutschland bei den anstehenden Verhandlungen zu ber\u00fccksichtigen. F\u00fcr Ausk\u00fcnfte und R\u00fcckfragen ste-hen wir gerne zur Verf\u00fcgung.\r\nDie DPG vertritt \u00fcber 50.000 Physikerinnen und Physiker in Deutschland und ist weltweit die gr\u00f6\u00dfte nationa-le physikalische Fachgesellschaft. Ihre Mitglieder kommen vorwiegend aus dem akademischen Bereich, sind aber auch an anderen Stellen in Wirtschaft und Gesellschaft t\u00e4tig.\r\n\r\nMit freundlichen Gr\u00fc\u00dfen\r\n\r\n\r\nKlaus Richter\r\n\r\n\r\n--\r\n  Vgl.: www.dpg-physik.de/veroeffentlichungen/aktuell/2023/stellungnahme-der-deutschen-physikalischen-gesellschaft-zur-geplanten-novellierung-des-wissenschaftszeitvertragsgesetzes#_ftn1)\r\n  Vgl.:  https://euraxess.ec.europa.eu/europe/career-development/training-researchers/research-profiles-descriptors\r\n  Vgl.: www.dpg-physik.de/veroeffentlichungen/aktuell/2023/mathematisch-naturwissenschaftliche-gesellschaften-nehmen-stellung-zur-geplanten-novelle-des-wissenschaftszeitvertragsgesetzes-wisszeitvg\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

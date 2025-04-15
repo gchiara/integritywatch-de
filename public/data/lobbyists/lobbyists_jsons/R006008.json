@@ -1,0 +1,546 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-05-31T11:32:17.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2023-05-31T11:32:17.000+02:00",
+        "lastUpdateDate": "2024-06-17T15:03:42.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37408,
+                "validFromDate": "2024-06-17T15:03:42.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 34921,
+                "validFromDate": "2024-06-13T13:26:49.000+02:00",
+                "validUntilDate": "2024-06-17T15:03:42.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 19835,
+                "validFromDate": "2023-05-31T11:32:17.000+02:00",
+                "validUntilDate": "2024-06-13T13:26:49.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION_V2",
+            "de": "Sonstiges Unternehmen",
+            "en": "Other company"
+        },
+        "activityDescription": "Als f\u00fchrendes Solarunternehmen f\u00fcr klima- und umweltfreundliche Energieprojekte in Europa und Israel leisten wir einen klaren Beitrag zur Energiewende. Unser Portfolio umfasst die Entwicklung, die Realisierung den Betrieb von Solarkraftwerken. Auch bei Zukunftskonzepten wie Hybridl\u00f6sungen und Speichersystemen sind wir Vorreiter.\r\nUnser Interesse gilt dem konsequenten und erfolgreichen Ausbau der erneuerbaren Energien in Deutschland. Vor allem im Bereich der Freifl\u00e4chen-Photovoltaik sehen wir gro\u00dfe Potenziale. Wir engagieren uns f\u00fcr beschleunigte Genehmigungsverfahren, besseren Zugang zu ausreichend geeigneten Standortfl\u00e4chen und Stromnetzen sowie f\u00fcr die notwendigen Verbesserungen in relevanten Gesetzen. Der z\u00fcgige Ausbau von Netzinfrastruktur und Netzkapazit\u00e4ten ist aus unserer Sicht essenziell. Wir unterst\u00fctzen zudem Initiativen zu innovativen Konzepten und Technologieentwicklung in der Freifl\u00e4chen-Photovoltaik und Planungen zur Schaffung von industriellen Produktionskapazit\u00e4ten f\u00fcr die ganze Wertsch\u00f6pfungskette in Deutschland und Europa.\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_BUNDESTAG_OTHER",
+                "de": "Sonstiges im Bereich \"Bundestag\"",
+                "en": "Other in the field of \"Bundestag\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_RP_OTHER",
+                "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                "en": "Other in the field of \"Spatial planning, construction and housing\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_ECONOMY_HANDCRAFT",
+                "de": "Handwerk",
+                "en": "Handcraft"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_RP_CITY",
+                "de": "Stadtentwicklung",
+                "en": "Urban development"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/2a/c4/294435/Belectric_JAP_31-12-22_22-007744.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/d6/c7/294434/Belectric-Verhaltenskodex_16_12_2021.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.0,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 50001,
+            "to": 60000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Kolitzheim",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Wadenbrunner Str.",
+            "streetNumber": "10",
+            "type": "NATIONAL",
+            "zipCode": "97509"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "andrea.weissig@belectric.com",
+            "nationalAdditional1": "B\u00fcro Berlin",
+            "phoneNumber": "+4915164509595",
+            "street": "Mauerstr. ",
+            "streetNumber": "77",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "andrea.weissig@belectric.com"
+                },
+                {
+                    "email": "thomas.woelfel@belectric.com"
+                }
+            ],
+            "phoneNumber": "+4915164509595",
+            "websites": [
+                {
+                    "website": "www.belectric.com"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Andrea",
+                "lastName": "Wei\u00dfig",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Engemann",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": false,
+                "firstName": "Thorsten",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Blanke",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Daniel",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Rehm",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Mariglen",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Nora",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Ivana",
+                "function": "Gesch\u00e4ftsf\u00fchrerin",
+                "lastName": "Rendlova",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "BSW Bundesverband Solarwirtschaft e.V."
+            },
+            {
+                "membership": "BDEW Bundesverband der Energie- und Wasserwirtschaft e.V."
+            },
+            {
+                "membership": "BNE Bundesverband Neue Energiewirtschaft e.V."
+            },
+            {
+                "membership": "Wirtschaftrat Deutschland e.V."
+            },
+            {
+                "membership": "Solar Power Europe"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Belectric GmbH"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R006008/37408",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-13T13:26:49.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/8f/18/294436/Lobbyregister-Detailansicht-R006008-2024-06-17_15-03-42.pdf",
+        "validFromDate": "2024-06-17T15:03:42.000+02:00",
+        "version": 3
+    },
+    "registerEntryId": 37408,
+    "registerNumber": "R006008",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EEG 2023",
+                        "title": "Gesetz f\u00fcr den Ausbau erneuerbarer Energien",
+                        "url": "https://www.gesetze-im-internet.de/eeg_2014"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Erneuerbare Energien: Ausbauziele, Gesetze, Regelungen und Vorschriften im Kontext Entwicklung, Bau und Betrieb von Solarkraftwerken.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmwk.de/Redaktion/DE/Downloads/Gesetz/20240201-gesetz-eu-erneuerbaren-windenergie-auf-see-und-stromnetze.pdf?__blob=publicationFile&v=16",
+                            "draftBillProjectUrl": "https://www.bmwk.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/referentenentwurf-gesetz-zur-umsetzung-der-eu-erneuerbaren-richtlinie-windenergie-see-stromnetze.html",
+                            "shortTitle": "BMWK",
+                            "title": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                            "url": "https://www.bmwk.de/Navigation/DE/Home/home.html"
+                        }
+                    ],
+                    "publicationDate": "2024-02-01",
+                    "title": "Gesetz zur Umsetzung der EU-Erneuerbaren-Richtlinie im Bereich Windenergie auf See und Stromnetze"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OTHER",
+                        "de": "Sonstiges im Bereich \"Energie\"",
+                        "en": "Other in the field of \"Energy\""
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_COUNTRYSIDE",
+                        "de": "L\u00e4ndlicher Raum",
+                        "en": "Rural area"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_RP_CITY",
+                        "de": "Stadtentwicklung",
+                        "en": "Urban development"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_RP_OTHER",
+                        "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                        "en": "Other in the field of \"Spatial planning, construction and housing\""
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SPECIES",
+                        "de": "Artenschutz/Biodiversit\u00e4t",
+                        "en": "Species protection/biodiversity"
+                    },
+                    {
+                        "code": "FOI_ENERGY_NET",
+                        "de": "Energienetze",
+                        "en": "Energy networks"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_OTHER",
+                        "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                        "en": "Other in the field of \"Agriculture and food\""
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0002183",
+                "statements": [],
+                "title": "Gesetze und Regelungen zum Ausbau der Erneuerbare Energien, insb. Solaranlagen Freifl\u00e4che"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

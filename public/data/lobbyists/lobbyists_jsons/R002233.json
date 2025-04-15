@@ -1,0 +1,818 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-11-24T14:53:20.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-28T16:13:33.000+01:00",
+        "lastUpdateDate": "2024-06-28T22:21:59.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 35063,
+                "validFromDate": "2024-06-28T22:21:59.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26645,
+                "validFromDate": "2023-12-06T08:33:31.000+01:00",
+                "validUntilDate": "2024-06-28T22:21:59.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21501,
+                "validFromDate": "2023-06-13T11:43:16.000+02:00",
+                "validUntilDate": "2023-12-06T08:33:31.000+01:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21496,
+                "validFromDate": "2023-06-13T11:42:30.000+02:00",
+                "validUntilDate": "2023-06-13T11:43:16.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 13106,
+                "validFromDate": "2022-11-24T14:53:20.000+01:00",
+                "validUntilDate": "2023-06-13T11:42:30.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Der Fachverband Drogen- und Suchthilfe e.V. (fdr+) b\u00fcndelt und vertritt die Interessen seiner Mitglieder (haupt- und ehrenamtliche Fachkr\u00e4fte in der Suchtpr\u00e4vention, Suchthilfe und Suchtselbsthilfe), dabei verfolgt er einen arbeitsfeld- und methoden\u00fcbergreifenden Ansatz. Er orientiert sich an den Erfahrungen der Praxis und an der Forschung, setzt entsprechende Akzente und entwickelt Ma\u00dfnahmen und Strategien weiter. F\u00fcr die Politik ist er Ratgeber, Kooperationspartner und Ansprechpartner in allen Fragen der Suchthilfe, der Suchtselbsthilfe und der Suchtpr\u00e4vention. Der fdr+ f\u00f6rdert die Zusammenarbeit aller Beteiligten, um die Gestaltung der Leistungen auf Grundlage der UN-Behindertenrechtskonvention im Sinne der Betroffenen zu optimieren und somit die Teilhabe von abh\u00e4ngigkeitskranken Menschen. Der Verband ist Multiplikator f\u00fcr die Kompetenzen und das Wissen seiner Mitglieder und sorgt f\u00fcr einen Transfer in Politik und Gesellschaft. Die seit der Gr\u00fcndung (1979) weitgehend unver\u00e4nderte Satzung des fdr+ sieht vor, die fachliche Arbeit f\u00fcr Suchtgef\u00e4hrdete und Abh\u00e4ngige, insbesondere junge Menschen zu f\u00f6rdern. \r\nDer fdr+ bzw. seine vertretungsberechtigten Personen, nehmen dazu an Gremien und Terminen mit Ministerien und \u00f6ffentlichen Anh\u00f6rungen oder Verb\u00e4ndeanh\u00f6rungen in Ministerien teil und beteiligen sich an Stellungnahmeverfahren.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_SP_GENDER",
+                "de": "Geschlechterpolitik",
+                "en": "Gender politics"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_OTHER",
+                "de": "Sonstiges im Bereich \"Verkehr\"",
+                "en": "Other in the field of \"Transportation\""
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_SS_BASIC",
+                "de": "Grundsicherung",
+                "en": "Basic security"
+            },
+            {
+                "code": "FOI_SP_FAMILY",
+                "de": "Familienpolitik",
+                "en": "Family policy"
+            },
+            {
+                "code": "FOI_LAW_CRIMINAL",
+                "de": "Strafrecht",
+                "en": "Criminal law"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_HEALTH_CARE",
+                "de": "Pflege",
+                "en": "Health care"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_SP_CHILDREN",
+                "de": "Kinder- und Jugendpolitik",
+                "en": "Child and youth policy"
+            },
+            {
+                "code": "FOI_RPI_INTEGRATION",
+                "de": "Integration",
+                "en": "Integration"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_MEDIA_ADVERTISEMENT",
+                "de": "Werbung",
+                "en": "Advertising"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_SS_OTHER",
+                "de": "Sonstiges im Bereich \"Soziale Sicherung\"",
+                "en": "Other in the field of \"Social security\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_SP_DISABILITY",
+                "de": "Rechte von Menschen mit Behinderung",
+                "en": "Rights of people with disabilities"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_RPI_MIGRATION",
+                "de": "Migration",
+                "en": "Migration and residence"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_SS_HEALTH",
+                "de": "Krankenversicherung",
+                "en": "Health insurance"
+            },
+            {
+                "code": "FOI_SP_DIVERSITY",
+                "de": "Diversit\u00e4tspolitik",
+                "en": "Diversity policy"
+            },
+            {
+                "code": "FOI_HEALTH_MEDICINE",
+                "de": "Arzneimittel",
+                "en": "Medicine"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/12/30/326213/2022_fdr_Bilanz.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.02,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Gierkezeile ",
+            "streetNumber": "39",
+            "type": "NATIONAL",
+            "zipCode": "10585"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "mail@fdr-online.info"
+                },
+                {
+                    "email": "geschaeftsfuehrung@fdr-online.info"
+                }
+            ],
+            "phoneNumber": "+493085400490",
+            "websites": [
+                {
+                    "website": "www.fdr-online.info"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Janina",
+                "lastName": "Tessloff",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Ahlrichs",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Eva",
+                "lastName": "Egartner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Carola",
+                "lastName": "Bau",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Katrin",
+                "lastName": "Bahr",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Leydecker",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Oliver",
+                "lastName": "Kaiser",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Annett",
+                "lastName": "Fabian",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Janina",
+                "function": "Vorstandsvorsitzende",
+                "lastName": "Tessloff",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Thomas",
+                "function": "stellvertretender Vorstandsvorsitzender",
+                "lastName": "Ahlrichs",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Eva",
+                "function": "Gesch\u00e4ftsf\u00fchrerin",
+                "lastName": "Egartner",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-05-31",
+            "naturalPersons": 4,
+            "organizations": 68,
+            "totalCount": 72
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Deutscher Parit\u00e4tischer Gesamtverband"
+            },
+            {
+                "membership": "Deutsche Hauptstelle f\u00fcr Suchtfragen (DHS) "
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Fachverband Drogen- und Suchthilfe e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01",
+        "totalMembershipFees": {
+            "from": 100001,
+            "to": 110000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Zuwendungen der Deutschen Rentenversicherung Bund nach \u00a7 31 Abs. 1 Nr. 3 SGB VI \r\n",
+                "location": "Berlin",
+                "name": "Deutsche Rentenversicherung Bund",
+                "publicAllowanceEuro": {
+                    "from": 120001,
+                    "to": 130000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "F\u00f6rderung der Th\u00fcringer Fachstellen Suchtpr\u00e4vention und Gl\u00fccksSpielSucht",
+                "location": "Erfurt",
+                "name": "Th\u00fcringer Ministerium f\u00fcr Arbeit, Soziales, Gesundheit, Frauen und Familie",
+                "publicAllowanceEuro": {
+                    "from": 520001,
+                    "to": 530000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "F\u00f6rderung des Th\u00fcringer Lotsennetzwerks ",
+                "location": "Halle",
+                "name": "Deutsche Rentenversicherung Mitteldeutschland",
+                "publicAllowanceEuro": {
+                    "from": 50001,
+                    "to": 60000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Suchtkongress 2022 digital",
+                "location": "K\u00f6ln",
+                "name": "Bundesverwaltungsamt",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002233/35063",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-28T22:21:59.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a6/98/326220/Lobbyregister-Detailansicht-R002233-2024-06-28_22-21-59.pdf",
+        "validFromDate": "2024-06-28T22:21:59.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 35063,
+    "registerNumber": "R002233",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "KCanG",
+                        "title": "Gesetz zum Umgang mit Konsumcannabis",
+                        "url": "https://www.gesetze-im-internet.de/kcang"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Verkauf von Cannabis  in lizensierten Fachgesch\u00e4ften",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_OTHER",
+                        "de": "Sonstiges im Bereich \"Gesundheit\"",
+                        "en": "Other in the field of \"Health\""
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/087/2008704.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMG",
+                                "title": "Bundesministerium f\u00fcr Gesundheit",
+                                "url": "https://www.bundesgesundheitsministerium.de/"
+                            }
+                        ],
+                        "printingNumber": "20/8704",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zum-kontrollierten-umgang-mit-cannabis-und-zur-%C3%A4nderung-weiterer/302864",
+                        "title": "Entwurf eines Gesetzes zum kontrollierten Umgang mit Cannabis und zur \u00c4nderung weiterer Vorschriften - (Cannabisgesetz - CanG)"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0010266",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b1/fb/326214/Stellungnahme-Gutachten-SG2406130041.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-21"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0010266",
+                        "regulatoryProjectTitle": "Cannabisgesetzgebung",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Cannabis-Regulierung ist \u00fcberf\u00e4llig\r\nDer Fachverband Drogen- und Suchthilfe (fdr+) mit seinen 80 Mitgliedsorganisationen richtet\r\neinen dringenden Appell an die Mitglieder des Bundesrats, in der morgigen Sitzung nicht\r\ngegen das CanG zu stimmen.\r\n\u201eDas Gesetz mag in Teilen nicht unseren Erwartungen entsprechen,\u201c so Eva Egartner,\r\nGesch\u00e4ftsf\u00fchrerin fdr+, \u201ees ist aber f\u00fcr uns als Gesellschaft und f\u00fcr uns in der Suchthilfe\r\nextrem wichtig.\u201c\r\nZur Erinnerung:\r\n\u2022 Repressions- und Abschreckungsma\u00dfnahmen haben sich als wirkungslos erwiesen.\r\nCannabis ist - nach Alkohol und Tabak - die bei weitem am meisten konsumierte\r\nDroge in Deutschland. Dabei sind die gr\u00f6\u00dfte Gruppe von Konsument*innen die 18 \u2013\r\n25-J\u00e4hrigen.\r\n\u2022 Die Verfolgung von Cannabiskonsument*innen kostet Zeit und Geld und vernichtet\r\nZukunft.\r\nDie Strafbeh\u00f6rden sind \u00fcberfordert mit den vielen Strafverfahren gegen\r\nKonsument*innen von Cannabis. In den Gef\u00e4ngnissen sind eine gro\u00dfe Zahl derer, die\r\nnach dem Bet\u00e4ubungsmittelgesetz verurteilt sind, Cannabiskonsument*innen. Hier\r\nhandelt es sich oft um junge Menschen, denen durch diese Strafpolitik ihre Zukunft -\r\nzumindest in Teilen- verbaut wird.\r\n\u2022 Der Konsum von Schwarzmarktprodukten gef\u00e4hrdet die Gesundheit der\r\nKonsument*innen.\r\nAuch wenn der Schwarzmarkt durch die teilweise Legalisierung von Cannabis nicht\r\ng\u00e4nzlich verschwinden wird, so wird legal zu erwerbendes Cannabis die\r\nGesundheitsgef\u00e4hrdung von Konsument*innen doch verringern und das\r\nGesundheitssystem entlasten.\r\n\u2022 Entstigmatisierung und Entkriminalisierung von Cannabis verringert\r\nZugangsbarrieren\r\nKonsument*innen, die nicht mehr kriminalisiert werden, sowie ihre Angeh\u00f6rigen und\r\nihr soziales Umfeld nehmen leichter Hilfsangebote in Anspruch, wie z.B. Beratung.\r\n\u2022 Schutz von Kindern und Jugendlichen wird gest\u00e4rkt\r\nPr\u00e4ventionsma\u00dfnahmen k\u00f6nnen effektiver umgesetzt werden, weil sie sich auf das\r\nWesentliche konzentrieren k\u00f6nnen, den Gesundheitsschutz."
+                        }
+                    }
+                ],
+                "title": "Cannabisgesetzgebung"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "JuSchG",
+                        "title": "Jugendschutzgesetz",
+                        "url": "https://www.gesetze-im-internet.de/juschg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Verbot der Abgabe von Lachgas an unter 18-J\u00e4hrige",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_CHILDREN",
+                        "de": "Kinder- und Jugendpolitik",
+                        "en": "Child and youth policy"
+                    },
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010267",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/20/ef/326216/Stellungnahme-Gutachten-SG2406130043.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-24"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0010267",
+                        "regulatoryProjectTitle": "Regulierung von Lachgas",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Lachgas \u2013 eine in Deutschland unregulierte Substanz\r\nDarreichungsform der Substanz ver\u00e4ndert\r\nMarketing und Vertriebswege ver\u00e4ndert\r\nPr\u00e4valenzraten in allen Kategorien ver\u00e4ndert\r\nRegulierungen in manchen europ\u00e4ischen L\u00e4ndern\r\nver\u00e4ndert\r\nBespiele aus europ\u00e4ischen L\u00e4ndern\r\n\u2022 Beschr\u00e4nkung der H\u00f6chstmenge an Kartuschen, die auf einmal geliefert werden\r\nk\u00f6nnen.\r\n\u2022 Verk\u00e4ufe unter Altersbeschr\u00e4nkung, in der Regel an Personen ab 18 Jahren.\r\n\u2022 Einschr\u00e4nkung des Verkaufs von Distickstoffmonoxidprodukten in der Nacht.\r\n\u2022 Verbot des Verkaufs von Distickstoffmonoxid durch Bars und Clubs und in Alkohol-\r\nund Tabakverkaufenden Gesch\u00e4ften.\r\n\u2022 Warnhinweise auf Distickstoffmonoxidprodukten erforderlich.\r\nAlternative Vorschl\u00e4ge\r\n\u2022 Geschmackszus\u00e4tze untersagen\r\n\u2022 Pfandsysteme f\u00fcr die Kartuschen einf\u00fchren\r\n\u2022 Erlaubnis SaferUseMaterialien schaffen\r\nAus unserer Sicht ergibt sich die Gef\u00e4hrlichkeit eines Stoffes nicht nur aus der Wirkung und den\r\nNebenwirkungen des Konsums, sondern auch aus dem Verbreitungsgrad und den Zugangsm\u00f6glichkeiten. F\u00fcr\r\nbeide Letzt genannten kann auf jeden Fall eine Ver\u00e4nderung beobachtet werden.\r\nAu\u00dferdem sehen wir die Frage nach der Gef\u00e4hrlichkeit auch ein wenig als \u201eScheindebatte\u201c. Bei vielen, wenn nicht\r\nsogar bei fast allen Substanzen ist ein partieller Konsum mit wenigen Risiken verbunden. Zudem treten viele\r\nRisiken auch bei den legalen Substanzen wie den illegalen Substanzen erst nach einer langen\r\nKonsumenten*innenzeit zu Tage.\r\nDer f\u00fcr uns ausschlaggebende Punkt beim Lachgas im Gegensatz zu allen anderen Substanzen ist, dass es in\r\nkeiner Art und Weise reguliert ist und dass aus unserer Sicht der Fakt besteht, dass bezogen auf die Anwendung\r\ndes verkauften Produktes get\u00e4uscht wird.\r\nDie Abgabe von Lachgas muss auch in Deutschland dringend reguliert werden!"
+                        }
+                    }
+                ],
+                "title": "Regulierung von Lachgas"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "SGB 2",
+                        "title": "Sozialgesetzbuch (SGB) Zweites Buch (II) - B\u00fcrgergeld, Grundsicherung f\u00fcr Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954)",
+                        "url": "https://www.gesetze-im-internet.de/sgb_2"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Gesetzesl\u00fccke im SGBII soll geschlossen werden, damit Verurteilte nach dem BtmG \"Therapie statt Strafe\" nach \u00a735 BtmG erhalten k\u00f6nnen auch, wenn die Krankenkassen f\u00fcr die Leistungen zust\u00e4ndig sind.  ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_SECURITY",
+                        "de": "Soziale Sicherung",
+                        "en": "Social security"
+                    },
+                    {
+                        "code": "FOI_SS_OTHER",
+                        "de": "Sonstiges im Bereich \"Soziale Sicherung\"",
+                        "en": "Other in the field of \"Social security\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010268",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/1b/4d/326218/Stellungnahme-Gutachten-SG2406130052.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-24"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0010268",
+                        "regulatoryProjectTitle": "\u00c4nderung des Zweiten Buches Sozialgesetz",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "\u201eTherapie statt Strafe sichern\"\r\nHintergrund: Gesetzesantrag des Landes Nordrhein-Westfalen (BR-Drs. 629/23) - Entwurf eines . Gesetzes zur \u00c4nderung des Zweiten Buches Sozialgesetzbuch - B\u00fcrgergeld, Grundsicherung f\u00fcr Arbeitsuchende\r\nAktuelle Situation:\r\nDas Urteil des Bundessozialgerichts vom 05. August 2021 B( 4 AS 58/20 R) stellte klar,\r\nPersonen, die aufgrund ihrer Bet\u00e4ubungsmittelabh\u00e4ngigkeit ni Therapieeinrichtungen gem\u00e4\u00df \u00a7 53 BtMG untergebracht sind (\u201eTherapie statt Strafe\"), keinen Anspruch auf Leistungen nach dem SGB lI (gem\u00e4\u00df \u00a77 Absatz 4 Satz 1SGB I) haben. mI Rahmen des Ansatzes \u201eTherapie statt Strafe\" wird die M\u00f6glichkeit geschaffen, die Vollstreckung von Freiheitsstrafen oder Strafresten von nicht mehr\r\nals zwei Jahren f\u00fcr bet\u00e4ubungsmittelabh\u00e4ngige Verurteilte zur\u00fcckzustellen, sofern sie sich in einer ihrer Rehabilitation dienenden Behandlung befinden oder zusagen, sich dieser zu unterziehen. Die Voraussetzung f\u00fcr die Gew\u00e4hrleistung der Therapie ist die Kostenzusage des zust\u00e4ndigen Tr\u00e4gers. Diese Ma\u00dfnahmen der medizinischen Rehabilitation werden je nach Zust\u00e4ndigkeit von der Rentenversicherung oder den Krankenkassen finanziert. Bei Zust\u00e4ndigkeit der Krankenkasse ist es seit vorgenannten BSG Urteil nur noch sehr schwer m\u00f6glich eine Kostenzusage zu erhalten. Hinzu kommen Unsicherheiten beim Krankenversicherungsschutz und bei der \u00dcbernahme von Leistungen f\u00fcr Therapienebenkosten.\r\nVor dem Urteil des Bundesozialgerichtes bezogen die Betroffenen ni aler Regel die Leistungen des Jobcenter und waren damit automatisch in der Pflichtversicherung bei den Krankenkassen.\r\nUnsere Bewertung:\r\nDie Vermittlung in notwendige und im Sinne des Resozialisierungsauftrags sinnvolle Therapien wird durch die aktuelle Situation faktisch unm\u00f6glich. Der seit Jahrzehnten erprobte und erfolgreiche Ansatz \u201eTherapie statt Strafe\" ist damit gef\u00e4hrdet, obwohl Menschen mit substanzbezogenen St\u00f6rungen im Strafvollzug ein Recht auf Behandlung und Resozialisierung haben. Eine Statistik der Landesstelle f\u00fcr Suchtfragen Baden W\u00fcrttemberg zur externen Suchtberatung in Justizvollzugsanstalten zeigt auf, dass mehr als 20% der Zielgruppe in die Zust\u00e4ndigkeit der GKV fallen. Hinzu kommt, dass es sich bei dem betroffenen Personenkreis um junge Menschen handelt. Aufgrund der fehlenden Anwartschaftszeit ist der Anteil der Menschen mit Zust\u00e4ndigkeit GKV ni diesen \u201ejungen Altersgruppen\" sehr hoch. Diese Zielgruppe sollte nach unserer Einsch\u00e4tzung ni besonderem Ma\u00dfe ein therapeutisches Hilfsangebot alternativ zum Strafvollzug gemacht werden. F\u00fcr viele ist das der erste Zugang zum Hilfesystem.\r\nWas ist jetzt zu tun?\r\nWir begr\u00fc\u00dfen ausdr\u00fccklich die Initiative des Landes Nordrhein-Westfalen (BR-Drs. 629/23), die bestehende Gesetzesl\u00fccke im Sozialgesetzbuch | (SGB I) zu schlie\u00dfen, die aktuell die\r\nUmsetzbarkeit des bew\u00e4hrten Ansatzes \u201eTherapie statt Strafe\" verhindert. Die geplante \u00c4nderung betrifft \u00a7 7 SGB Il, der regelt, wer nach diesem Buch Leistungen erh\u00e4lt, und wer von diesen Leistungen ausgeschlossen ist. Wir bitten Sie, diese Gesetzinitiative zu unterst\u00fctzen!\r\n"
+                        }
+                    }
+                ],
+                "title": "\u00c4nderung des Zweiten Buches Sozialgesetz"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b1/fb/326214/Stellungnahme-Gutachten-SG2406130041.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-03-21"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0010266",
+                "regulatoryProjectTitle": "Cannabisgesetzgebung",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Cannabis-Regulierung ist \u00fcberf\u00e4llig\r\nDer Fachverband Drogen- und Suchthilfe (fdr+) mit seinen 80 Mitgliedsorganisationen richtet\r\neinen dringenden Appell an die Mitglieder des Bundesrats, in der morgigen Sitzung nicht\r\ngegen das CanG zu stimmen.\r\n\u201eDas Gesetz mag in Teilen nicht unseren Erwartungen entsprechen,\u201c so Eva Egartner,\r\nGesch\u00e4ftsf\u00fchrerin fdr+, \u201ees ist aber f\u00fcr uns als Gesellschaft und f\u00fcr uns in der Suchthilfe\r\nextrem wichtig.\u201c\r\nZur Erinnerung:\r\n\u2022 Repressions- und Abschreckungsma\u00dfnahmen haben sich als wirkungslos erwiesen.\r\nCannabis ist - nach Alkohol und Tabak - die bei weitem am meisten konsumierte\r\nDroge in Deutschland. Dabei sind die gr\u00f6\u00dfte Gruppe von Konsument*innen die 18 \u2013\r\n25-J\u00e4hrigen.\r\n\u2022 Die Verfolgung von Cannabiskonsument*innen kostet Zeit und Geld und vernichtet\r\nZukunft.\r\nDie Strafbeh\u00f6rden sind \u00fcberfordert mit den vielen Strafverfahren gegen\r\nKonsument*innen von Cannabis. In den Gef\u00e4ngnissen sind eine gro\u00dfe Zahl derer, die\r\nnach dem Bet\u00e4ubungsmittelgesetz verurteilt sind, Cannabiskonsument*innen. Hier\r\nhandelt es sich oft um junge Menschen, denen durch diese Strafpolitik ihre Zukunft -\r\nzumindest in Teilen- verbaut wird.\r\n\u2022 Der Konsum von Schwarzmarktprodukten gef\u00e4hrdet die Gesundheit der\r\nKonsument*innen.\r\nAuch wenn der Schwarzmarkt durch die teilweise Legalisierung von Cannabis nicht\r\ng\u00e4nzlich verschwinden wird, so wird legal zu erwerbendes Cannabis die\r\nGesundheitsgef\u00e4hrdung von Konsument*innen doch verringern und das\r\nGesundheitssystem entlasten.\r\n\u2022 Entstigmatisierung und Entkriminalisierung von Cannabis verringert\r\nZugangsbarrieren\r\nKonsument*innen, die nicht mehr kriminalisiert werden, sowie ihre Angeh\u00f6rigen und\r\nihr soziales Umfeld nehmen leichter Hilfsangebote in Anspruch, wie z.B. Beratung.\r\n\u2022 Schutz von Kindern und Jugendlichen wird gest\u00e4rkt\r\nPr\u00e4ventionsma\u00dfnahmen k\u00f6nnen effektiver umgesetzt werden, weil sie sich auf das\r\nWesentliche konzentrieren k\u00f6nnen, den Gesundheitsschutz."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/20/ef/326216/Stellungnahme-Gutachten-SG2406130043.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-04-24"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0010267",
+                "regulatoryProjectTitle": "Regulierung von Lachgas",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Lachgas \u2013 eine in Deutschland unregulierte Substanz\r\nDarreichungsform der Substanz ver\u00e4ndert\r\nMarketing und Vertriebswege ver\u00e4ndert\r\nPr\u00e4valenzraten in allen Kategorien ver\u00e4ndert\r\nRegulierungen in manchen europ\u00e4ischen L\u00e4ndern\r\nver\u00e4ndert\r\nBespiele aus europ\u00e4ischen L\u00e4ndern\r\n\u2022 Beschr\u00e4nkung der H\u00f6chstmenge an Kartuschen, die auf einmal geliefert werden\r\nk\u00f6nnen.\r\n\u2022 Verk\u00e4ufe unter Altersbeschr\u00e4nkung, in der Regel an Personen ab 18 Jahren.\r\n\u2022 Einschr\u00e4nkung des Verkaufs von Distickstoffmonoxidprodukten in der Nacht.\r\n\u2022 Verbot des Verkaufs von Distickstoffmonoxid durch Bars und Clubs und in Alkohol-\r\nund Tabakverkaufenden Gesch\u00e4ften.\r\n\u2022 Warnhinweise auf Distickstoffmonoxidprodukten erforderlich.\r\nAlternative Vorschl\u00e4ge\r\n\u2022 Geschmackszus\u00e4tze untersagen\r\n\u2022 Pfandsysteme f\u00fcr die Kartuschen einf\u00fchren\r\n\u2022 Erlaubnis SaferUseMaterialien schaffen\r\nAus unserer Sicht ergibt sich die Gef\u00e4hrlichkeit eines Stoffes nicht nur aus der Wirkung und den\r\nNebenwirkungen des Konsums, sondern auch aus dem Verbreitungsgrad und den Zugangsm\u00f6glichkeiten. F\u00fcr\r\nbeide Letzt genannten kann auf jeden Fall eine Ver\u00e4nderung beobachtet werden.\r\nAu\u00dferdem sehen wir die Frage nach der Gef\u00e4hrlichkeit auch ein wenig als \u201eScheindebatte\u201c. Bei vielen, wenn nicht\r\nsogar bei fast allen Substanzen ist ein partieller Konsum mit wenigen Risiken verbunden. Zudem treten viele\r\nRisiken auch bei den legalen Substanzen wie den illegalen Substanzen erst nach einer langen\r\nKonsumenten*innenzeit zu Tage.\r\nDer f\u00fcr uns ausschlaggebende Punkt beim Lachgas im Gegensatz zu allen anderen Substanzen ist, dass es in\r\nkeiner Art und Weise reguliert ist und dass aus unserer Sicht der Fakt besteht, dass bezogen auf die Anwendung\r\ndes verkauften Produktes get\u00e4uscht wird.\r\nDie Abgabe von Lachgas muss auch in Deutschland dringend reguliert werden!"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/1b/4d/326218/Stellungnahme-Gutachten-SG2406130052.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-04-24"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0010268",
+                "regulatoryProjectTitle": "\u00c4nderung des Zweiten Buches Sozialgesetz",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "\u201eTherapie statt Strafe sichern\"\r\nHintergrund: Gesetzesantrag des Landes Nordrhein-Westfalen (BR-Drs. 629/23) - Entwurf eines . Gesetzes zur \u00c4nderung des Zweiten Buches Sozialgesetzbuch - B\u00fcrgergeld, Grundsicherung f\u00fcr Arbeitsuchende\r\nAktuelle Situation:\r\nDas Urteil des Bundessozialgerichts vom 05. August 2021 B( 4 AS 58/20 R) stellte klar,\r\nPersonen, die aufgrund ihrer Bet\u00e4ubungsmittelabh\u00e4ngigkeit ni Therapieeinrichtungen gem\u00e4\u00df \u00a7 53 BtMG untergebracht sind (\u201eTherapie statt Strafe\"), keinen Anspruch auf Leistungen nach dem SGB lI (gem\u00e4\u00df \u00a77 Absatz 4 Satz 1SGB I) haben. mI Rahmen des Ansatzes \u201eTherapie statt Strafe\" wird die M\u00f6glichkeit geschaffen, die Vollstreckung von Freiheitsstrafen oder Strafresten von nicht mehr\r\nals zwei Jahren f\u00fcr bet\u00e4ubungsmittelabh\u00e4ngige Verurteilte zur\u00fcckzustellen, sofern sie sich in einer ihrer Rehabilitation dienenden Behandlung befinden oder zusagen, sich dieser zu unterziehen. Die Voraussetzung f\u00fcr die Gew\u00e4hrleistung der Therapie ist die Kostenzusage des zust\u00e4ndigen Tr\u00e4gers. Diese Ma\u00dfnahmen der medizinischen Rehabilitation werden je nach Zust\u00e4ndigkeit von der Rentenversicherung oder den Krankenkassen finanziert. Bei Zust\u00e4ndigkeit der Krankenkasse ist es seit vorgenannten BSG Urteil nur noch sehr schwer m\u00f6glich eine Kostenzusage zu erhalten. Hinzu kommen Unsicherheiten beim Krankenversicherungsschutz und bei der \u00dcbernahme von Leistungen f\u00fcr Therapienebenkosten.\r\nVor dem Urteil des Bundesozialgerichtes bezogen die Betroffenen ni aler Regel die Leistungen des Jobcenter und waren damit automatisch in der Pflichtversicherung bei den Krankenkassen.\r\nUnsere Bewertung:\r\nDie Vermittlung in notwendige und im Sinne des Resozialisierungsauftrags sinnvolle Therapien wird durch die aktuelle Situation faktisch unm\u00f6glich. Der seit Jahrzehnten erprobte und erfolgreiche Ansatz \u201eTherapie statt Strafe\" ist damit gef\u00e4hrdet, obwohl Menschen mit substanzbezogenen St\u00f6rungen im Strafvollzug ein Recht auf Behandlung und Resozialisierung haben. Eine Statistik der Landesstelle f\u00fcr Suchtfragen Baden W\u00fcrttemberg zur externen Suchtberatung in Justizvollzugsanstalten zeigt auf, dass mehr als 20% der Zielgruppe in die Zust\u00e4ndigkeit der GKV fallen. Hinzu kommt, dass es sich bei dem betroffenen Personenkreis um junge Menschen handelt. Aufgrund der fehlenden Anwartschaftszeit ist der Anteil der Menschen mit Zust\u00e4ndigkeit GKV ni diesen \u201ejungen Altersgruppen\" sehr hoch. Diese Zielgruppe sollte nach unserer Einsch\u00e4tzung ni besonderem Ma\u00dfe ein therapeutisches Hilfsangebot alternativ zum Strafvollzug gemacht werden. F\u00fcr viele ist das der erste Zugang zum Hilfesystem.\r\nWas ist jetzt zu tun?\r\nWir begr\u00fc\u00dfen ausdr\u00fccklich die Initiative des Landes Nordrhein-Westfalen (BR-Drs. 629/23), die bestehende Gesetzesl\u00fccke im Sozialgesetzbuch | (SGB I) zu schlie\u00dfen, die aktuell die\r\nUmsetzbarkeit des bew\u00e4hrten Ansatzes \u201eTherapie statt Strafe\" verhindert. Die geplante \u00c4nderung betrifft \u00a7 7 SGB Il, der regelt, wer nach diesem Buch Leistungen erh\u00e4lt, und wer von diesen Leistungen ausgeschlossen ist. Wir bitten Sie, diese Gesetzinitiative zu unterst\u00fctzen!\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

@@ -1,0 +1,826 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-07-20T14:10:09.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-07-20T14:10:09.000+02:00",
+        "lastUpdateDate": "2024-06-12T10:29:19.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 36638,
+                "validFromDate": "2024-06-12T10:29:19.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 33359,
+                "validFromDate": "2024-06-10T14:52:53.000+02:00",
+                "validUntilDate": "2024-06-12T10:29:19.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23093,
+                "validFromDate": "2023-07-06T10:10:58.000+02:00",
+                "validUntilDate": "2024-06-10T14:52:53.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 10421,
+                "validFromDate": "2023-05-23T10:20:23.000+02:00",
+                "validUntilDate": "2023-07-06T10:10:58.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 729,
+                "validFromDate": "2022-07-20T14:10:09.000+02:00",
+                "validUntilDate": "2023-05-23T10:20:23.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_NONPROFIT_ORGA_V2",
+            "de": "Nichtregierungsorganisation (NGO)",
+            "en": "Non-governmental organization (NGO)"
+        },
+        "activityDescription": "Die  \"Interessenvertretung Selbstbestimmt Leben in Deutschland e.V. - ISL\" ist die Dachorganisation der Zentren f\u00fcr Selbstbestimmtes Leben behinderter Menschen und wurde am 19. Oktober 1990 von behinderten Frauen und M\u00e4nnern in Erlangen gegr\u00fcndet. Wir definieren \"Behinderung\" nicht als Defizit aus einer medizinischen Perspektive. Vielmehr verstehen wir Behinderung als Menschenrechtsthema.\r\n\r\nUnsere Leitideen sind \"Selbstbestimmung - Selbstvertretung - Inklusion - Empowerment\"!\r\n\r\nDie ISL e.V. ist der deutsche Zweig der 1980 gegr\u00fcndeten internationalen Selbstvertretungsbewegung behinderter Menschen \"Disabled Peoples\u00b4 International - DPI\". ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_LAS_TOURISM",
+                "de": "Tourismus",
+                "en": "Tourism"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_SP_DISABILITY",
+                "de": "Rechte von Menschen mit Behinderung",
+                "en": "Rights of people with disabilities"
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_EP_CHILDHOOD",
+                "de": "Vorschulische Bildung",
+                "en": "Early childhood education"
+            },
+            {
+                "code": "FOI_MEDIA_MASS",
+                "de": "Massenmedien",
+                "en": "Mass media"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_SP_CHILDREN",
+                "de": "Kinder- und Jugendpolitik",
+                "en": "Child and youth policy"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_HEALTH_MEDICINE",
+                "de": "Arzneimittel",
+                "en": "Medicine"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_SS_OLD_AGE",
+                "de": "Rente/Alterssicherung",
+                "en": "Old-age insurance"
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_SS_ACCIDENT",
+                "de": "Unfallversicherung",
+                "en": "Accident insurance"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_RPI_MIGRATION",
+                "de": "Migration",
+                "en": "Migration and residence"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_HEALTH_CARE",
+                "de": "Pflege",
+                "en": "Health care"
+            },
+            {
+                "code": "FOI_CULTURE",
+                "de": "Kultur",
+                "en": "Culture"
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AEROSPACE",
+                "de": "Luft- und Raumfahrt",
+                "en": "Aerospace"
+            },
+            {
+                "code": "FOI_SP_DIVERSITY",
+                "de": "Diversit\u00e4tspolitik",
+                "en": "Diversity policy"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_RP_RESIDE",
+                "de": "Wohnen",
+                "en": "Reside"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_OTHER",
+                "de": "Sonstige Interessenbereiche",
+                "en": "Other areas",
+                "fieldOfInterestText": "Patizipationstandards"
+            },
+            {
+                "code": "FOI_RPI_LAWS",
+                "de": "Ausl\u00e4nder- und Aufenthaltsrecht",
+                "en": "Foreign laws"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_SP_FAMILY",
+                "de": "Familienpolitik",
+                "en": "Family policy"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_BUNDESTAG_VOTE",
+                "de": "Wahlrecht",
+                "en": "Suffrage"
+            },
+            {
+                "code": "FOI_SP_ELDERLY",
+                "de": "Seniorenpolitik",
+                "en": "Elderly/senior citizens policy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_SS_LONGTERM",
+                "de": "Pflegeversicherung",
+                "en": "Long term care"
+            },
+            {
+                "code": "FOI_RP_CITY",
+                "de": "Stadtentwicklung",
+                "en": "Urban development"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_SS_UNEMPLOYMENT",
+                "de": "Arbeitslosenversicherung",
+                "en": "Unemployment insurance"
+            },
+            {
+                "code": "FOI_RPI_INTEGRATION",
+                "de": "Integration",
+                "en": "Integration"
+            },
+            {
+                "code": "FOI_SS_HEALTH",
+                "de": "Krankenversicherung",
+                "en": "Health insurance"
+            },
+            {
+                "code": "FOI_IS_DISASTER_CONTROL",
+                "de": "Bev\u00f6lkerungsschutz und Katastrophenhilfe",
+                "en": "Civil protection"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_RPI_REFUGEE",
+                "de": "Asyl und Fl\u00fcchtlingsschutz",
+                "en": "Asylum and refugee protection"
+            },
+            {
+                "code": "FOI_SS_BASIC",
+                "de": "Grundsicherung",
+                "en": "Basic security"
+            },
+            {
+                "code": "FOI_SP_GENDER",
+                "de": "Geschlechterpolitik",
+                "en": "Gender politics"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/96/5d/288790/GuV_2023_ISL_e-V-Lobbyregister.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "Diverse Projektf\u00f6rderungen",
+                "donationEuro": {
+                    "from": 280001,
+                    "to": 290000
+                },
+                "name": "Aktion Mensch"
+            },
+            {
+                "description": "Spenden",
+                "donationEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "name": "Diverse"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 280001,
+            "to": 290000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 5.95,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 710001,
+            "to": 720000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Leipziger Stra\u00dfe",
+            "streetNumber": "61",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@isl-ev.de"
+                }
+            ],
+            "phoneNumber": "+493040571409",
+            "websites": [
+                {
+                    "website": "http://www.isl-ev.de/"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "MA",
+                "firstName": "Wiebke",
+                "lastName": "Sch\u00e4r",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "BA",
+                "firstName": "Alexander",
+                "lastName": "Ahrens",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Soz.p\u00e4d.",
+                "firstName": "Thomas",
+                "lastName": "K\u00fcnneke",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "BA",
+                "firstName": "Emine",
+                "lastName": "Kalali",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Koritz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "BA",
+                "firstName": "Maria-Victoria",
+                "lastName": "Tr\u00fcmper",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "MA",
+                "firstName": "Wiebke",
+                "lastName": "Sch\u00e4r",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "BA",
+                "firstName": "Alexander",
+                "lastName": "Ahrens",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Jenny",
+                "function": "Vertretungsberechtigter Vorstand",
+                "lastName": "Bie\u00dfmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Uwe",
+                "function": "Vertretungsberechtigter Vorstand",
+                "lastName": "Frevert",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Horst",
+                "function": "Vertretungsberechtigter Vorstand",
+                "lastName": "Frehe",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "MA",
+                "entrustedPerson": true,
+                "firstName": "Wiebke",
+                "function": "Gesch\u00e4ftsf\u00fchrung",
+                "lastName": "Sch\u00e4r",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "BA",
+                "entrustedPerson": true,
+                "firstName": "Alexander",
+                "function": "Gesch\u00e4ftsf\u00fchrung",
+                "lastName": "Ahrens",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-05-13",
+            "naturalPersons": 100,
+            "organizations": 30,
+            "totalCount": 130
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Forum Menschenrechte"
+            },
+            {
+                "membership": "Allianz \"Rechtssicherheit f\u00fcr politische Willensbildung\""
+            },
+            {
+                "membership": "F\u00f6rderkreis Gedenkort T4"
+            },
+            {
+                "membership": "Institut Mensch, Ethik und Wissenschaft gGmbH (IMEW)"
+            },
+            {
+                "membership": "Deutsches Institut f\u00fcr Menschenrechte (DIMR)"
+            },
+            {
+                "membership": "LIGA Selbstvertretung"
+            },
+            {
+                "membership": "Deutscher Behindertenrat (DBR)"
+            },
+            {
+                "membership": "Disabled Peoples' International - DPI United"
+            },
+            {
+                "membership": "European Network on Independent Living (ENIL)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Interessenvertretung Selbstbestimmt Leben in Deutschland e. V. - ISL"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 10001,
+            "to": 20000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Projektf\u00f6rderung - F\u00f6rderung der Partizipation von Menschen mit Behinderung und ihrer Verb\u00e4nde an der Gestaltung \u00f6ffentlicher Angelegenheiten (FPV) \r\n\r\nProjektf\u00f6rderung - Ausgleichsfonds (AGF)",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Arbeit und Soziales (BMAS)",
+                "publicAllowanceEuro": {
+                    "from": 260001,
+                    "to": 270000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projektf\u00f6rderung - respekt*land durch die Antidiskriminierungsstelle des Bundes",
+                "location": "K\u00f6ln",
+                "name": "Bundesamt f\u00fcr Familie und zivilgesellschaftlicher Aufgaben - BAFZA",
+                "publicAllowanceEuro": {
+                    "from": 130001,
+                    "to": 140000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projektf\u00f6rderung",
+                "location": "Bonn",
+                "name": "Bundeszentrale f\u00fcr politische Bildung - bpb",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R004969/36638",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-10T14:52:53.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/4c/bc/288791/Lobbyregister-Detailansicht-R004969-2024-06-12_10-29-19.pdf",
+        "validFromDate": "2024-06-12T10:29:19.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 36638,
+    "registerNumber": "R004969",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "AEG",
+                        "title": "Allgemeines Eisenbahngesetz",
+                        "url": "https://www.gesetze-im-internet.de/aeg_1994"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die Bundesrepublik Deutschland als auch die Europ\u00e4ische Union (EU) als Staatengemeinschaft haben die UN-Behindertenrechtskonvention (UN-BRK) ratifiziert und sich somit verpflichtet, gleichwertige und chancengleiche Lebensverh\u00e4ltnisse f\u00fcr Menschen mit Behinderungen herzustellen. Dies gilt auch f\u00fcr Artikel 20 der UN-BRK - dem Recht auf pers\u00f6nliche und selbstbestimmte Mobilit\u00e4t. Dazu braucht es eine vollumf\u00e4ngliche Barrierefreiheit und Angemessene Vorkehrungen, die mit der UN-BRK verbrieft sind. Die EU-Fahrgastrechteverordnung und das hier vorliegende AEG und EVO m\u00fcssen diesem mangelnden Zustand der Barrierefreiheit durch Angemessene Vorkehrungen (\u00a7 7 Abs. 2 BGG) gerecht werden.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_POLICY",
+                        "de": "Verkehrspolitik",
+                        "en": "Transport policy"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_DISABILITY",
+                        "de": "Rechte von Menschen mit Behinderung",
+                        "en": "Rights of people with disabilities"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                        "de": "Verkehrsinfrastruktur",
+                        "en": "Infrastructure"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/brd/2023/0268-23.pdf",
+                        "issuer": "BR",
+                        "leadingMinistries": [],
+                        "printingNumber": "268/23",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-anpassung-des-allgemeinen-eisenbahngesetzes-an-die-verordnung-eu/295550",
+                        "title": "Gesetz zur Anpassung des Allgemeinen Eisenbahngesetzes an die Verordnung (EU) 2021/782 des Europ\u00e4ischen Parlaments und des Rates vom 29. April 2021 \u00fcber die Rechte und Pflichten der Fahrg\u00e4ste im Eisenbahnverkehr sowie zur \u00c4nderung des Einf\u00fchrungsgesetzes zum B\u00fcrgerlichen Gesetzbuche"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0001708",
+                "statements": [],
+                "title": "\u00c4nderung des Allgemeinen Eisenbahngesetzes (AEG) und zur Neufassung der Eisenbahnverordnung (EVO)  "
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

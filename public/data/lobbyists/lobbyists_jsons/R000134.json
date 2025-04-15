@@ -1,0 +1,956 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-01-16T15:35:16.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-01-22T12:59:21.000+01:00",
+        "lastUpdateDate": "2024-08-30T14:58:57.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 43482,
+                "validFromDate": "2024-08-30T14:58:57.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 30615,
+                "validFromDate": "2024-06-27T08:19:55.000+02:00",
+                "validUntilDate": "2024-08-30T14:58:57.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 15050,
+                "validFromDate": "2023-01-16T15:35:16.000+01:00",
+                "validUntilDate": "2024-06-27T08:19:55.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION_V2",
+            "de": "Sonstiges Unternehmen",
+            "en": "Other company"
+        },
+        "activityDescription": "Engie Deutschland f\u00fchrt regelm\u00e4\u00dfige Gespr\u00e4che mit verschiedenen Bundesministerien und Mitgliedern des Deutschen Bundestages, die sich auf energiewirtschaftliche Themen konzentrieren. Diese Dialoge zielen darauf ab, spezifische Anpassungsbedarfe zu er\u00f6rtern, die f\u00fcr die unternehmerischen Aktivit\u00e4ten in der Energiebranche und die Besch\u00e4ftigtensituation im Unternehmen von zentraler Bedeutung sind. Themen wie die Sicherung der Energieversorgung, die Rolle von Biomethan im Energiemix, der Ausbau erneuerbarer Energien und Stromspeicher, Energieeffizienz-Fragen sowie die W\u00e4rmewende spielen eine zentrale Rolle. Ziel dieser Interessenvertretung ist es, praktische Einblicke (z.B. durch Vor-Ort-Besichtigungen) zu bieten und gezielte Vorschl\u00e4ge zur Verbesserung der energiewirtschaftlichen Rahmenbedingungen zu unterbreiten. Auch die Erstellung und \u00dcbermittlung von Stellungnahmen und Hintergrundinformationen zu energierelevanten Gesetzesvorhaben geh\u00f6rt zu den Aktivit\u00e4ten des Unternehmens im Bereich Interessenvertretung. ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_RP_OTHER",
+                "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                "en": "Other in the field of \"Spatial planning, construction and housing\""
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_RP_RESIDE",
+                "de": "Wohnen",
+                "en": "Reside"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_RP_CITY",
+                "de": "Stadtentwicklung",
+                "en": "Urban development"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/a7/21/348977/EDAG_JAP_31-12-22_TE-Final_22-007304.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/7a/50/348978/ENGIE_ETHICS-CODE-OF-CONDUCT_DE_.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.5,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 190001,
+            "to": 200000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "ENGIE Deutschland AG",
+            "street": "Ella-Barowsky-Stra\u00dfe",
+            "streetNumber": "44",
+            "type": "NATIONAL",
+            "zipCode": "10829"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "energiepolitik@engie.com"
+                }
+            ],
+            "phoneNumber": "+4930915810",
+            "websites": [
+                {
+                    "website": "www.engie-deutschland.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Eric",
+                "lastName": "Stab",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Frank",
+                "lastName": "Hoepner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Henrik",
+                "lastName": "Maatsch",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Niklas",
+                "lastName": "Wiegand",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Birte",
+                "lastName": "Kempe-Samsami",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Sabine",
+                "lastName": "Hinz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Stefanie",
+                "lastName": "Behling",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Bernd",
+                "lastName": "Dinauer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Anne",
+                "lastName": "Bosser",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Andr\u00e9",
+                "lastName": "Grieser",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Corinna",
+                "lastName": "Grajetzky",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_AG",
+            "de": "Aktiengesellschaft (AG)",
+            "en": "Stock company (AG)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Eric",
+                "function": "Vorstandsvorsitzender ENGIE Deutschland AG",
+                "lastName": "Stab",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Frank",
+                "function": "Prokurist",
+                "lastName": "Hoepner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Niklas",
+                "function": "Vorstand ENGIE Deutschland AG, Gesch\u00e4ftsf\u00fchrer ENGIE Deutschland GmbH",
+                "lastName": "Wiegand",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Bernd",
+                "function": "Vorstand ENGIE Deutschland AG, Gesch\u00e4ftsf\u00fchrer ENGIE Energy Management Solutions GmbH (EDB)",
+                "lastName": "Dinauer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Anne",
+                "function": "Vorstand ENGIE Deutschland AG, Gesch\u00e4ftsf\u00fchrerin ENGIE Deutschland Erneuerbare GmbH",
+                "lastName": "Bosser",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Bundesverband der Energie- und Wasserwirtschaft e.V."
+            },
+            {
+                "membership": "Deutsche Unternehmensinitiative Energieeffizienz e.V."
+            },
+            {
+                "membership": "Bundesindustrieverband Technische Geb\u00e4udeausr\u00fcstung e.V."
+            },
+            {
+                "membership": "German Facility Management Association - Deutscher Verband f\u00fcr Facility Management e.V."
+            },
+            {
+                "membership": "Verband f\u00fcr Energiedienstleistungen, Effizienz und Contracting e.V. (vedec)"
+            },
+            {
+                "membership": "Zentraler Immobilien Ausschuss e.V."
+            },
+            {
+                "membership": "Bundesverband WindEnergie e.V. (BWE)"
+            },
+            {
+                "membership": "Landesverband Erneuerbare Energie Mecklenburg-Vorpommern e.V."
+            },
+            {
+                "membership": "Association for Real Estate and Facility Managers e. V. (Real FM)"
+            },
+            {
+                "membership": "Bundesfachverband der Immobilienverwalter e. V. (BVI)"
+            },
+            {
+                "membership": "Bundesverband Freier Immobilien- und Wohnungsunternehmen e.V. (BFW)"
+            },
+            {
+                "membership": "Bundesverband mittelst\u00e4ndische Wirtschaft (BVMW)"
+            },
+            {
+                "membership": "Forum Contracting e.V."
+            },
+            {
+                "membership": "Gasgemeinschaft Mitteldeutschland e.V. (GGM)"
+            },
+            {
+                "membership": "Gesundheitstechnische Gesellschaft e.V. (GG)"
+            },
+            {
+                "membership": "Immobilienverband Deutschland West (IVD West)"
+            },
+            {
+                "membership": "Aachen Building Experts"
+            },
+            {
+                "membership": "Bayerischer Unternehmensverband Metall und Elektro e.V."
+            },
+            {
+                "membership": "Bundesverband der Vertriebsmanager e.V."
+            },
+            {
+                "membership": "Bundesverband Feuerl\u00f6schger\u00e4te und -anlagen e.V."
+            },
+            {
+                "membership": "Deutsche Gesellschaft f\u00fcr Projektmanagement e. V."
+            },
+            {
+                "membership": "Deutscher K\u00e4lte- und Klimatechnischer Verein e.V."
+            },
+            {
+                "membership": "Deutsches Institut f\u00fcr Normung e.V."
+            },
+            {
+                "membership": "Erneuerbare Energien Hamburg e.V."
+            },
+            {
+                "membership": "Fachbetriebsgesellschaft Maschinenbau e.V."
+            },
+            {
+                "membership": "F\u00f6rderverein Geb\u00e4ude- und Energietechnik an der FH Erfurt e. V."
+            },
+            {
+                "membership": "Ges. zur F\u00f6rderung des Energiewirtschaftlichen Instituts an der Uni K\u00f6ln e. V."
+            },
+            {
+                "membership": "Gesch\u00e4ftsstelle des VDSI - Verband Deutscher Sicherheitsingenieure e.V."
+            },
+            {
+                "membership": "Gesellschaft f\u00fcr Umweltsimulation e.V."
+            },
+            {
+                "membership": "Gesellschaft von Freunden und F\u00f6rderern der Technischen Universit\u00e4t Dresden e.V."
+            },
+            {
+                "membership": "Gesundheitstechnische Gesellschaft e.V."
+            },
+            {
+                "membership": "IG Biogasmotoren e.V."
+            },
+            {
+                "membership": "Industrieverband Technische Geb\u00e4udeausr\u00fcstung Baden-W\u00fcrttemberg e.V."
+            },
+            {
+                "membership": "Interessenverband Grubengas e.V."
+            },
+            {
+                "membership": "Kerntechnische Gesellschaft e.V."
+            },
+            {
+                "membership": "Kooperationsverbund unabh\u00e4ngiger Messdienstunternehmen e. V."
+            },
+            {
+                "membership": "Leipziger Fachkreis Gewerbeimmobilien e. V."
+            },
+            {
+                "membership": "Mitgliederverwaltung f\u00fcr das Gastgewerbe Verrechnungsstelle f\u00fcr Mitgliedschaft im Hotelverband Deutschland IHA"
+            },
+            {
+                "membership": "pro Ruhrgebiet e. V."
+            },
+            {
+                "membership": "Unternehmerverband Sachsen e. V."
+            },
+            {
+                "membership": "Unternehmerverband Vorpommern e. V."
+            },
+            {
+                "membership": "Verband der Bayerischen Metall- und Elektroindustrie e.V."
+            },
+            {
+                "membership": "Verband Deutscher Energieh\u00e4ndler e.V. ehem. Verband Deutscher Gas- und Stromh\u00e4ndler e.V."
+            },
+            {
+                "membership": "Verein Berliner Kaufleute und Industrieller e. V."
+            },
+            {
+                "membership": "Verein zur F\u00f6rderung der Ingenieurausbildung der Geb\u00e4ude- und Energietechnik Dresden e. V."
+            },
+            {
+                "membership": "Versuchs- und Lehranstalt f\u00fcr Brauerei in Berlin e. V."
+            },
+            {
+                "membership": "Weltenergierat Deutschland e.V."
+            },
+            {
+                "membership": "Wirtschafts- & Industrievereinigung Stuttgart e.V."
+            },
+            {
+                "membership": "Wirtschaftsforum Brandenburg e. V."
+            },
+            {
+                "membership": "Wirtschaftsrat der CDU e.V."
+            },
+            {
+                "membership": "Zertifizierung Bau e.V."
+            },
+            {
+                "membership": "Marktoffensive Erneuerbare Energien (DENA)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "ENGIE Deutschland AG"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000134/43482",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-27T08:19:55.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/90/08/348979/Lobbyregister-Detailansicht-R000134-2024-08-30_14-58-57.pdf",
+        "validFromDate": "2024-08-30T14:58:57.000+02:00",
+        "version": 4
+    },
+    "registerEntryId": 43482,
+    "registerNumber": "R000134",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EnWG",
+                        "title": "Gesetz \u00fcber die Elektrizit\u00e4ts- und Gasversorgung",
+                        "url": "https://www.gesetze-im-internet.de/enwg_2005"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "ENGIE setzt sich f\u00fcr einen zentralen, technologieoffenen und wettbewerblichen Kapazit\u00e4tsmechanismus ein, der effektive Anreize f\u00fcr den Neubau (bspw. \u00fcber langfristige Verg\u00fctungszeitr\u00e4ume) gesicherter Leistung setzt. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006790",
+                "statements": [],
+                "title": "Kraftwerksstrategie und Kapazit\u00e4tsmechanismen - gesicherte Leistung f\u00fcr den Strommarkt"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Festlegung eines Ausbauziels f\u00fcr die Biomethanerzeugung f\u00fcr 2030 (und dar\u00fcber hinaus), an dem sich der F\u00f6rder- und Regulierungsrahmen fortan ausrichtet sowie Investoren orientieren k\u00f6nnen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006791",
+                "statements": [],
+                "title": "Festlegung eines ambitionierten nationalen Biomethan-Ausbauziels "
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GasNZV",
+                        "title": "Verordnung \u00fcber den Zugang zu Gasversorgungsnetzen",
+                        "url": "https://www.gesetze-im-internet.de/gasnzv_2010"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "M\u00f6glichst umf\u00e4ngliche Beibehaltung der Verpflichtung der Netzbetreiber, Biomethananlagen ans Gasverteilernetz anzuschlie\u00dfen, sowie der Deckelung der Netzanschlusskosten f\u00fcr Biomethananlagenbetreiber. H\u00f6here Kostenbeteiligungen m\u00fcssen mit der M\u00f6glichkeit h\u00f6herer Erl\u00f6se gekoppelt sein. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006792",
+                "statements": [],
+                "title": "Sicherstellung der priviligierten Einspeisung von Biomethan in das Gasnetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BioSt-NachV",
+                        "title": "Verordnung \u00fcber Anforderungen an eine nachhaltige Herstellung von Biomasse zur Stromerzeugung",
+                        "url": "https://www.gesetze-im-internet.de/biost-nachv_2021"
+                    },
+                    {
+                        "shortTitle": "GEG",
+                        "title": "Gesetz zur Einsparung von Energie und zur Nutzung erneuerbarer Energien zur W\u00e4rme- und K\u00e4lteerzeugung in Geb\u00e4uden",
+                        "url": "https://www.gesetze-im-internet.de/geg"
+                    },
+                    {
+                        "shortTitle": "Biokraft-NachV",
+                        "title": "Verordnung \u00fcber Anforderungen an eine nachhaltige Herstellung von Biokraftstoffen",
+                        "url": "https://www.gesetze-im-internet.de/biokraft-nachv_2021"
+                    },
+                    {
+                        "shortTitle": "GWKHV",
+                        "title": "Verordnung \u00fcber das Herkunftsnachweisregister f\u00fcr Gas und das Herkunftsnachweisregister f\u00fcr W\u00e4rme oder K\u00e4lte",
+                        "url": "https://www.gesetze-im-internet.de/gwkhv"
+                    },
+                    {
+                        "shortTitle": "HkNRG",
+                        "title": "Gesetz zur Ausstellung, \u00dcbertragung und Entwertung von Herkunftsnachweisen sowie zur Schaffung von Herkunftsnachweisregistern f\u00fcr Gas, W\u00e4rme oder K\u00e4lte aus erneuerbaren Energien",
+                        "url": "https://www.gesetze-im-internet.de/hknrg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Das Zertifizierungssystem f\u00fcr Biomethan sollte vereinfacht und vereinheitlicht werden, etwa durch Zusammenf\u00fchrung einzelner Register bzw. einem verbesserten Datenaustausch, um b\u00fcrokratische H\u00fcrden abzubauen, den (grenz\u00fcberschreitenden) Handel und die Anwendung in den unterschiedlichen Sektoren zu vereinfachen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006793",
+                "statements": [],
+                "title": "Vereinfachung und Standardisierung des Zertifizierungssystems f\u00fcr Biomethan"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "ErbStG",
+                        "title": "Erbschaftsteuer- und Schenkungsteuergesetz",
+                        "url": "https://www.gesetze-im-internet.de/erbstg_1974"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Alle PV-Freifl\u00e4chen sind beim Erbrecht analog der Agri-PV zu beg\u00fcnstigen und somit dem landwirtschaftlichen Betriebsverm\u00f6gen zuzuordnen, damit die drohende Erbschaftsteuerlast den Solarausbau nicht weiter hemmt. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006794",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/5a/08/316899/Stellungnahme-Gutachten-SG2406240289.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-14"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0006794",
+                        "regulatoryProjectTitle": "Anpassung des Erbrechts in Bezug auf PV-Freifl\u00e4chen",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Geltendes Erbschaftssteuerrecht hemmt den Solarausbau auf der Freifl\u00e4che\r\nF\u00fcr Landwirte besteht nach geltendem Recht eine erbschaftsteuerliche Benachteiligung, \r\nwenn sie ihre Fl\u00e4chen f\u00fcr die Errichtung von PV-Freifl\u00e4chenanlagen verpachten. Land- und \r\nforstwirtschaftliches Verm\u00f6gen wird bei Schenkung und Erbschaft grunds\u00e4tzlich privilegiert\r\nbesteuert (hinsichtlich der Bestimmung des Verm\u00f6genswertes und einer sachlichen \r\nSteuerbefreiung). Soll auf einer landwirtschaftlichen Fl\u00e4che jedoch Solarstrom erzeugt werden\r\nund wird zu diesem Zweck ein Fl\u00e4chennutzungsvertrag abgeschlossen, ist diese Fl\u00e4che nicht \r\nmehr dem land- und forstwirtschaftlichen Verm\u00f6gen zuzuordnen, sondern dem \r\nGrundverm\u00f6gen und unterliegt zudem fortan der h\u00f6heren Grundsteuer B \u2013 unabh\u00e4ngig\r\ndavon, ob die Solaranlage bereits in Betrieb genommen wurde oder dies erst in Planung ist.\r\nDiese erbschaftsteuerliche Benachteiligung von PV-Freifl\u00e4chen wird vom Gesetzgeber damit \r\nbegr\u00fcndet, dass die Fl\u00e4chen nicht mehr dauerhaft im engeren Sinne dem landwirtschaftlichen \r\nBetrieb dienen - auch wenn dies nach Ablauf des Fl\u00e4chennutzungsvertrags ggf. wieder der \r\nFall sein sollte. Damit entfallen erbschaftsteuer- und schenkungssteuerrechtliche \r\nErleichterungen (Befreiungs- und Verschonungsregeln), was den wirtschaftlichen Anreiz zur \r\nVerpachtung solcher Fl\u00e4chen stark reduziert. Die daraus entstehenden finanziellen \r\nVerpflichtungen zum Zeitpunkt der Hof\u00fcbertragung k\u00f6nnen die Pachteinnahmen \u00fcbertreffen \r\nund somit den Hoferben eine hohe finanzielle Last aufb\u00fcrden. In der Praxis bedeutet dies, \r\ndass Landwirte h\u00e4ufig z\u00f6gern, Nutzungsvertr\u00e4ge f\u00fcr PV-Freifl\u00e4chenanlagen abzuschlie\u00dfen.\r\nDies bremst Solarprojekte aus oder verhindert sie sogar.\r\nEine Sonderregelung existiert f\u00fcr Fl\u00e4chen, die sowohl f\u00fcr PV genutzt als auch intensiv \r\nlandwirtschaftlich betrieben werden (sog. Agri-PV). Sie werden bereits heute vollst\u00e4ndig dem \r\nland- und forstwirtschaftlichen Betrieb zugeordnet, behalten somit die erbschaftsteuerlichen \r\nBeg\u00fcnstigungen f\u00fcr landwirtschaftliches Betriebsverm\u00f6gen und verbleiben zudem in der\r\ng\u00fcnstigeren Grundsteuer A, die im \u00dcbrigen auch f\u00fcr Onshore-Windfl\u00e4chen gilt.\r\nENGIE setzt sich f\u00fcr eine \u00c4nderung des Steuerrechts ein:\r\n\u2022 Alle PV-Freifl\u00e4chen sind beim Erbrecht analog der Agri-PV zu beg\u00fcnstigen und somit\r\ndem landwirtschaftlichen Betriebsverm\u00f6gen zuzuordnen, damit die drohende \r\nErbschaftsteuerlast den Solarausbau nicht weiter hemmt. \r\n\u2022 Wesentliche Energieverb\u00e4nde (BDEW, BSW und BNE) haben gleichlautende \r\nForderungen. \r\nDie Bundesregierung hat diese Forderung im Rahmen des Solarpaketes 1 bedauerlicherweise \r\nnicht ber\u00fccksichtigt. Eine entsprechende Neuregelung k\u00f6nnte nun entweder im Rahmen des \r\nB\u00fcrokratieentlastungsgesetzes oder des Jahressteuergesetzes erfolgen. \r\nWir w\u00fcrden uns sehr freuen, wenn Sie unser Anliegen unterst\u00fctzen k\u00f6nnten.\r\nHaben Sie Fragen? Wenden Sie sich gern an uns"
+                        }
+                    }
+                ],
+                "title": "Anpassung des Erbrechts in Bezug auf PV-Freifl\u00e4chen"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EnWG",
+                        "title": "Gesetz \u00fcber die Elektrizit\u00e4ts- und Gasversorgung",
+                        "url": "https://www.gesetze-im-internet.de/enwg_2005"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die Gasspeicherumlage verteuert durch die Belastung der Grenz\u00fcbergabepunkte bzw. virtuellen Kopplungspunkte den Gastransit durch Deutschland. Damit belastet die Gasspeicherumlage den Gashandel im EU-Binnenmarkt. Die Erhebung der Gasspeicherumlage an den den Grenz\u00fcbergangspunkten soll - wie Entwurf vorgesehen - beendet werden.",
+                "draftBill": {
+                    "customDate": "2024-06-17",
+                    "customTitle": "Entwurf eines Dritten Gesetzes zur \u00c4nderung des Energiewirtschaftsgesetzes",
+                    "leadingMinistries": [
+                        {
+                            "shortTitle": "BMWK",
+                            "title": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                            "url": "https://www.bmwk.de/Navigation/DE/Home/home.html"
+                        }
+                    ]
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006795",
+                "statements": [],
+                "title": "Erdgas - Erhebung der Gasspeicherumlage an Exitpunkten an der Grenze abschaffen"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EnWG",
+                        "title": "Gesetz \u00fcber die Elektrizit\u00e4ts- und Gasversorgung",
+                        "url": "https://www.gesetze-im-internet.de/enwg_2005"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Etablierung eines investitionsfreundlichen regulatorischen Marktumfeldes und Abbau regulatorischer Hemmnisse; Schaffung einer uniformen und transparenten Entgeltstruktur f\u00fcr Netzanschluss und -nutzung sowie Abschaffung der Markteintrittsh\u00fcrden in Systemdienstleistungsm\u00e4rkte. So sind z.B. f\u00fcr Stromspeicher wie Pumpspeicherkraftwerke Opportunit\u00e4tskosten bei der marktgest\u00fctzten Beschaffung von Schwarzstartf\u00e4higkeit nach EnWG \u00a7 12h Abs, 1 Nr. 5 zu ber\u00fccksichtigen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006796",
+                "statements": [],
+                "title": "Umsetzung der Stromspeicher-Strategie erforderlich "
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "WPG",
+                        "title": "Gesetz f\u00fcr die W\u00e4rmeplanung und zur Dekarbonisierung der W\u00e4rmenetze",
+                        "url": "https://www.gesetze-im-internet.de/wpg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "F\u00fcr eine erfolgreiche und kosteneffiziente W\u00e4rmewende sind F\u00f6rdermittel besser mit der kommunalen W\u00e4rmeplanung zu verzahnen. Fehlanreize, die insgesamt h\u00f6here volkswirtschaftliche Kosten verursachen, sind dringend zu vermeiden.  W\u00e4rmepumpen sind dort nicht zu f\u00f6rdern, wo eine Erweiterung des Fernw\u00e4rmenetzes sinnvoll ist. Dekarbonisierungsl\u00f6sungen, die im Rahmen der kommunalen W\u00e4rmeplanung identifiziert werden, m\u00fcssen dann f\u00fcr die Kommunen und ihre B\u00fcrgerinnen und B\u00fcrger verbindlich sein.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_CITY",
+                        "de": "Stadtentwicklung",
+                        "en": "Urban development"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_NET",
+                        "de": "Energienetze",
+                        "en": "Energy networks"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006797",
+                "statements": [],
+                "title": "St\u00e4rkung der kommunalen W\u00e4rmeplanung durch Abbau von widerspr\u00fcchlichen  F\u00f6rderanreizen "
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BGB",
+                        "title": "B\u00fcrgerliches Gesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bgb"
+                    },
+                    {
+                        "shortTitle": "W\u00e4rmeLV",
+                        "title": "Verordnung \u00fcber die Umstellung auf gewerbliche W\u00e4rmelieferung f\u00fcr Mietwohnraum",
+                        "url": "https://www.gesetze-im-internet.de/w_rmelv"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Steigende W\u00e4rmekosten als Betriebskosten f\u00fcr Mieter sind nach \u00a7 556c BGB nicht zul\u00e4ssig. Auch die W\u00e4rmelieferverordnung erlaubt nach einer Umstellung auf W\u00e4rmelieferung aus einem W\u00e4rmenetz oder aus einer dezentralen Anlage die Umlage der resultierenden Kosten nur dann, wenn die Kostenneutralit\u00e4t f\u00fcr die Mieter gew\u00e4hrleistet ist. Nach den derzeit geltenden Vorschriften zur Ermittlung der Kostenneutralit\u00e4t l\u00e4sst sich diese meist nicht erreichen. Das behindert neue Anschl\u00fcsse an dekarbonisierte Nah- und W\u00e4rmenetze. Hier ist nun entweder die Streichung oder \u00c4nderung von \u00a7 556 c  Abs. 1  BGB oder eine \u00c4nderung der Vorschriften zur Ermittlung der Kostenneutralit\u00e4t in der W\u00e4rmelieferverordnung dringend erforderlich.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_NET",
+                        "de": "Energienetze",
+                        "en": "Energy networks"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_RESIDE",
+                        "de": "Wohnen",
+                        "en": "Reside"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_RP_CITY",
+                        "de": "Stadtentwicklung",
+                        "en": "Urban development"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006798",
+                "statements": [],
+                "title": "W\u00e4rmewende erm\u00f6glichen durch \u00c4nderung von \u00a7 556 c  Abs. 1  BGB oder der W\u00e4rmelieferverordnung in Bezug auf die Ermittlung der Kostenneutralit\u00e4t"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/5a/08/316899/Stellungnahme-Gutachten-SG2406240289.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-06-14"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0006794",
+                "regulatoryProjectTitle": "Anpassung des Erbrechts in Bezug auf PV-Freifl\u00e4chen",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Geltendes Erbschaftssteuerrecht hemmt den Solarausbau auf der Freifl\u00e4che\r\nF\u00fcr Landwirte besteht nach geltendem Recht eine erbschaftsteuerliche Benachteiligung, \r\nwenn sie ihre Fl\u00e4chen f\u00fcr die Errichtung von PV-Freifl\u00e4chenanlagen verpachten. Land- und \r\nforstwirtschaftliches Verm\u00f6gen wird bei Schenkung und Erbschaft grunds\u00e4tzlich privilegiert\r\nbesteuert (hinsichtlich der Bestimmung des Verm\u00f6genswertes und einer sachlichen \r\nSteuerbefreiung). Soll auf einer landwirtschaftlichen Fl\u00e4che jedoch Solarstrom erzeugt werden\r\nund wird zu diesem Zweck ein Fl\u00e4chennutzungsvertrag abgeschlossen, ist diese Fl\u00e4che nicht \r\nmehr dem land- und forstwirtschaftlichen Verm\u00f6gen zuzuordnen, sondern dem \r\nGrundverm\u00f6gen und unterliegt zudem fortan der h\u00f6heren Grundsteuer B \u2013 unabh\u00e4ngig\r\ndavon, ob die Solaranlage bereits in Betrieb genommen wurde oder dies erst in Planung ist.\r\nDiese erbschaftsteuerliche Benachteiligung von PV-Freifl\u00e4chen wird vom Gesetzgeber damit \r\nbegr\u00fcndet, dass die Fl\u00e4chen nicht mehr dauerhaft im engeren Sinne dem landwirtschaftlichen \r\nBetrieb dienen - auch wenn dies nach Ablauf des Fl\u00e4chennutzungsvertrags ggf. wieder der \r\nFall sein sollte. Damit entfallen erbschaftsteuer- und schenkungssteuerrechtliche \r\nErleichterungen (Befreiungs- und Verschonungsregeln), was den wirtschaftlichen Anreiz zur \r\nVerpachtung solcher Fl\u00e4chen stark reduziert. Die daraus entstehenden finanziellen \r\nVerpflichtungen zum Zeitpunkt der Hof\u00fcbertragung k\u00f6nnen die Pachteinnahmen \u00fcbertreffen \r\nund somit den Hoferben eine hohe finanzielle Last aufb\u00fcrden. In der Praxis bedeutet dies, \r\ndass Landwirte h\u00e4ufig z\u00f6gern, Nutzungsvertr\u00e4ge f\u00fcr PV-Freifl\u00e4chenanlagen abzuschlie\u00dfen.\r\nDies bremst Solarprojekte aus oder verhindert sie sogar.\r\nEine Sonderregelung existiert f\u00fcr Fl\u00e4chen, die sowohl f\u00fcr PV genutzt als auch intensiv \r\nlandwirtschaftlich betrieben werden (sog. Agri-PV). Sie werden bereits heute vollst\u00e4ndig dem \r\nland- und forstwirtschaftlichen Betrieb zugeordnet, behalten somit die erbschaftsteuerlichen \r\nBeg\u00fcnstigungen f\u00fcr landwirtschaftliches Betriebsverm\u00f6gen und verbleiben zudem in der\r\ng\u00fcnstigeren Grundsteuer A, die im \u00dcbrigen auch f\u00fcr Onshore-Windfl\u00e4chen gilt.\r\nENGIE setzt sich f\u00fcr eine \u00c4nderung des Steuerrechts ein:\r\n\u2022 Alle PV-Freifl\u00e4chen sind beim Erbrecht analog der Agri-PV zu beg\u00fcnstigen und somit\r\ndem landwirtschaftlichen Betriebsverm\u00f6gen zuzuordnen, damit die drohende \r\nErbschaftsteuerlast den Solarausbau nicht weiter hemmt. \r\n\u2022 Wesentliche Energieverb\u00e4nde (BDEW, BSW und BNE) haben gleichlautende \r\nForderungen. \r\nDie Bundesregierung hat diese Forderung im Rahmen des Solarpaketes 1 bedauerlicherweise \r\nnicht ber\u00fccksichtigt. Eine entsprechende Neuregelung k\u00f6nnte nun entweder im Rahmen des \r\nB\u00fcrokratieentlastungsgesetzes oder des Jahressteuergesetzes erfolgen. \r\nWir w\u00fcrden uns sehr freuen, wenn Sie unser Anliegen unterst\u00fctzen k\u00f6nnten.\r\nHaben Sie Fragen? Wenden Sie sich gern an uns"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

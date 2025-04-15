@@ -1,0 +1,593 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-09-06T15:14:27.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-22T12:07:38.000+01:00",
+        "lastUpdateDate": "2024-08-08T14:05:59.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42676,
+                "validFromDate": "2024-08-08T14:05:59.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 41958,
+                "validFromDate": "2024-08-08T13:48:07.000+02:00",
+                "validUntilDate": "2024-08-08T14:05:59.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 38241,
+                "validFromDate": "2024-06-20T14:08:38.000+02:00",
+                "validUntilDate": "2024-08-08T13:48:07.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 33661,
+                "validFromDate": "2024-06-17T09:38:55.000+02:00",
+                "validUntilDate": "2024-06-20T14:08:38.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 24561,
+                "validFromDate": "2023-07-31T11:39:11.000+02:00",
+                "validUntilDate": "2024-06-17T09:38:55.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23066,
+                "validFromDate": "2023-07-12T12:38:53.000+02:00",
+                "validUntilDate": "2023-07-31T11:39:11.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 11206,
+                "validFromDate": "2022-09-06T15:14:27.000+02:00",
+                "validUntilDate": "2023-07-12T12:38:53.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_NONPROFIT_ORGA_V2",
+            "de": "Nichtregierungsorganisation (NGO)",
+            "en": "Non-governmental organization (NGO)"
+        },
+        "activityDescription": "Die Interessenvertretung von Fairtrade Deutschland e.V. setzt sich daf\u00fcr ein, dass nationale und EU-Handels- und Wirtschaftspolitik, Agrar-, Umwelt- und Entwicklungspolitik aufeinander abgestimmt sind und im Sinne der Globalen Nachhaltigkeitsziele (SDGs) gestaltet werden. Ziel ist es, dass bei politischen Entscheidungen konsequent und belegbar Risiken f\u00fcr Armut, Ungleichheit und die Folgen des Klimawandels f\u00fcr Kleinb\u00e4uer*innen, Arbeiter*innen und Leiharbeiter*innen auf Plantagen im Globalen S\u00fcden mitgedacht und minimiert werden. \r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_SP_GENDER",
+                "de": "Geschlechterpolitik",
+                "en": "Gender politics"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/1a/07/341953/2023_Jahresabschluss_Fairtrade.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "Kaffeeprojekt: Das Projekt wurde von 2022 bis 2024 mit honduranischen Kaffeeproduzentinnen umgesetzt. Ziel des Projektes war es, die Einkommen von Kaffeeproduzentinnen durch die St\u00e4rkung von nachhaltigen Anbauma\u00dfnahmen, welche eine Anpassung an Klimaver\u00e4nderungen erm\u00f6glichen, die Steigerung von Produktivit\u00e4t der Kaffeeproduktion und Diversifizierung von Einkommensquellen zu f\u00f6rdern. ",
+                "donationEuro": {
+                    "from": 90001,
+                    "to": 100000
+                },
+                "name": "Unternehmen"
+            },
+            {
+                "description": "Kakaoprojekt in Ghana: Das Projekt wurde von 2020 bis 2024 mit ghanaischen Kakaob\u00e4uer*innen umgesetzt. Ziel des Projektes war es, die Einkommen in Richtung eines existenzsichernden Einkommens zu st\u00e4rken. Zus\u00e4tzlich zur St\u00e4rkung der Produktivit\u00e4t wurde die Klimawandelanpassung der Farmen unterst\u00fctzt, sowie Ma\u00dfnahmen zur gezielten Pr\u00e4vention, Intervention und Mitigation von ausbeuterischer Kinderarbeit im Kakao umgesetzt.  ",
+                "donationEuro": {
+                    "from": 800001,
+                    "to": 810000
+                },
+                "name": "Unternehmen"
+            },
+            {
+                "description": "Orangen-Kooperative: Das Projekt wird von 2022 bis 2024 in Brasilien in Orangen-Kooperativen durchgef\u00fchrt. Das allgemeine Ziel besteht darin, einen Beitrag zur Erzielung eines existenzsichernden Einkommens f\u00fcr kleine Fairtrade-Orangenproduzenten zu leisten. Das spezifische Ziel besteht darin, dass die Kooperativen nachhaltige Wege finden und umsetzen, um die derzeitige Kluft zwischen dem realen Einkommen und dem Living Income zu verringern. Mittel sind unter anderem Klimawandelanpassung und Produktivit\u00e4tsst\u00e4rkung.\r\n\r\n",
+                "donationEuro": {
+                    "from": 130001,
+                    "to": 140000
+                },
+                "name": "Unternehmen"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 1040001,
+            "to": 1050000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.4,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 60001,
+            "to": 70000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "K\u00f6ln",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Maarweg",
+            "streetNumber": "165",
+            "type": "NATIONAL",
+            "zipCode": "50825"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "e.stoll-berberich@fairtrade-deutschland.de"
+                }
+            ],
+            "phoneNumber": "+492219420400",
+            "websites": [
+                {
+                    "website": "www.fairtrade-deutschland.de"
+                }
+            ]
+        },
+        "entrustedPersonsPresent": false,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Katja",
+                "function": "Gesch\u00e4ftsf\u00fchrender Vorstand",
+                "lastName": "Carson",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Claudia",
+                "function": "Gesch\u00e4ftsf\u00fchrender Vorstand",
+                "lastName": "Br\u00fcck",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Benjamin",
+                "function": "Gesch\u00e4ftsf\u00fchrender Vorstand",
+                "lastName": "Dr\u00f6sel",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-05-15",
+            "naturalPersons": 0,
+            "organizations": 35,
+            "totalCount": 35
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "VENRO"
+            },
+            {
+                "membership": "Initiative Transparente Zivilgesellschaft"
+            },
+            {
+                "membership": "Forum Nachhaltiger Kakao"
+            },
+            {
+                "membership": "Klima Allianz Deutschland"
+            },
+            {
+                "membership": "Initiative Lieferkettengesetz"
+            },
+            {
+                "membership": "B\u00fcndnis f\u00fcr nachhaltige Textilien"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Fairtrade Deutschland e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 1,
+            "to": 10000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Die bundesweite Fairtrade-Schools-Kampagne hat das Ziel, den fairen Handel als interdisziplin\u00e4res Thema im Globalen Lernen und Bildung von Nachhaltiger Entwicklung (BNE) in den Lehrpl\u00e4nen und in der gesamten Schulstruktur zu verankern. \r\nDie Kampagne bietet verschiedenste Schnittstellen, u.a. mit der Agenda 2030 und den Sustainable Development Goals (SDGs) sowie der deutschen Nachhaltigkeitsstrategie.\r\nNeben einer Wissensvermittlung zu nachhaltigem Konsum und Produktion steht der Kompetenzaufbau und die direkte Handlungsm\u00f6glichkeit der Hauptzielgruppe Sch\u00fcler*innen im Fokus der Kampagne. Mit diesem Projekt sollen die knapp 900 Kampagnenschulen aktiv betreut und unterst\u00fctzt werden, sich f\u00fcr den fairen Handel einzusetzen, neue Schulen und Kooperationen gewonnen werden.\r\n",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung",
+                "publicAllowanceEuro": {
+                    "from": 110001,
+                    "to": 120000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Die Faire Woche ist die gr\u00f6\u00dfte Aktionswoche zum fairen Handel in Deutschland. Kennzeichnend ist die gro\u00dfe Vielfalt an Veranstaltungen. Es sind niedrigschwellige Mitmachangebote, die alle Menschen dazu einladen, den Fairen Handel kennenzulernen und mehr \u00fcber seine Hintergr\u00fcnde zu erfahren.\r\nDie Veranstaltungen und Aktionen werden organisiert und durchgef\u00fchrt von einem breiten Spektrum an Akteuren: Weltl\u00e4den, Superm\u00e4rkte, Schulen, gastronomische Betriebe, Einrichtungen der Verbraucher*innen-Beratungen, Kirchengemeinden, Kantinen und viele weitere sind mit dabei. Veranstalter der Fairen Woche sind das Forum Fairer Handel in Kooperation mit dem Weltladen-Dachverband und Fairtrade Deutschland e.V.\r\n",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung",
+                "publicAllowanceEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Im Rahmen des BMZ gef\u00f6rderten Projekts \"Koordination zivilgesellschaftlicher Akteure im Rahmen der Multiakteurs-Partnerschaft nachhaltiger Orangensaft und St\u00e4rkung der lokalen Zivilgesellschaft im Orangensaftsektor Brasilien\" setzte Fairtrade Deutschland mit der Christlichen Initiative Romero drei Studien im Orangensaftsektor in Brasilien um, Laufzeit von Mai 2020 bis Dezember 2023. \r\nDie erste Studie diente der Erhebung von Referenzpreisen f\u00fcr ein existenzsicherndes Einkommen f\u00fcr Orangenproduzenten in Brasilien. \r\nDie zweite Studie erhob den CO2- und Wasser-Fu\u00dfabdruck einer nachhaltigen Orangenproduktion f\u00fcr Orangensaft in Fairtrade Kooperativen in Brasilien. Ziel ist ein verbessertes Wassermanagement und verringerte Kohlenstoffemissionen. \r\nDie dritte Studie analysierte aktuelle Markttrends und spezifische Entwicklungen in der Saftproduktion mit dem Ziel, Empfehlungen f\u00fcr die Marktstrategien von Fairtrade-zertifizierten Orangensaft-Kooperativen zu entwickeln.\r\n",
+                "location": "Berlin",
+                "name": "BMZ",
+                "publicAllowanceEuro": {
+                    "from": 120001,
+                    "to": 130000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Das Projekt zu existenzsichernden L\u00f6hnen im Bananensektor in Ecuador wird zusammen mit der Initiative Nachhaltige Agrarlieferketten von Januar 2022 bis Juni 2024 umgesetzt. Das von der GIZ gef\u00f6rderte Projekt soll den Living Wage Gap im Bananensektor ermitteln. Ziel ist es, durch dieses Pilotprojekt, das sp\u00e4ter auch auf weitere L\u00e4nder ausgerollt werden soll, Partnern zu erm\u00f6glichen, die notwendige Preisstruktur f\u00fcr Bananen zur Schlie\u00dfung eventueller Gaps auf Bananenplantagen zu berechnen und ggf. die Zahlung zus\u00e4tzlicher Differentiale zu erm\u00f6glichen. Auch ein Programm f\u00fcr entsprechende Trainings auf Arbeiter*innenebene wird erarbeitet und zun\u00e4chst auf Plantagen in Ecuador pilotiert. Konkreter Output soll ein Ma\u00dfnahmenkatalog sein, der u.a. auch in Einkaufsvertr\u00e4gen aufgenommen werden kann. Zudem wird untersucht, welche rechtlichen Implikationen die Auszahlung zus\u00e4tzlicher Differentiale in den L\u00e4ndern Ecuador, Kolumbien und der Dominikanischen Republik haben.",
+                "location": "Eschborn und Bonn",
+                "name": "GIZ",
+                "publicAllowanceEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Kakao Pro Planteurs: Das Ziel des Projekts ist die Verbesserung der datengest\u00fctzten Entscheidungsfindung und des digitalen Managements von 24 Fairtrade- zertifizierten Kakaokooperativen in der C\u00f4te d\u2018Ivoire durch ein digitalisiertes System zur Verwaltung von Daten, die sich im Besitz der Kooperativen befinden und von diesen kontrolliert werden. Die Projektlaufzeit war von M\u00e4rz 2022 bis November 2023. Insgesamt wurden knapp 400 Personen in den Kooperativen in der Nutzung von Farmforce (einer Software f\u00fcr Datenmanagement) geschult und unterst\u00fctzende Hardware wie Handys oder Tablets wurden verteilt. Nach den Trainings fanden Folgeworkshops statt, um die Einf\u00fchrung und die Digitalisierungsfortschritte des Datenmanagementsystems der Kooperativen zu \u00fcberpr\u00fcfen und sie bei der Umsetzung zu unterst\u00fctzen.",
+                "location": "Eschborn und Bonn",
+                "name": "GIZ",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000838/42676",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-17T09:38:55.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a9/e7/341954/Lobbyregister-Detailansicht-R000838-2024-08-08_14-05-59.pdf",
+        "validFromDate": "2024-08-08T14:05:59.000+02:00",
+        "version": 8
+    },
+    "registerEntryId": 42676,
+    "registerNumber": "R000838",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "AgrarOLkG",
+                        "title": "Gesetz zur St\u00e4rkung der Organisationen und Lieferketten im Agrarbereich",
+                        "url": "https://www.gesetze-im-internet.de/agrarmsg"
+                    },
+                    {
+                        "shortTitle": "LkSG",
+                        "title": "Gesetz \u00fcber die unternehmerischen Sorgfaltspflichten zur Vermeidung von Menschenrechtsverletzungen in Lieferketten",
+                        "url": "https://www.gesetze-im-internet.de/lksg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Fairtrade Deutschland setzt sich f\u00fcr eine menschenrechtlich ambitionierte als auch effektive und effiziente Transponierung der CSDDD in deutsches Recht ein. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_DEVELOPMENT_POLICY",
+                        "de": "Entwicklungspolitik",
+                        "en": "Development policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011541",
+                "statements": [],
+                "title": "Anpassung des deutschen Lieferkettensorgfaltspflichtengesetz an die Europ\u00e4ische Lieferkettenrichtlinie (CSDDD)  "
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GWB",
+                        "title": "Gesetz gegen Wettbewerbsbeschr\u00e4nkungen",
+                        "url": "https://www.gesetze-im-internet.de/gwb"
+                    },
+                    {
+                        "shortTitle": "VgV",
+                        "title": "Verordnung \u00fcber die Vergabe \u00f6ffentlicher Auftr\u00e4ge",
+                        "url": "https://www.gesetze-im-internet.de/vgv_2016"
+                    },
+                    {
+                        "shortTitle": "SektVO",
+                        "title": "Verordnung \u00fcber die Vergabe von \u00f6ffentlichen Auftr\u00e4gen im Bereich des Verkehrs, der Trinkwasserversorgung und der Energieversorgung",
+                        "url": "https://www.gesetze-im-internet.de/sektvo_2016"
+                    },
+                    {
+                        "shortTitle": "KonzVgV",
+                        "title": "Verordnung \u00fcber die Vergabe von Konzessionen",
+                        "url": "https://www.gesetze-im-internet.de/konzvgv"
+                    },
+                    {
+                        "shortTitle": "VergStatVO",
+                        "title": "Verordnung zur Statistik \u00fcber die Vergabe \u00f6ffentlicher Auftr\u00e4ge und Konzessionen",
+                        "url": "https://www.gesetze-im-internet.de/vergstatvo"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Fairtrade Deutschland setzt sich daf\u00fcr ein, dass in der Beschaffung nachhaltige, also umwelt-, klimabezogene und soziale Ziele st\u00e4rker und verbindlicher ber\u00fccksichtigt werden. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_OTHER",
+                        "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                        "en": "Other in the field of \"Economy\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011542",
+                "statements": [],
+                "title": "Verankerung verbindlicher Nachhaltigkeitskriterien im deutschen Vergaberecht "
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

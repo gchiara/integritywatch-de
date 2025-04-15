@@ -1,0 +1,697 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-03-01T11:19:49.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-28T15:37:30.000+01:00",
+        "lastUpdateDate": "2024-06-20T09:09:30.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37551,
+                "validFromDate": "2024-06-20T09:09:30.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23122,
+                "validFromDate": "2023-07-12T08:56:04.000+02:00",
+                "validUntilDate": "2024-06-20T09:09:30.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16838,
+                "validFromDate": "2023-03-01T11:19:49.000+01:00",
+                "validUntilDate": "2023-07-12T08:56:04.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Die National Coalition Deutschland- das Netzwerk zur Umsetzung der UN-Kinderrechtskonvention (kurz: Netzwerk Kinderrechte) ist ein bundesweites Netzwerk mit mehr als 100 Mitgliedsorganisationen, welches sich daf\u00fcr einsetzt, die UN-Kinderrechtskonvention bekannt zu machen Das Netzwerk Kinderrechte begleitet die Umsetzung der UN-KRK in Deutschland, setzt sich f\u00fcr die Einhaltung aller Rechte der Kinder auf Schutz, F\u00f6rderung und Beteiligung ein und st\u00e4rkt das zivilgesellschaftliche Netzwerk. Die Ergebnisse der Zusammenarbeit im Netzwerk flie\u00dfen ma\u00dfgeblich in den Erg\u00e4nzenden Bericht zur Umsetzung der UN-Kinderrechtskonvention an den UN-Ausschuss f\u00fcr die Rechte des Kindes ein, welcher bewertet, wie die Bundesregierung die Verpflichtungen aus der UN-Kinderrechtskonvention umsetzt. Dabei werden Fortschritte aber auch R\u00fcckschritte deutlich. So tr\u00e4gt das Netzwerk Kinderrechte dazu bei, dass Probleme und Handlungsbedarfe erkannt, benannt und von den politisch Verantwortlichen angegangen werden. Das Netzwerk Kinderrechte steht zudem in intensivem Austausch mit anderen deutschen, europ\u00e4ischen und internationalen Netzwerken, es steuert und organisiert dabei die Zusammenarbeit. \r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_SP_DIVERSITY",
+                "de": "Diversit\u00e4tspolitik",
+                "en": "Diversity policy"
+            },
+            {
+                "code": "FOI_SP_FAMILY",
+                "de": "Familienpolitik",
+                "en": "Family policy"
+            },
+            {
+                "code": "FOI_EP_CHILDHOOD",
+                "de": "Vorschulische Bildung",
+                "en": "Early childhood education"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_RPI_REFUGEE",
+                "de": "Asyl und Fl\u00fcchtlingsschutz",
+                "en": "Asylum and refugee protection"
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_RPI_LAWS",
+                "de": "Ausl\u00e4nder- und Aufenthaltsrecht",
+                "en": "Foreign laws"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_SP_GENDER",
+                "de": "Geschlechterpolitik",
+                "en": "Gender politics"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_SP_CHILDREN",
+                "de": "Kinder- und Jugendpolitik",
+                "en": "Child and youth policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_SS_OTHER",
+                "de": "Sonstiges im Bereich \"Soziale Sicherung\"",
+                "en": "Other in the field of \"Social security\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_IS_CYBER",
+                "de": "Cybersicherheit",
+                "en": "Cyber security"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_RPI_INTEGRATION",
+                "de": "Integration",
+                "en": "Integration"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_MEDIA_ADVERTISEMENT",
+                "de": "Werbung",
+                "en": "Advertising"
+            },
+            {
+                "code": "FOI_IS_ANTI_EXTREMISM",
+                "de": "Extremismusbek\u00e4mpfung",
+                "en": "Counter extremism"
+            },
+            {
+                "code": "FOI_SS_BASIC",
+                "de": "Grundsicherung",
+                "en": "Basic security"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_RPI_MIGRATION",
+                "de": "Migration",
+                "en": "Migration and residence"
+            },
+            {
+                "code": "FOI_SP_DISABILITY",
+                "de": "Rechte von Menschen mit Behinderung",
+                "en": "Rights of people with disabilities"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_IS_VICTIM_PROTECTION",
+                "de": "Opferschutz",
+                "en": "Victim protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_SA_ORGANIZATION",
+                "de": "Staatsorganisation",
+                "en": "State organization"
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_MEDIA_FREEDOM_OF_SPEECH",
+                "de": "Meinungs- und Pressefreiheit",
+                "en": "Freedom of speech and freedom of the press"
+            },
+            {
+                "code": "FOI_BUNDESTAG_VOTE",
+                "de": "Wahlrecht",
+                "en": "Suffrage"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/d6/96/299972/Jahrebericht.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/61/67/299971/00-Kinderschutzrichtlinie-Stand-2020-05.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.25,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 40001,
+            "to": 50000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "National Coalition Deutschland",
+            "nationalAdditional2": "Netzwerk Kinderrechte",
+            "street": "Steinstra\u00dfe",
+            "streetNumber": "13",
+            "type": "NATIONAL",
+            "zipCode": "10119"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "kirsten.schweder@netzwerk-kinderrechte.de"
+                },
+                {
+                    "email": "info@netzwerk-kinderrechte.de"
+                },
+                {
+                    "email": "matthias.gawol@netzwerk-kinderrechte.de"
+                }
+            ],
+            "phoneNumber": "+491636863480",
+            "websites": [
+                {
+                    "website": "https://netzwerk-kinderrechte.de/"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Bianka",
+                "lastName": "Pergande",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Jutta",
+                "lastName": "Croll",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "\u00dcwen",
+                "lastName": "Erg\u00fcn",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Kirsten",
+                "lastName": "Schweder",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Cora",
+                "lastName": "Ripking",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr.",
+                "firstName": "Katharina",
+                "lastName": "Gerarts",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Vera",
+                "lastName": "Kalkhoff",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Bianka",
+                "function": "gesch\u00e4ftsf\u00fchrender Vorstand, Sprecherin",
+                "lastName": "Pergande",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Jutta",
+                "function": "gesch\u00e4ftsf\u00fchrender Vorstand",
+                "lastName": "Croll",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "\u00dcwen",
+                "function": "gesch\u00e4ftsf\u00fchrender Vorstand, Sprecher",
+                "lastName": "Erg\u00fcn",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr.",
+                "entrustedPerson": true,
+                "firstName": "Katharina",
+                "function": "gesch\u00e4ftsf\u00fchrender Vorstand",
+                "lastName": "Gerarts",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Vera",
+                "function": "gesch\u00e4ftsf\u00fchrender Vorstand, Schatzmeister:in",
+                "lastName": "Kalkhoff",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-18",
+            "naturalPersons": 1,
+            "organizations": 110,
+            "totalCount": 111
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Eurochild"
+            },
+            {
+                "membership": "Child Rights Connect"
+            },
+            {
+                "membership": "Forum Menschenrechte"
+            },
+            {
+                "membership": "CorA - Netzwerk f\u00fcr Unternehmensverantwortung (Corporate Accoutability)"
+            },
+            {
+                "membership": "Deutsches Institut f\u00fcr Menschenrechte"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "National Coalition Deutschland - Netzwerk zur Umsetzung der UN-Kinderrechtskonvention"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 30001,
+            "to": 40000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Die National Coalition Deutschland wurde im Jahr 2023 aus Mitteln des Kinder- und Jugendplans des Bundes gef\u00f6rdert, um Impulse zur Umsetzung der UN-Kinderrechtskonvention zu initiieren, Kinderrechte in Deutschland bekannt zu machen und das zivilgesellschaftliche Monitoring zur Umsetzung der Kinderrechtskonvention vor dem UN-Ausschuss f\u00fcr die Rechte des Kindes zu begleiten. \r\n\r\n",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend",
+                "publicAllowanceEuro": {
+                    "from": 340001,
+                    "to": 350000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002201/37551",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-20T09:09:30.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/87/d7/299973/Lobbyregister-Detailansicht-R002201-2024-06-20_09-09-30.pdf",
+        "validFromDate": "2024-06-20T09:09:30.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 37551,
+    "registerNumber": "R002201",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die National Coalition Deutschland setzt sich f\u00fcr die Verwirklichung der Kinderrechte in Deutschland ein. Dies geschieht in Anerkennung der zivilgesellschaftlichen Verantwortung, die aus der Konvention folgenden Rechte und Verpflichtungen einzufordern, ihre Bekanntmachung und ihre Weiterentwicklung zu unterst\u00fctzen, sowie die zivilgesellschaftliche \u00dcberwachung der Umsetzung zu f\u00f6rdern. Sie hat ihren Handlungsschwerpunkt in Deutschland; gleichzeitig nimmt sie ihre Verantwortung in der internationalen Zusammenarbeit wahr. Zweck des Zusammenschlusses ist die Verwirklichung der von der UN-Kinderrechtskonvention anerkannten Rechte aller Kinder, um junge Menschen in ihrer individuellen und sozialen Entwicklung zu f\u00f6rdern und dazu beizutragen, Benachteiligung zu vermeiden oder abzubauen. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_SECURITY",
+                        "de": "Soziale Sicherung",
+                        "en": "Social security"
+                    },
+                    {
+                        "code": "FOI_SS_BASIC",
+                        "de": "Grundsicherung",
+                        "en": "Basic security"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_FAMILY",
+                        "de": "Familienpolitik",
+                        "en": "Family policy"
+                    },
+                    {
+                        "code": "FOI_BUNDESTAG",
+                        "de": "Bundestag",
+                        "en": "Bundestag"
+                    },
+                    {
+                        "code": "FOI_BUNDESTAG_VOTE",
+                        "de": "Wahlrecht",
+                        "en": "Suffrage"
+                    },
+                    {
+                        "code": "FOI_EDUCATION_PARENTING",
+                        "de": "Bildung und Erziehung",
+                        "en": "Education and parenting"
+                    },
+                    {
+                        "code": "FOI_EP_SCHOOL",
+                        "de": "Schulische Bildung",
+                        "en": "School education"
+                    },
+                    {
+                        "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                        "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                        "en": "Migration, refugee policy and integration"
+                    },
+                    {
+                        "code": "FOI_RPI_LAWS",
+                        "de": "Ausl\u00e4nder- und Aufenthaltsrecht",
+                        "en": "Foreign laws"
+                    },
+                    {
+                        "code": "FOI_SP_CHILDREN",
+                        "de": "Kinder- und Jugendpolitik",
+                        "en": "Child and youth policy"
+                    },
+                    {
+                        "code": "FOI_EP_CHILDHOOD",
+                        "de": "Vorschulische Bildung",
+                        "en": "Early childhood education"
+                    },
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    },
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CYBER",
+                        "de": "Cybersicherheit",
+                        "en": "Cyber security"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    },
+                    {
+                        "code": "FOI_SP_GENDER",
+                        "de": "Geschlechterpolitik",
+                        "en": "Gender politics"
+                    },
+                    {
+                        "code": "FOI_RPI_MIGRATION",
+                        "de": "Migration",
+                        "en": "Migration and residence"
+                    },
+                    {
+                        "code": "FOI_IS_VICTIM_PROTECTION",
+                        "de": "Opferschutz",
+                        "en": "Victim protection"
+                    },
+                    {
+                        "code": "FOI_RPI_REFUGEE",
+                        "de": "Asyl und Fl\u00fcchtlingsschutz",
+                        "en": "Asylum and refugee protection"
+                    },
+                    {
+                        "code": "FOI_EP_OTHER",
+                        "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                        "en": "Other in the field of \"Education and parenting\""
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003294",
+                "statements": [],
+                "title": "Zivilgesellschaftliches Monitoring zur Umsetzung der UN-Kinderrechtskonvention in Deutschland"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

@@ -1,0 +1,769 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-23T15:18:50.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-25T12:47:19.000+01:00",
+        "lastUpdateDate": "2024-06-24T13:02:02.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 38360,
+                "validFromDate": "2024-06-24T13:02:02.000+02:00",
+                "version": 11,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 31395,
+                "validFromDate": "2024-04-03T16:22:25.000+02:00",
+                "validUntilDate": "2024-06-24T13:02:02.000+02:00",
+                "version": 10,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26357,
+                "validFromDate": "2023-10-24T09:16:26.000+02:00",
+                "validUntilDate": "2024-04-03T16:22:25.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22897,
+                "validFromDate": "2023-07-03T07:57:30.000+02:00",
+                "validUntilDate": "2023-10-24T09:16:26.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22441,
+                "validFromDate": "2023-06-28T09:54:52.000+02:00",
+                "validUntilDate": "2023-07-03T07:57:30.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16542,
+                "validFromDate": "2023-02-23T15:18:50.000+01:00",
+                "validUntilDate": "2023-06-28T09:54:52.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION_V2",
+            "de": "Sonstiges Unternehmen",
+            "en": "Other company"
+        },
+        "activityDescription": "Die Lausitz Energie Bergbau AG und die Lausitz Energie Kraftwerke AG treten unter der gemeinsamen Marke LEAG auf. Die Lausitz Energie Bergbau AG betreibt die Braunkohlegewinnung in den drei Lausitzer Tagebauen sowie die Veredlung des Rohstoffs im Industriepark Schwarze Pumpe. Durch zeitnahe Rekultivierung der Tagebaue schafft sie eine sichere und nachhaltig nutzbare Bergbaufolgelandschaft. Dar\u00fcber hinaus werden Industriedienstleistungen in den Bereichen Maschinen- und Stahlbau sowie in der Wartung und Instandhaltung von Schienenfahrzeugen angeboten.\r\n\r\nZum Zwecke der Interessenvertretung werden Gespr\u00e4che mit Vertreterinnen und Vertretern der Bundesregierung, den Bundesministerien und den Mitgliedern des Deutschen Bundestages sowie deren Mitarbeitern zu allen f\u00fcr die Gesch\u00e4ftsfelder der Lausitz Energie Kraftwerke AG relevanten energie- klima- und umweltpolitischen Rahmenbedingungen, insbesondere zu laufenden Gesetz- und Verordnungsgebungsverfahren gef\u00fchrt. Dar\u00fcber hinaus werden in Einzelf\u00e4llen Stellungnahmen und Gutachten zu konkreten Regelungsvorhaben erarbeitet und \u00fcbermittelt.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_IS_CYBER",
+                "de": "Cybersicherheit",
+                "en": "Cyber security"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_RP_OTHER",
+                "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                "en": "Other in the field of \"Spatial planning, construction and housing\""
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_BUNDESTAG_PARLIAMENTARY",
+                "de": "Parlamentarisches Verfahren",
+                "en": "Parliamentary procedure"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_IS_OTHER",
+                "de": "Sonstiges im Bereich \"Innere Sicherheit\"",
+                "en": "Other in the field of \"Internal security\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/7f/cd/306882/2023_Geschaeftsbericht-LE-B.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 3.5,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 450001,
+            "to": 460000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Cottbus",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Leagplatz",
+            "streetNumber": "1",
+            "type": "NATIONAL",
+            "zipCode": "03050"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "politik@leag.de",
+            "phoneNumber": "+4930810363036",
+            "street": "Friedrichstra\u00dfe",
+            "streetNumber": "100",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@leag.de"
+                }
+            ],
+            "phoneNumber": "+4935528870",
+            "websites": [
+                {
+                    "website": "www.leag.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Thorsten",
+                "lastName": "Kramer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Markus",
+                "lastName": "Binder",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr. Ing.",
+                "firstName": "Philipp",
+                "lastName": "Nellessen",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "J\u00f6rg",
+                "lastName": "Waniek",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Wolfgang",
+                "lastName": "Dirschauer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Daniel",
+                "lastName": "Genz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Jan",
+                "lastName": "Conrady",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Maren",
+                "lastName": "Jasper-Winter",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Alexandra",
+                "lastName": "Bakir",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Sophia",
+                "lastName": "Bellmann",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_AG",
+            "de": "Aktiengesellschaft (AG)",
+            "en": "Stock company (AG)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Thorsten",
+                "function": "Vorsitzender des Vorstands",
+                "lastName": "Kramer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Markus",
+                "function": "Vorstand",
+                "lastName": "Binder",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr. Ing.",
+                "entrustedPerson": true,
+                "firstName": "Philipp",
+                "function": "Vorstand",
+                "lastName": "Nellessen",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "J\u00f6rg",
+                "function": "Vorstand",
+                "lastName": "Waniek",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Deutscher Braunkohlen-Industrie-Verein e.V. "
+            },
+            {
+                "membership": "Bundesverband WindEnergie e.V."
+            },
+            {
+                "membership": "Weltenergierat Deutschland e.V."
+            },
+            {
+                "membership": "AGFW -  Der Energieeffizienzverband f\u00fcr W\u00e4rme, K\u00e4lte und KWK e. V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Lausitz Energie Bergbau AG"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "F\u00f6rderkennzeichen 03WIR2710A - Projekt Afiin Projektf\u00f6rderung auf Kostenbasis: Personalkosten- und Aufwandsf\u00f6rderung f\u00fcr die Erarbeitung der Arbeitspakete im Projekt",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 90001,
+                    "to": 100000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "F\u00f6rderkennzeichen 02L19C314 - Projekt PAL KI Projektf\u00f6rderung auf Kostenbasis - TSS: Personalkosten- und Aufwandsf\u00f6rderung f\u00fcr die Erarbeitung der Arbeitspakete im Projekt",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "F\u00f6rderkennzeichen 03WIR0103B - Projekt Bergbau-Consulting 4.0 Projektf\u00f6rderung auf Kostenbasis: Personalkosten- und Aufwandsf\u00f6rderung f\u00fcr die Erarbeitung der Arbeitspakete im Projekt",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001588/38360",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-24T13:02:02.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/6f/d7/306887/Lobbyregister-Detailansicht-R001588-2024-06-24_13-02-02.pdf",
+        "validFromDate": "2024-06-24T13:02:02.000+02:00",
+        "version": 11
+    },
+    "registerEntryId": 38360,
+    "registerNumber": "R001588",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EEG 2023",
+                        "title": "Gesetz f\u00fcr den Ausbau erneuerbarer Energien",
+                        "url": "https://www.gesetze-im-internet.de/eeg_2014"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Vorschlag f\u00fcr eine \u00c4nderung des EEG durch eine Streichung des 20 MW-F\u00f6rderdeckels f\u00fcr Freifl\u00e4chenphotovoltaikanlagen, insbesondere f\u00fcr solche, die auf Konversionsfl\u00e4chen errichtet werden",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/086/2008657.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMWK",
+                                "title": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                                "url": "https://www.bmwk.de/Navigation/DE/Home/home.html"
+                            }
+                        ],
+                        "printingNumber": "20/8657",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-%C3%A4nderung-des-erneuerbare-energien-gesetzes-und-weiterer-energiewirtschaftsrechtlicher/302870",
+                        "title": "Entwurf eines Gesetzes zur \u00c4nderung des Erneuerbare-Energien-Gesetzes und weiterer energiewirtschaftsrechtlicher Vorschriften zur Steigerung des Ausbaus photovoltaischer Energieerzeugung"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0004621",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/87/cf/306883/Stellungnahme-Gutachten-SG2406210039.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-14"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0004621",
+                        "regulatoryProjectTitle": "\u00c4nderung des EEG durch Streichung 20 MW-F\u00f6rderdeckels bei Freifl\u00e4chen-Photovoltaik insbesondere auf Konversionsfl\u00e4chen",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Wie Konversionsfl\u00e4chen\r\ndie Energiewende\r\nbeschleunigen k\u00f6nnen\r\nVerbesserung der Investitionsbedingungen f\u00fcr\r\nPV Freifl\u00e4chenanlagen auf Konversionsfl\u00e4chen\r\n\r\nPV\r\nProjekte auf\r\nKonversionsfl\u00e4chen:\r\n\uf050 gro\u00dffl\u00e4chig\r\n\uf050 k onfliktarm\r\n\uf050 kurzfristig umsetzbar\r\n\uf0a7Kurzfristig umsetzbares\r\nFl\u00e4chenpotenzial von 5,5 GW\r\nSolarenergie alleine in der Lausitz.\r\n\uf0a7Konversionsfl\u00e4chen sind durch die Vornutzung vorbelastet und\r\ndaher besonders gut f\u00fcr gro\u00dffl\u00e4chige PV Anlagen geeignet\r\n\uf0a7Der PV\r\nAusbau auf Konversionsfl\u00e4chen minimiert die\r\nFl\u00e4chenkonkurrenz insbesondere zu Fl\u00e4chen mit hoher\r\nBodeng\u00fcte.\r\n\uf0a7Der\r\nAbstand zur Wohnbebauung ist zumeist hoch, mit\r\npositiver Auswirkung auf die \u00f6ffentliche Akzeptanz.\r\n\uf0a7Die Projektpotenziale sind\r\nkurzfristig umsetzbar.\r\n\uf0a7PV\r\nAusbau auf Konversionsfl\u00e4chen f\u00f6rdert Regionen und\r\nUnternehmen, die vom Strukturwandel betroffen sind und\r\nunterst\u00fctzt deren Neuausrichtung.\r\n\r\nPush\r\nEffekt f\u00fcr PV\r\nAusbau in der Lausitz\r\n\uf0a7 Von dem umsetzbaren Fl\u00e4chenpotenzial von 5,5 GW\r\nSolarenergie auf Konversionsfl\u00e4chen in der Lausitz\r\nsind nach aktuellem Rechtsstand nur 10%\r\nf\u00f6rderf\u00e4hig (Gr\u00fcnde: Projektgr\u00f6\u00dfen von deutlich\r\n\u00fcber 100 MW, 20 MW Deckel der EEG\r\nAusschreibung und Anlagenzusammenfassung).\r\n\uf0a7 Die restlichen\r\n90% der Projektpotenziale sind\r\naufgrund der Vorbelastung gegen\u00fcber\r\nkonkurrierenden Landwirtschaftsfl\u00e4chen\r\nwirtschaftlich benachteiligt\r\n\uf0a7 Daher besteht ein Risiko, dass ein\r\ngro\u00dfer Teil der\r\nProjekte auf Konversionsfl\u00e4chen nach aktuellem\r\nRechtsstand nicht wirtschaftlich umgesetzt werden\r\nkann .\r\n\r\nBundesweiter Push\r\nEffekt\r\nf\u00fcr Freifl\u00e4chen PV\r\n\uf0e8 Daher:\r\nDie Nutzung der Konversionsfl\u00e4chen aus wirtschaftlicher Vornutzung sollte\r\ngezielt angereizt werden und bestehende Hemmnisse bei den\r\nF\u00f6rdertatbest\u00e4nden beseitigt werden.\r\n\r\n\uf0e8\r\nVorschlag zur Umsetzung:\r\nAufhebung des 20 MW Deckels f\u00fcr Freifl\u00e4chenanlagen auf Konversionsfl\u00e4chen aus wirtschaftlicher Nutzung\r\n\u00a7\r\n37 Abs. 3 EEG sollte wie folgt erg\u00e4nzt werden:\r\n(3) In Erg\u00e4nzung zu den Anforderungen nach\r\n\u00a7 30 darf die Gebotsmenge bei den Ausschreibungen f\u00fcr Solaranlagen des ersten Segments\r\npro Gebot eine zu installierende Leistung von 20 Megawatt nicht \u00fcberschreiten , es sei denn die Anlage befindet sich auf einer\r\nKonversionsfl\u00e4che aus wirtschaftlicher Nutzung nach \u00a7 37 Absatz 1 Nummer 2 Buchstabe b\r\n\u00a7\r\n38a Abs. 1 Ziffer 5a EEG sollte wie folgt erg\u00e4nzt werden:\r\n\u201e5. soweit bei Freifl\u00e4chenanlagen\r\na) die installierte Leistung von 20 Megawatt nicht \u00fcberschritten wird,\r\nes sei denn die Anlage befindet sich auf einer Konversionsfl\u00e4che\r\naus wirtschaftlicher Nutzung nach \u00a7 37 Absatz 1 Nummer 2 Buchstabe b ,\r\n\uf0e8\r\nRechtliche Ausgangssituation\r\n\uf0a7\r\nDerzeit ist die F\u00f6rderf\u00e4higkeit von PV\r\nFreifl\u00e4chenanlagen im EEG auf eine Gr\u00f6\u00dfe von 20 MW begrenzt.\r\n\uf0a7\r\nDie\r\nAnlagenzusammenfassung nach \u00a7 24 Abs. 2 EEG behindert gr\u00f6\u00dfere zusammenh\u00e4ngende Konversionsfl\u00e4chen , da binnen 24\r\nMonaten nur ein Bruchteil der m\u00f6glichen Anlagen gef\u00f6rdert werden kann.\r\n\r\nAufhebung des 20 MW\r\nDeckels f\u00fcr Freifl\u00e4chen PV Anlagen auf\r\nKonversionsfl\u00e4chen f\u00f6rdert den bundesweiten Solarausbau\r\nGr\u00f6\u00dfendeckel im EEG f\u00fcr\r\nKonversionsfl\u00e4chen\r\nMW F\u00f6rderf\u00e4hig\r\nAnteil F\u00f6rderf\u00e4hig\r\n20 MW\r\n0,5 GW\r\n10%\r\n80 MW\r\n1,4 GW\r\n25%\r\nKein Deckel\r\n5,5 GW\r\n100%\r\nAlleine in der Lausitz l\u00e4sst sich der PV\r\nAusbau um 5 GW anheben.\r\nEine\r\nAnhebung des 20 MW Deckels auf 80 MW w\u00fcrde den f\u00f6rderf\u00e4higen Anteil der Anlagen nur\r\nvon 10% auf 25% erh\u00f6hen. Eine komplette Aufhebung des Deckels w\u00fcrde den f\u00f6rderf\u00e4higen\r\nAnteil auf 100% erh\u00f6hen."
+                        }
+                    }
+                ],
+                "title": "\u00c4nderung des EEG durch Streichung 20 MW-F\u00f6rderdeckels bei Freifl\u00e4chen-Photovoltaik insbesondere auf Konversionsfl\u00e4chen"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EnWG",
+                        "title": "Gesetz \u00fcber die Elektrizit\u00e4ts- und Gasversorgung",
+                        "url": "https://www.gesetze-im-internet.de/enwg_2005"
+                    },
+                    {
+                        "shortTitle": "EEG 2023",
+                        "title": "Gesetz f\u00fcr den Ausbau erneuerbarer Energien",
+                        "url": "https://www.gesetze-im-internet.de/eeg_2014"
+                    },
+                    {
+                        "shortTitle": "BNatSchG",
+                        "title": "Gesetz \u00fcber Naturschutz und Landschaftspflege",
+                        "url": "https://www.gesetze-im-internet.de/bnatschg_2009"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Vorschl\u00e4ge zur Verbesserung der Verl\u00e4sslichkeit und Konsistenz von  Energiewende-Investitionen, insbesondere:\r\n- zeitnahe Vorlage und Umsetzung einer diskriminierungsfreien Kraftwerksstrategie/Ausschreibung neuer Kraftwerkskapazit\u00e4ten\r\n- Verbesserung der Investitionsbedingungen in H2-Infrastruktur\r\n- Synchronisierung des weiteren Ausbaus der erneuerbaren Energien mit Stromnetzkapazit\u00e4ten durch Anpassungen des EEG und EnWG\r\n- weitere Beschleunigung des Verteilnetzausbaus durch Anpassungen des EnWG und BNatSchG",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_NET",
+                        "de": "Energienetze",
+                        "en": "Energy networks"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_FOSSILE",
+                        "de": "Fossile Energien",
+                        "en": "Fossil fuels"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004622",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/52/82/306885/Stellungnahme-Gutachten-SG2406210040.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-19"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0004622",
+                        "regulatoryProjectTitle": "Vorschl\u00e4ge zur Steigerung der Versorgungssicherheit und Energietransformation f\u00fcr einen starken Standort Ostdeutschland",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "1\r\nVersorgungssicherheit und Energietransformation f\u00fcr einen starken Standort Ostdeutschland\r\nUns als Unternehmen verbindet der gemeinsame Auftrag und die damit zusammenh\u00e4n-gende Verantwortung, die Energieversorgung der ostdeutschen Region sicherzustellen. Dabei haben wir Gegenwart und Zukunft im Blick. Wir leisten mit unserer Expertise und Transformationserfahrung einen wesentlichen Beitrag zu einer effizienten und damit erfolgreichen Energiewende.\r\nUnser Erfolg ist eng verbunden mit der Transformation des Wirtschafts- und Energie-standortes Ostdeutschland. Nur mit auch zuk\u00fcnftig starken und wertsch\u00f6pfenden Un-ternehmen und der Akzeptanz der Menschen vor Ort wird die Energiewende hier in der Region erfolgreich sein. Ein entscheidender Standortvorteil Ostdeutschlands f\u00fcr bestehende und k\u00fcnftige Ansiedlungen von Unternehmen sind nutzbar gemachte, sprich in die Netzinfrastruktur integrierte, gr\u00fcne Energien. Privatwirtschaftliche Investitionen zur Sicherung des Wirtschaftsstandortes Ostdeutschland bed\u00fcrfen jedoch verl\u00e4sslicher und ad\u00e4quater Rahmenbedingungen sowie einer konsistenten Strategie f\u00fcr Energie, Wirtschaft und Industrie mit klarer Perspektive f\u00fcr Ost-deutschland.\r\nUnser aller Ziel ist es, Wertsch\u00f6pfung in Ostdeutschland nicht nur zu sichern, sondern auszubauen. Denn eine erfolgreiche Energiewende braucht erfolgreiche Unternehmen, die in der Lage sind, in die Transformation zu investieren. Dabei ist, wie auch f\u00fcr die Unternehmen, f\u00fcr die nachhaltige Akzeptanz in der Bev\u00f6lkerung zudem gesamtsystemische Kosteneffizienz Grundvoraussetzung.\r\nEnergiewende-Investitionen brauchen Verl\u00e4sslichkeit und Konsistenz\r\nAus unserer Sicht sehen wir folgenden konkreten Handlungsbedarf, damit die Energiewende in unserer Region gelingt:\r\n1.\r\nDie seit 2022 diskutierte Kraftwerksstrategie muss endlich in die Praxis umgesetzt werden. Daf\u00fcr brau-chen wir schnellstm\u00f6glich von Br\u00fcssel genehmigte Ausschreibungen.\r\n2.\r\nBei der Ausgestaltung der Ausschreibungen braucht es eine diskriminierungsfreie und kluge Verteilung der neuen Kraftwerkskapazit\u00e4ten. Klar ist: Aus Gr\u00fcnden der Systemdienlichkeit m\u00fcssen auch Standorte in Ostdeutschland zum Zuge kommen. Dies kann sowohl bestehende Kraftwerksstandorte als auch die ostdeutschen Regionen einschlie\u00dfen, in denen bis dato wenig bzw. keine Gro\u00dfkraftwerkskapazit\u00e4t f\u00fcr die Bereitstellung von flexibler Stromerzeugung zur Verf\u00fcgung steht.\r\n3.\r\nInvestitionen in klimaneutrale Gaskraftwerke erfordern Verl\u00e4sslichkeit und wirtschaftliche Vernunft bei Wasserstoff. Die Rahmenbedingungen f\u00fcr den Aufbau des H2-Kernnetzes und auch die H2-Verteilnetze m\u00fcssen so gestaltet werden, dass privatwirtschaftliche Investitionen in diese Infrastruktur kapitalmarkt-f\u00e4hig sind. Der Anschluss der heute bestehenden Kraftwerksstandorte, aber auch der Anschluss der ost-deutschen Industrie an die Wasserstoffnetze, ist f\u00fcr eine gute Entwicklungsperspektive dieser Standorte zwingend notwendig.\r\n4. Die Stromnetze sind der Schl\u00fcssel f\u00fcr den Erfolg der Energiewende. Desto schneller diese in der H\u00f6chst- und insbesondere auch in der Hochspannungsebene ausgebaut werden k\u00f6nnen bzw., je besser der Zubau der erneuerbaren Energien (eE) mit den vorhanden Stromnetzkapazit\u00e4ten synchronisiert wird, desto mehr eE-Strom kann nutzbar gemacht werden. In diesem Sinne sollte der Netzanschluss an einem bekannten Netzengpass erst nach Abschluss der Netzausbauma\u00dfnahmen erfolgen.\r\n\u2794\r\nDies ist in \u00a7 8 Abs. 4 EEG eindeutig zu regeln, um eine unterschiedliche Gesetzesauslegung zu vermeiden. Vorteil dieses Vorgehens ist, dass weitere Redispatch-Ma\u00dfnahmen und damit verbun-dene Ausgleichszahlungen vermieden werden k\u00f6nnen.\r\nZudem k\u00f6nnte ein Redispatch-Vorbehalt eingef\u00fchrt werden. Erneuerbare-Energien-Anlagen, die sich be-wusst an einem bekannten Netzengpass anschlie\u00dfen lassen, erhalten so lange keinen finanziellen Aus-gleich f\u00fcr die von den Netzbetreibern vorgenommenen Leistungsreduzierungen, bis der Netzausbau abgeschlossen und der Engpass beseitigt ist. Damit k\u00f6nnen Redispatch-Kosten vermindert werden.\r\n\u2794\r\nHierzu sind \u00a7 8 EEG und \u00a7 13 a EnWG entsprechend anzupassen oder zu erg\u00e4nzen.\r\n2\r\nNicht nur Planungs- und Genehmigungsverfahren f\u00fcr den Ausbau der erneuerbaren Energien, sondern insbesondere auch f\u00fcr den Ausbau der Verteilnetze m\u00fcssen beschleunigt und digitalisiert werden. Hierzu z\u00e4hlt z. B. das vereinfachte Verfahren f\u00fcr den Ersatzneubau in bestehenden Trassen bzw. die Ge-nehmigungsfreiheit f\u00fcr kleinere Ma\u00dfnahmen (z. B. Mast- oder Leiterseilwechsel). F\u00fcr die Erweiterungen innerhalb bestehender Trassen sollten unn\u00f6tige Genehmigungsverfahren vollst\u00e4ndig entfallen.\r\n\u2794\r\nUm dies umzusetzen ist eine Anpassung von \u00a7 43 Abs. 1 EnWG notwendig. Dies schlie\u00dft auch das An-zeigeverfahren gem\u00e4\u00df \u00a7 43f EnWG mit ein, gem\u00e4\u00df dem eine umfassende Pr\u00fcfung inkl. landschafts-pflegerischem Begleitplan, Kartierung etc. nach BNatSchG \u00a7 17 (4) vorgenommen wird.\r\nAuch eine gemeinsame Datenbasis (Tools) und die l\u00e4ngere G\u00fcltigkeit von Kartierungsergebnissen oder die Wiedereinf\u00fchrung der materiellen Pr\u00e4klusion im Umweltschutz kann einen beschleunigten Ausbau bewirken.\r\n\u2794\r\nIm \u201eBeschleunigungspakt\u201c k\u00fcndigen Bund und L\u00e4nder an, Konzepte f\u00fcr die Schaffung eines bundes-weiten Umweltdatenkatasters und einer bundesweiten Gutachtendatenbank zu entwickeln. Vorha-benbezogen erhobene Kartierungsdaten sollen gesetzlich verpflichtend zu \u00f6ffentlich zug\u00e4nglichen Quellen erkl\u00e4rt werden k\u00f6nnen und in dem Kataster ver\u00f6ffentlicht werden. Diese Absichtserkl\u00e4rung ist ein erster wichtiger Schritt, nun gilt es die Umsetzung voranzutreiben!\r\n\u2794\r\nDoppelte Kartierungen kosten uns im Schnitt 1,5 Jahre in der Umsetzung. Dar\u00fcber hinaus ist die bis-herige Praxis, Umweltgutachten nach ca. 5 Jahren einer Aktualisierung zu unterziehen, angesichts der Dauer von Planungs- und Genehmigungsverfahren nicht f\u00f6rderlich. Die G\u00fcltigkeit von Umwelt-gutachten sollte durch eine Anpassung von \u00a7 75 VwVfG auf 10 Jahre ausgeweitet werden, um Planungssicherheit zu gew\u00e4hrleisten.\r\n5.\r\nVor dem Hintergrund der Ziele des Osterpakets f\u00fcr 2030 und der damit verbundenen immensen Investi-tionen in den Ausbau der Stromnetze, besonders auch in Ostdeutschland, ben\u00f6tigen die Stromnetzbe-treiber verl\u00e4ssliche und f\u00fcr die Refinanzierung ad\u00e4quate regulatorische Rahmenbedingungen, um den Netzausbau und die Transformation umsetzen zu k\u00f6nnen. Dazu z\u00e4hlt insbesondere eine im internationa-len Vergleich angemessene Verzinsung des eingesetzten Eigenkapitals. Dies f\u00e4llt in den Aufgabenbereich der BNetzA und ist im Rahmen der Novelle der Anreizregulierungsverordnung zu ber\u00fccksichtigen.\r\n6.\r\nDer Hochlauf der Wasserstoffwirtschaft wird nur gelingen, wenn er auf konsistenten und verl\u00e4sslichen Strategien beruht \u2013 alle Zahnr\u00e4der m\u00fcssen ineinandergreifen. Die H2-Importstragie, H2-Speicherstrategie und die Carbon Management Strategie m\u00fcssen daher schnellstm\u00f6glich ver\u00f6ffentlicht und praktisch um-gesetzt werden. Zahlreiche Zukunftsprojekte verbleiben sonst in Wartestellung.\r\nH2-Importstrategie:\r\n\u2794\r\nUm Planungssicherheit zu gew\u00e4hrleisten, Marktdisruptionen zu vermeiden und insbesondere um langfristige Liefervertr\u00e4ge f\u00fcr H2 schnellstm\u00f6glich abschlie\u00dfen zu k\u00f6nnen, sollte in der H2-Im-portstrategie das sogenannte \u201eGrandfathering\u201c zum Schutz vor dem Einfluss neuer Regularien explizit verankert werden.\r\n\u2794\r\nDar\u00fcber hinaus bedarf es der Entwicklung von Absicherungsinstrumenten f\u00fcr Importrisiken f\u00fcr Midstreamer, damit diese ihrer Funktion im Markt nachkommen k\u00f6nnen.\r\n\u2794\r\nJedwede zeitliche Befristung der \u00dcbergangszeit bis zur vollst\u00e4ndigen Verstromung von H2 h\u00e4ngt von der zu diesem Zeitpunkt auch tats\u00e4chlich verf\u00fcgbaren Menge von H2 ab; dies sicherzustellen liegt nicht im Einfluss- und Verantwortungsbereich der Kraftwerksbetreiber.\r\nH2-Speicherstrategie:\r\n\u2794\r\nIm Rahmen der H2-Speicherstrategie sollte fr\u00fchestm\u00f6glich ein Dialogformat zwischen den Gesell-schaftern/Investoren der Speicherbetreiber, den Betreibern selbst und dem BMWK zur Ausgestal-tung eines Finanzierungsmechanismus etabliert werden. Dies bietet die Chance, z\u00fcgig den Aufbau der erforderlichen Wasserstoffspeicherkapazit\u00e4ten anzureizen und damit Kongruenz zum H2-Hoch-lauf herzustellen.\r\nCarbon Management Strategie (CMS):\r\n\u2794\r\nZwischen der Bereitstellung von abgeschiedenem CO2 und der Abnahme zum Zweck der Nutzung oder der Speicherung kann es zu Verz\u00f6gerungen kommen, die die Prozesskette in signifikantem Ma\u00dfe negativ beeinflussen. Um diese Schwankungen abzupuffern und damit auch das Transportsys-tem zu optimieren, ist eine integrierte, tempor\u00e4re onshore Zwischenspeicherung von CO2 unerl\u00e4sslich. Diese Zwischenspeicherung kann in oberirdischen Beh\u00e4ltern erfolgen, die aber nur \u00fcber ein begrenztes Volumen verf\u00fcgen oder in unterirdischen Salzkavernen, wie sie f\u00fcr die tempor\u00e4re Speicherung von Erdgas eingesetzt werden. Gerade Salzkavernen verf\u00fcgen \u00fcber ein gro-\u00dfes Volumen in Verbindung mit einem hohen Ma\u00df an Flexibilit\u00e4t bei der Ein- und Ausspeicherung. Da Salzkavernen keinen Kontakt zu Grundwasser haben, ist eine Gef\u00e4hrdung desselben ausge-schlossen. Vor diesem Hintergrund sollte die CMS die Zwischenspeicherung von CO2 und damit zu-sammenh\u00e4ngende Fragen, etwa zur Finanzierung und zur Regulatorik, in den Blick nehmen.\r\n3\r\n7.\r\nDie Nationale Biomassestrategie (NABIS) muss zeitnah ver\u00f6ffentlicht werden und so ausgestaltet sein, dass Biogas, Biomethan und feste Biomasse heute und in Zukunft ihren optimalen Beitrag zur Versor-gungssicherheit und klimaneutralen sowie preiswerten Energie- und W\u00e4rmeversorgung leisten k\u00f6nnen.\r\nBezugnehmend auf die Ziele und Leitprinzipien der NABIS (Stand 02/24) und v. a. Ma\u00dfnahme 4 (Kaska-denprinzip in allen rechtlichen und f\u00f6rderpolitischen Instrumenten als Grundsatz beachten; keine Be-g\u00fcnstigung einer energetischen Nutzung, wenn stoffliche Nutzung m\u00f6glich ist):\r\n\u2794\r\nGrunds\u00e4tzlich sind Biogasanlagen mehr als \u201enur\u201c Stromerzeugungs- bzw. Energieanlagen zu be-trachten. Die Stromerzeugung geht immer mit der W\u00e4rmeerzeugung einher. Bei der Biomethaner-zeugung richtet sich die Verwendung nach den Absatzm\u00f6glichkeiten bzw. der Nachfrage. Biomethan kann wie auch das gleichzeitig anfallende Kohlenstoffdioxid immer auch stofflich in einer Kaskade genutzt werden. Weitere Produkte (Plattformchemikalien, Fasern) k\u00f6nnen vor, w\u00e4hrend oder am Ende der Biogasproduktion entstehen und die Transformation der Volkswirtschaft in eine \u00c4ra ohne fossile Rohstoffe unterst\u00fctzen. G\u00e4rprodukte fallen grunds\u00e4tzlich bei der Biogasproduktion als stoff-liches Produkt an und werden in der Regel als D\u00fcnger in der Landwirtschaft genutzt. Vor diesem Hintergrund sollte auf eine ordnungsrechtliche Regelung zur Nutzungskaskade verzichtet werden. Mindestens sollte der Kaskadenbegriff f\u00fcr Biogas jedoch weiter gefasst werden.\r\n\u2794\r\nFeste Biomasse erlaubt in den kommenden Jahren eine schnelle Dekarbonisierung von Raum und Prozessw\u00e4rme vor allem in der Industrie. Bereits heute werden S\u00e4gerestabf\u00e4lle noch nicht vollst\u00e4n-dig genutzt; durch den notwendigen Waldumbau werden diese Potenziale auch weiter steigen. Eine angedachte CO2-Bepreisung von fester Biomasse in Deutschland f\u00fcr nach der RED III als nachhaltig zertifizierte Biomasse ist sch\u00e4dlich und unbegr\u00fcndet. Die umfassende CO2-Bepreisung im europ\u00e4i-schen und nationalen Emissionshandel bepreist die Vorkettenemissionen aus Anbau, Verarbeitung und Transport zumindest f\u00fcr deutsche Biomasse schon umfassend. W\u00fcrde Deutschland als einziger Mitgliedstaat nachhaltige Biomasse separat bepreisen, f\u00fchrte dies zu massiven Biomasseexporten und entsprechenden Marktverwerfungen.\r\n8.\r\nWettbewerbsf\u00e4hige Energie ist grundlegend f\u00fcr die wirtschaftliche Entwicklung Ostdeutschlands, daher m\u00fcssen die Kosten der Energiewende im Blick behalten werden. Dabei wird es zum einen darauf ankom-men, unn\u00f6tige Kosten zu reduzieren, etwa durch die Umstellung neuer HG\u00dc-Leitungen aus dem aktuel-len Netzentwicklungsplan auf Freileitungen. Gleichzeitig werden in der Hochspannungsebene zuneh-mend mehr Kabell\u00f6sungen ben\u00f6tigt, um den Transport des eE-Stroms \u00fcber die Freileitungen flankieren zu k\u00f6nnen. Zum anderen kann es zielf\u00fchrend sein, durch einen Bundeszuschuss die Netzentgelte in der H\u00f6chstspannung zu stabilisieren.\r\nErg\u00e4nzende Punkte aus dem Gespr\u00e4ch\r\n1.\r\nEin Vorrang im Netzanschlussverfahren f\u00fcr industrielle Verbraucher in Ostdeutschland (Lastkompo-nente Ost) kann dazu beitragen, erneuerbare Energien besser zu nutzen, statt abzuregeln und dadurch Verteilnetze zu entlasten. Dies gilt insbesondere f\u00fcr den l\u00e4ndlichen Raum, weniger f\u00fcr den Speckg\u00fcrtel von Ballungsr\u00e4umen. (Vorschlag enviaM)\r\nNach aktueller Regelung gem\u00e4\u00df \u00a7 8 EEG und \u00a7 17 EnWG gilt \u201efirst come first serve\u201c f\u00fcr den Anschluss so-wohl f\u00fcr Einspeiser (eE-Erzeugungsanlagen) als auch f\u00fcr Verbraucher (Haushalte, Unternehmen, usw.). Vor dem Hintergrund des Netzanschlussbooms sollte die M\u00f6glichkeit geschaffen werden, Netzanschluss-begehren nach Ma\u00dfgabe des Projektreifegrades und der Netzdienlichkeit zu priorisieren. Dadurch kann etwa Last eher an das Verteilnetz gebracht werden, die dazu beitr\u00e4gt, gr\u00fcne Energie zu nutzen, Abrege-lung einzuschr\u00e4nken (nutzen statt abregeln) sowie Redispatch-Kosten und Netzausbau zu mindern. Es braucht eine Anpassung von \u00a7 17 EnWG, der die Priorisierung von Netzanschlusspflichten regelt.\r\n2.\r\nErneuerbare Energien st\u00e4rker zu nutzen, anstelle diese abzuregeln, ist sachlich, netz- und volkswirt-schaftlich sinnvoll. Hierzu k\u00f6nnen z.B. netzdienliche Anlagen und Speicher (Elektrolyseure & Batterie-speicher) unter ver\u00e4nderten Rahmenbedingungen einen wichtigen Beitrag leisten, um flexibel agie-ren und Flexibilit\u00e4ten nutzen zu k\u00f6nnen. (Vorschlag enviaM)\r\n\u2794\r\nBatteriespeicher attraktiver machen durch eine Anpassung von \u00a7 9 Abs. 1 Nr.3 a) Stromsteuergesetz, um Strom, der f\u00fcr Ein- und Ausspeisung in Batteriespeicher genutzt wird, von der Stromsteuer zu befreien.\r\n\u2794\r\nSystemdienliche Elektrolyse f\u00f6rdern! Die Bundesregierung sollte die bereits in \u00a7 96 Nr. 9 WindSeeG bestehende Regelung nutzen, die besagt, dass j\u00e4hrlich 500 MW Elektrolyseleistung bis 2028 durch das BMWK ausgeschrieben werden k\u00f6nnen. F\u00fcr den Aufbau der nationalen H2-Wirtschaft und um die Wertsch\u00f6pfung in (Ost-) Deutschland zu halten, w\u00e4re dies ein wichtiges Signal. Dar\u00fcber hinaus gibt die RED III vor, dass 42 % des in der Industrie eingesetzten H2 bis 2030 gr\u00fcn sein sollen. Die aktuel-len F\u00f6rdermechanismen werden nicht ausreichen, um dieses Ziel zu erreichen. Die Bundesregierung sollte aufzeigen, mit welchen Ma\u00dfnahmen sie dieses Ziel verl\u00e4sslich erreichen will.\r\n4\r\nGemeinsam f\u00fcr die Energiezukunft Ostdeutschlands\r\nMit seiner strategischen Lage, hervorragenden Infrastruktur und grundlegenden Transformationserfahrung ist die Region Ostdeutschland ein attraktiver Wirtschafts- und Industriestandort. Diesen Standort im Sinne der Energie-wende umzubauen, gelingt nur im Zusammenspiel von Politik, Wirtschaft, Wissenschaft und Gesellschaft. Wir ap-pellieren an die politischen Entscheidungstr\u00e4ger, unsere Handlungsempfehlungen aufzunehmen, denn von einer ostdeutschen industriellen Erfolgsgeschichte profitiert die Transformation im ganzen Land.\r\nWir als Unterzeichner wollen vorangehen, haben Zukunftsprojekte f\u00fcr den Standort Ostdeutschland initiiert und stehen jederzeit als Ansprechpartner bereit."
+                        }
+                    }
+                ],
+                "title": "Vorschl\u00e4ge zur Steigerung der Versorgungssicherheit und Energietransformation f\u00fcr einen starken Standort Ostdeutschland"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/87/cf/306883/Stellungnahme-Gutachten-SG2406210039.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-14"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0004621",
+                "regulatoryProjectTitle": "\u00c4nderung des EEG durch Streichung 20 MW-F\u00f6rderdeckels bei Freifl\u00e4chen-Photovoltaik insbesondere auf Konversionsfl\u00e4chen",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Wie Konversionsfl\u00e4chen\r\ndie Energiewende\r\nbeschleunigen k\u00f6nnen\r\nVerbesserung der Investitionsbedingungen f\u00fcr\r\nPV Freifl\u00e4chenanlagen auf Konversionsfl\u00e4chen\r\n\r\nPV\r\nProjekte auf\r\nKonversionsfl\u00e4chen:\r\n\uf050 gro\u00dffl\u00e4chig\r\n\uf050 k onfliktarm\r\n\uf050 kurzfristig umsetzbar\r\n\uf0a7Kurzfristig umsetzbares\r\nFl\u00e4chenpotenzial von 5,5 GW\r\nSolarenergie alleine in der Lausitz.\r\n\uf0a7Konversionsfl\u00e4chen sind durch die Vornutzung vorbelastet und\r\ndaher besonders gut f\u00fcr gro\u00dffl\u00e4chige PV Anlagen geeignet\r\n\uf0a7Der PV\r\nAusbau auf Konversionsfl\u00e4chen minimiert die\r\nFl\u00e4chenkonkurrenz insbesondere zu Fl\u00e4chen mit hoher\r\nBodeng\u00fcte.\r\n\uf0a7Der\r\nAbstand zur Wohnbebauung ist zumeist hoch, mit\r\npositiver Auswirkung auf die \u00f6ffentliche Akzeptanz.\r\n\uf0a7Die Projektpotenziale sind\r\nkurzfristig umsetzbar.\r\n\uf0a7PV\r\nAusbau auf Konversionsfl\u00e4chen f\u00f6rdert Regionen und\r\nUnternehmen, die vom Strukturwandel betroffen sind und\r\nunterst\u00fctzt deren Neuausrichtung.\r\n\r\nPush\r\nEffekt f\u00fcr PV\r\nAusbau in der Lausitz\r\n\uf0a7 Von dem umsetzbaren Fl\u00e4chenpotenzial von 5,5 GW\r\nSolarenergie auf Konversionsfl\u00e4chen in der Lausitz\r\nsind nach aktuellem Rechtsstand nur 10%\r\nf\u00f6rderf\u00e4hig (Gr\u00fcnde: Projektgr\u00f6\u00dfen von deutlich\r\n\u00fcber 100 MW, 20 MW Deckel der EEG\r\nAusschreibung und Anlagenzusammenfassung).\r\n\uf0a7 Die restlichen\r\n90% der Projektpotenziale sind\r\naufgrund der Vorbelastung gegen\u00fcber\r\nkonkurrierenden Landwirtschaftsfl\u00e4chen\r\nwirtschaftlich benachteiligt\r\n\uf0a7 Daher besteht ein Risiko, dass ein\r\ngro\u00dfer Teil der\r\nProjekte auf Konversionsfl\u00e4chen nach aktuellem\r\nRechtsstand nicht wirtschaftlich umgesetzt werden\r\nkann .\r\n\r\nBundesweiter Push\r\nEffekt\r\nf\u00fcr Freifl\u00e4chen PV\r\n\uf0e8 Daher:\r\nDie Nutzung der Konversionsfl\u00e4chen aus wirtschaftlicher Vornutzung sollte\r\ngezielt angereizt werden und bestehende Hemmnisse bei den\r\nF\u00f6rdertatbest\u00e4nden beseitigt werden.\r\n\r\n\uf0e8\r\nVorschlag zur Umsetzung:\r\nAufhebung des 20 MW Deckels f\u00fcr Freifl\u00e4chenanlagen auf Konversionsfl\u00e4chen aus wirtschaftlicher Nutzung\r\n\u00a7\r\n37 Abs. 3 EEG sollte wie folgt erg\u00e4nzt werden:\r\n(3) In Erg\u00e4nzung zu den Anforderungen nach\r\n\u00a7 30 darf die Gebotsmenge bei den Ausschreibungen f\u00fcr Solaranlagen des ersten Segments\r\npro Gebot eine zu installierende Leistung von 20 Megawatt nicht \u00fcberschreiten , es sei denn die Anlage befindet sich auf einer\r\nKonversionsfl\u00e4che aus wirtschaftlicher Nutzung nach \u00a7 37 Absatz 1 Nummer 2 Buchstabe b\r\n\u00a7\r\n38a Abs. 1 Ziffer 5a EEG sollte wie folgt erg\u00e4nzt werden:\r\n\u201e5. soweit bei Freifl\u00e4chenanlagen\r\na) die installierte Leistung von 20 Megawatt nicht \u00fcberschritten wird,\r\nes sei denn die Anlage befindet sich auf einer Konversionsfl\u00e4che\r\naus wirtschaftlicher Nutzung nach \u00a7 37 Absatz 1 Nummer 2 Buchstabe b ,\r\n\uf0e8\r\nRechtliche Ausgangssituation\r\n\uf0a7\r\nDerzeit ist die F\u00f6rderf\u00e4higkeit von PV\r\nFreifl\u00e4chenanlagen im EEG auf eine Gr\u00f6\u00dfe von 20 MW begrenzt.\r\n\uf0a7\r\nDie\r\nAnlagenzusammenfassung nach \u00a7 24 Abs. 2 EEG behindert gr\u00f6\u00dfere zusammenh\u00e4ngende Konversionsfl\u00e4chen , da binnen 24\r\nMonaten nur ein Bruchteil der m\u00f6glichen Anlagen gef\u00f6rdert werden kann.\r\n\r\nAufhebung des 20 MW\r\nDeckels f\u00fcr Freifl\u00e4chen PV Anlagen auf\r\nKonversionsfl\u00e4chen f\u00f6rdert den bundesweiten Solarausbau\r\nGr\u00f6\u00dfendeckel im EEG f\u00fcr\r\nKonversionsfl\u00e4chen\r\nMW F\u00f6rderf\u00e4hig\r\nAnteil F\u00f6rderf\u00e4hig\r\n20 MW\r\n0,5 GW\r\n10%\r\n80 MW\r\n1,4 GW\r\n25%\r\nKein Deckel\r\n5,5 GW\r\n100%\r\nAlleine in der Lausitz l\u00e4sst sich der PV\r\nAusbau um 5 GW anheben.\r\nEine\r\nAnhebung des 20 MW Deckels auf 80 MW w\u00fcrde den f\u00f6rderf\u00e4higen Anteil der Anlagen nur\r\nvon 10% auf 25% erh\u00f6hen. Eine komplette Aufhebung des Deckels w\u00fcrde den f\u00f6rderf\u00e4higen\r\nAnteil auf 100% erh\u00f6hen."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/52/82/306885/Stellungnahme-Gutachten-SG2406210040.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-06-19"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0004622",
+                "regulatoryProjectTitle": "Vorschl\u00e4ge zur Steigerung der Versorgungssicherheit und Energietransformation f\u00fcr einen starken Standort Ostdeutschland",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "1\r\nVersorgungssicherheit und Energietransformation f\u00fcr einen starken Standort Ostdeutschland\r\nUns als Unternehmen verbindet der gemeinsame Auftrag und die damit zusammenh\u00e4n-gende Verantwortung, die Energieversorgung der ostdeutschen Region sicherzustellen. Dabei haben wir Gegenwart und Zukunft im Blick. Wir leisten mit unserer Expertise und Transformationserfahrung einen wesentlichen Beitrag zu einer effizienten und damit erfolgreichen Energiewende.\r\nUnser Erfolg ist eng verbunden mit der Transformation des Wirtschafts- und Energie-standortes Ostdeutschland. Nur mit auch zuk\u00fcnftig starken und wertsch\u00f6pfenden Un-ternehmen und der Akzeptanz der Menschen vor Ort wird die Energiewende hier in der Region erfolgreich sein. Ein entscheidender Standortvorteil Ostdeutschlands f\u00fcr bestehende und k\u00fcnftige Ansiedlungen von Unternehmen sind nutzbar gemachte, sprich in die Netzinfrastruktur integrierte, gr\u00fcne Energien. Privatwirtschaftliche Investitionen zur Sicherung des Wirtschaftsstandortes Ostdeutschland bed\u00fcrfen jedoch verl\u00e4sslicher und ad\u00e4quater Rahmenbedingungen sowie einer konsistenten Strategie f\u00fcr Energie, Wirtschaft und Industrie mit klarer Perspektive f\u00fcr Ost-deutschland.\r\nUnser aller Ziel ist es, Wertsch\u00f6pfung in Ostdeutschland nicht nur zu sichern, sondern auszubauen. Denn eine erfolgreiche Energiewende braucht erfolgreiche Unternehmen, die in der Lage sind, in die Transformation zu investieren. Dabei ist, wie auch f\u00fcr die Unternehmen, f\u00fcr die nachhaltige Akzeptanz in der Bev\u00f6lkerung zudem gesamtsystemische Kosteneffizienz Grundvoraussetzung.\r\nEnergiewende-Investitionen brauchen Verl\u00e4sslichkeit und Konsistenz\r\nAus unserer Sicht sehen wir folgenden konkreten Handlungsbedarf, damit die Energiewende in unserer Region gelingt:\r\n1.\r\nDie seit 2022 diskutierte Kraftwerksstrategie muss endlich in die Praxis umgesetzt werden. Daf\u00fcr brau-chen wir schnellstm\u00f6glich von Br\u00fcssel genehmigte Ausschreibungen.\r\n2.\r\nBei der Ausgestaltung der Ausschreibungen braucht es eine diskriminierungsfreie und kluge Verteilung der neuen Kraftwerkskapazit\u00e4ten. Klar ist: Aus Gr\u00fcnden der Systemdienlichkeit m\u00fcssen auch Standorte in Ostdeutschland zum Zuge kommen. Dies kann sowohl bestehende Kraftwerksstandorte als auch die ostdeutschen Regionen einschlie\u00dfen, in denen bis dato wenig bzw. keine Gro\u00dfkraftwerkskapazit\u00e4t f\u00fcr die Bereitstellung von flexibler Stromerzeugung zur Verf\u00fcgung steht.\r\n3.\r\nInvestitionen in klimaneutrale Gaskraftwerke erfordern Verl\u00e4sslichkeit und wirtschaftliche Vernunft bei Wasserstoff. Die Rahmenbedingungen f\u00fcr den Aufbau des H2-Kernnetzes und auch die H2-Verteilnetze m\u00fcssen so gestaltet werden, dass privatwirtschaftliche Investitionen in diese Infrastruktur kapitalmarkt-f\u00e4hig sind. Der Anschluss der heute bestehenden Kraftwerksstandorte, aber auch der Anschluss der ost-deutschen Industrie an die Wasserstoffnetze, ist f\u00fcr eine gute Entwicklungsperspektive dieser Standorte zwingend notwendig.\r\n4. Die Stromnetze sind der Schl\u00fcssel f\u00fcr den Erfolg der Energiewende. Desto schneller diese in der H\u00f6chst- und insbesondere auch in der Hochspannungsebene ausgebaut werden k\u00f6nnen bzw., je besser der Zubau der erneuerbaren Energien (eE) mit den vorhanden Stromnetzkapazit\u00e4ten synchronisiert wird, desto mehr eE-Strom kann nutzbar gemacht werden. In diesem Sinne sollte der Netzanschluss an einem bekannten Netzengpass erst nach Abschluss der Netzausbauma\u00dfnahmen erfolgen.\r\n\u2794\r\nDies ist in \u00a7 8 Abs. 4 EEG eindeutig zu regeln, um eine unterschiedliche Gesetzesauslegung zu vermeiden. Vorteil dieses Vorgehens ist, dass weitere Redispatch-Ma\u00dfnahmen und damit verbun-dene Ausgleichszahlungen vermieden werden k\u00f6nnen.\r\nZudem k\u00f6nnte ein Redispatch-Vorbehalt eingef\u00fchrt werden. Erneuerbare-Energien-Anlagen, die sich be-wusst an einem bekannten Netzengpass anschlie\u00dfen lassen, erhalten so lange keinen finanziellen Aus-gleich f\u00fcr die von den Netzbetreibern vorgenommenen Leistungsreduzierungen, bis der Netzausbau abgeschlossen und der Engpass beseitigt ist. Damit k\u00f6nnen Redispatch-Kosten vermindert werden.\r\n\u2794\r\nHierzu sind \u00a7 8 EEG und \u00a7 13 a EnWG entsprechend anzupassen oder zu erg\u00e4nzen.\r\n2\r\nNicht nur Planungs- und Genehmigungsverfahren f\u00fcr den Ausbau der erneuerbaren Energien, sondern insbesondere auch f\u00fcr den Ausbau der Verteilnetze m\u00fcssen beschleunigt und digitalisiert werden. Hierzu z\u00e4hlt z. B. das vereinfachte Verfahren f\u00fcr den Ersatzneubau in bestehenden Trassen bzw. die Ge-nehmigungsfreiheit f\u00fcr kleinere Ma\u00dfnahmen (z. B. Mast- oder Leiterseilwechsel). F\u00fcr die Erweiterungen innerhalb bestehender Trassen sollten unn\u00f6tige Genehmigungsverfahren vollst\u00e4ndig entfallen.\r\n\u2794\r\nUm dies umzusetzen ist eine Anpassung von \u00a7 43 Abs. 1 EnWG notwendig. Dies schlie\u00dft auch das An-zeigeverfahren gem\u00e4\u00df \u00a7 43f EnWG mit ein, gem\u00e4\u00df dem eine umfassende Pr\u00fcfung inkl. landschafts-pflegerischem Begleitplan, Kartierung etc. nach BNatSchG \u00a7 17 (4) vorgenommen wird.\r\nAuch eine gemeinsame Datenbasis (Tools) und die l\u00e4ngere G\u00fcltigkeit von Kartierungsergebnissen oder die Wiedereinf\u00fchrung der materiellen Pr\u00e4klusion im Umweltschutz kann einen beschleunigten Ausbau bewirken.\r\n\u2794\r\nIm \u201eBeschleunigungspakt\u201c k\u00fcndigen Bund und L\u00e4nder an, Konzepte f\u00fcr die Schaffung eines bundes-weiten Umweltdatenkatasters und einer bundesweiten Gutachtendatenbank zu entwickeln. Vorha-benbezogen erhobene Kartierungsdaten sollen gesetzlich verpflichtend zu \u00f6ffentlich zug\u00e4nglichen Quellen erkl\u00e4rt werden k\u00f6nnen und in dem Kataster ver\u00f6ffentlicht werden. Diese Absichtserkl\u00e4rung ist ein erster wichtiger Schritt, nun gilt es die Umsetzung voranzutreiben!\r\n\u2794\r\nDoppelte Kartierungen kosten uns im Schnitt 1,5 Jahre in der Umsetzung. Dar\u00fcber hinaus ist die bis-herige Praxis, Umweltgutachten nach ca. 5 Jahren einer Aktualisierung zu unterziehen, angesichts der Dauer von Planungs- und Genehmigungsverfahren nicht f\u00f6rderlich. Die G\u00fcltigkeit von Umwelt-gutachten sollte durch eine Anpassung von \u00a7 75 VwVfG auf 10 Jahre ausgeweitet werden, um Planungssicherheit zu gew\u00e4hrleisten.\r\n5.\r\nVor dem Hintergrund der Ziele des Osterpakets f\u00fcr 2030 und der damit verbundenen immensen Investi-tionen in den Ausbau der Stromnetze, besonders auch in Ostdeutschland, ben\u00f6tigen die Stromnetzbe-treiber verl\u00e4ssliche und f\u00fcr die Refinanzierung ad\u00e4quate regulatorische Rahmenbedingungen, um den Netzausbau und die Transformation umsetzen zu k\u00f6nnen. Dazu z\u00e4hlt insbesondere eine im internationa-len Vergleich angemessene Verzinsung des eingesetzten Eigenkapitals. Dies f\u00e4llt in den Aufgabenbereich der BNetzA und ist im Rahmen der Novelle der Anreizregulierungsverordnung zu ber\u00fccksichtigen.\r\n6.\r\nDer Hochlauf der Wasserstoffwirtschaft wird nur gelingen, wenn er auf konsistenten und verl\u00e4sslichen Strategien beruht \u2013 alle Zahnr\u00e4der m\u00fcssen ineinandergreifen. Die H2-Importstragie, H2-Speicherstrategie und die Carbon Management Strategie m\u00fcssen daher schnellstm\u00f6glich ver\u00f6ffentlicht und praktisch um-gesetzt werden. Zahlreiche Zukunftsprojekte verbleiben sonst in Wartestellung.\r\nH2-Importstrategie:\r\n\u2794\r\nUm Planungssicherheit zu gew\u00e4hrleisten, Marktdisruptionen zu vermeiden und insbesondere um langfristige Liefervertr\u00e4ge f\u00fcr H2 schnellstm\u00f6glich abschlie\u00dfen zu k\u00f6nnen, sollte in der H2-Im-portstrategie das sogenannte \u201eGrandfathering\u201c zum Schutz vor dem Einfluss neuer Regularien explizit verankert werden.\r\n\u2794\r\nDar\u00fcber hinaus bedarf es der Entwicklung von Absicherungsinstrumenten f\u00fcr Importrisiken f\u00fcr Midstreamer, damit diese ihrer Funktion im Markt nachkommen k\u00f6nnen.\r\n\u2794\r\nJedwede zeitliche Befristung der \u00dcbergangszeit bis zur vollst\u00e4ndigen Verstromung von H2 h\u00e4ngt von der zu diesem Zeitpunkt auch tats\u00e4chlich verf\u00fcgbaren Menge von H2 ab; dies sicherzustellen liegt nicht im Einfluss- und Verantwortungsbereich der Kraftwerksbetreiber.\r\nH2-Speicherstrategie:\r\n\u2794\r\nIm Rahmen der H2-Speicherstrategie sollte fr\u00fchestm\u00f6glich ein Dialogformat zwischen den Gesell-schaftern/Investoren der Speicherbetreiber, den Betreibern selbst und dem BMWK zur Ausgestal-tung eines Finanzierungsmechanismus etabliert werden. Dies bietet die Chance, z\u00fcgig den Aufbau der erforderlichen Wasserstoffspeicherkapazit\u00e4ten anzureizen und damit Kongruenz zum H2-Hoch-lauf herzustellen.\r\nCarbon Management Strategie (CMS):\r\n\u2794\r\nZwischen der Bereitstellung von abgeschiedenem CO2 und der Abnahme zum Zweck der Nutzung oder der Speicherung kann es zu Verz\u00f6gerungen kommen, die die Prozesskette in signifikantem Ma\u00dfe negativ beeinflussen. Um diese Schwankungen abzupuffern und damit auch das Transportsys-tem zu optimieren, ist eine integrierte, tempor\u00e4re onshore Zwischenspeicherung von CO2 unerl\u00e4sslich. Diese Zwischenspeicherung kann in oberirdischen Beh\u00e4ltern erfolgen, die aber nur \u00fcber ein begrenztes Volumen verf\u00fcgen oder in unterirdischen Salzkavernen, wie sie f\u00fcr die tempor\u00e4re Speicherung von Erdgas eingesetzt werden. Gerade Salzkavernen verf\u00fcgen \u00fcber ein gro-\u00dfes Volumen in Verbindung mit einem hohen Ma\u00df an Flexibilit\u00e4t bei der Ein- und Ausspeicherung. Da Salzkavernen keinen Kontakt zu Grundwasser haben, ist eine Gef\u00e4hrdung desselben ausge-schlossen. Vor diesem Hintergrund sollte die CMS die Zwischenspeicherung von CO2 und damit zu-sammenh\u00e4ngende Fragen, etwa zur Finanzierung und zur Regulatorik, in den Blick nehmen.\r\n3\r\n7.\r\nDie Nationale Biomassestrategie (NABIS) muss zeitnah ver\u00f6ffentlicht werden und so ausgestaltet sein, dass Biogas, Biomethan und feste Biomasse heute und in Zukunft ihren optimalen Beitrag zur Versor-gungssicherheit und klimaneutralen sowie preiswerten Energie- und W\u00e4rmeversorgung leisten k\u00f6nnen.\r\nBezugnehmend auf die Ziele und Leitprinzipien der NABIS (Stand 02/24) und v. a. Ma\u00dfnahme 4 (Kaska-denprinzip in allen rechtlichen und f\u00f6rderpolitischen Instrumenten als Grundsatz beachten; keine Be-g\u00fcnstigung einer energetischen Nutzung, wenn stoffliche Nutzung m\u00f6glich ist):\r\n\u2794\r\nGrunds\u00e4tzlich sind Biogasanlagen mehr als \u201enur\u201c Stromerzeugungs- bzw. Energieanlagen zu be-trachten. Die Stromerzeugung geht immer mit der W\u00e4rmeerzeugung einher. Bei der Biomethaner-zeugung richtet sich die Verwendung nach den Absatzm\u00f6glichkeiten bzw. der Nachfrage. Biomethan kann wie auch das gleichzeitig anfallende Kohlenstoffdioxid immer auch stofflich in einer Kaskade genutzt werden. Weitere Produkte (Plattformchemikalien, Fasern) k\u00f6nnen vor, w\u00e4hrend oder am Ende der Biogasproduktion entstehen und die Transformation der Volkswirtschaft in eine \u00c4ra ohne fossile Rohstoffe unterst\u00fctzen. G\u00e4rprodukte fallen grunds\u00e4tzlich bei der Biogasproduktion als stoff-liches Produkt an und werden in der Regel als D\u00fcnger in der Landwirtschaft genutzt. Vor diesem Hintergrund sollte auf eine ordnungsrechtliche Regelung zur Nutzungskaskade verzichtet werden. Mindestens sollte der Kaskadenbegriff f\u00fcr Biogas jedoch weiter gefasst werden.\r\n\u2794\r\nFeste Biomasse erlaubt in den kommenden Jahren eine schnelle Dekarbonisierung von Raum und Prozessw\u00e4rme vor allem in der Industrie. Bereits heute werden S\u00e4gerestabf\u00e4lle noch nicht vollst\u00e4n-dig genutzt; durch den notwendigen Waldumbau werden diese Potenziale auch weiter steigen. Eine angedachte CO2-Bepreisung von fester Biomasse in Deutschland f\u00fcr nach der RED III als nachhaltig zertifizierte Biomasse ist sch\u00e4dlich und unbegr\u00fcndet. Die umfassende CO2-Bepreisung im europ\u00e4i-schen und nationalen Emissionshandel bepreist die Vorkettenemissionen aus Anbau, Verarbeitung und Transport zumindest f\u00fcr deutsche Biomasse schon umfassend. W\u00fcrde Deutschland als einziger Mitgliedstaat nachhaltige Biomasse separat bepreisen, f\u00fchrte dies zu massiven Biomasseexporten und entsprechenden Marktverwerfungen.\r\n8.\r\nWettbewerbsf\u00e4hige Energie ist grundlegend f\u00fcr die wirtschaftliche Entwicklung Ostdeutschlands, daher m\u00fcssen die Kosten der Energiewende im Blick behalten werden. Dabei wird es zum einen darauf ankom-men, unn\u00f6tige Kosten zu reduzieren, etwa durch die Umstellung neuer HG\u00dc-Leitungen aus dem aktuel-len Netzentwicklungsplan auf Freileitungen. Gleichzeitig werden in der Hochspannungsebene zuneh-mend mehr Kabell\u00f6sungen ben\u00f6tigt, um den Transport des eE-Stroms \u00fcber die Freileitungen flankieren zu k\u00f6nnen. Zum anderen kann es zielf\u00fchrend sein, durch einen Bundeszuschuss die Netzentgelte in der H\u00f6chstspannung zu stabilisieren.\r\nErg\u00e4nzende Punkte aus dem Gespr\u00e4ch\r\n1.\r\nEin Vorrang im Netzanschlussverfahren f\u00fcr industrielle Verbraucher in Ostdeutschland (Lastkompo-nente Ost) kann dazu beitragen, erneuerbare Energien besser zu nutzen, statt abzuregeln und dadurch Verteilnetze zu entlasten. Dies gilt insbesondere f\u00fcr den l\u00e4ndlichen Raum, weniger f\u00fcr den Speckg\u00fcrtel von Ballungsr\u00e4umen. (Vorschlag enviaM)\r\nNach aktueller Regelung gem\u00e4\u00df \u00a7 8 EEG und \u00a7 17 EnWG gilt \u201efirst come first serve\u201c f\u00fcr den Anschluss so-wohl f\u00fcr Einspeiser (eE-Erzeugungsanlagen) als auch f\u00fcr Verbraucher (Haushalte, Unternehmen, usw.). Vor dem Hintergrund des Netzanschlussbooms sollte die M\u00f6glichkeit geschaffen werden, Netzanschluss-begehren nach Ma\u00dfgabe des Projektreifegrades und der Netzdienlichkeit zu priorisieren. Dadurch kann etwa Last eher an das Verteilnetz gebracht werden, die dazu beitr\u00e4gt, gr\u00fcne Energie zu nutzen, Abrege-lung einzuschr\u00e4nken (nutzen statt abregeln) sowie Redispatch-Kosten und Netzausbau zu mindern. Es braucht eine Anpassung von \u00a7 17 EnWG, der die Priorisierung von Netzanschlusspflichten regelt.\r\n2.\r\nErneuerbare Energien st\u00e4rker zu nutzen, anstelle diese abzuregeln, ist sachlich, netz- und volkswirt-schaftlich sinnvoll. Hierzu k\u00f6nnen z.B. netzdienliche Anlagen und Speicher (Elektrolyseure & Batterie-speicher) unter ver\u00e4nderten Rahmenbedingungen einen wichtigen Beitrag leisten, um flexibel agie-ren und Flexibilit\u00e4ten nutzen zu k\u00f6nnen. (Vorschlag enviaM)\r\n\u2794\r\nBatteriespeicher attraktiver machen durch eine Anpassung von \u00a7 9 Abs. 1 Nr.3 a) Stromsteuergesetz, um Strom, der f\u00fcr Ein- und Ausspeisung in Batteriespeicher genutzt wird, von der Stromsteuer zu befreien.\r\n\u2794\r\nSystemdienliche Elektrolyse f\u00f6rdern! Die Bundesregierung sollte die bereits in \u00a7 96 Nr. 9 WindSeeG bestehende Regelung nutzen, die besagt, dass j\u00e4hrlich 500 MW Elektrolyseleistung bis 2028 durch das BMWK ausgeschrieben werden k\u00f6nnen. F\u00fcr den Aufbau der nationalen H2-Wirtschaft und um die Wertsch\u00f6pfung in (Ost-) Deutschland zu halten, w\u00e4re dies ein wichtiges Signal. Dar\u00fcber hinaus gibt die RED III vor, dass 42 % des in der Industrie eingesetzten H2 bis 2030 gr\u00fcn sein sollen. Die aktuel-len F\u00f6rdermechanismen werden nicht ausreichen, um dieses Ziel zu erreichen. Die Bundesregierung sollte aufzeigen, mit welchen Ma\u00dfnahmen sie dieses Ziel verl\u00e4sslich erreichen will.\r\n4\r\nGemeinsam f\u00fcr die Energiezukunft Ostdeutschlands\r\nMit seiner strategischen Lage, hervorragenden Infrastruktur und grundlegenden Transformationserfahrung ist die Region Ostdeutschland ein attraktiver Wirtschafts- und Industriestandort. Diesen Standort im Sinne der Energie-wende umzubauen, gelingt nur im Zusammenspiel von Politik, Wirtschaft, Wissenschaft und Gesellschaft. Wir ap-pellieren an die politischen Entscheidungstr\u00e4ger, unsere Handlungsempfehlungen aufzunehmen, denn von einer ostdeutschen industriellen Erfolgsgeschichte profitiert die Transformation im ganzen Land.\r\nWir als Unterzeichner wollen vorangehen, haben Zukunftsprojekte f\u00fcr den Standort Ostdeutschland initiiert und stehen jederzeit als Ansprechpartner bereit."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

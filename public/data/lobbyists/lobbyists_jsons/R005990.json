@@ -1,0 +1,903 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-05-24T11:25:42.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2023-05-24T11:25:42.000+02:00",
+        "lastUpdateDate": "2024-08-26T11:16:34.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 43171,
+                "validFromDate": "2024-08-26T11:16:34.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 38308,
+                "validFromDate": "2024-06-27T14:22:23.000+02:00",
+                "validUntilDate": "2024-08-26T11:16:34.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25976,
+                "validFromDate": "2024-02-02T11:53:07.000+01:00",
+                "validUntilDate": "2024-06-27T14:22:23.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25958,
+                "validFromDate": "2023-10-02T16:01:20.000+02:00",
+                "validUntilDate": "2024-02-02T11:53:07.000+01:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23078,
+                "validFromDate": "2023-07-05T16:22:12.000+02:00",
+                "validUntilDate": "2023-10-02T16:01:20.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22841,
+                "validFromDate": "2023-06-30T15:43:31.000+02:00",
+                "validUntilDate": "2023-07-05T16:22:12.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 19535,
+                "validFromDate": "2023-05-24T11:25:42.000+02:00",
+                "validUntilDate": "2023-06-30T15:43:31.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Als hundertprozentiges Tochterunternehmen des Bundesverbandes der Unternehmen der K\u00fcnstlichen Intelligenz in Deutschland e.V. (Registernummer: R006319) verfolgt die Akademie f\u00fcr K\u00fcnstliche Intelligenz AKI gGmbH dieselben Ziele und Wertvorstellungen. \r\n\r\nSpezifisch ist der Zweck der Akademie f\u00fcr K\u00fcnstliche Intelligenz AKI gGmbH die F\u00f6rderung von Wissenschaft und Forschung. Erreicht wird dies durch folgende T\u00e4tigkeiten:\r\n- Durchf\u00fchrung wissenschaftlicher Veranstaltungen und Forschungsvorhaben und Vergabe von Forschungsauftr\u00e4gen in dem Bereich der K\u00fcnstlichen Intelligenz und ihrer Anwendung;\r\n- die wissenschaftliche Erforschung von K\u00fcnstlicher Intelligenz;\r\n- \u00d6ffentlichkeitsarbeit wie Seminare und Workshops f\u00fcr die Bewusstseinsbildung in Bezug auf den Gesellschaftszweck;\r\n- Zeitnahe Bekanntmachung und Ver\u00f6ffentlichung der Forschungsergebnisse im Bereich K\u00fcnstliche Intelligenz;\r\n- Weitergabe von Mitteln an andere gemeinn\u00fctzige K\u00f6rperschaften oder juristische Personen des \u00f6ffentlichen Rechts",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_MEDIA_OTHER",
+                "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                "en": "Other in the field of \"Media, communication and information technology\""
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_MEDIA_COPYRIGHT",
+                "de": "Urheberrecht",
+                "en": "Copyright"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            },
+            {
+                "code": "ON_BEHALF_OF_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird im Auftrag Dritter selbst wahrgenommen",
+                "en": "Representation of interests is carried out on behalf of third parties themselves"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/9c/64/347230/AKI-gGmbH-Jahresabschluss-zum-31-12-2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "financialResourcesReceived": {
+                                "from": 0,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 0
+                            },
+                            "referenceDetailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R006319",
+                            "referenceName": "Bundesverband der Unternehmen der K\u00fcnstlichen Intelligenz in Deutschland e.V."
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [
+                        {
+                            "firstName": "Daniel",
+                            "function": "Gesch\u00e4ftsf\u00fchrer",
+                            "lastName": "Abbou",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Phillip",
+                            "lastName": "Handy",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Breana",
+                            "lastName": "Callan",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Stefanie",
+                            "lastName": "Baade",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Alex",
+                            "lastName": "Dickmann",
+                            "recentGovernmentFunctionPresent": false
+                        },
+                        {
+                            "firstName": "Alessandro",
+                            "lastName": "Blank",
+                            "recentGovernmentFunctionPresent": false
+                        }
+                    ]
+                },
+                "description": "Die Akademie f\u00fcr K\u00fcnstliche Intelligenz AKI gGmbH ist ein 100-prozentiges Tochterunternehmen des Bundesverbandes der Unternehmen der K\u00fcnstlichen Intelligenz in Deutschland e.V. (Registernummer: R006319). Sie f\u00fchrt haupts\u00e4chlich die Interessenvertretung f\u00fcr den Verband aus, womit ein Auftragsverh\u00e4ltnis gem\u00e4\u00df Lobbyregistergesetz vorliegt. ",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_INTERNET_POLICY",
+                        "de": "Internetpolitik",
+                        "en": "Internet policy"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_OTHER",
+                        "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                        "en": "Other in the field of \"Media, communication and information technology\""
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_OTHER",
+                        "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                        "en": "Other in the field of \"Economy\""
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COPYRIGHT",
+                        "de": "Urheberrecht",
+                        "en": "Copyright"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "regulatoryProjects": [
+                    {
+                        "regulatoryProjectNumber": "RV0007349",
+                        "regulatoryProjectTitle": "Nationale Durchf\u00fchrung der KI-Verordnung der EU (EU AI Act) "
+                    },
+                    {
+                        "regulatoryProjectNumber": "RV0007350",
+                        "regulatoryProjectTitle": "Einf\u00fchrung eines KI-Vouchers "
+                    },
+                    {
+                        "regulatoryProjectNumber": "RV0007351",
+                        "regulatoryProjectTitle": "Einf\u00fchrung der Europ\u00e4ische Richtlinie \u00fcber KI-Haftung "
+                    },
+                    {
+                        "regulatoryProjectNumber": "RV0007352",
+                        "regulatoryProjectTitle": "Nationale Durchf\u00fchrung des EU-Datengesetzes (Data Act) "
+                    },
+                    {
+                        "regulatoryProjectNumber": "RV0007353",
+                        "regulatoryProjectTitle": "Einf\u00fchrung eines Digitalbudgets"
+                    }
+                ]
+            }
+        ],
+        "contractsPresent": true
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": ".",
+                "donationEuro": {
+                    "from": 180001,
+                    "to": 190000
+                },
+                "name": "Die KI Stiftung Heilbronn gGmbH, Bildungscampus 9, 74076 Heilbronn"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 180001,
+            "to": 190000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 2.2,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 80001,
+            "to": 90000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Bundespressekonferenz",
+            "nationalAdditional2": "Raum 4113",
+            "street": "Schiffbauerdamm",
+            "streetNumber": "40",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "info@ki-verband.de",
+            "nationalAdditional1": "Bundespressekonferenz",
+            "nationalAdditional2": "Raum 4113",
+            "phoneNumber": "+493030340488",
+            "street": "Schiffbauerdamm",
+            "streetNumber": "40",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@akademie-ki.de"
+                },
+                {
+                    "email": "politik@ki-verband.de"
+                }
+            ],
+            "phoneNumber": "+493030340488",
+            "websites": [
+                {
+                    "website": "https://www.ki-verband.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Daniel",
+                "lastName": "Abbou",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Phillip",
+                "lastName": "Handy",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Alex",
+                "lastName": "Dickmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Alessandro",
+                "lastName": "Blank",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Breana",
+                "lastName": "Callan",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Stefanie",
+                "lastName": "Baade",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_OTHER_JP_INTERNATIONAL",
+            "de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+            "en": "Other juristic person",
+            "legalFormText": "gGmbH"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Daniel",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Abbou",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-12-31",
+            "naturalPersons": 0,
+            "organizations": 17,
+            "totalCount": 17
+        },
+        "membersPresent": true,
+        "membershipsPresent": false,
+        "name": "Akademie f\u00fcr k\u00fcnstliche lntelligenz AKI gGmbH"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "RTL Mediengruppe"
+            },
+            {
+                "name": "K\u00fchne & Nagel "
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 130001,
+            "to": 140000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Verbundprojekt: OpenGPT-X, Aufbau eines Gaia-X Knotens f\u00fcr gro\u00dfe KI-Sprachmodelle und innovative Sprachapplikations-Services; Teilvorhaben: Vernetzung und Herstellung von \u00d6ffentlichkeit in Politik und Wirtschaft zur Etablierung und Anwendung von Sprachmodellen in Deutschland und Europa. F\u00f6rderkennzeichen: 68GX21007E. ",
+                "location": "Alt-Moabit 140, 10557 Berlin",
+                "name": "Bundesministerium des Innern und f\u00fcr Heimat",
+                "publicAllowanceEuro": {
+                    "from": 270001,
+                    "to": 280000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Vorhaben: LEAM-MBS - Machbarkeitsstudie zum Aufbau und Betrieb eines dedizierten KI-Hochleistungsrechenzentrums f\u00fcr das Trainieren gro\u00dfer KI-Modelle in Deutschland. F\u00f6rderkennzeichen: 01MT22006. ",
+                "location": "Scharnhorststra\u00dfe 34-37, 10115 Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz ",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Verbundvorhaben: AI Village - Aufbau eines Innovationscampus f\u00fcr K\u00fcnstliche Intelligenz; Teilvorhaben: Systematische Vernetzung von AkteurInnen im KI Umfeld\r\nF\u00f6rderkennzeichen: 46SK0180C",
+                "location": "Frankfurter Stra\u00dfe 29 bis 35, 65760 Eschborn",
+                "name": "Bundesamt f\u00fcr Wirtschaft und Ausfuhrkontrolle R\u00fcckbau-R\u00fcckstellungen KKW, Strukturst\u00e4rkung Kohleregionen",
+                "publicAllowanceEuro": {
+                    "from": 280001,
+                    "to": 290000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Verbundprojekt: Mittelstand-Digital Zentrum Franken; Teilvorhaben: Vernetzung fr\u00e4nkischer Organisationen miteinander und relevanten Stakeholdern in Deutschland\r\nF\u00f6rderkennzeichen: 01MF23006D",
+                "location": "Scharnhorststra\u00dfe 34-37, 10115 Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 110001,
+                    "to": 120000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R005990/43171",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-27T14:22:23.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/6f/2d/347231/Lobbyregister-Detailansicht-R005990-2024-08-26_11-16-34.pdf",
+        "validFromDate": "2024-08-26T11:16:34.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 43171,
+    "registerNumber": "R005990",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die KI-Verordnung schafft den weltweit ersten umfassenden Rechtsrahmen f\u00fcr KI. Nach Abschluss des Gesetzgebungsverfahrens auf EU-Ebene steht nun die nationale Umsetzung im Vordergrund. Wichtig bleibt dabei die Ber\u00fccksichtigung der Belange der deutschen KI-Unternehmen, die zu einem erheblichen Teil aus Start-ups und KMU bestehen. F\u00fcr diese Unternehmen ist es entscheidend, dass durch die KI-Verordnung keine Doppelregulierung  und Zulassungsverfahren entstehen, die sie angesichts des rasanten technologischen Fortschritts in ihrer Innovationskraft bremsen und hohe Zusatzkosten verursachen. Eine schlanke Umsetzung auch durch eine klar geregelte Aufsichtstruktur sowie klare Zust\u00e4ndigkeiten sind notwendig, um insbesondere Zulassungsverfahren nicht unn\u00f6tig zu verz\u00f6gern.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_INTERNET_POLICY",
+                        "de": "Internetpolitik",
+                        "en": "Internet policy"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007349",
+                "statements": [],
+                "title": "Nationale Durchf\u00fchrung der KI-Verordnung der EU (EU AI Act) "
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Um die Potenziale der Schl\u00fcsseltechnologie KI in Deutschland voll auszusch\u00f6pfen, m\u00fcssen  KI-L\u00f6sungen entlang der gesamten Wertsch\u00f6pfungskette der deutschen Wirtschaft implementiert werden. Mit dem KI-Voucher wird ein Anreiz zur Kooperation und zum Austausch zwischen der etablierten Wirtschaft, insbesondere dem Mittelstand und dem KI-\u00d6kosystem geschaffen. Der KI-Voucher kann das Risiko bei der Evaluierung und Implementierung von KI-L\u00f6sungen in der etablierten Wirtschaft reduzieren, gleichzeitig  hochinnovative deutsche KI-Unternehmen und deren L\u00f6sungen f\u00f6rdern und damit als Katalysator f\u00fcr die Einf\u00fchrung und Nutzung von KI-L\u00f6sungen im deutschen Mittelstand wirken. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_MEDIA_INTERNET_POLICY",
+                        "de": "Internetpolitik",
+                        "en": "Internet policy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_OTHER",
+                        "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                        "en": "Other in the field of \"Economy\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007350",
+                "statements": [],
+                "title": "Einf\u00fchrung eines KI-Vouchers "
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Nach Verabschiedung der KI-Verordnung der EU ist eine Harmonisierung  bestehender Haftungsregelungen in Bezug auf KI erforderlich. Um Wettbewerbsnachteile f\u00fcr deutsche und europ\u00e4ische KI-Unternehmen zu vermeiden, sollte sich die Bundesregierung auf EU-Ebene weiter f\u00fcr die Schaffung von Schutzmechanismen f\u00fcr KI-Entwickler:innen im Hinblick auf Auskunftsrechte und Offenlegungspflichten einsetzen und eine verschuldens- unabh\u00e4ngige Haftung von Entwickler:innen verhindern. Anpassungsbedarf besteht auch im Hinblick auf die voraussichtliche Beweislastumkehr und den noch zu definierenden Haftungsumfang. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_INTERNET_POLICY",
+                        "de": "Internetpolitik",
+                        "en": "Internet policy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_OTHER",
+                        "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                        "en": "Other in the field of \"Economy\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007351",
+                "statements": [],
+                "title": "Einf\u00fchrung der Europ\u00e4ische Richtlinie \u00fcber KI-Haftung "
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Nach Abschluss des Gesetzgebungsverfahrens auf EU-Ebene ist es nun Aufgabe des nationalen Gesetzgebers, eine m\u00f6glichst schlanke und zugleich effektive nationale Aufsichtsstruktur einzurichten, die eine klare und EU-weit einheitliche Auslegung sicherstellt. Der Gesetzgeber sollte auch auf die Schaffung von Beratungsangeboten f\u00fcr betroffene Unternehmen hinwirken. Dar\u00fcber hinaus muss sichergestellt werden, dass ein verh\u00e4ltnism\u00e4\u00dfiges Sanktionsregime mit einem unb\u00fcrokratischen und effektiven Streitbeilegungsmechanismus etabliert wird. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_OTHER",
+                        "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                        "en": "Other in the field of \"Economy\""
+                    },
+                    {
+                        "code": "FOI_MEDIA_INTERNET_POLICY",
+                        "de": "Internetpolitik",
+                        "en": "Internet policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007352",
+                "statements": [],
+                "title": "Nationale Durchf\u00fchrung des EU-Datengesetzes (Data Act) "
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die Einf\u00fchrung eines Digitalbudgets, wie es auch der Koalitionsvertrag 2021 vorsieht, ist dringend notwendig. Ein dediziertes Budget ist unabdingbar, um den R\u00fcckstand bei der Digitalisierung aufzuholen. Es zeigt sich verst\u00e4rkt, dass der Wirtschaftsstandort und das \u00d6kosystem ein solches Budget brauchen, um KI-Leuchtturmprojekte anzusto\u00dfen und erfolgreich zu lancieren. Damit kann Deutschland international an Strahlkraft gewinnen und die Digitalisierung in der Industrie, im Mittelstand und in der Verwaltung vorantreiben. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_OTHER",
+                        "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                        "en": "Other in the field of \"Economy\""
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_INTERNET_POLICY",
+                        "de": "Internetpolitik",
+                        "en": "Internet policy"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007353",
+                "statements": [],
+                "title": "Einf\u00fchrung eines Digitalbudgets"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

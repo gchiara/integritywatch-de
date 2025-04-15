@@ -9,7 +9,8 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Quicksand:500" rel="stylesheet">
-    <link rel="stylesheet" href="static/about.css">
+    <link rel="stylesheet" href="fonts/helveticaneue.css?v=1">
+    <link rel="stylesheet" href="static/about.css?v=2">
 </head>
 <body>
     <?php include 'header.php' ?>
@@ -27,7 +28,12 @@
             <div id="collapse1" class="panel-collapse collapse in">
               <div class="panel-body">
                 <p>Transparency Deutschland arbeitet deutschlandweit an einer effektiven und nachhaltigen Bekämpfung und Eindämmung der Korruption. Dazu müssen Staat, Wirtschaft und Zivilgesellschaft zusammenarbeiten und Koalitionen bilden. Wir sind als gemeinnützig anerkannt und arbeiten politisch unabhängig. Grundprinzipien sind Integrität, Verantwortlichkeit, Transparenz und Partizipation der Zivilgesellschaft. Ziel ist es, das öffentliche Bewusstsein über die schädlichen Folgen der Korruption zu schärfen und Integritätssysteme zu stärken.</p>
-                <p>Platform development and design:<br />
+                <p>Integrity Watch Deutschland wurde das erste Mal im Juni 2023 von Transparency International Deutschland e.V. veröffentlicht. Das Projekt wird aktuell mit finanzieller Unterstützung der Waverley Street Foundation im Rahmen des „Climate Governance Integrity Programme“ von Transparency International gefördert. Die Inhalte liegen in der alleinigen Verantwortung von Transparency International Deutschland e.V.</p>
+                <p>
+                  Weitere Informationen zur Waverly Street Foundation:
+                  <a href="https://www.waverleystreet.org/welcome" target="_blank"><img src="./images/waverly-st-foundation_logo.jpg" class="waverly-logo"></a>
+                </p>
+                <p>Plattformentwicklung und -design:<br />
                 <a href="http://www.chiaragirardelli.net">Chiara Girardelli</a><br /></p>
               </div>
             </div>
@@ -54,7 +60,7 @@
           <div class="panel panel-default">
             <div class="panel-heading">
               <h1 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">3. Fragen zur Webseite</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">3. FRAGEN ZUR WEBSITE</a>
               </h1>
             </div>
             <div id="collapse3" class="panel-collapse collapse in">
@@ -64,7 +70,7 @@
                   <strong>Transparency International Deutschland e.V.</strong><br />
                   Alte Schönhauser Straße 44<br />
                   10119 Berlin<br />
-                  <a href="mailto:Office@transparency.de">Office@transparency.de</a><br />
+                  <a href="mailto:Office@transparency.de">office@transparency.de</a><br />
                   +49 30 54 9898 0<br />
                 </p>
               </div>
@@ -74,16 +80,16 @@
           <div class="panel panel-default">
             <div class="panel-heading">
               <h1 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">4. Presseanfragen</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">4. PRESSEANFRAGEN</a>
               </h1>
             </div>
             <div id="collapse4" class="panel-collapse collapse in">
               <div class="panel-body">
                 <p>Für Presseanfragen kontaktieren Sie gerne unsere Pressestelle unter:</p>
                 <p>
-                  <strong>Adrian Nennich</strong><br />
-                  Pressesprecher<br />
-                  <a href="mailto:ANennich@transparency.de">ANennich@transparency.de</a><br />
+                  <strong>Julia Sassenberg</strong><br />
+                  Pressesprecherin<br />
+                  <a href="mailto:presse@transparency.de">presse@transparency.de</a><br />
                   +49 30 54 9898 15<br />
                 </p>
               </div>
@@ -109,6 +115,6 @@
         </div>
       </div>
     </div>
-    <script src="static/about.js"></script>
+    <script src="static/about.js?v=2"></script>
 </body>
 </html>

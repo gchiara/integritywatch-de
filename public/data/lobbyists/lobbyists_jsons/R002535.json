@@ -1,0 +1,200 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-03-02T08:32:12.000+01:00",
+                "untilDate": "2024-07-02T00:04:37.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-02T08:32:12.000+01:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-07-02T00:04:37.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2023-10-30T13:16:14.000+01:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2024-07-02T00:04:37.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 26486,
+                "validFromDate": "2023-10-30T13:16:14.000+01:00",
+                "version": 3,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 5653,
+                "validFromDate": "2023-07-19T13:58:22.000+02:00",
+                "validUntilDate": "2023-10-30T13:16:14.000+01:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 4375,
+                "validFromDate": "2022-03-02T08:32:12.000+01:00",
+                "validUntilDate": "2023-07-19T13:58:22.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION",
+            "de": "Unternehmen",
+            "en": "Company"
+        },
+        "activityDescription": "Die Fachklinik Rhein/Ruhr ist eine Rehabilitationseinrichtung, in der station\u00e4re und ambulante Patienten rehabilitiert werden.",
+        "activityOperationType": "SELF_OPERATED",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "clientIdentity": {
+        "clientsPresent": false
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "refuseDonatorsInformation": true
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 1,
+            "to": 10
+        }
+    },
+    "financialExpenses": {
+        "refuseFinancialExpensesInformation": true
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Essen",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Auf der R\u00f6tsch",
+            "streetNumber": "2",
+            "type": "NATIONAL",
+            "zipCode": "45219"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "sebastian.klute@mediclin.de"
+                },
+                {
+                    "email": "thomas.piefke@mediclin.de"
+                },
+                {
+                    "email": "katja.kiesewetter@mediclin.de"
+                }
+            ],
+            "phoneNumber": "+492054882100",
+            "websites": [
+                {
+                    "website": "https://www.fachklinik-rheinruhr.de"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_KG",
+            "de": "Kommanditgesellschaft (KG)",
+            "en": "Limited partnership (KG)"
+        },
+        "legalFormType": {
+            "code": "LEGAL_ASSOCIATION",
+            "de": "Rechtsf\u00e4hige Personengesellschaft",
+            "en": "Partnership with legal capacity"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Thomas",
+                "emails": [
+                    {
+                        "email": "thomas.piefke@mediclin.de"
+                    }
+                ],
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Piefke",
+                "phoneNumber": "+49781488111"
+            },
+            {
+                "commonFirstName": "Sebastian",
+                "emails": [
+                    {
+                        "email": "sebastian.klute@mediclin.de"
+                    }
+                ],
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Klute",
+                "phoneNumber": "+492054882100"
+            },
+            {
+                "commonFirstName": "Norbert",
+                "emails": [
+                    {
+                        "email": "n.schneider@asklepios.com"
+                    }
+                ],
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Schneider",
+                "phoneNumber": "+49781488111"
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Bundesverband Deutscher Privatkliniken (BDPK), Friedrichstrasse 60, 10117 Berlin"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "MEDICLIN Fachklinik Rhein/Ruhr",
+        "namedEmployeesPresent": false
+    },
+    "publicAllowances": {
+        "refusePublicAllowancesInformation": true
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-07-19T13:58:22.000+02:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002535/26486",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/67/e2/243575/Lobbyregister-Detailansicht-R002535-2023-10-30_13-16-14.pdf",
+        "refusedAnything": true,
+        "validFromDate": "2023-10-30T13:16:14.000+01:00",
+        "version": 3
+    },
+    "registerEntryId": 26486,
+    "registerNumber": "R002535"
+}

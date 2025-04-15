@@ -1,0 +1,703 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-10-06T14:53:43.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-10-06T14:53:43.000+02:00",
+        "lastUpdateDate": "2024-06-17T12:52:54.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37331,
+                "validFromDate": "2024-06-17T12:52:54.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 35005,
+                "validFromDate": "2024-06-17T12:30:46.000+02:00",
+                "validUntilDate": "2024-06-17T12:52:54.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 34421,
+                "validFromDate": "2024-05-28T11:42:57.000+02:00",
+                "validUntilDate": "2024-06-17T12:30:46.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26298,
+                "validFromDate": "2023-10-20T11:47:10.000+02:00",
+                "validUntilDate": "2024-05-28T11:42:57.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 20554,
+                "validFromDate": "2023-06-01T11:01:38.000+02:00",
+                "validUntilDate": "2023-10-20T11:47:10.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 6852,
+                "validFromDate": "2022-10-06T14:53:43.000+02:00",
+                "validUntilDate": "2023-06-01T11:01:38.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PROFESSION_ASSOC",
+            "de": "Berufsverband",
+            "en": "Professional association"
+        },
+        "activityDescription": "Der Zentralverband des Tankstellengewerbes e.V. (ZTG) ist der Dachverband f\u00fcr 8 Regionalverb\u00e4nde und den Farbenverband IG - Esso, in denen Tankstellen-Unternehmer aller Gesellschaften (P\u00e4chter und Eigent\u00fcmer) sowie Betreiber freier Tankstellen als Direktmitglieder organisiert sind.\r\nDer Zentralverband und seine regionalen Mitgliedsverb\u00e4nde haben neben ihren beratenden Funktionen in allgemeinen betriebswirtschaftlichen und rechtlichen Fragen sowie der Information \u00fcber aktuelle Fachfragen die Aufgabe, die Interessen der Tankstellenunternehmer gegen\u00fcber Wirtschaft, Politik und Gesellschaft, insbesondere aber gegen\u00fcber den Mineral\u00f6lgesellschaften zu vertreten. ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_BUNDESTAG_OTHER",
+                "de": "Sonstiges im Bereich \"Bundestag\"",
+                "en": "Other in the field of \"Bundestag\""
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_OTHER",
+                "de": "Sonstiges im Bereich \"Verkehr\"",
+                "en": "Other in the field of \"Transportation\""
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_IS_CYBER",
+                "de": "Cybersicherheit",
+                "en": "Cyber security"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_SA_OTHER",
+                "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                "en": "Other in the field of \"Government and administration\""
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_IS_CRIME",
+                "de": "Kriminalit\u00e4tsbek\u00e4mpfung",
+                "en": "Fight against crime"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_RPI_OTHER",
+                "de": "Sonstiges im Bereich \"Migration, Fl\u00fcchtlingspolitik und Integration\"",
+                "en": "Other in the field of \"Migration, refugee policy and integration\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_BUNDESTAG",
+                "de": "Bundestag",
+                "en": "Bundestag"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/f3/80/293855/Jahresabschluss-2022.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.25,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Bonn",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Rathausstra\u00dfe",
+            "streetNumber": "3",
+            "type": "NATIONAL",
+            "zipCode": "53225"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "berlin@ztg-deutschland.de",
+            "phoneNumber": "+493025899857",
+            "street": "Obentrautstra\u00dfe ",
+            "streetNumber": "16-18",
+            "type": "NATIONAL",
+            "zipCode": "10963"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@ztg-deutschland.de"
+                }
+            ],
+            "phoneNumber": "+49228914700",
+            "websites": [
+                {
+                    "website": "www.ztg-deutschland.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "dipl.-oec.",
+                "firstName": "J\u00fcrgen",
+                "lastName": "Ziegner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Markus",
+                "lastName": "Pillok",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Ernst",
+                "function": "Vorstandsvorsitzender",
+                "lastName": "Vollmer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Jannis",
+                "function": "Schatzmeister",
+                "lastName": "Verf\u00fcrth",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Claudia",
+                "function": "stellvertretende Vorsitzende",
+                "lastName": "M\u00f6ller",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-05-27",
+            "naturalPersons": 0,
+            "organizations": 9,
+            "totalCount": 9
+        },
+        "membersPresent": true,
+        "membershipsPresent": false,
+        "name": "Zentralverband des Tankstellengewerbes e.V. (ZTG)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "Fachverband Tankstellen-Gewerbe (FTG) e.V."
+            },
+            {
+                "name": "Verband des Kraftfahrzeuggewerbes Baden W\u00fcrttemberg e.V."
+            },
+            {
+                "name": "Verband des Kfz-Gewerbes Schleswig-Holstein e.V."
+            },
+            {
+                "name": "IG ESSO Interessengemeinschaft der ESSO Tankstellenp\u00e4chter und -H\u00e4ndler e. V."
+            },
+            {
+                "name": "VGT Verband des Garagen- und Tankstellengewerbes Nord-Ost e.V."
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 140001,
+            "to": 150000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R005307/37331",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-05-28T11:42:57.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/12/66/293858/Lobbyregister-Detailansicht-R005307-2024-06-17_12-52-54.pdf",
+        "validFromDate": "2024-06-17T12:52:54.000+02:00",
+        "version": 6
+    },
+    "registerEntryId": 37331,
+    "registerNumber": "R005307",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GEIG",
+                        "title": "Gesetz zum Aufbau einer geb\u00e4udeintegrierten Lade- und Leitungsinfrastruktur f\u00fcr die Elektromobilit\u00e4t",
+                        "url": "https://www.gesetze-im-internet.de/geig"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Der Gesetzentwurf verpflichtet Tankstellenunternehmen dazu, an \u00f6ffentlichen Tankstellen f\u00fcr die Bereitstellung von Schnellladeinfrastruktur zu sorgen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                        "de": "Verkehrsinfrastruktur",
+                        "en": "Infrastructure"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001038",
+                "statements": [],
+                "title": "Gesetz zur \u00c4nderung des Geb\u00e4ude-Elektromobilit\u00e4tsinfrastruktur-Gesetzes"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GVG",
+                        "title": "Gerichtsverfassungsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/gvg"
+                    },
+                    {
+                        "shortTitle": "ZPO",
+                        "title": "Zivilprozessordnung",
+                        "url": "https://www.gesetze-im-internet.de/zpo"
+                    },
+                    {
+                        "shortTitle": "BGB",
+                        "title": "B\u00fcrgerliches Gesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Entwurf eines Gesetzes zur St\u00e4rkung des Justizstandortes Deutschland durch Einf\u00fchrung\r\nvon Commercial Courts und der Gerichtssprache Englisch in der Zivilgerichtsbarkeit (Justizstand-\r\nort-St\u00e4rkungsgesetz)",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SAM_BUSINESS",
+                        "de": "Kleine und mittlere Unternehmen",
+                        "en": "Small and medium business"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_CIVIL_RIGHT",
+                        "de": "Zivilrecht",
+                        "en": "Civil rights"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/086/2008649.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMJ",
+                                "title": "Bundesministerium der Justiz",
+                                "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                            }
+                        ],
+                        "printingNumber": "20/8649",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-st%C3%A4rkung-des-justizstandortes-deutschland-durch-einf%C3%BChrung-von-commercial/302757",
+                        "title": "Entwurf eines Gesetzes zur St\u00e4rkung des Justizstandortes Deutschland durch Einf\u00fchrung von Commercial Courts und der Gerichtssprache Englisch in der Zivilgerichtsbarkeit - (Justizstandort-St\u00e4rkungsgesetz)"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0002521",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/0e/ac/293856/Stellungnahme-Gutachten-SG2406170051.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                        "de": "Gremien",
+                                        "en": "Committees"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                        "de": "Bundesministerium der Justiz (BMJ)",
+                                        "en": "Bundesministerium der Justiz (BMJ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-01"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0002521",
+                        "regulatoryProjectTitle": "Gesetzgebungsverfahren zu Commercial Courts: Keine \u00c4nderung des AGB-Rechts.",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Statement der Initiative pro AGB-Recht\r\nGesetzgebungsverfahren zu \u201eCommercial Courts\u201c:\r\nKeine \u00c4nderung des AGB-Rechts.\r\nDie Initiative pro AGB-Recht widerspricht nachdr\u00fccklich \u00c4nderungen des AGB-Rechts,\r\nwie sie einige Sachverst\u00e4ndige in einer am 13. Dezember 2023 durchgef\u00fchrten \u00f6ffentlichen\r\nAnh\u00f6rung im Rechtsauschuss des Deutschen Bundestages zum Entwurf eines Justizstandort-\r\nSt\u00e4rkungsgesetzes gefordert haben. Eine Erg\u00e4nzung des Gesetzentwurfs um\r\nmateriellrechtliche \u00c4nderungen des AGB-Rechts mit dem Ziel, die Inhaltskontrolle\r\nverwendeter Vertragsklauseln im unternehmerischen Gesch\u00e4ftsverkehr einzuschr\u00e4nken und\r\ndamit den wichtigen Schutz vor unfairen Klauseln aufzuweichen, w\u00fcrde die Gerechtigkeit und\r\nden Rechtsfrieden im unternehmerischen Gesch\u00e4ftsverkehr in Deutschland gef\u00e4hrden.\r\nDie Forderung nach einer Einschr\u00e4nkung des ordnungspolitisch wichtigen und\r\npraxisrelevanten Schutzes wirtschaftlich schw\u00e4cherer Vertragspartner steht in keinem\r\nnachvollziehbaren Zusammenhang mit der vorgesehenen Einf\u00fchrung spezieller Spruchk\u00f6rper\r\nf\u00fcr gro\u00dfe zivilrechtliche Wirtschaftsstreitigkeiten (\u201eCommercial Courts\u201c). Die Behauptung, die\r\nErfolgschancen von \u201eCommercial Courts\u201c hingen von einer weniger starren AGB-Kontrolle ab,\r\nist weder schl\u00fcssig noch belegbar. Im Gegenteil: Von der Rechtssicherheit und\r\nVerhandlungsklarheit des etablierten deutschen AGB-Rechts profitieren alle Gesch\u00e4ftspartner,\r\nindem Risiken bei Vertragsverhandlungen \u00fcberschaubar bleiben, Verl\u00e4sslichkeit hinsichtlich\r\nunwirksamer Vertragsklauseln gew\u00e4hrleistet wird, kosten- sowie zeitintensive\r\nRechtsberatungsleistungen im Rahmen bleiben und gleichzeitig Spielraum f\u00fcr individuelle\r\nAbreden bleibt. Diese Faktoren machen das deutsche AGB-Recht attraktiv und zukunftssicher.\r\nEine Abkehr vom Grundsatz der Unwirksamkeit unfairer Vertragsklauseln w\u00fcrde f\u00fcr die\r\nVertragspartner von Verwendern solcher Klauseln erhebliche rechtliche und wirtschaftliche\r\nNachteile, insbesondere immense Rechtsberatungskosten sowie verbleibende\r\nRechtsunsicherheit mit sich bringen. Diese Betroffenheit beschr\u00e4nkt sich keineswegs auf den\r\ngewerblichen Mittelstand.\r\nAlle wesentlichen deutschen Berufs- und Wirtschaftssektoren w\u00e4ren von einer Einschr\u00e4nkung des bew\u00e4hrten AGB-Rechts nachteilig betroffen. Eine zus\u00e4tzliche und in der Sache unn\u00f6tige Schw\u00e4chung des Wirtschaftsstandorts Deutschland sowie der standorttreuen und -abh\u00e4ngigen Unternehmen w\u00e4re die Folge.\r\nDie in der Initiative pro AGB-Recht zusammengeschlossenen Verb\u00e4nde fordern den Deutschen Bundestag auf, das Justizstandort-St\u00e4rkungsgesetz und dessen richtige Zielsetzung nicht durch eine sachfremde und ordnungspolitisch verfehlte Einschr\u00e4nkung des AGB-Rechts zu besch\u00e4digen.\r\nUnsere Initiative:\r\nDie stetig wachsende Initiative pro AGB-Recht besteht gegenw\u00e4rtig aus 39 Verb\u00e4nden aller wichtigen, insbesondere mittelst\u00e4ndisch gepr\u00e4gten, Berufs- und Wirtschaftsbranchen. Gemeinsam setzen wir uns seit \u00fcber 10 Jahren daf\u00fcr ein, den wesentlichen Standortvorteil Deutschlands auch k\u00fcnftig zu sichern - das hei\u00dft faire Vertr\u00e4ge im berechtigten Interesse aller beteiligten Vertragspartner auch im unternehmerischen Gesch\u00e4ftsverkehr zu erhalten.\r\nArGeZ - Arbeitsgemeinschaft Zulieferindustrie, D\u00fcsseldorf\r\nbauforumstahl e.V., D\u00fcsseldorf\r\nBDB Bund Deutscher Baumeister, Architekten und Ingenieure e. V., Berlin\r\nBundesarchitektenkammer e.V. (BAK), Berlin\r\nBundesingenieurkammer e.V., Berlin\r\nBundesindustrieverband Technische Geb\u00e4udeausr\u00fcstung e.V., Bonn\r\nBDE Bundesverband der Deutschen Entsorgungs-, Wasser- und Kreislaufwirtschaft e.V., Berlin\r\nBundesverband Druck und Medien e. V., Berlin\r\nBundesverband Farbe Gestaltung Bautenschutz, Frankfurt/Main\r\nBundesverband Garten-, Landschafts- und Sportplatzbau e. V., Bad Honnef\r\nBDG - Bundesverband der Deutschen Gie\u00dferei-Industrie e.V., D\u00fcsseldorf\r\nBundesverband Metall - Vereinigung Deutscher Metallhandwerke, Essen\r\nBundesverband der Deutschen Sportartikel-Industrie e.V. (BSI), Bonn\r\nBundesverband der Deutschen S\u00fc\u00dfwarenindustrie e.V., Bonn\r\nGdW Bundesverband deutscher Wohnungs- und Immobilienunternehmen e.V., Berlin\r\nBundesvereinigung Bauwirtschaft, Berlin\r\nBundesvereinigung der Deutschen Ern\u00e4hrungsindustrie e.V., Berlin\r\nBundesvereinigung Mittelst\u00e4ndischer Bauunternehmen e.V. (BVMB), Bonn\r\nCentralvereinigung Deutscher Wirtschaftsverb\u00e4nde f\u00fcr Handelsvermittlung und Vertrieb (CDH) e.V., Berlin\r\nDeutscher Asphaltverband (DAV) e.V., Bonn\r\nDeutscher Bauernverband e.V., Berlin\r\nDeutscher Raiffeisenverband e.V., Berlin\r\nDeutscher Stahlbau-Verband DSTV e. V., D\u00fcsseldorf\r\nGesamtverband Kunststoffverarbeitende Industrie e.V. (GKV), Berlin\r\nGesamtverband der deutschen Textil- und Modeindustrie e. V. (Gesamtverband textil+mode), Berlin\r\nHauptverband der Deutschen Bauindustrie e.V., Berlin\r\nH\u00e4ndlerbund e. V. (H\u00e4ndlerbund), Leipzig\r\nMarkenverband e.V., Berlin\r\nVerband Beratender Ingenieure VBI, Berlin\r\nVerband der Deutschen Lederindustrie e.V., Frankfurt/Main\r\nVerband der Deutschen M\u00f6belindustrie e.V., Bad Honnef\r\nwdk Wirtschaftsverband der deutschen Kautschukindustrie e.V., Frankfurt/Main\r\nWSM Wirtschaftsverband Stahl- und Metallverarbeitung e.V., D\u00fcsseldorf\r\nZentralverband des Deutschen Baugewerbes e.V., Berlin\r\nZentralverband der Deutschen Elektro- und Informationstechnischen Handwerke (ZVEH), Frankfurt/Main\r\nZentralverband des Deutschen Handwerks e.V. (ZDH), Berlin\r\nZentralverband Deutsches Kraftfahrzeuggewerbe e.V., Bonn\r\nZVHSK Zentralverband Sanit\u00e4r Heizung Klima, Sankt Augustin\r\nZentralverband des Tankstellengewerbes e.V. (ZTG), Bonn\r\nUnser aktuelles Positionspapier: http://www.pro-agb-recht.de\r\nLobbyregister-Nummer: R00563\r\n"
+                        }
+                    }
+                ],
+                "title": "Gesetzgebungsverfahren zu Commercial Courts: Keine \u00c4nderung des AGB-Rechts."
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/0e/ac/293856/Stellungnahme-Gutachten-SG2406170051.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                "de": "Gremien",
+                                "en": "Committees"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                "de": "Bundesministerium der Justiz (BMJ)",
+                                "en": "Bundesministerium der Justiz (BMJ)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-01"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0002521",
+                "regulatoryProjectTitle": "Gesetzgebungsverfahren zu Commercial Courts: Keine \u00c4nderung des AGB-Rechts.",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Statement der Initiative pro AGB-Recht\r\nGesetzgebungsverfahren zu \u201eCommercial Courts\u201c:\r\nKeine \u00c4nderung des AGB-Rechts.\r\nDie Initiative pro AGB-Recht widerspricht nachdr\u00fccklich \u00c4nderungen des AGB-Rechts,\r\nwie sie einige Sachverst\u00e4ndige in einer am 13. Dezember 2023 durchgef\u00fchrten \u00f6ffentlichen\r\nAnh\u00f6rung im Rechtsauschuss des Deutschen Bundestages zum Entwurf eines Justizstandort-\r\nSt\u00e4rkungsgesetzes gefordert haben. Eine Erg\u00e4nzung des Gesetzentwurfs um\r\nmateriellrechtliche \u00c4nderungen des AGB-Rechts mit dem Ziel, die Inhaltskontrolle\r\nverwendeter Vertragsklauseln im unternehmerischen Gesch\u00e4ftsverkehr einzuschr\u00e4nken und\r\ndamit den wichtigen Schutz vor unfairen Klauseln aufzuweichen, w\u00fcrde die Gerechtigkeit und\r\nden Rechtsfrieden im unternehmerischen Gesch\u00e4ftsverkehr in Deutschland gef\u00e4hrden.\r\nDie Forderung nach einer Einschr\u00e4nkung des ordnungspolitisch wichtigen und\r\npraxisrelevanten Schutzes wirtschaftlich schw\u00e4cherer Vertragspartner steht in keinem\r\nnachvollziehbaren Zusammenhang mit der vorgesehenen Einf\u00fchrung spezieller Spruchk\u00f6rper\r\nf\u00fcr gro\u00dfe zivilrechtliche Wirtschaftsstreitigkeiten (\u201eCommercial Courts\u201c). Die Behauptung, die\r\nErfolgschancen von \u201eCommercial Courts\u201c hingen von einer weniger starren AGB-Kontrolle ab,\r\nist weder schl\u00fcssig noch belegbar. Im Gegenteil: Von der Rechtssicherheit und\r\nVerhandlungsklarheit des etablierten deutschen AGB-Rechts profitieren alle Gesch\u00e4ftspartner,\r\nindem Risiken bei Vertragsverhandlungen \u00fcberschaubar bleiben, Verl\u00e4sslichkeit hinsichtlich\r\nunwirksamer Vertragsklauseln gew\u00e4hrleistet wird, kosten- sowie zeitintensive\r\nRechtsberatungsleistungen im Rahmen bleiben und gleichzeitig Spielraum f\u00fcr individuelle\r\nAbreden bleibt. Diese Faktoren machen das deutsche AGB-Recht attraktiv und zukunftssicher.\r\nEine Abkehr vom Grundsatz der Unwirksamkeit unfairer Vertragsklauseln w\u00fcrde f\u00fcr die\r\nVertragspartner von Verwendern solcher Klauseln erhebliche rechtliche und wirtschaftliche\r\nNachteile, insbesondere immense Rechtsberatungskosten sowie verbleibende\r\nRechtsunsicherheit mit sich bringen. Diese Betroffenheit beschr\u00e4nkt sich keineswegs auf den\r\ngewerblichen Mittelstand.\r\nAlle wesentlichen deutschen Berufs- und Wirtschaftssektoren w\u00e4ren von einer Einschr\u00e4nkung des bew\u00e4hrten AGB-Rechts nachteilig betroffen. Eine zus\u00e4tzliche und in der Sache unn\u00f6tige Schw\u00e4chung des Wirtschaftsstandorts Deutschland sowie der standorttreuen und -abh\u00e4ngigen Unternehmen w\u00e4re die Folge.\r\nDie in der Initiative pro AGB-Recht zusammengeschlossenen Verb\u00e4nde fordern den Deutschen Bundestag auf, das Justizstandort-St\u00e4rkungsgesetz und dessen richtige Zielsetzung nicht durch eine sachfremde und ordnungspolitisch verfehlte Einschr\u00e4nkung des AGB-Rechts zu besch\u00e4digen.\r\nUnsere Initiative:\r\nDie stetig wachsende Initiative pro AGB-Recht besteht gegenw\u00e4rtig aus 39 Verb\u00e4nden aller wichtigen, insbesondere mittelst\u00e4ndisch gepr\u00e4gten, Berufs- und Wirtschaftsbranchen. Gemeinsam setzen wir uns seit \u00fcber 10 Jahren daf\u00fcr ein, den wesentlichen Standortvorteil Deutschlands auch k\u00fcnftig zu sichern - das hei\u00dft faire Vertr\u00e4ge im berechtigten Interesse aller beteiligten Vertragspartner auch im unternehmerischen Gesch\u00e4ftsverkehr zu erhalten.\r\nArGeZ - Arbeitsgemeinschaft Zulieferindustrie, D\u00fcsseldorf\r\nbauforumstahl e.V., D\u00fcsseldorf\r\nBDB Bund Deutscher Baumeister, Architekten und Ingenieure e. V., Berlin\r\nBundesarchitektenkammer e.V. (BAK), Berlin\r\nBundesingenieurkammer e.V., Berlin\r\nBundesindustrieverband Technische Geb\u00e4udeausr\u00fcstung e.V., Bonn\r\nBDE Bundesverband der Deutschen Entsorgungs-, Wasser- und Kreislaufwirtschaft e.V., Berlin\r\nBundesverband Druck und Medien e. V., Berlin\r\nBundesverband Farbe Gestaltung Bautenschutz, Frankfurt/Main\r\nBundesverband Garten-, Landschafts- und Sportplatzbau e. V., Bad Honnef\r\nBDG - Bundesverband der Deutschen Gie\u00dferei-Industrie e.V., D\u00fcsseldorf\r\nBundesverband Metall - Vereinigung Deutscher Metallhandwerke, Essen\r\nBundesverband der Deutschen Sportartikel-Industrie e.V. (BSI), Bonn\r\nBundesverband der Deutschen S\u00fc\u00dfwarenindustrie e.V., Bonn\r\nGdW Bundesverband deutscher Wohnungs- und Immobilienunternehmen e.V., Berlin\r\nBundesvereinigung Bauwirtschaft, Berlin\r\nBundesvereinigung der Deutschen Ern\u00e4hrungsindustrie e.V., Berlin\r\nBundesvereinigung Mittelst\u00e4ndischer Bauunternehmen e.V. (BVMB), Bonn\r\nCentralvereinigung Deutscher Wirtschaftsverb\u00e4nde f\u00fcr Handelsvermittlung und Vertrieb (CDH) e.V., Berlin\r\nDeutscher Asphaltverband (DAV) e.V., Bonn\r\nDeutscher Bauernverband e.V., Berlin\r\nDeutscher Raiffeisenverband e.V., Berlin\r\nDeutscher Stahlbau-Verband DSTV e. V., D\u00fcsseldorf\r\nGesamtverband Kunststoffverarbeitende Industrie e.V. (GKV), Berlin\r\nGesamtverband der deutschen Textil- und Modeindustrie e. V. (Gesamtverband textil+mode), Berlin\r\nHauptverband der Deutschen Bauindustrie e.V., Berlin\r\nH\u00e4ndlerbund e. V. (H\u00e4ndlerbund), Leipzig\r\nMarkenverband e.V., Berlin\r\nVerband Beratender Ingenieure VBI, Berlin\r\nVerband der Deutschen Lederindustrie e.V., Frankfurt/Main\r\nVerband der Deutschen M\u00f6belindustrie e.V., Bad Honnef\r\nwdk Wirtschaftsverband der deutschen Kautschukindustrie e.V., Frankfurt/Main\r\nWSM Wirtschaftsverband Stahl- und Metallverarbeitung e.V., D\u00fcsseldorf\r\nZentralverband des Deutschen Baugewerbes e.V., Berlin\r\nZentralverband der Deutschen Elektro- und Informationstechnischen Handwerke (ZVEH), Frankfurt/Main\r\nZentralverband des Deutschen Handwerks e.V. (ZDH), Berlin\r\nZentralverband Deutsches Kraftfahrzeuggewerbe e.V., Bonn\r\nZVHSK Zentralverband Sanit\u00e4r Heizung Klima, Sankt Augustin\r\nZentralverband des Tankstellengewerbes e.V. (ZTG), Bonn\r\nUnser aktuelles Positionspapier: http://www.pro-agb-recht.de\r\nLobbyregister-Nummer: R00563\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

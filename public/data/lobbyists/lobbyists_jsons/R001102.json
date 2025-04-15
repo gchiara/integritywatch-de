@@ -1,0 +1,975 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-09T10:16:25.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-23T18:16:11.000+01:00",
+        "lastUpdateDate": "2024-08-06T16:07:59.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42583,
+                "validFromDate": "2024-08-06T16:07:59.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 39220,
+                "validFromDate": "2024-06-28T18:47:28.000+02:00",
+                "validUntilDate": "2024-08-06T16:07:59.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22182,
+                "validFromDate": "2023-06-28T09:27:45.000+02:00",
+                "validUntilDate": "2024-06-28T18:47:28.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 15573,
+                "validFromDate": "2023-02-09T10:16:25.000+01:00",
+                "validUntilDate": "2023-06-28T09:27:45.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION_V2",
+            "de": "Sonstiges Unternehmen",
+            "en": "Other company"
+        },
+        "activityDescription": "Ericsson ist Weltmarktf\u00fchrer auf dem Gebiet der Kommunikationstechnologie und -dienstleistungen mit Firmenzentrale in Stockholm, Schweden. Kerngesch\u00e4ft ist das Ausr\u00fcsten von Mobilfunknetzen. Das Portfolio des Unternehmens umfasst die Gesch\u00e4ftsbereiche Networks, Cloud Software & Services, Technologies & New Business, Enterprise Wireless Solutions und Global Communications Platform. Die Innovationsinvestitionen von Ericsson haben den Nutzen des Mobilfunks f\u00fcr Milliarden Menschen weltweit nutzbar gemacht. Das Unternehmen hilft seinen Kunden dabei, die Digitalisierung voranzutreiben, die Effizienz zu steigern und neue Einnahmequellen zu erschlie\u00dfen.\r\n\r\nEricsson ist an einem Gro\u00dfteil aller kommerziell eingef\u00fchrten 5G-Livenetze beteiligt. Zu den 162 (Stand Juni 2024) durch Ericsson unterst\u00fctzten 5G-Livenetzen weltweit z\u00e4hlen unter anderem auch Netze in Deutschland.\r\n\r\nIn Deutschland besch\u00e4ftigt Ericsson rund 2.400 MitarbeiterInnen an 12 Standorten, darunter rund 1.000 MitarbeiterInnen im Bereich Forschung und Entwicklung. Der Hauptsitz ist D\u00fcsseldorf.\r\n\r\nIm Kontext der f\u00fcr Ericsson relevanten Themen stellen sich auch auf der Bundesebene zahlreiche politische Fragestellungen, die unser Government and Policy Advocacy - Team in Deutschland adressiert und begleitet.\r\n\r\nWir informieren politische Entscheidungstr\u00e4gerInnen zu den f\u00fcr Ericsson relevanten Gesetzgebungsverfahren.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_MEDIA_OTHER",
+                "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                "en": "Other in the field of \"Media, communication and information technology\""
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_MEDIA_COPYRIGHT",
+                "de": "Urheberrecht",
+                "en": "Copyright"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_IS_CYBER",
+                "de": "Cybersicherheit",
+                "en": "Cyber security"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/44/6f/341250/065202028-Finaler-Bericht-mit-QES.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/cc/42/341251/ericsson-cobe-2021-german.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.99,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 320001,
+            "to": 330000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "D\u00fcsseldorf",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Prinzenallee",
+            "streetNumber": "21",
+            "type": "NATIONAL",
+            "zipCode": "40549"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "olaf.reus@ericsson.com",
+            "phoneNumber": "+491622581623",
+            "street": "Unter den Linden ",
+            "streetNumber": "26-30",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "connected@ericsson.com"
+                }
+            ],
+            "phoneNumber": "+492115340",
+            "websites": [
+                {
+                    "website": "https://www.ericsson.com/de/"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Stefan",
+                "lastName": "Koetz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Bernd",
+                "lastName": "Mellinghaus",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Olaf",
+                "lastName": "Reus",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Spyros",
+                "lastName": "Makris",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Gabriele",
+                "lastName": "Mohsler",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Daniel",
+                "lastName": "Leimbach",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Christian",
+                "lastName": "Hoymann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Michael",
+                "lastName": "Meyer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Christoph",
+                "lastName": "Bach",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Daniel",
+                "lastName": "Leimbach",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Stefan",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Koetz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Bernd",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Mellinghaus",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Daniel",
+                "function": "Vorsitzender der Gesch\u00e4ftsf\u00fchrung",
+                "lastName": "Leimbach",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "bitkom e.V."
+            },
+            {
+                "membership": "Verband der Anbieter von Telekommunikations- und Mehrwertdiensten (VATM) e.V."
+            },
+            {
+                "membership": "Schwedische Handelskammer in der Bundesrepublik Deutschland e.V."
+            },
+            {
+                "membership": "American Chamber of Commerce in Germany e.V."
+            },
+            {
+                "membership": "Europ\u00e4ische Bewegung Deutschland e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Ericsson GmbH"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Im Vorhaben \"AI4Mobile\" soll erforscht werden, inwieweit und welche KI-Methoden geeignet sind, um\r\nDienstg\u00fctevorhersagen von Mobilfunknetzen f\u00fcr mobile Anwendungsszenarien zu liefern. Die\r\nhochzuverl\u00e4ssige Kommunikation in Industrieszenarien ist eine h\u00e4ufig gestellte Anforderung in\r\nProduktionsszenarien. \r\n\r\nDie wesentlichen Arbeitsziele des Projektes bestehen daher in der Erarbeitung der Anforderungen im Hinblick auf Dienstg\u00fctevorhersagen in Industrie- oder Stra\u00dfenverkehrsszenarien, Erfahrungen zur Frage, welche KI-Methoden f\u00fcr die betrachteten Anwendungsf\u00e4lle sinnvoll eingesetzt werden k\u00f6nnen, zu sammeln und der Entwicklung von Konzepten, wie KI-Methoden in Mobilfunknetzen zur Dienstg\u00fctevorhersage genutzt werden k\u00f6nnen. Ausgew\u00e4hlte Konzepte sollen prototypisch umgesetzt und demonstriert werden.",
+                "location": "Bonn / Berlin",
+                "name": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "5G-RECORDS zielt darauf ab, die M\u00f6glichkeiten zu erforschen, die neue 5G-Technologiekomponenten f\u00fcr professionelle audiovisuelle Inhaltsprodukte bieten.\r\n\r\n5G-RECORDS zielt auf die Entwicklung, Integration, Validierung und Demonstration von 5G-Komponenten f\u00fcr die professionelle Produktion von Medieninhalten als Teil eines Gesamt\u00f6kosystems, das eine Teilmenge der 5G-Netzwerkfunktionen darstellt. Das Projekt nimmt eine Business-to-Business-Perspektive (B2B) ein, bei der 5G Teil des audiovisuellen (AV) Infrastruktur-Backbones wird. \r\n\r\nEs wird erwartet, dass alle technologischen Komponenten bis zum Ende des Projekts einen Technology Readiness Level (TRL) von mindestens 7 erreichen. 5G-RECORDS hat drei Anwendungsf\u00e4lle in Betracht gezogen, um einige der anspruchsvollsten Szenarien im Rahmen der professionellen Content-Produktion abzudecken: Live-Audioproduktion, ein drahtloses Multikamera-Studio und immersive Live-Medienproduktion.",
+                "location": "Br\u00fcssel, BELGIUM",
+                "name": "Europ\u00e4ische Kommission",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "EdgeFLEX links technical solutions to societal expectations. Short reaction times can be addressed by 5G-powered edge clouds linking dispersed devices in near realtime. In this respect, a new concept of VPPs, with communications corresponding to multiple layers of dynamics, becomes possible. EdgeFLEX proposes a new architecture for VPPs deploying such a multi-layer solution, paving the way for a fully renewable energy system. VPPs are brought to a new level, enabling them to interact on markets offering various ancillary services to System Operators. EdgeFLEX will develop this next generation VPP concept and demonstrate it in the context of 3 field trials and lab tests. It will explore innovative optimisations, financial tools and business scenarios for VPPs and assess the economic and societal impact. It will actively work to remove barriers by contributing to standards and European level regulation.\r\n",
+                "location": "Br\u00fcssel, BELGIUM",
+                "name": "Europ\u00e4ische Kommission",
+                "publicAllowanceEuro": {
+                    "from": 220001,
+                    "to": 230000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Im Vorhaben \"6G-ANNA Systemkonzept f\u00fcr Mobilfunk der 6. Generation\" sollen die Grundlagen f\u00fcr die\r\nnachfolgende Phase der Standardisierung von 6G gelegt werden. Zusammen mit dem\r\nProjektteam werden wir die Anforderungen von zukunftsweisenden Anwendungsf\u00e4llen analysieren, unter\r\nBer\u00fccksichtigung des Bedarfs der deutschen Industrie. Aussichtsreiche Technologiebausteine werden auf ihr Potential bewertet, um einen Entwurf f\u00fcr ein Gesamtsystem zu entwickeln. Technologietrends wie der Einsatz von K\u00fcnstlicher Intelligenz f\u00fcr die Automatisierung des Netzes und auch die Optimierung des Betriebs oder die Virtualisierung von Funktionalit\u00e4t werden aufgegriffen. Resultat wird ein Verst\u00e4ndnis \u00fcber eine geeignete und verifizierte Auswahl von L\u00f6sungen sein, z. B. welche Technologiebausteine aussichtsreich in die Standardisierung eingebracht werden k\u00f6nnen, welche Funktionen Schnittstellen bieten sollen und welche Leistungsmerkmale realistisch mit 6G erreicht werden.\r\nk\u00f6nnen.",
+                "location": "Bonn / Berlin",
+                "name": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "publicAllowanceEuro": {
+                    "from": 410001,
+                    "to": 420000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Der Sektor der intelligenten Fertigung durchl\u00e4uft derzeit einen digitalen Wandel, um manuelle Prozesse zu reduzieren und die Effizienz zu steigern. 5G ist als Schl\u00fcssel f\u00fcr das k\u00fcnftige \u00d6kosystem der Fertigung, die sogenannte Industrie 4.0, vorgesehen. 5G-SMART erschlie\u00dft den Wert von 5G f\u00fcr die intelligente Fertigung durch die Demonstration, Validierung und Evaluierung seines Potenzials in realen Fertigungsumgebungen. Im Rahmen von 5G-SMART werden die fortschrittlichsten integrierten 5G-Fertigungsanwendungen wie digitale Zwillinge, Industrierobotik und auf maschinellem Sehen basierende Remote-Operationen erprobt, indem erstmals 5G in einer Fertigungsumgebung eingesetzt wird. ",
+                "location": "Br\u00fcssel, BELGIUM",
+                "name": "Europ\u00e4ische Kommission",
+                "publicAllowanceEuro": {
+                    "from": 160001,
+                    "to": 170000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Die M\u00f6glichkeit, vernetzte, kooperative und autonome Mobilit\u00e4tsdienste (CCAM) entlang verschiedener L\u00e4nder anzubieten, wenn Fahrzeuge verschiedene nationale Grenzen \u00fcberqueren, birgt ein enormes innovatives Gesch\u00e4ftspotenzial. Die nahtlose Bereitstellung von Konnektivit\u00e4t und die ununterbrochene Erbringung von Diensten entlang der Grenzen birgt jedoch auch interessante technische Herausforderungen. Die Situation ist besonders herausfordernd, da jedes grenz\u00fcberschreitende Layout aus mehreren L\u00e4ndern, mehreren Betreibern, mehreren Telekommunikationsanbietern und mehreren Fahrzeug-OEMs besteht. Aus diesem Grund bringt 5GCroCo ein starkes Konsortium aus der europ\u00e4ischen Automobil- und Mobilfunkindustrie zusammen, mit der ausdr\u00fccklichen Unterst\u00fctzung der Stra\u00dfenverkehrsbeh\u00f6rden und der jeweiligen nationalen Regierungen (durch Unterst\u00fctzungsschreiben), um Innovationen an der Schnittstelle dieser beiden Industriesektoren zu entwickeln.",
+                "location": "Br\u00fcssel, BELGIUM",
+                "name": "Europ\u00e4ische Kommission",
+                "publicAllowanceEuro": {
+                    "from": 730001,
+                    "to": 740000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "In Zukunft werden sich physische Prozesse, kollaborierende Maschinen, aber auch neuartige Mensch-System-Interaktionen auf ein cyber-physisches Kontinuum zubewegen, das die physische Welt der Sinne und Handlungen sowie ihre digitalen programmierbaren Repr\u00e4sentationen miteinander verbindet. Angetrieben von zentralen Anwendungsf\u00e4llen der Industrie 5.0 adressiert DETERMINISTIC6G drei zentrale Herausforderungen: (1) eine neue Architektur f\u00fcr 6G-Systeme, die eine vorhersagbare Leistung bietet und sie durchg\u00e4ngig in TSN und DetNet integriert; (2) neuartige datengesteuerte Erkenntnisse \u00fcber die sich stochastisch entwickelnde Netzwerkleistung mit Zeitsynchronisation \u00fcber heterogene Dom\u00e4nen; und (3) die Nutzung neuartiger digitaler Zwillinge sowohl von 6G-Netzwerken als auch von cyber-physischen Systemen, um situative Umst\u00e4nde zu antizipieren, die sich auf den Determinismus von Netzwerken und die Sicherheit von cyber-physischen Systemen auswirken.",
+                "location": "Brussels, BELGIUM",
+                "name": "Europ\u00e4ische Kommission",
+                "publicAllowanceEuro": {
+                    "from": 230001,
+                    "to": 240000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Das TARGET-X-Projekt sieht vor, die digitale Transformation der wichtigsten Branchen zu beschleunigen: Energie, Bauwesen, Automobilindustrie und Fertigung durch gro\u00df angelegte Versuche in mehreren Testumgebungen. Durch die Demonstration, Validierung und Bewertung des Potenzials von 5G/6G in realen Umgebungen k\u00f6nnen die fortschrittlichsten 5G/6G-Technologien wie Echtzeitkommunikation, Lokalisierung, Selbstbeschreibung, digitales Twinning und Sensornetzwerk-Datenfusion getestet und bewertet werden. Die Entwicklung der L\u00f6sungen wird von der TARGET-X-Gemeinschaft, einem Netz von KMU, IT- und OT-Partnern und bis zu 100 FSTP-Drittparteien, unterst\u00fctzt und angeleitet, die ein starkes Konsortium mit KMU und Innovationsmotoren bilden. ",
+                "location": "Brussels, Belgium",
+                "name": "Europ\u00e4ische Kommission",
+                "publicAllowanceEuro": {
+                    "from": 620001,
+                    "to": 630000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Das Gesamtziel des Projekts ist die Erforschung innovativer Netztechnologien, in dem erstmalig eine Virtualisierung des Radio Access Network (sog. Cloud RAN), sowie die Virtualisierung industrieller Anwendungen auf einer gemeinsamen Plattform umgesetzt wird. Ericsson als Hersteller von Telekommunikations-Infrastruktur arbeitet mit Hochdruck an der Einf\u00fchrung von virtualisierten RAN-Komponenten, um Skalierungs- und Orchestrierungsf\u00e4higkeiten von Cloud-Infrastrukturen nutzen zu k\u00f6nnen und damit eine einfachere Einf\u00fchrung von 5G in der Industrie zu erm\u00f6glichen. Dadurch werden auch Hemmnisse wie Komplexit\u00e4t der Integration in bestehende Technologien reduziert. Eine Cloud-Orchestrierung verspricht eine flexible und schnelle Einrichtung neuer Netzbereiche, sowie ein vereinfachtes Management dieser Netze. Die Skalierungsm\u00f6glichkeiten erlauben den Betrieb sowohl sehr gro\u00dfer Netzwerkelemente als auch den sehr kleiner, wie zum Beispiel im Industrieumfeld.",
+                "location": "Bonn / Berlin",
+                "name": "Bundesministerium f\u00fcr Digitales und Verkehr",
+                "publicAllowanceEuro": {
+                    "from": 100001,
+                    "to": 110000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Eine bedarfsgerechte Fahrgastversorgung mit Konnektivit\u00e4t im Gigabit-Bereich sowie die Abl\u00f6sung des betrieblichen Bahnfunks GSM-R (Global System for Mobile Communications \u2013 Rail) durch das 5G basierte FRMCS (Future Railway Mobile Communication System) sind wesentliche Hebel zur Steigerung der Attraktivit\u00e4t der Schiene und damit zur Erreichung der Klimaziele. Basis hierf\u00fcr ist eine leistungsf\u00e4hige und gleichzeitig kosteneffiziente Mobilfunkinfrastruktur. L\u00f6sungskonzept ist die synergetische Nutzung einer innovativen Mobilfunkinfrastruktur am Gleis durch FRMCS und \u00f6ffentliche Mobilfunknetzbetreiber: eine gemeinsame Nutzung ben\u00f6tigt weniger Mobilfunkmasten und spart somit \u00f6kologische und \u00f6konomische Ressourcen.",
+                "location": "Bonn / Berlin",
+                "name": "Bundesministerium f\u00fcr Digitales und Verkehr",
+                "publicAllowanceEuro": {
+                    "from": 100001,
+                    "to": 110000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Ziel des KeeCEK Projektes ist die Entwicklung von Cloud Edge Knoten, die sowohl kritische industrielle Anwendungen ausf\u00fchren k\u00f6nnen als auch die 5G/6G Funkinfrastruktur bereitstellen. Das KeeCEK Projekt ist ein voll integrieterTeil der skalierbaren Ericsson Cloud Native Infrastructure Solution (CNIS), die damit um die Cloud Edge f\u00fcr kritische Anwendungen erweitert wird. Das sichert die Verf\u00fcgbarkeit auf kommerzieller Basis.\r\nDer Cloud Edge Knoten wird im Vorhaben entwickelt, um dann die folgenden neuen Merkmale zu\r\nunterst\u00fctzen: F\u00e4higkeit mehrere Anwendungen auszuf\u00fchren, mobile Konnektivit\u00e4t mit niedriger Latenz, Unterst\u00fctzung mehrerer Infrastrukturbetreiber, hohe Leistung, hohe Effizienz, hoch automatisierter Lebenszyklus, Orchestrierung und Management.\r\n",
+                "location": "Bonn / Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 850001,
+                    "to": 860000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Das Vorhaben \u201cKOMSENS-6G \u2013 Systemkonzept f\u00fcr Mobilfunk der 6. Generation mit integriertem Sensing\u201c\r\ndient der Erarbeitung der Grundlagen, wie man sinnvoll Sensing-Funktionalit\u00e4t in ein Mobilfunksystem der\r\n6. Generation integrieren kann. Diese Integration erlaubt die Verwendung von Funkinfrastruktur f\u00fcr radar\u00e4hnliche\r\nAnwendungen und bietet den Vorteil, ressourceneffizient das Funkspektrum f\u00fcr weitere\r\nAnwendungen zu nutzen. Dar\u00fcber hinaus bedeutet dieser Ansatz, dass ganz neue Dienste von\r\nMobilfunkbetreibern angeboten werden k\u00f6nnen. Zur erfolgreichen Umsetzung dieser Idee sind noch viele\r\nFragestellungen zu kl\u00e4ren. Zum Beispiel, welches Spektrum geeignet, welche Signalformen sich anbieten,\r\nwie Ressourcen-effizient sowohl Kommunikation als auch Sensing unterst\u00fctzt werden kann sowie welche\r\nSensing-Dienstg\u00fcten mit welchem Aufwand zu realisieren sind. ",
+                "location": "Bonn / Berlin",
+                "name": "Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 130001,
+                    "to": 140000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001102/42583",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-28T18:47:28.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/65/c4/341252/Lobbyregister-Detailansicht-R001102-2024-08-06_16-07-59.pdf",
+        "validFromDate": "2024-08-06T16:07:59.000+02:00",
+        "version": 8
+    },
+    "registerEntryId": 42583,
+    "registerNumber": "R001102",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Der Vorschlag der EU-Kommission f\u00fcr eine Verordnung \u00fcber standardessenzielle Patente (COM(2023) 232) begr\u00fcndet einen radikalen Eingriff in das erfolgreiche Innovations\u00f6kosystem der globalen Standardisierung, der die Wettbewerbsf\u00e4higkeit europ\u00e4ischer und deutscher Unternehmen bei der Entwicklung von Schl\u00fcsseltechnologien der Zukunft signifikant und nachhaltig beeintr\u00e4chtigen k\u00f6nnte. Wir streben gegen\u00fcber Entscheidungstr\u00e4gern eine grundlegende \u00dcberarbeitung des Kommissionsvorschlags mit dem Ziel an, die konzeptionellen, strukturellen und rechtlichen Defizite des Vorschlags zu beheben (u.a. betreffend die rechtliche Grundlage, Eingriffe in Grundrechte, Kompetenz\u00fcbertragung auf das EUIPO, sowie \u00dcberschneidungen mit bestehenden Strukturen).",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010172",
+                "statements": [],
+                "title": "\u00c4nderung des Vorschlags der EU-Kommission f\u00fcr eine Verordnung \u00fcber standardessenzielle Patente (COM(2023) 232)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Das Zusammenspiel von EU Gesetzgebung und Europ\u00e4ischen Standardisierungs-Organisationen bezeichnet man als Europ\u00e4isches Standardisierungssystem (ESS). Es ist ein wesentlicher Teil der europ\u00e4ischen Produktregulierung, die den Zugang zum europ\u00e4ischen Binnenmarkt regelt. Wir setzen uns f\u00fcr eine St\u00e4rkung des ESS ein, bei der sowohl die Interessen der Industrie als auch der Gesellschaft ber\u00fccksichtigt werden. Hierf\u00fcr arbeiten wir mit den europ\u00e4ischen und deutschen Standardisierungs-Organisationen zusammen und engagieren uns in entsprechenden Austauschplattformen, bspw. dem \u201eDeutschen Strategieforum f\u00fcr Standardisierung\u201c des BMWK.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CYBER",
+                        "de": "Cybersicherheit",
+                        "en": "Cyber security"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010173",
+                "statements": [],
+                "title": "St\u00e4rkung des Europ\u00e4ischen Standardisierungssystems - Regulation (EU) No 1025/2012"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "TKG",
+                        "title": "Telekommunikationsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/tkg_2021"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die Zuweisung von Funkspektrum an bestimmte Funkdienste wird global von der International Telecommunication Union (ITU) geregelt. Die Weltfunkkonferenz der ITU tagt alle 4 Jahren und passt diese Zuweisungen an die aktuellen Entwicklungen an. Wir setzen uns f\u00fcr eine ausreichende Versorgung des Mobilfunks mit Funkspektrum ein, um eine leistungsf\u00e4hige Versorgung der Bundesrepublik Deutschland sicherzustellen. Das gilt sowohl f\u00fcr die aktuelle(n) Mobilfunkgeneration(en) als auch f\u00fcr die zuk\u00fcnftige 6. Generation (6G). Hierf\u00fcr engagieren wir uns bspw. in der nationalen Vorbereitungsgruppe f\u00fcr die Weltfunkkonferenz 2027 der BNetzA bzw. des BMDV. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010174",
+                "statements": [],
+                "title": "Sicherstellung einer ausreichenden Versorgung des Mobilfunks mit Spektrum"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "TKG",
+                        "title": "Telekommunikationsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/tkg_2021"
+                    },
+                    {
+                        "shortTitle": "BauGB",
+                        "title": "Baugesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bbaug"
+                    },
+                    {
+                        "shortTitle": "BNatSchG",
+                        "title": "Gesetz \u00fcber Naturschutz und Landschaftspflege",
+                        "url": "https://www.gesetze-im-internet.de/bnatschg_2009"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Wir setzen uns f\u00fcr einen beschleunigten und vereinfachten TK-Netzausbau durch das Regelungsvorhaben ein. Insbesondere sprechen wir uns daf\u00fcr aus, dass der Ausbau der Telekommunikationsnetze im Rahmen des TK-NABEG k\u00fcnftig nicht nur als \u201e\u00f6ffentliches Interesse\", sondern als \u201e\u00fcberragendes \u00f6ffentliches Interesse\u201c eingestuft wird - so wie es beim Ausbau der erneuerbaren Energien bereits der Fall ist.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://bmdv.bund.de/SharedDocs/DE/Anlage/Gesetze/Gesetze-20/gesetz-beschleunigung-ausbau-telekommunikationsnetze.pdf?__blob=publicationFile",
+                            "draftBillProjectUrl": "https://bmdv.bund.de/SharedDocs/DE/Gesetze-20/gesetz-beschleunigung-ausbau-telekommunikationsnetze.html?nn=508840",
+                            "shortTitle": "BMDV",
+                            "title": "Bundesministerium f\u00fcr Digitales und Verkehr",
+                            "url": "https://bmdv.bund.de/DE/Home/home.html"
+                        }
+                    ],
+                    "publicationDate": "2023-08-28",
+                    "title": "Entwurf eines Gesetzes zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010175",
+                "statements": [],
+                "title": "Beschleunigung des digitalen Netzausbaus, TKG-Novelle (TK-NABEG)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Wir setzen uns daf\u00fcr ein, dass die NIS-2-Richtlinie angemessen in deutsches Recht umgesetzt wird und eine St\u00e4rkung und Harmonisierung des Cybersecurity-Regulierungsrahmen unter besonderer Ber\u00fccksichtigung der vollst\u00e4ndigen Umsetzung der EU 5G Toolbox erwirkt. Zugleich streben wir an, dass ein einheitlich hohes Schutzniveau zur St\u00e4rkung der Cyberresilienz erzielt wird.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "Entwurf eines Gesetzes zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundz\u00fcge des Informationssicherheitsmanagements in der Bundesverwaltung",
+                            "draftBillProjectUrl": "https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/nis2umsucg.html;jsessionid=93D01585E2E10FEAB030949E0E15150C.live861",
+                            "shortTitle": "BMI",
+                            "title": "Bundesministerium des Innern und f\u00fcr Heimat",
+                            "url": "https://www.bmi.bund.de/DE/startseite/startseite-node.html"
+                        }
+                    ],
+                    "publicationDate": "2024-05-07",
+                    "title": "Entwurf eines NIS-2-Umsetzungs- und Cybersicherheitsst\u00e4rkungsgesetzes"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CYBER",
+                        "de": "Cybersicherheit",
+                        "en": "Cyber security"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010176",
+                "statements": [],
+                "title": "Angemessene Umsetzung des Gesetzes zur NIS-2-Richtlinie (NIS2UmsuCG)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Wir setzen uns f\u00fcr eine harmonisierte und praxisorientierte Umsetzung des CRA auf Bundesebene ein.\r\n",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CYBER",
+                        "de": "Cybersicherheit",
+                        "en": "Cyber security"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010177",
+                "statements": [],
+                "title": "Umsetzung des EU Cyber Resilience Acts (COM/2022/454 final)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Ziel der Interessenvertretung ist die Sicherstellung von hinreichendem Wachstumspotential und Investitionsr\u00e4umen im Telekommunikationsmarkt der Zukunft, der Adressierung der massiven Konnektivit\u00e4tsl\u00fccke in Europa sowie Optionen, diese zu schlie\u00dfen. Weiterhin setzen wir uns f\u00fcr einen st\u00e4rkeren Fokus auf 5G SA und Mid-Band ein. Diese Ziele beziehen sich auf diverse politische Prozesse wie bspw. das EU Commission White Paper \"How to master Europe's digital infrastructure needs?\", den Report von Enrico Letta \"Much more than a market\" sowie den im Juli 2024 erscheinenden Report von Mario Draghi zur europ\u00e4ischen Wettbewerbsf\u00e4higkeit.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CYBER",
+                        "de": "Cybersicherheit",
+                        "en": "Cyber security"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010178",
+                "statements": [],
+                "title": "Regulierung des TK-Sektors bzw. des TK-Binnenmarktes der Zukunft"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Wir setzen uns daf\u00fcr ein, dass Deutschland zu einem f\u00fchrenden Standort f\u00fcr die n\u00e4chste Mobilfunkgeneration 6G werden wird. Deshalb streben wir an, dass die politische Seite weiterhin langfristige und sinnvolle F\u00f6rderprogramme aufsetzt, ausreichend Spektrum bereitstellt, bau- und genehmigungsrechltichen H\u00fcrden absenkt und sich konstruktiv im internationalen Dialog zur Virtualisierung, Automatisierung und \u00d6ffnung von Schnittstellen (Open RAN) einbringt.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010179",
+                "statements": [],
+                "title": "Deutschland zum f\u00fchrendem 6G-Standort machen"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

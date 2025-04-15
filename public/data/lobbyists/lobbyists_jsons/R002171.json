@@ -1,0 +1,983 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-08-04T11:10:53.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-28T15:07:26.000+01:00",
+        "lastUpdateDate": "2024-08-23T10:25:15.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 43237,
+                "validFromDate": "2024-08-23T10:25:15.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 35726,
+                "validFromDate": "2024-06-28T16:10:05.000+02:00",
+                "validUntilDate": "2024-08-23T10:25:15.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25875,
+                "validFromDate": "2023-09-27T17:43:25.000+02:00",
+                "validUntilDate": "2024-06-28T16:10:05.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 24195,
+                "validFromDate": "2023-07-20T15:04:28.000+02:00",
+                "validUntilDate": "2023-09-27T17:43:25.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 24188,
+                "validFromDate": "2023-07-20T14:54:42.000+02:00",
+                "validUntilDate": "2023-07-20T15:04:28.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21772,
+                "validFromDate": "2023-06-30T17:04:55.000+02:00",
+                "validUntilDate": "2023-07-20T14:54:42.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 8054,
+                "validFromDate": "2022-08-04T11:10:53.000+02:00",
+                "validUntilDate": "2023-06-30T17:04:55.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION_V2",
+            "de": "Sonstiges Unternehmen",
+            "en": "Other company"
+        },
+        "activityDescription": "Vertretung der Interessen eines nach spanischem Recht lizensierten, unter einem EU-Passport in Deutschland t\u00e4tigen Zahlungsdienstleisters in allen Angelegenheiten gegen\u00fcber Bundestag und Bundesregierung  ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_LAS_TOURISM",
+                "de": "Tourismus",
+                "en": "Tourism"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_ECONOMY_ECOMMERCE",
+                "de": "E-Commerce",
+                "en": "E-commerce"
+            },
+            {
+                "code": "FOI_ECONOMY_FINANCE",
+                "de": "Bank- und Finanzwesen",
+                "en": "Banking and finance"
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            },
+            {
+                "code": "CONTRACTS_OPERATED_BY_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird in eigenem Interesse durch die Beauftragung Dritter wahrgenommen",
+                "en": "Contracts are awarded to third parties to represent own interests of the company"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/8c/03/346499/American-Express-Europe-SA-2023-English.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.8,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 190001,
+            "to": 200000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Frankfurt am Main",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Theodor-Heuss-Allee ",
+            "streetNumber": "112",
+            "type": "NATIONAL",
+            "zipCode": "60486"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "impressum@aexp.com"
+                }
+            ],
+            "phoneNumber": "+496997971000",
+            "websites": [
+                {
+                    "website": "https://www.americanexpress.com/de-de/"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Dr. ",
+                "firstName": "Carolin",
+                "lastName": "Breuer",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_OTHER_JP_INTERNATIONAL",
+            "de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+            "en": "Other juristic person",
+            "legalFormText": "Sociedad An\u00f3nima nach spanischem Recht"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Juan",
+                "function": "Director, Chairman",
+                "lastName": "Orti Ochoa de Oc\u00e1riz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Juan",
+                "function": "Director",
+                "lastName": "Castuera P\u00e9rez ",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Lucy",
+                "function": "Director",
+                "lastName": "Fenwick",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Tom\u00e1s",
+                "function": "Director",
+                "lastName": "Fern\u00e1ndez Salido",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Diego",
+                "function": "Director",
+                "lastName": "Rodr\u00edguez Sacrist\u00e1n",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Fredrik G\u00f6ran",
+                "function": "Director",
+                "lastName": "Sauter",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Nicole",
+                "function": "Director",
+                "lastName": "Bankhead",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Fabiano",
+                "function": "Director",
+                "lastName": "Dourado Nunes",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Fabiana",
+                "function": "Director",
+                "lastName": "Mingrone",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Julia",
+                "function": "Director",
+                "lastName": "L\u00f3pez-Fern\u00e1ndez",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Bitkom e.V."
+            },
+            {
+                "membership": "Bundesverband der Zahlungs- und E-Geld-Institute (BVZI) e.V.     "
+            },
+            {
+                "membership": "Interessengemeinschaft Kreditkarten "
+            },
+            {
+                "membership": "Verband der Auslandsbanken in Deutschland e.V."
+            },
+            {
+                "membership": "SPD Wirtschaftsforum e.V."
+            },
+            {
+                "membership": "Wirtschaftsrat der CDU e.V."
+            },
+            {
+                "membership": "American Chamber of Commerce in Germany e. V."
+            },
+            {
+                "membership": "Verband Deutsches Reisemanagement e.V."
+            },
+            {
+                "membership": "Der Mittelstand, BVMW e.V."
+            },
+            {
+                "membership": "Gr\u00fcner Wirtschaftsdialog e.V. "
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "American Express Europe S.A. (Germany branch)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002171/43237",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-28T16:10:05.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d8/91/346500/Lobbyregister-Detailansicht-R002171-2024-08-23_10-25-15.pdf",
+        "validFromDate": "2024-08-23T10:25:15.000+02:00",
+        "version": 8
+    },
+    "registerEntryId": 43237,
+    "registerNumber": "R002171",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BGB",
+                        "title": "B\u00fcrgerliches Gesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Amex unterst\u00fctzt die zentralen Ziele der neuen Verbraucherkreditrichtlinie. Wir m\u00f6chten jedoch die Aufmerksamkeit auf zwei zentrale Risiken lenken, die wir in der \u00fcberarbeiteten Richtlinie sehen und die auf der Ebene der Mitgliedstaaten im Rahmen der Umsetzung angegangen werden k\u00f6nnen. Wir fordern, dass Ma\u00dfnahmen ergriffen werden, um sicherzustellen, dass: - \"Debitkarten mit Zahlungsaufschub\" ausgenommen bleiben, indem bei der Umsetzung der CCD2 in Deutschland von der Ausnahmem\u00f6glichkeit Gebrauch gemacht wird, die Artikel 2 Absatz 5 CCD2 vorsieht, und - die vorgeschlagenen Obergrenzen sich ausschlie\u00dflich gegen \u00fcberm\u00e4\u00dfig hohe Zinss\u00e4tze richten und nicht versehentlich j\u00e4hrliche Mitgliedsentgelte f\u00fcr andere Leistungen miterfasst werden.  ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_FINANCE",
+                        "de": "Bank- und Finanzwesen",
+                        "en": "Banking and finance"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009855",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b7/07/325282/Stellungnahme-Gutachten-SG2406220001.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                        "de": "Bundesministerium der Finanzen (BMF)",
+                                        "en": "Bundesministerium der Finanzen (BMF)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                        "de": "Bundesministerium der Justiz (BMJ)",
+                                        "en": "Bundesministerium der Justiz (BMJ)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-26"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009855",
+                        "regulatoryProjectTitle": "EU-Verbraucherkreditrichtlinie (Consumer Credit Directive)",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Sehr...,\r\n\r\nwir m\u00f6chten uns nochmals f\u00fcr das Gespr\u00e4ch mit Ihnen und weiteren Vertretern bedanken und im Nachgang zu zwei Themen aus unserer Diskussion Stellung nehmen, die wir als sehr wesentlich erachten:\r\n\r\n1. Debitkarten mit Zahlungsaufschub\r\nDa in dem Telefonat hinterfragt wurde, warum wir der Ansicht seien, Chargekarten fielen unter den Begriff \u201edeferred debit cards\u201c/\u201eDebitkarten mit Zahlungsaufschub\u201c, wie er in Art. 2 Abs. 5 der Verbraucherkreditrichtlinie 2023/2225 vom 18.10.2023 (nachfolgend \u201eCCD\u201c) verwendet wird, m\u00f6chten wir auf die Definition verweisen, die sich im Erw\u00e4gungsgrund (17) der \u201eVerordnung (EU) 2015/751 \u00fcber Interbankenentgelte f\u00fcr kartengebundene Zahlungsvorg\u00e4nge\u201c vom 29. April 2015 befindet. Dort hei\u00dft es:\r\n\u201eEs gibt im Wesentlichen zwei Arten von Kreditkarten auf dem Markt. Bei Debitkarten mit Zahlungsaufschub wird das Konto des Karteninhabers zu einem im Voraus vereinbarten spezifischen Zeitpunkt, in der Regel einmal monatlich, mit dem gesamten Betrag der Transaktionen belastet, ohne dass Zinsen zu zahlen sind. Bei anderen Kreditkarten kann der Karteninhaber eine Kreditfazilit\u00e4t nutzen, um einen Teil der Betr\u00e4ge zu einem sp\u00e4teren als dem angegebenen Zeitpunkt zur\u00fcckzahlen, zuz\u00fcglich Zinsen oder sonstiger Kosten.\u201c [Fettgedruckte Hervorhebungen hier und in weiteren Zitaten wurden von uns vorgenommen.]\r\nIm Erw\u00e4gungsgrund (13) zur Verbraucherkreditrichtlinie 2008/48 hei\u00dft es:\r\n\u201eDiese Richtlinie sollte nicht gelten f\u00fcr bestmmte Arten von Kreditvertr\u00e4gen, z. B. einen Zahlungsaufschub gew\u00e4hrende Debit-Karten, nach deren Vertragsbedingungen der Kredit innerhalb von drei Monaten zu tilgen ist und lediglich geringf\u00fcgige Kosten anfallen.\u201c\r\nAufgrund dieser Regelung und dessen Umsetzung im deutschen Verbraucherkreditrecht unterliegen Chargekarten derzeit in Deutschland nicht den verbraucherkreditrechtlichen Anforderungen.\r\nWeiterhin findet sich im Rulebook 1 der EPSG (European Payments Stakeholders Group) (heps://www.e-csg.eu/ecsg-volume-10-0) folgende Definition von Chargekarten: \r\n\r\n-Bild-\r\n\r\nFazit: Die oben zitierten Regelungen zeigen deutlich, dass branchenweit und auch der europ\u00e4ische Gesetzgeber in der CCD mit dem Begriff \u201eDebitkarten mit Zahlungsaufschub\u201c die sog. Chargekarten meinen und dass der europ\u00e4ische Gesetzgeber diese aufgrund der Regelung in Art. 2 Abs. 5 CCD von den Regelungen der CCD ausnehmen m\u00f6chte.\r\n\r\n2. Ausnahmen f\u00fcr (i) Debitkarten mit Zahlungsaufschub in Art. 2 Abs. 5 CCD und (ii) f\u00fcr H\u00e4ndler in Art. 2 Ab. 2 h) CCD\r\nMit der Regelung in Art. 2 Abs. 5 CCD will der europ\u00e4ische Gesetzgeber den Mitgliedstaaten die M\u00f6glichkeit einr\u00e4umen, von Banken und Zahlungsinstituten ausgegebene Chargekarten von den Regelungen der CCD auszunehmen. Die Mo]va]on hierf\u00fcr wird in Erw\u00e4gungsgrund (18) der CCD genannt:\r\n\u201e... Die Mitgliedstaaten sollten bestimmte Kreditvertr\u00e4ge in Form von Debitkarten mit Zahlungsaufschub von dieser Richtlinie ausnehmen k\u00f6nnen, da solche Kreditvertr\u00e4ge Haushalten helfen k\u00f6nnen, ihr Budget besser an ein monatliches Einkommen anzupassen, wenn der Kredit binnen 40 Tagen zur\u00fcckgezahlt werden muss, zinsfrei und geb\u00fchrenfrei \u2013 mit lediglich begrenzten Geb\u00fchren im Zusammenhang mit der Erbringung der Zahlungsdienstleistung \u2013 ist sowie von einem Kreditinstitut oder einem Zahlungsinstitut bereitgestellt wird. ...\u201c\r\nMit der Regelung in Art. 2 Abs. 2 h), S. 1 CCD will der europ\u00e4ische Gesetzgeber den Mitgliedstaaten die M\u00f6glichkeit einr\u00e4umen, Zahlungsaufsch\u00fcbe, die H\u00e4ndler selbst ihren Kunden bis zum einem Zeitraum vom 50 Tagen nach Lieferung der Ware/Erbringung der Dienstleistung gew\u00e4hren, von den Regelungen der CCD auszunehmen. Sofern der Gesetzgeber hiervon wiederum eine Ausnahme f\u00fcr gro\u00dfe online-H\u00e4ndler in Art. 2 Abs. 2 h), S.2 CCD vorsieht und von denen gew\u00e4hrte Zahlungsaufsch\u00fcbe von mehr als 14 Tagen den Regelungen der CCD unterworfen sehen will, so liegen dieser Regelung wettbewerbsrechtliche Erw\u00e4gungen zugrunde. In Erw\u00e4gungsgrund (17) der CCD hei\u00dft es:\r\n\u201e... Dieser Ausschluss sollte f\u00fcr bestimmte gro\u00dfe Online-Warenlieferanten oder -Dienstleistungserbringer, die Zugang zu einem gro\u00dfen Kundenstamm haben, auf F\u00e4lle beschr\u00e4nkt werden, ... und bei denen die Zahlung vollst\u00e4ndig binnen 14 Tagen nach der Lieferung der Waren oder der Erbringung der Dienstleistungen zins- und geb\u00fchrenfrei \u2013 mit lediglich begrenzten Kosten, die vom Verbraucher bei Zahlungsverzug im Einklang mit dem nationalen Recht zu zahlen sind \u2013 zu leisten ist. Solche gro\u00dfen Online-Anbieter w\u00e4ren angesichts ihrer finanziellen M\u00f6glichkeiten und ihrer F\u00e4higkeit, Verbraucher zu impulsiven K\u00e4ufen und m\u00f6glicherweise zu \u00fcberm\u00e4\u00dfigem Konsum zu verleiten, andernfalls in der Lage, Zahlungsaufsch\u00fcbe in sehr erheblichem Ausma\u00df anzubieten, ohne dass Verbraucher gesch\u00fctzt w\u00e4ren, und den fairen Wettbewerb mit anderen Warenlieferanten oder Dienstleistungserbringern zu schw\u00e4chen. ...\u201c\r\nDie Ausnahmeregelungen stehen in der CCD parallel und unabh\u00e4ngig nebeneinander. Diese miteinander ins Verh\u00e4ltnis zu setzen, w\u00e4re nicht rich]g, da sie unterschiedliche, nicht miteinander vergleichbare Sachverhalte abdecken.\r\nChargekarten werden von Kredit- oder Zahlungsinstituten im Rahmen eines Dauerschuldverh\u00e4ltnisses ausgegeben. Die Kartenkunden werden vor Abschluss des Vertrages umfassend nach dem EGBGB informiert und wissen, dass und wann sie die mit der Karte get\u00e4tigten Ausgaben zinsfrei nach der monatlichen Abrechnung dem Kartenherausgeber erstatten m\u00fcssen. Sowohl bei Abschluss als auch w\u00e4hrend der laufenden Gesch\u00e4ftsverbindung wird die Kreditw\u00fcrdigkeit des Kunden gepr\u00fco, laufend \u00fcberwacht und bei jeder Kartenzahlung eine Genehmigung durch den H\u00e4ndler eingeholt. Die Herausgeber von Chargekarten allein haben keinerlei Einflussm\u00f6glichkeiten auf das Grundgesch\u00e4ft zwischen dem H\u00e4ndler und Verbraucher. Unter verbraucherschutz- sowie kreditrechtlichen Erw\u00e4gungen und den in Erw\u00e4gungsgrund (18) genannten Gr\u00fcnden hat der europ\u00e4ische Gesetzgeber daher die Ausnahmem\u00f6glichkeit f\u00fcr Chargekarten in der CCD vorgesehen.\r\nZahlungsaufsch\u00fcbe, die von H\u00e4ndlern ad hoc im Rahmen der jeweiligen Verkaufssituation gew\u00e4hrt werden, stellen eine mit der Chargekarte nicht vergleichbare Art der Kreditgew\u00e4hrung dar. Dies gilt sowohl im Hinblick auf die Umst\u00e4nde der Gew\u00e4hrung als auch die M\u00f6glichkeiten der Kreditw\u00fcrdigkeitspr\u00fcfung durch den H\u00e4ndler. Aus diesem Grunde hat der europ\u00e4ische Gesetzgeber eine separate Ausnahmeregelung f\u00fcr diese Art der Kreditgew\u00e4hrung vorgesehen. Von dieser wird wiederum f\u00fcr gro\u00dfe online-H\u00e4ndler eine Sonderregelung vorgesehen, da man hier das Risiko f\u00fcr die Verbraucher sieht, dass diese H\u00e4ndler aufgrund ihrer finanziellen Mittel die M\u00f6glichkeit haben, die Verbraucher nicht nur durch (i) die Art und Weise des Angebots des Produkts und (ii) die Preise f\u00fcr das Produkt selbst zu K\u00e4ufen zu verleiten, sondern auch durch (iii) entsprechende interessante Konditionen f\u00fcr den von ihnen ggfls. zus\u00e4tzlich angeboten Zahlungsaufsch\u00fcbe.\r\nZudem kann jeder H\u00e4ndler frei entscheiden, ob er Chargekarten als Zahlungsmittel akzeptieren und damit seinen Kunden indirekt die M\u00f6glichkeit einer verz\u00f6gerten Bezahlung der Ware/Dienstleistung anbieten will oder nicht.\r\n\r\nFazit:\r\nDie Ausnahmeregelung in Art. 2 Abs. 5 CCD f\u00fcr Chargekarten und die in Art. 2 Abs. 2 h) CCD sind unabh\u00e4ngig voneinander zu betrachten. Alles andere w\u00e4re eine Verzerrung des Willens des europ\u00e4ischen Gesetzgebers.\r\nGerne stehen wir Ihnen zu einem weiteren Austausch zu diesen und anderen Themen im Rahmen der CCD zur Verf\u00fcgung.\r\n\r\n- Tabellarische \u00dcbersicht \"\u00dcbersicht einiger Arten von Zahlungskarten gem\u00e4\u00df Verordnung (EU) 2015/751 \u00fcber Interbankenentgelte f\u00fcr kartengebundene Zahlungsvorg\u00e4nge\""
+                        }
+                    }
+                ],
+                "title": "EU-Verbraucherkreditrichtlinie (Consumer Credit Directive)"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "ZAG",
+                        "title": "Gesetz \u00fcber die Beaufsichtigung von Zahlungsdiensten",
+                        "url": "https://www.gesetze-im-internet.de/zag_2018"
+                    },
+                    {
+                        "shortTitle": "BGB",
+                        "title": "B\u00fcrgerliches Gesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Amex begr\u00fc\u00dft die Weiterentwicklung der PSD2 und hat einige Schl\u00fcsselpriorit\u00e4ten definiert, an denen sich der Revisionsprozess der PSD2 ausrichten sollte: - Zukunftssichere Anforderungen an die starke Kundenauthentifizierung, um Sicherheit, Komfort und Transparenz wieder ins Gleichgewicht zu bringen, - Sicherstellen, dass die rechtlichen Anforderungen allen Zahlungsarten und Zahlungsdienstnutzern gerecht werden, und - Sicherstellung der regulatorischen und aufsichtlichen Koh\u00e4renz in ganz Europa durch die Beseitigung einer fragmentierten Auslegung der rechtlichen Anforderungen. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_FINANCE",
+                        "de": "Bank- und Finanzwesen",
+                        "en": "Banking and finance"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009856",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a5/a5/325284/Stellungnahme-Gutachten-SG2406220002.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                        "de": "Bundesministerium der Finanzen (BMF)",
+                                        "en": "Bundesministerium der Finanzen (BMF)"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-10"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009856",
+                        "regulatoryProjectTitle": "EU-Zahlungsdiensterichtlinie 3 & EU-Zahlungsdiensteverordnung 1 (Payments Services Directive 3 & Payment Services Regulation 1)",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Im Hinblick auf die Ratsarbeitsgruppe am Mittwoch wollte ich gerne kurz folgenden Punkt zur Payment Account-Definition mit Ihnen teilen: \r\n \r\nOpen Banking:\r\n \r\nThe Payment Accounts definition (Recital 20 PSR): The Belgian presidency is proposing a wider PA definition which could lead to potential inconsistencies in in the EU. The amendments to Recital 20 PSR changing current wording from \u2018is used to \u2019 to \u2018can be used\u2019 could cause a major impact as criteria to be considered a PA could vary, especially when accompanied with the more controversial addition of the faculty for NCAs to determine on a case-by-case basis whether credit card accounts meet the criteria to be considered PA (i.e., allowing for sending and receiving funds) as this could be detrimental to harmonization \u2013 especially when introduced in legal instrument with direct applicability (PSR). We would be more comfortable maintaining the current version of the definition that happens to be in line with the ECJ too as already referred in previous exchanges."
+                        }
+                    },
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/62/17/325286/Stellungnahme-Gutachten-SG2406220003.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                        "de": "Bundesministerium der Finanzen (BMF)",
+                                        "en": "Bundesministerium der Finanzen (BMF)"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-17"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009856",
+                        "regulatoryProjectTitle": "EU-Zahlungsdiensterichtlinie 3 & EU-Zahlungsdiensteverordnung 1 (Payments Services Directive 3 & Payment Services Regulation 1)",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "American Express Positionspapier zu PSD3 und PSR1 \u2013 Mai 2024\r\n\r\n1. Payment Services Regulation (PSR1) \u2013 Zahlungsdienste-Verordnung\r\n\r\n1.1 Surcharging: Harmonisierung der Surcharging-Regeln (Erw\u00e4gungsgrund 53, Art. 28\r\nPSR1)\r\nEine ungl\u00fcckliche Folge der Zweiten Zahlungsdiensterichtlinie (Payment Services Directive 2,\r\nPSD2) war die Fragmentierung der Surcharging-Regeln in den Mitgliedstaaten, was zu\r\nunerfreulichen Kundenerfahrungen und einem Mangel an Transparenz f\u00fcr Verbraucher f\u00fchrte.\r\nDie Europ\u00e4ische Kommission (KOM) sch\u00e4tzt, dass 95 % der Kartenzahlungen bereits unter das\r\nbestehende Verbot von Surcharging fallen. Dar\u00fcber hinaus haben 18 Mitgliedstaaten das\r\nSurcharging vollst\u00e4ndig verboten. Die neue Verordnung \u00fcber Zahlungsdienste (Payment\r\nServices Regulation, PSR1) bietet daher die Gelegenheit, die Regeln mit einem EU-weiten\r\nVerbot weiter zu harmonisieren.\r\nEin vollst\u00e4ndiges EU-weites Verbot von Surcharging f\u00fcr alle Kartentransaktionen wird dazu\r\nbeitragen, die Rechte der Verbraucher zu sch\u00fctzen, ein besseres Einkaufserlebnis f\u00fcr die\r\nKunden zu gew\u00e4hrleisten, die Transparenz von H\u00e4ndlern zu f\u00f6rdern, missbr\u00e4uchlichen\r\nPraktiken ein Ende zu setzen und gleiche Wettbewerbsbedingungen f\u00fcr alle\r\nZahlungsdienstleister (ZDL) zu schaffen. Nicht zuletzt w\u00fcrde eine EU-weit einheitliche\r\nRegelung mit einem vollst\u00e4ndigen Verbot dazu beitragen, dass Drei-Parteien-Systeme oder\r\nalternative Zahlungsanbieter an der Kasse nicht mehr diskriminiert werden.\r\nAus den oben genannten Gr\u00fcnden begr\u00fc\u00dft American Express (Amex) die Unterst\u00fctzung des\r\nEurop\u00e4ischen Parlaments (EP) f\u00fcr ein EU-weites Verbot der Erhebung von Surcharging-\r\nGeb\u00fchren.\r\n\r\n1.2 Verhaltensbiometrische Daten: Den Wert der Verhaltensbiometrie anerkennen\r\n(Pr\u00e4ambel, Art. 83, 85 PSR1)\r\nAmex begr\u00fc\u00dft die Entscheidung der KOM, die Verhaltensbiometrie f\u00fcr die \u00dcberwachung des\r\nTransaktionsrisikos einzubeziehen, indem in PSR1 die neue Anforderung eingef\u00fchrt wird,\r\nTransaktions\u00fcberwachungsmechanismen (T\u00dcM) sowohl f\u00fcr die derzeitige Ausnahmeregelung\r\nvon der starken Kundenauthentifizierung (SCA), die Transaktionsrisikoanalyse (TRA), als auch\r\nf\u00fcr die Betrugsermittlung einzurichten.\r\nF\u00fcr den T\u00dcM sorgen die \u00dcberwachungsmechanismen f\u00fcr mehr Klarheit in Bezug auf die\r\n\"Inh\u00e4renz\", da sie auf der Analyse von Zahlungstransaktionen und Elementen beruhen\r\nm\u00fcssen, die f\u00fcr den Zahlungsdienstnutzer typisch sind (z. B. die normale Verwendung seiner\r\nSicherheitsdaten), und Umwelt- und Verhaltensmerkmale (z.B. Standort, Transaktionszeit,\r\nGer\u00e4t, Ausgabegewohnheiten oder bestimmter Einzelh\u00e4ndler) umfassen. Aus dem Vorschlag\r\ngeht jedoch nicht hervor, ob die \"Inh\u00e4renz\" innerhalb der SCA-Definition angepasst werden\r\nsoll. Amex pl\u00e4diert daf\u00fcr, dass in der PSR1 ausdr\u00fccklich darauf hingewiesen wird, dass\r\n\"Inh\u00e4renz\"-Faktoren auch verhaltensbiometrische Daten umfassen und dass dies f\u00fcr alle\r\neinschl\u00e4gigen Szenarien gilt, die in diesem Rahmen vorgesehen sind (z. B. PSD3, PSR1 und RTS).\r\nDerzeit wird dies nur in Bezug auf den T\u00dcM in der PSR1-Erl\u00e4uterung (Pr\u00e4ambel) erw\u00e4hnt, nicht\r\naber im SCA-Artikel.\r\n\r\nAmex ist der Ansicht, dass ein restriktiver Ansatz bei der Nutzung der Verhaltensbiometrie\r\nInnovationen behindert und die Bem\u00fchungen zur Betrugsbek\u00e4mpfung erschwert. Derzeit gibt\r\nes in der Branche L\u00f6sungen, die den Kunden mit einem hohen Ma\u00df an Genauigkeit erfolgreich\r\nauthentifizieren k\u00f6nnen, ohne dass der Kunde weitere Ma\u00dfnahmen ergreifen muss. Diese\r\nMethoden sind besonders f\u00fcr schutzbed\u00fcrftige oder \u00e4ltere Nutzer von Vorteil, die\r\nm\u00f6glicherweise Schwierigkeiten haben, andere Authentifizierungsschritte auszuf\u00fchren.\r\nAmex begr\u00fc\u00dft daher die Entscheidung des EP , Verhaltensmerkmale in den Inh\u00e4renz-Faktor der\r\nSCA aufzunehmen. Obwohl es Aufgabe der Europ\u00e4ischen Bankaufsichtsbeh\u00f6rde (EBA) ist, die\r\nspezifischen technischen Regulierungsstandards f\u00fcr den T\u00dcM unter Ber\u00fccksichtigung von\r\nbiometrischen Verhaltensmerkmalen zu entwickeln, wird die St\u00e4rkung des Grundsatzes in den\r\nRechtsvorschriften der Stufe 1 (level 1 legislation) als wesentlich angesehen.\r\n\r\n1.3 Betrugsbek\u00e4mpfung: Sch\u00e4rfung der Definitionen f\u00fcr eine wirksame Betrugsbek\u00e4mpfung\r\n(Art. 56, 59 PSR1)\r\nBetrugspr\u00e4vention, geteilte Haftung und korrekte und harmonisierte Definitionen von\r\nBetrugshandlung und grober Fahrl\u00e4ssigkeit stehen seit der Ver\u00f6ffentlichung der PSR1- und\r\nPSD3-Vorschl\u00e4ge durch die KOM im Juni 2023 im Mittelpunkt der Diskussionen. Die Kl\u00e4rung\r\nder Frage, was als \"grobe Fahrl\u00e4ssigkeit\" gilt und unter welchen Bedingungen dies der Fall sein\r\nwird, ist f\u00fcr die Branche von entscheidender Bedeutung ebenso wie die Kl\u00e4rung der Haftung\r\ndes Zahlungsdienstleisters f\u00fcr nicht autorisierte Transaktionen und die Frage, wann diese\r\nHaftung mit anderen Dritten geteilt wird, die bei der Transaktion eine Rolle gespielt haben\r\nund technisch dazu beitragen k\u00f6nnten, Betrug zu verhindern.\r\nDie vom EP angenommenen \u00c4nderungen zielen darauf ab, diese spezifischen Probleme zu\r\nl\u00f6sen, aber auf Ratsebene muss noch mehr getan werden, um die bestehenden Schlupfl\u00f6cher\r\nzu schlie\u00dfen.\r\n1.4 Open-Banking: Sicherheit f\u00fcr Zahlungskonten schaffen (Art. 3 PSR1)\r\nAmex unterst\u00fctzt die Entwicklungen bez\u00fcglich Open-Banking nachdr\u00fccklich und erkennt an,\r\ndass der von der EU gesetzte Standard der Ma\u00dfstab ist, dem viele L\u00e4nder weltweit nacheifern\r\nwollen. Die aktuellen Vorschl\u00e4ge tragen dazu bei, den Umfang der Open-Banking-\r\nVerpflichtungen f\u00fcr die Akteure der Branche zu kl\u00e4ren, indem sie einige der Unstimmigkeiten\r\nbei der Umsetzung der aktuellen PSD2 \u00e4ndern.\r\nIm Rahmen der PSD2 wurde der Begriff \"Zahlungskonten\" von den nationalen zust\u00e4ndigen\r\nBeh\u00f6rden (National Competent Authority, NCA) unterschiedlich ausgelegt, was zu einer\r\nfragmentierten Open-Banking-Landschaft f\u00fchrte. Au\u00dferdem herrschte Unklarheit dar\u00fcber, ob\r\ndie Regulierungsbeh\u00f6rde des Herkunfts- oder des Aufnahmemitgliedstaats den Umfang der\r\nDefinition von Zahlungskonten festlegen sollte. Diese Definition wurde im neuen\r\nGesetzesentwurf aktualisiert, wodurch mehr Rechtssicherheit geschaffen wurde.\r\nWir unterst\u00fctzen weiterhin die \u00dcbereinstimmung des Vorschlags mit dem Urteil des\r\nEurop\u00e4ischen Gerichtshofs aus dem Jahr 2018, bef\u00fcrchten aber, dass \u00c4nderungen der\r\nDefinition, wie sie die belgische Ratspr\u00e4sidentschaft vorschl\u00e4gt, zu einer weiteren Fragmentierung des Binnenmarktes f\u00fchren werden, da sie vorschl\u00e4gt, dass \"Zahlungskonten\"\r\nauch f\u00fcr andere Zwecke als den Zahlungsverkehr genutzt werden k\u00f6nnen.\r\n\r\n2. Payment Services Directive 3 (PSD3) \u2013 Zahlungsdienste-Richtlinie\r\n\r\n2.1 Kredit-Passporting: Wettbewerbsf\u00e4hige Passporting-Rechte (Art. 10 PSD3)\r\nIm Zusammenhang mit dem \"Passporting\" fordert Amex weiterhin eine \u00c4nderung der\r\nVorschriften, um Zahlungsinstituten (Payment Institutions, PI) die M\u00f6glichkeit zu geben,\r\nKredite europaweit \u00fcber die bestehende 12-Monats-Kreditlaufzeitbeschr\u00e4nkung in Artikel\r\n18(4) (b) der PSD2 hinaus vergeben zu k\u00f6nnen, was in der \u00dcberarbeitung nicht vorgeschlagen\r\nwurde. Amex begr\u00fc\u00dft daher die Entscheidung des EPs, die 12-Monats- Begrenzung zu\r\nstreichen.\r\nNach dem Wortlaut des Entwurfes des EPs k\u00f6nnen die zust\u00e4ndigen NCAs jedoch einen\r\n\"angemessen kurzen Zeitraum\" festlegen, innerhalb dessen der Kredit zur\u00fcckgezahlt werden\r\nmuss. Dies wird nur zu einer weiteren Zersplitterung des Binnenmarktes und zu einem Mangel\r\nan Harmonisierung zwischen den rechtlichen Rahmen der PSD3 und der\r\nVerbraucherkreditrichtlinie 2008/48/EG \u2013 die bald durch die Richtlinie 2023/2225 aufgehoben\r\nwird \u2013 und anderen einschl\u00e4gigen Rechtsvorschriften der Union oder nationalen Ma\u00dfnahmen\r\nin Bezug auf die Bedingungen f\u00fcr die Gew\u00e4hrung von Krediten an Verbraucher f\u00fchren.\r\nDie 12-Monats-Beschr\u00e4nkung der grenz\u00fcberschreitenden Kreditvergabe durch PIs schr\u00e4nkt\r\ndas Recht der PIs auf freie Erbringung von Dienstleistungen in der gesamten Europ\u00e4ischen\r\nUnion, wie es in den Artikeln 56 und 57 des AEUV festgelegt ist, ein.\r\nDie Gew\u00e4hrung von Verbraucherkrediten, sei es durch eine PI oder einen anderen\r\nKreditgeber, wird von der EU-Verbraucherkreditrichtlinie (Consumer Credit Directive, CCD)\r\ngeregelt. In diesem Sinne legt die CCD keine Frist f\u00fcr die R\u00fcckzahlung von Krediten fest, die\r\nvon PIs oder anderen Kreditgebern gew\u00e4hrt werden (in Anbetracht der Tatsache, dass die\r\nGew\u00e4hrung dieser Kredite der CCD entsprechen muss). Die Aufnahme zus\u00e4tzlicher\r\nBeschr\u00e4nkungen in die PSD3 wird nur Hindernisse f\u00fcr bestimmte, von den PIs angebotene\r\nKreditprodukte schaffen.\r\nAu\u00dferdem regelt die CCD bereits die Anforderungen f\u00fcr die Zulassung, Registrierung und\r\nBeaufsichtigung von Einrichtungen, die Verbraucherkredite gew\u00e4hren wollen. PIs (sowie\r\nKredit- und E-Geld-Institute) sind, da sie bereits ordnungsgem\u00e4\u00df von den NCAs reguliert,\r\nzugelassen und beaufsichtigt werden, von einer zus\u00e4tzlichen Zulassungspflicht im Rahmen der\r\nCCD befreit, obwohl sie nat\u00fcrlich die \u00fcbrigen in der CCD enthaltenen Ma\u00dfnahmen,\r\nTransparenzverpflichtungen und den Verbraucherschutz einhalten m\u00fcssen. Es kann also\r\nfestgestellt werden, dass es nicht m\u00f6glich ist, Verbraucherkredite als nicht zugelassene\r\nEinrichtung oder au\u00dferhalb des CCD-Rahmens anzubieten. Dar\u00fcber hinaus muss der von der\r\nPI gew\u00e4hrte Kredit eine Nebenleistung sein, die ausschlie\u00dflich im Zusammenhang mit der\r\nAusf\u00fchrung eines Zahlungsvorgangs steht. Privatkredite aller Art (einschlie\u00dflich\r\nKurzzeitkredite (payday loans) und \"Buy now pay later\"\r\n-Darlehen) k\u00f6nnen nicht gepassportet\r\nwerden. Durch die Aufhebung der 12-Monats-Grenze wird keine M\u00f6glichkeit einer nicht\r\ngenehmigten oder unzureichend \u00fcberwachten grenz\u00fcberschreitenden Kreditvergabe\r\ngeschaffen.\r\n\r\nDiese Beschr\u00e4nkung, die nur f\u00fcr PIs und die von ihnen gew\u00e4hrten Kredite gilt, stellt einen\r\nWettbewerbsnachteil dar und widerspricht den Grundprinzipien des Binnenmarktes, da sie\r\nungleiche Wettbewerbsbedingungen zwischen den Kreditanbietern schafft und die PIs\r\n\u00fcberm\u00e4\u00dfig belastet und wettbewerbswidrig einschr\u00e4nkt.\r\nAndererseits unterliegt die Kreditvergabe nicht ausschlie\u00dflich den Vorschriften f\u00fcr\r\nZahlungsdienste, sondern auch anderen sektoralen und lokalen Gesetzen, die keine \u00e4hnlichen\r\nBeschr\u00e4nkungen vorsehen. Da es sich bei den PIs um regulierte und beaufsichtigte\r\nUnternehmen handelt, wird die Aufsicht von der NCA des Herkunftsmitgliedstaats der\r\njuristischen Personen ausge\u00fcbt und \u00fcberwacht. Wenn die Kreditvergabe im\r\nHerkunftsmitgliedstaat der PI auf lokaler Ebene erlaubt ist, was in der Regel der Fall ist,\r\nverst\u00f6\u00dft eine Beschr\u00e4nkung des \"Europ\u00e4ischen Passes\" gegen den freien\r\nDienstleistungsverkehr und damit gegen die Grunds\u00e4tze des Binnenmarktes.\r\nNach den derzeitigen Vorschriften m\u00fcssen die PIs daher in jedem Mitgliedstaat, in dem sie\r\nKreditnebendienstleistungen f\u00fcr den Zahlungsverkehr \u00fcber 12 Monate hinaus anbieten\r\nwollen, eine separate Rechtseinheit gr\u00fcnden. Dieser Aufwand ist nicht nur\r\nwettbewerbshemmend, sondern schr\u00e4nkt auch das Angebot an Finanzdienstleistungen f\u00fcr die\r\nB\u00fcrger in kleineren Mitgliedstaaten ein, in denen die Zahlungsverkehrsdienstleister\r\nwahrscheinlich keine separate Rechtseinheit gr\u00fcnden wollen, aber m\u00f6glicherweise im Rahmen\r\neiner Passporting-Regelung in den Markt eintreten w\u00fcrden, wenn dies m\u00f6glich w\u00e4re.\r\nAus den oben genannten Gr\u00fcnden fordert Amex den Rat auf, die derzeitige 12-Monats-\r\nBegrenzung in Artikel 10 der PSD3 zu streichen.\r\n\r\n2.2 Wiederzulassung von Zahlungsinstituten und Beaufsichtigung (Erw\u00e4gungsgr\u00fcnde 69, 70,\r\nArt. 44, 45 PSD3)\r\nAmex begr\u00fc\u00dft die zus\u00e4tzliche Harmonisierung, die die PSD3 f\u00fcr die Aufsicht mit sich bringt,\r\nsowie die neuen Ma\u00dfnahmen zur Beseitigung der bei der Anwendung der PSD2 festgestellten\r\nUnstimmigkeiten.\r\nMit der Verschmelzung der E-Geld-Richtlinie und der PSD2 sollen die\r\nZulassungsanforderungen f\u00fcr Zahlungsdienstleister harmonisiert und entsprechend ihrer\r\njeweiligen Gesch\u00e4ftst\u00e4tigkeit klassifiziert werden. Allerdings sollte w\u00e4hrend dieses\r\nNeuzulassungsverfahrens ein zus\u00e4tzlicher Verwaltungsaufwand vermieden werden. Die\r\nNeuzulassung sollte sich auf Zahlungsdienstleister konzentrieren, die neue Aktivit\u00e4ten im\r\nRahmen ihrer aktuellen Lizenz einreichen, oder auf bestehende E-Geld-Institute, die ihren\r\nBetrieb an die Anforderungen der PSD3 anpassen m\u00fcssen. Ziel sollte es sein, einen\r\nVerwaltungsaufwand zu vermeiden, der keinen klaren Mehrwert f\u00fcr die derzeitige\r\nAufsichtspraxis der NCAs mit sich bringt. F\u00fcr ZDLs, die lediglich bestehende Anforderungen an\r\ndie neuen Standards der PSD3 anpassen m\u00fcssen, sollte die Neuzulassung, sofern sie von der\r\nNCA f\u00fcr erforderlich gehalten wird, so einfach und unkompliziert wie m\u00f6glich sein. Sie sollte\r\nsich nicht auf die \u00dcberarbeitung von Prozessen und Dokumentationen konzentrieren, die\r\nnicht Gegenstand wesentlicher \u00c4nderungen in der PSD3 sind und die von den ZDLs bereits\r\nbereitgestellt und von ihren jeweiligen NCAs im Rahmen ihrer PSD2-Lizenz genehmigt wurden."
+                        }
+                    },
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d7/2c/325288/Stellungnahme-Gutachten-SG2406220004.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                        "de": "Bundesministerium der Finanzen (BMF)",
+                                        "en": "Bundesministerium der Finanzen (BMF)"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-18"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009856",
+                        "regulatoryProjectTitle": "EU-Zahlungsdiensterichtlinie 3 & EU-Zahlungsdiensteverordnung 1 (Payments Services Directive 3 & Payment Services Regulation 1)",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Spending limits: Ideally, whether spending limits want to be set should be up for the contracting parties (i.e. PSP and PSU) to agree on, without mandating PSPs to provide such feature by default. \r\n \r\nCool off periods and other reactive measures: the cool period (after the increase of the spending limit) and other measures can be applied as a consequence of the detection of possible fraudulent activity and the result of the transaction monitoring. Considering that PSPs will be obliged to enhance the detection of possible fraudulent activity, they should have discretion on the type of measures that can be applied to prevent fraud (e.g. block payment instruments, accounts, cool off periods, request additional SCA or other verifications, and similar), but it shouldn't be imposed by level 1 regulations, since it  may be detrimental to both the PSP and the PSU (who, ultimately, might not be able to execute a payment at the time it has requested to increase the limit but has to wait for the cooling off period to elapse). \r\n \r\nTransaction monitoring measures by the PSP of the beneficiary: We agree that the PSP of the beneficiary should be obliged to monitor the transaction and the activity and implement possible measure to prevent fraud (e.g. freeze received funds if the transaction is unusual, and similar).  \r\n \r\nGDPR elements: The processing of data for fraud prevention may imply the processing of sensitive data for the analysis of information and for the possible implementation of measures (biometric data, payment data, scorings, profiles and similar). The processing of such data is regulated under Art. 9 of the GDPR (special categories of data). Hence, the PSR must enable the processing of special categories of data, for fraud prevention purposes in the context of the PSR framework. GDPR must not be an obstacle for fraud prevention. Hence it is necessary to find the appropriate interplay between both regulations.  \r\n[External] Data sharing with the authorities: PSPs already have obligations related to the report of fraud information. The duplication and overlap of obligations should be avoided if those contribute to creating an excessive reporting burden to PSPs.  \r\n \r\nAuthorization \u2013 Conditions for unauthorized transactions: It is positive that the Art. 49 includes a description of cases that can lead to the lack of authorization (e.g. social engineering applied to the PSU).  \r\n \r\nDuty to cooperate in fraud investigation: It is important to remember that in social engineering the fraudster exploits the \"human factor\" of the security process. Hence, it is necessary that the PSR framework also aims to reinforce the duty of care of the PSUs, since this will lead to reduce the number of fraud cases.  \r\nFor such purpose, it is necessary that the users cooperate, providing the information deemed reasonable by the PSP for the prevention of fraud (e.g. modus, method and consequences of the fraud). Also, PSUs must be required to report to the police the crime (fraud) committed, since this is also a matter linked to law enforcement and crime prevention. The requirement of a police report will also improve the duty of care of the PSUs and mitigate unintended consequences such as the increase of friendly fraud (fraud from the PSU in the report of fraudulent transactions).  \r\nWe also agree with the consequences related to the lack of cooperation from the PSU. For a PSU to be entitled for a reimbursement, the PSU must cooperate and provide reasonable information to the PSP. If not, the PSU must not be entitled for reimbursement.  \r\n \r\nADR: We agree with the implementation of ADR procedures, if the PSP decides that the PSU is not entitled for a reimbursement, and the PSU wants to challenge that decision. However, considering that PSUs would have a right to challenge the decision, and that PSPs already need to report fraud data to the Supervisors, the obligation to report the refusal to reimburse an alleged unauthorized transaction should be removed from the PSR. Such obligation would only generate an unnecessary workload for PSPs and NCAs, in an already complicated task.  \r\n \r\nLimit liability caps: this provision does not seem feasible. If further context is provided, it would help having a clearer view around it.  \r\n \r\nIBAN discrepancy alert / Alerts to the PSU regarding the possibility of fraud: Any concrete effort from the PSP to alert the PSU of a possible fraud, should be considered as a relevant element to determine if there was gross negligence from the PSU. This can be included in L3 (please refer to the next comment).  \r\n \r\nGross negligence: We agree that L1 can include a list of non-exhaustive elements that can be considered when analyzing whether the PSU committed Gross Negligence. Additionally, the EBA can be mandated to develop Guidelines on the concept of Gross Negligence for the purpose of the PSR (non-binding, hence not directly affecting the civil law framework of MS).  "
+                        }
+                    }
+                ],
+                "title": "EU-Zahlungsdiensterichtlinie 3 & EU-Zahlungsdiensteverordnung 1 (Payments Services Directive 3 & Payment Services Regulation 1)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Amex h\u00e4lt den angedachten Umsetzungszeitraum f\u00fcr FIDA f\u00fcr sehr ambitioniert. Zudem setzt Amex sich daf\u00fcr ein, dass im weiteren Prozess die folgenden Punkte ber\u00fccksichtigt werden: - Kl\u00e4rung des Anwendungsbereichs und Schaffung von Rechtssicherheit, - Gr\u00f6\u00dfere Klarheit bei Financial Data Sharing Schemes, - Mit Interessengruppen der Branche gemeinsam entwickeltes transparentes, faires und einheitliches Entgeltsystem f\u00fcr den Datenaustausch",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_FINANCE",
+                        "de": "Bank- und Finanzwesen",
+                        "en": "Banking and finance"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009857",
+                "statements": [],
+                "title": "\u00c4nderung der Financial Data Access Verordnung (FIDA)"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BGB",
+                        "title": "B\u00fcrgerliches Gesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Im Zusammenhang mit der \u00dcberarbeitung der EU-Pauschalreiserichtlinie setzt Amex sich f\u00fcr folgende Punkte ein: - Flexiblere/erweiterte Regelung in puncto \"Vorauszahlungsbegrenzung\" als im Vorschlag der Europ\u00e4ischen Kommission, - Beibehaltung der bisherigen Definition von unvermeidbaren und au\u00dfergew\u00f6hnlichen Umst\u00e4nden (Beschr\u00e4nkung auf Ankunftsort), - R\u00fcckerstattungsanforderungen an Lieferanten: Angestrebt ist eine Verl\u00e4ngerung der Frist im Fall unvermeidbarer und au\u00dfergew\u00f6hnlicher Umst\u00e4nde f\u00fcr R\u00fcckerstattungsverpflichtungen; auch m\u00f6ge der Lieferant immer innerhalb von sieben Tagen die Erstattung vornehmen m\u00fcssen",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_LEISURE_AND_SPORT",
+                        "de": "Sport, Freizeit und Tourismus",
+                        "en": "Sports, leisure and tourism"
+                    },
+                    {
+                        "code": "FOI_LAS_TOURISM",
+                        "de": "Tourismus",
+                        "en": "Tourism"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009858",
+                "statements": [],
+                "title": "EU-Pauschalreiserichtlinie (Package Travel Directive)"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BDSG",
+                        "title": "Bundesdatenschutzgesetz",
+                        "url": "https://www.gesetze-im-internet.de/bdsg_2018"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "In Bezug auf den BDSG-E setzt Amex sich f\u00fcr folgende Punkte ein: - Notwendigkeit der Anpassung von \u00a7 37a BDSG-E, da dieser Regelungsbefugnisse aus Art. 22 II li. b) DSGV deutlich \u00fcberschreitet. Amex fordert einen Wortlaut, der die EuGH-Rechtsprechung deutlicher aufgreift und Rechtsunsicherheiten vermeidet. Daher wird die Streichung der Nr. 1 gefordert, - Dar\u00fcber hinaus verkennt der Entwurf, dass neben dem Bonit\u00e4tsscoring auch andere Risikoklassifizierungen in Form des Scorings eingesetzt werden, die von der undifferenzierten Formulierung erfasst w\u00fcrden, so dass zumindest eine grundlegende Sch\u00e4rfung und Einschr\u00e4nkung des Gesetzestextes gefordert wird",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_FINANCE",
+                        "de": "Bank- und Finanzwesen",
+                        "en": "Banking and finance"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/108/2010859.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMI",
+                                "title": "Bundesministerium des Innern und f\u00fcr Heimat",
+                                "url": "https://www.bmi.bund.de/DE/startseite/startseite-node.html"
+                            }
+                        ],
+                        "printingNumber": "20/10859",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/erstes-gesetz-zur-%C3%A4nderung-des-bundesdatenschutzgesetzes/308702",
+                        "title": "Entwurf eines Ersten Gesetzes zur \u00c4nderung des Bundesdatenschutzgesetzes"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0009859",
+                "statements": [],
+                "title": "Erstes Gesetz zur \u00c4nderung des Bundesdatenschutzgesetzes"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Amex pl\u00e4diert f\u00fcr eine Spezifizierung der Rollen von Zentralbanken und Intermedi\u00e4ren. Die Rolle der EZB sollte sich im Wesentlichen auf die Bereitstellung der grundlegenden Infrastruktur f\u00fcr den Transfer des digitalen Euros beschr\u00e4nken. Zudem sollte die M\u00f6glichkeit gegeben sein, mehrere Wallets zu halten. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_ECOMMERCE",
+                        "de": "E-Commerce",
+                        "en": "E-commerce"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_FINANCE",
+                        "de": "Bank- und Finanzwesen",
+                        "en": "Banking and finance"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009860",
+                "statements": [],
+                "title": "EU-Verordnung zum Digitalen Euro"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "LSV",
+                        "title": "Verordnung \u00fcber technische Mindestanforderungen an den sicheren und interoperablen Aufbau und Betrieb von \u00f6ffentlich zug\u00e4nglichen Ladepunkten f\u00fcr elektrisch betriebene Fahrzeuge",
+                        "url": "https://www.gesetze-im-internet.de/lsv"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Amex setzt sich f\u00fcr eine 1:1-Umsetzung der anzupassenden Vorgaben aus der europ\u00e4ischen AFIR (Alternative Fuels Infrastructure Regulation) und AFID (Alternative Fuels Infrastructure Directive) in nationales Recht mittels der neuen Verordnung zur Neufassung der Lades\u00e4ulenverordnung und zur \u00c4nderung weiterer Vorschriften ein; Verordnungsentwurf noch nicht bekannt. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                        "de": "Verkehrsinfrastruktur",
+                        "en": "Infrastructure"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "issuer": "BT",
+                        "leadingMinistries": [],
+                        "printingNumber": "20/09194"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0009861",
+                "statements": [],
+                "title": "Verordnung zur Neufassung der Lades\u00e4ulenverordnung und zur \u00c4nderung weiterer Vorschriften"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b7/07/325282/Stellungnahme-Gutachten-SG2406220001.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                "de": "Bundesministerium der Finanzen (BMF)",
+                                "en": "Bundesministerium der Finanzen (BMF)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                "de": "Bundesministerium der Justiz (BMJ)",
+                                "en": "Bundesministerium der Justiz (BMJ)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-26"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009855",
+                "regulatoryProjectTitle": "EU-Verbraucherkreditrichtlinie (Consumer Credit Directive)",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Sehr...,\r\n\r\nwir m\u00f6chten uns nochmals f\u00fcr das Gespr\u00e4ch mit Ihnen und weiteren Vertretern bedanken und im Nachgang zu zwei Themen aus unserer Diskussion Stellung nehmen, die wir als sehr wesentlich erachten:\r\n\r\n1. Debitkarten mit Zahlungsaufschub\r\nDa in dem Telefonat hinterfragt wurde, warum wir der Ansicht seien, Chargekarten fielen unter den Begriff \u201edeferred debit cards\u201c/\u201eDebitkarten mit Zahlungsaufschub\u201c, wie er in Art. 2 Abs. 5 der Verbraucherkreditrichtlinie 2023/2225 vom 18.10.2023 (nachfolgend \u201eCCD\u201c) verwendet wird, m\u00f6chten wir auf die Definition verweisen, die sich im Erw\u00e4gungsgrund (17) der \u201eVerordnung (EU) 2015/751 \u00fcber Interbankenentgelte f\u00fcr kartengebundene Zahlungsvorg\u00e4nge\u201c vom 29. April 2015 befindet. Dort hei\u00dft es:\r\n\u201eEs gibt im Wesentlichen zwei Arten von Kreditkarten auf dem Markt. Bei Debitkarten mit Zahlungsaufschub wird das Konto des Karteninhabers zu einem im Voraus vereinbarten spezifischen Zeitpunkt, in der Regel einmal monatlich, mit dem gesamten Betrag der Transaktionen belastet, ohne dass Zinsen zu zahlen sind. Bei anderen Kreditkarten kann der Karteninhaber eine Kreditfazilit\u00e4t nutzen, um einen Teil der Betr\u00e4ge zu einem sp\u00e4teren als dem angegebenen Zeitpunkt zur\u00fcckzahlen, zuz\u00fcglich Zinsen oder sonstiger Kosten.\u201c [Fettgedruckte Hervorhebungen hier und in weiteren Zitaten wurden von uns vorgenommen.]\r\nIm Erw\u00e4gungsgrund (13) zur Verbraucherkreditrichtlinie 2008/48 hei\u00dft es:\r\n\u201eDiese Richtlinie sollte nicht gelten f\u00fcr bestmmte Arten von Kreditvertr\u00e4gen, z. B. einen Zahlungsaufschub gew\u00e4hrende Debit-Karten, nach deren Vertragsbedingungen der Kredit innerhalb von drei Monaten zu tilgen ist und lediglich geringf\u00fcgige Kosten anfallen.\u201c\r\nAufgrund dieser Regelung und dessen Umsetzung im deutschen Verbraucherkreditrecht unterliegen Chargekarten derzeit in Deutschland nicht den verbraucherkreditrechtlichen Anforderungen.\r\nWeiterhin findet sich im Rulebook 1 der EPSG (European Payments Stakeholders Group) (heps://www.e-csg.eu/ecsg-volume-10-0) folgende Definition von Chargekarten: \r\n\r\n-Bild-\r\n\r\nFazit: Die oben zitierten Regelungen zeigen deutlich, dass branchenweit und auch der europ\u00e4ische Gesetzgeber in der CCD mit dem Begriff \u201eDebitkarten mit Zahlungsaufschub\u201c die sog. Chargekarten meinen und dass der europ\u00e4ische Gesetzgeber diese aufgrund der Regelung in Art. 2 Abs. 5 CCD von den Regelungen der CCD ausnehmen m\u00f6chte.\r\n\r\n2. Ausnahmen f\u00fcr (i) Debitkarten mit Zahlungsaufschub in Art. 2 Abs. 5 CCD und (ii) f\u00fcr H\u00e4ndler in Art. 2 Ab. 2 h) CCD\r\nMit der Regelung in Art. 2 Abs. 5 CCD will der europ\u00e4ische Gesetzgeber den Mitgliedstaaten die M\u00f6glichkeit einr\u00e4umen, von Banken und Zahlungsinstituten ausgegebene Chargekarten von den Regelungen der CCD auszunehmen. Die Mo]va]on hierf\u00fcr wird in Erw\u00e4gungsgrund (18) der CCD genannt:\r\n\u201e... Die Mitgliedstaaten sollten bestimmte Kreditvertr\u00e4ge in Form von Debitkarten mit Zahlungsaufschub von dieser Richtlinie ausnehmen k\u00f6nnen, da solche Kreditvertr\u00e4ge Haushalten helfen k\u00f6nnen, ihr Budget besser an ein monatliches Einkommen anzupassen, wenn der Kredit binnen 40 Tagen zur\u00fcckgezahlt werden muss, zinsfrei und geb\u00fchrenfrei \u2013 mit lediglich begrenzten Geb\u00fchren im Zusammenhang mit der Erbringung der Zahlungsdienstleistung \u2013 ist sowie von einem Kreditinstitut oder einem Zahlungsinstitut bereitgestellt wird. ...\u201c\r\nMit der Regelung in Art. 2 Abs. 2 h), S. 1 CCD will der europ\u00e4ische Gesetzgeber den Mitgliedstaaten die M\u00f6glichkeit einr\u00e4umen, Zahlungsaufsch\u00fcbe, die H\u00e4ndler selbst ihren Kunden bis zum einem Zeitraum vom 50 Tagen nach Lieferung der Ware/Erbringung der Dienstleistung gew\u00e4hren, von den Regelungen der CCD auszunehmen. Sofern der Gesetzgeber hiervon wiederum eine Ausnahme f\u00fcr gro\u00dfe online-H\u00e4ndler in Art. 2 Abs. 2 h), S.2 CCD vorsieht und von denen gew\u00e4hrte Zahlungsaufsch\u00fcbe von mehr als 14 Tagen den Regelungen der CCD unterworfen sehen will, so liegen dieser Regelung wettbewerbsrechtliche Erw\u00e4gungen zugrunde. In Erw\u00e4gungsgrund (17) der CCD hei\u00dft es:\r\n\u201e... Dieser Ausschluss sollte f\u00fcr bestimmte gro\u00dfe Online-Warenlieferanten oder -Dienstleistungserbringer, die Zugang zu einem gro\u00dfen Kundenstamm haben, auf F\u00e4lle beschr\u00e4nkt werden, ... und bei denen die Zahlung vollst\u00e4ndig binnen 14 Tagen nach der Lieferung der Waren oder der Erbringung der Dienstleistungen zins- und geb\u00fchrenfrei \u2013 mit lediglich begrenzten Kosten, die vom Verbraucher bei Zahlungsverzug im Einklang mit dem nationalen Recht zu zahlen sind \u2013 zu leisten ist. Solche gro\u00dfen Online-Anbieter w\u00e4ren angesichts ihrer finanziellen M\u00f6glichkeiten und ihrer F\u00e4higkeit, Verbraucher zu impulsiven K\u00e4ufen und m\u00f6glicherweise zu \u00fcberm\u00e4\u00dfigem Konsum zu verleiten, andernfalls in der Lage, Zahlungsaufsch\u00fcbe in sehr erheblichem Ausma\u00df anzubieten, ohne dass Verbraucher gesch\u00fctzt w\u00e4ren, und den fairen Wettbewerb mit anderen Warenlieferanten oder Dienstleistungserbringern zu schw\u00e4chen. ...\u201c\r\nDie Ausnahmeregelungen stehen in der CCD parallel und unabh\u00e4ngig nebeneinander. Diese miteinander ins Verh\u00e4ltnis zu setzen, w\u00e4re nicht rich]g, da sie unterschiedliche, nicht miteinander vergleichbare Sachverhalte abdecken.\r\nChargekarten werden von Kredit- oder Zahlungsinstituten im Rahmen eines Dauerschuldverh\u00e4ltnisses ausgegeben. Die Kartenkunden werden vor Abschluss des Vertrages umfassend nach dem EGBGB informiert und wissen, dass und wann sie die mit der Karte get\u00e4tigten Ausgaben zinsfrei nach der monatlichen Abrechnung dem Kartenherausgeber erstatten m\u00fcssen. Sowohl bei Abschluss als auch w\u00e4hrend der laufenden Gesch\u00e4ftsverbindung wird die Kreditw\u00fcrdigkeit des Kunden gepr\u00fco, laufend \u00fcberwacht und bei jeder Kartenzahlung eine Genehmigung durch den H\u00e4ndler eingeholt. Die Herausgeber von Chargekarten allein haben keinerlei Einflussm\u00f6glichkeiten auf das Grundgesch\u00e4ft zwischen dem H\u00e4ndler und Verbraucher. Unter verbraucherschutz- sowie kreditrechtlichen Erw\u00e4gungen und den in Erw\u00e4gungsgrund (18) genannten Gr\u00fcnden hat der europ\u00e4ische Gesetzgeber daher die Ausnahmem\u00f6glichkeit f\u00fcr Chargekarten in der CCD vorgesehen.\r\nZahlungsaufsch\u00fcbe, die von H\u00e4ndlern ad hoc im Rahmen der jeweiligen Verkaufssituation gew\u00e4hrt werden, stellen eine mit der Chargekarte nicht vergleichbare Art der Kreditgew\u00e4hrung dar. Dies gilt sowohl im Hinblick auf die Umst\u00e4nde der Gew\u00e4hrung als auch die M\u00f6glichkeiten der Kreditw\u00fcrdigkeitspr\u00fcfung durch den H\u00e4ndler. Aus diesem Grunde hat der europ\u00e4ische Gesetzgeber eine separate Ausnahmeregelung f\u00fcr diese Art der Kreditgew\u00e4hrung vorgesehen. Von dieser wird wiederum f\u00fcr gro\u00dfe online-H\u00e4ndler eine Sonderregelung vorgesehen, da man hier das Risiko f\u00fcr die Verbraucher sieht, dass diese H\u00e4ndler aufgrund ihrer finanziellen Mittel die M\u00f6glichkeit haben, die Verbraucher nicht nur durch (i) die Art und Weise des Angebots des Produkts und (ii) die Preise f\u00fcr das Produkt selbst zu K\u00e4ufen zu verleiten, sondern auch durch (iii) entsprechende interessante Konditionen f\u00fcr den von ihnen ggfls. zus\u00e4tzlich angeboten Zahlungsaufsch\u00fcbe.\r\nZudem kann jeder H\u00e4ndler frei entscheiden, ob er Chargekarten als Zahlungsmittel akzeptieren und damit seinen Kunden indirekt die M\u00f6glichkeit einer verz\u00f6gerten Bezahlung der Ware/Dienstleistung anbieten will oder nicht.\r\n\r\nFazit:\r\nDie Ausnahmeregelung in Art. 2 Abs. 5 CCD f\u00fcr Chargekarten und die in Art. 2 Abs. 2 h) CCD sind unabh\u00e4ngig voneinander zu betrachten. Alles andere w\u00e4re eine Verzerrung des Willens des europ\u00e4ischen Gesetzgebers.\r\nGerne stehen wir Ihnen zu einem weiteren Austausch zu diesen und anderen Themen im Rahmen der CCD zur Verf\u00fcgung.\r\n\r\n- Tabellarische \u00dcbersicht \"\u00dcbersicht einiger Arten von Zahlungskarten gem\u00e4\u00df Verordnung (EU) 2015/751 \u00fcber Interbankenentgelte f\u00fcr kartengebundene Zahlungsvorg\u00e4nge\""
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a5/a5/325284/Stellungnahme-Gutachten-SG2406220002.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                "de": "Bundesministerium der Finanzen (BMF)",
+                                "en": "Bundesministerium der Finanzen (BMF)"
+                            }
+                        ],
+                        "sendingDate": "2024-06-10"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009856",
+                "regulatoryProjectTitle": "EU-Zahlungsdiensterichtlinie 3 & EU-Zahlungsdiensteverordnung 1 (Payments Services Directive 3 & Payment Services Regulation 1)",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Im Hinblick auf die Ratsarbeitsgruppe am Mittwoch wollte ich gerne kurz folgenden Punkt zur Payment Account-Definition mit Ihnen teilen: \r\n \r\nOpen Banking:\r\n \r\nThe Payment Accounts definition (Recital 20 PSR): The Belgian presidency is proposing a wider PA definition which could lead to potential inconsistencies in in the EU. The amendments to Recital 20 PSR changing current wording from \u2018is used to \u2019 to \u2018can be used\u2019 could cause a major impact as criteria to be considered a PA could vary, especially when accompanied with the more controversial addition of the faculty for NCAs to determine on a case-by-case basis whether credit card accounts meet the criteria to be considered PA (i.e., allowing for sending and receiving funds) as this could be detrimental to harmonization \u2013 especially when introduced in legal instrument with direct applicability (PSR). We would be more comfortable maintaining the current version of the definition that happens to be in line with the ECJ too as already referred in previous exchanges."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/62/17/325286/Stellungnahme-Gutachten-SG2406220003.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                "de": "Bundesministerium der Finanzen (BMF)",
+                                "en": "Bundesministerium der Finanzen (BMF)"
+                            }
+                        ],
+                        "sendingDate": "2024-06-17"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009856",
+                "regulatoryProjectTitle": "EU-Zahlungsdiensterichtlinie 3 & EU-Zahlungsdiensteverordnung 1 (Payments Services Directive 3 & Payment Services Regulation 1)",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "American Express Positionspapier zu PSD3 und PSR1 \u2013 Mai 2024\r\n\r\n1. Payment Services Regulation (PSR1) \u2013 Zahlungsdienste-Verordnung\r\n\r\n1.1 Surcharging: Harmonisierung der Surcharging-Regeln (Erw\u00e4gungsgrund 53, Art. 28\r\nPSR1)\r\nEine ungl\u00fcckliche Folge der Zweiten Zahlungsdiensterichtlinie (Payment Services Directive 2,\r\nPSD2) war die Fragmentierung der Surcharging-Regeln in den Mitgliedstaaten, was zu\r\nunerfreulichen Kundenerfahrungen und einem Mangel an Transparenz f\u00fcr Verbraucher f\u00fchrte.\r\nDie Europ\u00e4ische Kommission (KOM) sch\u00e4tzt, dass 95 % der Kartenzahlungen bereits unter das\r\nbestehende Verbot von Surcharging fallen. Dar\u00fcber hinaus haben 18 Mitgliedstaaten das\r\nSurcharging vollst\u00e4ndig verboten. Die neue Verordnung \u00fcber Zahlungsdienste (Payment\r\nServices Regulation, PSR1) bietet daher die Gelegenheit, die Regeln mit einem EU-weiten\r\nVerbot weiter zu harmonisieren.\r\nEin vollst\u00e4ndiges EU-weites Verbot von Surcharging f\u00fcr alle Kartentransaktionen wird dazu\r\nbeitragen, die Rechte der Verbraucher zu sch\u00fctzen, ein besseres Einkaufserlebnis f\u00fcr die\r\nKunden zu gew\u00e4hrleisten, die Transparenz von H\u00e4ndlern zu f\u00f6rdern, missbr\u00e4uchlichen\r\nPraktiken ein Ende zu setzen und gleiche Wettbewerbsbedingungen f\u00fcr alle\r\nZahlungsdienstleister (ZDL) zu schaffen. Nicht zuletzt w\u00fcrde eine EU-weit einheitliche\r\nRegelung mit einem vollst\u00e4ndigen Verbot dazu beitragen, dass Drei-Parteien-Systeme oder\r\nalternative Zahlungsanbieter an der Kasse nicht mehr diskriminiert werden.\r\nAus den oben genannten Gr\u00fcnden begr\u00fc\u00dft American Express (Amex) die Unterst\u00fctzung des\r\nEurop\u00e4ischen Parlaments (EP) f\u00fcr ein EU-weites Verbot der Erhebung von Surcharging-\r\nGeb\u00fchren.\r\n\r\n1.2 Verhaltensbiometrische Daten: Den Wert der Verhaltensbiometrie anerkennen\r\n(Pr\u00e4ambel, Art. 83, 85 PSR1)\r\nAmex begr\u00fc\u00dft die Entscheidung der KOM, die Verhaltensbiometrie f\u00fcr die \u00dcberwachung des\r\nTransaktionsrisikos einzubeziehen, indem in PSR1 die neue Anforderung eingef\u00fchrt wird,\r\nTransaktions\u00fcberwachungsmechanismen (T\u00dcM) sowohl f\u00fcr die derzeitige Ausnahmeregelung\r\nvon der starken Kundenauthentifizierung (SCA), die Transaktionsrisikoanalyse (TRA), als auch\r\nf\u00fcr die Betrugsermittlung einzurichten.\r\nF\u00fcr den T\u00dcM sorgen die \u00dcberwachungsmechanismen f\u00fcr mehr Klarheit in Bezug auf die\r\n\"Inh\u00e4renz\", da sie auf der Analyse von Zahlungstransaktionen und Elementen beruhen\r\nm\u00fcssen, die f\u00fcr den Zahlungsdienstnutzer typisch sind (z. B. die normale Verwendung seiner\r\nSicherheitsdaten), und Umwelt- und Verhaltensmerkmale (z.B. Standort, Transaktionszeit,\r\nGer\u00e4t, Ausgabegewohnheiten oder bestimmter Einzelh\u00e4ndler) umfassen. Aus dem Vorschlag\r\ngeht jedoch nicht hervor, ob die \"Inh\u00e4renz\" innerhalb der SCA-Definition angepasst werden\r\nsoll. Amex pl\u00e4diert daf\u00fcr, dass in der PSR1 ausdr\u00fccklich darauf hingewiesen wird, dass\r\n\"Inh\u00e4renz\"-Faktoren auch verhaltensbiometrische Daten umfassen und dass dies f\u00fcr alle\r\neinschl\u00e4gigen Szenarien gilt, die in diesem Rahmen vorgesehen sind (z. B. PSD3, PSR1 und RTS).\r\nDerzeit wird dies nur in Bezug auf den T\u00dcM in der PSR1-Erl\u00e4uterung (Pr\u00e4ambel) erw\u00e4hnt, nicht\r\naber im SCA-Artikel.\r\n\r\nAmex ist der Ansicht, dass ein restriktiver Ansatz bei der Nutzung der Verhaltensbiometrie\r\nInnovationen behindert und die Bem\u00fchungen zur Betrugsbek\u00e4mpfung erschwert. Derzeit gibt\r\nes in der Branche L\u00f6sungen, die den Kunden mit einem hohen Ma\u00df an Genauigkeit erfolgreich\r\nauthentifizieren k\u00f6nnen, ohne dass der Kunde weitere Ma\u00dfnahmen ergreifen muss. Diese\r\nMethoden sind besonders f\u00fcr schutzbed\u00fcrftige oder \u00e4ltere Nutzer von Vorteil, die\r\nm\u00f6glicherweise Schwierigkeiten haben, andere Authentifizierungsschritte auszuf\u00fchren.\r\nAmex begr\u00fc\u00dft daher die Entscheidung des EP , Verhaltensmerkmale in den Inh\u00e4renz-Faktor der\r\nSCA aufzunehmen. Obwohl es Aufgabe der Europ\u00e4ischen Bankaufsichtsbeh\u00f6rde (EBA) ist, die\r\nspezifischen technischen Regulierungsstandards f\u00fcr den T\u00dcM unter Ber\u00fccksichtigung von\r\nbiometrischen Verhaltensmerkmalen zu entwickeln, wird die St\u00e4rkung des Grundsatzes in den\r\nRechtsvorschriften der Stufe 1 (level 1 legislation) als wesentlich angesehen.\r\n\r\n1.3 Betrugsbek\u00e4mpfung: Sch\u00e4rfung der Definitionen f\u00fcr eine wirksame Betrugsbek\u00e4mpfung\r\n(Art. 56, 59 PSR1)\r\nBetrugspr\u00e4vention, geteilte Haftung und korrekte und harmonisierte Definitionen von\r\nBetrugshandlung und grober Fahrl\u00e4ssigkeit stehen seit der Ver\u00f6ffentlichung der PSR1- und\r\nPSD3-Vorschl\u00e4ge durch die KOM im Juni 2023 im Mittelpunkt der Diskussionen. Die Kl\u00e4rung\r\nder Frage, was als \"grobe Fahrl\u00e4ssigkeit\" gilt und unter welchen Bedingungen dies der Fall sein\r\nwird, ist f\u00fcr die Branche von entscheidender Bedeutung ebenso wie die Kl\u00e4rung der Haftung\r\ndes Zahlungsdienstleisters f\u00fcr nicht autorisierte Transaktionen und die Frage, wann diese\r\nHaftung mit anderen Dritten geteilt wird, die bei der Transaktion eine Rolle gespielt haben\r\nund technisch dazu beitragen k\u00f6nnten, Betrug zu verhindern.\r\nDie vom EP angenommenen \u00c4nderungen zielen darauf ab, diese spezifischen Probleme zu\r\nl\u00f6sen, aber auf Ratsebene muss noch mehr getan werden, um die bestehenden Schlupfl\u00f6cher\r\nzu schlie\u00dfen.\r\n1.4 Open-Banking: Sicherheit f\u00fcr Zahlungskonten schaffen (Art. 3 PSR1)\r\nAmex unterst\u00fctzt die Entwicklungen bez\u00fcglich Open-Banking nachdr\u00fccklich und erkennt an,\r\ndass der von der EU gesetzte Standard der Ma\u00dfstab ist, dem viele L\u00e4nder weltweit nacheifern\r\nwollen. Die aktuellen Vorschl\u00e4ge tragen dazu bei, den Umfang der Open-Banking-\r\nVerpflichtungen f\u00fcr die Akteure der Branche zu kl\u00e4ren, indem sie einige der Unstimmigkeiten\r\nbei der Umsetzung der aktuellen PSD2 \u00e4ndern.\r\nIm Rahmen der PSD2 wurde der Begriff \"Zahlungskonten\" von den nationalen zust\u00e4ndigen\r\nBeh\u00f6rden (National Competent Authority, NCA) unterschiedlich ausgelegt, was zu einer\r\nfragmentierten Open-Banking-Landschaft f\u00fchrte. Au\u00dferdem herrschte Unklarheit dar\u00fcber, ob\r\ndie Regulierungsbeh\u00f6rde des Herkunfts- oder des Aufnahmemitgliedstaats den Umfang der\r\nDefinition von Zahlungskonten festlegen sollte. Diese Definition wurde im neuen\r\nGesetzesentwurf aktualisiert, wodurch mehr Rechtssicherheit geschaffen wurde.\r\nWir unterst\u00fctzen weiterhin die \u00dcbereinstimmung des Vorschlags mit dem Urteil des\r\nEurop\u00e4ischen Gerichtshofs aus dem Jahr 2018, bef\u00fcrchten aber, dass \u00c4nderungen der\r\nDefinition, wie sie die belgische Ratspr\u00e4sidentschaft vorschl\u00e4gt, zu einer weiteren Fragmentierung des Binnenmarktes f\u00fchren werden, da sie vorschl\u00e4gt, dass \"Zahlungskonten\"\r\nauch f\u00fcr andere Zwecke als den Zahlungsverkehr genutzt werden k\u00f6nnen.\r\n\r\n2. Payment Services Directive 3 (PSD3) \u2013 Zahlungsdienste-Richtlinie\r\n\r\n2.1 Kredit-Passporting: Wettbewerbsf\u00e4hige Passporting-Rechte (Art. 10 PSD3)\r\nIm Zusammenhang mit dem \"Passporting\" fordert Amex weiterhin eine \u00c4nderung der\r\nVorschriften, um Zahlungsinstituten (Payment Institutions, PI) die M\u00f6glichkeit zu geben,\r\nKredite europaweit \u00fcber die bestehende 12-Monats-Kreditlaufzeitbeschr\u00e4nkung in Artikel\r\n18(4) (b) der PSD2 hinaus vergeben zu k\u00f6nnen, was in der \u00dcberarbeitung nicht vorgeschlagen\r\nwurde. Amex begr\u00fc\u00dft daher die Entscheidung des EPs, die 12-Monats- Begrenzung zu\r\nstreichen.\r\nNach dem Wortlaut des Entwurfes des EPs k\u00f6nnen die zust\u00e4ndigen NCAs jedoch einen\r\n\"angemessen kurzen Zeitraum\" festlegen, innerhalb dessen der Kredit zur\u00fcckgezahlt werden\r\nmuss. Dies wird nur zu einer weiteren Zersplitterung des Binnenmarktes und zu einem Mangel\r\nan Harmonisierung zwischen den rechtlichen Rahmen der PSD3 und der\r\nVerbraucherkreditrichtlinie 2008/48/EG \u2013 die bald durch die Richtlinie 2023/2225 aufgehoben\r\nwird \u2013 und anderen einschl\u00e4gigen Rechtsvorschriften der Union oder nationalen Ma\u00dfnahmen\r\nin Bezug auf die Bedingungen f\u00fcr die Gew\u00e4hrung von Krediten an Verbraucher f\u00fchren.\r\nDie 12-Monats-Beschr\u00e4nkung der grenz\u00fcberschreitenden Kreditvergabe durch PIs schr\u00e4nkt\r\ndas Recht der PIs auf freie Erbringung von Dienstleistungen in der gesamten Europ\u00e4ischen\r\nUnion, wie es in den Artikeln 56 und 57 des AEUV festgelegt ist, ein.\r\nDie Gew\u00e4hrung von Verbraucherkrediten, sei es durch eine PI oder einen anderen\r\nKreditgeber, wird von der EU-Verbraucherkreditrichtlinie (Consumer Credit Directive, CCD)\r\ngeregelt. In diesem Sinne legt die CCD keine Frist f\u00fcr die R\u00fcckzahlung von Krediten fest, die\r\nvon PIs oder anderen Kreditgebern gew\u00e4hrt werden (in Anbetracht der Tatsache, dass die\r\nGew\u00e4hrung dieser Kredite der CCD entsprechen muss). Die Aufnahme zus\u00e4tzlicher\r\nBeschr\u00e4nkungen in die PSD3 wird nur Hindernisse f\u00fcr bestimmte, von den PIs angebotene\r\nKreditprodukte schaffen.\r\nAu\u00dferdem regelt die CCD bereits die Anforderungen f\u00fcr die Zulassung, Registrierung und\r\nBeaufsichtigung von Einrichtungen, die Verbraucherkredite gew\u00e4hren wollen. PIs (sowie\r\nKredit- und E-Geld-Institute) sind, da sie bereits ordnungsgem\u00e4\u00df von den NCAs reguliert,\r\nzugelassen und beaufsichtigt werden, von einer zus\u00e4tzlichen Zulassungspflicht im Rahmen der\r\nCCD befreit, obwohl sie nat\u00fcrlich die \u00fcbrigen in der CCD enthaltenen Ma\u00dfnahmen,\r\nTransparenzverpflichtungen und den Verbraucherschutz einhalten m\u00fcssen. Es kann also\r\nfestgestellt werden, dass es nicht m\u00f6glich ist, Verbraucherkredite als nicht zugelassene\r\nEinrichtung oder au\u00dferhalb des CCD-Rahmens anzubieten. Dar\u00fcber hinaus muss der von der\r\nPI gew\u00e4hrte Kredit eine Nebenleistung sein, die ausschlie\u00dflich im Zusammenhang mit der\r\nAusf\u00fchrung eines Zahlungsvorgangs steht. Privatkredite aller Art (einschlie\u00dflich\r\nKurzzeitkredite (payday loans) und \"Buy now pay later\"\r\n-Darlehen) k\u00f6nnen nicht gepassportet\r\nwerden. Durch die Aufhebung der 12-Monats-Grenze wird keine M\u00f6glichkeit einer nicht\r\ngenehmigten oder unzureichend \u00fcberwachten grenz\u00fcberschreitenden Kreditvergabe\r\ngeschaffen.\r\n\r\nDiese Beschr\u00e4nkung, die nur f\u00fcr PIs und die von ihnen gew\u00e4hrten Kredite gilt, stellt einen\r\nWettbewerbsnachteil dar und widerspricht den Grundprinzipien des Binnenmarktes, da sie\r\nungleiche Wettbewerbsbedingungen zwischen den Kreditanbietern schafft und die PIs\r\n\u00fcberm\u00e4\u00dfig belastet und wettbewerbswidrig einschr\u00e4nkt.\r\nAndererseits unterliegt die Kreditvergabe nicht ausschlie\u00dflich den Vorschriften f\u00fcr\r\nZahlungsdienste, sondern auch anderen sektoralen und lokalen Gesetzen, die keine \u00e4hnlichen\r\nBeschr\u00e4nkungen vorsehen. Da es sich bei den PIs um regulierte und beaufsichtigte\r\nUnternehmen handelt, wird die Aufsicht von der NCA des Herkunftsmitgliedstaats der\r\njuristischen Personen ausge\u00fcbt und \u00fcberwacht. Wenn die Kreditvergabe im\r\nHerkunftsmitgliedstaat der PI auf lokaler Ebene erlaubt ist, was in der Regel der Fall ist,\r\nverst\u00f6\u00dft eine Beschr\u00e4nkung des \"Europ\u00e4ischen Passes\" gegen den freien\r\nDienstleistungsverkehr und damit gegen die Grunds\u00e4tze des Binnenmarktes.\r\nNach den derzeitigen Vorschriften m\u00fcssen die PIs daher in jedem Mitgliedstaat, in dem sie\r\nKreditnebendienstleistungen f\u00fcr den Zahlungsverkehr \u00fcber 12 Monate hinaus anbieten\r\nwollen, eine separate Rechtseinheit gr\u00fcnden. Dieser Aufwand ist nicht nur\r\nwettbewerbshemmend, sondern schr\u00e4nkt auch das Angebot an Finanzdienstleistungen f\u00fcr die\r\nB\u00fcrger in kleineren Mitgliedstaaten ein, in denen die Zahlungsverkehrsdienstleister\r\nwahrscheinlich keine separate Rechtseinheit gr\u00fcnden wollen, aber m\u00f6glicherweise im Rahmen\r\neiner Passporting-Regelung in den Markt eintreten w\u00fcrden, wenn dies m\u00f6glich w\u00e4re.\r\nAus den oben genannten Gr\u00fcnden fordert Amex den Rat auf, die derzeitige 12-Monats-\r\nBegrenzung in Artikel 10 der PSD3 zu streichen.\r\n\r\n2.2 Wiederzulassung von Zahlungsinstituten und Beaufsichtigung (Erw\u00e4gungsgr\u00fcnde 69, 70,\r\nArt. 44, 45 PSD3)\r\nAmex begr\u00fc\u00dft die zus\u00e4tzliche Harmonisierung, die die PSD3 f\u00fcr die Aufsicht mit sich bringt,\r\nsowie die neuen Ma\u00dfnahmen zur Beseitigung der bei der Anwendung der PSD2 festgestellten\r\nUnstimmigkeiten.\r\nMit der Verschmelzung der E-Geld-Richtlinie und der PSD2 sollen die\r\nZulassungsanforderungen f\u00fcr Zahlungsdienstleister harmonisiert und entsprechend ihrer\r\njeweiligen Gesch\u00e4ftst\u00e4tigkeit klassifiziert werden. Allerdings sollte w\u00e4hrend dieses\r\nNeuzulassungsverfahrens ein zus\u00e4tzlicher Verwaltungsaufwand vermieden werden. Die\r\nNeuzulassung sollte sich auf Zahlungsdienstleister konzentrieren, die neue Aktivit\u00e4ten im\r\nRahmen ihrer aktuellen Lizenz einreichen, oder auf bestehende E-Geld-Institute, die ihren\r\nBetrieb an die Anforderungen der PSD3 anpassen m\u00fcssen. Ziel sollte es sein, einen\r\nVerwaltungsaufwand zu vermeiden, der keinen klaren Mehrwert f\u00fcr die derzeitige\r\nAufsichtspraxis der NCAs mit sich bringt. F\u00fcr ZDLs, die lediglich bestehende Anforderungen an\r\ndie neuen Standards der PSD3 anpassen m\u00fcssen, sollte die Neuzulassung, sofern sie von der\r\nNCA f\u00fcr erforderlich gehalten wird, so einfach und unkompliziert wie m\u00f6glich sein. Sie sollte\r\nsich nicht auf die \u00dcberarbeitung von Prozessen und Dokumentationen konzentrieren, die\r\nnicht Gegenstand wesentlicher \u00c4nderungen in der PSD3 sind und die von den ZDLs bereits\r\nbereitgestellt und von ihren jeweiligen NCAs im Rahmen ihrer PSD2-Lizenz genehmigt wurden."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d7/2c/325288/Stellungnahme-Gutachten-SG2406220004.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                "de": "Bundesministerium der Finanzen (BMF)",
+                                "en": "Bundesministerium der Finanzen (BMF)"
+                            }
+                        ],
+                        "sendingDate": "2024-06-18"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009856",
+                "regulatoryProjectTitle": "EU-Zahlungsdiensterichtlinie 3 & EU-Zahlungsdiensteverordnung 1 (Payments Services Directive 3 & Payment Services Regulation 1)",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Spending limits: Ideally, whether spending limits want to be set should be up for the contracting parties (i.e. PSP and PSU) to agree on, without mandating PSPs to provide such feature by default. \r\n \r\nCool off periods and other reactive measures: the cool period (after the increase of the spending limit) and other measures can be applied as a consequence of the detection of possible fraudulent activity and the result of the transaction monitoring. Considering that PSPs will be obliged to enhance the detection of possible fraudulent activity, they should have discretion on the type of measures that can be applied to prevent fraud (e.g. block payment instruments, accounts, cool off periods, request additional SCA or other verifications, and similar), but it shouldn't be imposed by level 1 regulations, since it  may be detrimental to both the PSP and the PSU (who, ultimately, might not be able to execute a payment at the time it has requested to increase the limit but has to wait for the cooling off period to elapse). \r\n \r\nTransaction monitoring measures by the PSP of the beneficiary: We agree that the PSP of the beneficiary should be obliged to monitor the transaction and the activity and implement possible measure to prevent fraud (e.g. freeze received funds if the transaction is unusual, and similar).  \r\n \r\nGDPR elements: The processing of data for fraud prevention may imply the processing of sensitive data for the analysis of information and for the possible implementation of measures (biometric data, payment data, scorings, profiles and similar). The processing of such data is regulated under Art. 9 of the GDPR (special categories of data). Hence, the PSR must enable the processing of special categories of data, for fraud prevention purposes in the context of the PSR framework. GDPR must not be an obstacle for fraud prevention. Hence it is necessary to find the appropriate interplay between both regulations.  \r\n[External] Data sharing with the authorities: PSPs already have obligations related to the report of fraud information. The duplication and overlap of obligations should be avoided if those contribute to creating an excessive reporting burden to PSPs.  \r\n \r\nAuthorization \u2013 Conditions for unauthorized transactions: It is positive that the Art. 49 includes a description of cases that can lead to the lack of authorization (e.g. social engineering applied to the PSU).  \r\n \r\nDuty to cooperate in fraud investigation: It is important to remember that in social engineering the fraudster exploits the \"human factor\" of the security process. Hence, it is necessary that the PSR framework also aims to reinforce the duty of care of the PSUs, since this will lead to reduce the number of fraud cases.  \r\nFor such purpose, it is necessary that the users cooperate, providing the information deemed reasonable by the PSP for the prevention of fraud (e.g. modus, method and consequences of the fraud). Also, PSUs must be required to report to the police the crime (fraud) committed, since this is also a matter linked to law enforcement and crime prevention. The requirement of a police report will also improve the duty of care of the PSUs and mitigate unintended consequences such as the increase of friendly fraud (fraud from the PSU in the report of fraudulent transactions).  \r\nWe also agree with the consequences related to the lack of cooperation from the PSU. For a PSU to be entitled for a reimbursement, the PSU must cooperate and provide reasonable information to the PSP. If not, the PSU must not be entitled for reimbursement.  \r\n \r\nADR: We agree with the implementation of ADR procedures, if the PSP decides that the PSU is not entitled for a reimbursement, and the PSU wants to challenge that decision. However, considering that PSUs would have a right to challenge the decision, and that PSPs already need to report fraud data to the Supervisors, the obligation to report the refusal to reimburse an alleged unauthorized transaction should be removed from the PSR. Such obligation would only generate an unnecessary workload for PSPs and NCAs, in an already complicated task.  \r\n \r\nLimit liability caps: this provision does not seem feasible. If further context is provided, it would help having a clearer view around it.  \r\n \r\nIBAN discrepancy alert / Alerts to the PSU regarding the possibility of fraud: Any concrete effort from the PSP to alert the PSU of a possible fraud, should be considered as a relevant element to determine if there was gross negligence from the PSU. This can be included in L3 (please refer to the next comment).  \r\n \r\nGross negligence: We agree that L1 can include a list of non-exhaustive elements that can be considered when analyzing whether the PSU committed Gross Negligence. Additionally, the EBA can be mandated to develop Guidelines on the concept of Gross Negligence for the purpose of the PSR (non-binding, hence not directly affecting the civil law framework of MS).  "
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

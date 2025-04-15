@@ -1,0 +1,892 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-05-17T09:16:02.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2023-05-17T09:16:02.000+02:00",
+        "lastUpdateDate": "2024-06-30T23:09:06.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 40263,
+                "validFromDate": "2024-06-30T23:09:06.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 19753,
+                "validFromDate": "2023-05-17T09:16:02.000+02:00",
+                "validUntilDate": "2024-06-30T23:09:06.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_CONSULTING",
+            "de": "Beratungsunternehmen, selbst\u00e4ndige Beraterin oder selbst\u00e4ndiger Berater",
+            "en": "Consulting company, independent consultant"
+        },
+        "activityDescription": "Strategische Beratung von Unternehmen mit Fokus auf die Politikfelder Digitalisierung und K\u00fcnstliche Intelligenz. \r\n\r\nDie T\u00e4tigkeiten im Bereich der Interessenvertretung umfassen u.a: \r\n- die Vorbereitung und Durchf\u00fchrung von Gespr\u00e4chen und Treffen mit Beamten aus den Bundesministerien und Mitgliedern des Deutschen Bundestages sowie deren Mitarbeiter:innen\r\n- das Erstellen und Versenden von Positionspapieren und Direktanschreiben an Beamte der Bundesverwaltung und Mitglieder des Deutschen Bundestages sowie der zust\u00e4ndigen Aussch\u00fcsse\r\n- Teilnahme an Veranstaltungen und Konferenzen zum Austausch mit und der Kontaktaufnahme zu politischen Entscheidungstr\u00e4ger:innen.\r\n\r\nZu den Ansprechpartner:innen geh\u00f6ren \r\n- Organe, Gremien, Abgeordnete und Fraktionen des Deutschen Bundestages\r\n- Mitglieder der Bundesregierung, Parlamentarische Staatssekret\u00e4r:innen, Staatssekret\u00e4re:innen, Abteilungsleiter:innen, Unterabteilungsleiter:innen und Referatsleiter:innen der Bundesministerien",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_MEDIA_COPYRIGHT",
+                "de": "Urheberrecht",
+                "en": "Copyright"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_SA_PUBLIC_SERVICE",
+                "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                "en": "Public service"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_IS_CYBER",
+                "de": "Cybersicherheit",
+                "en": "Cyber security"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_SA_OTHER",
+                "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                "en": "Other in the field of \"Government and administration\""
+            },
+            {
+                "code": "FOI_ECONOMY_AUTOMOBILE",
+                "de": "Automobilwirtschaft",
+                "en": "Automotive industry"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_ADMINISTRATION",
+                "de": "Verwaltungstransparenz/Open Government",
+                "en": "Public administration"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_DEFENSE",
+                "de": "Verteidigung",
+                "en": "Defense"
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_MEDIA_OTHER",
+                "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                "en": "Other in the field of \"Media, communication and information technology\""
+            },
+            {
+                "code": "FOI_DEFENSE_POLICY",
+                "de": "Verteidigungspolitik",
+                "en": "Defense policy"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "ON_BEHALF_OF_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird im Auftrag Dritter selbst wahrgenommen",
+                "en": "Representation of interests is carried out on behalf of third parties themselves"
+            }
+        ]
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "financialResourcesReceived": {
+                                "from": 50001,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 100000
+                            },
+                            "referenceDetailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002324",
+                            "referenceName": "Johanssen+Kretschmer Strategische Kommunikation GmbH"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [],
+                    "lobbyingIsCarriedOutByLobbyist": true
+                },
+                "description": "Zu den T\u00e4tigkeiten im Rahmen der beauftragten Interessenvertretung geh\u00f6ren insbesondere:\r\n- die Vorbereitung und Durchf\u00fchrung von Gespr\u00e4chen und Treffen mit Beamten aus den Bundesministerien und Mitgliedern des Deutschen Bundestags sowie deren Mitarbeiter:innen,\r\n- das direkte Anschreiben von Beamten der Bundesverwaltung und Mitgliedern des Deutschen Bundestages sowie der zust\u00e4ndigen Aussch\u00fcsse,\r\n- Teilnahme an Veranstaltungen und Konferenzen zum Austausch und zur Kontaktaufnahme mit politischen Entscheidungstr\u00e4ger:innen.\r\n\r\nZu den Ansprechpartner:innen geh\u00f6ren: \r\n- Organe, Gremien, Mitglieder und Fraktionen des Deutschen Bundestags\r\n- Mitglieder der Bundesregierung, Parlamentarische Staatssekret\u00e4r:innen, Staatssekret\u00e4r:innen, Abteilungsleiter:innen, Unterabteilungsleiter:innen und Referatsleiter:innen der Bundesministerien\r\n",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CYBER",
+                        "de": "Cybersicherheit",
+                        "en": "Cyber security"
+                    },
+                    {
+                        "code": "FOI_STATE_ADMIN",
+                        "de": "Staat und Verwaltung",
+                        "en": "Government and administration"
+                    },
+                    {
+                        "code": "FOI_SA_PUBLIC_SERVICE",
+                        "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                        "en": "Public service"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_DEFENSE",
+                        "de": "Verteidigung",
+                        "en": "Defense"
+                    },
+                    {
+                        "code": "FOI_DEFENSE_POLICY",
+                        "de": "Verteidigungspolitik",
+                        "en": "Defense policy"
+                    },
+                    {
+                        "code": "FOI_SA_OTHER",
+                        "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                        "en": "Other in the field of \"Government and administration\""
+                    },
+                    {
+                        "code": "FOI_MEDIA_OTHER",
+                        "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                        "en": "Other in the field of \"Media, communication and information technology\""
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_MEDIA_INTERNET_POLICY",
+                        "de": "Internetpolitik",
+                        "en": "Internet policy"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COPYRIGHT",
+                        "de": "Urheberrecht",
+                        "en": "Copyright"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_SA_PUBLIC_ADMINISTRATION",
+                        "de": "Verwaltungstransparenz/Open Government",
+                        "en": "Public administration"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "regulatoryProjects": [
+                    {
+                        "regulatoryProjectNumber": "RV0010651",
+                        "regulatoryProjectTitle": "\u00d6ffnung von Frequenzb\u00e4ndern f\u00fcr private lokale Netzwerke"
+                    },
+                    {
+                        "regulatoryProjectNumber": "RV0010647",
+                        "regulatoryProjectTitle": "Verabschiedung eines praxistauglichen Durchf\u00fchrungsgesetzes zur KI-Verordnung"
+                    },
+                    {
+                        "regulatoryProjectNumber": "RV0010648",
+                        "regulatoryProjectTitle": "Weiterentwicklung und Umsetzung der KI-Strategie"
+                    },
+                    {
+                        "regulatoryProjectNumber": "RV0010649",
+                        "regulatoryProjectTitle": "Entwicklung einer deutschen Verwaltungscloud"
+                    },
+                    {
+                        "regulatoryProjectNumber": "RV0010650",
+                        "regulatoryProjectTitle": "F\u00f6rderung des deutschen Supercomputing-Standortes"
+                    }
+                ]
+            },
+            {
+                "clients": {
+                    "clientOrganizations": [
+                        {
+                            "financialResourcesReceived": {
+                                "from": 1,
+                                "lastFiscalYearEnd": "2023-12-31",
+                                "lastFiscalYearFinished": true,
+                                "lastFiscalYearStart": "2023-01-01",
+                                "to": 50000
+                            },
+                            "referenceDetailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002324",
+                            "referenceName": "Johanssen+Kretschmer Strategische Kommunikation GmbH"
+                        }
+                    ],
+                    "clientPersons": []
+                },
+                "contractors": {
+                    "contractorOrganizations": [],
+                    "contractorPersons": [],
+                    "entrustedPersons": [],
+                    "lobbyingIsCarriedOutByLobbyist": true
+                },
+                "description": "Zu den T\u00e4tigkeiten im Rahmen der beauftragten Interessenvertretung geh\u00f6ren insbesondere:\r\n- die Vorbereitung und Durchf\u00fchrung von Gespr\u00e4chen und Treffen mit Beamten aus den Bundesministerien und Mitgliedern des Deutschen Bundestags sowie deren Mitarbeiter:innen,\r\n- die Erstellung und Versendung von Positionspapieren und Direktanschreiben an Beamte der Bundesverwaltung und Mitglieder des Deutschen Bundestags sowie der zust\u00e4ndigen Aussch\u00fcsse,\r\n- Teilnahme an Veranstaltungen und Konferenzen zum Austausch und zur Kontaktaufnahme mit politischen Entscheidungstr\u00e4ger:innen.\r\n\r\nZu den Ansprechpartner:innen geh\u00f6ren: \r\n- Organe, Gremien, Mitglieder und Fraktionen des Deutschen Bundestags\r\n- Mitglieder der Bundesregierung, Parlamentarische Staatssekret\u00e4r:innen, Staatssekret\u00e4r:innen, Abteilungsleiter:innen, Unterabteilungsleiter:innen und Referatsleiter:innen der Bundesministerien.\r\n",
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                        "de": "Verkehrsinfrastruktur",
+                        "en": "Infrastructure"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_FOREIGN_TRADE",
+                        "de": "Au\u00dfenwirtschaft",
+                        "en": "Foreign trade"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COPYRIGHT",
+                        "de": "Urheberrecht",
+                        "en": "Copyright"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                        "de": "Personenverkehr",
+                        "en": "Public transportation"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_AUTOMOBILE",
+                        "de": "Automobilwirtschaft",
+                        "en": "Automotive industry"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_COMPETITION_LAW",
+                        "de": "Wettbewerbsrecht",
+                        "en": "Competition law"
+                    }
+                ],
+                "regulatoryProjects": [
+                    {
+                        "regulatoryProjectNumber": "RV0010646",
+                        "regulatoryProjectTitle": "Verordnungsvorschlag der EU-Kommission \u00fcber standardessenzielle Patente (SEP-Verordnung)"
+                    }
+                ]
+            }
+        ],
+        "contractsPresent": true
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.1,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 10001,
+            "to": 20000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "companyName": "Philippe Lorenz Public Affairs - Politikberatung",
+        "entrustedPersonsPresent": false,
+        "firstName": "Philippe",
+        "identity": "NATURAL",
+        "lastName": "Lorenz",
+        "membershipsPresent": false,
+        "naturalPersonType": {
+            "code": "OTHER",
+            "de": "Andere nat\u00fcrliche Person",
+            "en": "Other natural person"
+        },
+        "recentGovernmentFunctionPresent": false
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R005978/40263",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-30T23:09:06.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/8c/d5/327536/Lobbyregister-Detailansicht-R005978-2024-06-30_23-09-06.pdf",
+        "validFromDate": "2024-06-30T23:09:06.000+02:00",
+        "version": 2
+    },
+    "registerEntryId": 40263,
+    "registerNumber": "R005978",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "PatG",
+                        "title": "Patentgesetz",
+                        "url": "https://www.gesetze-im-internet.de/patg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Der Vorschlag f\u00fcr eine Verordnung des Europ\u00e4ischen Parlaments und des Rates \u00fcber standardessenzielle Patente und zur \u00c4nderung der Verordnung (EU) 2017/001 zielt auf mehr Transparenz, Vorhersehbarkeit und Effizienz bei der Lizenzierung von standardessenziellen Patenten (SEPs). \r\nIm Rahmen des Beauftragung wird darauf hingewirkt, dass die globale SEP-Lizenzierung durch den Verordnungsvorschlag der EU-Kommission nicht nachteilig erschwert wird und eine bef\u00fcrchtete Verteuerung der SEP-Lizenzierung durch u.a. steigenden b\u00fcrokratischen Aufwand vermieden wird.\r\n",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COPYRIGHT",
+                        "de": "Urheberrecht",
+                        "en": "Copyright"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_COMPETITION_LAW",
+                        "de": "Wettbewerbsrecht",
+                        "en": "Competition law"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010646",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/47/3e/327534/Stellungnahme-Gutachten-SG2406300015.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-23"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0010646",
+                        "regulatoryProjectTitle": "Verordnungsvorschlag der EU-Kommission \u00fcber standardessenzielle Patente (SEP-Verordnung)",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "\r\nAvanci Unit 20, The Hyde Building The Park, Carrickmines Dublin D18 AX61 Ireland \r\n\r\nEuropean Commission proposal for a regulation on standard essential patents \r\nFeedback \r\nAvanci commends the European Commission for its objective to introduce more transparency, predictability, and efficiency in the licensing of standard essential patents (SEPs). However, as a company dedicated to creating independent, market-driven and industry-led joint patent licensing programmes that was founded on these exact principles, we believe the proposal for a regulation will fail to achieve the C_o_m_m_i_s_s_i_o_n_\u2019s_ _o_b_j_e_c_t_i_v_e_s_,_ _i_s_ _l_i_k_e_l_y_ _t_o_ _c_o_m_p_l_i_c_a_t_e_ _S_E_P_ _l_i_c_e_n_s_i_n_g_ _g_l_o_b_a_l_l_y_,_ _a_n_d_ _w_i_l_l_ _l_e_a_d_ _t_o_ _a_n_ _i_n_c_r_e_a_s_e_ _i_n_ _t_h_e_ _costs of SEP licensing to the detriment of implementers, SEP holders, SMEs, and, ultimately, consumers. \r\nAvanci is an independent global provider of patent licensing solutions, working at the intersection of different industries to bring efficiency, convenience, transparency, and predictability to the licensing p_r_o_c_e_s_s_._ _A_v_a_n_c_i_\u2019s_ _e_f_f_i_c_i_e_n_t_,_ _m_a_r_k_e_t_-driven joint licensing programmes provide a straightforward, predictable, and fair option for licensing the patented technologies essential for many of the products and services that are transforming our world.1 \r\n\r\nJoint patent licensing solutions have long been recognized by regulators, including the European Commission,2 as beneficial to the market and companies across the SEP licensing spectrum, whether they are implementers, SEP holders, or both. Independently managed and operated joint patent licensing programmes that are not owned or controlled b_y_ _a_n_y_ _l_i_c_e_n_s_e_e_ _o_r_ _l_i_c_e_n_s_o_r_,_ _s_u_c_h_ _a_s_ _A_v_a_n_c_i_\u2019s_, not only offer considerable transaction cost savings to licensees and licensors, but in addition can forge agreement on a widely acceptable set of licensing terms between companies from across the world and with various business models and of different sizes3, providing a level playing f_i_e_l_d_._ _A_v_a_n_c_i_\u2019s_ _a_p_p_r_o_a_c_h_ _t_o_ _S_E_P_ _l_i_c_e_n_s_i_n_g_ _\u2013 _independent, optional, and market-driven \u2013 _has been validated by the success of its 4G Vehicle licensing programme and by the increased interest of companies in Avanci solutions. \r\nFlexible, industry-led solutions to SEP licensing are better placed to deliver the objectives the European Commission claims to achieve with its proposal for a regulation on SEPs. However, the regulation, were it \r\n\r\nadopted, would lead to a significant, and unwarranted, increase of the bureaucratic burden on SEP licensing, in turn leading to an increase of costs and delays within the system. This will likely lead to a detrimental impact on consumers who will ultimately have to pay those increased costs (as with any other item of a bill of materials for a given product) and content themselves with less innovative products or a later adoption of key technologies. \r\nI_n_s_t_e_a_d_ _o_f_ _r_e_g_u_l_a_t_i_n_g_ _f_o_r_ _r_e_g_u_l_a_t_i_o_n_\u2019s_ _s_a_k_e_,_ _t_h_e_ _c_o_-legislators should recognise the efficiency, predictability, and transparency that independent joint patent licensing platforms bring to the market. I_n_e_x_p_l_i_c_a_b_l_y_,_ _t_h_e_ _E_u_r_o_p_e_a_n_ _C_o_m_m_i_s_s_i_o_n_\u2019s_ _o_w_n_ _I_m_p_a_c_t_ _A_s_s_e_s_s_m_e_n_t_ _f_a_i_l_s_ _t_o_ _t_a_k_e_ _n_o_t_e_ _o_f_ _i_m_p_o_r_t_a_n_t_ _developments such as the widespread uptake of the Avanci 4G Vehicle licensing programme4 and the launches of the Avanci Aftermarket5 and Avanci Broadcast6 programmes. All these developments, and others,7 point toward increasing recognition within the market that collective licensing is beneficial for SEP holders and implementers. With an appropriately conducive regulatory and policy environment, we can expect many more such solutions to develop in the future, increasing efficiency, transparency, and predictability within the SEP licensing ecosystem, particularly for SMEs. The proposed regulation for SEPs will not provide such an environment, and in fact, will suppress beneficial, market-led solutions. \r\n\r\nThese_ _m_a_r_k_e_t_ _r_e_a_l_i_t_i_e_s_ _a_r_e_ _n_o_t_ _t_a_k_e_n_ _i_n_t_o_ _a_c_c_o_u_n_t_ _b_y_ _t_h_e_ _C_o_m_m_i_s_s_i_o_n_\u2019s_ _p_r_o_p_o_s_a_l_._ _I_n_deed, the supporting documents8 themselves conclude that there is no evidence of wide-spread malfunctioning of SEP licensing: participation in standardisation activities is high and the uptake of standardised technologies is high, whereas the volume of litigation is low and, moreover, has been decreasing.9 \r\nFurthermore, some provisions of the proposed regulation are likely to hamper any further positive development of joint patent licensing solutions which are proven to provide transparency, efficiency, and predictability to the market.  \r\n\r\nWe therefore ask the co-legislators to consider that adding more bureaucracy to SEP licensing will increase transaction costs and negatively impact implementers and consumers. \r\nT_h_e_ _E_u_r_o_p_e_a_n_ _C_o_m_m_i_s_s_i_o_n_\u2019s_ _s_t_a_t_e_d_ _o_b_j_e_c_t_i_v_e_s_ _f_o_r_ _p_r_o_p_o_s_i_n_g_ _t_h_e_ _r_e_g_u_l_a_t_i_o_n_ _a_r_e_ _t_o_ _a_c_h_i_e_v_e_ _m_o_r_e_ _transparency, predictability, and efficiency in SEP licensing. While the individual proposed procedures on the first glance may seem to achieve these objectives, they are more likely to achieve the opposite while at the same time making SEP licensing more burdensome and ultimately more costly. \r\nEssentiality check system \r\nAvanci can speak on this topic with authority, since patent pools and licensing platforms already conduct essentiality checks in accordance with existing guidelines. Since its founding in 2016, Avanci, for example, has conducted thousands of essentiality checks for its 4G Vehicle programme through its network of independent third-party experts based on a methodology that is trusted and accepted by several dozens of companies from across the SEP licensing spectrum. \r\nThe Commission proposes that a register and comprehensive essentiality checks on declared SEPs will bring more transparency to SEP licensing. We agree that essentiality is an important aspect to consider when licensing patents pertaining to industry standards, and from this it follows that more knowledge about the results of essentiality checks can lead to better informed decisions. For example, the foreseen system of essentiality checks would confer some level of transparency to which patents are potentially included in a licence and which licensors truly own SEPs. But the benefits of mandatory essentiality checks need to be balanced against their limitations and potential costs before a fundamental change and substantial new burden is introduced into SEP licensing. \r\nThe limitations of essentiality checks are readily apparent. Essentiality is only one among many factors when considering appropriate terms for a SEP licence. An essentiality check by itself does not indicate the validity of a patent and is not determinative of the value of the claimed invention. Moreover, in the case of large portfolios of hundreds or thousands or even tens of thousands of patents, the exact number and identity of the essential patents become much less relevant to real-world, commercial negotiations of value. Es_t_a_b_l_i_s_h_i_n_g_ _\u201ce_s_s_e_n_t_i_a_l_i_t_y_ _r_a_t_e_s_\u201d _alone, without regard to additional indications of SEP portfolio value, will not lead to more efficiency in SEP licensing. And without coercing a high level of participation from the SEP owners, the possibility to produce reliable and quality results is remote. \r\nWhile the benefits are limited and speculative, the considerable cost and effort required to implement the envisioned essentiality check system are substantial and certain. First, as a company that has evaluated thousands of SEPs, we can attest to the expense associated with high quality and defensible evaluations.  \r\n\r\nAnd those costs are far exceeded by the additional expense of preparing and submitting claim charts that demonstrate essentiality for evaluation. Inevitably, these costs would eventually impact consumers, either through higher prices, less innovative products and services, or both. This additional encumbrance may also lead patent holders to prioritize patenting their inventions in other jurisdictions with less burdensome requirements. Second, like any test to measure SEP ownership, the behaviour of market participants will adapt to show the best results possible. This will lead to inefficient business practices optimised to show a high number of essential patents rather than producing high value innovations that drive technology and products forward. \r\nAggregate royalty determination \r\nT_h_e_ _d_e_t_e_r_m_i_n_a_t_i_o_n_ _o_f_ _a_n_ _a_g_g_r_e_g_a_t_e_ _r_o_y_a_l_t_y_,_ _d_e_f_i_n_e_d_ _b_y_ _t_h_e_ _p_r_o_p_o_s_a_l_ _a_s_ _t_h_e_ _\u201cm_a_x_i_m_u_m_ _a_m_o_u_n_t_ _o_f_ _r_o_y_a_l_t_y_ _f_o_r_ _a_l_l_ _p_a_t_e_n_t_s_ _e_s_s_e_n_t_i_a_l_ _t_o_ _a_ _s_t_a_n_d_a_r_d_\u201d _(_a_r_t_icle 2, no. 10), may at first glance seem to bring the predictability implementers require. However, the proposal for a regulation lacks further information on t_h_e_ _m_e_t_h_o_d_o_l_o_g_i_e_s_ _t_h_a_t_ _m_a_y_ _b_e_ _u_s_e_d_ _b_y_ _t_h_e_ _a_p_p_o_i_n_t_e_d_ _\u201ce_x_p_e_r_t_s_\u201d _t_o_ _d_e_t_e_r_m_i_n_e_ _a_ _m_a_x_i_m_u_m_ _r_o_y_a_l_t_y_ _r_a_t_e. Nor does it contain safeguards to ensure compliance with competition law. \r\nDetermining aggregate royalty rates for a standardized set of technologies and a particular application (i.e., type of product or service) of those technologies is complex, and best left to free-market forces. Setting an aggregate too high may impede the uptake of the technology whereas setting an aggregate too low may inhibit future investment in research and development and standardisation activities. Furthermore, the value of a technology can increase over time as more and more products, use cases, applications, features, and services are developed and implemented. The value of cellular connectivity, for example, is different when it is implemented in different types of products, for example in a smart meter versus a connected vehicle versus a smartphone. Furthermore, over time, additional use cases develop, enabling companies and consumers to derive more value from the technology. This is evident in the automotive industry where auto makers who initially implemented cellular connectivity in vehicles for emergency calling are today implementing cellular connectivity in vehicles for a myriad of use cases including, for example, road safety and accident avoidance, remote driving, data generation collection, over-the-air updates, in-vehicle commerce and infotainment, cyber security, smart charging, and more. In short, ther_e_ _i_s_ _g_e_n_e_r_a_l_l_y_ _n_o_ _\u201co_n_e_ _s_i_z_e_ _f_i_t_s_ _a_l_l_\u201d _a_g_g_r_e_g_a_t_e_ _r_a_t_e_ _as defined by the regulatory proposal for a particular standardised technology that will be suitable in all cases or for all time. \r\nAny aggregate royalty determination as envisioned by the proposal for a regulation would therefore need t_o_ _b_e_ _m_o_n_i_t_o_r_e_d_ _a_n_d_ _a_d_j_u_s_t_e_d_ _c_o_n_t_i_n_u_o_u_s_l_y_ _t_o_ _e_n_s_u_r_e_ _t_h_a_t_ _\u201ca_n_y_ _m_a_x_i_m_u_m_ _a_m_o_u_n_t_ _o_f_ _r_o_y_a_l_t_y_\u201d _i_s_ _tailored for each type of product that implements the standard, based on the prevailing use cases, throughout the  \r\n\r\nlife of the standard in question, which can span a decade or two.10 Further, this does not even take into consideration other licensing terms (that can impact the rate and vice-versa) which need to be tailored appropriately to any given market situation. Inherently, government regulation is not well suited to address market dynamics in such a way. \r\n\r\nA_v_a_n_c_i_\u2019s_ _r_o_l_e_ _a_s_ _a_n independent market mediator enables it to engage freely with companies from across the SEP licensing spectrum, gauging different (and often differing) priorities and views on various terms and conditions of a future Avanci licensing programme, tailored to a specific licensing scenario. An Avanci licence is a standard form agreement comprising a set of terms and conditions that represent a balanced output from those diverse views \u2013 _an output that, in Avanci\u2019s_ _i_n_d_e_p_e_n_d_e_n_t_ _j_u_d_g_m_e_n_t_,_ _can be widely accepted by SEP holders and product manufacturers alike. As an independent intermediary, Avanci has an inherent interest to develop a set of terms that is attractive enough to SEP holders so they would agree to authorize Avanci to license their SEPs and, at the same time, attractive enough to product manufacturers so they would agree to take an Avanci licence. The result of this process is an efficient, transparent, and predictable licensing option on terms that are fair, reasonable, and non-discriminatory that is adopted in the market, as proven by the Avanci 4G Vehicle programme.11 A government-imposed process for setting aggregate rates would result in confusion and delay, interfering with and potentially undermining the pro-competitive benefits that collective licensing platforms bring to the market. Accordingly, this aspect of the proposed regulations would not only be costly and ineffective, but actually detrimental. \r\nDisclosure requirements for patent pools \r\nThe proposal for a regulation would place extensive disclosure requirements on patent pools that go far beyond what is currently required or needed to support smooth SEP licensing. While some of the information to be provided by patent pools is already habitually published as part of describing the licensing offer, some other disclosure requirements are excessive and will not provide any additional transparency, efficiency, or predictability for SEP licensing. Direct consultation with patent pools on these requirements is respectfully requested before any regulation is enacted.12 A few examples are highlighted below.  \r\n\r\n\u2022\t\u2022 _Some patent pools are owned by publicly traded companies so disclosing the shareholder or ownership structure (as proposed in article 9 (b)) will be either difficult or impossible. Moreover, such a requirement will not provide useful information. If the goal is to enable companies from across the SEP licensing spectrum to assess whether the operator of a particular patent pool can objectively exercise independent judgment (as opposed to being controlled by and potentially serving the interests of certain licensors or licensees in the pool), the proposal for a regulation need only require disclosure of shareholders or owners who are simultaneously licensors or licensees \u2013 _and even then, in practice this tends to be common knowledge throughout the industry.13 This would lessen the bureaucratic burden and achieve the objectives in a simpler way. \r\n\u2022\t\u2022 _Publishing a roster of evaluators residing in the European Union (article 9 (d)) may be counter-productive to smooth SEP licensing. Avanci, for example, keeps the identity of its independent third-party evaluators confidential in order to maintain their independence from potential undue influence by patent owners. In fact, the proposal for a regulation itself recognises the merit of confidentiality for evaluators. A_v_a_n_c_i_\u2019s_ _s_y_s_t_e_m_ _f_o_r_ _e_s_s_e_n_t_i_a_l_i_t_y_ _e_v_a_l_u_a_t_i_o_n_s_ _h_a_s_ _b_e_e_n_ _widely accepted and is trusted by several dozen companies from around the world. Requiring changes without actual need may undermine that trust and lead to a deterioration of the quality of such systems. \r\n\u2022\t\u2022 _In most cases, requiring a list of all SEPs being licensed (article 9 (e)) would be futile because \u2013 _by the European Commission_\u2019s_ _o_w_n_ _a_d_m_i_s_s_i_o_n_ _\u2013 _it is impossible to evaluate every patent due to the number of patents and jurisdictions involved. Such a requirement would chill the formation of patent pools when they are needed most. Moreover, such a requirement is unnecessary when a collective licensing platform licenses, by definition, all of the SEPs held by the participating licensors. In such a case, an implementer knows that it will never face an SEP assertion (for the relevant standard and products) by any of the participating licensors and, accordingly, the most relevant information to implementers is the list of participating licensors. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nFootnotes\r\n1 www.avanci.com. \r\n2 Communication from the Commission to the European Parliament, the Council and the European Economic and Social Committee: Setting out the EU approach to Standard Essential Patents, 2017; Communication from the Commission \u2013 _Guidelines on the application of Article 101 of the Treaty on the Functioning of the European Union to technology transfer agreements, 2014. \r\n3 Joint patent licensing platforms can be especially beneficial to SMEs that are implementers as their licensing terms and conditions allow implementers to take licenses on the same terms and conditions irrespective of the i_m_p_l_e_m_e_n_t_e_r_\u2019s_ _s_i_z_e_. \r\n4 Avanci announced several licence agreements for its 4G Vehicle program after 4 August 2022, including agreements with Honda, Hyundai, Kia, Nissan, Toyota and Stellantis. Avanci has now licensed the very vast majority of all 3G/4G SEPs, held by more than 55 individual patent owners, to more than 80 auto brands and more than 120 million connected vehicles are covered by Avanci licences. Furthermore, Avanci is expecting to launch its 5G Vehicle programme soon, www.avanci.com/vehicle/5gvehicle/. \r\n5 Avanci Aftermarket was launched on 20 February 2023, www.avanci.com/vehicle/aftermarket. \r\n6 Avanci Broadcast was launched on 7 March 2023, https://www.avanci.com/broadcast/. Avanci Broadcast has attracted licensors collectively responsible for almost 75% of patent families containing declared ATSC 3.0 patents, together with several key product makers, including some which are both licensee and licensor in the program, and has licensed nearly all ATSC 3.0 televisions sold to date. \r\n7 Sisvel launched a cellular IoT pool on 9 November 2022. \r\n8 Impact Assessment Report, SWD (2023)124; Baron, Justus, et al.: Empirical Assessment of Potential Challenges in SEP Licensing; Baron, Justus: Essentiality Checks for Potential SEPs \u2013 _A Framework for Assessing the Impact of Different Policy Options. \r\n9 Baron, Justus et al.: Empirical Assessment of Potential Challenges in SEP Licensing, p. 185. \r\n10 3G is still in use today, nearly two decades after it was first introduced. In fact, companies still declare new standard essential patent to 3G today, see ETSI IPR Online Database, http://ipr.etsi.org. \r\n11 It is worth highlighting that the majority of auto OEMs to sign an Avanci 4G Vehicle licence agreement, and notably the first ten, decided to do so without having faced any cellular SEP infringement litigation. \r\n12 W_h_i_l_e_ _D_G_ _G_R_O_W_\u2019s_ _\u201cP_u_b_l_i_c_ _C_o_n_s_u_l_t_a_t_i_o_n_ _o_n_ _a_ _n_e_w_ _f_r_a_m_e_w_o_r_k_ _f_o_r_ _s_t_a_n_d_a_r_d_-e_s_s_e_n_t_i_a_l_ _p_a_t_e_n_t_s_\u201d _(_c_l_o_s_i_n_g_ _d_ate 9 May 2022) did address disclosure requirements proposed, according to the Impact Assessment, broad agreement existed between respondent to the aforementioned consultation only on the following information: \u201dstandards subject to p_o_o_l_ _l_i_c_e_n_s_i_n_g_\u201d _(_1_0_0_%_)_, \u201cp_r_o_d_u_c_t_ _r_o_y_a_l_t_i_e_s_ _p_e_r_ _p_r_o_g_r_a_m_m_e_\u201d _(_9_4_%_)_ _a_n_d_ _\u201cl_i_s_t_ _o_f_ _S_E_P_ _o_w_n_e_r_s_\u201d _(_8_7_%_)_\u201d _(_s_e_e_ _I_m_p_a_c_t_ _Assessment, p. 65).  \r\n13 For example, it is widely known that Via Alliance is a majority-owned subsidiary of Dolby and that Access Advance is owned by a small group of companies that are licensors in the Access Advance patent pools. \r\n\r\n"
+                        }
+                    }
+                ],
+                "title": "Verordnungsvorschlag der EU-Kommission \u00fcber standardessenzielle Patente (SEP-Verordnung)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Im Rahmen der Beauftragung wird auf eine praxisgerechte Ausgestaltung der nationalen Umsetzung der KI-Verordnung hingewirkt. Eine einheitliche nationale Umsetzung sollte das Ziel eines vollst\u00e4ndig digitalen europ\u00e4ischen Binnenmarktes ma\u00dfgeblich unterst\u00fctzen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COPYRIGHT",
+                        "de": "Urheberrecht",
+                        "en": "Copyright"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    },
+                    {
+                        "code": "FOI_MEDIA_INTERNET_POLICY",
+                        "de": "Internetpolitik",
+                        "en": "Internet policy"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010647",
+                "statements": [],
+                "title": "Verabschiedung eines praxistauglichen Durchf\u00fchrungsgesetzes zur KI-Verordnung"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Im Rahmen der Beauftragung soll sichergestellt werden, dass die KI-Strategie der Bundesregierung im Dialog mit Politik, Wissenschaft, Wirtschaft und Zivilgesellschaft kontinuierlich weiterentwickelt wird. Der verantwortungsvolle und ethische Einsatz von KI sollte von Staat und Wirtschaft gef\u00f6rdert werden, um die Wettbewerbsf\u00e4higkeit des Standortes Deutschland zu erhalten bzw. zu erm\u00f6glichen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010648",
+                "statements": [],
+                "title": "Weiterentwicklung und Umsetzung der KI-Strategie"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Im Rahmen des Auftrags soll die praktische Umsetzung der Deutschen Verwaltungscloudstrategie unterst\u00fctzt werden. Dabei sollen insbesondere die M\u00f6glichkeiten von Hybrid- und Multi-Cloud-L\u00f6sungen angemessen ber\u00fccksichtigt werden",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CYBER",
+                        "de": "Cybersicherheit",
+                        "en": "Cyber security"
+                    },
+                    {
+                        "code": "FOI_DEFENSE",
+                        "de": "Verteidigung",
+                        "en": "Defense"
+                    },
+                    {
+                        "code": "FOI_DEFENSE_POLICY",
+                        "de": "Verteidigungspolitik",
+                        "en": "Defense policy"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    },
+                    {
+                        "code": "FOI_STATE_ADMIN",
+                        "de": "Staat und Verwaltung",
+                        "en": "Government and administration"
+                    },
+                    {
+                        "code": "FOI_SA_PUBLIC_SERVICE",
+                        "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                        "en": "Public service"
+                    },
+                    {
+                        "code": "FOI_SA_PUBLIC_ADMINISTRATION",
+                        "de": "Verwaltungstransparenz/Open Government",
+                        "en": "Public administration"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010649",
+                "statements": [],
+                "title": "Entwicklung einer deutschen Verwaltungscloud"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Im Rahmen des Auftrags wird die F\u00f6rderung des Supercomputing/ High Performance Computing (HPC) als kritische Basistechnologie unterst\u00fctzt, die neue Anwendungsm\u00f6glichkeiten f\u00fcr Anwender in Wissenschaft, Forschung und Industrie er\u00f6ffnet und transformative Entwicklungen in den Bereichen K\u00fcnstliche Intelligenz und Quantencomputing erm\u00f6glicht.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_INDUSTRIAL",
+                        "de": "Industriepolitik",
+                        "en": "Industrial policy"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010650",
+                "statements": [],
+                "title": "F\u00f6rderung des deutschen Supercomputing-Standortes"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Innerhalb des Auftrags soll im Bereich der Frequenzpolitik die \u00d6ffnung weiterer Frequenzb\u00e4nder f\u00fcr private lokale Netzwerke unterst\u00fctzt werden (z.B. das obere 6 GHz-Band f\u00fcr WLAN und das 3,8-4,2 GHz-Band f\u00fcr private 5G-Netze). ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010651",
+                "statements": [],
+                "title": "\u00d6ffnung von Frequenzb\u00e4ndern f\u00fcr private lokale Netzwerke"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/47/3e/327534/Stellungnahme-Gutachten-SG2406300015.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-04-23"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0010646",
+                "regulatoryProjectTitle": "Verordnungsvorschlag der EU-Kommission \u00fcber standardessenzielle Patente (SEP-Verordnung)",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "\r\nAvanci Unit 20, The Hyde Building The Park, Carrickmines Dublin D18 AX61 Ireland \r\n\r\nEuropean Commission proposal for a regulation on standard essential patents \r\nFeedback \r\nAvanci commends the European Commission for its objective to introduce more transparency, predictability, and efficiency in the licensing of standard essential patents (SEPs). However, as a company dedicated to creating independent, market-driven and industry-led joint patent licensing programmes that was founded on these exact principles, we believe the proposal for a regulation will fail to achieve the C_o_m_m_i_s_s_i_o_n_\u2019s_ _o_b_j_e_c_t_i_v_e_s_,_ _i_s_ _l_i_k_e_l_y_ _t_o_ _c_o_m_p_l_i_c_a_t_e_ _S_E_P_ _l_i_c_e_n_s_i_n_g_ _g_l_o_b_a_l_l_y_,_ _a_n_d_ _w_i_l_l_ _l_e_a_d_ _t_o_ _a_n_ _i_n_c_r_e_a_s_e_ _i_n_ _t_h_e_ _costs of SEP licensing to the detriment of implementers, SEP holders, SMEs, and, ultimately, consumers. \r\nAvanci is an independent global provider of patent licensing solutions, working at the intersection of different industries to bring efficiency, convenience, transparency, and predictability to the licensing p_r_o_c_e_s_s_._ _A_v_a_n_c_i_\u2019s_ _e_f_f_i_c_i_e_n_t_,_ _m_a_r_k_e_t_-driven joint licensing programmes provide a straightforward, predictable, and fair option for licensing the patented technologies essential for many of the products and services that are transforming our world.1 \r\n\r\nJoint patent licensing solutions have long been recognized by regulators, including the European Commission,2 as beneficial to the market and companies across the SEP licensing spectrum, whether they are implementers, SEP holders, or both. Independently managed and operated joint patent licensing programmes that are not owned or controlled b_y_ _a_n_y_ _l_i_c_e_n_s_e_e_ _o_r_ _l_i_c_e_n_s_o_r_,_ _s_u_c_h_ _a_s_ _A_v_a_n_c_i_\u2019s_, not only offer considerable transaction cost savings to licensees and licensors, but in addition can forge agreement on a widely acceptable set of licensing terms between companies from across the world and with various business models and of different sizes3, providing a level playing f_i_e_l_d_._ _A_v_a_n_c_i_\u2019s_ _a_p_p_r_o_a_c_h_ _t_o_ _S_E_P_ _l_i_c_e_n_s_i_n_g_ _\u2013 _independent, optional, and market-driven \u2013 _has been validated by the success of its 4G Vehicle licensing programme and by the increased interest of companies in Avanci solutions. \r\nFlexible, industry-led solutions to SEP licensing are better placed to deliver the objectives the European Commission claims to achieve with its proposal for a regulation on SEPs. However, the regulation, were it \r\n\r\nadopted, would lead to a significant, and unwarranted, increase of the bureaucratic burden on SEP licensing, in turn leading to an increase of costs and delays within the system. This will likely lead to a detrimental impact on consumers who will ultimately have to pay those increased costs (as with any other item of a bill of materials for a given product) and content themselves with less innovative products or a later adoption of key technologies. \r\nI_n_s_t_e_a_d_ _o_f_ _r_e_g_u_l_a_t_i_n_g_ _f_o_r_ _r_e_g_u_l_a_t_i_o_n_\u2019s_ _s_a_k_e_,_ _t_h_e_ _c_o_-legislators should recognise the efficiency, predictability, and transparency that independent joint patent licensing platforms bring to the market. I_n_e_x_p_l_i_c_a_b_l_y_,_ _t_h_e_ _E_u_r_o_p_e_a_n_ _C_o_m_m_i_s_s_i_o_n_\u2019s_ _o_w_n_ _I_m_p_a_c_t_ _A_s_s_e_s_s_m_e_n_t_ _f_a_i_l_s_ _t_o_ _t_a_k_e_ _n_o_t_e_ _o_f_ _i_m_p_o_r_t_a_n_t_ _developments such as the widespread uptake of the Avanci 4G Vehicle licensing programme4 and the launches of the Avanci Aftermarket5 and Avanci Broadcast6 programmes. All these developments, and others,7 point toward increasing recognition within the market that collective licensing is beneficial for SEP holders and implementers. With an appropriately conducive regulatory and policy environment, we can expect many more such solutions to develop in the future, increasing efficiency, transparency, and predictability within the SEP licensing ecosystem, particularly for SMEs. The proposed regulation for SEPs will not provide such an environment, and in fact, will suppress beneficial, market-led solutions. \r\n\r\nThese_ _m_a_r_k_e_t_ _r_e_a_l_i_t_i_e_s_ _a_r_e_ _n_o_t_ _t_a_k_e_n_ _i_n_t_o_ _a_c_c_o_u_n_t_ _b_y_ _t_h_e_ _C_o_m_m_i_s_s_i_o_n_\u2019s_ _p_r_o_p_o_s_a_l_._ _I_n_deed, the supporting documents8 themselves conclude that there is no evidence of wide-spread malfunctioning of SEP licensing: participation in standardisation activities is high and the uptake of standardised technologies is high, whereas the volume of litigation is low and, moreover, has been decreasing.9 \r\nFurthermore, some provisions of the proposed regulation are likely to hamper any further positive development of joint patent licensing solutions which are proven to provide transparency, efficiency, and predictability to the market.  \r\n\r\nWe therefore ask the co-legislators to consider that adding more bureaucracy to SEP licensing will increase transaction costs and negatively impact implementers and consumers. \r\nT_h_e_ _E_u_r_o_p_e_a_n_ _C_o_m_m_i_s_s_i_o_n_\u2019s_ _s_t_a_t_e_d_ _o_b_j_e_c_t_i_v_e_s_ _f_o_r_ _p_r_o_p_o_s_i_n_g_ _t_h_e_ _r_e_g_u_l_a_t_i_o_n_ _a_r_e_ _t_o_ _a_c_h_i_e_v_e_ _m_o_r_e_ _transparency, predictability, and efficiency in SEP licensing. While the individual proposed procedures on the first glance may seem to achieve these objectives, they are more likely to achieve the opposite while at the same time making SEP licensing more burdensome and ultimately more costly. \r\nEssentiality check system \r\nAvanci can speak on this topic with authority, since patent pools and licensing platforms already conduct essentiality checks in accordance with existing guidelines. Since its founding in 2016, Avanci, for example, has conducted thousands of essentiality checks for its 4G Vehicle programme through its network of independent third-party experts based on a methodology that is trusted and accepted by several dozens of companies from across the SEP licensing spectrum. \r\nThe Commission proposes that a register and comprehensive essentiality checks on declared SEPs will bring more transparency to SEP licensing. We agree that essentiality is an important aspect to consider when licensing patents pertaining to industry standards, and from this it follows that more knowledge about the results of essentiality checks can lead to better informed decisions. For example, the foreseen system of essentiality checks would confer some level of transparency to which patents are potentially included in a licence and which licensors truly own SEPs. But the benefits of mandatory essentiality checks need to be balanced against their limitations and potential costs before a fundamental change and substantial new burden is introduced into SEP licensing. \r\nThe limitations of essentiality checks are readily apparent. Essentiality is only one among many factors when considering appropriate terms for a SEP licence. An essentiality check by itself does not indicate the validity of a patent and is not determinative of the value of the claimed invention. Moreover, in the case of large portfolios of hundreds or thousands or even tens of thousands of patents, the exact number and identity of the essential patents become much less relevant to real-world, commercial negotiations of value. Es_t_a_b_l_i_s_h_i_n_g_ _\u201ce_s_s_e_n_t_i_a_l_i_t_y_ _r_a_t_e_s_\u201d _alone, without regard to additional indications of SEP portfolio value, will not lead to more efficiency in SEP licensing. And without coercing a high level of participation from the SEP owners, the possibility to produce reliable and quality results is remote. \r\nWhile the benefits are limited and speculative, the considerable cost and effort required to implement the envisioned essentiality check system are substantial and certain. First, as a company that has evaluated thousands of SEPs, we can attest to the expense associated with high quality and defensible evaluations.  \r\n\r\nAnd those costs are far exceeded by the additional expense of preparing and submitting claim charts that demonstrate essentiality for evaluation. Inevitably, these costs would eventually impact consumers, either through higher prices, less innovative products and services, or both. This additional encumbrance may also lead patent holders to prioritize patenting their inventions in other jurisdictions with less burdensome requirements. Second, like any test to measure SEP ownership, the behaviour of market participants will adapt to show the best results possible. This will lead to inefficient business practices optimised to show a high number of essential patents rather than producing high value innovations that drive technology and products forward. \r\nAggregate royalty determination \r\nT_h_e_ _d_e_t_e_r_m_i_n_a_t_i_o_n_ _o_f_ _a_n_ _a_g_g_r_e_g_a_t_e_ _r_o_y_a_l_t_y_,_ _d_e_f_i_n_e_d_ _b_y_ _t_h_e_ _p_r_o_p_o_s_a_l_ _a_s_ _t_h_e_ _\u201cm_a_x_i_m_u_m_ _a_m_o_u_n_t_ _o_f_ _r_o_y_a_l_t_y_ _f_o_r_ _a_l_l_ _p_a_t_e_n_t_s_ _e_s_s_e_n_t_i_a_l_ _t_o_ _a_ _s_t_a_n_d_a_r_d_\u201d _(_a_r_t_icle 2, no. 10), may at first glance seem to bring the predictability implementers require. However, the proposal for a regulation lacks further information on t_h_e_ _m_e_t_h_o_d_o_l_o_g_i_e_s_ _t_h_a_t_ _m_a_y_ _b_e_ _u_s_e_d_ _b_y_ _t_h_e_ _a_p_p_o_i_n_t_e_d_ _\u201ce_x_p_e_r_t_s_\u201d _t_o_ _d_e_t_e_r_m_i_n_e_ _a_ _m_a_x_i_m_u_m_ _r_o_y_a_l_t_y_ _r_a_t_e. Nor does it contain safeguards to ensure compliance with competition law. \r\nDetermining aggregate royalty rates for a standardized set of technologies and a particular application (i.e., type of product or service) of those technologies is complex, and best left to free-market forces. Setting an aggregate too high may impede the uptake of the technology whereas setting an aggregate too low may inhibit future investment in research and development and standardisation activities. Furthermore, the value of a technology can increase over time as more and more products, use cases, applications, features, and services are developed and implemented. The value of cellular connectivity, for example, is different when it is implemented in different types of products, for example in a smart meter versus a connected vehicle versus a smartphone. Furthermore, over time, additional use cases develop, enabling companies and consumers to derive more value from the technology. This is evident in the automotive industry where auto makers who initially implemented cellular connectivity in vehicles for emergency calling are today implementing cellular connectivity in vehicles for a myriad of use cases including, for example, road safety and accident avoidance, remote driving, data generation collection, over-the-air updates, in-vehicle commerce and infotainment, cyber security, smart charging, and more. In short, ther_e_ _i_s_ _g_e_n_e_r_a_l_l_y_ _n_o_ _\u201co_n_e_ _s_i_z_e_ _f_i_t_s_ _a_l_l_\u201d _a_g_g_r_e_g_a_t_e_ _r_a_t_e_ _as defined by the regulatory proposal for a particular standardised technology that will be suitable in all cases or for all time. \r\nAny aggregate royalty determination as envisioned by the proposal for a regulation would therefore need t_o_ _b_e_ _m_o_n_i_t_o_r_e_d_ _a_n_d_ _a_d_j_u_s_t_e_d_ _c_o_n_t_i_n_u_o_u_s_l_y_ _t_o_ _e_n_s_u_r_e_ _t_h_a_t_ _\u201ca_n_y_ _m_a_x_i_m_u_m_ _a_m_o_u_n_t_ _o_f_ _r_o_y_a_l_t_y_\u201d _i_s_ _tailored for each type of product that implements the standard, based on the prevailing use cases, throughout the  \r\n\r\nlife of the standard in question, which can span a decade or two.10 Further, this does not even take into consideration other licensing terms (that can impact the rate and vice-versa) which need to be tailored appropriately to any given market situation. Inherently, government regulation is not well suited to address market dynamics in such a way. \r\n\r\nA_v_a_n_c_i_\u2019s_ _r_o_l_e_ _a_s_ _a_n independent market mediator enables it to engage freely with companies from across the SEP licensing spectrum, gauging different (and often differing) priorities and views on various terms and conditions of a future Avanci licensing programme, tailored to a specific licensing scenario. An Avanci licence is a standard form agreement comprising a set of terms and conditions that represent a balanced output from those diverse views \u2013 _an output that, in Avanci\u2019s_ _i_n_d_e_p_e_n_d_e_n_t_ _j_u_d_g_m_e_n_t_,_ _can be widely accepted by SEP holders and product manufacturers alike. As an independent intermediary, Avanci has an inherent interest to develop a set of terms that is attractive enough to SEP holders so they would agree to authorize Avanci to license their SEPs and, at the same time, attractive enough to product manufacturers so they would agree to take an Avanci licence. The result of this process is an efficient, transparent, and predictable licensing option on terms that are fair, reasonable, and non-discriminatory that is adopted in the market, as proven by the Avanci 4G Vehicle programme.11 A government-imposed process for setting aggregate rates would result in confusion and delay, interfering with and potentially undermining the pro-competitive benefits that collective licensing platforms bring to the market. Accordingly, this aspect of the proposed regulations would not only be costly and ineffective, but actually detrimental. \r\nDisclosure requirements for patent pools \r\nThe proposal for a regulation would place extensive disclosure requirements on patent pools that go far beyond what is currently required or needed to support smooth SEP licensing. While some of the information to be provided by patent pools is already habitually published as part of describing the licensing offer, some other disclosure requirements are excessive and will not provide any additional transparency, efficiency, or predictability for SEP licensing. Direct consultation with patent pools on these requirements is respectfully requested before any regulation is enacted.12 A few examples are highlighted below.  \r\n\r\n\u2022\t\u2022 _Some patent pools are owned by publicly traded companies so disclosing the shareholder or ownership structure (as proposed in article 9 (b)) will be either difficult or impossible. Moreover, such a requirement will not provide useful information. If the goal is to enable companies from across the SEP licensing spectrum to assess whether the operator of a particular patent pool can objectively exercise independent judgment (as opposed to being controlled by and potentially serving the interests of certain licensors or licensees in the pool), the proposal for a regulation need only require disclosure of shareholders or owners who are simultaneously licensors or licensees \u2013 _and even then, in practice this tends to be common knowledge throughout the industry.13 This would lessen the bureaucratic burden and achieve the objectives in a simpler way. \r\n\u2022\t\u2022 _Publishing a roster of evaluators residing in the European Union (article 9 (d)) may be counter-productive to smooth SEP licensing. Avanci, for example, keeps the identity of its independent third-party evaluators confidential in order to maintain their independence from potential undue influence by patent owners. In fact, the proposal for a regulation itself recognises the merit of confidentiality for evaluators. A_v_a_n_c_i_\u2019s_ _s_y_s_t_e_m_ _f_o_r_ _e_s_s_e_n_t_i_a_l_i_t_y_ _e_v_a_l_u_a_t_i_o_n_s_ _h_a_s_ _b_e_e_n_ _widely accepted and is trusted by several dozen companies from around the world. Requiring changes without actual need may undermine that trust and lead to a deterioration of the quality of such systems. \r\n\u2022\t\u2022 _In most cases, requiring a list of all SEPs being licensed (article 9 (e)) would be futile because \u2013 _by the European Commission_\u2019s_ _o_w_n_ _a_d_m_i_s_s_i_o_n_ _\u2013 _it is impossible to evaluate every patent due to the number of patents and jurisdictions involved. Such a requirement would chill the formation of patent pools when they are needed most. Moreover, such a requirement is unnecessary when a collective licensing platform licenses, by definition, all of the SEPs held by the participating licensors. In such a case, an implementer knows that it will never face an SEP assertion (for the relevant standard and products) by any of the participating licensors and, accordingly, the most relevant information to implementers is the list of participating licensors. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nFootnotes\r\n1 www.avanci.com. \r\n2 Communication from the Commission to the European Parliament, the Council and the European Economic and Social Committee: Setting out the EU approach to Standard Essential Patents, 2017; Communication from the Commission \u2013 _Guidelines on the application of Article 101 of the Treaty on the Functioning of the European Union to technology transfer agreements, 2014. \r\n3 Joint patent licensing platforms can be especially beneficial to SMEs that are implementers as their licensing terms and conditions allow implementers to take licenses on the same terms and conditions irrespective of the i_m_p_l_e_m_e_n_t_e_r_\u2019s_ _s_i_z_e_. \r\n4 Avanci announced several licence agreements for its 4G Vehicle program after 4 August 2022, including agreements with Honda, Hyundai, Kia, Nissan, Toyota and Stellantis. Avanci has now licensed the very vast majority of all 3G/4G SEPs, held by more than 55 individual patent owners, to more than 80 auto brands and more than 120 million connected vehicles are covered by Avanci licences. Furthermore, Avanci is expecting to launch its 5G Vehicle programme soon, www.avanci.com/vehicle/5gvehicle/. \r\n5 Avanci Aftermarket was launched on 20 February 2023, www.avanci.com/vehicle/aftermarket. \r\n6 Avanci Broadcast was launched on 7 March 2023, https://www.avanci.com/broadcast/. Avanci Broadcast has attracted licensors collectively responsible for almost 75% of patent families containing declared ATSC 3.0 patents, together with several key product makers, including some which are both licensee and licensor in the program, and has licensed nearly all ATSC 3.0 televisions sold to date. \r\n7 Sisvel launched a cellular IoT pool on 9 November 2022. \r\n8 Impact Assessment Report, SWD (2023)124; Baron, Justus, et al.: Empirical Assessment of Potential Challenges in SEP Licensing; Baron, Justus: Essentiality Checks for Potential SEPs \u2013 _A Framework for Assessing the Impact of Different Policy Options. \r\n9 Baron, Justus et al.: Empirical Assessment of Potential Challenges in SEP Licensing, p. 185. \r\n10 3G is still in use today, nearly two decades after it was first introduced. In fact, companies still declare new standard essential patent to 3G today, see ETSI IPR Online Database, http://ipr.etsi.org. \r\n11 It is worth highlighting that the majority of auto OEMs to sign an Avanci 4G Vehicle licence agreement, and notably the first ten, decided to do so without having faced any cellular SEP infringement litigation. \r\n12 W_h_i_l_e_ _D_G_ _G_R_O_W_\u2019s_ _\u201cP_u_b_l_i_c_ _C_o_n_s_u_l_t_a_t_i_o_n_ _o_n_ _a_ _n_e_w_ _f_r_a_m_e_w_o_r_k_ _f_o_r_ _s_t_a_n_d_a_r_d_-e_s_s_e_n_t_i_a_l_ _p_a_t_e_n_t_s_\u201d _(_c_l_o_s_i_n_g_ _d_ate 9 May 2022) did address disclosure requirements proposed, according to the Impact Assessment, broad agreement existed between respondent to the aforementioned consultation only on the following information: \u201dstandards subject to p_o_o_l_ _l_i_c_e_n_s_i_n_g_\u201d _(_1_0_0_%_)_, \u201cp_r_o_d_u_c_t_ _r_o_y_a_l_t_i_e_s_ _p_e_r_ _p_r_o_g_r_a_m_m_e_\u201d _(_9_4_%_)_ _a_n_d_ _\u201cl_i_s_t_ _o_f_ _S_E_P_ _o_w_n_e_r_s_\u201d _(_8_7_%_)_\u201d _(_s_e_e_ _I_m_p_a_c_t_ _Assessment, p. 65).  \r\n13 For example, it is widely known that Via Alliance is a majority-owned subsidiary of Dolby and that Access Advance is owned by a small group of companies that are licensors in the Access Advance patent pools. \r\n\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

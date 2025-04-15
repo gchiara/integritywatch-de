@@ -1,0 +1,934 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-10-27T14:44:49.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-05-17T10:13:37.000+02:00",
+        "lastUpdateDate": "2024-06-10T16:38:28.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 29746,
+                "validFromDate": "2024-06-10T16:38:28.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23397,
+                "validFromDate": "2023-07-10T09:54:54.000+02:00",
+                "validUntilDate": "2024-06-10T16:38:28.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 20312,
+                "validFromDate": "2023-06-14T14:11:10.000+02:00",
+                "validUntilDate": "2023-07-10T09:54:54.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 12743,
+                "validFromDate": "2022-10-27T14:44:49.000+02:00",
+                "validUntilDate": "2023-06-14T14:11:10.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_LAW_ORGA",
+            "de": "Privatrechtliche Organisation",
+            "en": "Private-law organization"
+        },
+        "activityDescription": "Zentrale Elemente der Interessenvertretung des Klima-B\u00fcndnis sind die Ver\u00f6ffentlichung von Positionspapieren und Stellungnahmen zu aktuellen klimapolitischen Themen und Gesetzesvorhaben sowie die Ausrichtung von entsprechenden Veranstaltungen und Gespr\u00e4chen, virtuell und in Pr\u00e4senz, zu denen wir neben Kommunalvertreter*innen aus unserem Netzwerk auch u.a. Bundestagsabgeordnete und Mitglieder der Bundesregierung und ihrer Institutionen einladen.\r\n\r\nZiel ist es, den Austausch zwischen kommunaler und bundespolitischer Ebene zu f\u00f6rdern, gemeinsam Fragen des kommunalen Klimaschutzes / der kommunalen Klimaanpassung zu diskutieren, f\u00fcr die Herausforderungen vor Ort zu sensibilisieren und allgemein f\u00fcr bessere Rahmenbedingungen (inkl. einer besseren Finanzierung) f\u00fcr kommunale Klimaarbeit zu werben. Daf\u00fcr suchen wir u.a. den Dialog mit politischen Entscheidungstr\u00e4ger*innen aller demokratischen Parteien sowie Vertreter*innen der Bundesregierung und ihrer Institutionen. \r\n\r\nDas Klima-B\u00fcndnis ist ein St\u00e4dtenetzwerk, das sich umfassendem Klimaschutz und Klimagerechtigkeit verschrieben hat. Fast 2.000 St\u00e4dte, Kreise und Gemeinden sowie Bundesl\u00e4nder und Provinzen, NGOs und andere Organisationen in ganz Europa bilden das Netzwerk \u2013 gemessen an der Mitgliederzahl ist es das weltweit gr\u00f6\u00dfte St\u00e4dtenetzwerk, das lokale Ma\u00dfnahmen f\u00fcr den globalen Klimaschutz ergreift. Neben den lokalen Klimaschutzaktivit\u00e4ten in Europa verstehen wir die Zusammenarbeit mit den indigenen V\u00f6lkern Amazoniens als zweite S\u00e4ule unserer Arbeit.\r\n\r\nJede Stadt, jede Gemeinde und jeder Landkreis muss mit dem Beitritt zum Klima-B\u00fcndnis einen Beschluss im kommunalen Parlament verabschieden. Dieser enth\u00e4lt eine Selbstverpflichtung zur kontinuierlichen Verminderung der Treibhausgasemissionen, um eine Reduktion der CO2-Emissionen von mindestens 95 % bis 2050 (gegen\u00fcber 1990) zu erreichen. Au\u00dferdem verpflichten sich die Mitgliedsst\u00e4dte und -gemeinden, effektiven und nachhaltigen Klimaschutz im Einklang mit den Klima-B\u00fcndnis-Prinzipien umzusetzen. Diese Ziele und konkrete Handlungsempfelungen zeichnen das Klima-B\u00fcndnis als Netzwerk aus.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_RP_CITY",
+                "de": "Stadtentwicklung",
+                "en": "Urban development"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/70/e1/286936/ClimateAlliance_Financial_Audit_2022-low.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "Spende f\u00fcr Rechtshilfefonds im April 2022: 10.405,- Euro\r\n",
+                "donationEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "name": "Stadt Radolfzell"
+            },
+            {
+                "description": "Spende f\u00fcr Energiehilfefonds im April 2022: 20.811,- Euro\r\n",
+                "donationEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "name": "Stadt Radolfzell"
+            },
+            {
+                "description": "Spende f\u00fcr Rechtshilfefonds im Mai 2022: 10.405,- Euro\r\n",
+                "donationEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "name": "Stadt Radolfzell"
+            },
+            {
+                "description": "Spende f\u00fcr Energiehilfefonds im Mai 2022: 20.811,- Euro",
+                "donationEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "name": "Stadt Radolfzell"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01",
+        "totalDonationsEuro": {
+            "from": 60001,
+            "to": 70000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.0,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 80001,
+            "to": 90000
+        },
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Frankfurt am Main",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Galvanistra\u00dfe",
+            "streetNumber": "28",
+            "type": "NATIONAL",
+            "zipCode": "60486"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "europe@klimabuendnis.org"
+                },
+                {
+                    "email": "j.thoss@klimabuendnis.org"
+                }
+            ],
+            "phoneNumber": "+49697171390",
+            "websites": [
+                {
+                    "website": "www.klimabuendnis.org"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Thomas",
+                "lastName": "Brose",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Andreas",
+                "lastName": "Wolter",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Simone",
+                "lastName": "Raskob",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Julian",
+                "lastName": "Thoss",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Andreas",
+                "lastName": "Kress",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Andr\u00e9 ",
+                "lastName": "Muno",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Sarah ",
+                "lastName": "Mekjian ",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Silke",
+                "lastName": "Lunnebach",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Jan ",
+                "lastName": "Schwarz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Edgar",
+                "lastName": "Bazing",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Kristina",
+                "lastName": "Eisfeld",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "M.Sc.",
+                "firstName": "Dominik",
+                "lastName": "Legrum",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Helena",
+                "lastName": "Daum",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Andreas",
+                "function": "Vorstandsvorsitzender",
+                "lastName": "Wolter",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Simone",
+                "function": "Vorstandsmitglied",
+                "lastName": "Raskob",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Eva",
+                "function": "Vorstandsmitglied",
+                "lastName": "Schobesberger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Rainer ",
+                "function": "Finanzvorstand",
+                "lastName": "Handlfinger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Robert ",
+                "function": "Schriftf\u00fchrer",
+                "lastName": "Leven",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Alessandra ",
+                "function": "Vorstandsmitglied",
+                "lastName": "Filippi",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Marc Serra ",
+                "function": "Vorstandsmitglied",
+                "lastName": "Sol\u00e9",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Ronald ",
+                "function": "Vorstandsmitglied",
+                "lastName": "van Meygaarden",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Matthias ",
+                "function": "Vorstandsmitglied",
+                "lastName": "Nabholz",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-03-07",
+            "naturalPersons": 0,
+            "organizations": 1977,
+            "totalCount": 1977
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "fesa e.V"
+            },
+            {
+                "membership": "FSC Forest Stewardship Council"
+            },
+            {
+                "membership": "Bundesverband Klimaschutz e.V."
+            },
+            {
+                "membership": "Entwicklungspolitisches Netzwerk Hesse ENP"
+            },
+            {
+                "membership": "Bund der Energieverbraucher"
+            },
+            {
+                "membership": "Passivehouse-international "
+            },
+            {
+                "membership": "Deutscher Bahnkunden-Verband"
+            },
+            {
+                "membership": "SDG Watch Europe"
+            },
+            {
+                "membership": "KEA Klimaschutz- und Energieagentur Baden-W\u00fcrttemberg GmbH"
+            },
+            {
+                "membership": "The Coalition for Energy Savings"
+            },
+            {
+                "membership": "ILO KK "
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Klima-B\u00fcndnis der europ\u00e4ischen St\u00e4dte mit indigenen V\u00f6lkern der Regenw\u00e4lder | Alianza del Clima e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01",
+        "totalMembershipFees": {
+            "from": 570001,
+            "to": 580000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Projektname: Eastern Partnership Covenant of Mayors East II (CoM East II) (Identification number: EuropeAid/137342/DH/SER/MULTI)",
+                "location": "Europ\u00e4ische Kommission, B-1049 Br\u00fcssel, Belgien",
+                "name": "Europ\u00e4ische Union - EU4Energy Initiative (CoM East II)",
+                "publicAllowanceEuro": {
+                    "from": 260001,
+                    "to": 270000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Projektname: Region-N (siehe: https://region-n.net/)",
+                "location": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Stresemannstra\u00dfe 128 - 130, 10117 Berlin",
+                "name": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) via Umweltbundesamt (UBA) - Region-N",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projektname: Renewable Energy Regions (RegEnergy) - Projektnummer: NWE 794\r\n",
+                "location": "Interreg North West Europe: NWE Secretariat, Les Arcuriales, 6th Floor, 45, rue de Tournai, Entr\u00e9e D, F-59000, Lille, FRANCE",
+                "name": "Europ\u00e4ische Union - Interreg North West Europe (RegEnergy) ",
+                "publicAllowanceEuro": {
+                    "from": 1040001,
+                    "to": 1050000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Ko-Finanzierung des Interreg-Projekts: Renewable Energy Regions (RegEnergy) - Projektnummer: NWE 794\r\n",
+                "location": "Bundesinstitut f\u00fcr Bau-, Stadt- und Raumforschung (BBSR) im Bundesamt f\u00fcr Bauwesen und Raumordnung (BBR), Deichmanns Aue 31-37, 53179 Bonn",
+                "name": "Bundesinstitut f\u00fcr Bau-, Stadt- und Raumforschung (BBSR) (RegEnergy)",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projektname: Integration and smart management of energy storages at historical urban sites, acronym \"Store4HUC\" (Projektnummer: CE1344)",
+                "location": "Interreg CENTRAL EUROPE Programme: Joint Secretariat, Kirchberggasse 33-35/11, A-1070 Wien, \u00d6sterreich",
+                "name": "Europ\u00e4ische Union - Interreg Central Europe (Store4HUC)",
+                "publicAllowanceEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Projektname: XPRESS (Grant agreement number: 857831)\r\n",
+                "location": "Innovation and Networks Executive Agency (INEA), European Commission, W910, B-1049 Brussels, Belgium",
+                "name": "Europ\u00e4ische Union - Horizon 2020 (XPRESS)",
+                "publicAllowanceEuro": {
+                    "from": 60001,
+                    "to": 70000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Projektname: e-mobility SMART grid for passengers and last mile freight transports in the Alpine Space (Projektnummer: ASP753)",
+                "location": "Interreg Alpine Space Programm: Joint Secretariat, He\u00dfstra\u00dfe 128, 80797 M\u00fcnchen, Deutschland",
+                "name": "Europ\u00e4ische Union - Interreg Alpine Space Programm (SMART)",
+                "publicAllowanceEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Projektname: INTERnational cooperation to restore and connect urban environments in Latin AmeriCa and Europe (INTERLACE) (Grant agreement number: 869324)",
+                "location": "Executive Agency for Small and Medium-sized Enterprises (EASME), Europ\u00e4ische Kommission, 1049 Br\u00fcssel, Belgien",
+                "name": "Europ\u00e4ische Union - Horizon 2020 (INTERLACE)",
+                "publicAllowanceEuro": {
+                    "from": 90001,
+                    "to": 100000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Projektname: Climbing the causality ladder to understand and project the energy demand of the residential sector - \"WHY\" (Grant agreement number: 891943)\r\n",
+                "location": "Executive Agency for Small and Medium-sized Enterprises (EASME), Europ\u00e4ische Kommission, 1049 Br\u00fcssel, Belgien",
+                "name": "Europ\u00e4ische Union - Horizon 2020 (WHY)",
+                "publicAllowanceEuro": {
+                    "from": 80001,
+                    "to": 90000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Projektname: \u2018Expanding PadovaFIT! Home Solutions\u2019 \u2018PadovaFIT Expanded\u2019 (Grant Agreement number: 847143)",
+                "location": "Executive Agency for Small and Medium-sized Enterprises (EASME), Europ\u00e4ische Kommission, 1049 Br\u00fcssel, Belgien ",
+                "name": "Europ\u00e4ische Union - Horizon 2020 (PadovaFIT Expanded) ",
+                "publicAllowanceEuro": {
+                    "from": 100001,
+                    "to": 110000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Projektname: Transform-R",
+                "location": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Stresemannstra\u00dfe 128 - 130, 10117 Berlin",
+                "name": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                "publicAllowanceEuro": {
+                    "from": 80001,
+                    "to": 90000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Verbundvorhaben: DAS: Regionale Foren zur Anpassung an den Klimawandel im Hochtaunus\r\n\r\n",
+                "location": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Stresemannstra\u00dfe 128 - 130, 10117 Berlin",
+                "name": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projektname: CONNECTING Nature (https://connectingnature.eu/)",
+                "location": "European Climate, Infrastructure and Environment Executive Agency (CINEA), Europ\u00e4ische Kommission, W910, 1049 Br\u00fcssel, Belgien",
+                "name": "Europ\u00e4ische Union Horizon 2020 (CONNECTING Nature)",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Projektname: Climate Active Neighbourhoods Capitalisation (CAN Cap) NWE102\r\n\r\n\r\n",
+                "location": "Interreg North West Europe: NWE Secretariat, Les Arcuriales, 6th Floor, 45, rue de Tournai, Entr\u00e9e D, F-59000, Lille, FRANCE",
+                "name": "Europ\u00e4ische Union - Interreg North West Europe (RegEnergy)  (CAN Cap) ",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "European Topic Centre on Climate change Adaptation and LULUCF 2022-2026 (OCP/EEA/CAS/21/002-ETC CA)\r\n\r\n\r\n",
+                "location": "European Environment Agency (EEA), Kongens Nytorv 6, DK-1050 Copenhagen K, Denmark",
+                "name": "Europ\u00e4ischen Union - European Environment Agency (EEA)",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Projektname: ENPOR (https://www.enpor.eu/) - Zuschussvereinbarung Nr. 889385",
+                "location": "Innovation and Networks Executive Agency (INEA), European Commission, W910, B-1049 Brussels, Belgium",
+                "name": "Europ\u00e4ischeUnion Horinzont 2020 (ENPOR)",
+                "publicAllowanceEuro": {
+                    "from": 70001,
+                    "to": 80000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Projektname: European City Facility (https://www.eucityfacility.eu/home.html) - Grant Agreement No 864212",
+                "location": "Innovation and Networks Executive Agency (INEA), European Commission, W910, B-1049 Brussels, Belgium",
+                "name": "Europ\u00e4ische Union Horizon 2020 (European City Facility)",
+                "publicAllowanceEuro": {
+                    "from": 310001,
+                    "to": 320000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Projektname: NetZeroCities (NZC) - Grant Agreement No. 101036519\r\n",
+                "location": "Innovation and Networks Executive Agency (INEA), European Commission, W910, B-1049 Brussels, Belgium",
+                "name": "Europ\u00e4ische Union - Horizon 2020 (NZC)",
+                "publicAllowanceEuro": {
+                    "from": 60001,
+                    "to": 70000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Projektname: Move On - Digitale Radverkehrsdaten f\u00fcr deutsche Kommunen\r\n",
+                "location": "Bundesministeriums f\u00fcr Digitales und Verkehr (BMDV), Invalidenstra\u00dfe 44, 10115 Berlin",
+                "name": "Bundesministeriums f\u00fcr Digitales und Verkehr (BMDV) (Move On)",
+                "publicAllowanceEuro": {
+                    "from": 100001,
+                    "to": 110000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projektname: EUROPA (https://europaonestop.eu/de/startseite/) - Grant Agreement Nr. 956649",
+                "location": "European Research Executive Agency, Place Rogier 16, 1049 Bruxelles/Brussel, Belgium",
+                "name": "Europ\u00e4ische Union - Horizon 2020 (EUROPA)",
+                "publicAllowanceEuro": {
+                    "from": 70001,
+                    "to": 80000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Projektname: CEESEU (https://ceesen.org/en/) - Grant Agreement No 696173",
+                "location": "European Research Executive Agency, Place Rogier 16, 1049 Bruxelles/Brussel, Belgium",
+                "name": "Europ\u00e4ische Union Horizon 2020 (CEESEU)",
+                "publicAllowanceEuro": {
+                    "from": 80001,
+                    "to": 90000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Projektname: \u2018Supporting public sector's capacity and leadership in decarbonising Europe's building stock, through the development of a multi-level renovation impact framework' \u2018BUILD UPON2\u2019 (Grant Agreement number: 840926)",
+                "location": "Executive Agency for Small and Medium-sized Enterprises (EASME), Europ\u00e4ische Kommission, 1049 Br\u00fcssel, Belgien ",
+                "name": "Europ\u00e4ische Union - Horizon 2020 (BUILD UPON2) ",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Financing Ambitious Local Climate Objectives \u2014 FALCO - Grant Agreement number: 747331",
+                "location": "Executive Agency for Small and Medium-sized Enterprises (EASME), Europ\u00e4ische Kommission, 1049 Br\u00fcssel, Belgien ",
+                "name": "Europ\u00e4ische Union - Horizon 2020 (FALCO) ",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R004570/29746",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-10T16:38:28.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/ec/10/286937/Lobbyregister-Detailansicht-R004570-2024-06-10_16-38-28.pdf",
+        "validFromDate": "2024-06-10T16:38:28.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 29746,
+    "registerNumber": "R004570",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GG",
+                        "title": "Grundgesetz f\u00fcr die Bundesrepublik Deutschland",
+                        "url": "https://www.gesetze-im-internet.de/gg"
+                    },
+                    {
+                        "shortTitle": "WPG",
+                        "title": "Gesetz f\u00fcr die W\u00e4rmeplanung und zur Dekarbonisierung der W\u00e4rmenetze",
+                        "url": "https://www.gesetze-im-internet.de/wpg"
+                    },
+                    {
+                        "shortTitle": "KAnG",
+                        "title": "Bundes-Klimaanpassungsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/kang"
+                    },
+                    {
+                        "shortTitle": "KSG",
+                        "title": "Bundes-Klimaschutzgesetz",
+                        "url": "https://www.gesetze-im-internet.de/ksg"
+                    },
+                    {
+                        "shortTitle": "EEG 2023",
+                        "title": "Gesetz f\u00fcr den Ausbau erneuerbarer Energien",
+                        "url": "https://www.gesetze-im-internet.de/eeg_2014"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Das Klima-B\u00fcndnis setzt sich f\u00fcr die Verankerung von Klimaschutz und Klimaanpassung in kommunalen Pflichtaufgaben ein. Wie die gesetzliche Ausgestaltung hierbei aussehen k\u00f6nnte bzw. welche konkreten Gesetze hiervon betroffen w\u00e4ren, ist eine Frage, die nicht abschlie\u00dfend gekl\u00e4rt ist. Als m\u00f6gliche Blaupause f\u00fcr die Verankerung von Klimaschutz und Klimaanpassung in kommunalen Pflichtaufgaben k\u00f6nnten z.B. das Gesetz f\u00fcr die W\u00e4rmeplanung und zur Dekarbonisierung der W\u00e4rmenetze oder das Bundes-Klimaanpassungsgesetz dienen, in denen entsprechende Regelungen bereits (teilweise) vorhanden sind. Manche Jurist*innen argumentieren auch, dass eine Grundgesetz\u00e4nderung hierf\u00fcr notwendig bzw. sinnvoll sei. Das Klima-B\u00fcndnis m\u00f6chte diese Debatte konkstruktiv und ergebnisoffen vorantreiben.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_CITY",
+                        "de": "Stadtentwicklung",
+                        "en": "Urban development"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001722",
+                "statements": [],
+                "title": "Verankerung von Klimaschutz und Klimaanpassung in kommunalen Pflichtaufgaben"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GG",
+                        "title": "Grundgesetz f\u00fcr die Bundesrepublik Deutschland",
+                        "url": "https://www.gesetze-im-internet.de/gg"
+                    },
+                    {
+                        "shortTitle": "GAKG",
+                        "title": "Gesetz \u00fcber die Gemeinschaftsaufgabe \"Verbesserung der Agrarstruktur und des K\u00fcstenschutzes\"",
+                        "url": "https://www.gesetze-im-internet.de/agrstruktg"
+                    },
+                    {
+                        "shortTitle": "GRWG",
+                        "title": "Gesetz \u00fcber die Gemeinschaftsaufgabe \"Verbesserung der regionalen Wirtschaftsstruktur\"",
+                        "url": "https://www.gesetze-im-internet.de/wistruktg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Das Klima-B\u00fcndnis bef\u00fcrwortet eine st\u00e4rkere Verankerung von Klimaschutz und Klimaanpassung im Grundgesetz, beispielsweise im Rahmen einer neuen Gemeinschaftsaufgabe nach Art. 91a GG. Wie eine solche neue Gemeinschaftsaufgabe ausgestaltet werden k\u00f6nnte, ist dabei Gegenstand der Debatte. Orientierung hierf\u00fcr k\u00f6nnten z.B. die beiden existierenden Gemeinschaftsaufgaben zur \"Verbesserung der Agrarstruktur und des K\u00fcstenschutzes\" (GAK) und zur \"Verbesserung der regionalen Wirtschaftsstruktur\" (GRW) geben. Das Klima-B\u00fcndnis m\u00f6chte diese Debatte konkstruktiv und ergebnisoffen vorantreiben.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0001723",
+                "statements": [],
+                "title": "Klimaschutz und Klimaanpassung als Gemeinschaftsaufgabe ins Grundgesetz"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

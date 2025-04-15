@@ -1,0 +1,343 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-02-28T15:31:56.000+01:00",
+                "untilDate": "2024-07-02T00:10:57.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-28T15:31:56.000+01:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-07-02T00:10:57.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2023-09-25T14:21:39.000+02:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2024-07-02T00:10:57.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 25817,
+                "validFromDate": "2023-09-25T14:21:39.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 24755,
+                "validFromDate": "2023-08-03T15:55:31.000+02:00",
+                "validUntilDate": "2023-09-25T14:21:39.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 24748,
+                "validFromDate": "2023-08-03T11:43:40.000+02:00",
+                "validUntilDate": "2023-08-03T15:55:31.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16963,
+                "validFromDate": "2023-02-23T13:56:20.000+01:00",
+                "validUntilDate": "2023-08-03T11:43:40.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 2408,
+                "validFromDate": "2022-02-28T15:31:56.000+01:00",
+                "validUntilDate": "2023-02-23T13:56:20.000+01:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA",
+            "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen) (GL2022)",
+            "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations) (GL2022)"
+        },
+        "activityDescription": "Beratung, die politischen Entwicklungen und Gesetzgebungsverfahren beobachten sowie die Interessen auf bundespolitischer Ebene zu vertreten. Gleichzeitig das Thema Pferd in Verbindung mit Umwelt, Natur und Kultur wieder n\u00e4her an die Gesellschaft und die politischen Entscheidungstr\u00e4ger herantragen.",
+        "activityOperationType": "MANDATE_OPERATED",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_LAS_PROFESSIONAL_SPORT",
+                "de": "Profisport",
+                "en": "Professional sports"
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            }
+        ],
+        "legislativeProjects": []
+    },
+    "annualReports": {
+        "annualReportExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/be/9e/233641/AbschluDOKR2022.pdf",
+        "disclosureRequirementsExist": false,
+        "refuseAnnualFinanceStatement": false
+    },
+    "clientIdentity": {
+        "clientOrganizations": [
+            {
+                "address": {
+                    "city": "Warendorf",
+                    "country": {
+                        "code": "DE",
+                        "de": "Deutschland",
+                        "en": "Germany"
+                    },
+                    "street": "Freiherr-von-Langen-Str.",
+                    "streetNumber": "13",
+                    "type": "NATIONAL",
+                    "zipCode": "48231"
+                },
+                "contactDetails": {
+                    "emails": [
+                        {
+                            "email": "info@fn-dokr.de"
+                        }
+                    ],
+                    "phoneNumber": "+49258163620",
+                    "websites": [
+                        {
+                            "website": "wwww.pferd-aktuell.de"
+                        }
+                    ]
+                },
+                "legalForm": {
+                    "code": "LF_EV",
+                    "de": "Eingetragener Verein (e. V.)",
+                    "en": "Registered association"
+                },
+                "legalFormType": {
+                    "code": "JURISTIC_PERSON",
+                    "de": "Juristische Person",
+                    "en": "Legal person"
+                },
+                "legalRepresentatives": [
+                    {
+                        "commonFirstName": "Bernhard",
+                        "emails": [
+                            {
+                                "email": "bfessler@fn-dokr.de"
+                            }
+                        ],
+                        "function": "Leiter Hauptstadtb\u00fcro",
+                        "lastName": "Fe\u00dfler",
+                        "phoneNumber": "+4930200757980"
+                    }
+                ],
+                "name": "Deutsche Reiterliche Vereinigung e.V. (FN)"
+            }
+        ],
+        "clientsPresent": true
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/eb/5c/233640/Verhaltensrichtlinie-GoodGovernance2021.pdf",
+        "ownCodeOfConduct": true
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "Spende",
+                "donationEuro": {
+                    "from": 180001,
+                    "to": 190000
+                },
+                "name": "Stiftung Deutscher Pferdesport"
+            },
+            {
+                "description": "Spende",
+                "donationEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "name": "Dieter Hofmann Stiftung"
+            },
+            {
+                "description": "Spende\r\n",
+                "donationEuro": {
+                    "from": 50001,
+                    "to": 60000
+                },
+                "name": "Marion und Gerhard M\u00fcter"
+            },
+            {
+                "description": "Spende",
+                "donationEuro": {
+                    "from": 190001,
+                    "to": 200000
+                },
+                "name": "Liselott und Klaus Rheinberger Stiftung"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 30001,
+            "to": 40000
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Warendorf",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Freiherr-von-Langen-Strasse",
+            "streetNumber": "15",
+            "type": "NATIONAL",
+            "zipCode": "48231"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "DOKR-Lobbyregister@fn-dokr.de"
+                }
+            ],
+            "phoneNumber": "+49258163620",
+            "websites": [
+                {
+                    "website": "www.pferd-aktuell.de"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Soenke",
+                "emails": [
+                    {
+                        "email": "info@fn-dokr.de"
+                    }
+                ],
+                "function": "Generalsekret\u00e4r und Vorsitzender Gesch\u00e4ftsf\u00fchrender Vorstand ",
+                "lastName": "Lauterbach",
+                "phoneNumber": "+49258162620"
+            },
+            {
+                "academicDegreeBefore": "Dr",
+                "commonFirstName": "Dennis",
+                "emails": [
+                    {
+                        "email": "info@fn-dokr.de"
+                    }
+                ],
+                "function": "Gesch\u00e4ftsf\u00fchrer Sport und stellvetretender Vorsitzender Gesch\u00e4ftsf\u00fchrender Vorstand",
+                "lastName": "Peiler",
+                "phoneNumber": "+49258163620"
+            },
+            {
+                "academicDegreeBefore": "Dr",
+                "commonFirstName": "Klaus",
+                "emails": [
+                    {
+                        "email": "info@fn-dokr.de"
+                    }
+                ],
+                "function": "Gesch\u00e4ftsf\u00fchrer Zucht und Mitglied Gesch\u00e4ftsf\u00fchrender Vorstand",
+                "lastName": "Miesner",
+                "phoneNumber": "+49258163620"
+            },
+            {
+                "commonFirstName": "Ren\u00e9",
+                "emails": [
+                    {
+                        "email": "info@fn-dokr.de"
+                    }
+                ],
+                "function": "Gesch\u00e4ftsf\u00fchrer Personal und Finanzen und Mitglied Gesch\u00e4ftsf\u00fchrender Vorstand",
+                "lastName": "Straten",
+                "phoneNumber": "+49258163620"
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2022-12-31",
+            "totalCount": 206
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Deutsche Reiterliche Vereinigung e.V. (FN)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Deutsches Olympiade-Komitee f\u00fcr Reiterei e.V. (DOKR)",
+        "namedEmployees": [
+            {
+                "commonFirstName": "Bernhard",
+                "lastName": "Fe\u00dfler"
+            }
+        ],
+        "namedEmployeesPresent": true
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "publicAllowances": [
+            {
+                "description": "DOKR Trainingsapp",
+                "location": "Berlin",
+                "name": "Bundesministerium des Innern und f\u00fcr Heimat",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-08-03T15:55:31.000+02:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002196/25817",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/f5/61/233642/Lobbyregister-Detailansicht-R002196-2023-09-25_14-21-39.pdf",
+        "refusedAnything": false,
+        "validFromDate": "2023-09-25T14:21:39.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 25817,
+    "registerNumber": "R002196"
+}

@@ -1,0 +1,833 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-02-24T14:28:32.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-24T14:28:32.000+01:00",
+        "lastUpdateDate": "2024-06-28T11:49:24.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 38610,
+                "validFromDate": "2024-06-28T11:49:24.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25823,
+                "validFromDate": "2023-09-25T16:09:30.000+02:00",
+                "validUntilDate": "2024-06-28T11:49:24.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 2018,
+                "validFromDate": "2022-02-24T14:28:32.000+01:00",
+                "validUntilDate": "2023-09-25T16:09:30.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Als starker Wirtschaftsverband ist die IK die Stimme der Kunststoffverpackungsindustrie in Deutschland und Europa. Zu unserem Verband z\u00e4hlen rund 300 \u00fcberwiegend mittelst\u00e4ndisch gepr\u00e4gte Mitgliedsunternehmen. Die Mitglieder repr\u00e4sentieren, gemessen am Umsatz, \u00fcber 80 Prozent der Kunststoffverpackungsproduktion in Deutschland. Damit ist die IK auch in Europa einer der wichtigsten Verb\u00e4nde der Kunststoffindustrie.\r\nZu unseren zentralen Aufgaben geh\u00f6rt neben der politischen Interessenvertretung die \u00d6ffentlichkeitsarbeit f\u00fcr die Branche und ihre vielf\u00e4ltigen Produkte. Au\u00dferdem wirken wir bei technischen Normen und Regelwerken mit, erbringen umfangreiche Serviceleistungen und organisieren praxisnahe Seminare und Tagungen in unserer IK-Akademie.\r\nNeben der politischen Interessenvertretung und einer engagierten \u00d6ffentlichkeitsarbeit verstehen wir uns auch als Plattform f\u00fcr den Austausch, als Mittler zwischen den Akteuren sowie als aktiver Begleiter der Weiterentwicklung unserer Industrie. Wir stellen uns engagiert, offen, selbstbewusst, mit Verantwortung und innovativen Ideen den Herausforderungen der Zukunft.\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ECONOMY_ECOMMERCE",
+                "de": "E-Commerce",
+                "en": "E-commerce"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_AF_FOOD_SAFETY",
+                "de": "Lebensmittelsicherheit",
+                "en": "Food safety"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/c8/aa/323233/Ergebnisrechnung-zum-31122022.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "codeOfConductPdfUrl": "https://www.lobbyregister.bundestag.de/media/59/c7/323234/GKV-CoC_deutsch-2023.pdf",
+        "ownCodeOfConduct": true
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.63,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 340001,
+            "to": 350000
+        },
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Bad Homburg",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Kaiser-Friedrich-Promenade",
+            "streetNumber": "43",
+            "type": "NATIONAL",
+            "zipCode": "61348"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@kunststoffverpackungen.de"
+                }
+            ],
+            "phoneNumber": "+496172926601",
+            "websites": [
+                {
+                    "website": "www.kunststoffverpackungen.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Martin",
+                "lastName": "Engelmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Isabell",
+                "lastName": "Schmidt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "Magister",
+                "firstName": "Mara",
+                "lastName": "Hancker",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Roland",
+                "function": "Pr\u00e4sident",
+                "lastName": "Strassburger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Christian",
+                "function": "Vizepr\u00e4sident",
+                "lastName": "Claes",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2022-12-31",
+            "naturalPersons": 0,
+            "organizations": 309,
+            "totalCount": 309
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "GKV Gesamtverband Kunststoffverarbeitende Industrie e. V."
+            },
+            {
+                "membership": "AGVU"
+            },
+            {
+                "membership": "DIN"
+            },
+            {
+                "membership": "Lebensmittelverband Deutschland e. V."
+            },
+            {
+                "membership": "Wir sind Kunststoff GbR (Gesellschafter) "
+            },
+            {
+                "membership": "BKV GmbH (Gesellschafter)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "IK Industrievereinigung Kunststoffverpackungen e. V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01",
+        "totalMembershipFees": {
+            "from": 1710001,
+            "to": 1720000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001321/38610",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-28T11:49:24.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/29/d5/323243/Lobbyregister-Detailansicht-R001321-2024-06-28_11-49-24.pdf",
+        "validFromDate": "2024-06-28T11:49:24.000+02:00",
+        "version": 3
+    },
+    "registerEntryId": 38610,
+    "registerNumber": "R001321",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "In der Koalitionsvereinbarung f\u00fcr die laufende Legislaturperiode wurde vereinbart: \"Die im Rahmen der EU bereits bestehende Plastikabgabe wird [...] auf die Hersteller und Inverkehrbringer umgelegt.\" Da von einer solchen Abgabe Fehlanreize, etwa durch Ausweichbewegungen auf \u00f6kologisch oft\r\nnachteiligere Materialien und wesentlich weniger gut recycelbare Verbunde zu erwarten sind, setzt sich die IK stattdessen f\u00fcr das ebenfalls im Koalitionsvertrag vorgesehene Fondsmodell f\u00fcr recyclingfreundliches Verpackungsdesign und die Ausweitung des Einsatzes nicht-fossiler Rohstoffe (insbesondere Rezyklate und zertifizierte Biomasse) ein.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0008981",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/43/08/323235/Stellungnahme-Gutachten-SG2406280052.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                        "de": "Bundesministerium der Finanzen (BMF)",
+                                        "en": "Bundesministerium der Finanzen (BMF)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-01"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0008981",
+                        "regulatoryProjectTitle": "Umlage des EU-Eigenmittels auf Inverkehrbringer nicht-recycelter Kunststoffverpackungen",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Zielf\u00fchrende Alternativen zu einer Plastiksteuer \r\n\r\n\r\nDie Chemie- und Kunststoffproduzenten, die Kunststoffverarbeiter und der\r\nKunststoffmaschinenbau unterst\u00fctzen Ma\u00dfnahmen, die gezielt eine klimaneutrale\r\nKreislaufwirtschaft f\u00f6rdern und zugleich auch dazu beitragen, Plastikabf\u00e4lle in der Umwelt zu\r\nvermeiden. Voraussetzung hierf\u00fcr sind geeignete Rahmenbedingungen.\r\n\u2022 \u00d6konomische Lenkungsinstrumente k\u00f6nnen zur Erreichung von Nachhaltigkeitszielen\r\nbeitragen. Die Lenkungswirkung einer einseitigen Abgabe ausschlie\u00dflich f\u00fcr Plastik f\u00fchrt jedoch\r\nmit hoher Wahrscheinlichkeit zu Fehlanreizen, die R\u00fcckschritte f\u00fcr Klimaschutz und\r\nKreislaufwirtschaft verursachen, etwa durch Ausweichbewegungen auf \u00f6kologisch oft\r\nnachteiligere Materialien und wesentlich weniger gut recycelbare Verbunde.\r\n\u2022 Eine nachhaltigere Alternative f\u00fcr eine Plastiksteuer ist das im Koalitionsvertrag zur laufenden\r\nLegislaturperiode vorgesehene Fondsmodell f\u00fcr recyclingfreundliches Verpackungsdesign und\r\nmehr Rezyklateinsatz. Dieses kann mit einer Reform des \u00a7 21 Abs. 1 VerpackG durch\r\nBemessung der Beteiligungsentgelte zur material\u00fcbergreifenden Anreizung hochgradig\r\nrecyclingf\u00e4higer Verpackungen und den Einsatz nicht fossiler Rohstoffe umgesetzt werden.\r\n\u2022 Weitere anzureizende Ziele sind ein nachhaltigeres Verpackungsdesign sowie der Einsatz von\r\nnicht fossilen Rohstoffen (Rezyklate, zertifizierte Biomasse und CO2) anstelle fossiler\r\nEinsatzstoffe.\r\n\u2022 Die Ausnahme von gro\u00dfgewerblichen, industriellen und Gefahrgutverpackungen aus dem\r\nWirkungsbereich \u00f6konomischer Lenkungsinstrumente sollte gew\u00e4hrleistet werden.\r\n\r\nAnreize f\u00fcr Klimaschutz und Kreislaufwirtschaft setzen \r\nAls Chemie- und Kunststoffproduzenten, Kunststoffverarbeiter und -maschinenbauer positionieren wir uns eindeutig: Wir unterst\u00fctzen Ma\u00dfnahmen, die gezielt eine klimaneutrale Kreislaufwirtschaft f\u00f6rdern und zugleich auch dazu beitragen, Plastikabf\u00e4lle in der Umwelt zu vermeiden. So arbeitet die Kunststoffbranche intensiv daran, Kunststoffverpackungen nachhaltiger und bis 2030 vollst\u00e4ndig recyclingf\u00e4hig zu machen.\r\n\r\nDie Bundesregierung hat am 4. Januar 2024 in einer Pressemitteilung zum Nachtragshaushalt 2024\r\ndie Einf\u00fchrung einer \u201ePlastiksteuer\u201c ab 2025 bekannt gegeben. Die Einf\u00fchrung dieser Abgabe zur\r\nUmlage des EU-Eigenmittels1, wie von der Bundesregierung kommuniziert, ist ein Instrument zur\r\nausschlie\u00dflichen Erzeugung von Einnahmen f\u00fcr den EU-Haushalt. \u00d6konomische Lenkungsinstrumente\r\nk\u00f6nnen und sollen jedoch auch zur Erreichung von Nachhaltigkeitszielen beitragen.\r\nHingegen f\u00fchrt eine einseitige Abgabe ausschlie\u00dflich f\u00fcr Plastikverpackungen mit hoher\r\nWahrscheinlichkeit zu Fehlanreizen mit negativen Folgen f\u00fcr den Klimaschutz und die\r\nKreislaufwirtschaft.\r\nM\u00f6gliche Fehlanreize einer Plastiksteuer f\u00fcr \u00f6kologisch nachteilige Materialsubstitution\r\nEine Plastiksteuer kann dazu f\u00fchren, dass Kunststoffverpackungen durch Verpackungen aus\r\nanderen Materialien mit einem h\u00f6heren \u00f6kologischen Fu\u00dfabdruck und Ressourcenverbrauch ersetzt\r\nwerden. Bereits heute wird ein Zuwachs von schwer verwertbaren faserbasierten und\r\nkunststoffbeschichteten Verbundverpackungen festgestellt. 2 Ein zus\u00e4tzlicher Anreiz f\u00fcr die\r\nInverkehrbringung solcher Verpackungen durch eine Plastiksteuer 3 w\u00fcrde einen ernsthaften\r\nR\u00fcckschlag f\u00fcr die Nachhaltigkeitsziele bedeuten. Denn erstens sind faserbasierte Verbunde h\u00e4ufig\r\nschlechter recycelbar. Zweitens verursachen sie in der Regel mehr Verpackungsabfall (~40 Prozent\r\nmehr Materialeinsatz). 4 Und drittens bewirkt der h\u00f6here Materialeinsatz einen h\u00f6heren CO2-\r\nFu\u00dfabdruck.\r\nSeitens des Umweltbundesamtes wurde die Untersuchung von \u00f6konomischen Lenkungsinstrumenten\r\nf\u00fcr den Verpackungssektor bereits 2022 in Auftrag gegeben.5 U.a. wurde das Risiko\r\nvon Substitutionseffekten bei einer einseitigen Abgabenbelastung von Kunststoffen identifiziert und\r\neine pauschale Lenkung von Kunststoff auf andere Werkstoffklassen als \u00f6kologisch nicht sinnvoll\r\nbewertet.6\r\n1 derzeit 1,4 Mrd. \u20ac p.a. f\u00fcr die Bundesrepublik Deutschland.\r\n2 Beiratsempfehlungen (verpackungsregister.org), eingesehen am 19.01.2024.\r\n3 Hersteller k\u00f6nnten Plastik \u201eeinsparen\u201c und somit eine Abgabe vermeiden, in dem sie auf faserbasierte\r\nVerbundverpackungen ausweichen.\r\n4 GVM Gesellschaft f\u00fcr Verpackungsmarktforschung (2021) Substitution von Kunststoffverpackungen durch\r\npapierbasierte Verbunde, Endbericht.\r\n5 UBA (2023) Untersuchung \u00f6konomischer Instrumente auf Basis des EU-Eigenmittels f\u00fcr nicht recycelte\r\nKunststoffverpackungsabf\u00e4lle.\r\n6 ebd. S. 19 Kap. 4.1, S. 25 Kap. 4.11.\r\n\r\nFondsmodell f\u00fcr recyclingfreundliches Verpackungsdesign als Alternative zu einer\r\nPlastiksteuer\r\nEine bessere Alternative f\u00fcr eine Plastiksteuer ist das im Koalitionsvertrag zur laufenden\r\nLegislaturperiode vorgesehene Fondsmodell f\u00fcr recyclinggerechtes Verpackungsdesign und mehr\r\nRezyklateinsatz. Dieses sollte mit einer Reform des \u00a7 21 Abs. 1 VerpackG durch eine Bemessung\r\nder Beteiligungsentgelte zur Anreizung hochgradig recyclingf\u00e4higer Verpackungen und dem Einsatz\r\nnicht fossiler Rohstoffe umgesetzt werden. D.h. kreislauff\u00e4hige Verpackungen sowie zirkul\u00e4rer\r\nRohstoffeinsatz f\u00fchren zu g\u00fcnstigeren Beteiligungsentgelten. Damit w\u00fcrde material\u00fcbergreifend f\u00fcr\r\nalle lizenzierungspflichtigen Verpackungen \u00f6kologisch vorteilhaftes und recyclingfreundliches\r\nVerpackungsdesign durch eine Spreizung der Beteiligungsentgelte belohnt. Auch best\u00fcnden keine\r\nFehlanreize f\u00fcr nachteilhafte Materialsubstitution.\r\nDie Kreislauff\u00e4higkeit von Verpackungen muss gesteigert sowie Ressourcenverbrauch und der CO2-\r\nFu\u00dfabdruck \u00fcber den gesamten Produktlebenszyklus gesenkt werden. Deshalb sollten mit einer\r\nSpreizung der Beteiligungsentgelte folgende Anreize gesetzt werden7:\r\n1. Nachhaltiges Verpackungsdesign zur Verringerung des Ressourcenverbrauchs, durch\r\nReduzierung des Materialeinsatzes und Steigerung der Recycling- und Mehrwegf\u00e4higkeit.\r\nMit dem Mindeststandard f\u00fcr die Bemessung der Recyclingf\u00e4higkeit von systembeteiligungspflichtigen\r\nVerpackungen8 bestehen bereits Leitlinien f\u00fcr zirkul\u00e4res Verpackungsdesign.\r\n2. Technologieoffene Anreize f\u00fcr eine h\u00f6here Nachfrage nach Rezyklaten sowie mehr\r\nRezyklateinsatz. Hierbei sollten sowohl Rezyklate, die aus mechanischen als auch solche,\r\ndie aus komplement\u00e4ren chemischen Verfahren gewonnen werden, ber\u00fccksichtigt werden.9\r\n3. Erg\u00e4nzung des Rezyklateinsatzes mit klimaschonenden Rohstoffen, wie nachwachsenden\r\nRohstoffen (inkl. Biomasse-Reststoffe sowie organische Abf\u00e4lle), sofern jene als nachhaltig\r\nzertifiziert sind, und CO2 anstelle von fossilen Einsatzstoffen.\r\nDas Instrument sollte au\u00dferdem unb\u00fcrokratisch ausgestaltet werden.\r\n7 Siehe dazu UBA (2022) \u00dcberpr\u00fcfung der Wirksamkeit des \u00a7 21 VerpackG und Entwicklung von\r\nVorschl\u00e4gen zur rechtlichen Weiterentwicklung.\r\n8 Stiftung Zentrale Stelle Verpackungsregister (2023) Mindeststandard f\u00fcr die Bemessung der\r\nRecyclingf\u00e4higkeit von systembeteiligungspflichtigen Verpackungen gem\u00e4\u00df \u00a7 21 Abs. 3 VerpackG.\r\n9 Im Rahmen des Chemie-Spitzengespr\u00e4chs am 27. September 2023 wurde beschlossen, chemische\r\nRecyclingverfahren seitens der Bundesregierung als wichtige Erg\u00e4nzung zum mechanischen Recycling zu\r\nunterst\u00fctzen, wenn dadurch Rohstoffe effizient genutzt werden k\u00f6nnen.\r\n\r\nEine Plastiksteuer als zus\u00e4tzliches Lenkungsinstrument erh\u00f6ht den Koordinierungsbedarf\r\nSollte dennoch eine Steuer in Betracht kommen, w\u00e4re eine material\u00fcbergreifende Ausgestaltung\r\nerforderlich, um \u00f6kologisch nachteilige Substitutionseffekte zu vermeiden. D.h. die Steuer d\u00fcrfte\r\nnicht nur f\u00fcr Kunststoffverpackungen gelten, sondern m\u00fcsste auch f\u00fcr Verpackungen aus Papier,\r\nPappe, Glas, Metall etc. gelten. Gleichzeitig m\u00fcssen mit Blick auf die Lenkungswirkung hochgradig\r\nrecycelbare Verpackungen, Rezyklatanteile, biomasse- und CO2-basierte Anteile sowie\r\nwiederverwendbare Verpackungen von einer etwaigen Steuer ausgenommen werden. Das\r\nUmweltbundesamt hat mehrere Ausgestaltungsvorschl\u00e4ge eingehend untersucht. 10 Der\r\nadministrative Aufwand der Abwicklung sollte minimiert werden.\r\nAllerdings wachsen mit einem zus\u00e4tzlichen Abgabeninstrument Komplexit\u00e4t und b\u00fcrokratischer\r\nAufwand. Zudem best\u00fcnde ein wachsender Koordinierungsbedarf der Lenkungsinstrumente\r\nbez\u00fcglich deren kombinierter Lenkungswirkung. Denn seit 1.1.2024 ist die Sonderabgabe auf\r\nEinweg-Kunststoffverpackungen (EWKFondsG) in Kraft, ferner bestehen Systembeteiligungs- und\r\nLizenzierungspflichten f\u00fcr Kunststoffverpackungen (VerpackG), Pfandpflichten f\u00fcr Einweg-\r\nGetr\u00e4nkeflaschen aus Kunststoff (VerpackG) sowie perspektivisch Rezyklateinsatzquoten und\r\nMehrwegquoten, teilweise speziell f\u00fcr Kunststoffverpackungen (EU-Verpackungsverordnung,\r\nPPWR). Deshalb w\u00e4re eine \u00f6kologisch orientierte Modulierung der Lizenzentgelte f\u00fcr Verpackungen\r\nim Rahmen der erweiterten Produzentenverantwortung, wie vorgeschlagen, nach gesicherten\r\nwissenschaftlichen Erkenntnissen eindeutig nachhaltiger als eine (Plastik-) Steuer auf\r\nVerpackungen.\r\nDie Ausnahme von gro\u00dfgewerblichen, industriellen und Gefahrgutverpackungen aus dem\r\nWirkungsbereich \u00f6konomischer Lenkungsinstrumente sollte gew\u00e4hrleistet werden\r\nF\u00fcr den Transport von Industrieg\u00fctern werden zum Schutz der Produkte sowie zur Stabilisierung der\r\nverpackten Produkte auf Paletten und Ladungstr\u00e4gern Folien sowie Umreifungsb\u00e4nder aus\r\nKunststoff eingesetzt. Diese Kunststofffolien und -umreifungsb\u00e4nder fallen in Industrie und Gewerbe\r\nals Abfall an. Sie unterliegen damit der Gewerbeabfallverordnung (GewAbfV). Sie gilt u.a. f\u00fcr den\r\nUmgang mit \u201egewerblichen Siedlungsabf\u00e4llen\u201c, die in \u00a7 2 Nr. 1 GewAbfV definiert sind. Es handelt\r\nsich dabei um Siedlungsabf\u00e4lle, die nicht aus privaten Haushaltungen stammen.11 Die in Industrie\r\n10 Siehe 5.\r\n11 Diese weisen eine 20er-Abfallschl\u00fcsselnummer der AVV (Abfallschl\u00fcsselnr. Kunststoffe 20 01 39) auf.\r\nund Gewerbe anfallenden Abf\u00e4lle sind getrennt zu sammeln und einer Wiederverwendung oder dem Recycling zuzuf\u00fchren. \r\nEbenso nehmen Gefahrgutverpackungen eine Sonderstellung ein. Sie unterliegen im Sinne des Personen- und Umweltschutzes besonderen Auflagen. So gelten f\u00fcr diese strenge Transport-, Arbeitsplatz-, Lager-, Verbraucher- und Umweltschutzvorschriften, welche auf internationaler Ebene festgelegt und harmonisiert werden. Aufgrund dieser Auflagen sind Wiederverwendung und Rezyklateinsatz eingeschr\u00e4nkt oder wegen noch fehlender Vertr\u00e4glichkeitspr\u00fcfung \u00fcberhaupt nicht vorgesehen.12 \r\n12 BAM (2011) BAM-GGR 004 \u2013 Erweiterter Nachweis der chemischen Vertr\u00e4glichkeit f\u00fcr Gefahrgutverpackungen einschlie\u00dflich Gro\u00dfpackmittel aus Polyethylen. Eine international anerkannte Regelung f\u00fcr den Einsatz von Kunststoffrezyklaten in Gefahrgutverpackungen wird aktuell auf UN-Ebene angestrebt. \r\nIm deutschen Verpackungsgesetz (VerpackG) z\u00e4hlen gro\u00dfgewerbliche, industrielle und Gefahrgutverpackungen zu den nicht-systembeteiligungspflichtigen Verpackungen, da sie nicht bei den privaten Endverbrauchern als Abfall anfallen. Zur Aufrechterhaltung der internationalen legislativen Koh\u00e4renz muss gew\u00e4hrleistet werden, dass gro\u00dfgewerbliche, industrielle und Gefahrgutverpackungen von \u00f6konomischen Lenkungsinstrumenten wie einer Plastiksteuer ausgenommen werden. \r\nDie Transformation ben\u00f6tigt R\u00fcckenwind \r\nDie Kunststoffbranche arbeitet intensiv daran, Kunststoffverpackungen nachhaltiger und bis 2030 vollst\u00e4ndig recyclingf\u00e4hig zu machen. Diese Transformation ist eine gewaltige Herausforderung und zugleich essenziell, damit die Branche z\u00fcgig nachhaltiger und zukunftsf\u00e4hig wird. Deshalb bedarf es gerade in wirtschaftlich herausfordernden Zeiten keiner Ausbremsung, sondern, wie vorangehend skizziert, Unterst\u00fctzung und R\u00fcckenwind. Als Gespr\u00e4chspartner bei der Umsetzung, auch im Detail, stehen wir jederzeit gerne bereit.\r\n\r\n\r\n\r\n\r\nDer GKV ist die Spitzenorganisation der deutschen Kunststoff verarbeitenden Industrie. Als Dachverband b\u00fcndelt und vertritt er die gemeinsamen Interessen seiner Tr\u00e4gerverb\u00e4nde und agiert dabei als Sprachrohr gegen\u00fcber Politik und \u00d6ffentlichkeit. Die Kunststoff verarbeitende Industrie ist mit einem Jahresumsatz von etwa 78,9 Mrd. Euro und 326.608 Besch\u00e4ftigten in \u00fcber 3.013 Betrieben einer der bedeutendsten Wirtschaftszweige in Deutschland. Die vorwiegend mittelst\u00e4ndisch gepr\u00e4gte Branche zeichnet sich durch hohe Innovationskraft und eine vielf\u00e4ltige Produktpalette aus. Kunststoffe werden zu Verpackungen, Baubedarfsartikeln, technischen Teilen, Halbzeugen, Konsumwaren und vielen anderen Produkten verarbeitet. \r\nkunststoffland NRW ist der einzige Verband der Kunststoffindustrie, der die Wertsch\u00f6pfungskette Kunststoff von der Rohstofferzeugung \u00fcber die Verarbeitung bis hin zum Recycling einschlie\u00dflich der Maschinenbauer, Dienstleister und Forschungs-sowie Ausbildungsinstitutionen in ihrer Gesamtheit abbildet. Mit seinen rd. 150 Mitgliedsunternehmen \u2013 darunter Gro\u00dfunternehmen, hoch innovative Mittelst\u00e4ndler und Startups \u2013 sowie den Mitgliedern unserer Regionalpartner vertritt er die Branche in NRW. kunststoffland NRW hat sich zum Ziel gesetzt, die Leistungs- und Wettbewerbsf\u00e4higkeit der Kunststoffindustrie in NRW zu st\u00e4rken. Dazu setzt sich kunststoffland NRW als Netzwerk f\u00fcr die Interessen und Bed\u00fcrfnisse der Branche ein. Als Sprachrohr gegen\u00fcber der Politik gibt kunststoffland NRW seinen Mitgliedern eine Stimme und vertritt zielgerichtet deren Interessen. \r\nPlastics Europe Deutschland e.V. vertritt die Interessen der kunststofferzeugenden Unternehmen, ist als Fachverband eng mit dem VCI verbunden und Teil des paneurop\u00e4ischen Verbandes Plastics Europe mit B\u00fcros in mehreren gro\u00dfen Wirtschaftszentren Europas. \r\nDer VCI und seine Fachverb\u00e4nde vertreten die Interessen von rund 1.900 Unternehmen aus der chemisch-pharmazeutischen Industrie und chemienaher Wirtschaftszweige gegen\u00fcber Politik, Beh\u00f6rden, anderen Bereichen der Wirtschaft, der Wissenschaft und den Medien. 2022 setzten die Mitgliedsunternehmen des VCI rund 260 Milliarden Euro um und besch\u00e4ftigten knapp 550.000 Mitarbeiterinnen und Mitarbeiter. \r\nDer Fachverband im VDMA ist die Interessengemeinschaft von mehr als 200 europ\u00e4ischen Herstellern von Kunststoff- und Gummimaschinen.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                        }
+                    }
+                ],
+                "title": "Umlage des EU-Eigenmittels auf Inverkehrbringer nicht-recycelter Kunststoffverpackungen"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die IK wendet sich gegen Einzelvorschriften aus dem vorl\u00e4ufigen Kompromiss f\u00fcr eine EU-Verpackungsverordnung (PPWR), denn dadurch sollen z.B. 100%-Mehrwegquoten f\u00fcr viele industrielle u. gewerbliche Transport- u. Verkaufsverpackungen im innerstaatlichen Handel eingef\u00fchrt werde, was weder \u00f6kologisch noch \u00f6konomisch sinnvoll ist u. Lieferketten gef\u00e4hrdet. Au\u00dferdem drohen unbegr\u00fcndete Verbote nur v. Verpackungen u. Folien aus Kunststoff sowie ungerechtfertigte Ausnahmen f\u00fcr andere Verpackungsmaterialien von den Anforderungen an die Recyclingf\u00e4higkeit u. den Rezyklateinsatz.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_EU_DOMESTIC_MARKET",
+                        "de": "EU-Binnenmarkt",
+                        "en": "EU internal market"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0008982",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/67/99/323237/Stellungnahme-Gutachten-SG2406280050.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                        "de": "Bundesministerium der Finanzen (BMF)",
+                                        "en": "Bundesministerium der Finanzen (BMF)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                        "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                        "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-15"
+                            },
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-13"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0008982",
+                        "regulatoryProjectTitle": "EU-Verpackungsverordnung (PPWR)",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Bundesministerium f\u00fcr Umwelt, Naturschutz,\r\nnukleare Sicherheit und Verbraucherschutz\r\nParlamentarische Staatssekret\u00e4rin\r\nDr. Bettina Hoffmann\r\nPer E-Mail: Bettina.Hoffmann@bmuv.bund.de\r\n13. Mai 2024\r\nEU-Verpackungsverordnung (PPWR): Mehrwegquoten f\u00fcr Industrie- und Gewerbeverpackungen\r\ngef\u00e4hrden s\u00e4mtliche Lieferketten\r\nSehr geehrte Frau Parlamentarische Staatssekret\u00e4rin,\r\nin dem am 4. M\u00e4rz 2024 vereinbarten Kompromiss zwischen Europ\u00e4ischem Parlament und\r\nMitgliedstaaten f\u00fcr eine EU-Verpackungsverordnung (PPWR), der am 24. April vom Europ\u00e4ischen\r\nParlament in Erster Lesung best\u00e4tigt wurde, werden die Mehrwegquoten f\u00fcr viele industrielle\r\nund gewerbliche Transport- und Verkaufsverpackungen (inklusive Gartenbau) gegen\u00fcber\r\ndem Kommissionsvorschlag drastisch ausgeweitet und f\u00fcr den Austausch von Produkten\r\nzwischen Unternehmen in einem Mitgliedstaat sowie f\u00fcr den Austausch zwischen Unternehmensstandorten\r\nin der EU ab 2030 sogar auf 100% erh\u00f6ht. Das damit beschlossene\r\nvollst\u00e4ndige Verbot vieler Einweg-Verpackungen im innerstaatlichen Handel gef\u00e4hrdet s\u00e4mtliche\r\nLieferketten, weil es f\u00fcr viele Verpackungsformate keine Mehrwegl\u00f6sungen gibt bzw.\r\ndiese weder \u00f6kologisch noch \u00f6konomisch sinnvoll sind.\r\nWir gehen davon aus, dass es sich bei der Ausweitung der Mehrwegquoten um einen Fehler\r\nim Gesetzgebungsverfahren handelt: Wie Sie wissen erfolgten die \u00c4nderungen kurzfristig\r\nw\u00e4hrend der Trilog-Verhandlungen im Februar 2024 und hatten lediglich zum Ziel, durch eine\r\nZusammenfassung der unterschiedlichen Regelungen deren Verst\u00e4ndlichkeit zu verbessern.\r\nVermutlich unbeabsichtigt wurden mit der Umgruppierung s\u00e4mtlicher Mehrwegquoten f\u00fcr Industrie-\r\nund Gewerbeverpackungen sowie gartenbaulicher Verpackungen in Artikel 29 Absatz\r\n1 (neue Fassung) nicht nur die Quoten selbst, sondern auch der Anwendungsbereich der Abs\u00e4tze\r\n2 und 3 drastisch ausgeweitet (siehe \u00dcbersicht in der Anlage).\r\nWir bitten Sie, sich in den Gespr\u00e4chen mit den anderen Mitgliedstaaten und der Kommission\r\ndaf\u00fcr einzusetzen, den Fehler in der Corrigendum-Fassung des Regelungstexts zu berichtigen\r\nund damit die notwendige Rechts- und Planungssicherheit f\u00fcr s\u00e4mtliche Lieferketten herzustellen.\r\nVor diesem Hintergrund halten wir es f\u00fcr erforderlich, die Mehrwegvorgaben f\u00fcr industrielle,\r\ngewerbliche sowie gartenbauliche Transport- und Verkaufsverpackungen in Artikel 29\r\nAbs\u00e4tze 1 bis 3 zu streichen und die Kommission zu beauftragen, auf Grundlage einer wissenschaftlichen\r\nAnalyse und Folgenabsch\u00e4tzung einen neuen Vorschlag vorzulegen, wobei\r\nauf besondere Quoten f\u00fcr den Transport zwischen Unternehmen in einem EU-Mitgliedstaat zu\r\nverzichten ist. Keinesfalls ausreichend ist es aus unserer Sicht darauf zu vertrauen, dass die\r\nKommission einzelne Unternehmen oder Verpackungsformate von den Mehrwegquoten ausnimmt\r\n(Artikel 29 Absatz 18), weil v\u00f6llig unklar ist, ob, wann und f\u00fcr welche Bereiche diese\r\nAusnahmen gelten sollen. Auch vermeintliche L\u00f6sungen auf Ebene der Mitgliedstaaten im\r\nRahmen des Vollzugs oder nicht-verbindliche Auslegungshinweise durch die Kommission w\u00fcrden\r\ndie Problematik nur versch\u00e4rfen und insgesamt zu noch mehr Rechts- und Planungsunsicherheit\r\nf\u00fchren.\r\nEin Beispiel f\u00fcr die Folgen der aktuellen Regelung: Palettenumwicklungen (pallet wrappings)\r\nund Umreifungsb\u00e4nder (straps), die den Transport nahezu s\u00e4mtlicher auf Paletten gestapelter\r\nWaren sichern, m\u00fcssten ab 2030 vollst\u00e4ndig (zu 100%) zum \u201eselben Zweck\u201c wiederverwendet\r\nwerden, wenn sie innerhalb eines Mitgliedstaats oder zwischen Unternehmensstandorten genutzt\r\nwerden (Artikel 29 Absatz 2 und 3 neu). Es ist allerdings technisch gar nicht m\u00f6glich,\r\ndiese Palettenumwicklungen und Umreifungsb\u00e4nder wieder zu verwenden. Sie werden in der Praxis daher recycelt und bilden eine wichtige Grundlage zur Erf\u00fcllung der aktuellen Recyclingziele\r\nund k\u00fcnftigen Rezyklateinsatzquoten. Zwar hat Umweltkommissar Sinkevi\u010dius angek\u00fcndigt,\r\ndie (neue) Kommission werde pr\u00fcfen, ob eine Ausnahme dieser Verpackungsformate\r\nvon den 100%-Mehrwegquoten m\u00f6glich ist. Ungekl\u00e4rt bleibt jedoch, ob und wenn ja, wie\r\nschnell eine solche Ausnahme in Kraft tritt, wie die dann immer noch geforderte 40%-Mehrwegquote\r\nf\u00fcr diese Verpackungsformate erf\u00fcllt werden soll und ob es auch Ausnahmen f\u00fcr\r\nweitere Verpackungsformate, wie beispielsweise K\u00fcbel (pails), Kanister etc., geben wird, bei\r\ndenen eine mehrfache Nutzung zum selben Zweck ebenfalls nicht m\u00f6glich oder sinnvoll ist.\r\nProblematisch ist dar\u00fcber hinaus die im Kompromiss vorgesehene Ausweitung der Mehrwegquoten\r\nauf \u201eVerkaufsverpackungen f\u00fcr den Transport von Produkten\u201c. Bewusst hatte die Kommission\r\nin ihrem Vorschlag den Anwendungsbereich der Mehrwegquoten auf \u201eTransportverpackungen\u201c\r\nbeschr\u00e4nkt, weil Transportverpackungen \u2013 im Unterschied zu \u201eVerkaufsverpackungen\u201c\r\n\u2013 keinen direkten Kontakt zum F\u00fcllgut haben und sich bei ihnen daher in der Regel\r\nkeine Probleme bei der Wiederverwendung aufgrund einer Kontamination durch das vorherige\r\nF\u00fcllgut stellen. Die Ausweitung der Mehrwegquoten auf \u201eVerkaufsverpackungen zum Transport\r\nvon Produkten\u201c verw\u00e4ssert die sinnvolle und bew\u00e4hrte Unterscheidung zwischen Verkaufs-\r\nund Transportverpackungen und l\u00e4sst unklar, welche Verpackungsformate damit konkret\r\ngemeint sind: Denn die genannten Verkaufsverpackungen dienen in der Regel nicht nur\r\ndem Transport von Produkten, sondern dar\u00fcber hinaus auch dem Produktschutz, der Lagerung\r\nund Anwendung des Produkts sowie der Information und Sicherheit der Anwender.\r\nWir halten es au\u00dferdem f\u00fcr zwingend erforderlich, vor der Verabschiedung von Mehrwegquoten\r\nbei Industrie- und Gewerbeverpackungen sowie gartenbaulichen Verpackungen im Rahmen\r\nder von uns geforderten wissenschaftlichen Analyse und Folgenabsch\u00e4tzung zu pr\u00fcfen,\r\nob Mehrwegalternativen \u00fcberhaupt vorhanden sind und wenn ja, ob diese nachhaltiger sind.\r\nF\u00fcr bestimmte Konsumverpackungen hatte die Kommission erst im Februar 2024 eine solche\r\nAnalyse ver\u00f6ffentlicht (https://publications.jrc.ec.europa.\r\neu/repository/handle/JRC136771).\r\nIm \u00dcbrigen widersprechen Mehrwegquoten, die an den Transport zwischen Unternehmen innerhalb\r\neines Mitgliedstaates ankn\u00fcpfen (siehe Artikel 29 Absatz 3), den Grundprinzipien des\r\nEU-Binnenmarktes und benachteiligen Unternehmen in gr\u00f6\u00dferen EU-Mitgliedstaaten gegen\u00fcber\r\nUnternehmen in kleineren EU-Mitgliedstaaten, weil letztere einen h\u00f6heren Anteil an\r\ngrenz\u00fcberschreitenden Transporten haben, f\u00fcr die die 100%-Quoten nicht gelten. Der Kompromiss\r\nbenachteiligt au\u00dferdem kleine und mittlere Unternehmen, die \u2013 anders als exportorientierte\r\nGro\u00dfunternehmen \u2013 oft nur einen nationalen Markt bedienen und die daher von der\r\nMehrwegpflicht st\u00e4rker betroffen w\u00e4ren. Zudem haben wir erhebliche Bedenken, dass die von\r\nden Unternehmen gemeldeten Verpackungsmengen von den Mitgliedstaaten ver\u00f6ffentlicht\r\nwerden sollen (Artikel 31 Absatz 6), weil sich daraus detaillierte R\u00fcckschl\u00fcsse auf die Gesch\u00e4ftst\u00e4tigkeit\r\neinzelner Unternehmen ziehen lassen. Schlie\u00dflich gibt es erhebliche Zweifel\r\ndaran, ob die EU auf Basis der Kompetenz zur Binnenmarkt-harmonisierung (Artikel 114\r\nAEUV) \u00fcberhaupt bestimmte industriell und gewerblich genutzte Einweg-Verpackungen verbieten\r\nkann, weil ein solches Verbot (1.) weder tats\u00e4chlich der Beseitigung von Hemmnissen\r\ndes freien Warenverkehrs dient, noch (2.) tats\u00e4chlich zur Beseitigung sp\u00fcrbarer Verzerrungen\r\ndes Wettbewerbs beitr\u00e4gt, wie es die Rechtsprechung des EuGH verlangt (siehe EuGH, Rs.\r\nC-376/98 Deutschland/Rat und Parlament, Slg. 2000, I-2247, Rn. 95-114).\r\nGern stehen die Unterzeichner f\u00fcr weitere Ausk\u00fcnfte und Gespr\u00e4che zur Verf\u00fcgung.\r\n\r\n\r\nDie unterzeichnenden Verb\u00e4nde:\r\nVerbandslogo Verbandsname Verbandslogo Verbandsname\r\nInitiative Circular Economy,\r\nBundesverband der\r\nDeutschen Industrie e.V.\r\nVerband Deutscher Maschinen-\r\nund Anlagenbau\r\ne.V.\r\nBundesverband Glasindustrie\r\ne.V.\r\nIndustrievereinigung\r\nKunststoffverpackungen\r\ne. V.\r\nBundesvereinigung der\r\nDeutschen Ern\u00e4hrungsindustrie\r\ne.V. (BVE)\r\nVerband Metallverpackungen\r\ne.V.\r\nFachverband der Gew\u00fcrzindustrie\r\ne.V.\r\nWirtschaftsVereinigung\r\nMetalle e.V.\r\nIndustrieverband Garten\r\n(IVG) e. V.\r\nZentralverband Gartenbau\r\ne. V. (ZVG)\r\nHKI Industrieverband\r\nHaus-, Heiz- und K\u00fcchentechnik\r\ne.V.\r\nZVEI e.V. \u2013 Verband der\r\nElektro- und Digitalindustrie\r\nKulinaria Deutschland\r\ne.V.\r\nGKV Gesamtverband\r\nKunststoffverarbeitende\r\nIndustrie e.V.\r\nVerband der Chemischen\r\nIndustrie e.V.\r\n(VCI)\r\nWSM Wirtschaftsverband\r\nStahl- und Metallverarbeitung\r\ne. V.\r\n"
+                        }
+                    }
+                ],
+                "title": "EU-Verpackungsverordnung (PPWR)"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "VerpackG",
+                        "title": "Gesetz \u00fcber das Inverkehrbringen, die R\u00fccknahme und die hochwertige Verwertung von Verpackungen",
+                        "url": "https://www.gesetze-im-internet.de/verpackg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die IK setzt sich gemeinsam mit anderen Verb\u00e4nden f\u00fcr eine z\u00fcgige Reform des \u00a7 21 VerpackG ein, um auch in Deutschland eine wirksame \u00d6komodulierung der Lizenzentgelte zu erreichen. Eine solche Reform ist im Koalitionsvertrag vorgesehen, in dem es hei\u00dft: \u201eMit einem gesetzlich verankerten Fondsmodell belohnen wir ressourcenschonendes und recyclingfreundliches Verpackungsdesign sowie den Rezyklateinsatz.\u201c",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0008983",
+                "statements": [],
+                "title": "Novelle des \u00a7 21 VerpackG - \u00d6komodulierung"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die IK setzt sich f\u00fcr einen wissenschaftlich fundierten Ansatz bei der Entwicklung von Rechtsvorschriften f\u00fcr Lebensmittelverpackungen aus Kunststoff und f\u00fcr eine praktikable L\u00f6sung zur Gew\u00e4hrleistung der Sicherheit von Kunststoffverpackungen mit Lebensmittelkontakt ein.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_SAFETY",
+                        "de": "Lebensmittelsicherheit",
+                        "en": "Food safety"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0008984",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/91/e6/323239/Stellungnahme-Gutachten-SG2406280064.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                        "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                        "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-27"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0008984",
+                        "regulatoryProjectTitle": "18. \u00c4nderung der Verordnung (EU) Nr. 10/2011",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)\r\nReferat 313\r\nRegierungsdirektorin\r\nFrau Katharina Adler\r\nPer E-Mail: Katharina.Adler@bmel.bund.de\r\n27.5.2024\r\nEntwurf der 18. \u00c4nderungen zur Verordnung (EU) Nr. 10/2011\r\nSehr geehrte Frau Adler,\r\ndie Europ\u00e4ische Kommission hat Mitte M\u00e4rz dieses Jahres den Entwurf der 18. \u00c4nderung (\u201eQuality Amendments\u201c) zur Verordnung (EU) Nr. 10/2011 ver\u00f6ffentlicht.\r\nIm Rahmen der ScoPAFF-Sitzung am 12. Juni 2024 wird die Kommission \u00fcber die 18. \u00c4nderung mit den Mitgliedstaaten diskutieren. Aus diesem Anlass weisen die Verb\u00e4nde der Lieferkette darauf hin, dass die \u00c4nderungsvorschl\u00e4ge drastische Auswirkungen auf den gesamten Bereich der Lebensmittelkontaktmaterialien aus Kunststoff haben w\u00fcrden. Wir bitten um Ihre Unterst\u00fctzung insbesondere zu den folgenden Punkten:\r\n1. Fehlende Begr\u00fcndung und Folgenabsch\u00e4tzung\r\nZiel der Verordnung (EG) Nr. 1935/2004, auf die sich der Vorschlag st\u00fctzt, ist es, \"die Grundlage f\u00fcr die Gew\u00e4hrleistung eines hohen Schutzniveaus f\u00fcr die menschliche Gesundheit und die Interessen der Verbraucher zu schaffen\". Zu diesem Zweck kann die Kommission \"spezifische Ma\u00dfnahmen f\u00fcr Gruppen von Materialien und Gegenst\u00e4nden\" erlassen (Artikel 5 Absatz 1). Bisher gibt es solche Anforderungen nur f\u00fcr Kunststoffe, nicht aber f\u00fcr andere Materialien wie z. B. Papier und Pappe, die ebenfalls mit Lebensmitteln in Ber\u00fchrung kommen. Im aktuellen Vorschlag hat die Kommission nicht begr\u00fcndet, warum die neue drastische Versch\u00e4rfung der bestehenden Anforderungen f\u00fcr Kunststoffe notwendig ist und warum die Gesetzesl\u00fccke f\u00fcr andere Materialien nicht geschlossen werden kann. Dar\u00fcber hinaus fehlt eine Folgenabsch\u00e4tzung zu den Auswirkungen der Vorschl\u00e4ge, sowohl hinsichtlich der erwarteten Marktreaktion als auch in Bezug auf die Anforderungen der neuen EU-Verordnung \u00fcber Verpackungen und Verpackungsabf\u00e4lle (PPWR).\r\n2. Versch\u00e4rfung des Reinheitsanforderungen (Artikel 3a)\r\nDie vorgeschlagenen Anforderungen an den Reinheitsgrad der Ausgangsstoffe sind aus unserer Sicht nicht umsetzbar: Die geforderte Reinheit von 0,15 ppb f\u00fcr unbekannte Stoffe ist technisch nicht praktikabel. Dieser Grenzwert liegt mindestens eine Gr\u00f6\u00dfenordnung \u00fcber den aktuellen Nachweisgrenzen der analytischen Chemie. Die Anforderungen gehen au\u00dferdem deutlich \u00fcber die Reinheitsanforderungen f\u00fcr Lebensmittelzusatzstoffe, die zum Verzehr bestimmt sind, hinaus. Der Vorschlag soll daher gestrichen werden.\r\n3. Offenlegung von Ausgangsstoffen (Artikel 8)\r\nDie vorgeschlagene Regelung, wonach die Hersteller von Kunststoffen die genaue Zusammensetzung ihrer Ausgangsstoffe kennen und offenlegen m\u00fcssen, f\u00fchrt zu einem erheblichen und unn\u00f6tigen administrativen Mehraufwand f\u00fcr die Unternehmen. Insbesondere viele kleine und mittelst\u00e4ndische Hersteller sind damit \u00fcberfordert. Viele Rohstoffhersteller offenbaren selbst Stoffe mit spezifischen Migrationsgrenzwerten (SML-Stoffe) und Konzentrationen nur unter Geheimhaltungsvereinbarungen. Im Hinblick auf Stoffe, die bereits einer Bewertung unterzogen wurden (Anhang I der Verordnung (EU) Nr. 10/2011), halten wir es f\u00fcr unverh\u00e4ltnism\u00e4\u00dfig, dass Hersteller von Kunststoffen verpflichtet werden, die Identit\u00e4t und Menge dieser Stoffe anzugeben, wenn kein SML vorliegt. Diese Stoffe sind im Vergleich zu den in Anhang II der Verordnung (EU) Nr. 10/2011 aufgef\u00fchrten Stoffen nicht gleicherma\u00dfen besorgniserregend. Die in Anhang I aufgef\u00fchrten Stoffe wurden bereits vollst\u00e4ndig bewertet \u2013 inklusive ihrer Verunreinigungen, als sie von der EFSA gelistet und zugelassen wurden. Die Anforderung ist daher unverh\u00e4ltnism\u00e4\u00dfig und sollte gestrichen werden.\r\n4. Kennzeichnung (Artikel 14a)\r\nDie Vorgabe, die Haltbarkeit von Mehrwegprodukten anzugeben, ist aus unserer Sicht nicht umsetzbar, da diese von vielen Faktoren abh\u00e4ngt, insbesondere von der jeweiligen Verwendung, den Bedingungen der Reinigung sowie Fehlverwendungen. Auch die Anforderung, m\u00f6gliche Verschlechterungen des Artikels zu beschreiben, ist nicht sinnvoll, da Fehlverwendungen durch den Verbraucher nicht vorhersehbar sind. Wir sehen auch keinen Nutzen in dieser Regelung, die im Zweifelsfall kontraproduktiv wirkt.\r\n5. Keine Vermischung beim Recycling (Anhang II (3))\r\nDie Anforderung, dass Kunststoffe unterschiedlicher Zusammensetzung bei der Aufbereitung nicht vermischt werden d\u00fcrfen, w\u00fcrde das seit Jahrzehnten praktizierte Recycling insbesondere von Lebensmittelverpackungen aus Kunststoff unm\u00f6glich machen. Dieser Vorschlag ist nicht mit den Vorgaben der EU-Verpackungsverordnung (PPWR) in Bezug auf Recyclingquoten und Rezyklateinsatzpflichten vereinbar und soll daher ebenfalls gestrichen werden.\r\n6. Streichung der Ausnahmeregelung f\u00fcr Beh\u00e4lter < 500 ml (Artikel 17(2))\r\nDie Ausnahme von Beh\u00e4ltern mit einem Volumen von weniger als 500 ml von der Berechnung der Migrationsergebnisse unter Verwendung des tats\u00e4chlichen Oberfl\u00e4che-Volumen-Verh\u00e4ltnisses wurde eingef\u00fchrt, um die grobe \u00dcbersch\u00e4tzung auszugleichen, die sich aus der Annahme ergibt, dass Verbraucher in kleinen Beh\u00e4ltern verpackte Lebensmittel in einer Menge von 1 kg pro Tag verzehren, die alle dieselben migrierenden Stoffe enthalten. Die gesamte Konstruktion der Verordnung \u00fcber den Kontakt mit Lebensmitteln basiert auf einer Anh\u00e4ufung von Worst-Case-Szenarien und einer \u00dcbersch\u00e4tzung der Exposition, so dass die Streichung der Ausnahmeregelung zu einem Verbot von kleineren Lebensmittelverpackungen aus Kunststoff, wie z.B. Joghurtbechern f\u00fchren w\u00fcrde. Wir fordern daher, die bisherige Ausnahmeregelung beizubehalten.\r\n7. \u00dcbergangsma\u00dfnahmen\r\nDie vorgesehene \u00dcbergangsfrist ist unrealistisch. Wir sind davon \u00fcberzeugt, dass die Neubewertung und Risikobewertung der betroffenen Stoffe aufgrund komplexer Lieferketten und Formulierungen umfangreich und zeitaufw\u00e4ndig sein wird und die Industrie nicht \u00fcber ausreichende Kapazit\u00e4ten verf\u00fcgt, um diese Aufgabe in den derzeit vorgeschlagenen 9 bzw. 18 Monaten abzuschlie\u00dfen. Stattdessen fordern wir l\u00e4ngeren \u00dcbergangsfristen f\u00fcr Pflichtinhaber.\r\nZusammenfassend werden aus unserer Sicht durch die drastisch h\u00f6heren Anforderungen und B\u00fcrokratielasten Verpackungsverbote, Mehraufwand und -kosten auf die gesamte Lieferkette zukommen, die zu h\u00f6heren Preisen f\u00fcr Lebensmittel f\u00fchren werden, ohne den Umwelt- und Verbraucherschutz zu verbessern.\r\nWir sind dankbar, wenn Sie diese Punkte in die Diskussion mit der Kommission und den anderen Mitgliedstaaten einbringen. F\u00fcr Fragen und weitere Ausf\u00fchrungen zu den Begr\u00fcndungen stehen wir gern zur Verf\u00fcgung.\r\nDie unterzeichnenden Verb\u00e4nde:\r\n\u2022 IK Industrievereinigung Kunststoffverpackungen e. V.\r\nDr. Martin Engelmann, Hauptgesch\u00e4ftsf\u00fchrer\r\nDr. Fang Luan, Referat Verbraucherschutz und Qualit\u00e4tsmanagement\r\n\u2022 Lebensmittelverband Deutschland e. V.\r\nDr. Marcus Girnau Stellvertretender Hauptgesch\u00e4ftsf\u00fchrer\r\nDr. Sieglinde St\u00e4hle, Wissenschaftliche Leitung\r\n\u2022 Plastics Europe Deutschland e. V.\r\nDr. Alexander Kronimus, Gesch\u00e4ftsf\u00fchrer\r\nDr. Sabine Lindner, Expertin Verbraucherangelegenheiten\r\n\u2022 pro-K Industrieverband langlebige Kunststoffprodukte und Mehrwegsysteme e.V.\r\nSven Weihe, Gesch\u00e4ftsf\u00fchrer\r\n"
+                        }
+                    },
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/93/29/323241/Stellungnahme-Gutachten-SG2406280066.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-27"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0008984",
+                        "regulatoryProjectTitle": "18. \u00c4nderung der Verordnung (EU) Nr. 10/2011",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz\r\nReferat IV C 2\r\nHerrn Ministerialrat Max Kroymann\r\nE-Mail: buero-ivc2@bmwk.bund.de\r\n\r\nEntwurf der 18. \u00c4nderungen zur Verordnung (EU) Nr. 10/2011\r\nSehr geehrter Herr Kroymann,\r\ndie Europ\u00e4ische Kommission hat Mitte M\u00e4rz dieses Jahres den Entwurf der 18. \u00c4nderung (\u201eQuality Amendments\u201c) zur Verordnung (EU) Nr. 10/2011 ver\u00f6ffentlicht.\r\nIm Rahmen der ScoPAFF-Sitzung am 12. Juni 2024 wird die Kommission \u00fcber die 18. \u00c4nderung mit den Mitgliedstaaten diskutieren. Aus diesem Anlass weisen die Verb\u00e4nde der Lieferkette darauf hin, dass die \u00c4nderungsvorschl\u00e4ge drastische Auswirkungen auf den gesamten Bereich der Lebensmittelkontaktmaterialien aus Kunststoff haben w\u00fcrden. Wir bitten um Ihre Unterst\u00fctzung insbesondere zu den folgenden Punkten:\r\n1. Fehlende Begr\u00fcndung und Folgenabsch\u00e4tzung\r\nZiel der Verordnung (EG) Nr. 1935/2004, auf die sich der Vorschlag st\u00fctzt, ist es, \"die Grundlage f\u00fcr die Gew\u00e4hrleistung eines hohen Schutzniveaus f\u00fcr die menschliche Gesundheit und die Interessen der Verbraucher zu schaffen\". Zu diesem Zweck kann die Kommission \"spezifische Ma\u00dfnahmen f\u00fcr Gruppen von Materialien und Gegenst\u00e4nden\" erlassen (Artikel 5 Absatz 1). Bisher gibt es solche Anforderungen nur f\u00fcr Kunststoffe, nicht aber f\u00fcr andere Materialien wie z. B. Papier und Pappe, die ebenfalls mit Lebensmitteln in Ber\u00fchrung kommen. Im aktuellen Vorschlag hat die Kommission nicht begr\u00fcndet, warum die neue drastische Versch\u00e4rfung der bestehenden Anforderungen f\u00fcr Kunststoffe notwendig ist und warum die Gesetzesl\u00fccke f\u00fcr andere Materialien nicht geschlossen werden kann. Dar\u00fcber hinaus fehlt eine Folgenabsch\u00e4tzung zu den Auswirkungen der Vorschl\u00e4ge, sowohl hinsichtlich der erwarteten Marktreaktion als auch in Bezug auf die Anforderungen der neuen EU-Verordnung \u00fcber Verpackungen und Verpackungsabf\u00e4lle (PPWR).\r\n\r\n2. Versch\u00e4rfung des Reinheitsanforderungen (Artikel 3a)\r\nDie vorgeschlagenen Anforderungen an den Reinheitsgrad der Ausgangsstoffe sind aus unserer Sicht nicht umsetzbar: Die geforderte Reinheit von 0,15 ppb f\u00fcr unbekannte Stoffe ist technisch nicht praktikabel. Dieser Grenzwert liegt mindestens eine Gr\u00f6\u00dfenordnung \u00fcber den aktuellen Nachweisgrenzen der analytischen Chemie. Die Anforderungen gehen au\u00dferdem deutlich \u00fcber die Reinheitsanforderungen f\u00fcr Lebensmittelzusatzstoffe, die zum Verzehr bestimmt sind, hinaus. Der Vorschlag soll daher gestrichen werden.\r\n3. Offenlegung von Ausgangsstoffen (Artikel 8)\r\nDie vorgeschlagene Regelung, wonach die Hersteller von Kunststoffen die genaue Zusammensetzung ihrer Ausgangsstoffe kennen und offenlegen m\u00fcssen, f\u00fchrt zu einem erheblichen und unn\u00f6tigen administrativen Mehraufwand f\u00fcr die Unternehmen. Insbesondere viele kleine und mittelst\u00e4ndische Hersteller sind damit \u00fcberfordert. Viele Rohstoffhersteller offenbaren selbst Stoffe mit spezifischen Migrationsgrenzwerten (SML-Stoffe) und Konzentrationen nur unter Geheimhaltungsvereinbarungen. Im Hinblick auf Stoffe, die bereits einer Bewertung unterzogen wurden (Anhang I der Verordnung (EU) Nr. 10/2011), halten wir es f\u00fcr unverh\u00e4ltnism\u00e4\u00dfig, dass Hersteller von Kunststoffen verpflichtet werden, die Identit\u00e4t und Menge dieser Stoffe anzugeben, wenn kein SML vorliegt. Diese Stoffe sind im Vergleich zu den in Anhang II der Verordnung (EU) Nr. 10/2011 aufgef\u00fchrten Stoffen nicht gleicherma\u00dfen besorgniserregend. Die in Anhang I aufgef\u00fchrten Stoffe wurden bereits vollst\u00e4ndig bewertet \u2013 inklusive ihrer Verunreinigungen, als sie von der EFSA gelistet und zugelassen wurden. Die Anforderung ist daher unverh\u00e4ltnism\u00e4\u00dfig und sollte gestrichen werden.\r\n4. Kennzeichnung (Artikel 14a)\r\nDie Vorgabe, die Haltbarkeit von Mehrwegprodukten anzugeben, ist aus unserer Sicht nicht umsetzbar, da diese von vielen Faktoren abh\u00e4ngt, insbesondere von der jeweiligen Verwendung, den Bedingungen der Reinigung sowie Fehlverwendungen. Auch die Anforderung, m\u00f6gliche Verschlechterungen des Artikels zu beschreiben, ist nicht sinnvoll, da Fehlverwendungen durch den Verbraucher nicht vorhersehbar sind. Wir sehen auch keinen Nutzen in dieser Regelung, die im Zweifelsfall kontraproduktiv wirkt.\r\n5. Keine Vermischung beim Recycling (Anhang II (3))\r\nDie Anforderung, dass Kunststoffe unterschiedlicher Zusammensetzung bei der Aufbereitung nicht vermischt werden d\u00fcrfen, w\u00fcrde das seit Jahrzehnten praktizierte Recycling insbesondere von Lebensmittelverpackungen aus Kunststoff unm\u00f6glich machen. Dieser Vorschlag ist nicht mit den Vorgaben der EU-Verpackungsverordnung (PPWR) in Bezug auf Recyclingquoten und Rezyklateinsatzpflichten vereinbar und soll daher ebenfalls gestrichen werden.\r\n6. Streichung der Ausnahmeregelung f\u00fcr Beh\u00e4lter < 500 ml (Artikel 17(2))\r\nDie Ausnahme von Beh\u00e4ltern mit einem Volumen von weniger als 500 ml von der Berechnung der Migrationsergebnisse unter Verwendung des tats\u00e4chlichen Oberfl\u00e4che-Volumen-Verh\u00e4ltnisses wurde eingef\u00fchrt, um die grobe \u00dcbersch\u00e4tzung auszugleichen, die sich aus der Annahme ergibt, dass Verbraucher in kleinen Beh\u00e4ltern verpackte Lebensmittel in einer Menge von 1 kg pro Tag verzehren, die alle dieselben migrierenden Stoffe enthalten. Die gesamte Konstruktion der Verordnung \u00fcber den Kontakt mit Lebensmitteln basiert auf einer Anh\u00e4ufung von Worst-Case-Szenarien und einer \u00dcbersch\u00e4tzung der Exposition, so dass die Streichung der Ausnahmeregelung zu einem Verbot von kleineren Lebensmittelverpackungen aus Kunststoff, wie z.B. Joghurtbechern f\u00fchren w\u00fcrde. Wir fordern daher, die bisherige Ausnahmeregelung beizubehalten.\r\n7. \u00dcbergangsma\u00dfnahmen\r\nDie vorgesehene \u00dcbergangsfrist ist unrealistisch. Wir sind davon \u00fcberzeugt, dass die Neubewertung und Risikobewertung der betroffenen Stoffe aufgrund komplexer Lieferketten und Formulierungen umfangreich und zeitaufw\u00e4ndig sein wird und die Industrie nicht \u00fcber ausreichende Kapazit\u00e4ten verf\u00fcgt, um diese Aufgabe in den derzeit vorgeschlagenen 9 bzw. 18 Monaten abzuschlie\u00dfen. Stattdessen fordern wir l\u00e4ngeren \u00dcbergangsfristen f\u00fcr Pflichtinhaber.\r\nZusammenfassend werden aus unserer Sicht durch die drastisch h\u00f6heren Anforderungen und B\u00fcrokratielasten Verpackungsverbote, Mehraufwand und -kosten auf die gesamte Lieferkette zukommen, die zu h\u00f6heren Preisen f\u00fcr Lebensmittel f\u00fchren werden, ohne den Umwelt- und Verbraucherschutz zu verbessern.\r\nWir sind dankbar, wenn Sie diese Punkte in die Diskussion mit der Kommission und den anderen Mitgliedstaaten einbringen. F\u00fcr Fragen und weitere Ausf\u00fchrungen zu den Begr\u00fcndungen stehen wir gern zur Verf\u00fcgung.\r\nDie unterzeichnenden Verb\u00e4nde:\r\n\u2022 IK Industrievereinigung Kunststoffverpackungen e. V.\r\nDr. Martin Engelmann, Hauptgesch\u00e4ftsf\u00fchrer\r\nDr. Fang Luan, Referat Verbraucherschutz und Qualit\u00e4tsmanagement\r\n\u2022 Lebensmittelverband Deutschland e. V.\r\nDr. Marcus Girnau Stellvertretender Hauptgesch\u00e4ftsf\u00fchrer\r\nDr. Sieglinde St\u00e4hle, Wissenschaftliche Leitung\r\n\u2022 Plastics Europe Deutschland e. V.\r\nDr. Alexander Kronimus, Gesch\u00e4ftsf\u00fchrer\r\nDr. Sabine Lindner, Expertin Verbraucherangelegenheiten\r\n\u2022 pro-K Industrieverband langlebige Kunststoffprodukte und Mehrwegsysteme e.V.\r\nSven Weihe, Gesch\u00e4ftsf\u00fchrer\r\n"
+                        }
+                    }
+                ],
+                "title": "18. \u00c4nderung der Verordnung (EU) Nr. 10/2011"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/43/08/323235/Stellungnahme-Gutachten-SG2406280052.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                "de": "Bundesministerium der Finanzen (BMF)",
+                                "en": "Bundesministerium der Finanzen (BMF)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-01"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0008981",
+                "regulatoryProjectTitle": "Umlage des EU-Eigenmittels auf Inverkehrbringer nicht-recycelter Kunststoffverpackungen",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Zielf\u00fchrende Alternativen zu einer Plastiksteuer \r\n\r\n\r\nDie Chemie- und Kunststoffproduzenten, die Kunststoffverarbeiter und der\r\nKunststoffmaschinenbau unterst\u00fctzen Ma\u00dfnahmen, die gezielt eine klimaneutrale\r\nKreislaufwirtschaft f\u00f6rdern und zugleich auch dazu beitragen, Plastikabf\u00e4lle in der Umwelt zu\r\nvermeiden. Voraussetzung hierf\u00fcr sind geeignete Rahmenbedingungen.\r\n\u2022 \u00d6konomische Lenkungsinstrumente k\u00f6nnen zur Erreichung von Nachhaltigkeitszielen\r\nbeitragen. Die Lenkungswirkung einer einseitigen Abgabe ausschlie\u00dflich f\u00fcr Plastik f\u00fchrt jedoch\r\nmit hoher Wahrscheinlichkeit zu Fehlanreizen, die R\u00fcckschritte f\u00fcr Klimaschutz und\r\nKreislaufwirtschaft verursachen, etwa durch Ausweichbewegungen auf \u00f6kologisch oft\r\nnachteiligere Materialien und wesentlich weniger gut recycelbare Verbunde.\r\n\u2022 Eine nachhaltigere Alternative f\u00fcr eine Plastiksteuer ist das im Koalitionsvertrag zur laufenden\r\nLegislaturperiode vorgesehene Fondsmodell f\u00fcr recyclingfreundliches Verpackungsdesign und\r\nmehr Rezyklateinsatz. Dieses kann mit einer Reform des \u00a7 21 Abs. 1 VerpackG durch\r\nBemessung der Beteiligungsentgelte zur material\u00fcbergreifenden Anreizung hochgradig\r\nrecyclingf\u00e4higer Verpackungen und den Einsatz nicht fossiler Rohstoffe umgesetzt werden.\r\n\u2022 Weitere anzureizende Ziele sind ein nachhaltigeres Verpackungsdesign sowie der Einsatz von\r\nnicht fossilen Rohstoffen (Rezyklate, zertifizierte Biomasse und CO2) anstelle fossiler\r\nEinsatzstoffe.\r\n\u2022 Die Ausnahme von gro\u00dfgewerblichen, industriellen und Gefahrgutverpackungen aus dem\r\nWirkungsbereich \u00f6konomischer Lenkungsinstrumente sollte gew\u00e4hrleistet werden.\r\n\r\nAnreize f\u00fcr Klimaschutz und Kreislaufwirtschaft setzen \r\nAls Chemie- und Kunststoffproduzenten, Kunststoffverarbeiter und -maschinenbauer positionieren wir uns eindeutig: Wir unterst\u00fctzen Ma\u00dfnahmen, die gezielt eine klimaneutrale Kreislaufwirtschaft f\u00f6rdern und zugleich auch dazu beitragen, Plastikabf\u00e4lle in der Umwelt zu vermeiden. So arbeitet die Kunststoffbranche intensiv daran, Kunststoffverpackungen nachhaltiger und bis 2030 vollst\u00e4ndig recyclingf\u00e4hig zu machen.\r\n\r\nDie Bundesregierung hat am 4. Januar 2024 in einer Pressemitteilung zum Nachtragshaushalt 2024\r\ndie Einf\u00fchrung einer \u201ePlastiksteuer\u201c ab 2025 bekannt gegeben. Die Einf\u00fchrung dieser Abgabe zur\r\nUmlage des EU-Eigenmittels1, wie von der Bundesregierung kommuniziert, ist ein Instrument zur\r\nausschlie\u00dflichen Erzeugung von Einnahmen f\u00fcr den EU-Haushalt. \u00d6konomische Lenkungsinstrumente\r\nk\u00f6nnen und sollen jedoch auch zur Erreichung von Nachhaltigkeitszielen beitragen.\r\nHingegen f\u00fchrt eine einseitige Abgabe ausschlie\u00dflich f\u00fcr Plastikverpackungen mit hoher\r\nWahrscheinlichkeit zu Fehlanreizen mit negativen Folgen f\u00fcr den Klimaschutz und die\r\nKreislaufwirtschaft.\r\nM\u00f6gliche Fehlanreize einer Plastiksteuer f\u00fcr \u00f6kologisch nachteilige Materialsubstitution\r\nEine Plastiksteuer kann dazu f\u00fchren, dass Kunststoffverpackungen durch Verpackungen aus\r\nanderen Materialien mit einem h\u00f6heren \u00f6kologischen Fu\u00dfabdruck und Ressourcenverbrauch ersetzt\r\nwerden. Bereits heute wird ein Zuwachs von schwer verwertbaren faserbasierten und\r\nkunststoffbeschichteten Verbundverpackungen festgestellt. 2 Ein zus\u00e4tzlicher Anreiz f\u00fcr die\r\nInverkehrbringung solcher Verpackungen durch eine Plastiksteuer 3 w\u00fcrde einen ernsthaften\r\nR\u00fcckschlag f\u00fcr die Nachhaltigkeitsziele bedeuten. Denn erstens sind faserbasierte Verbunde h\u00e4ufig\r\nschlechter recycelbar. Zweitens verursachen sie in der Regel mehr Verpackungsabfall (~40 Prozent\r\nmehr Materialeinsatz). 4 Und drittens bewirkt der h\u00f6here Materialeinsatz einen h\u00f6heren CO2-\r\nFu\u00dfabdruck.\r\nSeitens des Umweltbundesamtes wurde die Untersuchung von \u00f6konomischen Lenkungsinstrumenten\r\nf\u00fcr den Verpackungssektor bereits 2022 in Auftrag gegeben.5 U.a. wurde das Risiko\r\nvon Substitutionseffekten bei einer einseitigen Abgabenbelastung von Kunststoffen identifiziert und\r\neine pauschale Lenkung von Kunststoff auf andere Werkstoffklassen als \u00f6kologisch nicht sinnvoll\r\nbewertet.6\r\n1 derzeit 1,4 Mrd. \u20ac p.a. f\u00fcr die Bundesrepublik Deutschland.\r\n2 Beiratsempfehlungen (verpackungsregister.org), eingesehen am 19.01.2024.\r\n3 Hersteller k\u00f6nnten Plastik \u201eeinsparen\u201c und somit eine Abgabe vermeiden, in dem sie auf faserbasierte\r\nVerbundverpackungen ausweichen.\r\n4 GVM Gesellschaft f\u00fcr Verpackungsmarktforschung (2021) Substitution von Kunststoffverpackungen durch\r\npapierbasierte Verbunde, Endbericht.\r\n5 UBA (2023) Untersuchung \u00f6konomischer Instrumente auf Basis des EU-Eigenmittels f\u00fcr nicht recycelte\r\nKunststoffverpackungsabf\u00e4lle.\r\n6 ebd. S. 19 Kap. 4.1, S. 25 Kap. 4.11.\r\n\r\nFondsmodell f\u00fcr recyclingfreundliches Verpackungsdesign als Alternative zu einer\r\nPlastiksteuer\r\nEine bessere Alternative f\u00fcr eine Plastiksteuer ist das im Koalitionsvertrag zur laufenden\r\nLegislaturperiode vorgesehene Fondsmodell f\u00fcr recyclinggerechtes Verpackungsdesign und mehr\r\nRezyklateinsatz. Dieses sollte mit einer Reform des \u00a7 21 Abs. 1 VerpackG durch eine Bemessung\r\nder Beteiligungsentgelte zur Anreizung hochgradig recyclingf\u00e4higer Verpackungen und dem Einsatz\r\nnicht fossiler Rohstoffe umgesetzt werden. D.h. kreislauff\u00e4hige Verpackungen sowie zirkul\u00e4rer\r\nRohstoffeinsatz f\u00fchren zu g\u00fcnstigeren Beteiligungsentgelten. Damit w\u00fcrde material\u00fcbergreifend f\u00fcr\r\nalle lizenzierungspflichtigen Verpackungen \u00f6kologisch vorteilhaftes und recyclingfreundliches\r\nVerpackungsdesign durch eine Spreizung der Beteiligungsentgelte belohnt. Auch best\u00fcnden keine\r\nFehlanreize f\u00fcr nachteilhafte Materialsubstitution.\r\nDie Kreislauff\u00e4higkeit von Verpackungen muss gesteigert sowie Ressourcenverbrauch und der CO2-\r\nFu\u00dfabdruck \u00fcber den gesamten Produktlebenszyklus gesenkt werden. Deshalb sollten mit einer\r\nSpreizung der Beteiligungsentgelte folgende Anreize gesetzt werden7:\r\n1. Nachhaltiges Verpackungsdesign zur Verringerung des Ressourcenverbrauchs, durch\r\nReduzierung des Materialeinsatzes und Steigerung der Recycling- und Mehrwegf\u00e4higkeit.\r\nMit dem Mindeststandard f\u00fcr die Bemessung der Recyclingf\u00e4higkeit von systembeteiligungspflichtigen\r\nVerpackungen8 bestehen bereits Leitlinien f\u00fcr zirkul\u00e4res Verpackungsdesign.\r\n2. Technologieoffene Anreize f\u00fcr eine h\u00f6here Nachfrage nach Rezyklaten sowie mehr\r\nRezyklateinsatz. Hierbei sollten sowohl Rezyklate, die aus mechanischen als auch solche,\r\ndie aus komplement\u00e4ren chemischen Verfahren gewonnen werden, ber\u00fccksichtigt werden.9\r\n3. Erg\u00e4nzung des Rezyklateinsatzes mit klimaschonenden Rohstoffen, wie nachwachsenden\r\nRohstoffen (inkl. Biomasse-Reststoffe sowie organische Abf\u00e4lle), sofern jene als nachhaltig\r\nzertifiziert sind, und CO2 anstelle von fossilen Einsatzstoffen.\r\nDas Instrument sollte au\u00dferdem unb\u00fcrokratisch ausgestaltet werden.\r\n7 Siehe dazu UBA (2022) \u00dcberpr\u00fcfung der Wirksamkeit des \u00a7 21 VerpackG und Entwicklung von\r\nVorschl\u00e4gen zur rechtlichen Weiterentwicklung.\r\n8 Stiftung Zentrale Stelle Verpackungsregister (2023) Mindeststandard f\u00fcr die Bemessung der\r\nRecyclingf\u00e4higkeit von systembeteiligungspflichtigen Verpackungen gem\u00e4\u00df \u00a7 21 Abs. 3 VerpackG.\r\n9 Im Rahmen des Chemie-Spitzengespr\u00e4chs am 27. September 2023 wurde beschlossen, chemische\r\nRecyclingverfahren seitens der Bundesregierung als wichtige Erg\u00e4nzung zum mechanischen Recycling zu\r\nunterst\u00fctzen, wenn dadurch Rohstoffe effizient genutzt werden k\u00f6nnen.\r\n\r\nEine Plastiksteuer als zus\u00e4tzliches Lenkungsinstrument erh\u00f6ht den Koordinierungsbedarf\r\nSollte dennoch eine Steuer in Betracht kommen, w\u00e4re eine material\u00fcbergreifende Ausgestaltung\r\nerforderlich, um \u00f6kologisch nachteilige Substitutionseffekte zu vermeiden. D.h. die Steuer d\u00fcrfte\r\nnicht nur f\u00fcr Kunststoffverpackungen gelten, sondern m\u00fcsste auch f\u00fcr Verpackungen aus Papier,\r\nPappe, Glas, Metall etc. gelten. Gleichzeitig m\u00fcssen mit Blick auf die Lenkungswirkung hochgradig\r\nrecycelbare Verpackungen, Rezyklatanteile, biomasse- und CO2-basierte Anteile sowie\r\nwiederverwendbare Verpackungen von einer etwaigen Steuer ausgenommen werden. Das\r\nUmweltbundesamt hat mehrere Ausgestaltungsvorschl\u00e4ge eingehend untersucht. 10 Der\r\nadministrative Aufwand der Abwicklung sollte minimiert werden.\r\nAllerdings wachsen mit einem zus\u00e4tzlichen Abgabeninstrument Komplexit\u00e4t und b\u00fcrokratischer\r\nAufwand. Zudem best\u00fcnde ein wachsender Koordinierungsbedarf der Lenkungsinstrumente\r\nbez\u00fcglich deren kombinierter Lenkungswirkung. Denn seit 1.1.2024 ist die Sonderabgabe auf\r\nEinweg-Kunststoffverpackungen (EWKFondsG) in Kraft, ferner bestehen Systembeteiligungs- und\r\nLizenzierungspflichten f\u00fcr Kunststoffverpackungen (VerpackG), Pfandpflichten f\u00fcr Einweg-\r\nGetr\u00e4nkeflaschen aus Kunststoff (VerpackG) sowie perspektivisch Rezyklateinsatzquoten und\r\nMehrwegquoten, teilweise speziell f\u00fcr Kunststoffverpackungen (EU-Verpackungsverordnung,\r\nPPWR). Deshalb w\u00e4re eine \u00f6kologisch orientierte Modulierung der Lizenzentgelte f\u00fcr Verpackungen\r\nim Rahmen der erweiterten Produzentenverantwortung, wie vorgeschlagen, nach gesicherten\r\nwissenschaftlichen Erkenntnissen eindeutig nachhaltiger als eine (Plastik-) Steuer auf\r\nVerpackungen.\r\nDie Ausnahme von gro\u00dfgewerblichen, industriellen und Gefahrgutverpackungen aus dem\r\nWirkungsbereich \u00f6konomischer Lenkungsinstrumente sollte gew\u00e4hrleistet werden\r\nF\u00fcr den Transport von Industrieg\u00fctern werden zum Schutz der Produkte sowie zur Stabilisierung der\r\nverpackten Produkte auf Paletten und Ladungstr\u00e4gern Folien sowie Umreifungsb\u00e4nder aus\r\nKunststoff eingesetzt. Diese Kunststofffolien und -umreifungsb\u00e4nder fallen in Industrie und Gewerbe\r\nals Abfall an. Sie unterliegen damit der Gewerbeabfallverordnung (GewAbfV). Sie gilt u.a. f\u00fcr den\r\nUmgang mit \u201egewerblichen Siedlungsabf\u00e4llen\u201c, die in \u00a7 2 Nr. 1 GewAbfV definiert sind. Es handelt\r\nsich dabei um Siedlungsabf\u00e4lle, die nicht aus privaten Haushaltungen stammen.11 Die in Industrie\r\n10 Siehe 5.\r\n11 Diese weisen eine 20er-Abfallschl\u00fcsselnummer der AVV (Abfallschl\u00fcsselnr. Kunststoffe 20 01 39) auf.\r\nund Gewerbe anfallenden Abf\u00e4lle sind getrennt zu sammeln und einer Wiederverwendung oder dem Recycling zuzuf\u00fchren. \r\nEbenso nehmen Gefahrgutverpackungen eine Sonderstellung ein. Sie unterliegen im Sinne des Personen- und Umweltschutzes besonderen Auflagen. So gelten f\u00fcr diese strenge Transport-, Arbeitsplatz-, Lager-, Verbraucher- und Umweltschutzvorschriften, welche auf internationaler Ebene festgelegt und harmonisiert werden. Aufgrund dieser Auflagen sind Wiederverwendung und Rezyklateinsatz eingeschr\u00e4nkt oder wegen noch fehlender Vertr\u00e4glichkeitspr\u00fcfung \u00fcberhaupt nicht vorgesehen.12 \r\n12 BAM (2011) BAM-GGR 004 \u2013 Erweiterter Nachweis der chemischen Vertr\u00e4glichkeit f\u00fcr Gefahrgutverpackungen einschlie\u00dflich Gro\u00dfpackmittel aus Polyethylen. Eine international anerkannte Regelung f\u00fcr den Einsatz von Kunststoffrezyklaten in Gefahrgutverpackungen wird aktuell auf UN-Ebene angestrebt. \r\nIm deutschen Verpackungsgesetz (VerpackG) z\u00e4hlen gro\u00dfgewerbliche, industrielle und Gefahrgutverpackungen zu den nicht-systembeteiligungspflichtigen Verpackungen, da sie nicht bei den privaten Endverbrauchern als Abfall anfallen. Zur Aufrechterhaltung der internationalen legislativen Koh\u00e4renz muss gew\u00e4hrleistet werden, dass gro\u00dfgewerbliche, industrielle und Gefahrgutverpackungen von \u00f6konomischen Lenkungsinstrumenten wie einer Plastiksteuer ausgenommen werden. \r\nDie Transformation ben\u00f6tigt R\u00fcckenwind \r\nDie Kunststoffbranche arbeitet intensiv daran, Kunststoffverpackungen nachhaltiger und bis 2030 vollst\u00e4ndig recyclingf\u00e4hig zu machen. Diese Transformation ist eine gewaltige Herausforderung und zugleich essenziell, damit die Branche z\u00fcgig nachhaltiger und zukunftsf\u00e4hig wird. Deshalb bedarf es gerade in wirtschaftlich herausfordernden Zeiten keiner Ausbremsung, sondern, wie vorangehend skizziert, Unterst\u00fctzung und R\u00fcckenwind. Als Gespr\u00e4chspartner bei der Umsetzung, auch im Detail, stehen wir jederzeit gerne bereit.\r\n\r\n\r\n\r\n\r\nDer GKV ist die Spitzenorganisation der deutschen Kunststoff verarbeitenden Industrie. Als Dachverband b\u00fcndelt und vertritt er die gemeinsamen Interessen seiner Tr\u00e4gerverb\u00e4nde und agiert dabei als Sprachrohr gegen\u00fcber Politik und \u00d6ffentlichkeit. Die Kunststoff verarbeitende Industrie ist mit einem Jahresumsatz von etwa 78,9 Mrd. Euro und 326.608 Besch\u00e4ftigten in \u00fcber 3.013 Betrieben einer der bedeutendsten Wirtschaftszweige in Deutschland. Die vorwiegend mittelst\u00e4ndisch gepr\u00e4gte Branche zeichnet sich durch hohe Innovationskraft und eine vielf\u00e4ltige Produktpalette aus. Kunststoffe werden zu Verpackungen, Baubedarfsartikeln, technischen Teilen, Halbzeugen, Konsumwaren und vielen anderen Produkten verarbeitet. \r\nkunststoffland NRW ist der einzige Verband der Kunststoffindustrie, der die Wertsch\u00f6pfungskette Kunststoff von der Rohstofferzeugung \u00fcber die Verarbeitung bis hin zum Recycling einschlie\u00dflich der Maschinenbauer, Dienstleister und Forschungs-sowie Ausbildungsinstitutionen in ihrer Gesamtheit abbildet. Mit seinen rd. 150 Mitgliedsunternehmen \u2013 darunter Gro\u00dfunternehmen, hoch innovative Mittelst\u00e4ndler und Startups \u2013 sowie den Mitgliedern unserer Regionalpartner vertritt er die Branche in NRW. kunststoffland NRW hat sich zum Ziel gesetzt, die Leistungs- und Wettbewerbsf\u00e4higkeit der Kunststoffindustrie in NRW zu st\u00e4rken. Dazu setzt sich kunststoffland NRW als Netzwerk f\u00fcr die Interessen und Bed\u00fcrfnisse der Branche ein. Als Sprachrohr gegen\u00fcber der Politik gibt kunststoffland NRW seinen Mitgliedern eine Stimme und vertritt zielgerichtet deren Interessen. \r\nPlastics Europe Deutschland e.V. vertritt die Interessen der kunststofferzeugenden Unternehmen, ist als Fachverband eng mit dem VCI verbunden und Teil des paneurop\u00e4ischen Verbandes Plastics Europe mit B\u00fcros in mehreren gro\u00dfen Wirtschaftszentren Europas. \r\nDer VCI und seine Fachverb\u00e4nde vertreten die Interessen von rund 1.900 Unternehmen aus der chemisch-pharmazeutischen Industrie und chemienaher Wirtschaftszweige gegen\u00fcber Politik, Beh\u00f6rden, anderen Bereichen der Wirtschaft, der Wissenschaft und den Medien. 2022 setzten die Mitgliedsunternehmen des VCI rund 260 Milliarden Euro um und besch\u00e4ftigten knapp 550.000 Mitarbeiterinnen und Mitarbeiter. \r\nDer Fachverband im VDMA ist die Interessengemeinschaft von mehr als 200 europ\u00e4ischen Herstellern von Kunststoff- und Gummimaschinen.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/67/99/323237/Stellungnahme-Gutachten-SG2406280050.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                "de": "Bundesministerium der Finanzen (BMF)",
+                                "en": "Bundesministerium der Finanzen (BMF)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-15"
+                    },
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-13"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0008982",
+                "regulatoryProjectTitle": "EU-Verpackungsverordnung (PPWR)",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Bundesministerium f\u00fcr Umwelt, Naturschutz,\r\nnukleare Sicherheit und Verbraucherschutz\r\nParlamentarische Staatssekret\u00e4rin\r\nDr. Bettina Hoffmann\r\nPer E-Mail: Bettina.Hoffmann@bmuv.bund.de\r\n13. Mai 2024\r\nEU-Verpackungsverordnung (PPWR): Mehrwegquoten f\u00fcr Industrie- und Gewerbeverpackungen\r\ngef\u00e4hrden s\u00e4mtliche Lieferketten\r\nSehr geehrte Frau Parlamentarische Staatssekret\u00e4rin,\r\nin dem am 4. M\u00e4rz 2024 vereinbarten Kompromiss zwischen Europ\u00e4ischem Parlament und\r\nMitgliedstaaten f\u00fcr eine EU-Verpackungsverordnung (PPWR), der am 24. April vom Europ\u00e4ischen\r\nParlament in Erster Lesung best\u00e4tigt wurde, werden die Mehrwegquoten f\u00fcr viele industrielle\r\nund gewerbliche Transport- und Verkaufsverpackungen (inklusive Gartenbau) gegen\u00fcber\r\ndem Kommissionsvorschlag drastisch ausgeweitet und f\u00fcr den Austausch von Produkten\r\nzwischen Unternehmen in einem Mitgliedstaat sowie f\u00fcr den Austausch zwischen Unternehmensstandorten\r\nin der EU ab 2030 sogar auf 100% erh\u00f6ht. Das damit beschlossene\r\nvollst\u00e4ndige Verbot vieler Einweg-Verpackungen im innerstaatlichen Handel gef\u00e4hrdet s\u00e4mtliche\r\nLieferketten, weil es f\u00fcr viele Verpackungsformate keine Mehrwegl\u00f6sungen gibt bzw.\r\ndiese weder \u00f6kologisch noch \u00f6konomisch sinnvoll sind.\r\nWir gehen davon aus, dass es sich bei der Ausweitung der Mehrwegquoten um einen Fehler\r\nim Gesetzgebungsverfahren handelt: Wie Sie wissen erfolgten die \u00c4nderungen kurzfristig\r\nw\u00e4hrend der Trilog-Verhandlungen im Februar 2024 und hatten lediglich zum Ziel, durch eine\r\nZusammenfassung der unterschiedlichen Regelungen deren Verst\u00e4ndlichkeit zu verbessern.\r\nVermutlich unbeabsichtigt wurden mit der Umgruppierung s\u00e4mtlicher Mehrwegquoten f\u00fcr Industrie-\r\nund Gewerbeverpackungen sowie gartenbaulicher Verpackungen in Artikel 29 Absatz\r\n1 (neue Fassung) nicht nur die Quoten selbst, sondern auch der Anwendungsbereich der Abs\u00e4tze\r\n2 und 3 drastisch ausgeweitet (siehe \u00dcbersicht in der Anlage).\r\nWir bitten Sie, sich in den Gespr\u00e4chen mit den anderen Mitgliedstaaten und der Kommission\r\ndaf\u00fcr einzusetzen, den Fehler in der Corrigendum-Fassung des Regelungstexts zu berichtigen\r\nund damit die notwendige Rechts- und Planungssicherheit f\u00fcr s\u00e4mtliche Lieferketten herzustellen.\r\nVor diesem Hintergrund halten wir es f\u00fcr erforderlich, die Mehrwegvorgaben f\u00fcr industrielle,\r\ngewerbliche sowie gartenbauliche Transport- und Verkaufsverpackungen in Artikel 29\r\nAbs\u00e4tze 1 bis 3 zu streichen und die Kommission zu beauftragen, auf Grundlage einer wissenschaftlichen\r\nAnalyse und Folgenabsch\u00e4tzung einen neuen Vorschlag vorzulegen, wobei\r\nauf besondere Quoten f\u00fcr den Transport zwischen Unternehmen in einem EU-Mitgliedstaat zu\r\nverzichten ist. Keinesfalls ausreichend ist es aus unserer Sicht darauf zu vertrauen, dass die\r\nKommission einzelne Unternehmen oder Verpackungsformate von den Mehrwegquoten ausnimmt\r\n(Artikel 29 Absatz 18), weil v\u00f6llig unklar ist, ob, wann und f\u00fcr welche Bereiche diese\r\nAusnahmen gelten sollen. Auch vermeintliche L\u00f6sungen auf Ebene der Mitgliedstaaten im\r\nRahmen des Vollzugs oder nicht-verbindliche Auslegungshinweise durch die Kommission w\u00fcrden\r\ndie Problematik nur versch\u00e4rfen und insgesamt zu noch mehr Rechts- und Planungsunsicherheit\r\nf\u00fchren.\r\nEin Beispiel f\u00fcr die Folgen der aktuellen Regelung: Palettenumwicklungen (pallet wrappings)\r\nund Umreifungsb\u00e4nder (straps), die den Transport nahezu s\u00e4mtlicher auf Paletten gestapelter\r\nWaren sichern, m\u00fcssten ab 2030 vollst\u00e4ndig (zu 100%) zum \u201eselben Zweck\u201c wiederverwendet\r\nwerden, wenn sie innerhalb eines Mitgliedstaats oder zwischen Unternehmensstandorten genutzt\r\nwerden (Artikel 29 Absatz 2 und 3 neu). Es ist allerdings technisch gar nicht m\u00f6glich,\r\ndiese Palettenumwicklungen und Umreifungsb\u00e4nder wieder zu verwenden. Sie werden in der Praxis daher recycelt und bilden eine wichtige Grundlage zur Erf\u00fcllung der aktuellen Recyclingziele\r\nund k\u00fcnftigen Rezyklateinsatzquoten. Zwar hat Umweltkommissar Sinkevi\u010dius angek\u00fcndigt,\r\ndie (neue) Kommission werde pr\u00fcfen, ob eine Ausnahme dieser Verpackungsformate\r\nvon den 100%-Mehrwegquoten m\u00f6glich ist. Ungekl\u00e4rt bleibt jedoch, ob und wenn ja, wie\r\nschnell eine solche Ausnahme in Kraft tritt, wie die dann immer noch geforderte 40%-Mehrwegquote\r\nf\u00fcr diese Verpackungsformate erf\u00fcllt werden soll und ob es auch Ausnahmen f\u00fcr\r\nweitere Verpackungsformate, wie beispielsweise K\u00fcbel (pails), Kanister etc., geben wird, bei\r\ndenen eine mehrfache Nutzung zum selben Zweck ebenfalls nicht m\u00f6glich oder sinnvoll ist.\r\nProblematisch ist dar\u00fcber hinaus die im Kompromiss vorgesehene Ausweitung der Mehrwegquoten\r\nauf \u201eVerkaufsverpackungen f\u00fcr den Transport von Produkten\u201c. Bewusst hatte die Kommission\r\nin ihrem Vorschlag den Anwendungsbereich der Mehrwegquoten auf \u201eTransportverpackungen\u201c\r\nbeschr\u00e4nkt, weil Transportverpackungen \u2013 im Unterschied zu \u201eVerkaufsverpackungen\u201c\r\n\u2013 keinen direkten Kontakt zum F\u00fcllgut haben und sich bei ihnen daher in der Regel\r\nkeine Probleme bei der Wiederverwendung aufgrund einer Kontamination durch das vorherige\r\nF\u00fcllgut stellen. Die Ausweitung der Mehrwegquoten auf \u201eVerkaufsverpackungen zum Transport\r\nvon Produkten\u201c verw\u00e4ssert die sinnvolle und bew\u00e4hrte Unterscheidung zwischen Verkaufs-\r\nund Transportverpackungen und l\u00e4sst unklar, welche Verpackungsformate damit konkret\r\ngemeint sind: Denn die genannten Verkaufsverpackungen dienen in der Regel nicht nur\r\ndem Transport von Produkten, sondern dar\u00fcber hinaus auch dem Produktschutz, der Lagerung\r\nund Anwendung des Produkts sowie der Information und Sicherheit der Anwender.\r\nWir halten es au\u00dferdem f\u00fcr zwingend erforderlich, vor der Verabschiedung von Mehrwegquoten\r\nbei Industrie- und Gewerbeverpackungen sowie gartenbaulichen Verpackungen im Rahmen\r\nder von uns geforderten wissenschaftlichen Analyse und Folgenabsch\u00e4tzung zu pr\u00fcfen,\r\nob Mehrwegalternativen \u00fcberhaupt vorhanden sind und wenn ja, ob diese nachhaltiger sind.\r\nF\u00fcr bestimmte Konsumverpackungen hatte die Kommission erst im Februar 2024 eine solche\r\nAnalyse ver\u00f6ffentlicht (https://publications.jrc.ec.europa.\r\neu/repository/handle/JRC136771).\r\nIm \u00dcbrigen widersprechen Mehrwegquoten, die an den Transport zwischen Unternehmen innerhalb\r\neines Mitgliedstaates ankn\u00fcpfen (siehe Artikel 29 Absatz 3), den Grundprinzipien des\r\nEU-Binnenmarktes und benachteiligen Unternehmen in gr\u00f6\u00dferen EU-Mitgliedstaaten gegen\u00fcber\r\nUnternehmen in kleineren EU-Mitgliedstaaten, weil letztere einen h\u00f6heren Anteil an\r\ngrenz\u00fcberschreitenden Transporten haben, f\u00fcr die die 100%-Quoten nicht gelten. Der Kompromiss\r\nbenachteiligt au\u00dferdem kleine und mittlere Unternehmen, die \u2013 anders als exportorientierte\r\nGro\u00dfunternehmen \u2013 oft nur einen nationalen Markt bedienen und die daher von der\r\nMehrwegpflicht st\u00e4rker betroffen w\u00e4ren. Zudem haben wir erhebliche Bedenken, dass die von\r\nden Unternehmen gemeldeten Verpackungsmengen von den Mitgliedstaaten ver\u00f6ffentlicht\r\nwerden sollen (Artikel 31 Absatz 6), weil sich daraus detaillierte R\u00fcckschl\u00fcsse auf die Gesch\u00e4ftst\u00e4tigkeit\r\neinzelner Unternehmen ziehen lassen. Schlie\u00dflich gibt es erhebliche Zweifel\r\ndaran, ob die EU auf Basis der Kompetenz zur Binnenmarkt-harmonisierung (Artikel 114\r\nAEUV) \u00fcberhaupt bestimmte industriell und gewerblich genutzte Einweg-Verpackungen verbieten\r\nkann, weil ein solches Verbot (1.) weder tats\u00e4chlich der Beseitigung von Hemmnissen\r\ndes freien Warenverkehrs dient, noch (2.) tats\u00e4chlich zur Beseitigung sp\u00fcrbarer Verzerrungen\r\ndes Wettbewerbs beitr\u00e4gt, wie es die Rechtsprechung des EuGH verlangt (siehe EuGH, Rs.\r\nC-376/98 Deutschland/Rat und Parlament, Slg. 2000, I-2247, Rn. 95-114).\r\nGern stehen die Unterzeichner f\u00fcr weitere Ausk\u00fcnfte und Gespr\u00e4che zur Verf\u00fcgung.\r\n\r\n\r\nDie unterzeichnenden Verb\u00e4nde:\r\nVerbandslogo Verbandsname Verbandslogo Verbandsname\r\nInitiative Circular Economy,\r\nBundesverband der\r\nDeutschen Industrie e.V.\r\nVerband Deutscher Maschinen-\r\nund Anlagenbau\r\ne.V.\r\nBundesverband Glasindustrie\r\ne.V.\r\nIndustrievereinigung\r\nKunststoffverpackungen\r\ne. V.\r\nBundesvereinigung der\r\nDeutschen Ern\u00e4hrungsindustrie\r\ne.V. (BVE)\r\nVerband Metallverpackungen\r\ne.V.\r\nFachverband der Gew\u00fcrzindustrie\r\ne.V.\r\nWirtschaftsVereinigung\r\nMetalle e.V.\r\nIndustrieverband Garten\r\n(IVG) e. V.\r\nZentralverband Gartenbau\r\ne. V. (ZVG)\r\nHKI Industrieverband\r\nHaus-, Heiz- und K\u00fcchentechnik\r\ne.V.\r\nZVEI e.V. \u2013 Verband der\r\nElektro- und Digitalindustrie\r\nKulinaria Deutschland\r\ne.V.\r\nGKV Gesamtverband\r\nKunststoffverarbeitende\r\nIndustrie e.V.\r\nVerband der Chemischen\r\nIndustrie e.V.\r\n(VCI)\r\nWSM Wirtschaftsverband\r\nStahl- und Metallverarbeitung\r\ne. V.\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/91/e6/323239/Stellungnahme-Gutachten-SG2406280064.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-27"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0008984",
+                "regulatoryProjectTitle": "18. \u00c4nderung der Verordnung (EU) Nr. 10/2011",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)\r\nReferat 313\r\nRegierungsdirektorin\r\nFrau Katharina Adler\r\nPer E-Mail: Katharina.Adler@bmel.bund.de\r\n27.5.2024\r\nEntwurf der 18. \u00c4nderungen zur Verordnung (EU) Nr. 10/2011\r\nSehr geehrte Frau Adler,\r\ndie Europ\u00e4ische Kommission hat Mitte M\u00e4rz dieses Jahres den Entwurf der 18. \u00c4nderung (\u201eQuality Amendments\u201c) zur Verordnung (EU) Nr. 10/2011 ver\u00f6ffentlicht.\r\nIm Rahmen der ScoPAFF-Sitzung am 12. Juni 2024 wird die Kommission \u00fcber die 18. \u00c4nderung mit den Mitgliedstaaten diskutieren. Aus diesem Anlass weisen die Verb\u00e4nde der Lieferkette darauf hin, dass die \u00c4nderungsvorschl\u00e4ge drastische Auswirkungen auf den gesamten Bereich der Lebensmittelkontaktmaterialien aus Kunststoff haben w\u00fcrden. Wir bitten um Ihre Unterst\u00fctzung insbesondere zu den folgenden Punkten:\r\n1. Fehlende Begr\u00fcndung und Folgenabsch\u00e4tzung\r\nZiel der Verordnung (EG) Nr. 1935/2004, auf die sich der Vorschlag st\u00fctzt, ist es, \"die Grundlage f\u00fcr die Gew\u00e4hrleistung eines hohen Schutzniveaus f\u00fcr die menschliche Gesundheit und die Interessen der Verbraucher zu schaffen\". Zu diesem Zweck kann die Kommission \"spezifische Ma\u00dfnahmen f\u00fcr Gruppen von Materialien und Gegenst\u00e4nden\" erlassen (Artikel 5 Absatz 1). Bisher gibt es solche Anforderungen nur f\u00fcr Kunststoffe, nicht aber f\u00fcr andere Materialien wie z. B. Papier und Pappe, die ebenfalls mit Lebensmitteln in Ber\u00fchrung kommen. Im aktuellen Vorschlag hat die Kommission nicht begr\u00fcndet, warum die neue drastische Versch\u00e4rfung der bestehenden Anforderungen f\u00fcr Kunststoffe notwendig ist und warum die Gesetzesl\u00fccke f\u00fcr andere Materialien nicht geschlossen werden kann. Dar\u00fcber hinaus fehlt eine Folgenabsch\u00e4tzung zu den Auswirkungen der Vorschl\u00e4ge, sowohl hinsichtlich der erwarteten Marktreaktion als auch in Bezug auf die Anforderungen der neuen EU-Verordnung \u00fcber Verpackungen und Verpackungsabf\u00e4lle (PPWR).\r\n2. Versch\u00e4rfung des Reinheitsanforderungen (Artikel 3a)\r\nDie vorgeschlagenen Anforderungen an den Reinheitsgrad der Ausgangsstoffe sind aus unserer Sicht nicht umsetzbar: Die geforderte Reinheit von 0,15 ppb f\u00fcr unbekannte Stoffe ist technisch nicht praktikabel. Dieser Grenzwert liegt mindestens eine Gr\u00f6\u00dfenordnung \u00fcber den aktuellen Nachweisgrenzen der analytischen Chemie. Die Anforderungen gehen au\u00dferdem deutlich \u00fcber die Reinheitsanforderungen f\u00fcr Lebensmittelzusatzstoffe, die zum Verzehr bestimmt sind, hinaus. Der Vorschlag soll daher gestrichen werden.\r\n3. Offenlegung von Ausgangsstoffen (Artikel 8)\r\nDie vorgeschlagene Regelung, wonach die Hersteller von Kunststoffen die genaue Zusammensetzung ihrer Ausgangsstoffe kennen und offenlegen m\u00fcssen, f\u00fchrt zu einem erheblichen und unn\u00f6tigen administrativen Mehraufwand f\u00fcr die Unternehmen. Insbesondere viele kleine und mittelst\u00e4ndische Hersteller sind damit \u00fcberfordert. Viele Rohstoffhersteller offenbaren selbst Stoffe mit spezifischen Migrationsgrenzwerten (SML-Stoffe) und Konzentrationen nur unter Geheimhaltungsvereinbarungen. Im Hinblick auf Stoffe, die bereits einer Bewertung unterzogen wurden (Anhang I der Verordnung (EU) Nr. 10/2011), halten wir es f\u00fcr unverh\u00e4ltnism\u00e4\u00dfig, dass Hersteller von Kunststoffen verpflichtet werden, die Identit\u00e4t und Menge dieser Stoffe anzugeben, wenn kein SML vorliegt. Diese Stoffe sind im Vergleich zu den in Anhang II der Verordnung (EU) Nr. 10/2011 aufgef\u00fchrten Stoffen nicht gleicherma\u00dfen besorgniserregend. Die in Anhang I aufgef\u00fchrten Stoffe wurden bereits vollst\u00e4ndig bewertet \u2013 inklusive ihrer Verunreinigungen, als sie von der EFSA gelistet und zugelassen wurden. Die Anforderung ist daher unverh\u00e4ltnism\u00e4\u00dfig und sollte gestrichen werden.\r\n4. Kennzeichnung (Artikel 14a)\r\nDie Vorgabe, die Haltbarkeit von Mehrwegprodukten anzugeben, ist aus unserer Sicht nicht umsetzbar, da diese von vielen Faktoren abh\u00e4ngt, insbesondere von der jeweiligen Verwendung, den Bedingungen der Reinigung sowie Fehlverwendungen. Auch die Anforderung, m\u00f6gliche Verschlechterungen des Artikels zu beschreiben, ist nicht sinnvoll, da Fehlverwendungen durch den Verbraucher nicht vorhersehbar sind. Wir sehen auch keinen Nutzen in dieser Regelung, die im Zweifelsfall kontraproduktiv wirkt.\r\n5. Keine Vermischung beim Recycling (Anhang II (3))\r\nDie Anforderung, dass Kunststoffe unterschiedlicher Zusammensetzung bei der Aufbereitung nicht vermischt werden d\u00fcrfen, w\u00fcrde das seit Jahrzehnten praktizierte Recycling insbesondere von Lebensmittelverpackungen aus Kunststoff unm\u00f6glich machen. Dieser Vorschlag ist nicht mit den Vorgaben der EU-Verpackungsverordnung (PPWR) in Bezug auf Recyclingquoten und Rezyklateinsatzpflichten vereinbar und soll daher ebenfalls gestrichen werden.\r\n6. Streichung der Ausnahmeregelung f\u00fcr Beh\u00e4lter < 500 ml (Artikel 17(2))\r\nDie Ausnahme von Beh\u00e4ltern mit einem Volumen von weniger als 500 ml von der Berechnung der Migrationsergebnisse unter Verwendung des tats\u00e4chlichen Oberfl\u00e4che-Volumen-Verh\u00e4ltnisses wurde eingef\u00fchrt, um die grobe \u00dcbersch\u00e4tzung auszugleichen, die sich aus der Annahme ergibt, dass Verbraucher in kleinen Beh\u00e4ltern verpackte Lebensmittel in einer Menge von 1 kg pro Tag verzehren, die alle dieselben migrierenden Stoffe enthalten. Die gesamte Konstruktion der Verordnung \u00fcber den Kontakt mit Lebensmitteln basiert auf einer Anh\u00e4ufung von Worst-Case-Szenarien und einer \u00dcbersch\u00e4tzung der Exposition, so dass die Streichung der Ausnahmeregelung zu einem Verbot von kleineren Lebensmittelverpackungen aus Kunststoff, wie z.B. Joghurtbechern f\u00fchren w\u00fcrde. Wir fordern daher, die bisherige Ausnahmeregelung beizubehalten.\r\n7. \u00dcbergangsma\u00dfnahmen\r\nDie vorgesehene \u00dcbergangsfrist ist unrealistisch. Wir sind davon \u00fcberzeugt, dass die Neubewertung und Risikobewertung der betroffenen Stoffe aufgrund komplexer Lieferketten und Formulierungen umfangreich und zeitaufw\u00e4ndig sein wird und die Industrie nicht \u00fcber ausreichende Kapazit\u00e4ten verf\u00fcgt, um diese Aufgabe in den derzeit vorgeschlagenen 9 bzw. 18 Monaten abzuschlie\u00dfen. Stattdessen fordern wir l\u00e4ngeren \u00dcbergangsfristen f\u00fcr Pflichtinhaber.\r\nZusammenfassend werden aus unserer Sicht durch die drastisch h\u00f6heren Anforderungen und B\u00fcrokratielasten Verpackungsverbote, Mehraufwand und -kosten auf die gesamte Lieferkette zukommen, die zu h\u00f6heren Preisen f\u00fcr Lebensmittel f\u00fchren werden, ohne den Umwelt- und Verbraucherschutz zu verbessern.\r\nWir sind dankbar, wenn Sie diese Punkte in die Diskussion mit der Kommission und den anderen Mitgliedstaaten einbringen. F\u00fcr Fragen und weitere Ausf\u00fchrungen zu den Begr\u00fcndungen stehen wir gern zur Verf\u00fcgung.\r\nDie unterzeichnenden Verb\u00e4nde:\r\n\u2022 IK Industrievereinigung Kunststoffverpackungen e. V.\r\nDr. Martin Engelmann, Hauptgesch\u00e4ftsf\u00fchrer\r\nDr. Fang Luan, Referat Verbraucherschutz und Qualit\u00e4tsmanagement\r\n\u2022 Lebensmittelverband Deutschland e. V.\r\nDr. Marcus Girnau Stellvertretender Hauptgesch\u00e4ftsf\u00fchrer\r\nDr. Sieglinde St\u00e4hle, Wissenschaftliche Leitung\r\n\u2022 Plastics Europe Deutschland e. V.\r\nDr. Alexander Kronimus, Gesch\u00e4ftsf\u00fchrer\r\nDr. Sabine Lindner, Expertin Verbraucherangelegenheiten\r\n\u2022 pro-K Industrieverband langlebige Kunststoffprodukte und Mehrwegsysteme e.V.\r\nSven Weihe, Gesch\u00e4ftsf\u00fchrer\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/93/29/323241/Stellungnahme-Gutachten-SG2406280066.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-27"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0008984",
+                "regulatoryProjectTitle": "18. \u00c4nderung der Verordnung (EU) Nr. 10/2011",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz\r\nReferat IV C 2\r\nHerrn Ministerialrat Max Kroymann\r\nE-Mail: buero-ivc2@bmwk.bund.de\r\n\r\nEntwurf der 18. \u00c4nderungen zur Verordnung (EU) Nr. 10/2011\r\nSehr geehrter Herr Kroymann,\r\ndie Europ\u00e4ische Kommission hat Mitte M\u00e4rz dieses Jahres den Entwurf der 18. \u00c4nderung (\u201eQuality Amendments\u201c) zur Verordnung (EU) Nr. 10/2011 ver\u00f6ffentlicht.\r\nIm Rahmen der ScoPAFF-Sitzung am 12. Juni 2024 wird die Kommission \u00fcber die 18. \u00c4nderung mit den Mitgliedstaaten diskutieren. Aus diesem Anlass weisen die Verb\u00e4nde der Lieferkette darauf hin, dass die \u00c4nderungsvorschl\u00e4ge drastische Auswirkungen auf den gesamten Bereich der Lebensmittelkontaktmaterialien aus Kunststoff haben w\u00fcrden. Wir bitten um Ihre Unterst\u00fctzung insbesondere zu den folgenden Punkten:\r\n1. Fehlende Begr\u00fcndung und Folgenabsch\u00e4tzung\r\nZiel der Verordnung (EG) Nr. 1935/2004, auf die sich der Vorschlag st\u00fctzt, ist es, \"die Grundlage f\u00fcr die Gew\u00e4hrleistung eines hohen Schutzniveaus f\u00fcr die menschliche Gesundheit und die Interessen der Verbraucher zu schaffen\". Zu diesem Zweck kann die Kommission \"spezifische Ma\u00dfnahmen f\u00fcr Gruppen von Materialien und Gegenst\u00e4nden\" erlassen (Artikel 5 Absatz 1). Bisher gibt es solche Anforderungen nur f\u00fcr Kunststoffe, nicht aber f\u00fcr andere Materialien wie z. B. Papier und Pappe, die ebenfalls mit Lebensmitteln in Ber\u00fchrung kommen. Im aktuellen Vorschlag hat die Kommission nicht begr\u00fcndet, warum die neue drastische Versch\u00e4rfung der bestehenden Anforderungen f\u00fcr Kunststoffe notwendig ist und warum die Gesetzesl\u00fccke f\u00fcr andere Materialien nicht geschlossen werden kann. Dar\u00fcber hinaus fehlt eine Folgenabsch\u00e4tzung zu den Auswirkungen der Vorschl\u00e4ge, sowohl hinsichtlich der erwarteten Marktreaktion als auch in Bezug auf die Anforderungen der neuen EU-Verordnung \u00fcber Verpackungen und Verpackungsabf\u00e4lle (PPWR).\r\n\r\n2. Versch\u00e4rfung des Reinheitsanforderungen (Artikel 3a)\r\nDie vorgeschlagenen Anforderungen an den Reinheitsgrad der Ausgangsstoffe sind aus unserer Sicht nicht umsetzbar: Die geforderte Reinheit von 0,15 ppb f\u00fcr unbekannte Stoffe ist technisch nicht praktikabel. Dieser Grenzwert liegt mindestens eine Gr\u00f6\u00dfenordnung \u00fcber den aktuellen Nachweisgrenzen der analytischen Chemie. Die Anforderungen gehen au\u00dferdem deutlich \u00fcber die Reinheitsanforderungen f\u00fcr Lebensmittelzusatzstoffe, die zum Verzehr bestimmt sind, hinaus. Der Vorschlag soll daher gestrichen werden.\r\n3. Offenlegung von Ausgangsstoffen (Artikel 8)\r\nDie vorgeschlagene Regelung, wonach die Hersteller von Kunststoffen die genaue Zusammensetzung ihrer Ausgangsstoffe kennen und offenlegen m\u00fcssen, f\u00fchrt zu einem erheblichen und unn\u00f6tigen administrativen Mehraufwand f\u00fcr die Unternehmen. Insbesondere viele kleine und mittelst\u00e4ndische Hersteller sind damit \u00fcberfordert. Viele Rohstoffhersteller offenbaren selbst Stoffe mit spezifischen Migrationsgrenzwerten (SML-Stoffe) und Konzentrationen nur unter Geheimhaltungsvereinbarungen. Im Hinblick auf Stoffe, die bereits einer Bewertung unterzogen wurden (Anhang I der Verordnung (EU) Nr. 10/2011), halten wir es f\u00fcr unverh\u00e4ltnism\u00e4\u00dfig, dass Hersteller von Kunststoffen verpflichtet werden, die Identit\u00e4t und Menge dieser Stoffe anzugeben, wenn kein SML vorliegt. Diese Stoffe sind im Vergleich zu den in Anhang II der Verordnung (EU) Nr. 10/2011 aufgef\u00fchrten Stoffen nicht gleicherma\u00dfen besorgniserregend. Die in Anhang I aufgef\u00fchrten Stoffe wurden bereits vollst\u00e4ndig bewertet \u2013 inklusive ihrer Verunreinigungen, als sie von der EFSA gelistet und zugelassen wurden. Die Anforderung ist daher unverh\u00e4ltnism\u00e4\u00dfig und sollte gestrichen werden.\r\n4. Kennzeichnung (Artikel 14a)\r\nDie Vorgabe, die Haltbarkeit von Mehrwegprodukten anzugeben, ist aus unserer Sicht nicht umsetzbar, da diese von vielen Faktoren abh\u00e4ngt, insbesondere von der jeweiligen Verwendung, den Bedingungen der Reinigung sowie Fehlverwendungen. Auch die Anforderung, m\u00f6gliche Verschlechterungen des Artikels zu beschreiben, ist nicht sinnvoll, da Fehlverwendungen durch den Verbraucher nicht vorhersehbar sind. Wir sehen auch keinen Nutzen in dieser Regelung, die im Zweifelsfall kontraproduktiv wirkt.\r\n5. Keine Vermischung beim Recycling (Anhang II (3))\r\nDie Anforderung, dass Kunststoffe unterschiedlicher Zusammensetzung bei der Aufbereitung nicht vermischt werden d\u00fcrfen, w\u00fcrde das seit Jahrzehnten praktizierte Recycling insbesondere von Lebensmittelverpackungen aus Kunststoff unm\u00f6glich machen. Dieser Vorschlag ist nicht mit den Vorgaben der EU-Verpackungsverordnung (PPWR) in Bezug auf Recyclingquoten und Rezyklateinsatzpflichten vereinbar und soll daher ebenfalls gestrichen werden.\r\n6. Streichung der Ausnahmeregelung f\u00fcr Beh\u00e4lter < 500 ml (Artikel 17(2))\r\nDie Ausnahme von Beh\u00e4ltern mit einem Volumen von weniger als 500 ml von der Berechnung der Migrationsergebnisse unter Verwendung des tats\u00e4chlichen Oberfl\u00e4che-Volumen-Verh\u00e4ltnisses wurde eingef\u00fchrt, um die grobe \u00dcbersch\u00e4tzung auszugleichen, die sich aus der Annahme ergibt, dass Verbraucher in kleinen Beh\u00e4ltern verpackte Lebensmittel in einer Menge von 1 kg pro Tag verzehren, die alle dieselben migrierenden Stoffe enthalten. Die gesamte Konstruktion der Verordnung \u00fcber den Kontakt mit Lebensmitteln basiert auf einer Anh\u00e4ufung von Worst-Case-Szenarien und einer \u00dcbersch\u00e4tzung der Exposition, so dass die Streichung der Ausnahmeregelung zu einem Verbot von kleineren Lebensmittelverpackungen aus Kunststoff, wie z.B. Joghurtbechern f\u00fchren w\u00fcrde. Wir fordern daher, die bisherige Ausnahmeregelung beizubehalten.\r\n7. \u00dcbergangsma\u00dfnahmen\r\nDie vorgesehene \u00dcbergangsfrist ist unrealistisch. Wir sind davon \u00fcberzeugt, dass die Neubewertung und Risikobewertung der betroffenen Stoffe aufgrund komplexer Lieferketten und Formulierungen umfangreich und zeitaufw\u00e4ndig sein wird und die Industrie nicht \u00fcber ausreichende Kapazit\u00e4ten verf\u00fcgt, um diese Aufgabe in den derzeit vorgeschlagenen 9 bzw. 18 Monaten abzuschlie\u00dfen. Stattdessen fordern wir l\u00e4ngeren \u00dcbergangsfristen f\u00fcr Pflichtinhaber.\r\nZusammenfassend werden aus unserer Sicht durch die drastisch h\u00f6heren Anforderungen und B\u00fcrokratielasten Verpackungsverbote, Mehraufwand und -kosten auf die gesamte Lieferkette zukommen, die zu h\u00f6heren Preisen f\u00fcr Lebensmittel f\u00fchren werden, ohne den Umwelt- und Verbraucherschutz zu verbessern.\r\nWir sind dankbar, wenn Sie diese Punkte in die Diskussion mit der Kommission und den anderen Mitgliedstaaten einbringen. F\u00fcr Fragen und weitere Ausf\u00fchrungen zu den Begr\u00fcndungen stehen wir gern zur Verf\u00fcgung.\r\nDie unterzeichnenden Verb\u00e4nde:\r\n\u2022 IK Industrievereinigung Kunststoffverpackungen e. V.\r\nDr. Martin Engelmann, Hauptgesch\u00e4ftsf\u00fchrer\r\nDr. Fang Luan, Referat Verbraucherschutz und Qualit\u00e4tsmanagement\r\n\u2022 Lebensmittelverband Deutschland e. V.\r\nDr. Marcus Girnau Stellvertretender Hauptgesch\u00e4ftsf\u00fchrer\r\nDr. Sieglinde St\u00e4hle, Wissenschaftliche Leitung\r\n\u2022 Plastics Europe Deutschland e. V.\r\nDr. Alexander Kronimus, Gesch\u00e4ftsf\u00fchrer\r\nDr. Sabine Lindner, Expertin Verbraucherangelegenheiten\r\n\u2022 pro-K Industrieverband langlebige Kunststoffprodukte und Mehrwegsysteme e.V.\r\nSven Weihe, Gesch\u00e4ftsf\u00fchrer\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

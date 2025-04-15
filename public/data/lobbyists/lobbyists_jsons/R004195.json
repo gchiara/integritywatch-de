@@ -1,0 +1,733 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-04-13T12:25:41.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-04-13T12:25:41.000+02:00",
+        "lastUpdateDate": "2024-08-05T13:13:13.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42499,
+                "validFromDate": "2024-08-05T13:13:13.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 29764,
+                "validFromDate": "2024-06-25T18:11:45.000+02:00",
+                "validUntilDate": "2024-08-05T13:13:13.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23655,
+                "validFromDate": "2023-07-11T11:54:24.000+02:00",
+                "validUntilDate": "2024-06-25T18:11:45.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23652,
+                "validFromDate": "2023-07-11T11:50:38.000+02:00",
+                "validUntilDate": "2023-07-11T11:54:24.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16813,
+                "validFromDate": "2023-04-04T15:18:33.000+02:00",
+                "validUntilDate": "2023-07-11T11:50:38.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 5280,
+                "validFromDate": "2022-04-13T12:25:41.000+02:00",
+                "validUntilDate": "2023-04-04T15:18:33.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_RESEARCH_FACILITY_V2",
+            "de": "Wissenschaft, Hochschule oder Forschungseinrichtung",
+            "en": "Science, university or research institution"
+        },
+        "activityDescription": "Das Ecologic Institut ist ein unabh\u00e4ngiger, akademischer Think Tank f\u00fcr Umweltforschung und Politikanalyse. Seit seiner Gr\u00fcndung im Jahr 1995 widmet sich das Ecologic Institut der Verbesserung von Umweltpolitik, nachhaltiger Entwicklung und politischer Praxis.\r\n\r\nUnsere Experten und Expertinnen decken das vielf\u00e4ltige Spektrum der Umweltpolitik, der nachhaltigen Entwicklung und der sozial-\u00f6kologischen Forschung ab. Wir erforschen, begleiten und evaluieren Politikprozesse auf lokaler, nationaler, europ\u00e4ischer und internationaler Ebene. Daf\u00fcr bringen wir Akteure aus Wissenschaft, Politik, Wirtschaft und Zivilgesellschaft zusammen. Auch setzen wir uns f\u00fcr die Integration umweltpolitischer Aspekte in andere Politikfelder ein. Das Ergebnis sind innovative Ans\u00e4tze, umfassende Analysen und praxisrelevante Empfehlungen. Wir engagieren uns auch im Bildungsbereich und kooperieren dabei mit Partnern aus aller Welt.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_ECONOMY_INDUSTRIAL",
+                "de": "Industriepolitik",
+                "en": "Industrial policy"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_SA_OTHER",
+                "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                "en": "Other in the field of \"Government and administration\""
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_ECONOMY_AUTOMOBILE",
+                "de": "Automobilwirtschaft",
+                "en": "Automotive industry"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_OTHER",
+                "de": "Sonstiges im Bereich \"Verkehr\"",
+                "en": "Other in the field of \"Transportation\""
+            },
+            {
+                "code": "FOI_MEDIA_OTHER",
+                "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                "en": "Other in the field of \"Media, communication and information technology\""
+            },
+            {
+                "code": "FOI_RPI_OTHER",
+                "de": "Sonstiges im Bereich \"Migration, Fl\u00fcchtlingspolitik und Integration\"",
+                "en": "Other in the field of \"Migration, refugee policy and integration\""
+            },
+            {
+                "code": "FOI_ECONOMY_FINANCE",
+                "de": "Bank- und Finanzwesen",
+                "en": "Banking and finance"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_RP_OTHER",
+                "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                "en": "Other in the field of \"Spatial planning, construction and housing\""
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_EU_POLITICS",
+                "de": "Institutionelle Fragen der EU",
+                "en": "Institutional questions of European politics"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_FA_OTHER",
+                "de": "Sonstiges im Bereich \"Au\u00dfenpolitik und internationale Beziehungen\"",
+                "en": "Other in the field of \"Foreign policy and international relations\""
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/72/b1/340844/Ecologic-Institut-gGmbH_audit_certificate_2023_DE.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 1,
+            "to": 10000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.55,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 50001,
+            "to": 60000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Ecologic Institut",
+            "street": "Pfalzburger Str.",
+            "streetNumber": "43/44",
+            "type": "NATIONAL",
+            "zipCode": "10717"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "director@ecologic.eu"
+                },
+                {
+                    "email": "rabiya.dar@ecologic.eu"
+                },
+                {
+                    "email": "meike.lorenz@ecologic.eu"
+                },
+                {
+                    "email": "jutta.haacke@ecologic.eu"
+                }
+            ],
+            "phoneNumber": "+4930868800",
+            "websites": [
+                {
+                    "website": "https://www.ecologic.eu/"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "M. Sc. (Economics)",
+                "firstName": "Benjamin",
+                "lastName": "G\u00f6rlach",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "M.Sc.",
+                "firstName": "Raffaele",
+                "lastName": "Piria",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "M.A.",
+                "firstName": "Susanne",
+                "lastName": "Langsdorf",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.-Ing.",
+                "firstName": "Ulf",
+                "lastName": "Stein",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Nils",
+                "lastName": "Meyer-Ohlendorf",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Ana",
+                "lastName": "Frelih Larsen",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Doris",
+                "lastName": "Knoblauch",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Grit",
+                "lastName": "Martinez",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Matthias",
+                "lastName": "Duwe",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_OTHER_JP_INTERNATIONAL",
+            "de": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+            "en": "Other juristic person",
+            "legalFormText": "gemeinn\u00fctzige Gesellschaft mit beschr\u00e4nkter Haftung (gGmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Agn\u00e8s",
+                "function": "Head of Finance ",
+                "lastName": "Reinsberg",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Anneke",
+                "function": "Head of Human Resources, Senior Fellow ",
+                "lastName": "Klasing",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Christoph",
+                "function": "Excutive Director",
+                "lastName": "Heinrich",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Bundesverband Boden (https://www.bvboden.de/)"
+            },
+            {
+                "membership": "Deutsche Gesellschaft f\u00fcr Ausw\u00e4rtige Politik e.V. (https://dgap.org/de)"
+            },
+            {
+                "membership": "Europ\u00e4ische Bewegung Deutschland e.V. (https://www.netzwerk-ebd.de/)"
+            },
+            {
+                "membership": "Ecological Research Network - Ecornet (https://www.ecornet.eu/)"
+            },
+            {
+                "membership": "European Sustainable Development Network (https://www.esdn.eu/)"
+            },
+            {
+                "membership": "EU4Ocean Platform (https://webgate.ec.europa.eu/maritimeforum/en/frontpage/1483)"
+            },
+            {
+                "membership": "Friends of EbA - FEBA (https://www.iucn.org/theme/ecosystem-management/our-work/ecosystem-based-approaches-climate-change-adaptation/friends-eba-feba)"
+            },
+            {
+                "membership": "EU Food Policy Coalition (https://foodpolicycoalition.eu/)"
+            },
+            {
+                "membership": "Gesellschaft f\u00fcr Umweltrecht e.V. (https://www.gesellschaft-fuer-umweltrecht.de/)"
+            },
+            {
+                "membership": "International Arctic Social Sciences Association (https://iassa.org/)"
+            },
+            {
+                "membership": "Netzwerk Reallabore der Nachhaltigkeit (https://www.reallabor-netzwerk.de/)"
+            },
+            {
+                "membership": "Partnership for Environment and Disaster Risk Reduction (https://pedrr.org/connect-and-network/europe-and-north-america/)"
+            },
+            {
+                "membership": "Prevent Waste Alliance (https://prevent-waste.net/en/)"
+            },
+            {
+                "membership": "Sustainable Development Solutions Network (www.sdsngermany.de)"
+            },
+            {
+                "membership": "Strommarkttreffen (https://www.strommarkttreffen.org/)"
+            },
+            {
+                "membership": "tdAcademy (https://td-academy.org/home/)"
+            },
+            {
+                "membership": "The Integrated Assessment Society (https://www.tias-web.info/)"
+            },
+            {
+                "membership": "Think Sustainable Europe (https://think2030.eu/think-sustainable-europe/)"
+            },
+            {
+                "membership": "UN Environment Programme (https://www.unep.org/civil-society-engagement/accreditation/list-accredited-organizations)"
+            },
+            {
+                "membership": "UN Global Compact (https://www.unglobalcompact.org/what-is-gc/participants)"
+            },
+            {
+                "membership": "Institute for European Environmental Policy (https://ieep.eu/)"
+            },
+            {
+                "membership": "Expert group on carbon removals (https://climate.ec.europa.eu/eu-action/sustainable-carbon-cycles/expert-group-carbon-removals_en)"
+            },
+            {
+                "membership": "Friends of OECD (https://www.oecd.org/berlin/friends/)"
+            },
+            {
+                "membership": "FOODforce (https://www.foodforcenetwork.eu/)"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Ecologic Institut"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Zahlreiche Forschungsprojekte im Rahmen der europ\u00e4ischen F\u00f6rderprogramme H2020 / Horizon Europe\r\nDie Auflistung der einzelnen Projekttitel hat die zul\u00e4ssige Anzahl Zeichen in diesem Feld weit \u00fcberschritten daher werden diese nicht aufgef\u00fchrt.\r\n\r\n\r\n\r\n",
+                "location": "Br\u00fcssel, Belgien",
+                "name": "Europ\u00e4ische Kommission DG Research",
+                "publicAllowanceEuro": {
+                    "from": 1480001,
+                    "to": 1490000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "European Topic Centre on Biodiversity  (ETC/BD) - 2022\r\nEuropean Topic Centre on Inland, Coastal and Marine Waters  (ETC/ICM) - 2022\r\n",
+                "location": "Kopenhagen, D\u00e4nemark",
+                "name": "European Environmental Agency",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Let's talk Europe -podcast and webinar series on the European Green Deal\"\r\n\r\nKo-Kreation f\u00fcr biokulturelle Diversit\u00e4t in der Arktis\r\n\r\n\r\n",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+                "publicAllowanceEuro": {
+                    "from": 170001,
+                    "to": 180000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Reduktion von Lebensmittelverschwendung in privaten Haushalten - Evaluierung von Interventionen und Einrichtung eines Dialogforums",
+                "location": "Bonn",
+                "name": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft",
+                "publicAllowanceEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Zahlreiche Forschungsprojekte die durch das BMBF gef\u00f6rdert werden.\r\nDie Auflistung der einzelnen Projekttitel hat die zul\u00e4ssige Anzahl Zeichen in diesem Feld weit \u00fcberschritten daher werden diese nicht aufgef\u00fchrt.\r\n\r\n\r\n",
+                "location": "Bonn",
+                "name": "Bundesministerium f\u00fcr Bildung und Forschung",
+                "publicAllowanceEuro": {
+                    "from": 690001,
+                    "to": 700000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "G7 Klimapolitik Austausch und Input f\u00fcr die und von der Zivilgesellschaft\r\nReady4NetZero: Capacity development for long-term climate neutrality strategies in towns and cities",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 60001,
+                    "to": 70000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R004195/42499",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-25T18:11:45.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/f2/61/340845/Lobbyregister-Detailansicht-R004195-2024-08-05_13-13-13.pdf",
+        "validFromDate": "2024-08-05T13:13:13.000+02:00",
+        "version": 6
+    },
+    "registerEntryId": 42499,
+    "registerNumber": "R004195",
+    "regulatoryProjects": {
+        "regulatoryProjects": [],
+        "regulatoryProjectsPresent": false
+    },
+    "statements": {}
+}

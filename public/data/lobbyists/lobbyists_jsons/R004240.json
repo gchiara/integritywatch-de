@@ -1,0 +1,872 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-12-13T16:27:47.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-04-19T11:39:01.000+02:00",
+        "lastUpdateDate": "2024-06-27T16:42:28.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 39817,
+                "validFromDate": "2024-06-27T16:42:28.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 28316,
+                "validFromDate": "2024-01-17T14:36:59.000+01:00",
+                "validUntilDate": "2024-06-27T16:42:28.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21940,
+                "validFromDate": "2023-07-10T09:53:18.000+02:00",
+                "validUntilDate": "2024-01-17T14:36:59.000+01:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21477,
+                "validFromDate": "2023-06-16T08:45:00.000+02:00",
+                "validUntilDate": "2023-07-10T09:53:18.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 12867,
+                "validFromDate": "2022-12-13T16:27:47.000+01:00",
+                "validUntilDate": "2023-06-16T08:45:00.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Zweck des Vereins ist\r\n1. die F\u00f6rderung des Wohlfahrtswesens, insbesondere der Zwecke der amtlich anerkannten Wohlfahrtsverb\u00e4nde der Freien Wohlfahrtspflege,\r\n2. die F\u00f6rderung des \u00f6ffentlichen Gesundheitswesens und der \u00f6ffentlichen Gesundheitspflege,\r\n3. die F\u00f6rderung der Hilfe f\u00fcr Fl\u00fcchtlinge,\r\n4. die F\u00f6rderung der Rettung aus Lebensgefahr,\r\n5. die F\u00f6rderung des Katastrophen- und Zivilschutzes sowie der Unfallverh\u00fctung,\r\n6. die F\u00f6rderung internationaler Gesinnung,\r\n7. die F\u00f6rderung der Jugend- und Altenhilfe,\r\n8. die F\u00f6rderung der Erziehung sowie der Volks- und Berufsbildung sowie\r\n9. die F\u00f6rderung des b\u00fcrgerschaftlichen Engagements.\r\n\r\nDer ASB-Bundesverband ist auf den o.g. Gebieten t\u00e4tig und hat sich zum Ziel gesetzt, durch direkte Anschreiben, Positionspapieren, Stellungnahme und Gutachten unmittelbar mit Politikern, insbesondere Mitgliedern des Deutschen Bundestags, Regierungsmitgliedern und Vertretern von Bundesministerien zu den genannten Themen ins Gespr\u00e4ch zu kommen, um die Situation der von den genannten Themen Betroffenen zu verbessern. Zudem werden Austausch- und Informationsveranstaltungen organisiert, zu denen regelm\u00e4\u00dfig auch Mitglieder des Deutschen Bundestages eingeladen werden, um diese von unseren Positionen zu \u00fcberzeugen. Dar\u00fcber hinaus werden auch Stellungnahmen und Gutachten zu konkreten Regelungsvorhaben erarbeitet und \u00fcbermittelt.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_RPI_INTEGRATION",
+                "de": "Integration",
+                "en": "Integration"
+            },
+            {
+                "code": "FOI_SP_CHILDREN",
+                "de": "Kinder- und Jugendpolitik",
+                "en": "Child and youth policy"
+            },
+            {
+                "code": "FOI_SOCIAL_SECURITY",
+                "de": "Soziale Sicherung",
+                "en": "Social security"
+            },
+            {
+                "code": "FOI_SP_DISABILITY",
+                "de": "Rechte von Menschen mit Behinderung",
+                "en": "Rights of people with disabilities"
+            },
+            {
+                "code": "FOI_SS_HEALTH",
+                "de": "Krankenversicherung",
+                "en": "Health insurance"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_SS_LONGTERM",
+                "de": "Pflegeversicherung",
+                "en": "Long term care"
+            },
+            {
+                "code": "FOI_SP_OTHER",
+                "de": "Sonstiges im Bereich \"Gesellschaftspolitik und soziale Gruppen\"",
+                "en": "Other in the field of \"Social politics and social groups\""
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_HEALTH_CARE",
+                "de": "Pflege",
+                "en": "Health care"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_SP_ELDERLY",
+                "de": "Seniorenpolitik",
+                "en": "Elderly/senior citizens policy"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/e1/dc/320355/Jahresbericht-2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 2720001,
+            "to": 2730000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.25,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 20001,
+            "to": 30000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "K\u00f6ln",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Arbeiter-Samariter-Bund",
+            "nationalAdditional2": "Deutschland e.V.",
+            "street": "S\u00fclzburgstra\u00dfe",
+            "streetNumber": "140",
+            "type": "NATIONAL",
+            "zipCode": "50937"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "h.plaum@asb.de",
+            "nationalAdditional1": "Arbeiter-Samariter-Bund",
+            "nationalAdditional2": "Deutschland e.V.",
+            "phoneNumber": "+4903023257860",
+            "street": "Alte Jakobstra\u00dfe",
+            "streetNumber": "79-80",
+            "type": "NATIONAL",
+            "zipCode": "10179"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "m.kreutz@asb.de"
+                },
+                {
+                    "email": "b.knop@asb.de"
+                }
+            ],
+            "phoneNumber": "+4920147605308",
+            "websites": [
+                {
+                    "website": "www.asb.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Knut",
+                "lastName": "Fleckenstein",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Uwe Martin",
+                "lastName": "Fichtm\u00fcller",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Edith",
+                "lastName": "Wallmeier",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "LL.M.",
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Marcus",
+                "lastName": "Kreutz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Gabriele",
+                "lastName": "Mergener",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Schnatz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Mazdak",
+                "lastName": "Ghoreishi",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Carsten",
+                "lastName": "Stork",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Tinja",
+                "lastName": "Kirstein",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Sandra",
+                "lastName": "Haske",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Knut",
+                "function": "Bundesvorsitzender",
+                "lastName": "Fleckenstein",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Uwe",
+                "function": "stv. Bundesvorsitzender",
+                "lastName": "Borchmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": false,
+                "firstName": "Christine",
+                "function": "stv. Bundesvorsitzende",
+                "lastName": "Theiss",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Matthias",
+                "function": "Bundesarzt",
+                "lastName": "Vonnemann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Professor Dr.",
+                "entrustedPerson": false,
+                "firstName": "Michael",
+                "function": "Bundesvorstandsmitglied",
+                "lastName": "Stricker",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Kristin",
+                "function": "Bundesvorstandsmitglied",
+                "lastName": "Schuhmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Ludwig",
+                "function": "Bundesvorstandsmitglied",
+                "lastName": "Fr\u00f6lich",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Sabine",
+                "function": "Bundesvorstandsmitglied",
+                "lastName": "W\u00f6lfle",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Benjamin",
+                "function": "Bundesvorstandsmitglied",
+                "lastName": "Schuldt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Anna",
+                "function": "Bundesvorstandsmitglied",
+                "lastName": "Witt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Uwe Martin",
+                "function": "Hauptgesch\u00e4ftsf\u00fchrer",
+                "lastName": "Fichtm\u00fcller",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Edith",
+                "function": "Gesch\u00e4ftsf\u00fchrerin Einsatzdienste und Bildung",
+                "lastName": "Wallmeier",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "LL.M.",
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Marcus",
+                "function": "Gesch\u00e4ftsf\u00fchrer Recht und Compliance",
+                "lastName": "Kreutz",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-01",
+            "naturalPersons": 1551525,
+            "organizations": 0,
+            "totalCount": 1551525
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "VENRO"
+            },
+            {
+                "membership": "Aktion Deutschland Hilft"
+            },
+            {
+                "membership": "Deutscher Spendenrat"
+            },
+            {
+                "membership": "BAG Bildung und Erziehung in der Kindheit"
+            },
+            {
+                "membership": "Klima Allianz"
+            },
+            {
+                "membership": "VOICE"
+            },
+            {
+                "membership": "Bundesverband Hausnotruf"
+            },
+            {
+                "membership": "Samaritan International e.V."
+            },
+            {
+                "membership": "Deutscher Rat der Wiederbelebung"
+            },
+            {
+                "membership": "IDA e.V."
+            },
+            {
+                "membership": "IMEW"
+            },
+            {
+                "membership": "Deutscher Verein e.V."
+            },
+            {
+                "membership": "Netzwerk EBD"
+            },
+            {
+                "membership": "Arbeitskreis Lernen und Helfen in \u00dcbersee"
+            },
+            {
+                "membership": "German Toilet Organization"
+            },
+            {
+                "membership": "Der Parit\u00e4tische Gesamtverband"
+            },
+            {
+                "membership": "Deutscher Bundesjugendring"
+            },
+            {
+                "membership": "Parit\u00e4tisches Bildungswerk Bundesverband"
+            },
+            {
+                "membership": "DJH Hauptverband"
+            },
+            {
+                "membership": "Ev. Freiwilligendienst f\u00fcr junge Menschen"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Arbeiter-Samariter-Bund Deutschland e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 92200001,
+            "to": 92210000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Zuwendungen f\u00fcr Projekte im Bereich Auslandshilfe",
+                "location": "Bonn",
+                "name": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit",
+                "publicAllowanceEuro": {
+                    "from": 9920001,
+                    "to": 9930000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Zuwendungen f\u00fcr Projekte im Bereich der Auslandshilfe",
+                "location": "Berlin",
+                "name": "Ausw\u00e4rtiges Amt",
+                "publicAllowanceEuro": {
+                    "from": 13500001,
+                    "to": 13510000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Zuwendung f\u00fcr die Durchf\u00fchrung von Seminaren im Rahmen des Bundesfreiwilligendienstes",
+                "location": "K\u00f6ln",
+                "name": "Bundesamt f\u00fcr Familie und zivilgesellschaftliche Aufgaben",
+                "publicAllowanceEuro": {
+                    "from": 3490001,
+                    "to": 3500000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "1. Mobile Betreuung 5000\r\n\r\n2. Erste Hilfe mit Selbstschutzinhalten",
+                "location": "Bonn",
+                "name": "Bundesamt f\u00fcr Bev\u00f6lkerungsschutz und Katastrophenhilfe",
+                "publicAllowanceEuro": {
+                    "from": 1750001,
+                    "to": 1760000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Kinder- und Jugendplan des Bundes, Handlungsfeld \"Kinder- und Jugendarbeit und au\u00dferschulische Jugendausbildung\"",
+                "location": "Berlin",
+                "name": "Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend",
+                "publicAllowanceEuro": {
+                    "from": 160001,
+                    "to": 170000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R004240/39817",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-27T16:42:28.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/53/20/320360/Lobbyregister-Detailansicht-R004240-2024-06-27_16-42-28.pdf",
+        "validFromDate": "2024-06-27T16:42:28.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 39817,
+    "registerNumber": "R004240",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Verbesserung der Situation der Freiwilligen",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_SOCIAL_SECURITY",
+                        "de": "Soziale Sicherung",
+                        "en": "Social security"
+                    },
+                    {
+                        "code": "FOI_SS_LONGTERM",
+                        "de": "Pflegeversicherung",
+                        "en": "Long term care"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_ELDERLY",
+                        "de": "Seniorenpolitik",
+                        "en": "Elderly/senior citizens policy"
+                    },
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    },
+                    {
+                        "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                        "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                        "en": "Migration, refugee policy and integration"
+                    },
+                    {
+                        "code": "FOI_RPI_INTEGRATION",
+                        "de": "Integration",
+                        "en": "Integration"
+                    },
+                    {
+                        "code": "FOI_SS_HEALTH",
+                        "de": "Krankenversicherung",
+                        "en": "Health insurance"
+                    },
+                    {
+                        "code": "FOI_SP_CHILDREN",
+                        "de": "Kinder- und Jugendpolitik",
+                        "en": "Child and youth policy"
+                    },
+                    {
+                        "code": "FOI_HEALTH_CARE",
+                        "de": "Pflege",
+                        "en": "Health care"
+                    },
+                    {
+                        "code": "FOI_WORK",
+                        "de": "Arbeit und Besch\u00e4ftigung",
+                        "en": "Work and employment"
+                    },
+                    {
+                        "code": "FOI_WORK_RIGHT",
+                        "de": "Arbeitsrecht/Arbeitsbedingungen",
+                        "en": "Work right"
+                    },
+                    {
+                        "code": "FOI_SP_DISABILITY",
+                        "de": "Rechte von Menschen mit Behinderung",
+                        "en": "Rights of people with disabilities"
+                    },
+                    {
+                        "code": "FOI_HEALTH_PROMOTION",
+                        "de": "Gesundheitsf\u00f6rderung",
+                        "en": "Health promotion"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/098/2009874.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMFSFJ",
+                                "title": "Bundesministerium f\u00fcr Familie, Senioren, Frauen und Jugend",
+                                "url": "https://www.bmfsfj.de/"
+                            }
+                        ],
+                        "printingNumber": "20/9874",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-erweiterung-der-teilzeitm%C3%B6glichkeit-in-den-jugendfreiwilligendiensten-sowie-im/305386",
+                        "title": "Entwurf eines Gesetzes zur Erweiterung der Teilzeitm\u00f6glichkeiten in den Jugendfreiwilligendiensten sowie im Bundesfreiwilligendienst f\u00fcr Personen vor Vollendung des 27. Lebensjahres und zur Umsetzung weiterer \u00c4nderungen (Freiwilligen-Teilzeitgesetz)"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0007856",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/16/a9/320356/Stellungnahme-Gutachten-SG2406270206.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-01"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0007856",
+                        "regulatoryProjectTitle": "Verbesserung der Situation der Personenkreise, die vom Satzungszweck des ASB erfasst werden",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Der ASB hat sich inhaltlich der Stellungnahme der BAG angeschlossen."
+                        }
+                    }
+                ],
+                "title": "Verbesserung der Situation der Personenkreise, die vom Satzungszweck des ASB erfasst werden"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Allgemeine Positionierung zu dem Gesetzesvorhaben zwecks Sensibilisierung des Gesetzgebers, um die Situation der Leistungserbringer im Rettungsdienst im Blick zu haben",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/N/NotfallGesetz_RefE.pdf",
+                            "draftBillProjectUrl": "https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/notfallgesetz.html",
+                            "shortTitle": "BMG",
+                            "title": "Bundesministerium f\u00fcr Gesundheit",
+                            "url": "https://www.bundesgesundheitsministerium.de/"
+                        }
+                    ],
+                    "publicationDate": "2024-06-07",
+                    "title": "Gesetz zur Reform der Notfallversorgung (NotfallG)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_HEALTH",
+                        "de": "Gesundheit",
+                        "en": "Health"
+                    },
+                    {
+                        "code": "FOI_HEALTH_SUPPLY",
+                        "de": "Gesundheitsversorgung",
+                        "en": "Health supply"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007857",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/de/bc/320358/Stellungnahme-Gutachten-SG2406270207.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-26"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0007857",
+                        "regulatoryProjectTitle": "Allgemeine Positionierung zu dem Gesetzesvorhaben",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Stellungnahme \r\ndes Arbeiter-Samariter-Bund Deutschland e.V. (ASB) zum Entwurf eines Gesetzes zur Reform der Notfallversorgung vom 03.06.2024 des Bundesgesundheitsministeriums \r\nDer Arbeiter-Samariter-Bund Deutschland e.V. (ASB) begr\u00fc\u00dft ausdr\u00fccklich die dem Referentenentwurf zugrundeliegende Grundhaltung, dass jedes bekundete und subjektiv empfundene Hilfeersuchen als solches anerkannt und ernst genommen wird. Dies entspricht in vollem Umfang den Leitlinien des ASB. \r\nDar\u00fcber hinaus unterst\u00fctzt der ASB den darauf basierenden Anspruch, dass nicht die B\u00fcrger innen und B\u00fcrger das richtige Versorgungsniveau f\u00fcr ihren Notfall suchen m\u00fcssen, sondern das Gesundheitssystem die Aufgabe hat, alle eingehenden Hilfeersuchen in die richtige Versorgungsebene zu lenken (vgl. Einleitung zum Referentenentwurf). \r\nInsgesamt zeichnet der Referentenentwurf durch die sehr detaillierte Konkretisierung der k\u00fcnftigen Aufgaben der Kassen\u00e4rztlichen Vereinigungen das Bild einer Notfallversorgung, bei der viele bisherige Schwierigkeiten (aufsuchende Versorgung, direkte Versorgung mit Medikamenten in Notfallpraxen, Wegfall von bestimmten \u00dcberweisungen, Nutzung von Untersuchungsmethoden der Krankenh\u00e4user ohne station\u00e4re Aufnahme, Feedbackschleifen, Qualit\u00e4tsmanagement, Schiedswesen etc.) detailliert geregelt und ausger\u00e4umt werden k\u00f6nnten. \r\nEin rechtssicheres standardisiertes Ersteinsch\u00e4tzungsinstrument stellt aus Sicht des ASB das Kernst\u00fcck einer optimierten Lenkung von Hilfeersuchen in verschiedene Versorgungsebenen dar. Es w\u00e4re ein herausragender Fortschritt, wenn m\u00f6glichst viele Tr\u00e4ger von Rettungsleitstellen eine derartige Kooperation in einem gemeinsamen Gesundheitsleitsystem anstreben und umsetzen w\u00fcrden. Der ASB bringt bei der Erstellung gemeinsamer Ersteinsch\u00e4tzungsinstrumente seine Expertise als wesentlicher Leistungserbringer im Rettungsdienst gerne ein. Denn: \u00fcber genau dieses Instrument kann mittelfristig eine Entlastung der Strukturen im Rettungswesen herbeigef\u00fchrt werden.\r\nDas beschriebene umfangreiche Zusammenwirken von Kassen\u00e4rztlichen Vereinigungen, Krankenh\u00e4usern und Rettungsdienst k\u00f6nnte zu einer optimierten Lenkung von Patientinnen und Patienten und damit u. a. zu einer Entlastung des Rettungsdienstes f\u00fchren, wenn die Kassen\u00e4rztlichen Vereinigungen die beschriebenen Aufgaben vollumf\u00e4nglich erbringen k\u00f6nnen.\r\nNeben den Kassen\u00e4rztlichen Vereinigungen und den Krankenh\u00e4usern stellt der bodengebundene Rettungsdienst einen wesentlichen Teil der pr\u00e4klinischen Notfallversorgung dar. Seit Jahren wirken vielf\u00e4ltige gesellschaftliche Ver\u00e4nderungen auf den Rettungsdienst ein, die zu einer fl\u00e4chendeckenden \u00dcberlastung und zunehmender Ineffektivit\u00e4t f\u00fchren. Die \u00dcberlastung der Notfallrettung in Deutschland ist ein Problem von nationaler Tragweite. \r\nDer ASB weist an dieser Stelle ausdr\u00fccklich darauf hin, dass die anhaltende \u00dcberlastung des Rettungsdienstes und die daraus f\u00fcr den Gesundheitsbereich folgenden Kostensteigerungen nicht origin\u00e4re Folge einer Fehlorganisation im Rettungsdienst selbst sind. Sie sind vielmehr die Konsequenz ungel\u00f6ster Herausforderungen bei der Versorgung bzw. Steuerung von Hilfeersuchen im haus\u00e4rztlichen und klinischen Bereich. In einer dringend notwendigen bundesweiten Reform des Rettungsdienstes und der Konkretisierung weiterer essentieller Dienste auf verschiedenen Versorgungsebenen d\u00fcrfen aus Sicht des ASB insbesondere die folgenden zehn Problemfelder nicht unbeachtet bleiben und bed\u00fcrfen einer Neustrukturierung:\r\n1.\tBundesweite Reform des Rettungsdienstes unverzichtbar \r\nDie bisher in der deutschen Notfallversorgung verankerten Sektoren der Krankenh\u00e4user mit Notaufnahmen, der Kassen\u00e4rztliche Vereinigung mit ihrem Auftrag der vertrags\u00e4rztlichen Notfallversorgung und der Rettungsdienst werden leider immer noch getrennt betrachtet, beurteilt, gestaltet und meist erfolglos optimiert. Dies muss sich, nicht zuletzt aufgrund der allgemein un\u00fcbersehbaren \u00dcberlastung der Notfallversorgung insgesamt, dringend \u00e4ndern. Bund, L\u00e4nder und Kommunen m\u00fcssen das Gesamtsystem der Versorgung von Hilfeersuchen in den Blick nehmen und entsprechend aufeinander abgestimmte Reformen ansto\u00dfen. Der Rettungsdienst kann langfristig nicht ohne eine Betrachtung der Kliniklandschaft oder der haus\u00e4rztlichen Versorgung sinnvoll reformiert werden. Vielmehr muss das Gesamtsystem in den Blick genommen und interessensneutral analysiert werden.\r\n2.\tVerbesserter Zugang zur Notfallversorgung f\u00fcr alle \u2013 eine Anlaufstelle f\u00fcr alle\r\nAuch das in der vierten Empfehlung der Regierungskommission 2023 formulierte Ziel \u201eDie Gesamtbev\u00f6lkerung soll einen verbesserten Zugang zur Notfallversorgung erhalten, unabh\u00e4ngig von Gesundheitskompetenz, Alter, Geschlecht, Migrationshintergrund und Sozialstatus\u201c sollte ohne Einschr\u00e4nkung verfolgt werden. Dies ist aus unserer Sicht m\u00f6glich, wenn ein \u201eSingle Point of Contact\u201c als Ideall\u00f6sung f\u00fcr alle gesundheitlichen Hilfeersuchen geschaffen wird.\r\n3.\tSektoren\u00fcbergreifende digitale rechtssichere Vernetzung\r\nDazu ist aus Sicht des ASB insbesondere eine, wie im vorliegenden Referentenentwurf beschrieben, medienbruchfreie Vernetzung aller Akteure der Notfallversorgung (vgl. L\u00f6sungsansatz im Referentenentwurf \u2013 Krankenh\u00e4user mit Notaufnahmen, Notfallpraxen, aufsuchende Dienste und Rettungsdienst, \u00fcber sektorale Grenzen hinweg) unverzichtbar. F\u00fcr die Notfallrettung k\u00f6nnte dies u. a. zu zeitlichen und qualitativen Verbesserungen der Auswahl einer anzufahrenden Klinik und dortigen \u00dcbergabe von         Patient:innen f\u00fchren. Dar\u00fcber hinaus w\u00fcrde eine derartige medienbruchfreie Vernetzung eine Auswertung der Eins\u00e4tze auch im Hinblick auf getroffene Entscheidungen, Diagnostik etc. erm\u00f6glichen und damit die Arbeit des Personals in der Notfallrettung langfristig verbessern. Auch eine elektronische Behandlungsakte k\u00f6nnte die h\u00e4ufig notwendige ad-hoc-Diagnostik der Notfallrettung durch die Kenntnis von Vorerkrankungen etc. deutlich erleichtern.\r\n4.\tDifferenziertere Angebote zur qualifizierten Versorgung eingehender Hilfeersuchen auf mehreren Ebenen\r\nOb \u00fcber einen SPOC mit einer einheitlichen Rufnummer oder \u00fcber die Vernetzung von Akutleitstellen und Rettungsleitstellen, eine qualifizierte Steuerung von hilfesuchenden Patient:innen in angemessene Versorgungsebenen und -angebote erfordert eine deutliche Differenzierung qualifizierter Dienste auf verschiedenen Ebenen. Die im vorliegenden Referentenentwurf konkretisierten Aufgaben der Kassen\u00e4rztlichen Vereinigungen k\u00f6nnten ein erster Schritt in die richtige Richtung sein, doch weitere differenzierende Ausgestaltungen m\u00fcssen aus Sicht des ASB folgen. So ist es k\u00fcnftig unverzichtbar neben dem Rettungsdienst, bestehend aus Notfallrettung und qualifiziertem Krankentransport, insbesondere niedrigschwellige Fahr- und Transportangebote bei einer Reform der Notfallrettung zu ber\u00fccksichtigen. Derartige Fahrdienste geh\u00f6ren nicht zur Notfallrettung und -versorgung, aber sie wirken auf das Gesamtsystem. Derzeit belasten fehlende niedrigschwellige Fahr- und Transportangebote f\u00fcr verschiedener Zielgruppen den Rettungsdienst nachweislich. Mit einer fl\u00e4chendeckenden kostendeckenden Wiedereinf\u00fchrung k\u00f6nnte die derzeitige \u201eAuffangfunktion\u201c des Rettungsdienstes in diesem Bereich deutlich reduziert bzw. eliminiert werden.\r\nDer ASB hat, wie auch andere Leistungserbringer, sein einst vielf\u00e4ltiges Angebot an Fahrdiensten zur kosteng\u00fcnstigen Bef\u00f6rderung von Patient:innen mit Mobilit\u00e4tseinschr\u00e4nkungen, Dialyse-patienten und -patientinnen, Fahrdienste f\u00fcr Menschen mit Behinderungen, Entlassungsfahrten aus der Klinik etc. aufgrund nicht wirtschaftlicher Verg\u00fctungspauschalen, mit folgenschweren Auswirkungen f\u00fcr den Rettungsdienst, weitestgehend eingestellt. Der ASB als Hilfsorganisation und Wohlfahrtsverband vereint in diesem Bereich viele Kompetenzen und F\u00e4higkeiten und ist zu diversen Angeboten der akuten Gesundheitsversorgung f\u00e4hig und bereit. \r\nUnabh\u00e4ngig von differenzierten Versorgungsangeboten auf verschiedenen Ebenen, ist eine st\u00e4rkere Gewichtung und kostendeckende Finanzierung der Vorhaltezeiten, wie von der Regierungskommission in der neunten Stellungnahme 2023 gefordert, unverzichtbar. Diese sind unverzichtbar und m\u00fcssen, wie gefordert, unabh\u00e4ngig von den tats\u00e4chlichen Eins\u00e4tzen kostendeckend finanziert werden.\r\n5.\tSektoren\u00fcbergreifende Auswirkungen der ver\u00e4nderten Kliniklandschaft analysieren\r\nDie seit Jahren fortschreitende Zahl an Klinikschlie\u00dfungen und -spezialisierungen stellt den Rettungsdienst vor die Herausforderung der \u00dcberbr\u00fcckung immer weiterer Wege und immer l\u00e4ngerer Fahrzeiten bis zur Erreichung einer qualifizierten weiterversorgenden Klinik. In der Konsequenz k\u00f6nnen wirkliche Notfallpatient:innen immer h\u00e4ufiger weder zeitnah noch qualifiziert versorgt werden und Hilfsfristen bzw. die \u201eGolden Hour\u201c zur Versorgung von Trauma-Patient:innen k\u00f6nnen immer weniger eingehalten werden. Dar\u00fcber hinaus sind das Rettungsdienstpersonal sowie die hochqualifizierten Fahrzeuge immer l\u00e4nger pro Einsatz gebunden und k\u00f6nnen in dieser Zeit keine weiteren Anforderungen bedienen.\r\n6.\tSubsidiarit\u00e4tsprinzip des Personals und Vor-Ort-Behandlung mit Rechtssicherheit\r\nDas Personal im Rettungsdienst ist abgestuft qualifiziert und mit unterschiedlichen Kompetenzen ausgestattet: Neben Not\u00e4rzt:innen sind in der Notfallrettung insbesondere Notfallsanit\u00e4ter:innen mit einer dreij\u00e4hrigen Berufsausbildung und Rettungssanit\u00e4ter:innen mit einer 520 Stunden-Ausbildung im Einsatz. Eine k\u00fcnftige Neustrukturierung der Notfallversorgung sollte die verschiedenen Berufsgruppen mit einheitlichen Aufgaben-, Kompetenz- und Befugnis-Katalogen versehen, um deren Einsatz dem Subsidiarit\u00e4tsprinzip entsprechend fl\u00e4chendeckend zu optimieren. Gleichzeitig ist k\u00fcnftig die M\u00f6glichkeit von Behandlungen/Hilfen vor Ort, nach festgelegten Regeln/Kriterien unverzichtbar. Dies vermeidet unn\u00f6tige Strapazen f\u00fcr Patient:innen und reduziert die zeitliche Bindung der Rettungsmittel sowie entstehende Betriebskosten des Transports mit anschlie\u00dfender Desinfektion des Fahrzeugs etc.\r\nIn diesem Zusammenhang begr\u00fc\u00dft der ASB die empfohlene Generaldelegation f\u00fcr bestimmte Medikamente und invasive Ma\u00dfnahmen. Damit einhergehen muss zwingend eine haftungsrechtliche Sicherheit f\u00fcr die Mitarbeitenden in der Notfallversorgung. Graubereiche, wie der \u201erechtfertigende Notstand\u201c, d\u00fcrfen gar nicht erst entstehen und geduldet werden.\r\n7.\tRechtliche Verankerung des Rettungsdienstes als Teil der Notfallversorgung und der Gefahrenabwehr\r\nBisher ist der Rettungsdienst (Notfallrettung und qualifizierter Krankentransport) haupts\u00e4chlich in der Gefahrenabwehr verortet. Der klare Schwerpunkt rettungsdienstlicher T\u00e4tigkeiten im Alltag liegt aber seit langem im gesundheitlichen Bereich und der Rettungsdienst ist schon lange keine reine Transport-leistung mehr, deshalb m\u00fcsste der Rettungsdienst als Element der pr\u00e4klinischen Versorgung in das SGB V aufgenommen werden.  Damit muss der Rettungsdienst nicht zwingend Patient:innen ins Krankenhaus transportieren, um seinen Einsatz abrechnen zu k\u00f6nnen. Gleichzeitig hat der Rettungsdienst nicht nur die Aufgabe der qualifizierten Versorgung von Notfallpatient:innen im Alltag, sondern er ist auch fester Bestandteil der Bedarfs- und Einsatzplanungen der allgemeinen Gefahrenabwehr, des Katastrophenschutzes und ggf. sogar des Zivilschutzes. \r\n8.\tAufwuchsf\u00e4higkeit in Gro\u00dfschadenslagen sicherstellen\r\nDiese enge Verzahnung des Rettungsdienstes mit dem Katastrophen- und Zivilschutz muss auch bei einer Reform des Rettungsdienstes sichergestellt werden, denn der Rettungsdienst ist sowohl ein wesentlicher Leistungsbereich der Gesundheitsver\u00acsorgung als auch ein unverzichtbarer Bestandteil der \u00f6ffentlichen Daseinsvorsorge und Gefahrenabwehr. Es muss eine verl\u00e4ssliche Aufwuchsf\u00e4higkeit der Versorgungskapazit\u00e4ten bei gr\u00f6\u00dferen Schadenslagen bestehen. Dazu m\u00fcssen Bedarfsplanungen der Vorhaltung im Rettungsdienst zwingend die medizinische Versorgung im Alltag einerseits und die Bew\u00e4ltigung von Gro\u00dfschadenslagen mit einem Massenanfall von Verletzten etc. andererseits sicherstellen. Dies gilt insbesondere auch in nationalen Krisenlagen. Ein nahtloser \u00dcbergang von der medizinischen Regelversorgung zur Versorgung von Gro\u00dfschadensereignissen bis hin zum Zivilschutz muss gew\u00e4hrleitet werden.\r\n9.\tFinanzielle Beteiligung Privater Krankenkassen\r\nSchlussendlich unterst\u00fctzt der ASB nachdr\u00fccklich die ausdr\u00fccklich gew\u00fcnschte Beteiligung der privaten Krankenkassen an der Finanzierung der Notfallversorgung (SGB V \u00a7 105 Absatz 1b etc.). Als Solidarleistung f\u00fcr alle Menschen, die sich in der Bundesrepublik Deutschland aufhalten, betrachten wir eine finanzielle Beteiligung als l\u00e4ngst \u00fcberf\u00e4llig.  \r\n10.\tLeistungserbringer an Konzeptionen beteiligen\r\nGrunds\u00e4tzlich ist es dem ASB ein Anliegen, dass die Notfallversorgung in Deutschland endlich ganzheitlich, sektor- und ressort\u00fcbergreifend gedacht und gestaltet wird. Dabei w\u00e4re es zielf\u00fchrend und hilfreich, wenn die gro\u00dfen Leistungserbringer des Rettungsdienstes an der laufenden Erarbeitung von Reformvorschl\u00e4gen der Regierungskommission beteiligt w\u00fcrden. Dementsprechend ist der ASB mit seinen vielf\u00e4ltigen Kompetenzen, F\u00e4higkeiten und Erfahrungen gerne zu einer Mitwirkung und Unterst\u00fctzung der Regierungskommission bereit und begr\u00fc\u00dft die im Entwurf enthaltende Empfehlung zur Erweiterung der Landesaussch\u00fcsse um den Rettungsdienst ausdr\u00fccklich (SGB V \u00a7 90 Absatz (4a)). \r\nEine Zust\u00e4ndigkeit des Gemeinsamen Bundesausschusses wird kritisch betrachtet, da hier bisher keine rettungsdienstliche Kompetenz verankert ist und landesrechtliche Aufgaben und Zust\u00e4ndigkeiten sowie Tr\u00e4gerhoheiten betroffen sind.\r\nEs ist Sicht nicht nachvollziehbar, dass die im Rettungsdienst vorhandene Kompetenz bisher h\u00e4ufig nicht systemoptimierend in politische Prozesse eingebunden wird. Nicht nur bei den im Referentenentwurf genannten Aspekten der Standortbestimmung von Integrierten Notfallzentren etc. kann der Rettungsdienst als Leistungserbringer ma\u00dfgeblich zur Optimierung der sektoren\u00fcbergreifenden Notfallversorgung beitragen.\r\n\r\nArbeiter-Samariter-Bund Deutschland e.V.\r\nFachbereich Bev\u00f6lkerungsschutz \r\n(bevoelkerungsschutz@asb.de)\r\nS\u00fclzburgstra\u00dfe 140\r\n50937 K\u00f6ln\r\n"
+                        }
+                    }
+                ],
+                "title": "Allgemeine Positionierung zu dem Gesetzesvorhaben"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/16/a9/320356/Stellungnahme-Gutachten-SG2406270206.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            }
+                        ],
+                        "sendingDate": "2024-03-01"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0007856",
+                "regulatoryProjectTitle": "Verbesserung der Situation der Personenkreise, die vom Satzungszweck des ASB erfasst werden",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Der ASB hat sich inhaltlich der Stellungnahme der BAG angeschlossen."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/de/bc/320358/Stellungnahme-Gutachten-SG2406270207.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            }
+                        ],
+                        "sendingDate": "2024-06-26"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0007857",
+                "regulatoryProjectTitle": "Allgemeine Positionierung zu dem Gesetzesvorhaben",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Stellungnahme \r\ndes Arbeiter-Samariter-Bund Deutschland e.V. (ASB) zum Entwurf eines Gesetzes zur Reform der Notfallversorgung vom 03.06.2024 des Bundesgesundheitsministeriums \r\nDer Arbeiter-Samariter-Bund Deutschland e.V. (ASB) begr\u00fc\u00dft ausdr\u00fccklich die dem Referentenentwurf zugrundeliegende Grundhaltung, dass jedes bekundete und subjektiv empfundene Hilfeersuchen als solches anerkannt und ernst genommen wird. Dies entspricht in vollem Umfang den Leitlinien des ASB. \r\nDar\u00fcber hinaus unterst\u00fctzt der ASB den darauf basierenden Anspruch, dass nicht die B\u00fcrger innen und B\u00fcrger das richtige Versorgungsniveau f\u00fcr ihren Notfall suchen m\u00fcssen, sondern das Gesundheitssystem die Aufgabe hat, alle eingehenden Hilfeersuchen in die richtige Versorgungsebene zu lenken (vgl. Einleitung zum Referentenentwurf). \r\nInsgesamt zeichnet der Referentenentwurf durch die sehr detaillierte Konkretisierung der k\u00fcnftigen Aufgaben der Kassen\u00e4rztlichen Vereinigungen das Bild einer Notfallversorgung, bei der viele bisherige Schwierigkeiten (aufsuchende Versorgung, direkte Versorgung mit Medikamenten in Notfallpraxen, Wegfall von bestimmten \u00dcberweisungen, Nutzung von Untersuchungsmethoden der Krankenh\u00e4user ohne station\u00e4re Aufnahme, Feedbackschleifen, Qualit\u00e4tsmanagement, Schiedswesen etc.) detailliert geregelt und ausger\u00e4umt werden k\u00f6nnten. \r\nEin rechtssicheres standardisiertes Ersteinsch\u00e4tzungsinstrument stellt aus Sicht des ASB das Kernst\u00fcck einer optimierten Lenkung von Hilfeersuchen in verschiedene Versorgungsebenen dar. Es w\u00e4re ein herausragender Fortschritt, wenn m\u00f6glichst viele Tr\u00e4ger von Rettungsleitstellen eine derartige Kooperation in einem gemeinsamen Gesundheitsleitsystem anstreben und umsetzen w\u00fcrden. Der ASB bringt bei der Erstellung gemeinsamer Ersteinsch\u00e4tzungsinstrumente seine Expertise als wesentlicher Leistungserbringer im Rettungsdienst gerne ein. Denn: \u00fcber genau dieses Instrument kann mittelfristig eine Entlastung der Strukturen im Rettungswesen herbeigef\u00fchrt werden.\r\nDas beschriebene umfangreiche Zusammenwirken von Kassen\u00e4rztlichen Vereinigungen, Krankenh\u00e4usern und Rettungsdienst k\u00f6nnte zu einer optimierten Lenkung von Patientinnen und Patienten und damit u. a. zu einer Entlastung des Rettungsdienstes f\u00fchren, wenn die Kassen\u00e4rztlichen Vereinigungen die beschriebenen Aufgaben vollumf\u00e4nglich erbringen k\u00f6nnen.\r\nNeben den Kassen\u00e4rztlichen Vereinigungen und den Krankenh\u00e4usern stellt der bodengebundene Rettungsdienst einen wesentlichen Teil der pr\u00e4klinischen Notfallversorgung dar. Seit Jahren wirken vielf\u00e4ltige gesellschaftliche Ver\u00e4nderungen auf den Rettungsdienst ein, die zu einer fl\u00e4chendeckenden \u00dcberlastung und zunehmender Ineffektivit\u00e4t f\u00fchren. Die \u00dcberlastung der Notfallrettung in Deutschland ist ein Problem von nationaler Tragweite. \r\nDer ASB weist an dieser Stelle ausdr\u00fccklich darauf hin, dass die anhaltende \u00dcberlastung des Rettungsdienstes und die daraus f\u00fcr den Gesundheitsbereich folgenden Kostensteigerungen nicht origin\u00e4re Folge einer Fehlorganisation im Rettungsdienst selbst sind. Sie sind vielmehr die Konsequenz ungel\u00f6ster Herausforderungen bei der Versorgung bzw. Steuerung von Hilfeersuchen im haus\u00e4rztlichen und klinischen Bereich. In einer dringend notwendigen bundesweiten Reform des Rettungsdienstes und der Konkretisierung weiterer essentieller Dienste auf verschiedenen Versorgungsebenen d\u00fcrfen aus Sicht des ASB insbesondere die folgenden zehn Problemfelder nicht unbeachtet bleiben und bed\u00fcrfen einer Neustrukturierung:\r\n1.\tBundesweite Reform des Rettungsdienstes unverzichtbar \r\nDie bisher in der deutschen Notfallversorgung verankerten Sektoren der Krankenh\u00e4user mit Notaufnahmen, der Kassen\u00e4rztliche Vereinigung mit ihrem Auftrag der vertrags\u00e4rztlichen Notfallversorgung und der Rettungsdienst werden leider immer noch getrennt betrachtet, beurteilt, gestaltet und meist erfolglos optimiert. Dies muss sich, nicht zuletzt aufgrund der allgemein un\u00fcbersehbaren \u00dcberlastung der Notfallversorgung insgesamt, dringend \u00e4ndern. Bund, L\u00e4nder und Kommunen m\u00fcssen das Gesamtsystem der Versorgung von Hilfeersuchen in den Blick nehmen und entsprechend aufeinander abgestimmte Reformen ansto\u00dfen. Der Rettungsdienst kann langfristig nicht ohne eine Betrachtung der Kliniklandschaft oder der haus\u00e4rztlichen Versorgung sinnvoll reformiert werden. Vielmehr muss das Gesamtsystem in den Blick genommen und interessensneutral analysiert werden.\r\n2.\tVerbesserter Zugang zur Notfallversorgung f\u00fcr alle \u2013 eine Anlaufstelle f\u00fcr alle\r\nAuch das in der vierten Empfehlung der Regierungskommission 2023 formulierte Ziel \u201eDie Gesamtbev\u00f6lkerung soll einen verbesserten Zugang zur Notfallversorgung erhalten, unabh\u00e4ngig von Gesundheitskompetenz, Alter, Geschlecht, Migrationshintergrund und Sozialstatus\u201c sollte ohne Einschr\u00e4nkung verfolgt werden. Dies ist aus unserer Sicht m\u00f6glich, wenn ein \u201eSingle Point of Contact\u201c als Ideall\u00f6sung f\u00fcr alle gesundheitlichen Hilfeersuchen geschaffen wird.\r\n3.\tSektoren\u00fcbergreifende digitale rechtssichere Vernetzung\r\nDazu ist aus Sicht des ASB insbesondere eine, wie im vorliegenden Referentenentwurf beschrieben, medienbruchfreie Vernetzung aller Akteure der Notfallversorgung (vgl. L\u00f6sungsansatz im Referentenentwurf \u2013 Krankenh\u00e4user mit Notaufnahmen, Notfallpraxen, aufsuchende Dienste und Rettungsdienst, \u00fcber sektorale Grenzen hinweg) unverzichtbar. F\u00fcr die Notfallrettung k\u00f6nnte dies u. a. zu zeitlichen und qualitativen Verbesserungen der Auswahl einer anzufahrenden Klinik und dortigen \u00dcbergabe von         Patient:innen f\u00fchren. Dar\u00fcber hinaus w\u00fcrde eine derartige medienbruchfreie Vernetzung eine Auswertung der Eins\u00e4tze auch im Hinblick auf getroffene Entscheidungen, Diagnostik etc. erm\u00f6glichen und damit die Arbeit des Personals in der Notfallrettung langfristig verbessern. Auch eine elektronische Behandlungsakte k\u00f6nnte die h\u00e4ufig notwendige ad-hoc-Diagnostik der Notfallrettung durch die Kenntnis von Vorerkrankungen etc. deutlich erleichtern.\r\n4.\tDifferenziertere Angebote zur qualifizierten Versorgung eingehender Hilfeersuchen auf mehreren Ebenen\r\nOb \u00fcber einen SPOC mit einer einheitlichen Rufnummer oder \u00fcber die Vernetzung von Akutleitstellen und Rettungsleitstellen, eine qualifizierte Steuerung von hilfesuchenden Patient:innen in angemessene Versorgungsebenen und -angebote erfordert eine deutliche Differenzierung qualifizierter Dienste auf verschiedenen Ebenen. Die im vorliegenden Referentenentwurf konkretisierten Aufgaben der Kassen\u00e4rztlichen Vereinigungen k\u00f6nnten ein erster Schritt in die richtige Richtung sein, doch weitere differenzierende Ausgestaltungen m\u00fcssen aus Sicht des ASB folgen. So ist es k\u00fcnftig unverzichtbar neben dem Rettungsdienst, bestehend aus Notfallrettung und qualifiziertem Krankentransport, insbesondere niedrigschwellige Fahr- und Transportangebote bei einer Reform der Notfallrettung zu ber\u00fccksichtigen. Derartige Fahrdienste geh\u00f6ren nicht zur Notfallrettung und -versorgung, aber sie wirken auf das Gesamtsystem. Derzeit belasten fehlende niedrigschwellige Fahr- und Transportangebote f\u00fcr verschiedener Zielgruppen den Rettungsdienst nachweislich. Mit einer fl\u00e4chendeckenden kostendeckenden Wiedereinf\u00fchrung k\u00f6nnte die derzeitige \u201eAuffangfunktion\u201c des Rettungsdienstes in diesem Bereich deutlich reduziert bzw. eliminiert werden.\r\nDer ASB hat, wie auch andere Leistungserbringer, sein einst vielf\u00e4ltiges Angebot an Fahrdiensten zur kosteng\u00fcnstigen Bef\u00f6rderung von Patient:innen mit Mobilit\u00e4tseinschr\u00e4nkungen, Dialyse-patienten und -patientinnen, Fahrdienste f\u00fcr Menschen mit Behinderungen, Entlassungsfahrten aus der Klinik etc. aufgrund nicht wirtschaftlicher Verg\u00fctungspauschalen, mit folgenschweren Auswirkungen f\u00fcr den Rettungsdienst, weitestgehend eingestellt. Der ASB als Hilfsorganisation und Wohlfahrtsverband vereint in diesem Bereich viele Kompetenzen und F\u00e4higkeiten und ist zu diversen Angeboten der akuten Gesundheitsversorgung f\u00e4hig und bereit. \r\nUnabh\u00e4ngig von differenzierten Versorgungsangeboten auf verschiedenen Ebenen, ist eine st\u00e4rkere Gewichtung und kostendeckende Finanzierung der Vorhaltezeiten, wie von der Regierungskommission in der neunten Stellungnahme 2023 gefordert, unverzichtbar. Diese sind unverzichtbar und m\u00fcssen, wie gefordert, unabh\u00e4ngig von den tats\u00e4chlichen Eins\u00e4tzen kostendeckend finanziert werden.\r\n5.\tSektoren\u00fcbergreifende Auswirkungen der ver\u00e4nderten Kliniklandschaft analysieren\r\nDie seit Jahren fortschreitende Zahl an Klinikschlie\u00dfungen und -spezialisierungen stellt den Rettungsdienst vor die Herausforderung der \u00dcberbr\u00fcckung immer weiterer Wege und immer l\u00e4ngerer Fahrzeiten bis zur Erreichung einer qualifizierten weiterversorgenden Klinik. In der Konsequenz k\u00f6nnen wirkliche Notfallpatient:innen immer h\u00e4ufiger weder zeitnah noch qualifiziert versorgt werden und Hilfsfristen bzw. die \u201eGolden Hour\u201c zur Versorgung von Trauma-Patient:innen k\u00f6nnen immer weniger eingehalten werden. Dar\u00fcber hinaus sind das Rettungsdienstpersonal sowie die hochqualifizierten Fahrzeuge immer l\u00e4nger pro Einsatz gebunden und k\u00f6nnen in dieser Zeit keine weiteren Anforderungen bedienen.\r\n6.\tSubsidiarit\u00e4tsprinzip des Personals und Vor-Ort-Behandlung mit Rechtssicherheit\r\nDas Personal im Rettungsdienst ist abgestuft qualifiziert und mit unterschiedlichen Kompetenzen ausgestattet: Neben Not\u00e4rzt:innen sind in der Notfallrettung insbesondere Notfallsanit\u00e4ter:innen mit einer dreij\u00e4hrigen Berufsausbildung und Rettungssanit\u00e4ter:innen mit einer 520 Stunden-Ausbildung im Einsatz. Eine k\u00fcnftige Neustrukturierung der Notfallversorgung sollte die verschiedenen Berufsgruppen mit einheitlichen Aufgaben-, Kompetenz- und Befugnis-Katalogen versehen, um deren Einsatz dem Subsidiarit\u00e4tsprinzip entsprechend fl\u00e4chendeckend zu optimieren. Gleichzeitig ist k\u00fcnftig die M\u00f6glichkeit von Behandlungen/Hilfen vor Ort, nach festgelegten Regeln/Kriterien unverzichtbar. Dies vermeidet unn\u00f6tige Strapazen f\u00fcr Patient:innen und reduziert die zeitliche Bindung der Rettungsmittel sowie entstehende Betriebskosten des Transports mit anschlie\u00dfender Desinfektion des Fahrzeugs etc.\r\nIn diesem Zusammenhang begr\u00fc\u00dft der ASB die empfohlene Generaldelegation f\u00fcr bestimmte Medikamente und invasive Ma\u00dfnahmen. Damit einhergehen muss zwingend eine haftungsrechtliche Sicherheit f\u00fcr die Mitarbeitenden in der Notfallversorgung. Graubereiche, wie der \u201erechtfertigende Notstand\u201c, d\u00fcrfen gar nicht erst entstehen und geduldet werden.\r\n7.\tRechtliche Verankerung des Rettungsdienstes als Teil der Notfallversorgung und der Gefahrenabwehr\r\nBisher ist der Rettungsdienst (Notfallrettung und qualifizierter Krankentransport) haupts\u00e4chlich in der Gefahrenabwehr verortet. Der klare Schwerpunkt rettungsdienstlicher T\u00e4tigkeiten im Alltag liegt aber seit langem im gesundheitlichen Bereich und der Rettungsdienst ist schon lange keine reine Transport-leistung mehr, deshalb m\u00fcsste der Rettungsdienst als Element der pr\u00e4klinischen Versorgung in das SGB V aufgenommen werden.  Damit muss der Rettungsdienst nicht zwingend Patient:innen ins Krankenhaus transportieren, um seinen Einsatz abrechnen zu k\u00f6nnen. Gleichzeitig hat der Rettungsdienst nicht nur die Aufgabe der qualifizierten Versorgung von Notfallpatient:innen im Alltag, sondern er ist auch fester Bestandteil der Bedarfs- und Einsatzplanungen der allgemeinen Gefahrenabwehr, des Katastrophenschutzes und ggf. sogar des Zivilschutzes. \r\n8.\tAufwuchsf\u00e4higkeit in Gro\u00dfschadenslagen sicherstellen\r\nDiese enge Verzahnung des Rettungsdienstes mit dem Katastrophen- und Zivilschutz muss auch bei einer Reform des Rettungsdienstes sichergestellt werden, denn der Rettungsdienst ist sowohl ein wesentlicher Leistungsbereich der Gesundheitsver\u00acsorgung als auch ein unverzichtbarer Bestandteil der \u00f6ffentlichen Daseinsvorsorge und Gefahrenabwehr. Es muss eine verl\u00e4ssliche Aufwuchsf\u00e4higkeit der Versorgungskapazit\u00e4ten bei gr\u00f6\u00dferen Schadenslagen bestehen. Dazu m\u00fcssen Bedarfsplanungen der Vorhaltung im Rettungsdienst zwingend die medizinische Versorgung im Alltag einerseits und die Bew\u00e4ltigung von Gro\u00dfschadenslagen mit einem Massenanfall von Verletzten etc. andererseits sicherstellen. Dies gilt insbesondere auch in nationalen Krisenlagen. Ein nahtloser \u00dcbergang von der medizinischen Regelversorgung zur Versorgung von Gro\u00dfschadensereignissen bis hin zum Zivilschutz muss gew\u00e4hrleitet werden.\r\n9.\tFinanzielle Beteiligung Privater Krankenkassen\r\nSchlussendlich unterst\u00fctzt der ASB nachdr\u00fccklich die ausdr\u00fccklich gew\u00fcnschte Beteiligung der privaten Krankenkassen an der Finanzierung der Notfallversorgung (SGB V \u00a7 105 Absatz 1b etc.). Als Solidarleistung f\u00fcr alle Menschen, die sich in der Bundesrepublik Deutschland aufhalten, betrachten wir eine finanzielle Beteiligung als l\u00e4ngst \u00fcberf\u00e4llig.  \r\n10.\tLeistungserbringer an Konzeptionen beteiligen\r\nGrunds\u00e4tzlich ist es dem ASB ein Anliegen, dass die Notfallversorgung in Deutschland endlich ganzheitlich, sektor- und ressort\u00fcbergreifend gedacht und gestaltet wird. Dabei w\u00e4re es zielf\u00fchrend und hilfreich, wenn die gro\u00dfen Leistungserbringer des Rettungsdienstes an der laufenden Erarbeitung von Reformvorschl\u00e4gen der Regierungskommission beteiligt w\u00fcrden. Dementsprechend ist der ASB mit seinen vielf\u00e4ltigen Kompetenzen, F\u00e4higkeiten und Erfahrungen gerne zu einer Mitwirkung und Unterst\u00fctzung der Regierungskommission bereit und begr\u00fc\u00dft die im Entwurf enthaltende Empfehlung zur Erweiterung der Landesaussch\u00fcsse um den Rettungsdienst ausdr\u00fccklich (SGB V \u00a7 90 Absatz (4a)). \r\nEine Zust\u00e4ndigkeit des Gemeinsamen Bundesausschusses wird kritisch betrachtet, da hier bisher keine rettungsdienstliche Kompetenz verankert ist und landesrechtliche Aufgaben und Zust\u00e4ndigkeiten sowie Tr\u00e4gerhoheiten betroffen sind.\r\nEs ist Sicht nicht nachvollziehbar, dass die im Rettungsdienst vorhandene Kompetenz bisher h\u00e4ufig nicht systemoptimierend in politische Prozesse eingebunden wird. Nicht nur bei den im Referentenentwurf genannten Aspekten der Standortbestimmung von Integrierten Notfallzentren etc. kann der Rettungsdienst als Leistungserbringer ma\u00dfgeblich zur Optimierung der sektoren\u00fcbergreifenden Notfallversorgung beitragen.\r\n\r\nArbeiter-Samariter-Bund Deutschland e.V.\r\nFachbereich Bev\u00f6lkerungsschutz \r\n(bevoelkerungsschutz@asb.de)\r\nS\u00fclzburgstra\u00dfe 140\r\n50937 K\u00f6ln\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

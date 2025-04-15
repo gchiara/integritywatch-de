@@ -1,0 +1,662 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-21T14:21:44.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-22T16:54:10.000+01:00",
+        "lastUpdateDate": "2024-06-26T11:40:56.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 30752,
+                "validFromDate": "2024-06-26T11:40:56.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26289,
+                "validFromDate": "2024-02-05T14:35:44.000+01:00",
+                "validUntilDate": "2024-06-26T11:40:56.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 18884,
+                "validFromDate": "2023-07-13T14:16:39.000+02:00",
+                "validUntilDate": "2024-02-05T14:35:44.000+01:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 15982,
+                "validFromDate": "2023-02-21T14:21:44.000+01:00",
+                "validUntilDate": "2023-07-13T14:16:39.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_TRADE_ASSOC",
+            "de": "Wirtschaftsverband oder Gewerbeverband/-verein",
+            "en": "Trade association"
+        },
+        "activityDescription": "Der Bundesverband Musikindustrie (BVMI) vertritt die Interessen von rund 200 Tontr\u00e4gerherstellern und Musikunternehmen, die mehr als 80 Prozent des deutschen Musikmarkts repr\u00e4sentieren. Der Verband setzt sich f\u00fcr die Anliegen der Musikindustrie in der deutschen und europ\u00e4ischen Politik ein und dient der \u00d6ffentlichkeit als zentraler Ansprechpartner zur Musikbranche. Als Interessenvertretung nimmt der BVMI die klassischen Aufgaben eines Wirtschaftsverbandes wahr und setzt sich f\u00fcr die Anliegen der Musikindustrie gegen\u00fcber politischen Gremien, Beh\u00f6rden, Institutionen sowie anderen Wirtschaftsverb\u00e4nden und Marktpartnern ein. Ziele sind unter anderem:\r\n- die Schaffung geeigneter rechtlicher Rahmenbedingungen f\u00fcr einen effizienten Schutz geistigen Eigentums\r\n- die St\u00e4rkung der Musikindustrie als wesentliche S\u00e4ule der wachsenden Kreativwirtschaft\r\n- die Anerkennung von Musik als wichtigen Kultur- und Wirtschaftsfaktor\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_CULTURE",
+                "de": "Kultur",
+                "en": "Culture"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_SP_DIVERSITY",
+                "de": "Diversit\u00e4tspolitik",
+                "en": "Diversity policy"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_LAW_CRIMINAL",
+                "de": "Strafrecht",
+                "en": "Criminal law"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_FA_CULTURE",
+                "de": "Ausw\u00e4rtige Kultur- und Bildungspolitik",
+                "en": "Foreign cultural and educational policy"
+            },
+            {
+                "code": "FOI_MEDIA_ADVERTISEMENT",
+                "de": "Werbung",
+                "en": "Advertising"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_MEDIA_OTHER",
+                "de": "Sonstiges im Bereich \"Medien, Kommunikation und Informationstechnik\"",
+                "en": "Other in the field of \"Media, communication and information technology\""
+            },
+            {
+                "code": "FOI_MEDIA_COPYRIGHT",
+                "de": "Urheberrecht",
+                "en": "Copyright"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "ON_BEHALF_OF_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird im Auftrag Dritter selbst wahrgenommen",
+                "en": "Representation of interests is carried out on behalf of third parties themselves"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/da/f2/314200/Rechenschaftsbericht_BVMI_240620_final.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 2.19,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 650001,
+            "to": 660000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Linienstra\u00dfe",
+            "streetNumber": "152",
+            "type": "NATIONAL",
+            "zipCode": "10115"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@musikindustrie.de"
+                }
+            ],
+            "phoneNumber": "+49305900380",
+            "websites": [
+                {
+                    "website": "www.musikindustrie.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Patrick",
+                "lastName": "Mushatsi-Kareba",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Florian",
+                "lastName": "Dr\u00fccke",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Ren\u00e9",
+                "lastName": "Houareau",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Lisa",
+                "lastName": "Schlucke",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Patrick",
+                "function": "Vorstand im Sinne des \u00a7 26 BGB",
+                "lastName": "Mushatsi-Kareba",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Florian",
+                "function": "Vorstandsvorsitzender und Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Dr\u00fccke",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-19",
+            "naturalPersons": 29,
+            "organizations": 147,
+            "totalCount": 176
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Association Litt\u00e9raire et Artistique Internationale (ALAI)"
+            },
+            {
+                "membership": "Clearingstelle Urheberrecht im Internet (CUII)"
+            },
+            {
+                "membership": "Deutscher Musikrat"
+            },
+            {
+                "membership": "Deutsches Institut f\u00fcr Normung (DIN e.V.)"
+            },
+            {
+                "membership": "Erich-Pommer-Institut, Beirat (EPI)"
+            },
+            {
+                "membership": "Europ\u00e4ische Bewegung Deutschland e.V. (Netzwerk EBD)"
+            },
+            {
+                "membership": "Forum der Rechteinhaber"
+            },
+            {
+                "membership": "Forum Musikwirtschaft"
+            },
+            {
+                "membership": "Institut f\u00fcr Urheber- und Medienrecht e.V."
+            },
+            {
+                "membership": "International Federation of the Phonographic Industry (IFPI)"
+            },
+            {
+                "membership": "Koalition Kultur- und Kreativwirtschaft in Deutschland (K3D)"
+            },
+            {
+                "membership": "media:net berlinbrandenburg e.V."
+            },
+            {
+                "membership": "Netzwerk Junge Ohren e.V."
+            },
+            {
+                "membership": "Wirtschaftsrat der CDU e.V."
+            },
+            {
+                "membership": "Wirtschaftsforum der SPD e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Bundesverband Musikindustrie e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "Universal Music Entertainment GmbH"
+            },
+            {
+                "name": "Sony Music Entertainment Germany GmbH"
+            },
+            {
+                "name": "Warner Music Group Germany Holding GmbH"
+            },
+            {
+                "name": "BMG Rights Management GmbH"
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 3190001,
+            "to": 3200000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000912/30752",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-26T11:40:56.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/3b/b8/314205/Lobbyregister-Detailansicht-R000912-2024-06-26_11-40-56.pdf",
+        "validFromDate": "2024-06-26T11:40:56.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 30752,
+    "registerNumber": "R000912",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EStG",
+                        "title": "Einkommensteuergesetz",
+                        "url": "https://www.gesetze-im-internet.de/estg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Der BVMI appelliert, die seit Juni 2021 durch das Inkrafttreten des Abzugsteuerentlastungsmodernisierungsgesetz (AbzStEntModG) entstandenen b\u00fcrokratischen H\u00fcrden abzubauen und die Antragsbearbeitung zu beschleunigen, um diesen (auch innereurop\u00e4ischen) Wettbewerbsnachteil zu beseitigen. Insbesondere f\u00fcr den Steuerabzug nach \u00a7 50a EstG entfaltet das Gesetz keinerlei positive Wirkung.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_PUBLIC",
+                        "de": "\u00d6ffentliches Recht",
+                        "en": "Public law"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006233",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/ed/da/314201/Stellungnahme-Gutachten-SG2406190181.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                        "de": "Bundesministerium der Finanzen (BMF)",
+                                        "en": "Bundesministerium der Finanzen (BMF)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-20"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0006233",
+                        "regulatoryProjectTitle": "Entlastung der Wirtschaft beim Abzugsteuerverfahren",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Kurzfassung\r\nBestimmte beschr\u00e4nkt steuerpflichtige Eink\u00fcnfte ausl\u00e4ndischer Verg\u00fctungsgl\u00e4ubiger\r\nunterliegen dem Steuerabzugsverfahren nach \u00a7 50a EStG. Beispielsweise: Eine im Ausland\r\nans\u00e4ssige Musikerin (Verg\u00fctungsgl\u00e4ubiger) tritt bei einem deutschen Festival eines Veranstalters\r\n(Verg\u00fctungsschuldner) auf oder ein deutsches Musiklabel (Verg\u00fctungsschuldner) lizensiert\r\nLeistungsschutzrechte eines ausl\u00e4ndischen Labels (Verg\u00fctungsgl\u00e4ubiger) oder eine\r\nAutorin/Buchverlag (Verg\u00fctungsgl\u00e4ubiger) lizenziert die \u00dcbersetzung ins Deutsche an einen\r\ndeutschen Buchverlag (Verg\u00fctungsschuldner).\r\nDie Verg\u00fctungsschuldner sind verpflichtet, die Steuern auf die Verg\u00fctung (in der Regel 15%) beim\r\nBundeszentralamt f\u00fcr Steuern (BZSt) anzumelden und abzuf\u00fchren. Diese Pflicht greift nach \u00a750c\r\nEStG nicht, sofern mit dem Land des Verg\u00fctungsgl\u00e4ubigers ein Abkommen zur Vermeidung von\r\nDoppelbesteuerung vorliegt. Dies muss jedoch auf Antrag des ausl\u00e4ndischen\r\nVerg\u00fctungsgl\u00e4ubigers (Freistellungsantrag) vom BZSt bescheinigt werden\r\n(Freistellungsbescheid) oder die Summe aller Verg\u00fctungen an den Verg\u00fctungsgl\u00e4ubiger darf\r\n5.000\u20ac pro Kalenderjahr nicht \u00fcberschreiten. Auf Antrag beim BZSt (Erstattungsantrag) wird dem\r\nVerg\u00fctungsgl\u00e4ubiger auf Grundlage des erteilten Freistellungsbescheides die entrichtete Steuer\r\nerstattet.\r\nF\u00fcr Verg\u00fctungsschuldner (deutsche Unternehmen) sowie f\u00fcr die -gl\u00e4ubiger (ausl\u00e4ndische\r\nPartnerunternehmen) sind mit der derzeitigen Ausgestaltung des Verfahrens immense\r\nb\u00fcrokratische H\u00fcrden verbunden. Problematisch sind der im internationalen Vergleich deutlich\r\nerh\u00f6hte Aufwand f\u00fcr entsprechende Nachweise f\u00fcr ausl\u00e4ndische Verg\u00fctungsgl\u00e4ubiger sowie die\r\nunzumutbare Bearbeitungszeiten beim BZSt von bis zu zwei Jahren. Innereurop\u00e4isch bedeutet\r\ndas erhebliche Wettbewerbsnachteile.\r\n\r\nHintergrund\r\nSeit Juni 2021 ist das Abzugsteuerentlastungsmodernisierungsgesetz (AbzStEntModG) in Kraft.\r\nMit diesem Gesetz haben wurde u. a. eine \u201eReduzierung und Verschlankung der vorhandenen\r\nVerfahren zur Entlastung von der Kapitalertragsteuer und vom Steuerabzug nach \u00a7 50a EStG f\u00fcr\r\nausl\u00e4ndische Steuerpflichtige sowie st\u00e4rkere Konzentration beim Bundeszentralamt f\u00fcr Steuern\r\n(BZSt)\u201c angek\u00fcndigt.\r\nInsbesondere f\u00fcr den Steuerabzug nach \u00a7 50a EstG entfaltet das Gesetz bisher keinerlei positive\r\nWirkung. Im Gegenteil:\r\n\uf0f0 Die Bearbeitungszeit ist von der Antragsstellung bis zur Erteilung einer Freistellung bzw.\r\nbis zur Erstattung auf mittlerweile bis zu 24 Monate angewachsen,\r\n\uf0f0 der Aufwand f\u00fcr die Nachweispflichten ausl\u00e4ndischer Lizenzgeber hat sich drastisch\r\nerh\u00f6ht (verlangt werden jetzt z. B. auch Mietvertr\u00e4ge und Details zu\r\nGesch\u00e4ftsf\u00fchrungsgeh\u00e4ltern),\r\n\uf0f0 die lizenznehmenden Unternehmen in Deutschland sind mit unzumutbaren\r\ngesch\u00e4ftssch\u00e4digenden Auswirkungen belastet,\r\n\uf0f0 und die auf ihr Geld wartenden Vertragspartner im Ausland drohen, ihre Lizenzgesch\u00e4fte\r\nin andere L\u00e4nder zu verlagern und k\u00fcnftig dort zu t\u00e4tigen, wo das Verfahren deutlich\r\nschlanker ist und zuverl\u00e4ssig funktioniert.\r\nEs liegt auf der Hand, dass hierdurch massive (auch innereurop\u00e4ische) Wettbewerbsnachteile\r\nerzeugt werden und nicht zuletzt der Wirtschaftsstandort Deutschland Schaden nimmt.\r\nGleichzeitig werden b\u00fcrokratische Mehraufw\u00e4nde erzeugt und Kapital in Millionenh\u00f6he\r\ngebunden, das die Unternehmen zum Wirtschaften brauchen.\r\nIm zust\u00e4ndigen Bundesministerium der Finanzen (BMF) und dem Bundeszentralamt f\u00fcr Steuern\r\n(BZSt) ist die Problematik hinl\u00e4nglich bekannt. Mehrfach nahm das BMF im Bundestag dazu\r\nStellung, erst k\u00fcrzlich ver\u00f6ffentlichte die CDU/CSU-Fraktion eine Kleine Anfrage zum \u201eStand der\r\nAbzugsteuerentlastungsverfahren\u201c (Drucksache 20/10715). 1 Die betroffenen Branchen bitten\r\nseit Monaten darum schnellstm\u00f6glich Abhilfe zu schaffen, zuletzt in ihrem gemeinsamen\r\nSchreiben an Bundesfinanzminister Christian Lindner vom 23. Februar 2024.\r\nLaut eigenen Angaben des BZSt gehen j\u00e4hrlich rund 40.000 Freistellungsantr\u00e4ge und\r\nAbzugsteueranmeldungen und 20.000 Entlastungsantr\u00e4ge im Referat St II 9 ein, die bearbeitet\r\nwerden m\u00fcssen. Die mit dem Wachstumschancengesetz vorgenommene\r\nSchwellenwertanhebung von 5.000 \u20ac auf 10.000 \u20ac wird f\u00fcr die kleinen und mittleren\r\nUnternehmen der Kreativwirtschaft keine nennenswerte Entlastung bringen und weiterhin kein\r\n\u201eequal level playing field\u201c mit innereurop\u00e4ischen Wettbewerbern erm\u00f6glichen.\r\nSeitens des BMF und des BZSt wurden gegen\u00fcber den unterzeichnenden Verb\u00e4nden bisher keine\r\nsubstanziellen L\u00f6sungsvorschl\u00e4ge vorgetragen. Die Antworten verweisen auf technische\r\nProbleme sowie personelle Engp\u00e4sse und gehen von einer mittel- bis langfristigen\r\nProbleml\u00f6sung aus. Eine zeitnahe Beschleunigung der Antragsbearbeitung ist offenbar nicht\r\nvorgesehen.\r\nKurzfristige L\u00f6sungsvorschl\u00e4ge\r\nDie unterzeichnenden Verb\u00e4nde sehen folgende Bereiche, in denen kurzfristig Abhilfe geschaffen\r\nwerden muss, um die Wirtschaft ebenso wie das BZSt zeitnah zu entlasten:\r\n1 https://dserver.bundestag.de/btd/20/107/2010715.pdf\r\n3\r\n1. Vereinfachung bei Wiederholungsantr\u00e4gen: Bis auf Weiteres sollten grunds\u00e4tzlich\r\nGenehmigungen von Anschlussfreistellungen erfolgen, soweit keine \u00c4nderung des\r\nSachverhalts vorliegt (Vertragsparteien und Vertrag wurden bereits beim Erstantrag im\r\nDetail gepr\u00fcft).\r\n2. Abfrage und Pr\u00fcfung von Angaben bei Antr\u00e4gen mit einer einzigen Vertragspartei zu\r\nunterschiedlichen Verg\u00fctungsanl\u00e4ssen: Die hierf\u00fcr zurzeit erforderlichen Angaben sind\r\nf\u00fcr die Freistellungserkl\u00e4rung dem Grunde nach irrelevant. Die Antragssteller m\u00fcssen\r\nzum Beispiel Details zum Verg\u00fctungsgegenstand nachweisen und f\u00fcr jeden\r\nVerg\u00fctungsanlass neu beantragen, selbst wenn die Vertragsparteien stets dieselben sind\r\noder viele einzelne Verg\u00fctungsanl\u00e4sse in einem umfassenden Verg\u00fctungsantrag (z. B.\r\nbei einer Konzerttournee) geb\u00fcndelt werden. Dabei ist f\u00fcr die Freistellungserkl\u00e4rung im\r\nKern nur relevant, in welchem Land der Steuerschuldner steuerpflichtig ist und ob mit\r\ndiesem Land ein Doppelbesteuerungsabkommen besteht.\r\nDaher m\u00fcssten, ebenso wie zum Beispiel im Bausektor, die Freistellungsantr\u00e4ge\r\nbez\u00fcglich des Verg\u00fctungsgegenstands / Lizenznehmers unbestimmt sein k\u00f6nnen und\r\ngleichzeitig f\u00fcr drei Jahre erteilt werden (\u201eMasterfreistellung\u201c). Das w\u00fcrde den\r\nPr\u00fcfungsaufwand erheblich senken und die Anzahl der Wiederholungsantr\u00e4ge und\r\ngleichlautenden Antr\u00e4ge erheblich minimieren.\r\nF\u00fcr diese Ma\u00dfnahmen w\u00e4re keine Gesetzes\u00e4nderung notwendig. Sie w\u00fcrden die Rechtm\u00e4\u00dfigkeit\r\nder Steuererhebung nicht gef\u00e4hrden. Die Beh\u00f6rde wie auch die Wirtschaft w\u00fcrden sofort\r\nentlastet und k\u00fcnftiger Bearbeitungsstau verhindert.\r\nMittelfristige L\u00f6sungsvorschl\u00e4ge\r\nDar\u00fcber hinaus sehen die unterzeichnenden Verb\u00e4nde zwingend mittelfristigen\r\nHandlungsbedarf, um sicherzustellen, dass es bei beim Quellensteuerverfahren \u00fcberhaupt zu\r\nden angek\u00fcndigten dauerhaften Erleichterungen f\u00fcr die Unternehmen und ebenso das BZSt\r\nkommen kann:\r\n1. Kleinstbetr\u00e4ge (F\u00e4lle von geringer steuerlicher Bedeutung): Hierf\u00fcr sollte der Aufwand f\u00fcr\r\ndie Freistellungsberechtigten entsprechend dem fr\u00fcheren Kontrollmeldeverfahren auf ein\r\nMinimum reduziert werden.\r\n2. Aufgrund der globalen Einf\u00fchrung einer Minimumbesteuerung und der bestehenden EUBlacklist\r\nsollte es zudem langfristig zur Freistellungsgenehmigung nur der Vorlage einer\r\nAns\u00e4ssigkeitsbescheinigung und eine Beneficial Ownership-Erkl\u00e4rung bed\u00fcrfen. Dies ist\r\nauch im Vergleich zu anderen L\u00e4ndern folgerichtig. Die h\u00f6chst b\u00fcrokratischen\r\nAnforderungen in Deutschland sind in dieser Hinsicht einzigartig.\r\n3. Die mit dem Wachstumschancengesetz verbundene Anhebung des Schwellenwertes von\r\n5.000 Euro auf 10.000 Euro ist unzureichend, weil der Betrag immer noch weit unter der\r\nWirtschaftlichkeitsgrenze selbst f\u00fcr kleine und mittlere Unternehmen liegt. Der\r\nGesetzgeber sollte im Sinne von B\u00fcrokratieabbau und Wettbewerbsf\u00e4higkeit\r\nschnellstm\u00f6glich nachbessern und die Schwelle auf 50.000 Euro anheben.\r\n4. Schlie\u00dflich regen wir an, dass Online-Registrierungsverfahren auf seine Effektivit\u00e4t zu\r\npr\u00fcfen. Allein das Registrierungsverfahren dauert derzeit bis zu 6 Wochen. Ebenso\r\nmachen wir die Erfahrung, dass viele Antragssteller auch formal am\r\nRegistrierungsverfahren scheitern. F\u00fcr den Bereich der nat\u00fcrlichen Antragssteller bedarf\r\nes zudem einer vereinfachten Antragsstellung bspw. mittels eines vereinfachten\r\nFormulars. Das derzeitige Portal des BZSt und sein aktualisierte Eingabeverfahren ist\r\nweder zeitgem\u00e4\u00df noch durch seine Nutzungsvorgaben und -Einschr\u00e4nkungen an\r\n4\r\nbetrieblichen Abl\u00e4ufen orientiert. Es verursacht allein dadurch einen enormen\r\nMehraufwand bei den Unternehmen.\r\nAusblick\r\nDie Bundesregierung hat mit Blick auf die Beratungen zum Bundeshaushalt 2024 wiederholt\r\ndeutlich gemacht, dass es in Zukunft kaum m\u00f6glich sein wird, die inl\u00e4ndischen Unternehmen\r\nfinanziell mit Subventionspaketen oder \u00c4hnlichem zu unterst\u00fctzen. L\u00f6sungen zur Ankurbelung\r\nder Wirtschaft werden vor allem in Form von Entb\u00fcrokratisierungsma\u00dfnahmen versprochen. Die\r\nunterzeichnenden Verb\u00e4nde appellieren daher dringend an die politisch Verantwortlichen die\r\nGelegenheit beim Schopfe zu packen und die mit dem Verfahren zum Steuerabzug nach \u00a750a\r\nEStG verbunden b\u00fcrokratischen H\u00fcrden zu beseitigen. Hier liegt die gro\u00dfe Chance, die deutsche\r\nWirtschaft beim Abzugsteuerverfahren tatkr\u00e4ftig zu entlasten."
+                        }
+                    }
+                ],
+                "title": "Entlastung der Wirtschaft beim Abzugsteuerverfahren"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BSIG",
+                        "title": "Gesetz \u00fcber das Bundesamt f\u00fcr Sicherheit in der Informationstechnik",
+                        "url": "https://www.gesetze-im-internet.de/bsig_2009"
+                    },
+                    {
+                        "shortTitle": "BNDG",
+                        "title": "Gesetz \u00fcber den Bundesnachrichtendienst",
+                        "url": "https://www.gesetze-im-internet.de/bndg"
+                    },
+                    {
+                        "shortTitle": "De-Mail-G",
+                        "title": "De-Mail-Gesetz",
+                        "url": "https://www.gesetze-im-internet.de/de-mail-g"
+                    },
+                    {
+                        "shortTitle": "TTDSG",
+                        "title": "Gesetz \u00fcber den Datenschutz und den Schutz der Privatsph\u00e4re in der Telekommunikation und bei Telemedien",
+                        "url": "https://www.gesetze-im-internet.de/ttdsg"
+                    },
+                    {
+                        "shortTitle": "BSI-ITSiKV",
+                        "title": "Verordnung zum IT-Sicherheitskennzeichen des Bundesamtes f\u00fcr Sicherheit in der Informationstechnik",
+                        "url": "https://www.gesetze-im-internet.de/bsi-itsikv"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Der BVMI setzt sich bei der Umsetzung der NIS-2-Richtlinie f\u00fcr eine klare Definition des \u201eberechtigten Nachfragers\u201c ein, um den \u00f6ffentlichen Zugang zu zuverl\u00e4ssigen WHOIS-Informationen zum Zwecke der Bek\u00e4mpfung illegaler und sch\u00e4dlicher Online-Inhalte, einschlie\u00dflich urheberrechtsverletzender Inhalte, und f\u00fcr den Schutz der Gesundheit und Sicherheit der B\u00fcrger zu gew\u00e4hrleisten. Um eine Rechtsverfolgung des \u201eberechtigten Nachfragers\u201c zu erm\u00f6glichen, empfiehlt der BVMI der vermehrten Nutzung von Proxy-Diensten durch Offenlegung der Anbieterdaten entgegenzuwirken und im deutschen Gesetzesentwurf zu implementieren. Zudem schl\u00e4gt der BVMI Regelungen zur Offenlegung von Registrierungsdaten im Falle des Missbrauchs von Domainnamen vor. ",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "Entwurf eines Gesetzes zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundz\u00fcge des Informationssicherheitsmanagements in der Bundesverwaltung",
+                            "draftBillProjectUrl": "https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/nis2umsucg.html;jsessionid=93D01585E2E10FEAB030949E0E15150C.live861",
+                            "shortTitle": "BMI",
+                            "title": "Bundesministerium des Innern und f\u00fcr Heimat",
+                            "url": "https://www.bmi.bund.de/DE/startseite/startseite-node.html"
+                        }
+                    ],
+                    "publicationDate": "2024-05-07",
+                    "title": "Entwurf eines NIS-2-Umsetzungs- und Cybersicherheitsst\u00e4rkungsgesetzes"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_CRIMINAL",
+                        "de": "Strafrecht",
+                        "en": "Criminal law"
+                    },
+                    {
+                        "code": "FOI_MEDIA_INTERNET_POLICY",
+                        "de": "Internetpolitik",
+                        "en": "Internet policy"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COPYRIGHT",
+                        "de": "Urheberrecht",
+                        "en": "Copyright"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_MEDIA_PRIVACY",
+                        "de": "Datenschutz und Informationssicherheit",
+                        "en": "Data protection and information security"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006234",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/20/84/314203/Stellungnahme-Gutachten-SG2406190197.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMI",
+                                        "de": "Bundesministerium des Innern und f\u00fcr Heimat (BMI)",
+                                        "en": "Bundesministerium des Innern und f\u00fcr Heimat (BMI)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-28"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0006234",
+                        "regulatoryProjectTitle": "Entwurf eines Gesetzes zur Umsetzung der NIS-2-Richtlinie",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Der Bundesverband Musikindustrie (BVMI) vertritt die Interessen von mehr als 200\r\nTontr\u00e4gerherstellern und Musikunternehmen, die mehr als 80 Prozent des deutschen Musikmarkts\r\nrepr\u00e4sentieren. Der Verband setzt sich f\u00fcr die Anliegen der Musikindustrie in der deutschen und\r\neurop\u00e4ischen Politik ein und dient der \u00d6ffentlichkeit als zentraler Ansprechpartner zur\r\nMusikbranche. Neben der Ermittlung und Ver\u00f6ffentlichung von Marktstatistiken sowie der\r\nEtablierung von Branchenstrukturen wie der B-to-B-Plattform PHONONET geh\u00f6ren branchennahe\r\nDienstleistungen zum Portfolio des BVMI. Seit 1975 verleiht er die GOLD- und PLATIN-, seit 2014\r\nauch die DIAMOND-AWARDS an die erfolgreichsten K\u00fcnstler in Deutschland. Seit 1977 werden die\r\nOffiziellen Deutschen Charts im Auftrag des BVMI erhoben. Zur Orientierung der Verbraucher bei\r\nder legalen Nutzung von Musik im Internet hat der Verband 2013 die Initiative PLAYFAIR ins Leben\r\ngerufen.Der BVMI begr\u00fc\u00dft die Verabschiedung der \u00fcberarbeiteten Richtlinie \u00fcber die Sicherheit von Netz und Informationssystemen (NIS2-Richtlinie), insbesondere die Bestimmungen \u00fcber\r\nDom\u00e4nennamen- und Registrierungsdienste in Artikel 28 und den Erw\u00e4gungsgr\u00fcnden 109 bis 112.\r\nDer Zugang zu zuverl\u00e4ssigen Registrierungsdaten (\"WHOIS-Daten\") ist f\u00fcr die Bek\u00e4mpfung illegaler\r\nund sch\u00e4dlicher Online-Inhalte, einschlie\u00dflich urheberrechtsverletzender Inhalte, und f\u00fcr den Schutz der Gesundheit und Sicherheit der B\u00fcrger von wesentlicher Bedeutung. Die Umsetzung von Artikel 28 findet sich in den \u00a7\u00a7 51-53 des \u201eEntwurfs eines Gesetzes zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundz\u00fcge des Informationssicherheitsmanagements in der Bundesverwaltung\u201c. Insofern schlie\u00dft sich der BVMI auch der Position der Motion Picture Association (MPA) an. In der Studie der Europ\u00e4ischen Kommission \u00fcber DNS-Missbrauch aus dem Jahr 2022 wurde die \u00dcberpr\u00fcfung von WHOIS-Daten als eine der wichtigsten Empfehlungen zur Verhinderung, Aufdeckung und Eind\u00e4mmung von DNS-Missbrauch genannt. Auch die Europ\u00e4ische Kommission hat k\u00fcrzlich in der Empfehlung zur Bek\u00e4mpfung von Produkt- und Markenpiraterie aus dem Jahr 2024 anerkannt, dass \"die Richtigkeit und Vollst\u00e4ndigkeit der Registrierungsdaten von Dom\u00e4nennamen auch eine zentrale Rolle bei der Durchsetzung von Rechten des geistigen Eigentums spielen kann\" (eigene \u00dcbersetzung). Sie betonte ferner, dass die bereitgestellten Registrierungsdaten korrekt und verifiziert sein und sich auf den tats\u00e4chlichen Nutzer des Dom\u00e4nennamens beziehen m\u00fcssen, und nicht einfach auf einen Anbieter von Datenschutz- oder Proxy-Diensten. Wir begr\u00fc\u00dfen den Gesetzesentwurf des BMI, der eine weitgehend wortgetreue Umsetzung von Artikel 28 vornimmt. Wir m\u00f6chten jedoch die folgenden Priorit\u00e4ten hervorheben, um eine solide Umsetzung zu gew\u00e4hrleisten und die Zug\u00e4nglichkeit und Genauigkeit der WHOIS-Daten weitgehend zu verbessern: Berechtigte Zugangsnachfrager und Daten: In Erw\u00e4gungsgrund 110 der NIS2 wird der \u201eberechtigte Zugangsnachfrager\u201c auf Zugang zu WHOIS-Daten gem\u00e4\u00df Artikel 28 Absatz 5 als \u201ejede nat\u00fcrliche oder juristische Person zu verstehen, die einen Antrag gem\u00e4\u00df des Unionsrechts oder des nationalen Rechts stellt\" definieren. Das deutsche Umsetzungsgesetz sollte daher den Begriff \"berechtigte Zugangsnachfrager\" ausdr\u00fccklich definieren und klarstellen, dass dazu nicht nur staatliche Stellen, wie z. B. Strafverfolgungsbeh\u00f6rden, geh\u00f6ren, sondern auch jede nat\u00fcrliche oder juristische Person, die einen Antrag auf Zugang zu WHOIS-Daten stellt, um die Rechtswidrigkeit zu untersuchen, einschlie\u00dflich, aber nicht beschr\u00e4nkt auf die Begr\u00fcndung, Aus\u00fcbung oder Verteidigung von Rechtsanspr\u00fcchen in den Bereichen Cybersicherheit, geistiges Eigentum, Verbraucherschutz oder andere Rechtsanspr\u00fcche.\r\nDies steht im Einklang mit der k\u00fcrzlich ver\u00f6ffentlichten Empfehlung der Europ\u00e4ischen Kommission zur Bek\u00e4mpfung von Produkt- und Markenpiraterie, in der Unternehmen, die in \r\nder EU Registrierungsdienste f\u00fcr Dom\u00e4nennamen anbieten, aufgefordert werden, nat\u00fcrliche oder juristische Personen, die einen Antrag auf Auskunftserteilung gem\u00e4\u00df der Richtlinie 2004/48/EG zur Durchsetzung der Rechte des geistigen Eigentums (IPRED) stellen, als berechtigte Zugangsnachfrager anzuerkennen. In der Tat arbeiten die Strafverfolgungsbeh\u00f6rden h\u00e4ufig mit unabh\u00e4ngigen Forschern und Nichtregierungsorganisationen zusammen, um illegale Online-Aktivit\u00e4ten zu verfolgen und zu bek\u00e4mpfen. \r\nWir schlagen daher folgende Formulierung f\u00fcr die Umsetzung in deutsches Recht vor:\r\n\"Zu den berechtigten Zugangsnachfragern geh\u00f6rt jede nat\u00fcrliche oder juristische Person, die einen Antrag zur Feststellung, Aus\u00fcbung oder Verteidigung von straf-, zivil- oder sonstigen Rechtsanspr\u00fcchen nach dem Unionsrecht oder dem Recht der Bundesrepublik Deutschland stellt.\"\r\nDar\u00fcber hinaus muss der Zugang zu den WHOIS-Daten gem\u00e4\u00df Erw\u00e4gungsgrund 112 kostenlos sein, und diese Daten m\u00fcssen auf Antrag des berechtigten Zugangsnachfragers ohne unangemessene Verz\u00f6gerung zur Verf\u00fcgung gestellt werden.\r\n\u2022 Bek\u00e4mpfung der Nutzung von Proxy-/Privacy-Diensten: In einer Studie des EU-Amtes f\u00fcr geistiges Eigentum (EUIPO) aus dem Jahr 2021 wurde festgestellt, dass \"ein erheblicher Prozentsatz der Dom\u00e4nennamen, die zur Durchf\u00fchrung illegaler oder sch\u00e4dlicher Internetaktivit\u00e4ten verwendet werden, \u00fcber Datenschutz- oder Proxy-Dienste registriert werden\" und dass seit dem Inkrafttreten der Datenschutz-Grundverordnung die Begr\u00fcndung f\u00fcr die rechtm\u00e4\u00dfige Nutzung von Datenschutz- oder Proxy-Diensten \"in Frage gestellt wurde\" (eigene \u00dcbersetzung). Die nationale Umsetzung der NIS2-Richtlinie muss daher die Beliebtheit von Proxy- oder Privacy-Diensten bei denjenigen ber\u00fccksichtigen, die illegale und sch\u00e4dliche Aktivit\u00e4ten online durchf\u00fchren. Wenn ein berechtigter Zugangsantrag gestellt wird, m\u00fcssen die \r\n\r\nSiehe Empfehlung \u00fcber Ma\u00dfnahmen zur Bek\u00e4mpfung von Nachahmungen und zur Verbesserung der Durchsetzung von Rechten des geistigen Eigentums, Ziffer 15.\r\n\r\n2 Siehe zum Beispiel das Europ\u00e4ische Zentrum zur Bek\u00e4mpfung der Cyberkriminalit\u00e4t, das \"darauf abzielt, Akteure des \u00f6ffentlichen und privaten Sektors einzubinden, deren F\u00e4higkeiten, Ressourcen und Reichweite neben den Bem\u00fchungen der Strafverfolgungsbeh\u00f6rden ben\u00f6tigt werden, um ein sichereres digitales Umfeld zu schaffen.\" https://www.europol.europa.eu/about-europol/european-cybercrime-centre-ec\r\n\r\nEUIPO \"Domain Names: Diskussionspapier\" M\u00e4rz 2021 https://euipo.europa.eu/tunnel-web/secure/webdav/guest/document_library/observatory/documents/reports/2021_Discussion_Paper_on_Domain_Names/2021_Discussion_Paper_on_Domain_Names_FullR_en.pdf\r\n\r\n\r\nzugrundeliegenden Daten des tats\u00e4chlichen Kunden/beg\u00fcnstigten Nutzers des Dom\u00e4nennamens offengelegt werden und nicht nur die Daten des Anbieters des Datenschutz- oder Proxy-Dienstes, wenn ein solcher Datenschutz- oder Proxy-Dienst bei der Registrierung verwendet wurde.\r\nWir empfehlen daher, dass der deutsche Gesetzesentwurf bei der Umsetzung von Artikel 28 ausdr\u00fccklich die folgende Formulierung enth\u00e4lt: \"Bei der Bereitstellung von Daten als Antwort auf rechtm\u00e4\u00dfige Zugangsantr\u00e4ge m\u00fcssen TLD-Namen-Register und die Stellen, die Dom\u00e4nennamen-Registrierungsdienste anbieten, die Daten des wirtschaftlichen Nutzers des Dom\u00e4nennamens bereitstellen und d\u00fcrfen stattdessen nicht die Daten des Anbieters von Datenschutz- oder Proxy-Registrierungsdiensten bereitstellen, die bei der Registrierung des Dom\u00e4nennamens verwendet worden sein k\u00f6nnten.\" In dieser Hinsicht sollte die Umsetzung der in Artikel 28 festgelegten Verpflichtung zur \u00dcberpr\u00fcfung der Richtigkeit der WHOIS-Daten eindeutig f\u00fcr Anbieter von Datenschutz- und Proxy-Diensten und Wiederverk\u00e4ufer von Dom\u00e4nennamen sowie f\u00fcr Registrierungsstellen und TLD-Register gelten. Dies steht im Einklang mit Artikel 6 (22), der ausdr\u00fccklich Anbieter von Datenschutz- und Proxy-Diensten sowie Wiederverk\u00e4ufer von Dom\u00e4nennamen als Beispiele f\u00fcr \"Einrichtung, die Dom\u00e4nennamen-Registrierungsdienste erbringt\", auff\u00fchrt. DNS-Missbrauch in gro\u00dfem Umfang angehen und verhindern: Cyberkriminelle registrieren oft mehrere, manchmal sogar Tausende von Dom\u00e4nennamen in einem kurzen Zeitraum. Dies ist insbesondere der Fall, wenn es um Phishing, die Verbreitung von Malware und die Verbreitung von urheberrechtsverletzenden Inhalten geht. Die Sicherstellung, dass ein rechtm\u00e4\u00dfiger Zugangssuchender in der Lage ist, eine Liste aller Dom\u00e4nennamen zu erhalten, die unter denselben Registrierungsdaten registriert sind (umgekehrte WHOIS-Abfrage), ist von entscheidender Bedeutung, wenn ausgekl\u00fcgelte und verstreute illegale Aktivit\u00e4ten in einem solchen Umfang vermutet werden.\r\nWir empfehlen daher, Artikel 28 dahingehend umzusetzen, dass \"wenn ein Dom\u00e4nenname mit missbr\u00e4uchlichen oder illegalen Aktivit\u00e4ten in Verbindung gebracht wird, wie dies von einem rechtm\u00e4\u00dfigen Antragsteller behauptet wird, die TLD-Register und Einrichtungen, die Dienste zur Registrierung von Dom\u00e4nennamen anbieten, dem rechtm\u00e4\u00dfigen Antragsteller auf Anfrage eine \r\nListe aller Dom\u00e4nennamen zur Verf\u00fcgung stellen m\u00fcssen, die sie unter denselben Registrierungsdaten verwalten oder registriert haben.\" Juristische Personen: Die WHOIS-Daten von juristischen Personen (mindestens Name und Telefonnummer sowie E-Mail-Adresse der Kontaktperson) m\u00fcssen gem\u00e4\u00df Artikel 28 Absatz 4 unter Bezugnahme auf Erw\u00e4gungsgrund 112 \u00f6ffentlich zug\u00e4nglich gemacht werden. Verifizierung: Die Verfahren zur \u00dcberpr\u00fcfung der WHOIS-Daten sollten solide sein und laufend aktualisiert werden, um Verbesserungen der Technologien und Prozesse zu ber\u00fccksichtigen. Wie in Erw\u00e4gungsgrund 111 dargelegt, sollten diese Verfahren \" unrichtige Registrierungsdaten zu verhindern bzw. zu berichtigen\" und \"die in dem Wirtschaftszweig angewandten bew\u00e4hrten Verfahren und, soweit m\u00f6glich, die Fortschritte im Bereich der elektronischen Identifizierung ber\u00fccksichtigt werden\" und sowohl \"Ex-ante-Kontrollen zum Zeitpunkt der Registrierung und Ex-post-Kontrollen nach der Registrierung\" umfassen. Auch wenn die TLD-Register nicht in der Lage sind, die WHOIS-Daten zum Zeitpunkt der Registrierung zu \u00fcberpr\u00fcfen, da die anf\u00e4ngliche Erfassung der Daten in der Regel von Registrierstellen und/oder Datenschutz-/Proxy-Diensten vorgenommen wird, k\u00f6nnen sie durchaus Ex-post-Verfahren zur \u00dcberpr\u00fcfung der WHOIS-Daten durchf\u00fchren. Wir empfehlen, dass die deutsche Umsetzung Ex-post-\u00dcberpr\u00fcfungsverfahren wie diese f\u00fcr TLD-Namensregister verbindlich macht. Thick WHOIS: Das einzige TLD-Register f\u00fcr .com und .net ist f\u00fcr mehr als die H\u00e4lfte aller weltweit registrierten Dom\u00e4nennamen verantwortlich und hat Vertr\u00e4ge mit mehr als 2.000 Registrierstellen in der ganzen Welt. Regierungsbeh\u00f6rden und andere berechtigte Zugangsnachfrager sind derzeit gezwungen, die zust\u00e4ndige Registrierstelle ausfindig zu machen, um eine WHOIS-Datenanfrage zu stellen. Der damit verbundene m\u00fchsame Prozess und die Tatsache, dass sich die Registrierungsstelle in einem Land befinden kann, das in Bezug auf solche Anfragen nicht kooperativ ist, untergr\u00e4bt das Ziel der Erh\u00f6hung der Cybersicherheit v\u00f6llig und dient stattdessen dazu, illegalen Akteuren Deckung und Schutz zu bieten.\r\nEs ist von wesentlicher Bedeutung, dass dieses Register sowie alle anderen TLD-Register eine vollst\u00e4ndige, genaue und unabh\u00e4ngige Datenbank mit WHOIS-Daten f\u00fcr alle von ihnen verwalteten Dom\u00e4nennamen unterhalten (als \"Thick WHOIS\" bezeichnet), und diese Daten m\u00fcssen die Daten des wirtschaftlichen Nutzers des Dom\u00e4nennamens enthalten und nicht einfach die Daten eines Anbieters von Datenschutz- oder Proxydiensten, der m\u00f6glicherweise bei der Registrierung verwendet wurde (siehe oben). Mit dieser wichtigen Anforderung wird sichergestellt, dass Strafverfolgungsbeh\u00f6rden und andere berechtigte Zugangsnachfrager eine zentrale und einzige Quelle haben, von der sie vollst\u00e4ndige und genaue Daten \u00fcber jeden vom TLD-Register verwalteten Dom\u00e4nennamen abrufen k\u00f6nnen."
+                        }
+                    }
+                ],
+                "title": "Entwurf eines Gesetzes zur Umsetzung der NIS-2-Richtlinie"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/ed/da/314201/Stellungnahme-Gutachten-SG2406190181.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                "de": "Bundesministerium der Finanzen (BMF)",
+                                "en": "Bundesministerium der Finanzen (BMF)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-20"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0006233",
+                "regulatoryProjectTitle": "Entlastung der Wirtschaft beim Abzugsteuerverfahren",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Kurzfassung\r\nBestimmte beschr\u00e4nkt steuerpflichtige Eink\u00fcnfte ausl\u00e4ndischer Verg\u00fctungsgl\u00e4ubiger\r\nunterliegen dem Steuerabzugsverfahren nach \u00a7 50a EStG. Beispielsweise: Eine im Ausland\r\nans\u00e4ssige Musikerin (Verg\u00fctungsgl\u00e4ubiger) tritt bei einem deutschen Festival eines Veranstalters\r\n(Verg\u00fctungsschuldner) auf oder ein deutsches Musiklabel (Verg\u00fctungsschuldner) lizensiert\r\nLeistungsschutzrechte eines ausl\u00e4ndischen Labels (Verg\u00fctungsgl\u00e4ubiger) oder eine\r\nAutorin/Buchverlag (Verg\u00fctungsgl\u00e4ubiger) lizenziert die \u00dcbersetzung ins Deutsche an einen\r\ndeutschen Buchverlag (Verg\u00fctungsschuldner).\r\nDie Verg\u00fctungsschuldner sind verpflichtet, die Steuern auf die Verg\u00fctung (in der Regel 15%) beim\r\nBundeszentralamt f\u00fcr Steuern (BZSt) anzumelden und abzuf\u00fchren. Diese Pflicht greift nach \u00a750c\r\nEStG nicht, sofern mit dem Land des Verg\u00fctungsgl\u00e4ubigers ein Abkommen zur Vermeidung von\r\nDoppelbesteuerung vorliegt. Dies muss jedoch auf Antrag des ausl\u00e4ndischen\r\nVerg\u00fctungsgl\u00e4ubigers (Freistellungsantrag) vom BZSt bescheinigt werden\r\n(Freistellungsbescheid) oder die Summe aller Verg\u00fctungen an den Verg\u00fctungsgl\u00e4ubiger darf\r\n5.000\u20ac pro Kalenderjahr nicht \u00fcberschreiten. Auf Antrag beim BZSt (Erstattungsantrag) wird dem\r\nVerg\u00fctungsgl\u00e4ubiger auf Grundlage des erteilten Freistellungsbescheides die entrichtete Steuer\r\nerstattet.\r\nF\u00fcr Verg\u00fctungsschuldner (deutsche Unternehmen) sowie f\u00fcr die -gl\u00e4ubiger (ausl\u00e4ndische\r\nPartnerunternehmen) sind mit der derzeitigen Ausgestaltung des Verfahrens immense\r\nb\u00fcrokratische H\u00fcrden verbunden. Problematisch sind der im internationalen Vergleich deutlich\r\nerh\u00f6hte Aufwand f\u00fcr entsprechende Nachweise f\u00fcr ausl\u00e4ndische Verg\u00fctungsgl\u00e4ubiger sowie die\r\nunzumutbare Bearbeitungszeiten beim BZSt von bis zu zwei Jahren. Innereurop\u00e4isch bedeutet\r\ndas erhebliche Wettbewerbsnachteile.\r\n\r\nHintergrund\r\nSeit Juni 2021 ist das Abzugsteuerentlastungsmodernisierungsgesetz (AbzStEntModG) in Kraft.\r\nMit diesem Gesetz haben wurde u. a. eine \u201eReduzierung und Verschlankung der vorhandenen\r\nVerfahren zur Entlastung von der Kapitalertragsteuer und vom Steuerabzug nach \u00a7 50a EStG f\u00fcr\r\nausl\u00e4ndische Steuerpflichtige sowie st\u00e4rkere Konzentration beim Bundeszentralamt f\u00fcr Steuern\r\n(BZSt)\u201c angek\u00fcndigt.\r\nInsbesondere f\u00fcr den Steuerabzug nach \u00a7 50a EstG entfaltet das Gesetz bisher keinerlei positive\r\nWirkung. Im Gegenteil:\r\n\uf0f0 Die Bearbeitungszeit ist von der Antragsstellung bis zur Erteilung einer Freistellung bzw.\r\nbis zur Erstattung auf mittlerweile bis zu 24 Monate angewachsen,\r\n\uf0f0 der Aufwand f\u00fcr die Nachweispflichten ausl\u00e4ndischer Lizenzgeber hat sich drastisch\r\nerh\u00f6ht (verlangt werden jetzt z. B. auch Mietvertr\u00e4ge und Details zu\r\nGesch\u00e4ftsf\u00fchrungsgeh\u00e4ltern),\r\n\uf0f0 die lizenznehmenden Unternehmen in Deutschland sind mit unzumutbaren\r\ngesch\u00e4ftssch\u00e4digenden Auswirkungen belastet,\r\n\uf0f0 und die auf ihr Geld wartenden Vertragspartner im Ausland drohen, ihre Lizenzgesch\u00e4fte\r\nin andere L\u00e4nder zu verlagern und k\u00fcnftig dort zu t\u00e4tigen, wo das Verfahren deutlich\r\nschlanker ist und zuverl\u00e4ssig funktioniert.\r\nEs liegt auf der Hand, dass hierdurch massive (auch innereurop\u00e4ische) Wettbewerbsnachteile\r\nerzeugt werden und nicht zuletzt der Wirtschaftsstandort Deutschland Schaden nimmt.\r\nGleichzeitig werden b\u00fcrokratische Mehraufw\u00e4nde erzeugt und Kapital in Millionenh\u00f6he\r\ngebunden, das die Unternehmen zum Wirtschaften brauchen.\r\nIm zust\u00e4ndigen Bundesministerium der Finanzen (BMF) und dem Bundeszentralamt f\u00fcr Steuern\r\n(BZSt) ist die Problematik hinl\u00e4nglich bekannt. Mehrfach nahm das BMF im Bundestag dazu\r\nStellung, erst k\u00fcrzlich ver\u00f6ffentlichte die CDU/CSU-Fraktion eine Kleine Anfrage zum \u201eStand der\r\nAbzugsteuerentlastungsverfahren\u201c (Drucksache 20/10715). 1 Die betroffenen Branchen bitten\r\nseit Monaten darum schnellstm\u00f6glich Abhilfe zu schaffen, zuletzt in ihrem gemeinsamen\r\nSchreiben an Bundesfinanzminister Christian Lindner vom 23. Februar 2024.\r\nLaut eigenen Angaben des BZSt gehen j\u00e4hrlich rund 40.000 Freistellungsantr\u00e4ge und\r\nAbzugsteueranmeldungen und 20.000 Entlastungsantr\u00e4ge im Referat St II 9 ein, die bearbeitet\r\nwerden m\u00fcssen. Die mit dem Wachstumschancengesetz vorgenommene\r\nSchwellenwertanhebung von 5.000 \u20ac auf 10.000 \u20ac wird f\u00fcr die kleinen und mittleren\r\nUnternehmen der Kreativwirtschaft keine nennenswerte Entlastung bringen und weiterhin kein\r\n\u201eequal level playing field\u201c mit innereurop\u00e4ischen Wettbewerbern erm\u00f6glichen.\r\nSeitens des BMF und des BZSt wurden gegen\u00fcber den unterzeichnenden Verb\u00e4nden bisher keine\r\nsubstanziellen L\u00f6sungsvorschl\u00e4ge vorgetragen. Die Antworten verweisen auf technische\r\nProbleme sowie personelle Engp\u00e4sse und gehen von einer mittel- bis langfristigen\r\nProbleml\u00f6sung aus. Eine zeitnahe Beschleunigung der Antragsbearbeitung ist offenbar nicht\r\nvorgesehen.\r\nKurzfristige L\u00f6sungsvorschl\u00e4ge\r\nDie unterzeichnenden Verb\u00e4nde sehen folgende Bereiche, in denen kurzfristig Abhilfe geschaffen\r\nwerden muss, um die Wirtschaft ebenso wie das BZSt zeitnah zu entlasten:\r\n1 https://dserver.bundestag.de/btd/20/107/2010715.pdf\r\n3\r\n1. Vereinfachung bei Wiederholungsantr\u00e4gen: Bis auf Weiteres sollten grunds\u00e4tzlich\r\nGenehmigungen von Anschlussfreistellungen erfolgen, soweit keine \u00c4nderung des\r\nSachverhalts vorliegt (Vertragsparteien und Vertrag wurden bereits beim Erstantrag im\r\nDetail gepr\u00fcft).\r\n2. Abfrage und Pr\u00fcfung von Angaben bei Antr\u00e4gen mit einer einzigen Vertragspartei zu\r\nunterschiedlichen Verg\u00fctungsanl\u00e4ssen: Die hierf\u00fcr zurzeit erforderlichen Angaben sind\r\nf\u00fcr die Freistellungserkl\u00e4rung dem Grunde nach irrelevant. Die Antragssteller m\u00fcssen\r\nzum Beispiel Details zum Verg\u00fctungsgegenstand nachweisen und f\u00fcr jeden\r\nVerg\u00fctungsanlass neu beantragen, selbst wenn die Vertragsparteien stets dieselben sind\r\noder viele einzelne Verg\u00fctungsanl\u00e4sse in einem umfassenden Verg\u00fctungsantrag (z. B.\r\nbei einer Konzerttournee) geb\u00fcndelt werden. Dabei ist f\u00fcr die Freistellungserkl\u00e4rung im\r\nKern nur relevant, in welchem Land der Steuerschuldner steuerpflichtig ist und ob mit\r\ndiesem Land ein Doppelbesteuerungsabkommen besteht.\r\nDaher m\u00fcssten, ebenso wie zum Beispiel im Bausektor, die Freistellungsantr\u00e4ge\r\nbez\u00fcglich des Verg\u00fctungsgegenstands / Lizenznehmers unbestimmt sein k\u00f6nnen und\r\ngleichzeitig f\u00fcr drei Jahre erteilt werden (\u201eMasterfreistellung\u201c). Das w\u00fcrde den\r\nPr\u00fcfungsaufwand erheblich senken und die Anzahl der Wiederholungsantr\u00e4ge und\r\ngleichlautenden Antr\u00e4ge erheblich minimieren.\r\nF\u00fcr diese Ma\u00dfnahmen w\u00e4re keine Gesetzes\u00e4nderung notwendig. Sie w\u00fcrden die Rechtm\u00e4\u00dfigkeit\r\nder Steuererhebung nicht gef\u00e4hrden. Die Beh\u00f6rde wie auch die Wirtschaft w\u00fcrden sofort\r\nentlastet und k\u00fcnftiger Bearbeitungsstau verhindert.\r\nMittelfristige L\u00f6sungsvorschl\u00e4ge\r\nDar\u00fcber hinaus sehen die unterzeichnenden Verb\u00e4nde zwingend mittelfristigen\r\nHandlungsbedarf, um sicherzustellen, dass es bei beim Quellensteuerverfahren \u00fcberhaupt zu\r\nden angek\u00fcndigten dauerhaften Erleichterungen f\u00fcr die Unternehmen und ebenso das BZSt\r\nkommen kann:\r\n1. Kleinstbetr\u00e4ge (F\u00e4lle von geringer steuerlicher Bedeutung): Hierf\u00fcr sollte der Aufwand f\u00fcr\r\ndie Freistellungsberechtigten entsprechend dem fr\u00fcheren Kontrollmeldeverfahren auf ein\r\nMinimum reduziert werden.\r\n2. Aufgrund der globalen Einf\u00fchrung einer Minimumbesteuerung und der bestehenden EUBlacklist\r\nsollte es zudem langfristig zur Freistellungsgenehmigung nur der Vorlage einer\r\nAns\u00e4ssigkeitsbescheinigung und eine Beneficial Ownership-Erkl\u00e4rung bed\u00fcrfen. Dies ist\r\nauch im Vergleich zu anderen L\u00e4ndern folgerichtig. Die h\u00f6chst b\u00fcrokratischen\r\nAnforderungen in Deutschland sind in dieser Hinsicht einzigartig.\r\n3. Die mit dem Wachstumschancengesetz verbundene Anhebung des Schwellenwertes von\r\n5.000 Euro auf 10.000 Euro ist unzureichend, weil der Betrag immer noch weit unter der\r\nWirtschaftlichkeitsgrenze selbst f\u00fcr kleine und mittlere Unternehmen liegt. Der\r\nGesetzgeber sollte im Sinne von B\u00fcrokratieabbau und Wettbewerbsf\u00e4higkeit\r\nschnellstm\u00f6glich nachbessern und die Schwelle auf 50.000 Euro anheben.\r\n4. Schlie\u00dflich regen wir an, dass Online-Registrierungsverfahren auf seine Effektivit\u00e4t zu\r\npr\u00fcfen. Allein das Registrierungsverfahren dauert derzeit bis zu 6 Wochen. Ebenso\r\nmachen wir die Erfahrung, dass viele Antragssteller auch formal am\r\nRegistrierungsverfahren scheitern. F\u00fcr den Bereich der nat\u00fcrlichen Antragssteller bedarf\r\nes zudem einer vereinfachten Antragsstellung bspw. mittels eines vereinfachten\r\nFormulars. Das derzeitige Portal des BZSt und sein aktualisierte Eingabeverfahren ist\r\nweder zeitgem\u00e4\u00df noch durch seine Nutzungsvorgaben und -Einschr\u00e4nkungen an\r\n4\r\nbetrieblichen Abl\u00e4ufen orientiert. Es verursacht allein dadurch einen enormen\r\nMehraufwand bei den Unternehmen.\r\nAusblick\r\nDie Bundesregierung hat mit Blick auf die Beratungen zum Bundeshaushalt 2024 wiederholt\r\ndeutlich gemacht, dass es in Zukunft kaum m\u00f6glich sein wird, die inl\u00e4ndischen Unternehmen\r\nfinanziell mit Subventionspaketen oder \u00c4hnlichem zu unterst\u00fctzen. L\u00f6sungen zur Ankurbelung\r\nder Wirtschaft werden vor allem in Form von Entb\u00fcrokratisierungsma\u00dfnahmen versprochen. Die\r\nunterzeichnenden Verb\u00e4nde appellieren daher dringend an die politisch Verantwortlichen die\r\nGelegenheit beim Schopfe zu packen und die mit dem Verfahren zum Steuerabzug nach \u00a750a\r\nEStG verbunden b\u00fcrokratischen H\u00fcrden zu beseitigen. Hier liegt die gro\u00dfe Chance, die deutsche\r\nWirtschaft beim Abzugsteuerverfahren tatkr\u00e4ftig zu entlasten."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/20/84/314203/Stellungnahme-Gutachten-SG2406190197.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMI",
+                                "de": "Bundesministerium des Innern und f\u00fcr Heimat (BMI)",
+                                "en": "Bundesministerium des Innern und f\u00fcr Heimat (BMI)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-28"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0006234",
+                "regulatoryProjectTitle": "Entwurf eines Gesetzes zur Umsetzung der NIS-2-Richtlinie",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Der Bundesverband Musikindustrie (BVMI) vertritt die Interessen von mehr als 200\r\nTontr\u00e4gerherstellern und Musikunternehmen, die mehr als 80 Prozent des deutschen Musikmarkts\r\nrepr\u00e4sentieren. Der Verband setzt sich f\u00fcr die Anliegen der Musikindustrie in der deutschen und\r\neurop\u00e4ischen Politik ein und dient der \u00d6ffentlichkeit als zentraler Ansprechpartner zur\r\nMusikbranche. Neben der Ermittlung und Ver\u00f6ffentlichung von Marktstatistiken sowie der\r\nEtablierung von Branchenstrukturen wie der B-to-B-Plattform PHONONET geh\u00f6ren branchennahe\r\nDienstleistungen zum Portfolio des BVMI. Seit 1975 verleiht er die GOLD- und PLATIN-, seit 2014\r\nauch die DIAMOND-AWARDS an die erfolgreichsten K\u00fcnstler in Deutschland. Seit 1977 werden die\r\nOffiziellen Deutschen Charts im Auftrag des BVMI erhoben. Zur Orientierung der Verbraucher bei\r\nder legalen Nutzung von Musik im Internet hat der Verband 2013 die Initiative PLAYFAIR ins Leben\r\ngerufen.Der BVMI begr\u00fc\u00dft die Verabschiedung der \u00fcberarbeiteten Richtlinie \u00fcber die Sicherheit von Netz und Informationssystemen (NIS2-Richtlinie), insbesondere die Bestimmungen \u00fcber\r\nDom\u00e4nennamen- und Registrierungsdienste in Artikel 28 und den Erw\u00e4gungsgr\u00fcnden 109 bis 112.\r\nDer Zugang zu zuverl\u00e4ssigen Registrierungsdaten (\"WHOIS-Daten\") ist f\u00fcr die Bek\u00e4mpfung illegaler\r\nund sch\u00e4dlicher Online-Inhalte, einschlie\u00dflich urheberrechtsverletzender Inhalte, und f\u00fcr den Schutz der Gesundheit und Sicherheit der B\u00fcrger von wesentlicher Bedeutung. Die Umsetzung von Artikel 28 findet sich in den \u00a7\u00a7 51-53 des \u201eEntwurfs eines Gesetzes zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundz\u00fcge des Informationssicherheitsmanagements in der Bundesverwaltung\u201c. Insofern schlie\u00dft sich der BVMI auch der Position der Motion Picture Association (MPA) an. In der Studie der Europ\u00e4ischen Kommission \u00fcber DNS-Missbrauch aus dem Jahr 2022 wurde die \u00dcberpr\u00fcfung von WHOIS-Daten als eine der wichtigsten Empfehlungen zur Verhinderung, Aufdeckung und Eind\u00e4mmung von DNS-Missbrauch genannt. Auch die Europ\u00e4ische Kommission hat k\u00fcrzlich in der Empfehlung zur Bek\u00e4mpfung von Produkt- und Markenpiraterie aus dem Jahr 2024 anerkannt, dass \"die Richtigkeit und Vollst\u00e4ndigkeit der Registrierungsdaten von Dom\u00e4nennamen auch eine zentrale Rolle bei der Durchsetzung von Rechten des geistigen Eigentums spielen kann\" (eigene \u00dcbersetzung). Sie betonte ferner, dass die bereitgestellten Registrierungsdaten korrekt und verifiziert sein und sich auf den tats\u00e4chlichen Nutzer des Dom\u00e4nennamens beziehen m\u00fcssen, und nicht einfach auf einen Anbieter von Datenschutz- oder Proxy-Diensten. Wir begr\u00fc\u00dfen den Gesetzesentwurf des BMI, der eine weitgehend wortgetreue Umsetzung von Artikel 28 vornimmt. Wir m\u00f6chten jedoch die folgenden Priorit\u00e4ten hervorheben, um eine solide Umsetzung zu gew\u00e4hrleisten und die Zug\u00e4nglichkeit und Genauigkeit der WHOIS-Daten weitgehend zu verbessern: Berechtigte Zugangsnachfrager und Daten: In Erw\u00e4gungsgrund 110 der NIS2 wird der \u201eberechtigte Zugangsnachfrager\u201c auf Zugang zu WHOIS-Daten gem\u00e4\u00df Artikel 28 Absatz 5 als \u201ejede nat\u00fcrliche oder juristische Person zu verstehen, die einen Antrag gem\u00e4\u00df des Unionsrechts oder des nationalen Rechts stellt\" definieren. Das deutsche Umsetzungsgesetz sollte daher den Begriff \"berechtigte Zugangsnachfrager\" ausdr\u00fccklich definieren und klarstellen, dass dazu nicht nur staatliche Stellen, wie z. B. Strafverfolgungsbeh\u00f6rden, geh\u00f6ren, sondern auch jede nat\u00fcrliche oder juristische Person, die einen Antrag auf Zugang zu WHOIS-Daten stellt, um die Rechtswidrigkeit zu untersuchen, einschlie\u00dflich, aber nicht beschr\u00e4nkt auf die Begr\u00fcndung, Aus\u00fcbung oder Verteidigung von Rechtsanspr\u00fcchen in den Bereichen Cybersicherheit, geistiges Eigentum, Verbraucherschutz oder andere Rechtsanspr\u00fcche.\r\nDies steht im Einklang mit der k\u00fcrzlich ver\u00f6ffentlichten Empfehlung der Europ\u00e4ischen Kommission zur Bek\u00e4mpfung von Produkt- und Markenpiraterie, in der Unternehmen, die in \r\nder EU Registrierungsdienste f\u00fcr Dom\u00e4nennamen anbieten, aufgefordert werden, nat\u00fcrliche oder juristische Personen, die einen Antrag auf Auskunftserteilung gem\u00e4\u00df der Richtlinie 2004/48/EG zur Durchsetzung der Rechte des geistigen Eigentums (IPRED) stellen, als berechtigte Zugangsnachfrager anzuerkennen. In der Tat arbeiten die Strafverfolgungsbeh\u00f6rden h\u00e4ufig mit unabh\u00e4ngigen Forschern und Nichtregierungsorganisationen zusammen, um illegale Online-Aktivit\u00e4ten zu verfolgen und zu bek\u00e4mpfen. \r\nWir schlagen daher folgende Formulierung f\u00fcr die Umsetzung in deutsches Recht vor:\r\n\"Zu den berechtigten Zugangsnachfragern geh\u00f6rt jede nat\u00fcrliche oder juristische Person, die einen Antrag zur Feststellung, Aus\u00fcbung oder Verteidigung von straf-, zivil- oder sonstigen Rechtsanspr\u00fcchen nach dem Unionsrecht oder dem Recht der Bundesrepublik Deutschland stellt.\"\r\nDar\u00fcber hinaus muss der Zugang zu den WHOIS-Daten gem\u00e4\u00df Erw\u00e4gungsgrund 112 kostenlos sein, und diese Daten m\u00fcssen auf Antrag des berechtigten Zugangsnachfragers ohne unangemessene Verz\u00f6gerung zur Verf\u00fcgung gestellt werden.\r\n\u2022 Bek\u00e4mpfung der Nutzung von Proxy-/Privacy-Diensten: In einer Studie des EU-Amtes f\u00fcr geistiges Eigentum (EUIPO) aus dem Jahr 2021 wurde festgestellt, dass \"ein erheblicher Prozentsatz der Dom\u00e4nennamen, die zur Durchf\u00fchrung illegaler oder sch\u00e4dlicher Internetaktivit\u00e4ten verwendet werden, \u00fcber Datenschutz- oder Proxy-Dienste registriert werden\" und dass seit dem Inkrafttreten der Datenschutz-Grundverordnung die Begr\u00fcndung f\u00fcr die rechtm\u00e4\u00dfige Nutzung von Datenschutz- oder Proxy-Diensten \"in Frage gestellt wurde\" (eigene \u00dcbersetzung). Die nationale Umsetzung der NIS2-Richtlinie muss daher die Beliebtheit von Proxy- oder Privacy-Diensten bei denjenigen ber\u00fccksichtigen, die illegale und sch\u00e4dliche Aktivit\u00e4ten online durchf\u00fchren. Wenn ein berechtigter Zugangsantrag gestellt wird, m\u00fcssen die \r\n\r\nSiehe Empfehlung \u00fcber Ma\u00dfnahmen zur Bek\u00e4mpfung von Nachahmungen und zur Verbesserung der Durchsetzung von Rechten des geistigen Eigentums, Ziffer 15.\r\n\r\n2 Siehe zum Beispiel das Europ\u00e4ische Zentrum zur Bek\u00e4mpfung der Cyberkriminalit\u00e4t, das \"darauf abzielt, Akteure des \u00f6ffentlichen und privaten Sektors einzubinden, deren F\u00e4higkeiten, Ressourcen und Reichweite neben den Bem\u00fchungen der Strafverfolgungsbeh\u00f6rden ben\u00f6tigt werden, um ein sichereres digitales Umfeld zu schaffen.\" https://www.europol.europa.eu/about-europol/european-cybercrime-centre-ec\r\n\r\nEUIPO \"Domain Names: Diskussionspapier\" M\u00e4rz 2021 https://euipo.europa.eu/tunnel-web/secure/webdav/guest/document_library/observatory/documents/reports/2021_Discussion_Paper_on_Domain_Names/2021_Discussion_Paper_on_Domain_Names_FullR_en.pdf\r\n\r\n\r\nzugrundeliegenden Daten des tats\u00e4chlichen Kunden/beg\u00fcnstigten Nutzers des Dom\u00e4nennamens offengelegt werden und nicht nur die Daten des Anbieters des Datenschutz- oder Proxy-Dienstes, wenn ein solcher Datenschutz- oder Proxy-Dienst bei der Registrierung verwendet wurde.\r\nWir empfehlen daher, dass der deutsche Gesetzesentwurf bei der Umsetzung von Artikel 28 ausdr\u00fccklich die folgende Formulierung enth\u00e4lt: \"Bei der Bereitstellung von Daten als Antwort auf rechtm\u00e4\u00dfige Zugangsantr\u00e4ge m\u00fcssen TLD-Namen-Register und die Stellen, die Dom\u00e4nennamen-Registrierungsdienste anbieten, die Daten des wirtschaftlichen Nutzers des Dom\u00e4nennamens bereitstellen und d\u00fcrfen stattdessen nicht die Daten des Anbieters von Datenschutz- oder Proxy-Registrierungsdiensten bereitstellen, die bei der Registrierung des Dom\u00e4nennamens verwendet worden sein k\u00f6nnten.\" In dieser Hinsicht sollte die Umsetzung der in Artikel 28 festgelegten Verpflichtung zur \u00dcberpr\u00fcfung der Richtigkeit der WHOIS-Daten eindeutig f\u00fcr Anbieter von Datenschutz- und Proxy-Diensten und Wiederverk\u00e4ufer von Dom\u00e4nennamen sowie f\u00fcr Registrierungsstellen und TLD-Register gelten. Dies steht im Einklang mit Artikel 6 (22), der ausdr\u00fccklich Anbieter von Datenschutz- und Proxy-Diensten sowie Wiederverk\u00e4ufer von Dom\u00e4nennamen als Beispiele f\u00fcr \"Einrichtung, die Dom\u00e4nennamen-Registrierungsdienste erbringt\", auff\u00fchrt. DNS-Missbrauch in gro\u00dfem Umfang angehen und verhindern: Cyberkriminelle registrieren oft mehrere, manchmal sogar Tausende von Dom\u00e4nennamen in einem kurzen Zeitraum. Dies ist insbesondere der Fall, wenn es um Phishing, die Verbreitung von Malware und die Verbreitung von urheberrechtsverletzenden Inhalten geht. Die Sicherstellung, dass ein rechtm\u00e4\u00dfiger Zugangssuchender in der Lage ist, eine Liste aller Dom\u00e4nennamen zu erhalten, die unter denselben Registrierungsdaten registriert sind (umgekehrte WHOIS-Abfrage), ist von entscheidender Bedeutung, wenn ausgekl\u00fcgelte und verstreute illegale Aktivit\u00e4ten in einem solchen Umfang vermutet werden.\r\nWir empfehlen daher, Artikel 28 dahingehend umzusetzen, dass \"wenn ein Dom\u00e4nenname mit missbr\u00e4uchlichen oder illegalen Aktivit\u00e4ten in Verbindung gebracht wird, wie dies von einem rechtm\u00e4\u00dfigen Antragsteller behauptet wird, die TLD-Register und Einrichtungen, die Dienste zur Registrierung von Dom\u00e4nennamen anbieten, dem rechtm\u00e4\u00dfigen Antragsteller auf Anfrage eine \r\nListe aller Dom\u00e4nennamen zur Verf\u00fcgung stellen m\u00fcssen, die sie unter denselben Registrierungsdaten verwalten oder registriert haben.\" Juristische Personen: Die WHOIS-Daten von juristischen Personen (mindestens Name und Telefonnummer sowie E-Mail-Adresse der Kontaktperson) m\u00fcssen gem\u00e4\u00df Artikel 28 Absatz 4 unter Bezugnahme auf Erw\u00e4gungsgrund 112 \u00f6ffentlich zug\u00e4nglich gemacht werden. Verifizierung: Die Verfahren zur \u00dcberpr\u00fcfung der WHOIS-Daten sollten solide sein und laufend aktualisiert werden, um Verbesserungen der Technologien und Prozesse zu ber\u00fccksichtigen. Wie in Erw\u00e4gungsgrund 111 dargelegt, sollten diese Verfahren \" unrichtige Registrierungsdaten zu verhindern bzw. zu berichtigen\" und \"die in dem Wirtschaftszweig angewandten bew\u00e4hrten Verfahren und, soweit m\u00f6glich, die Fortschritte im Bereich der elektronischen Identifizierung ber\u00fccksichtigt werden\" und sowohl \"Ex-ante-Kontrollen zum Zeitpunkt der Registrierung und Ex-post-Kontrollen nach der Registrierung\" umfassen. Auch wenn die TLD-Register nicht in der Lage sind, die WHOIS-Daten zum Zeitpunkt der Registrierung zu \u00fcberpr\u00fcfen, da die anf\u00e4ngliche Erfassung der Daten in der Regel von Registrierstellen und/oder Datenschutz-/Proxy-Diensten vorgenommen wird, k\u00f6nnen sie durchaus Ex-post-Verfahren zur \u00dcberpr\u00fcfung der WHOIS-Daten durchf\u00fchren. Wir empfehlen, dass die deutsche Umsetzung Ex-post-\u00dcberpr\u00fcfungsverfahren wie diese f\u00fcr TLD-Namensregister verbindlich macht. Thick WHOIS: Das einzige TLD-Register f\u00fcr .com und .net ist f\u00fcr mehr als die H\u00e4lfte aller weltweit registrierten Dom\u00e4nennamen verantwortlich und hat Vertr\u00e4ge mit mehr als 2.000 Registrierstellen in der ganzen Welt. Regierungsbeh\u00f6rden und andere berechtigte Zugangsnachfrager sind derzeit gezwungen, die zust\u00e4ndige Registrierstelle ausfindig zu machen, um eine WHOIS-Datenanfrage zu stellen. Der damit verbundene m\u00fchsame Prozess und die Tatsache, dass sich die Registrierungsstelle in einem Land befinden kann, das in Bezug auf solche Anfragen nicht kooperativ ist, untergr\u00e4bt das Ziel der Erh\u00f6hung der Cybersicherheit v\u00f6llig und dient stattdessen dazu, illegalen Akteuren Deckung und Schutz zu bieten.\r\nEs ist von wesentlicher Bedeutung, dass dieses Register sowie alle anderen TLD-Register eine vollst\u00e4ndige, genaue und unabh\u00e4ngige Datenbank mit WHOIS-Daten f\u00fcr alle von ihnen verwalteten Dom\u00e4nennamen unterhalten (als \"Thick WHOIS\" bezeichnet), und diese Daten m\u00fcssen die Daten des wirtschaftlichen Nutzers des Dom\u00e4nennamens enthalten und nicht einfach die Daten eines Anbieters von Datenschutz- oder Proxydiensten, der m\u00f6glicherweise bei der Registrierung verwendet wurde (siehe oben). Mit dieser wichtigen Anforderung wird sichergestellt, dass Strafverfolgungsbeh\u00f6rden und andere berechtigte Zugangsnachfrager eine zentrale und einzige Quelle haben, von der sie vollst\u00e4ndige und genaue Daten \u00fcber jeden vom TLD-Register verwalteten Dom\u00e4nennamen abrufen k\u00f6nnen."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

@@ -1,0 +1,944 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-09-19T22:44:55.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-09-19T22:44:55.000+02:00",
+        "lastUpdateDate": "2024-06-30T10:47:53.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37156,
+                "validFromDate": "2024-06-30T10:47:53.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 31401,
+                "validFromDate": "2024-06-15T15:33:53.000+02:00",
+                "validUntilDate": "2024-06-30T10:47:53.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 20094,
+                "validFromDate": "2023-07-17T18:56:08.000+02:00",
+                "validUntilDate": "2024-06-15T15:33:53.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 9555,
+                "validFromDate": "2022-09-19T22:44:55.000+02:00",
+                "validUntilDate": "2023-07-17T18:56:08.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Die Internationale Frauenliga f\u00fcr Frieden und Freiheit (IFFF) ist ein gemeinn\u00fctziger Verein. Sie setzt ihre Ziele auf internationaler, regionaler und nationaler Ebene um. Die IFFF ist die deutsche Sektion der Women's International League for Peace and Freedom (WILPF). \r\n\r\nWILPF ist die \u00e4lteste Frauen-Friedensorganisation der Welt und in \u00fcber 40 L\u00e4ndern und auf allen Kontinenten dieser Welt vertreten. Seit ihrer Gr\u00fcndung engagieren sich die Mitglieder gegen alle Formen von Krieg und Gewalt. Sie war ma\u00dfgeblich an der Gr\u00fcndung der Vereinten Nationen (UN) beteiligt und besitzt einen ECOSOC-Beratungsstatus.\r\n\r\nWir verstehen uns als F\u00fcrsprecherin f\u00fcr ein Zusammenleben in Frieden, Freiheit und Gerechtigkeit. Dabei untersuchen wir die wechselseitigen Abh\u00e4ngigkeiten globaler Strukturen, die Ursachen f\u00fcr Gewalt gegen Frauen und Minderheiten, von Diskriminierung und Ungleichheiten und wie sich diese Strukturen jeweils auf Friedens- und Sicherheitspolitik auswirken. Um unserer feministischen Vision einer friedlichen Welt n\u00e4her zu kommen, erarbeiten wir Analysen, betreiben politische Lobbyarbeit, machen Bildungsarbeit und setzen uns f\u00fcr mehr Toleranz und die Verst\u00e4ndigung von verschiedenen Gruppen ein.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_DEFENSE",
+                "de": "Verteidigung",
+                "en": "Defense"
+            },
+            {
+                "code": "FOI_FA_BRD",
+                "de": "Au\u00dfenpolitik",
+                "en": "Foreign policy of the federal republic of Germany"
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_EU_OTHER",
+                "de": "Sonstiges im Bereich \"Europapolitik und Europ\u00e4ische Union\"",
+                "en": "Other in the field of \"European politics and the EU\""
+            },
+            {
+                "code": "FOI_RPI_REFUGEE",
+                "de": "Asyl und Fl\u00fcchtlingsschutz",
+                "en": "Asylum and refugee protection"
+            },
+            {
+                "code": "FOI_SP_DIVERSITY",
+                "de": "Diversit\u00e4tspolitik",
+                "en": "Diversity policy"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_RPI_OTHER",
+                "de": "Sonstiges im Bereich \"Migration, Fl\u00fcchtlingspolitik und Integration\"",
+                "en": "Other in the field of \"Migration, refugee policy and integration\""
+            },
+            {
+                "code": "FOI_DEFENSE_OTHER",
+                "de": "Sonstiges im Bereich \"Verteidigung\"",
+                "en": "Other in the field of \"Defense\""
+            },
+            {
+                "code": "FOI_RPI_MIGRATION",
+                "de": "Migration",
+                "en": "Migration and residence"
+            },
+            {
+                "code": "FOI_IS_OTHER",
+                "de": "Sonstiges im Bereich \"Innere Sicherheit\"",
+                "en": "Other in the field of \"Internal security\""
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_SP_GENDER",
+                "de": "Geschlechterpolitik",
+                "en": "Gender politics"
+            },
+            {
+                "code": "FOI_DEFENSE_POLICY",
+                "de": "Verteidigungspolitik",
+                "en": "Defense policy"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_EU_SAFETY_POLICY",
+                "de": "Gemeinsame Au\u00dfen- und Sicherheitspolitik der EU",
+                "en": "Common foreign and security policy of the EU"
+            },
+            {
+                "code": "FOI_DEFENSE_ARMAMENTS",
+                "de": "R\u00fcstungsangelegenheiten",
+                "en": "Armaments matters"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_FA_OTHER",
+                "de": "Sonstiges im Bereich \"Au\u00dfenpolitik und internationale Beziehungen\"",
+                "en": "Other in the field of \"Foreign policy and international relations\""
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_IS_CYBER",
+                "de": "Cybersicherheit",
+                "en": "Cyber security"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 1,
+            "to": 10000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.05,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Haus der Demokratie",
+            "nationalAdditional2": "und Menschenrechte",
+            "street": "Greifswalderstra\u00dfe",
+            "streetNumber": "4",
+            "type": "NATIONAL",
+            "zipCode": "10405"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@wilpf.de"
+                }
+            ],
+            "phoneNumber": "+491786838483",
+            "websites": [
+                {
+                    "website": "www.wilpf.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Jennifer",
+                "lastName": "Menninger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Mariana",
+                "lastName": "Lechterbeck",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Johanna",
+                "lastName": "Braun",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Madita",
+                "lastName": "Standke-Erdmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Michelle",
+                "lastName": "Benzing",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+            "en": "Networks, platforms or other forms of collective activity",
+            "legalFormText": "Nicht eingetragener Verein"
+        },
+        "legalFormType": {
+            "code": "NETWORK_PLATFORM_OR_OTHER",
+            "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+            "en": "Network, platform or other form of collective activity"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Mariana",
+                "function": "Vorstandsvorsitzende",
+                "lastName": "Lechterbeck",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Johanna",
+                "function": "Stellv. Vorstandsvorsitzende",
+                "lastName": "Braun",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-15",
+            "naturalPersons": 154,
+            "organizations": 0,
+            "totalCount": 154
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Women\u2019s International League for Peace and Freedom (WILPF)"
+            },
+            {
+                "membership": "Forum Menschenrechte e.V."
+            },
+            {
+                "membership": "Verein f\u00fcr Zivile Konfliktbearbeitung e.V."
+            },
+            {
+                "membership": "Frauennetzwerk f\u00fcr Frieden e.V."
+            },
+            {
+                "membership": "B\u00fcchel ist \u00fcberall! atomwaffenfrei.jetzt "
+            },
+            {
+                "membership": "Kooperation f\u00fcr den Frieden"
+            },
+            {
+                "membership": "Stadtbund M\u00fcnchener Frauenverb\u00e4nde "
+            },
+            {
+                "membership": "Tr\u00e4gerkreis EineWelt Haus M\u00fcnchen e.V."
+            },
+            {
+                "membership": "Aktion Aufschrei - Stoppt den Waffenhandel!"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Internationale Frauenliga f\u00fcr Frieden und Freiheit n.e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 1,
+            "to": 10000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Projektgelder f\u00fcr das Teil-Projekt Womens Road to Survival in the crisis regions of OSCE countries - Local implementation of the WPS Agenda with a specific focus on the forcedly displaced women and care work migration, als Teil des multilateralen Projektes  Strengthening Civil Society Cooperation within the OSCE Region for stabilizing the human dimension in times of shrinking spaces and countering erosion of common values and multilateral mechanisms, gef\u00f6rdert vom Ausw\u00e4rtigen Amt\r\n",
+                "location": "Berlin",
+                "name": "Ausw\u00e4rtiges Amt via Austausch e.V.",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R005223/37156",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-30T10:47:53.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/e8/79/326784/Lobbyregister-Detailansicht-R005223-2024-06-30_10-47-53.pdf",
+        "validFromDate": "2024-06-30T10:47:53.000+02:00",
+        "version": 4
+    },
+    "registerEntryId": 37156,
+    "registerNumber": "R005223",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Als Teil des internationalen ICAN B\u00fcndnisses setzen wir uns f\u00fcr den Beitritt der Bundesrepublik Deutschlands zum Atomwaffenverbotsvertrag ein. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_DEFENSE",
+                        "de": "Verteidigung",
+                        "en": "Defense"
+                    },
+                    {
+                        "code": "FOI_DEFENSE_ARMAMENTS",
+                        "de": "R\u00fcstungsangelegenheiten",
+                        "en": "Armaments matters"
+                    },
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_BRD",
+                        "de": "Au\u00dfenpolitik",
+                        "en": "Foreign policy of the federal republic of Germany"
+                    },
+                    {
+                        "code": "FOI_DEFENSE_POLICY",
+                        "de": "Verteidigungspolitik",
+                        "en": "Defense policy"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_SAFETY_POLICY",
+                        "de": "Gemeinsame Au\u00dfen- und Sicherheitspolitik der EU",
+                        "en": "Common foreign and security policy of the EU"
+                    },
+                    {
+                        "code": "FOI_FA_INTERNATIONAL",
+                        "de": "Internationale Beziehungen",
+                        "en": "International relations"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010467",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a9/95/326780/Stellungnahme-Gutachten-SG2406280044.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-08"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0010467",
+                        "regulatoryProjectTitle": "Atomwaffenverbotsvertrag ",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "An die SpitzenkandidatInnen zur Europawahl 2024\r\nOffener Brief: Gegen EU-Atomwaffen \u2013 f\u00fcr ein Europa der nuklearen Abr\u00fcstung\r\n\r\nSehr geehrte Kandidierende,\r\ndanke, dass Sie sich am 9. Juni 2024 zur Wahl f\u00fcr das Europ\u00e4ische Parlament stellen!\r\nAls Vertreterinnen und Vertreter deutscher ICAN-Partnerorganisationen m\u00f6chten wir Sie bitten und ermutigen, sich beim existenziellen Thema der Atomwaffen einzumischen.\r\nDie Gefahr eines Atomkrieges war noch nie so hoch wie heute. Weltweit existieren immer noch 12.100 Atomwaffen, davon circa 2.000 in hoher Alarmbereitschaft. Und die Atomwaffenstaaten r\u00fcsten weiter auf. In der EU haben Belgien, Deutschland, Italien und die Niederlande als NATO- Mitglieder im Rahmen der nuklearen Teilhabe US-Atomwaffen auf ihrem Territorium statio- niert. Frankreich verf\u00fcgt \u00fcber ein eigenes Atomwaffenarsenal. Nun fordern einzelne Stimmen zus\u00e4tzlich sogar eigene Atomwaffen f\u00fcr die EU. Diese Forderung lehnen wir entschieden ab!\r\nEuropa geh\u00f6rt bereits jetzt zu den Weltregionen, in denen das Risiko eines Atomkrieges am h\u00f6chsten ist. Eine weitere Aufr\u00fcstung w\u00fcrde dieses Risiko noch erh\u00f6hen. Atomwaffen sind keine \u00bbnormalen\u00ab Waffen, es sind Massenvernichtungswaffen. Jede einzelne hat das Potential, hun- derttausende Menschen unterschiedslos zu t\u00f6ten und zu verstrahlen. Der Internationale Ge- richtshof hat in einem Gutachten vom 8. Juli 1996 darauf hingewiesen, dass die Drohung mit und der Einsatz von Atomwaffen \u00bbgenerell\u00ab gegen das humanit\u00e4re V\u00f6lkerrecht versto\u00dfen.\r\nZudem haben alle EU-Staaten den Nichtverbreitungsvertrag (NVV) unterzeichnet und damit ein- deutig erkl\u00e4rt, auf eine atomare Bewaffnung zu verzichten (Frankreich darf gem\u00e4\u00df NVV Atom- waffen besitzen, hat sich aber zu Verhandlungen \u00fcber ihre vollst\u00e4ndige Abr\u00fcstung verpflichtet). EU-Atomwaffen w\u00fcrden diese Verpflichtung brechen, eine Aufk\u00fcndigung des Vertrages w\u00e4re fatal f\u00fcr das V\u00f6lkerrecht. In der Folge w\u00fcrde weltweit ein unkontrolliertes nukleares Wettr\u00fcsten drohen.\r\nBerlin, den 8. Mai 2024\r\nDie gr\u00f6\u00dfte Sicherheit f\u00fcr die Menschen in Europa konnte in den letzten Jahrzehnten durch Entspannungspolitik und R\u00fcstungskontrolle erreicht werden!\r\nDie Europ\u00e4ische Union sollte dieses Wissen nutzen und sich international f\u00fcr Dialog und Abr\u00fcs- tung stark machen! Eine M\u00f6glichkeit dazu ist der UN-Atomwaffenverbotsvertrag (AVV). 70 Staa- ten weltweit haben ihn bereits ratifiziert. Mit Irland, Malta und \u00d6sterreich sind darunter auch drei Staaten der EU.\r\n1\r\n \r\nWir bitten Sie, sehr geehrte Kandidierende:\r\n \u25aa Machen Sie sich daf\u00fcr stark, dass die EU keine eigenen Atomwaffen erh\u00e4lt und auch keine gemeinsame Planungs- und Befehlsstruktur f\u00fcr Atomwaffen aufbaut!\r\n  \u25aa Setzen Sie sich f\u00fcr den Abzug beziehungsweise die Abr\u00fcstung aller Atomwaffen in der EU und den Beitritt aller Mitgliedsstaaten zum UN-Atomwaffenverbotsvertrag ein!\r\n  \u25aa Bekennen Sie sich jetzt zum Ziel einer atomwaffenfreien Welt, indem Sie die ICAN-Erkl\u00e4rung f\u00fcr Abgeordnete unterzeichnen, wie es \u00fcber 600 ParlamentarierInnen aus Deutschland bereits getan haben (siehe n\u00e4chste Seite)!\r\n\r\n  Mit freundlichen Gr\u00fc\u00dfen\r\nUnterzeichnende"
+                        }
+                    }
+                ],
+                "title": "Atomwaffenverbotsvertrag "
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Als Teil der Kampagne \"Stop Killer Robots\" setzen wir uns f\u00fcr ein Verbot von Autonomen Waffensystemen ein. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_BRD",
+                        "de": "Au\u00dfenpolitik",
+                        "en": "Foreign policy of the federal republic of Germany"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_SAFETY_POLICY",
+                        "de": "Gemeinsame Au\u00dfen- und Sicherheitspolitik der EU",
+                        "en": "Common foreign and security policy of the EU"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    },
+                    {
+                        "code": "FOI_FA_INTERNATIONAL",
+                        "de": "Internationale Beziehungen",
+                        "en": "International relations"
+                    },
+                    {
+                        "code": "FOI_DEFENSE",
+                        "de": "Verteidigung",
+                        "en": "Defense"
+                    },
+                    {
+                        "code": "FOI_DEFENSE_ARMAMENTS",
+                        "de": "R\u00fcstungsangelegenheiten",
+                        "en": "Armaments matters"
+                    },
+                    {
+                        "code": "FOI_DEFENSE_OTHER",
+                        "de": "Sonstiges im Bereich \"Verteidigung\"",
+                        "en": "Other in the field of \"Defense\""
+                    },
+                    {
+                        "code": "FOI_DEFENSE_POLICY",
+                        "de": "Verteidigungspolitik",
+                        "en": "Defense policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010468",
+                "statements": [],
+                "title": "Verbot von Autonomen Waffensystemen "
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "AGG",
+                        "title": "Allgemeines Gleichbehandlungsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/agg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Als feministische Friedensorganisation und als Teil des B\u00fcndnis 1325 setzen wir uns f\u00fcr die Umsetzung und Gestaltung der von der Bundesregierung beschlossenen Leitlinien zu feministischer Au\u00dfen- und Entwicklungspolitik ein. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_DEVELOPMENT_POLICY",
+                        "de": "Entwicklungspolitik",
+                        "en": "Development policy"
+                    },
+                    {
+                        "code": "FOI_SOCIAL_POLICY",
+                        "de": "Gesellschaftspolitik und soziale Gruppen",
+                        "en": "Social politics and social groups"
+                    },
+                    {
+                        "code": "FOI_SP_GENDER",
+                        "de": "Geschlechterpolitik",
+                        "en": "Gender politics"
+                    },
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_BRD",
+                        "de": "Au\u00dfenpolitik",
+                        "en": "Foreign policy of the federal republic of Germany"
+                    },
+                    {
+                        "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                        "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                        "en": "Migration, refugee policy and integration"
+                    },
+                    {
+                        "code": "FOI_RPI_MIGRATION",
+                        "de": "Migration",
+                        "en": "Migration and residence"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    },
+                    {
+                        "code": "FOI_RPI_REFUGEE",
+                        "de": "Asyl und Fl\u00fcchtlingsschutz",
+                        "en": "Asylum and refugee protection"
+                    },
+                    {
+                        "code": "FOI_SP_DIVERSITY",
+                        "de": "Diversit\u00e4tspolitik",
+                        "en": "Diversity policy"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_SAFETY_POLICY",
+                        "de": "Gemeinsame Au\u00dfen- und Sicherheitspolitik der EU",
+                        "en": "Common foreign and security policy of the EU"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_DEFENSE",
+                        "de": "Verteidigung",
+                        "en": "Defense"
+                    },
+                    {
+                        "code": "FOI_DEFENSE_POLICY",
+                        "de": "Verteidigungspolitik",
+                        "en": "Defense policy"
+                    },
+                    {
+                        "code": "FOI_DEFENSE_ARMAMENTS",
+                        "de": "R\u00fcstungsangelegenheiten",
+                        "en": "Armaments matters"
+                    },
+                    {
+                        "code": "FOI_FA_INTERNATIONAL",
+                        "de": "Internationale Beziehungen",
+                        "en": "International relations"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010469",
+                "statements": [],
+                "title": "Feministische Au\u00dfen- und Entwicklungspolitik"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "AsylbLG",
+                        "title": "Asylbewerberleistungsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/asylblg"
+                    },
+                    {
+                        "shortTitle": "AsylG",
+                        "title": "Asylgesetz",
+                        "url": "https://www.gesetze-im-internet.de/asylvfg_1992"
+                    },
+                    {
+                        "shortTitle": "AGG",
+                        "title": "Allgemeines Gleichbehandlungsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/agg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Wir setzen uns f\u00fcr Menschenrechte, das Recht auf Asyl, die W\u00fcrde des Menschen und den Schutz und die Unterst\u00fctzung von gefl\u00fcchteten Personen ein. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    },
+                    {
+                        "code": "FOI_FA_BRD",
+                        "de": "Au\u00dfenpolitik",
+                        "en": "Foreign policy of the federal republic of Germany"
+                    },
+                    {
+                        "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                        "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                        "en": "Migration, refugee policy and integration"
+                    },
+                    {
+                        "code": "FOI_RPI_MIGRATION",
+                        "de": "Migration",
+                        "en": "Migration and residence"
+                    },
+                    {
+                        "code": "FOI_RPI_REFUGEE",
+                        "de": "Asyl und Fl\u00fcchtlingsschutz",
+                        "en": "Asylum and refugee protection"
+                    },
+                    {
+                        "code": "FOI_RPI_OTHER",
+                        "de": "Sonstiges im Bereich \"Migration, Fl\u00fcchtlingspolitik und Integration\"",
+                        "en": "Other in the field of \"Migration, refugee policy and integration\""
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_EU_SAFETY_POLICY",
+                        "de": "Gemeinsame Au\u00dfen- und Sicherheitspolitik der EU",
+                        "en": "Common foreign and security policy of the EU"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010470",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/30/52/326782/Stellungnahme-Gutachten-SG2406280045.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                        "de": "Bundeskanzleramt (BKAmt)",
+                                        "en": "Bundeskanzleramt (BKAmt)"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-19"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0010470",
+                        "regulatoryProjectTitle": "Migrationspolitik, Asylrecht und Schutz von Gefl\u00fcchteten",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Sehr geehrter Herr Bundeskanzler,\r\nsehr geehrte Ministerpr\u00e4sidentinnen und Ministerpr\u00e4sidenten,\r\n\r\nMenschlichkeit ist sowohl in Deutschland als auch in Europa die Basis unseres Zusammenlebens. Sie zu sch\u00fctzen ist unsere gesellschaftliche Pflicht. Dazu geh\u00f6rt auch: Die unbedingte Achtung der Menschenw\u00fcrde. Sie steht aus gutem Grund seit 75 Jahren in unserem Grundgesetz und gilt f\u00fcr alle Menschen, egal woher sie kommen.\r\nAusgerechnet am Weltfl\u00fcchtlingstag beraten Sie die Idee der Auslagerung des Fl\u00fcchtlingsschutzes aus Deutschland und Europa in Drittstaaten. Wir, 309 Organisationen und Initiativen, m\u00f6chten Teil einer Gesellschaft sein, die gefl\u00fcchtete Menschen menschenw\u00fcrdig aufnimmt. Wer Schutz bei uns in Deutschland sucht, soll ihn auch hier bekommen. Das Recht auf Asyl ist ein Menschenrecht.\r\nBitte erteilen Sie Pl\u00e4nen zur Auslagerung von Asylverfahren eine klare Absage.\r\nAls im Fl\u00fcchtlingsschutz aktive Organisationen und Initiativen wissen wir: Aufnahme und Teilhabe funktionieren, wenn alle an einem Strang ziehen und der politische Wille vorhanden ist. Vor den derzeitigen Herausforderungen verschlie\u00dfen wir dabei nicht die Augen. Wir begegnen ihnen vielmehr mit konstruktiven, praxisnahen und somit tats\u00e4chlich realistischen Vorschl\u00e4gen f\u00fcr eine zukunftsf\u00e4hige Aufnahme. Daf\u00fcr setzen wir uns jetzt und auch zuk\u00fcnftig mit allen uns zur Verf\u00fcgung stehenden Kr\u00e4ften ein \u2013 gerade auch auf kommunaler Ebene.\r\nPl\u00e4ne, Fl\u00fcchtlinge in au\u00dfereurop\u00e4ische Drittstaaten abzuschieben oder Asylverfahren au\u00dferhalb der EU durchzuf\u00fchren, funktionieren hingegen in der Praxis nicht, sind extrem teuer und stellen eine Gefahr f\u00fcr die Rechtsstaatlichkeit dar. Sie w\u00fcrden absehbar zu schweren Menschenrechtsverletzungen f\u00fchren, wie pauschale Inhaftierung oder dass Menschen in L\u00e4nder abgeschoben werden, in denen ihnen menschenunw\u00fcrdige Behandlung oder Verfolgung drohen. Bei Gefl\u00fcchteten l\u00f6sen solche Vorhaben oft gro\u00dfe Angst aus und erh\u00f6hen die Gefahr von Selbstverletzungen und Suiziden. Dies gilt gerade f\u00fcr besonders schutzbed\u00fcrftige Gefl\u00fcchtete wie Menschen mit Behinderung, Kinder, queere Menschen, \u00dcberlebende von Folter oder sexualisierter Gewalt. Das zeigen uns die Erfahrungen der letzten Jahre, etwa das Elend auf den griechischen Inseln als Folge der EU-T\u00fcrkei-Erkl\u00e4rung.\r\nAktuell leben drei Viertel der gefl\u00fcchteten Menschen weltweit in L\u00e4ndern mit niedrigem und mittlerem Einkommen. Setzen Sie sich deswegen f\u00fcr eine glaubhafte, nachhaltige und gerechte globale Verantwortungsteilung im Fl\u00fcchtlingsschutz ein.\r\nWir sind uns sicher: Realistische und menschenrechtsbasierte Politik st\u00e4rkt den gesellschaftlichen Zusammenhalt. Dass Anfang des Jahres so viele Menschen wie noch nie in Deutschland auf die Stra\u00dfe gegangen sind, um ein Zeichen f\u00fcr eine offene und diverse Gesellschaft und gegen Rechtsextremismus zu setzen, macht uns Mut. Eine zukunftsf\u00e4hige Gesellschaft braucht Vielfalt, Offenheit und ein konsequentes Einstehen f\u00fcr Menschenrechte \u2013 f\u00fcr alle."
+                        }
+                    }
+                ],
+                "title": "Migrationspolitik, Asylrecht und Schutz von Gefl\u00fcchteten"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "KSG",
+                        "title": "Bundes-Klimaschutzgesetz",
+                        "url": "https://www.gesetze-im-internet.de/ksg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Wir setzen uns f\u00fcr die Einhaltung des Pariser Klimaabkommens und des 1,5-Grad-Ziels ein. Dabei machen wir auf die Verkn\u00fcpfungen von Klimagerechtigkeit und Demilitarisierung aufmerksam.  ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_DEFENSE",
+                        "de": "Verteidigung",
+                        "en": "Defense"
+                    },
+                    {
+                        "code": "FOI_DEFENSE_ARMAMENTS",
+                        "de": "R\u00fcstungsangelegenheiten",
+                        "en": "Armaments matters"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    },
+                    {
+                        "code": "FOI_DEVELOPMENT_POLICY",
+                        "de": "Entwicklungspolitik",
+                        "en": "Development policy"
+                    },
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_BRD",
+                        "de": "Au\u00dfenpolitik",
+                        "en": "Foreign policy of the federal republic of Germany"
+                    },
+                    {
+                        "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                        "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                        "en": "Migration, refugee policy and integration"
+                    },
+                    {
+                        "code": "FOI_RPI_MIGRATION",
+                        "de": "Migration",
+                        "en": "Migration and residence"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010471",
+                "statements": [],
+                "title": "Klimagerechtigkeit / Zusammenh\u00e4nge zwischen Klimagerechtigkeit und Demilitarisierung"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a9/95/326780/Stellungnahme-Gutachten-SG2406280044.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            }
+                        ],
+                        "sendingDate": "2024-05-08"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0010467",
+                "regulatoryProjectTitle": "Atomwaffenverbotsvertrag ",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "An die SpitzenkandidatInnen zur Europawahl 2024\r\nOffener Brief: Gegen EU-Atomwaffen \u2013 f\u00fcr ein Europa der nuklearen Abr\u00fcstung\r\n\r\nSehr geehrte Kandidierende,\r\ndanke, dass Sie sich am 9. Juni 2024 zur Wahl f\u00fcr das Europ\u00e4ische Parlament stellen!\r\nAls Vertreterinnen und Vertreter deutscher ICAN-Partnerorganisationen m\u00f6chten wir Sie bitten und ermutigen, sich beim existenziellen Thema der Atomwaffen einzumischen.\r\nDie Gefahr eines Atomkrieges war noch nie so hoch wie heute. Weltweit existieren immer noch 12.100 Atomwaffen, davon circa 2.000 in hoher Alarmbereitschaft. Und die Atomwaffenstaaten r\u00fcsten weiter auf. In der EU haben Belgien, Deutschland, Italien und die Niederlande als NATO- Mitglieder im Rahmen der nuklearen Teilhabe US-Atomwaffen auf ihrem Territorium statio- niert. Frankreich verf\u00fcgt \u00fcber ein eigenes Atomwaffenarsenal. Nun fordern einzelne Stimmen zus\u00e4tzlich sogar eigene Atomwaffen f\u00fcr die EU. Diese Forderung lehnen wir entschieden ab!\r\nEuropa geh\u00f6rt bereits jetzt zu den Weltregionen, in denen das Risiko eines Atomkrieges am h\u00f6chsten ist. Eine weitere Aufr\u00fcstung w\u00fcrde dieses Risiko noch erh\u00f6hen. Atomwaffen sind keine \u00bbnormalen\u00ab Waffen, es sind Massenvernichtungswaffen. Jede einzelne hat das Potential, hun- derttausende Menschen unterschiedslos zu t\u00f6ten und zu verstrahlen. Der Internationale Ge- richtshof hat in einem Gutachten vom 8. Juli 1996 darauf hingewiesen, dass die Drohung mit und der Einsatz von Atomwaffen \u00bbgenerell\u00ab gegen das humanit\u00e4re V\u00f6lkerrecht versto\u00dfen.\r\nZudem haben alle EU-Staaten den Nichtverbreitungsvertrag (NVV) unterzeichnet und damit ein- deutig erkl\u00e4rt, auf eine atomare Bewaffnung zu verzichten (Frankreich darf gem\u00e4\u00df NVV Atom- waffen besitzen, hat sich aber zu Verhandlungen \u00fcber ihre vollst\u00e4ndige Abr\u00fcstung verpflichtet). EU-Atomwaffen w\u00fcrden diese Verpflichtung brechen, eine Aufk\u00fcndigung des Vertrages w\u00e4re fatal f\u00fcr das V\u00f6lkerrecht. In der Folge w\u00fcrde weltweit ein unkontrolliertes nukleares Wettr\u00fcsten drohen.\r\nBerlin, den 8. Mai 2024\r\nDie gr\u00f6\u00dfte Sicherheit f\u00fcr die Menschen in Europa konnte in den letzten Jahrzehnten durch Entspannungspolitik und R\u00fcstungskontrolle erreicht werden!\r\nDie Europ\u00e4ische Union sollte dieses Wissen nutzen und sich international f\u00fcr Dialog und Abr\u00fcs- tung stark machen! Eine M\u00f6glichkeit dazu ist der UN-Atomwaffenverbotsvertrag (AVV). 70 Staa- ten weltweit haben ihn bereits ratifiziert. Mit Irland, Malta und \u00d6sterreich sind darunter auch drei Staaten der EU.\r\n1\r\n \r\nWir bitten Sie, sehr geehrte Kandidierende:\r\n \u25aa Machen Sie sich daf\u00fcr stark, dass die EU keine eigenen Atomwaffen erh\u00e4lt und auch keine gemeinsame Planungs- und Befehlsstruktur f\u00fcr Atomwaffen aufbaut!\r\n  \u25aa Setzen Sie sich f\u00fcr den Abzug beziehungsweise die Abr\u00fcstung aller Atomwaffen in der EU und den Beitritt aller Mitgliedsstaaten zum UN-Atomwaffenverbotsvertrag ein!\r\n  \u25aa Bekennen Sie sich jetzt zum Ziel einer atomwaffenfreien Welt, indem Sie die ICAN-Erkl\u00e4rung f\u00fcr Abgeordnete unterzeichnen, wie es \u00fcber 600 ParlamentarierInnen aus Deutschland bereits getan haben (siehe n\u00e4chste Seite)!\r\n\r\n  Mit freundlichen Gr\u00fc\u00dfen\r\nUnterzeichnende"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/30/52/326782/Stellungnahme-Gutachten-SG2406280045.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                "de": "Bundeskanzleramt (BKAmt)",
+                                "en": "Bundeskanzleramt (BKAmt)"
+                            }
+                        ],
+                        "sendingDate": "2024-06-19"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0010470",
+                "regulatoryProjectTitle": "Migrationspolitik, Asylrecht und Schutz von Gefl\u00fcchteten",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Sehr geehrter Herr Bundeskanzler,\r\nsehr geehrte Ministerpr\u00e4sidentinnen und Ministerpr\u00e4sidenten,\r\n\r\nMenschlichkeit ist sowohl in Deutschland als auch in Europa die Basis unseres Zusammenlebens. Sie zu sch\u00fctzen ist unsere gesellschaftliche Pflicht. Dazu geh\u00f6rt auch: Die unbedingte Achtung der Menschenw\u00fcrde. Sie steht aus gutem Grund seit 75 Jahren in unserem Grundgesetz und gilt f\u00fcr alle Menschen, egal woher sie kommen.\r\nAusgerechnet am Weltfl\u00fcchtlingstag beraten Sie die Idee der Auslagerung des Fl\u00fcchtlingsschutzes aus Deutschland und Europa in Drittstaaten. Wir, 309 Organisationen und Initiativen, m\u00f6chten Teil einer Gesellschaft sein, die gefl\u00fcchtete Menschen menschenw\u00fcrdig aufnimmt. Wer Schutz bei uns in Deutschland sucht, soll ihn auch hier bekommen. Das Recht auf Asyl ist ein Menschenrecht.\r\nBitte erteilen Sie Pl\u00e4nen zur Auslagerung von Asylverfahren eine klare Absage.\r\nAls im Fl\u00fcchtlingsschutz aktive Organisationen und Initiativen wissen wir: Aufnahme und Teilhabe funktionieren, wenn alle an einem Strang ziehen und der politische Wille vorhanden ist. Vor den derzeitigen Herausforderungen verschlie\u00dfen wir dabei nicht die Augen. Wir begegnen ihnen vielmehr mit konstruktiven, praxisnahen und somit tats\u00e4chlich realistischen Vorschl\u00e4gen f\u00fcr eine zukunftsf\u00e4hige Aufnahme. Daf\u00fcr setzen wir uns jetzt und auch zuk\u00fcnftig mit allen uns zur Verf\u00fcgung stehenden Kr\u00e4ften ein \u2013 gerade auch auf kommunaler Ebene.\r\nPl\u00e4ne, Fl\u00fcchtlinge in au\u00dfereurop\u00e4ische Drittstaaten abzuschieben oder Asylverfahren au\u00dferhalb der EU durchzuf\u00fchren, funktionieren hingegen in der Praxis nicht, sind extrem teuer und stellen eine Gefahr f\u00fcr die Rechtsstaatlichkeit dar. Sie w\u00fcrden absehbar zu schweren Menschenrechtsverletzungen f\u00fchren, wie pauschale Inhaftierung oder dass Menschen in L\u00e4nder abgeschoben werden, in denen ihnen menschenunw\u00fcrdige Behandlung oder Verfolgung drohen. Bei Gefl\u00fcchteten l\u00f6sen solche Vorhaben oft gro\u00dfe Angst aus und erh\u00f6hen die Gefahr von Selbstverletzungen und Suiziden. Dies gilt gerade f\u00fcr besonders schutzbed\u00fcrftige Gefl\u00fcchtete wie Menschen mit Behinderung, Kinder, queere Menschen, \u00dcberlebende von Folter oder sexualisierter Gewalt. Das zeigen uns die Erfahrungen der letzten Jahre, etwa das Elend auf den griechischen Inseln als Folge der EU-T\u00fcrkei-Erkl\u00e4rung.\r\nAktuell leben drei Viertel der gefl\u00fcchteten Menschen weltweit in L\u00e4ndern mit niedrigem und mittlerem Einkommen. Setzen Sie sich deswegen f\u00fcr eine glaubhafte, nachhaltige und gerechte globale Verantwortungsteilung im Fl\u00fcchtlingsschutz ein.\r\nWir sind uns sicher: Realistische und menschenrechtsbasierte Politik st\u00e4rkt den gesellschaftlichen Zusammenhalt. Dass Anfang des Jahres so viele Menschen wie noch nie in Deutschland auf die Stra\u00dfe gegangen sind, um ein Zeichen f\u00fcr eine offene und diverse Gesellschaft und gegen Rechtsextremismus zu setzen, macht uns Mut. Eine zukunftsf\u00e4hige Gesellschaft braucht Vielfalt, Offenheit und ein konsequentes Einstehen f\u00fcr Menschenrechte \u2013 f\u00fcr alle."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

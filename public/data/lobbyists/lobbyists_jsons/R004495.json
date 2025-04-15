@@ -1,0 +1,471 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-07T13:23:52.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-05-10T08:48:03.000+02:00",
+        "lastUpdateDate": "2024-06-14T11:23:58.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 35136,
+                "validFromDate": "2024-06-14T11:23:58.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26690,
+                "validFromDate": "2023-11-07T14:34:05.000+01:00",
+                "validUntilDate": "2024-06-14T11:23:58.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21167,
+                "validFromDate": "2023-06-07T12:15:07.000+02:00",
+                "validUntilDate": "2023-11-07T14:34:05.000+01:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 11130,
+                "validFromDate": "2023-02-07T13:23:52.000+01:00",
+                "validUntilDate": "2023-06-07T12:15:07.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Die Andreas Hermes Akademie im Bildungswerk der Deutschen Landwirtschaft e.V. (AHA) f\u00f6rdert seit mehr als 75 Jahren Menschen in den l\u00e4ndlichen R\u00e4umen und der Landwirtschaft durch berufliche und pers\u00f6nliche Weiterbildung in Deutschland, verschiedenen L\u00e4ndern in Europa, Afrika und Asien.\r\nUnsere Kernkompetenzen sind Organisations- und Pers\u00f6nlichkeitsentwicklung, Unternehmertum und Change-Management. Zudem f\u00f6rdern wir den Dialog zu Themen der Landwirtschaft und der l\u00e4ndlichen R\u00e4ume. Die Gleichwertigkeit der Lebensverh\u00e4ltnisse strebt die AHA dabei an, denn sie steht f\u00fcr nachhaltige Lebens- und Bleibeperspektiven in den l\u00e4ndlichen R\u00e4umen.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_POLITICAL_PARTIES",
+                "de": "Politisches Leben, Parteien",
+                "en": "Political life, parties"
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_GU_LIVING_CONDITIONS",
+                "de": "Gew\u00e4hrleistung gleichwertiger Lebensverh\u00e4ltnisse",
+                "en": "Guarantee of equal living conditions"
+            },
+            {
+                "code": "FOI_GERMAN_UNITY",
+                "de": "Deutsche Einheit",
+                "en": "German unity"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_SP_OTHER",
+                "de": "Sonstiges im Bereich \"Gesellschaftspolitik und soziale Gruppen\"",
+                "en": "Other in the field of \"Social politics and social groups\""
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/ee/a6/291996/2023-AHA-Ergebnis-und-Vermoegensrechnung.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "Unterst\u00fctzung der gemeinn\u00fctzigen T\u00e4tigkeit der Andreas Hermes Akademie. ",
+                "donationEuro": {
+                    "from": 50001,
+                    "to": 60000
+                },
+                "name": "DZ Bank AG"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 60001,
+            "to": 70000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.55,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 60001,
+            "to": 70000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Bonn",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Godesberger Allee",
+            "streetNumber": "66",
+            "type": "NATIONAL",
+            "zipCode": "53175"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "info@andreas-hermes-akademie.de",
+            "phoneNumber": "+4915127132735",
+            "street": "Friedrichstra\u00dfe ",
+            "streetNumber": "124",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@andreas-hermes-akademie.de"
+                }
+            ],
+            "phoneNumber": "+4915127132735",
+            "websites": [
+                {
+                    "website": "www.andreas-hermes-akademie.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Andreas",
+                "lastName": "Quiring",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Mareike",
+                "lastName": "Meyn",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Matthias",
+                "lastName": "Mehner",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Marietheres",
+                "lastName": "F\u00f6rster",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Nicole",
+                "lastName": "Bolomey",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Philipp",
+                "lastName": "Conze-Roos",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Joachim",
+                "function": "Vorsitzender",
+                "lastName": "Rukwied",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Bernhard",
+                "function": "Stellvertretender Vorsitzender",
+                "lastName": "Kr\u00fcsken",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Gerhard",
+                "function": "Stellvertretender Vorsitzender",
+                "lastName": "Schwetje",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-04",
+            "naturalPersons": 0,
+            "organizations": 13,
+            "totalCount": 13
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Verband der Bildungszentren im L\u00e4ndlichen Raum (VBLR)"
+            },
+            {
+                "membership": "Bund der Deutschen Landjugend e.V."
+            },
+            {
+                "membership": "AgriCord vzw (Br\u00fcssel)"
+            },
+            {
+                "membership": "Arbeitskreis der Bildungsst\u00e4tten und Akademien (Heimvolkshochschulen) in NRW e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Andreas Hermes Akademie (AHA) im Bildungswerk der Deutschen Landwirtschaft e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "Deutscher Bauernverband e.V. "
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 40001,
+            "to": 50000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "F\u00f6rderung mit Landesmitteln nach dem Weiterbildungsgesetz NRW (WbG)",
+                "location": "Zeughausstra\u00dfe 2-10, 50667 K\u00f6ln",
+                "name": "Bezirksregierung K\u00f6ln (f\u00fcr die Landesregierung NRW)",
+                "publicAllowanceEuro": {
+                    "from": 180001,
+                    "to": 190000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Kapazit\u00e4tsbildung mit Bauernorganisationen in Afrika zu Klimaresilienz",
+                "location": "Rue de Tr\u00e8ves/Trierstraat 61, B-1040 Brussels (Belgium) ",
+                "name": "AgriCord vzw",
+                "publicAllowanceEuro": {
+                    "from": 250001,
+                    "to": 260000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Finanzielle Unterst\u00fctzung des Bundesministeriums f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) f\u00fcr verschiedene Ma\u00dfnahmen/Projekte zur St\u00e4rkung b\u00e4uerlicher Organisationen in Afrika und Indien. ",
+                "location": "Friedrich-Ebert-Allee 32 + 36, 53113 Bonn",
+                "name": "Deutsche Gesellschaft f\u00fcr Internationale Zusammenarbeit (GIZ) ",
+                "publicAllowanceEuro": {
+                    "from": 4540001,
+                    "to": 4550000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Finanzielle Unterst\u00fctzung des Bundesministeriums f\u00fcr Landwirtschaft und Ern\u00e4hrung (BMEL) f\u00fcr Kapazit\u00e4tsst\u00e4rkung von SACAU-Mitgliedern zu Klimaresilienz und weiteren Themen von strategischer Bedeutung durch Peer-Learning und Austausch",
+                "location": "Wallstra\u00dfe 15, 10179 Berlin",
+                "name": "GFA Consulting Group GmbH als Generalbevollm\u00e4chtigter des BMEL",
+                "publicAllowanceEuro": {
+                    "from": 560001,
+                    "to": 570000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Mittel der Europ\u00e4ischen Union, \u00fcber Kooperation mit Trias vzw f\u00fcr Capacity Buildung mit Bauernorganisationen in Tansania",
+                "location": "Kunstlaan 7-8, 1210 Brussel",
+                "name": "Trias vzw",
+                "publicAllowanceEuro": {
+                    "from": 140001,
+                    "to": 150000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R004495/35136",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-14T11:23:58.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/55/cd/291997/Lobbyregister-Detailansicht-R004495-2024-06-14_11-23-58.pdf",
+        "validFromDate": "2024-06-14T11:23:58.000+02:00",
+        "version": 5
+    },
+    "registerEntryId": 35136,
+    "registerNumber": "R004495",
+    "regulatoryProjects": {
+        "regulatoryProjects": [],
+        "regulatoryProjectsPresent": false
+    },
+    "statements": {}
+}

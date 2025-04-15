@@ -1,0 +1,868 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-05-02T17:06:16.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-25T19:14:54.000+01:00",
+        "lastUpdateDate": "2024-08-01T16:12:53.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42341,
+                "validFromDate": "2024-08-01T16:12:53.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 41463,
+                "validFromDate": "2024-07-12T11:12:55.000+02:00",
+                "validUntilDate": "2024-08-01T16:12:53.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37920,
+                "validFromDate": "2024-07-04T16:23:52.000+02:00",
+                "validUntilDate": "2024-07-12T11:12:55.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 33776,
+                "validFromDate": "2024-05-27T11:33:41.000+02:00",
+                "validUntilDate": "2024-07-04T16:23:52.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 31219,
+                "validFromDate": "2024-05-17T15:43:51.000+02:00",
+                "validUntilDate": "2024-05-27T11:33:41.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 18390,
+                "validFromDate": "2023-06-12T11:58:20.000+02:00",
+                "validUntilDate": "2024-05-17T15:43:51.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 8033,
+                "validFromDate": "2022-05-02T17:06:16.000+02:00",
+                "validUntilDate": "2023-06-12T11:58:20.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PROFESSION_ASSOC",
+            "de": "Berufsverband",
+            "en": "Professional association"
+        },
+        "activityDescription": "Der Verein Deutscher Richterbund (DRB) ist eine Spitzenorganisation von Richterinnen und Richtern, Staatsanw\u00e4ltinnen und Staatsanw\u00e4lten. Er bezweckt die F\u00f6rderung der Gesetzgebung, der Rechtspflege und der Rechtswissenschaft, die Wahrung der richterlichen Unabh\u00e4ngigkeit und der unparteiischen Rechtsprechung sowie die F\u00f6rderung der beruflichen Belange der Richter- und Staatsanwaltschaft.\r\n\r\nZur Erf\u00fcllung der satzungsm\u00e4\u00dfigen Zwecke wird Interessenvertretung durch Gespr\u00e4che mit Vertretern der Regierung und des Parlaments sowie durch Schreiben an diese ausge\u00fcbt. Weiterhin veranstaltet der DRB parlamentarische Abende, Informationsveranstaltungen und Tagungen, zu denen auch Regierungsmitglieder, Abgeordnete sowie Vertreter der Ministerien eingeladen werden.\r\n\r\nAls Spitzenorganisationen im Sinne des \u00a7 118 BBG ist der DRB bei der Vorbereitung allgemeiner Regelungen der beamtenrechtlichen Verh\u00e4ltnisse zu beteiligen. Er wendet sich zudem mit Stellungnahmen zu rechts- und innenpolitischen Vorhaben im Gesetzgebungsverfahren an Abgeordnete und Mitglieder der Bundesregierung.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_EU_COOPERATION",
+                "de": "Polizeiliche und justizielle Zusammenarbeit in der EU",
+                "en": "Police and judicial cooperation"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_SERVICE",
+                "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                "en": "Public service"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_SA_ORGANIZATION",
+                "de": "Staatsorganisation",
+                "en": "State organization"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_IS_CRIME",
+                "de": "Kriminalit\u00e4tsbek\u00e4mpfung",
+                "en": "Fight against crime"
+            },
+            {
+                "code": "FOI_LAW_CRIMINAL",
+                "de": "Strafrecht",
+                "en": "Criminal law"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/84/02/339630/2023_DRB-Einnahmen-Ausgaben-Rechnung_BT-Lobbyregister.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.5,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 50001,
+            "to": 60000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Deutscher Richterbund",
+            "nationalAdditional2": "Haus des Rechts",
+            "street": "Kronenstra\u00dfe",
+            "streetNumber": "73",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@drb.de"
+                }
+            ],
+            "phoneNumber": "+49302061250",
+            "websites": [
+                {
+                    "website": "www.drb.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Andrea",
+                "lastName": "Titz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Joachim",
+                "lastName": "L\u00fcblinghoff",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Sven",
+                "lastName": "Rebehn",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Andrea",
+                "function": "Vorsitzende",
+                "lastName": "Titz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Joachim",
+                "function": "Vorsitzender",
+                "lastName": "L\u00fcblinghoff",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Dieter",
+                "function": "stellvertretender Vorsitzender",
+                "lastName": "Killmer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": false,
+                "firstName": "Bernhard",
+                "function": "stellvertretender Vorsitzender",
+                "lastName": "Scholz",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-03-15",
+            "naturalPersons": 0,
+            "organizations": 25,
+            "totalCount": 25
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "International Association of Judges"
+            },
+            {
+                "membership": "Deutscher Juristentag"
+            },
+            {
+                "membership": "Deutscher Familiengerichtstag"
+            },
+            {
+                "membership": "Deutsche Stiftung f\u00fcr internationale rechtliche Zusammenarbeit"
+            },
+            {
+                "membership": "Deutscher EDV-Gerichtstag"
+            },
+            {
+                "membership": "Deutscher Finanzgerichtstag"
+            },
+            {
+                "membership": "Deutscher Sozialgerichtstag"
+            },
+            {
+                "membership": "Deutsche Gesellschaft f\u00fcr Verbandsmanagement"
+            },
+            {
+                "membership": "European Law Institute"
+            },
+            {
+                "membership": "Europ\u00e4isches Justizielles Netz f\u00fcr Zivil- und Handelssachen"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Deutscher Richterbund, Bund der Richterinnen und Richter, Staatsanw\u00e4ltinnen und Staatsanw\u00e4lte e. V. (DRB)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 1140001,
+            "to": 1150000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "zur F\u00f6rderung des 23. Deutschen Richter- und Staatsanwaltstages vom 29. bis 31. M\u00e4rz 2023 in Weimar",
+                "location": "Berlin",
+                "name": "Bundesministerium der Justiz",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "zur F\u00f6rderung des 23. Deutschen Richter- und Staatsanwaltstages vom 29. bis 31. M\u00e4rz 2023 in Weimar",
+                "location": "Erfurt",
+                "name": "Th\u00fcringer Ministerium f\u00fcr Migration, Justiz und Verbraucherschutz",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001793/42341",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-07-04T16:23:52.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d8/fe/339631/Lobbyregister-Detailansicht-R001793-2024-08-01_16-12-53.pdf",
+        "validFromDate": "2024-08-01T16:12:53.000+02:00",
+        "version": 8
+    },
+    "registerEntryId": 42341,
+    "registerNumber": "R001793",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Will man die bisher bew\u00e4hrte Praxis in gesetzliche Regelungen in der Strafprozessordnung umsetzen, ist es entscheidend, das Interesse an Transparenz und \u00dcberpr\u00fcfbarkeit mit dem Gebot einer effektiven Strafverfolgung und dem damit verbundenen Bed\u00fcrfnis an Geheimhaltung in einen angemessenen Ausgleich zu bringen. Es gilt darauf zu achten, die Aufkl\u00e4rung gerade schwerwiegender Delikte nicht unn\u00f6tig zu erschweren oder sogar zum Erliegen zu bringen. Dieses Verst\u00e4ndnis liegt nicht jeder Regelung des Referentenentwurfs zugrunde. Insbesondere stellt er realit\u00e4tsferne Anforderungen an Vertrauenspersonen und schafft Risiken, die ihren Einsatz erschweren oder gar gef\u00e4hrden k\u00f6nnen. Einer gesetzlichen Regelung bedarf es bereits dem Grunde nach nicht.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmj.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/RefE_V-Personen.pdf?__blob=publicationFile&v=4",
+                            "draftBillProjectUrl": "https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2023_V-Personen.html?nn=110518",
+                            "shortTitle": "BMJ",
+                            "title": "Bundesministerium der Justiz",
+                            "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                        }
+                    ],
+                    "publicationDate": "2023-12-19",
+                    "title": "Entwurf eines Gesetzes zur Regelung des Einsatzes von Verdeckten Ermittlern und Vertrauenspersonen sowie zur Tatprovokation"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CRIME",
+                        "de": "Kriminalit\u00e4tsbek\u00e4mpfung",
+                        "en": "Fight against crime"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_LAW_CRIMINAL",
+                        "de": "Strafrecht",
+                        "en": "Criminal law"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0000741",
+                "statements": [],
+                "title": "Keine Regelung des Einsatzes von Verdeckten Ermittlern, Vertrauenspersonen sowie zur Tatprovokation"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GVGEG",
+                        "title": "Einf\u00fchrungsgesetz zum Gerichtsverfassungsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/gvgeg"
+                    },
+                    {
+                        "shortTitle": "ZPO",
+                        "title": "Zivilprozessordnung",
+                        "url": "https://www.gesetze-im-internet.de/zpo"
+                    },
+                    {
+                        "shortTitle": "GVG",
+                        "title": "Gerichtsverfassungsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/gvg"
+                    },
+                    {
+                        "shortTitle": "FamFG",
+                        "title": "Gesetz \u00fcber das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit",
+                        "url": "https://www.gesetze-im-internet.de/famfg"
+                    },
+                    {
+                        "shortTitle": "VwGO",
+                        "title": "Verwaltungsgerichtsordnung",
+                        "url": "https://www.gesetze-im-internet.de/vwgo"
+                    },
+                    {
+                        "shortTitle": "FGO",
+                        "title": "Finanzgerichtsordnung",
+                        "url": "https://www.gesetze-im-internet.de/fgo"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Gegen die vorgesehene Anhebung des Zust\u00e4ndigkeitsstreitwertes auf \r\n8.000 \u20ac, die die Anpassung an die Geldwertentwicklung der letzten 30 Jahre \r\nund die St\u00e4rkung der Amtsgerichte in Zivilsachen bezweckt, bestehen nach \r\n\u00fcberwiegender Auffassung der von uns vertretenen Mitglieder keine \r\ngrunds\u00e4tzlichen Bedenken. \r\nGleiches gilt f\u00fcr die beabsichtigte streitwertunabh\u00e4ngige Zuweisung weiterer \r\nSachgebiete an die Amtsgerichte und die Landgerichte. Zu begr\u00fc\u00dfen ist das \r\ndamit grunds\u00e4tzlich verfolgte Ziel der Spezialisierung und Verbesserung einer \r\neffizienten Verfahrensf\u00fchrung.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmj.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/RefE_Aenderung_Zustaendigkeitsstreitwert.pdf?__blob=publicationFile&v=1",
+                            "draftBillProjectUrl": "https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2024_Aenderung_Zustaendigkeitsstreitwert.html?nn=110518",
+                            "shortTitle": "BMJ",
+                            "title": "Bundesministerium der Justiz",
+                            "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                        }
+                    ],
+                    "publicationDate": "2024-03-06",
+                    "title": "Gesetz zur \u00c4nderung des Zust\u00e4ndigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur \u00c4nderung weiterer prozessualer Regelungen"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_CIVIL_RIGHT",
+                        "de": "Zivilrecht",
+                        "en": "Civil rights"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_LAW_OTHER",
+                        "de": "Sonstiges im Bereich \"Recht\"",
+                        "en": "Other in the field of \"Law\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0000742",
+                "statements": [],
+                "title": "Keine grunds\u00e4tzlichen Bedenken gegen die Anhebung des Zust\u00e4ndigkeitsstreitwerts der Amtsgerichte"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "StGB",
+                        "title": "Strafgesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/stgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "R\u00fcckg\u00e4ngigmachung der Hochstufung des \u00a7 184b StGB zum Verbrechen, um Einstellungen von Verfahren am unteren Rand der Strafw\u00fcrdigkeit wieder zu erm\u00f6glichen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_LAW_CRIMINAL",
+                        "de": "Strafrecht",
+                        "en": "Criminal law"
+                    },
+                    {
+                        "code": "FOI_INTERNAL_SECURITY",
+                        "de": "Innere Sicherheit",
+                        "en": "Internal security"
+                    },
+                    {
+                        "code": "FOI_IS_CRIME",
+                        "de": "Kriminalit\u00e4tsbek\u00e4mpfung",
+                        "en": "Fight against crime"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/105/2010540.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [
+                            {
+                                "shortTitle": "BMJ",
+                                "title": "Bundesministerium der Justiz",
+                                "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                            }
+                        ],
+                        "printingNumber": "20/10540",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/gesetz-zur-anpassung-der-mindeststrafen-des-184b-absatz-1-satz/308703",
+                        "title": "Entwurf eines Gesetzes zur Anpassung der Mindeststrafen des \u00a7 184b Absatz 1 Satz 1 und Absatz 3 des Strafgesetzbuches - Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0000743",
+                "statements": [],
+                "title": "Anpassung der Mindeststrafen des \u00a7 184b Absatz 1 Satz 1 und Absatz 3 des Strafgesetzbuches"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GVG",
+                        "title": "Gerichtsverfassungsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/gvg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Abschaffung des ministeriellen Einzelfallweisungsrechts gegen\u00fcber der Staatsanwaltschaft",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmj.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/RefE_Transparenz_Weisungen.pdf?__blob=publicationFile&v=2",
+                            "draftBillProjectUrl": "https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2024_Transparenz_Weisungen.html?nn=110518",
+                            "shortTitle": "BMJ",
+                            "title": "Bundesministerium der Justiz",
+                            "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                        }
+                    ],
+                    "publicationDate": "2024-04-30",
+                    "title": "Gesetz zur Erh\u00f6hung der Transparenz von Weisungen gegen\u00fcber der Staatsanwaltschaft"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_CRIMINAL",
+                        "de": "Strafrecht",
+                        "en": "Criminal law"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_STATE_ADMIN",
+                        "de": "Staat und Verwaltung",
+                        "en": "Government and administration"
+                    },
+                    {
+                        "code": "FOI_SA_ORGANIZATION",
+                        "de": "Staatsorganisation",
+                        "en": "State organization"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0000975",
+                "statements": [],
+                "title": "Gesetzentwurf zur Erh\u00f6hung der Transparenz von Weisungen gegen\u00fcber der Staatsanwaltschaft"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "FamFG",
+                        "title": "Gesetz \u00fcber das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit",
+                        "url": "https://www.gesetze-im-internet.de/famfg"
+                    },
+                    {
+                        "shortTitle": "ZPO",
+                        "title": "Zivilprozessordnung",
+                        "url": "https://www.gesetze-im-internet.de/zpo"
+                    },
+                    {
+                        "shortTitle": "ArbGG",
+                        "title": "Arbeitsgerichtsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/arbgg"
+                    },
+                    {
+                        "shortTitle": "SGG",
+                        "title": "Sozialgerichtsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/sgg"
+                    },
+                    {
+                        "shortTitle": "VwGO",
+                        "title": "Verwaltungsgerichtsordnung",
+                        "url": "https://www.gesetze-im-internet.de/vwgo"
+                    },
+                    {
+                        "shortTitle": "FGO",
+                        "title": "Finanzgerichtsordnung",
+                        "url": "https://www.gesetze-im-internet.de/fgo"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Forderung der verbindlichen Vorgabe bundeseinheitlicher Austauschformate f\u00fcr den elektronischen Datenaustausch mit der Justiz. Die \u00dcbermittlungen von Beh\u00f6rdenakten m\u00fcssen sowohl f\u00fcr die Gerichte als auch die Verfahrensbeteiligten und etwa auch geh\u00f6rte Sachverst\u00e4ndige m\u00f6glichst einfach zu handhaben sein, sie m\u00fcssen \"gut lesbar\" sein.",
+                "draftBill": {
+                    "customDate": "2024-04-29",
+                    "customTitle": "Diskussionsentwurf einer Verordnung \u00fcber die Standards f\u00fcr die \u00dcbermittlung elektronischer Akten von Beh\u00f6rden und juristischen Personen des \u00f6ffentlichen Rechts an die Gerichte im gerichtlichen Verfahren (Beh\u00f6rdenakten\u00fcbermittlungsverordnung)",
+                    "leadingMinistries": [
+                        {
+                            "shortTitle": "BMJ",
+                            "title": "Bundesministerium der Justiz",
+                            "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                        }
+                    ]
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_LAW_OTHER",
+                        "de": "Sonstiges im Bereich \"Recht\"",
+                        "en": "Other in the field of \"Law\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010859",
+                "statements": [],
+                "title": "Regelung der \u00dcbermittlung von Beh\u00f6rdenakten"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "ZPO",
+                        "title": "Zivilprozessordnung",
+                        "url": "https://www.gesetze-im-internet.de/zpo"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Digitalisierung der Justiz ist eine wesentliche Voraussetzung f\u00fcr einen zukunftsf\u00e4higen und b\u00fcrgernahen Rechtsstaat. Erprobung eines zivilgerichtlichen Online-Verfahrens, welches B\u00fcrgern erm\u00f6glichen soll, ihre Anspr\u00fcche im Bereich niedriger Streitwerte in einem einfachen, nutzerfreundlichen, barrierefreien und digital unterst\u00fctzten Gerichtsverfahren geltend zu machen. ",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmj.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/RefE_Erprobungsgesetz_Zivilprozess.pdf?__blob=publicationFile&v=3",
+                            "draftBillProjectUrl": "https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2024_Erprobungsgesetz_Zivilprozess.html?nn=110518",
+                            "shortTitle": "BMJ",
+                            "title": "Bundesministerium der Justiz",
+                            "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                        }
+                    ],
+                    "publicationDate": "2024-06-11",
+                    "title": "Gesetz zur Entwicklung und Erprobung eines Online-Verfahrens in der Zivilgerichtsbarkeit"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_CIVIL_RIGHT",
+                        "de": "Zivilrecht",
+                        "en": "Civil rights"
+                    },
+                    {
+                        "code": "FOI_LAW_OTHER",
+                        "de": "Sonstiges im Bereich \"Recht\"",
+                        "en": "Other in the field of \"Law\""
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011018",
+                "statements": [],
+                "title": "Entwicklung und Erprobung eines Online-Verfahrens in der Zivilgerichtsbarkeit"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "StGB",
+                        "title": "Strafgesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/stgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Ehrenamtlich t\u00e4tige Personen ebenso wie Amts-, Mandats- oder sonstige Berufstr\u00e4ger, die in verschiedenen Bereichen Verantwortung f\u00fcr das demokratische Gemeinwesen wahrnehmen, sollen vor \u00dcbergriffen besser gesch\u00fctzt werden.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmj.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/RefE_Schutz_Vollsteckungsbeamte_Rettungskraefte.pdf?__blob=publicationFile&v=2",
+                            "draftBillProjectUrl": "https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2024_Schutz_Vollstreckungsbeamte.html?nn=110518",
+                            "shortTitle": "BMJ",
+                            "title": "Bundesministerium der Justiz",
+                            "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                        }
+                    ],
+                    "publicationDate": "2024-07-05",
+                    "title": "Gesetz zur \u00c4nderung des Strafgesetzbuches - St\u00e4rkung des Schutzes von Vollstreckungsbeamten und Rettungskr\u00e4ften sowie sonstigen dem Gemeinwohl dienenden T\u00e4tigkeiten"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_LAW_CRIMINAL",
+                        "de": "Strafrecht",
+                        "en": "Criminal law"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011405",
+                "statements": [],
+                "title": "St\u00e4rkung des Schutzes von Vollstreckungsbeamten und Rettungskr\u00e4ften sowie sonstigen dem Gemeinwohl dienenden T\u00e4tigkeiten"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

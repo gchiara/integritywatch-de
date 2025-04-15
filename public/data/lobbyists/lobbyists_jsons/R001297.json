@@ -1,0 +1,734 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-08-17T10:41:18.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-24T13:59:37.000+01:00",
+        "lastUpdateDate": "2024-07-09T16:13:59.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 41268,
+                "validFromDate": "2024-07-09T16:13:59.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 34860,
+                "validFromDate": "2024-06-28T12:05:49.000+02:00",
+                "validUntilDate": "2024-07-09T16:13:59.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 25529,
+                "validFromDate": "2023-09-15T10:24:07.000+02:00",
+                "validUntilDate": "2024-06-28T12:05:49.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22223,
+                "validFromDate": "2023-06-26T10:41:35.000+02:00",
+                "validUntilDate": "2023-09-15T10:24:07.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 5430,
+                "validFromDate": "2022-08-17T10:41:18.000+02:00",
+                "validUntilDate": "2023-06-26T10:41:35.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_NETWORK_WITHOUT_LEGAL_FORM",
+            "de": "Plattform, Netzwerk, Interessengemeinschaft, Denkfabrik, Initiative, Aktionsb\u00fcndnis o.\u00a0\u00e4.",
+            "en": "Platform, network, community of interest, think tank, initiative, action alliance"
+        },
+        "activityDescription": "Der Grain Club sieht seine Aufgabe in erster Linie darin, f\u00fcr die beteiligten Verb\u00e4nde und deren Mitgliedsunternehmen zu wichtigen agrarpolitischen und agrarhandelspolitischen Themen Positionen zu beziehen. Politische Ver\u00e4nderungen werden ebenso wie Ver\u00e4nderungen auf den M\u00e4rkten und bei den Wirtschaftsbeteiligten im internationalen Kontext gesehen und beurteilt. Der Grain Club vertritt seine Positionen in offenem Dialog gegen\u00fcber Politik, Verwaltung und Gesellschaft.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_ANIMAL",
+                "de": "Tierschutz",
+                "en": "Animal welfare"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_OTHER",
+                "de": "Sonstige Interessenbereiche",
+                "en": "Other areas",
+                "fieldOfInterestText": "Entwaldung, entwaldungsfreie Lieferketten, NGTs"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_AF_FOOD_SAFETY",
+                "de": "Lebensmittelsicherheit",
+                "en": "Food safety"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "ON_BEHALF_OF_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird im Auftrag Dritter selbst wahrgenommen",
+                "en": "Representation of interests is carried out on behalf of third parties themselves"
+            }
+        ]
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.33,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 30001,
+            "to": 40000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin ",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Grain Club",
+            "street": "Am Weidendamm",
+            "streetNumber": "1 A",
+            "type": "NATIONAL",
+            "zipCode": "10117"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@grain-club.de"
+                }
+            ],
+            "phoneNumber": "+493072625940",
+            "websites": [
+                {
+                    "website": "www.grain-club.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Illya",
+                "lastName": "Kolba",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Claudia",
+                "lastName": "Gebert",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Momme",
+                "lastName": "Matthiesen",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+            "en": "Networks, platforms or other forms of collective activity",
+            "legalFormText": "Verb\u00e4ndeallianz"
+        },
+        "legalFormType": {
+            "code": "NETWORK_PLATFORM_OR_OTHER",
+            "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+            "en": "Network, platform or other form of collective activity"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": false,
+                "firstName": "Jaana K.",
+                "function": "Vorsitzende",
+                "lastName": "Kleinschmit von Lengefeld",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Momme",
+                "function": "Gesch\u00e4ftsstellengesch\u00e4ftsf\u00fchrer",
+                "lastName": "Matthiesen",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-01-01",
+            "naturalPersons": 0,
+            "organizations": 4,
+            "totalCount": 4
+        },
+        "membersPresent": true,
+        "membershipsPresent": false,
+        "name": "Grain Club"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [
+            {
+                "name": "Deutscher Raiffeisenverband e.V."
+            },
+            {
+                "name": "Der Agrarhandel e.V."
+            },
+            {
+                "name": "Deutscher Verband des Gro\u00dfhandels mit \u00d6len, Fetten und \u00d6lrohstoffen e.V."
+            },
+            {
+                "name": "OVID Verband der \u00f6lsaatenverarbeitenden Industrie in Deutschland e.V."
+            }
+        ],
+        "individualContributorsPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 70001,
+            "to": 80000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001297/41268",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-28T12:05:49.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b7/a1/332666/Lobbyregister-Detailansicht-R001297-2024-07-09_16-13-59.pdf",
+        "validFromDate": "2024-07-09T16:13:59.000+02:00",
+        "version": 6
+    },
+    "registerEntryId": 41268,
+    "registerNumber": "R001297",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GenTG",
+                        "title": "Gesetz zur Regelung der Gentechnik",
+                        "url": "https://www.gesetze-im-internet.de/gentg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Anpassung des EU Gentechnikrechts an aktuellen Stand der Wissenschaft. Um langfristig zukunftsf\u00e4hig zu sein, ist die Landwirtschaft auf Innovationen angewiesen \u2013 auch und gerade im Bereich der Pflanzenz\u00fcchtung. Neue genomische Techniken (NGT) wie die Genschere CRISPR/Cas erg\u00e4nzen den Werkzeugkasten in der Z\u00fcchtung und er\u00f6ffnen zus\u00e4tzliche M\u00f6glichkeiten zur\r\nEntwicklung widerstandsf\u00e4higer Pflanzen f\u00fcr eine effiziente und nachhaltige Landwirtschaft. Die\r\nAnwendung der Methoden und so gez\u00fcchteter Pflanzen durch eine Vielzahl an Unternehmen\r\nmuss durch geeignete Rahmenbedingungen sichergestellt werden.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FOOD_SAFETY",
+                        "de": "Lebensmittelsicherheit",
+                        "en": "Food safety"
+                    },
+                    {
+                        "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                        "de": "Wissenschaft, Forschung und Technologie",
+                        "en": "Science, research and technology"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/btd/20/051/2005137.pdf",
+                        "issuer": "BT",
+                        "leadingMinistries": [],
+                        "printingNumber": "20/5137",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/anteil-der-gasverstromung-am-gesamten-gasverbrauch-in-deutschland-seit-oktober/295420",
+                        "title": "Schriftliche Fragen mit den in der Woche vom 2. Januar 2023 eingegangenen Antworten der Bundesregierung"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0009031",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/2d/42/323425/Stellungnahme-Gutachten-SG2405290047.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                        "de": "Gremien",
+                                        "en": "Committees"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_ORGANS",
+                                        "de": "Organe",
+                                        "en": "Organs"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                        "de": "Bundeskanzleramt (BKAmt)",
+                                        "en": "Bundeskanzleramt (BKAmt)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                        "de": "Bundesministerium der Finanzen (BMF)",
+                                        "en": "Bundesministerium der Finanzen (BMF)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMBF",
+                                        "de": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                                        "en": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                        "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                        "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                        "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                        "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-22"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009031",
+                        "regulatoryProjectTitle": "Neue genomische Techniken",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Offener Brief von Verb\u00e4nden der deutschen Agrar-, Gartenbau- sowie Ern\u00e4hrungs- und Bio\u00f6konomiewirtschaft\r\n\r\nLandwirtschaft zukunftsf\u00e4hig machen: Anwendung von neuen genomischen Techniken in Europa zeitnah erm\u00f6glichen\r\n\r\n\r\n\r\nSehr geehrter Herr Bundesminister,\r\n\r\n\r\ndie Landwirtschaft in Deutschland und Europa steht unter enormem Transformationsdruck. Dabei fehlen geeignete Rahmenbedingungen, um den nachvollziehbaren gesellschaftlichen und politischen Anforderungen zu mehr Nachhaltigkeit gerecht zu werden und gleichzeitig wirtschaftlich wettbewerbsf\u00e4hig zu sein. Die anhaltenden Branchenproteste sind Folge dieser systemischen Schw\u00e4che. Angesichts der angespannten Haushaltslage gibt es aber kaum finanziellen Spielraum f\u00fcr gro\u00dfe Entlastungspakete. Deshalb ist es zu begr\u00fc\u00dfen, dass die Politik trotzdem nach effizienten L\u00f6sungen sucht, um die Transformation der Landwirtschaft voranzutreiben.\r\n\r\n\r\nUm langfristig zukunftsf\u00e4hig zu sein, ist die Landwirtschaft auf Innovationen angewiesen \u2013 auch und gerade im Bereich der Pflanzenz\u00fcchtung. Neue genomische Techniken (NGT) wie die Genschere CRISPR/Cas erg\u00e4nzen den Werkzeugkasten in der Z\u00fcchtung und er\u00f6ffnen zus\u00e4tzliche M\u00f6glichkeiten zur Entwicklung widerstandsf\u00e4higer Pflanzen f\u00fcr eine effiziente und nachhaltige Landwirtschaft. Die Anwendung der Methoden und so gez\u00fcchteter Pflanzen durch eine Vielzahl an Unternehmen muss durch geeignete Rahmenbedingungen sichergestellt werden.  \r\n\r\n\r\nWeltweit werden NGT-Produkte zunehmend wie herk\u00f6mmlich gez\u00fcchtete Pflanzen behandelt und reguliert. Dementsprechend befinden sich bereits NGT-Produkte vor der Marktreife und werden perspektivisch auch den EU-Markt erreichen. Die ausstehende Modernisierung des europ\u00e4ischen Rechtsrahmens f\u00fcr NGT ist auch eine Herausforderung f\u00fcr den internationalen Handel. Hier besteht Rechtsunsicherheit wegen fehlender Nachweismethoden f\u00fcr die Mutationsursache. Die Politik muss bei der Aktualisierung des Regelwerks f\u00fcr NGT die Praktikabilit\u00e4t der Ma\u00dfnahmen entlang der gesamten Wertsch\u00f6pfungskette ber\u00fccksichtigen. Rechtssicherheit ist wichtig, auch um Verf\u00fcgbarkeit von agrarischen Rohstoffen zu sichern.\r\n\r\n\r\nDie EU-Kommission hat im Juli 2023 einen ausgewogenen Regulierungsvorschlag zur Nutzung von NGT in der Pflanzenz\u00fcchtung vorgelegt. Dies war ein wichtiger Schritt zur Nutzung dieser Nobelpreis-gekr\u00f6nten Z\u00fcchtungsmethode in Europa. Als Agrarbranche setzen wir uns f\u00fcr dessen praxistaugliche Umsetzung ein. Allerdings werden aktuell viele \u00c4nderungsw\u00fcnsche diskutiert, die die Praxistauglichkeit des Vorschlags deutlich einschr\u00e4nken. Besonders die geforderte undifferenzierte Kennzeichnungspflicht und R\u00fcckverfolgbarkeit f\u00fcr alle NGT-Produkte, auch solche der Kategorie 1, die sich von konventionell gez\u00fcchteten Pflanzen nicht unterscheiden, ist nicht nachvollziehbar und widerspricht sowohl dem eigentlichen NGT-Vorschlag der EU-Kommission als auch dem breiten wissenschaftlichen Konsens.\r\n\r\n\r\nBevor der aktuelle Gesetzgebungsprozess im Trilog-Format fortgesetzt werden kann, steht eine Positionierung im Rat der EU aus. Deutschland sollte den Prozess konstruktiv begleiten und den Schwung der Europawahl nutzen, um das politische Verfahren zum Abschluss zu bringen. So kann diese Technik zur Erreichung der Nachhaltigkeitsziele der Farm-to-Fork-Strategie beitragen. Auch die von der Bundesregierung eingesetzte Expertenkommission Forschung und Innovation (EFI) verweist in ihrem neuesten Jahresgutachten darauf, dass das Potenzial von NGT in Deutschland und der EU aufgrund eines nicht zeitgem\u00e4\u00dfen und inkonsistenten Rechtsrahmens ungenutzt bleibt. \r\n\r\n\r\nWenn Europa sich jetzt nicht bewegt, werden wir Wettbewerbsf\u00e4higkeit verlieren. Schon jetzt verlagern viele Unternehmen und Forschungseinrichtungen ihre Aktivit\u00e4ten in L\u00e4nder, in denen diese Z\u00fcchtungstechnologie bereits genutzt werden kann.\r\n\r\n\r\nUnser Appell: Setzen Sie kurzfristig ein Zeichen an die Land- und Ern\u00e4hrungswirtschaft \u2013 ohne Extra-Belastungen f\u00fcr den Haushalt \u2013 und erm\u00f6glichen Sie Innovationen. Setzen Sie sich daf\u00fcr ein, dass Deutschland den NGT-Vorschlag der EU-Kommission ohne Zeitverz\u00f6gerung unterst\u00fctzt. Mit einem deutschen \u201cJa\u201d w\u00e4re die Mehrheit f\u00fcr eine, von der Agrar-, Gartenbau- sowie Ern\u00e4hrungs- und Bio\u00f6konomiewirtschaft ben\u00f6tigte, Zukunftstechnologie gesichert.\r\n\r\n\r\nWir als Verb\u00e4ndegemeinschaft sowie unsere Mitgliedsunternehmen stehen f\u00fcr den Austausch zu diesem Thema gerne zur Verf\u00fcgung.\r\n\r\n\r\nMit freundlichen Gr\u00fc\u00dfen\r\n"
+                        }
+                    }
+                ],
+                "title": "Neue genomische Techniken"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Kl\u00e4rung der entscheidenden Anwendungsfragen und Implementation aller technischen Voraussetzungen den betroffenen Marktbeteiligten noch ausreichend Zeit bleiben muss, die betriebsinternen Vorbereitungen zu treffen und die technische Umsetzung zu gew\u00e4hrleisten.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_OTHER",
+                        "de": "Sonstige Interessenbereiche",
+                        "en": "Other areas",
+                        "fieldOfInterestText": "Entwaldung, entwaldungsfreie Lieferketten, NGTs"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009032",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/30/e8/323427/Stellungnahme-Gutachten-SG2405290048.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                        "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                        "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMZ",
+                                        "de": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                                        "en": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-16"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009032",
+                        "regulatoryProjectTitle": "EU Entwaldungsverordnung",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Fehlstart der EU Deforestation Regulation (EUDR) verhindern \u2013 rechtssichere Anwendung der Verordnung ab 30. Dezember 2024 fraglich\r\n\r\n\r\nSehr geehrter Herr Bundesminister,\r\n\r\nwir wenden uns im Namen der deutschen Agrar- und Lebensmittelwirtschaft zum bevorstehenden Start der EU Deforestation Regulation (EUDR) an Sie. Von Seiten der EU bleiben weniger als neun Monate vor dem geplanten Start der Verordnung immer noch entscheidende Anwendungsfragen ungekl\u00e4rt. \r\n\r\nAls Repr\u00e4sentanten eines gro\u00dfen Teils der internationalen Lieferketten, die direkt von dieser Verordnung betroffen sind, begr\u00fc\u00dfen wir ausdr\u00fccklich die Bestrebungen der EU, den Waldbestand global zu sch\u00fctzen. Wir sind bereit, die rechtssichere Anwendung der Verordnung durch die von uns vertretenen Unternehmen bestm\u00f6glich vorzubereiten.\r\n\r\nWir sehen, dass sich die EU-Kommission sowie das Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft intensiv bem\u00fchen, H\u00fcrden aus dem Weg zu r\u00e4umen und Fragen zu beantworten. Dennoch halten wir, mit Blick auf die Komplexit\u00e4t der betreffenden M\u00e4rkte und Warenstr\u00f6me, eine vollst\u00e4ndige Anwendung der EUDR zum 30. Dezember 2024 f\u00fcr nicht m\u00f6glich. Aufgrund unzureichender technischer und administrativer Vorbereitung seitens der EU sieht sich die Wirtschaft au\u00dferstande, die Anwendung der EUDR vollumf\u00e4nglich und rechtssicher vorzubereiten.\r\n\r\n\r\nImmer noch fehlt ein ausgereiftes EU-IT-System f\u00fcr die Millionen von Datens\u00e4tzen zur Nachweispflicht. Vor allem fehlt die dringend ben\u00f6tigte Schnittstelle, die es allen Marktbeteiligten erm\u00f6glicht, die geforderten Informationen digital, sicher und vor allem ohne exzessiven b\u00fcrokratischen Aufwand bereitzustellen. Der Pilottest des Informationssystems hat aus Sicht der Wirtschaft massive M\u00e4ngel zutage gef\u00f6rdert, die sich selbst bei intensiver IT-Entwicklung in den n\u00e4chsten Monaten nicht beheben lassen werden. Hinzu kommt, dass eine konkrete Spezifikation der vorzulegenden Informationen zum Legalit\u00e4tsnachweis weiterhin auf sich warten l\u00e4sst und auch die notwendige enge staatliche Kooperation mit wichtigen Herkunftsl\u00e4ndern noch nicht ausreichend ist. Zudem warten die Marktbeteiligten h\u00e4nderingend auf die l\u00e4ngst \u00fcberf\u00e4llige Erg\u00e4nzung der FAQs zur EUDR, um die Umsetzung der Verordnung besser planen zu k\u00f6nnen.\r\n\r\nEs darf nicht \u00fcbersehen werden, dass auch europ\u00e4ische Erzeuger betroffen sind und die vollen Pflichten gem\u00e4\u00df der EUDR tragen. Allein in Deutschland werden zehntausende Land- und Forstwirte von Baden-W\u00fcrttemberg bis Schleswig-Holstein betroffen sein. Sie stehen vor aktuell unl\u00f6sbaren Aufgaben. Auch hierzulande befindet sich die Verkn\u00fcpfung der bestehenden R\u00fcckverfolgbarkeitssysteme noch in einer fr\u00fchen Phase der Entwicklung. Wir m\u00fcssen sicherstellen, dass wir unsere Land- und Forstwirtschaft nicht mit zus\u00e4tzlicher B\u00fcrokratie \u00fcberfordern.\r\n\r\nDas L\u00e4nderbenchmarkingsystem ist ein zentraler Bestandteil der Verordnung und sollte zum Jahresende Anwendung finden. Da aber auch dieses immer noch nicht im Ansatz auf den Weg gebracht ist, laufen die Marktteilnehmer Gefahr, dass alle L\u00e4nder in die Kategorie \u201cnormales Risiko\u201d fallen und dadurch ein unn\u00f6tiger zus\u00e4tzlicher B\u00fcrokratieaufwand  entsteht. Das h\u00e4tte zugleich erhebliche Auswirkungen auf die \u00dcberwachung und Durchsetzung der Konformit\u00e4t durch zust\u00e4ndige Beh\u00f6rden. Diese Problematik betrifft auch Drittstaaten, denn hier kann ein Risikobenchmarking, das das Entwaldungsrisiko regional differenziert, den b\u00fcrokratischen Aufwand ebenfalls sp\u00fcrbar verringern: Kontrollen k\u00f6nnen pr\u00e4zise auf Hochrisikoregionen fokussiert werden, w\u00e4hrend in Regionen mit niedrigem Risiko der B\u00fcrokratieaufwand sinkt. Ohne das Benchmarking entf\u00e4llt dieser Vorteil.\r\nDie Defizite und Vers\u00e4umnisse bei der staatlichen Vorbereitung stehen im Widerspruch zum globalen Ambitionsniveau des neuen Regelwerks als auch zu dem Aufwand, den die EU-Kommission den Marktbeteiligten abverlangt, damit sie die neuen Nachweis- und Sorgfaltspflichten k\u00fcnftig erf\u00fcllen k\u00f6nnen. Allein in Deutschland m\u00fcssen in der gesamten Wertsch\u00f6pfungskette, von der Landwirtschaft \u00fcber die Ern\u00e4hrungsindustrie bis zum Lebensmittelhandel, hunderttausende Unternehmen ihre Warenwirtschaftssysteme und das Lieferkettenmanagement an die neuen Bestimmungen anpassen. Umfangreiche Investitionen und organisatorische Umstellungen sind zur Vorbereitung der Umsetzung in den Betrieben erforderlich. Nicht zuletzt auch die Mitarbeitenden m\u00fcssen in die Lage versetzt werden, die Bestimmungen der EUDR umzusetzen \u2013 am Ende sind sie es, die die rechtssichere Anwendung zu verantworten haben. \r\n\r\nHinzu kommt, dass auch der Aufbau segregierter Lieferketten in allen Herkunftsl\u00e4ndern  au\u00dferhalb der EU mit sehr gro\u00dfem finanziellen wie logistischem Aufwand verbunden ist. Dort muss aufgrund der neuen R\u00fcckverfolgungsbestimmungen der EUDR f\u00fcr Exporte in die EU eine eigene Infrastruktur errichtet werden, da diese Sendungen komplett von den Warenstr\u00f6men in Nicht-EU-L\u00e4nder zu trennen sind.\r\nZusammenfassend stellen wir fest, dass die EU von Millionen EU-Landwirten sowie Farmern in Drittl\u00e4ndern umfassende, zeitlich geradezu unm\u00f6gliche Vorbereitungen verlangt, aber selbst nicht die Voraussetzung zur ordnungsgem\u00e4\u00dfen Anwendung des neuen Regelwerks erf\u00fcllt.\r\nWir erwarten mit Blick auf die sehr knappe verbleibende Zeit bis zum geplanten Start der EUDR, dass die  EU-Kommission die Frage beantwortet, wie vorzugehen sein wird, wenn am Ende dieses Jahres weder die Verwaltung noch die betroffenen Marktbeteiligten zu 100 Prozent \u201cEUDR-ready\u201d sind, wenn das L\u00e4nderbenchmarking nicht eingef\u00fchrt und das Informationssystem bis Ende des Jahres nicht einsatzf\u00e4hig ist. \r\n\r\nWir weisen zudem mit Nachdruck darauf hin, dass nach Kl\u00e4rung der entscheidenden Anwendungsfragen und Implementation aller technischen Voraussetzungen den betroffenen Marktbeteiligten noch ausreichend Zeit bleiben muss, die betriebsinternen Vorbereitungen zu treffen und die technische Umsetzung zu gew\u00e4hrleisten.\r\n\r\nUns allen ist klar: Sollte die Anwendung der EUDR Ende des Jahres starten, ohne dass zumindest die wichtigsten Voraussetzungen gekl\u00e4rt sind, dann droht ein Fehlstart mit weitreichenden Folgen. Allen voran Beeintr\u00e4chtigungen f\u00fcr die Agrarrohstoff- und Lebensmittelversorgung der EU, globale Marktverwerfungen, zus\u00e4tzliche B\u00fcrokratiebelastungen sowie existentielle Auswirkungen f\u00fcr Millionen von Kleinbauern und Kleinb\u00e4uerinnen weltweit, die nicht in der Lage sein werden, die neuen Regeln zu erf\u00fcllen.\r\n\r\nDie Zeit rennt allen Beteiligten davon. Daher bitten wir dringend um Ihre Unterst\u00fctzung, um praktikable L\u00f6sungen zu finden.\r\n\r\n\r\nF\u00fcr einen tieferen Austausch stehen wir Ihnen gerne zur Verf\u00fcgung.\r\n\r\nMit freundlichen Gr\u00fc\u00dfen\r\n"
+                        }
+                    },
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b3/56/332664/Stellungnahme-Gutachten-SG2407090035.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                        "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                        "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                                    }
+                                ],
+                                "sendingDate": "2024-07-09"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009032",
+                        "regulatoryProjectTitle": "EU Entwaldungsverordnung",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "EUDR \u2013 entscheidende Fragen umgehend beantworten, Marktst\u00f6rungen verhindern\r\n\r\n\r\nSehr geehrter Herr Bundesminister, \r\n\r\n\r\nweniger als sechs Monate vor dem Start der Verordnung f\u00fcr entwaldungsfreie Produkte (EUDR) wenden wir uns im Namen der deutschen Agrar- und Lebensmittelwirtschaft erneut mit gro\u00dfer Sorge an Sie. \r\n\r\nImmer noch bleibt die EU-Kommission allen Betroffenen Antworten auf entscheidende Anwendungsfragen zur EUDR schuldig. Die M\u00f6glichkeiten, dass Wirtschaft und Herkunftsl\u00e4nder \u2013 Millionen von Betroffenen weltweit \u2013  sich ausreichend auf den Anwendungsstart vorbereiten k\u00f6nnen, wird immer geringer. Die Verunsicherung w\u00e4chst, und mit ihr dr\u00e4ngt zunehmend die Frage, was auf die globalen M\u00e4rkte, Agrarlieferketten sowie die Marktbeteiligten im Januar 2025 zukommt. Auch in der EU selbst steigt die Verunsicherung. \r\n\r\nWir sehen nach wie vor, dass sich das Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft Hand in Hand mit der Bundesanstalt f\u00fcr Landwirtschaft und Ern\u00e4hrung (BLE) intensiv bem\u00fcht, H\u00fcrden aus dem Weg zu r\u00e4umen und Fragen zu beantworten. Daf\u00fcr sind wir Ihnen sowie Ihren Mitarbeitern und Mitarbeiterinnen dankbar und m\u00f6chten den wertvollen Dialog mit Ihrem Haus fortsetzen. Es gibt Hoffnung, dass die lange erwartete Schnittstelle des EUDR-Informationssystems auf Basis der inzwischen ver\u00f6ffentlichten Spezifikationen funktionieren k\u00f6nnte \u2013 auch wenn der Stresstest f\u00fcr das System beim Upload von Millionen von R\u00fcckverfolgungsdaten in der Praxis erst noch bevorsteht.\r\n\r\n\r\nDennoch ist der Stand der Vorbereitungen insgesamt h\u00f6chst unbefriedigend und besorgniserregend. Immer noch fehlen die seit langem angek\u00fcndigten aktualisierten FAQs. Auch das Guidance Document, von dem wir uns unter anderem Klarheit zu den erforderlichen Legalit\u00e4tsnachweisen versprechen, liegt noch nicht vor. Eine Checkliste f\u00fcr die in Deutschland t\u00e4tigen Marktteilnehmer auf Basis des Pr\u00fcfkonzeptes der BLE wird fr\u00fchestens im Herbst erwartet. Hinzu kommt, dass ein erheblicher Teil der EU-Mitgliedstaaten bis heute noch nicht einmal die zust\u00e4ndigen nationalen Beh\u00f6rden benannt hat, was Zweifel n\u00e4hrt, ob ein europ\u00e4isches Level Playing Field bei der Anwendung der EUDR \u00fcberhaupt noch erreichbar ist. Und schlie\u00dflich ist auch ungewiss, wann mit dem L\u00e4nderbenchmarking zu rechnen ist. Die EU-Kommission zeigt sich zwar zuversichtlich, das Benchmarking noch vor dem 30. Dezember einf\u00fchren zu k\u00f6nnen, diese Einsch\u00e4tzung wird aber von zahlreichen Beobachtern bezweifelt. Hunderttausende deutsche Erzeuger m\u00fcssten ohne die Einstufung in ein niedriges Risiko die vollumf\u00e4nglichen Sorgfaltspflichten erf\u00fcllen, ohne dass in Deutschland \u00fcberhaupt ein Risiko der Entwaldung besteht.  Gleichwohl \u00e4ndert das Benchmarking nichts an dem Umfang der Sorgfaltspflichten f\u00fcr die Marktbeteiligten. Alle sind verpflichtet, mittels Sorgfaltspflichtenerkl\u00e4rung l\u00fcckenlos R\u00fcckverfolgungsdaten und Legalit\u00e4tsnachweise zu liefern. \r\n\r\n\r\nIn unserem Brief vom 10. April dieses Jahres an Sie und weitere Vertreter von Bundesregierung und EU haben wir darauf hingewiesen, dass ein Fehlstart droht, wenn zumindest die wichtigsten Voraussetzungen f\u00fcr die rechtssichere Umsetzung der Verordnung nicht gekl\u00e4rt sind. Allen voran Beeintr\u00e4chtigungen f\u00fcr die Agrarrohstoff- und Lebensmittelversorgung der EU, globale Marktverwerfungen, zus\u00e4tzliche B\u00fcrokratiebelastungen sowie existentielle Auswirkungen f\u00fcr Millionen von Kleinbauern und Kleinb\u00e4uerinnen weltweit. An dieser Einsch\u00e4tzung halten wir unver\u00e4ndert fest. Solange entscheidende Anwendungsfragen offen bleiben, w\u00e4chst die Gefahr von weitreichenden Negativeffekten mit jedem Tag.\r\n \r\nSo beobachten wir in unseren Rohstoff- und Produktm\u00e4rkten in den letzten Monaten und Wochen bei Erzeugern und H\u00e4ndlern in Europa ebenso wie auch au\u00dferhalb der EU eine zunehmende Verunsicherung. Unsere Branchen machen sich Gedanken, wie die Versorgung ab 2025 gesichert werden soll.\r\n\r\nEs ist festzustellen, dass bei zahlreichen von der EUDR betroffenen Produkten im Moment kaum Liefervertr\u00e4ge f\u00fcr das kommende Jahr abgeschlossen werden. Das liegt daran, dass die Marktteilnehmer besonders wegen der Verz\u00f6gerungen bei FAQs und Guidance Document nicht absch\u00e4tzen k\u00f6nnen, wie die Einhaltung der EUDR-Bestimmungen vertraglich zu gew\u00e4hrleisten und die Umsetzungskosten sowie -risiken zu bepreisen sind. Marktbeobachter halten dies f\u00fcr sehr ungew\u00f6hnlich, denn es ist in vielen Branchen \u00fcblich, neun bis zw\u00f6lf Monate im Voraus Kontrakte abzuschlie\u00dfen.\r\n\r\nDies ist ein Warnsignal, dass wir aufgrund der vielen ungekl\u00e4rten Fragen bei der EUDR-Implementation auf Marktst\u00f6rungen oder sogar Angebotsengp\u00e4sse zusteuern k\u00f6nnten. Eine Vielzahl von Auswirkungen auf Lieferketten bis hin zu einer m\u00f6glichen Verknappung und Verteuerung von Waren des t\u00e4glichen Bedarfs sind in Europa zu bef\u00fcrchten.\r\n\r\nDarum bitten wir Sie, sehr geehrter Herr Bundesminister, nachdr\u00fccklich auf die EU-Kommission einzuwirken und unsere Argumente zu adressieren, damit die ausstehenden Vorbereitungen \u2013 auch in der derzeitigen \u00dcbergangsphase nach der EU-Wahl \u2013  nun ohne weiteren Zeitverzug und mit aller Energie durchgef\u00fchrt werden. Wir brauchen vor allem die FAQs und das Guidance Document umgehend. \r\n\r\nZudem erwarten wir mit Blick auf die sehr knapp verbleibende Zeit bis zum geplanten Start der EUDR, dass die EU-Kommission einen praktikablen Plan vorlegt, wie vorzugehen sein wird, wenn am Ende dieses Jahres immer noch wesentliche Voraussetzungen f\u00fcr die Verordnungsanwendung fehlen.\r\n\r\nEine Art \u201cSoftstart\u201d \u2013 wie immer dieser aussehen k\u00f6nnte \u2013 w\u00e4re ohne verbindliche und rechtssichere Vorgaben keine Option. Pragmatismus ist gut. Aber Rechtssicherheit ist unerl\u00e4sslich f\u00fcr die Durchf\u00fchrung eines Regelwerks von dieser Tragweite. Alle Unternehmen und Marktbeteiligte der Agrar- und Ern\u00e4hrungswirtschaft brauchen mit Blick auf den 30. Dezember Klarheit, damit sie rechtssicher handeln, die empfindliche St\u00f6rung von Lieferketten vermeiden und die Versorgung in der Europ\u00e4ischen Union sicherstellen k\u00f6nnen. Dabei ist unbedingt zu ber\u00fccksichtigen, dass nach Kl\u00e4rung der entscheidenden Anwendungsfragen den Marktbeteiligten noch ausreichend Zeit bleiben muss, die betriebsinternen Vorbereitungen zu treffen und die technische Umsetzung zu gew\u00e4hrleisten. Absehbar ist, dass f\u00fcr viele Unternehmen angesichts des gro\u00dfen betrieblich-administrativen Aufwandes schon jetzt die verbleibende Zeit bis zum vorgesehenen Start der Anwendung nicht mehr ausreichen wird, sich angemessen vorzubereiten. \r\n\r\nWir sind bereit, unseren Teil dazu beizutragen, damit ein drohender Fehlstart mit weitreichendem Schaden noch abgewendet werden kann. Aber die EU-Kommission muss nun liefern und Rechtssicherheit durch klare, praktikable Antworten erm\u00f6glichen!\r\n\r\nDie Zeit rennt allen Beteiligten davon. Daher bitten wir dringend um Ihre Unterst\u00fctzung.\r\n\r\nF\u00fcr einen tieferen Austausch stehen wir Ihnen gerne zur Verf\u00fcgung.\r\n\r\nMit freundlichen Gr\u00fc\u00dfen\r\n"
+                        }
+                    }
+                ],
+                "title": "EU Entwaldungsverordnung"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/2d/42/323425/Stellungnahme-Gutachten-SG2405290047.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                "de": "Gremien",
+                                "en": "Committees"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_ORGANS",
+                                "de": "Organe",
+                                "en": "Organs"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                "de": "Bundeskanzleramt (BKAmt)",
+                                "en": "Bundeskanzleramt (BKAmt)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                "de": "Bundesministerium der Finanzen (BMF)",
+                                "en": "Bundesministerium der Finanzen (BMF)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMBF",
+                                "de": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                                "en": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-22"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009031",
+                "regulatoryProjectTitle": "Neue genomische Techniken",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Offener Brief von Verb\u00e4nden der deutschen Agrar-, Gartenbau- sowie Ern\u00e4hrungs- und Bio\u00f6konomiewirtschaft\r\n\r\nLandwirtschaft zukunftsf\u00e4hig machen: Anwendung von neuen genomischen Techniken in Europa zeitnah erm\u00f6glichen\r\n\r\n\r\n\r\nSehr geehrter Herr Bundesminister,\r\n\r\n\r\ndie Landwirtschaft in Deutschland und Europa steht unter enormem Transformationsdruck. Dabei fehlen geeignete Rahmenbedingungen, um den nachvollziehbaren gesellschaftlichen und politischen Anforderungen zu mehr Nachhaltigkeit gerecht zu werden und gleichzeitig wirtschaftlich wettbewerbsf\u00e4hig zu sein. Die anhaltenden Branchenproteste sind Folge dieser systemischen Schw\u00e4che. Angesichts der angespannten Haushaltslage gibt es aber kaum finanziellen Spielraum f\u00fcr gro\u00dfe Entlastungspakete. Deshalb ist es zu begr\u00fc\u00dfen, dass die Politik trotzdem nach effizienten L\u00f6sungen sucht, um die Transformation der Landwirtschaft voranzutreiben.\r\n\r\n\r\nUm langfristig zukunftsf\u00e4hig zu sein, ist die Landwirtschaft auf Innovationen angewiesen \u2013 auch und gerade im Bereich der Pflanzenz\u00fcchtung. Neue genomische Techniken (NGT) wie die Genschere CRISPR/Cas erg\u00e4nzen den Werkzeugkasten in der Z\u00fcchtung und er\u00f6ffnen zus\u00e4tzliche M\u00f6glichkeiten zur Entwicklung widerstandsf\u00e4higer Pflanzen f\u00fcr eine effiziente und nachhaltige Landwirtschaft. Die Anwendung der Methoden und so gez\u00fcchteter Pflanzen durch eine Vielzahl an Unternehmen muss durch geeignete Rahmenbedingungen sichergestellt werden.  \r\n\r\n\r\nWeltweit werden NGT-Produkte zunehmend wie herk\u00f6mmlich gez\u00fcchtete Pflanzen behandelt und reguliert. Dementsprechend befinden sich bereits NGT-Produkte vor der Marktreife und werden perspektivisch auch den EU-Markt erreichen. Die ausstehende Modernisierung des europ\u00e4ischen Rechtsrahmens f\u00fcr NGT ist auch eine Herausforderung f\u00fcr den internationalen Handel. Hier besteht Rechtsunsicherheit wegen fehlender Nachweismethoden f\u00fcr die Mutationsursache. Die Politik muss bei der Aktualisierung des Regelwerks f\u00fcr NGT die Praktikabilit\u00e4t der Ma\u00dfnahmen entlang der gesamten Wertsch\u00f6pfungskette ber\u00fccksichtigen. Rechtssicherheit ist wichtig, auch um Verf\u00fcgbarkeit von agrarischen Rohstoffen zu sichern.\r\n\r\n\r\nDie EU-Kommission hat im Juli 2023 einen ausgewogenen Regulierungsvorschlag zur Nutzung von NGT in der Pflanzenz\u00fcchtung vorgelegt. Dies war ein wichtiger Schritt zur Nutzung dieser Nobelpreis-gekr\u00f6nten Z\u00fcchtungsmethode in Europa. Als Agrarbranche setzen wir uns f\u00fcr dessen praxistaugliche Umsetzung ein. Allerdings werden aktuell viele \u00c4nderungsw\u00fcnsche diskutiert, die die Praxistauglichkeit des Vorschlags deutlich einschr\u00e4nken. Besonders die geforderte undifferenzierte Kennzeichnungspflicht und R\u00fcckverfolgbarkeit f\u00fcr alle NGT-Produkte, auch solche der Kategorie 1, die sich von konventionell gez\u00fcchteten Pflanzen nicht unterscheiden, ist nicht nachvollziehbar und widerspricht sowohl dem eigentlichen NGT-Vorschlag der EU-Kommission als auch dem breiten wissenschaftlichen Konsens.\r\n\r\n\r\nBevor der aktuelle Gesetzgebungsprozess im Trilog-Format fortgesetzt werden kann, steht eine Positionierung im Rat der EU aus. Deutschland sollte den Prozess konstruktiv begleiten und den Schwung der Europawahl nutzen, um das politische Verfahren zum Abschluss zu bringen. So kann diese Technik zur Erreichung der Nachhaltigkeitsziele der Farm-to-Fork-Strategie beitragen. Auch die von der Bundesregierung eingesetzte Expertenkommission Forschung und Innovation (EFI) verweist in ihrem neuesten Jahresgutachten darauf, dass das Potenzial von NGT in Deutschland und der EU aufgrund eines nicht zeitgem\u00e4\u00dfen und inkonsistenten Rechtsrahmens ungenutzt bleibt. \r\n\r\n\r\nWenn Europa sich jetzt nicht bewegt, werden wir Wettbewerbsf\u00e4higkeit verlieren. Schon jetzt verlagern viele Unternehmen und Forschungseinrichtungen ihre Aktivit\u00e4ten in L\u00e4nder, in denen diese Z\u00fcchtungstechnologie bereits genutzt werden kann.\r\n\r\n\r\nUnser Appell: Setzen Sie kurzfristig ein Zeichen an die Land- und Ern\u00e4hrungswirtschaft \u2013 ohne Extra-Belastungen f\u00fcr den Haushalt \u2013 und erm\u00f6glichen Sie Innovationen. Setzen Sie sich daf\u00fcr ein, dass Deutschland den NGT-Vorschlag der EU-Kommission ohne Zeitverz\u00f6gerung unterst\u00fctzt. Mit einem deutschen \u201cJa\u201d w\u00e4re die Mehrheit f\u00fcr eine, von der Agrar-, Gartenbau- sowie Ern\u00e4hrungs- und Bio\u00f6konomiewirtschaft ben\u00f6tigte, Zukunftstechnologie gesichert.\r\n\r\n\r\nWir als Verb\u00e4ndegemeinschaft sowie unsere Mitgliedsunternehmen stehen f\u00fcr den Austausch zu diesem Thema gerne zur Verf\u00fcgung.\r\n\r\n\r\nMit freundlichen Gr\u00fc\u00dfen\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/30/e8/323427/Stellungnahme-Gutachten-SG2405290048.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMZ",
+                                "de": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                                "en": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-16"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009032",
+                "regulatoryProjectTitle": "EU Entwaldungsverordnung",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Fehlstart der EU Deforestation Regulation (EUDR) verhindern \u2013 rechtssichere Anwendung der Verordnung ab 30. Dezember 2024 fraglich\r\n\r\n\r\nSehr geehrter Herr Bundesminister,\r\n\r\nwir wenden uns im Namen der deutschen Agrar- und Lebensmittelwirtschaft zum bevorstehenden Start der EU Deforestation Regulation (EUDR) an Sie. Von Seiten der EU bleiben weniger als neun Monate vor dem geplanten Start der Verordnung immer noch entscheidende Anwendungsfragen ungekl\u00e4rt. \r\n\r\nAls Repr\u00e4sentanten eines gro\u00dfen Teils der internationalen Lieferketten, die direkt von dieser Verordnung betroffen sind, begr\u00fc\u00dfen wir ausdr\u00fccklich die Bestrebungen der EU, den Waldbestand global zu sch\u00fctzen. Wir sind bereit, die rechtssichere Anwendung der Verordnung durch die von uns vertretenen Unternehmen bestm\u00f6glich vorzubereiten.\r\n\r\nWir sehen, dass sich die EU-Kommission sowie das Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft intensiv bem\u00fchen, H\u00fcrden aus dem Weg zu r\u00e4umen und Fragen zu beantworten. Dennoch halten wir, mit Blick auf die Komplexit\u00e4t der betreffenden M\u00e4rkte und Warenstr\u00f6me, eine vollst\u00e4ndige Anwendung der EUDR zum 30. Dezember 2024 f\u00fcr nicht m\u00f6glich. Aufgrund unzureichender technischer und administrativer Vorbereitung seitens der EU sieht sich die Wirtschaft au\u00dferstande, die Anwendung der EUDR vollumf\u00e4nglich und rechtssicher vorzubereiten.\r\n\r\n\r\nImmer noch fehlt ein ausgereiftes EU-IT-System f\u00fcr die Millionen von Datens\u00e4tzen zur Nachweispflicht. Vor allem fehlt die dringend ben\u00f6tigte Schnittstelle, die es allen Marktbeteiligten erm\u00f6glicht, die geforderten Informationen digital, sicher und vor allem ohne exzessiven b\u00fcrokratischen Aufwand bereitzustellen. Der Pilottest des Informationssystems hat aus Sicht der Wirtschaft massive M\u00e4ngel zutage gef\u00f6rdert, die sich selbst bei intensiver IT-Entwicklung in den n\u00e4chsten Monaten nicht beheben lassen werden. Hinzu kommt, dass eine konkrete Spezifikation der vorzulegenden Informationen zum Legalit\u00e4tsnachweis weiterhin auf sich warten l\u00e4sst und auch die notwendige enge staatliche Kooperation mit wichtigen Herkunftsl\u00e4ndern noch nicht ausreichend ist. Zudem warten die Marktbeteiligten h\u00e4nderingend auf die l\u00e4ngst \u00fcberf\u00e4llige Erg\u00e4nzung der FAQs zur EUDR, um die Umsetzung der Verordnung besser planen zu k\u00f6nnen.\r\n\r\nEs darf nicht \u00fcbersehen werden, dass auch europ\u00e4ische Erzeuger betroffen sind und die vollen Pflichten gem\u00e4\u00df der EUDR tragen. Allein in Deutschland werden zehntausende Land- und Forstwirte von Baden-W\u00fcrttemberg bis Schleswig-Holstein betroffen sein. Sie stehen vor aktuell unl\u00f6sbaren Aufgaben. Auch hierzulande befindet sich die Verkn\u00fcpfung der bestehenden R\u00fcckverfolgbarkeitssysteme noch in einer fr\u00fchen Phase der Entwicklung. Wir m\u00fcssen sicherstellen, dass wir unsere Land- und Forstwirtschaft nicht mit zus\u00e4tzlicher B\u00fcrokratie \u00fcberfordern.\r\n\r\nDas L\u00e4nderbenchmarkingsystem ist ein zentraler Bestandteil der Verordnung und sollte zum Jahresende Anwendung finden. Da aber auch dieses immer noch nicht im Ansatz auf den Weg gebracht ist, laufen die Marktteilnehmer Gefahr, dass alle L\u00e4nder in die Kategorie \u201cnormales Risiko\u201d fallen und dadurch ein unn\u00f6tiger zus\u00e4tzlicher B\u00fcrokratieaufwand  entsteht. Das h\u00e4tte zugleich erhebliche Auswirkungen auf die \u00dcberwachung und Durchsetzung der Konformit\u00e4t durch zust\u00e4ndige Beh\u00f6rden. Diese Problematik betrifft auch Drittstaaten, denn hier kann ein Risikobenchmarking, das das Entwaldungsrisiko regional differenziert, den b\u00fcrokratischen Aufwand ebenfalls sp\u00fcrbar verringern: Kontrollen k\u00f6nnen pr\u00e4zise auf Hochrisikoregionen fokussiert werden, w\u00e4hrend in Regionen mit niedrigem Risiko der B\u00fcrokratieaufwand sinkt. Ohne das Benchmarking entf\u00e4llt dieser Vorteil.\r\nDie Defizite und Vers\u00e4umnisse bei der staatlichen Vorbereitung stehen im Widerspruch zum globalen Ambitionsniveau des neuen Regelwerks als auch zu dem Aufwand, den die EU-Kommission den Marktbeteiligten abverlangt, damit sie die neuen Nachweis- und Sorgfaltspflichten k\u00fcnftig erf\u00fcllen k\u00f6nnen. Allein in Deutschland m\u00fcssen in der gesamten Wertsch\u00f6pfungskette, von der Landwirtschaft \u00fcber die Ern\u00e4hrungsindustrie bis zum Lebensmittelhandel, hunderttausende Unternehmen ihre Warenwirtschaftssysteme und das Lieferkettenmanagement an die neuen Bestimmungen anpassen. Umfangreiche Investitionen und organisatorische Umstellungen sind zur Vorbereitung der Umsetzung in den Betrieben erforderlich. Nicht zuletzt auch die Mitarbeitenden m\u00fcssen in die Lage versetzt werden, die Bestimmungen der EUDR umzusetzen \u2013 am Ende sind sie es, die die rechtssichere Anwendung zu verantworten haben. \r\n\r\nHinzu kommt, dass auch der Aufbau segregierter Lieferketten in allen Herkunftsl\u00e4ndern  au\u00dferhalb der EU mit sehr gro\u00dfem finanziellen wie logistischem Aufwand verbunden ist. Dort muss aufgrund der neuen R\u00fcckverfolgungsbestimmungen der EUDR f\u00fcr Exporte in die EU eine eigene Infrastruktur errichtet werden, da diese Sendungen komplett von den Warenstr\u00f6men in Nicht-EU-L\u00e4nder zu trennen sind.\r\nZusammenfassend stellen wir fest, dass die EU von Millionen EU-Landwirten sowie Farmern in Drittl\u00e4ndern umfassende, zeitlich geradezu unm\u00f6gliche Vorbereitungen verlangt, aber selbst nicht die Voraussetzung zur ordnungsgem\u00e4\u00dfen Anwendung des neuen Regelwerks erf\u00fcllt.\r\nWir erwarten mit Blick auf die sehr knappe verbleibende Zeit bis zum geplanten Start der EUDR, dass die  EU-Kommission die Frage beantwortet, wie vorzugehen sein wird, wenn am Ende dieses Jahres weder die Verwaltung noch die betroffenen Marktbeteiligten zu 100 Prozent \u201cEUDR-ready\u201d sind, wenn das L\u00e4nderbenchmarking nicht eingef\u00fchrt und das Informationssystem bis Ende des Jahres nicht einsatzf\u00e4hig ist. \r\n\r\nWir weisen zudem mit Nachdruck darauf hin, dass nach Kl\u00e4rung der entscheidenden Anwendungsfragen und Implementation aller technischen Voraussetzungen den betroffenen Marktbeteiligten noch ausreichend Zeit bleiben muss, die betriebsinternen Vorbereitungen zu treffen und die technische Umsetzung zu gew\u00e4hrleisten.\r\n\r\nUns allen ist klar: Sollte die Anwendung der EUDR Ende des Jahres starten, ohne dass zumindest die wichtigsten Voraussetzungen gekl\u00e4rt sind, dann droht ein Fehlstart mit weitreichenden Folgen. Allen voran Beeintr\u00e4chtigungen f\u00fcr die Agrarrohstoff- und Lebensmittelversorgung der EU, globale Marktverwerfungen, zus\u00e4tzliche B\u00fcrokratiebelastungen sowie existentielle Auswirkungen f\u00fcr Millionen von Kleinbauern und Kleinb\u00e4uerinnen weltweit, die nicht in der Lage sein werden, die neuen Regeln zu erf\u00fcllen.\r\n\r\nDie Zeit rennt allen Beteiligten davon. Daher bitten wir dringend um Ihre Unterst\u00fctzung, um praktikable L\u00f6sungen zu finden.\r\n\r\n\r\nF\u00fcr einen tieferen Austausch stehen wir Ihnen gerne zur Verf\u00fcgung.\r\n\r\nMit freundlichen Gr\u00fc\u00dfen\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b3/56/332664/Stellungnahme-Gutachten-SG2407090035.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                            }
+                        ],
+                        "sendingDate": "2024-07-09"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009032",
+                "regulatoryProjectTitle": "EU Entwaldungsverordnung",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "EUDR \u2013 entscheidende Fragen umgehend beantworten, Marktst\u00f6rungen verhindern\r\n\r\n\r\nSehr geehrter Herr Bundesminister, \r\n\r\n\r\nweniger als sechs Monate vor dem Start der Verordnung f\u00fcr entwaldungsfreie Produkte (EUDR) wenden wir uns im Namen der deutschen Agrar- und Lebensmittelwirtschaft erneut mit gro\u00dfer Sorge an Sie. \r\n\r\nImmer noch bleibt die EU-Kommission allen Betroffenen Antworten auf entscheidende Anwendungsfragen zur EUDR schuldig. Die M\u00f6glichkeiten, dass Wirtschaft und Herkunftsl\u00e4nder \u2013 Millionen von Betroffenen weltweit \u2013  sich ausreichend auf den Anwendungsstart vorbereiten k\u00f6nnen, wird immer geringer. Die Verunsicherung w\u00e4chst, und mit ihr dr\u00e4ngt zunehmend die Frage, was auf die globalen M\u00e4rkte, Agrarlieferketten sowie die Marktbeteiligten im Januar 2025 zukommt. Auch in der EU selbst steigt die Verunsicherung. \r\n\r\nWir sehen nach wie vor, dass sich das Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft Hand in Hand mit der Bundesanstalt f\u00fcr Landwirtschaft und Ern\u00e4hrung (BLE) intensiv bem\u00fcht, H\u00fcrden aus dem Weg zu r\u00e4umen und Fragen zu beantworten. Daf\u00fcr sind wir Ihnen sowie Ihren Mitarbeitern und Mitarbeiterinnen dankbar und m\u00f6chten den wertvollen Dialog mit Ihrem Haus fortsetzen. Es gibt Hoffnung, dass die lange erwartete Schnittstelle des EUDR-Informationssystems auf Basis der inzwischen ver\u00f6ffentlichten Spezifikationen funktionieren k\u00f6nnte \u2013 auch wenn der Stresstest f\u00fcr das System beim Upload von Millionen von R\u00fcckverfolgungsdaten in der Praxis erst noch bevorsteht.\r\n\r\n\r\nDennoch ist der Stand der Vorbereitungen insgesamt h\u00f6chst unbefriedigend und besorgniserregend. Immer noch fehlen die seit langem angek\u00fcndigten aktualisierten FAQs. Auch das Guidance Document, von dem wir uns unter anderem Klarheit zu den erforderlichen Legalit\u00e4tsnachweisen versprechen, liegt noch nicht vor. Eine Checkliste f\u00fcr die in Deutschland t\u00e4tigen Marktteilnehmer auf Basis des Pr\u00fcfkonzeptes der BLE wird fr\u00fchestens im Herbst erwartet. Hinzu kommt, dass ein erheblicher Teil der EU-Mitgliedstaaten bis heute noch nicht einmal die zust\u00e4ndigen nationalen Beh\u00f6rden benannt hat, was Zweifel n\u00e4hrt, ob ein europ\u00e4isches Level Playing Field bei der Anwendung der EUDR \u00fcberhaupt noch erreichbar ist. Und schlie\u00dflich ist auch ungewiss, wann mit dem L\u00e4nderbenchmarking zu rechnen ist. Die EU-Kommission zeigt sich zwar zuversichtlich, das Benchmarking noch vor dem 30. Dezember einf\u00fchren zu k\u00f6nnen, diese Einsch\u00e4tzung wird aber von zahlreichen Beobachtern bezweifelt. Hunderttausende deutsche Erzeuger m\u00fcssten ohne die Einstufung in ein niedriges Risiko die vollumf\u00e4nglichen Sorgfaltspflichten erf\u00fcllen, ohne dass in Deutschland \u00fcberhaupt ein Risiko der Entwaldung besteht.  Gleichwohl \u00e4ndert das Benchmarking nichts an dem Umfang der Sorgfaltspflichten f\u00fcr die Marktbeteiligten. Alle sind verpflichtet, mittels Sorgfaltspflichtenerkl\u00e4rung l\u00fcckenlos R\u00fcckverfolgungsdaten und Legalit\u00e4tsnachweise zu liefern. \r\n\r\n\r\nIn unserem Brief vom 10. April dieses Jahres an Sie und weitere Vertreter von Bundesregierung und EU haben wir darauf hingewiesen, dass ein Fehlstart droht, wenn zumindest die wichtigsten Voraussetzungen f\u00fcr die rechtssichere Umsetzung der Verordnung nicht gekl\u00e4rt sind. Allen voran Beeintr\u00e4chtigungen f\u00fcr die Agrarrohstoff- und Lebensmittelversorgung der EU, globale Marktverwerfungen, zus\u00e4tzliche B\u00fcrokratiebelastungen sowie existentielle Auswirkungen f\u00fcr Millionen von Kleinbauern und Kleinb\u00e4uerinnen weltweit. An dieser Einsch\u00e4tzung halten wir unver\u00e4ndert fest. Solange entscheidende Anwendungsfragen offen bleiben, w\u00e4chst die Gefahr von weitreichenden Negativeffekten mit jedem Tag.\r\n \r\nSo beobachten wir in unseren Rohstoff- und Produktm\u00e4rkten in den letzten Monaten und Wochen bei Erzeugern und H\u00e4ndlern in Europa ebenso wie auch au\u00dferhalb der EU eine zunehmende Verunsicherung. Unsere Branchen machen sich Gedanken, wie die Versorgung ab 2025 gesichert werden soll.\r\n\r\nEs ist festzustellen, dass bei zahlreichen von der EUDR betroffenen Produkten im Moment kaum Liefervertr\u00e4ge f\u00fcr das kommende Jahr abgeschlossen werden. Das liegt daran, dass die Marktteilnehmer besonders wegen der Verz\u00f6gerungen bei FAQs und Guidance Document nicht absch\u00e4tzen k\u00f6nnen, wie die Einhaltung der EUDR-Bestimmungen vertraglich zu gew\u00e4hrleisten und die Umsetzungskosten sowie -risiken zu bepreisen sind. Marktbeobachter halten dies f\u00fcr sehr ungew\u00f6hnlich, denn es ist in vielen Branchen \u00fcblich, neun bis zw\u00f6lf Monate im Voraus Kontrakte abzuschlie\u00dfen.\r\n\r\nDies ist ein Warnsignal, dass wir aufgrund der vielen ungekl\u00e4rten Fragen bei der EUDR-Implementation auf Marktst\u00f6rungen oder sogar Angebotsengp\u00e4sse zusteuern k\u00f6nnten. Eine Vielzahl von Auswirkungen auf Lieferketten bis hin zu einer m\u00f6glichen Verknappung und Verteuerung von Waren des t\u00e4glichen Bedarfs sind in Europa zu bef\u00fcrchten.\r\n\r\nDarum bitten wir Sie, sehr geehrter Herr Bundesminister, nachdr\u00fccklich auf die EU-Kommission einzuwirken und unsere Argumente zu adressieren, damit die ausstehenden Vorbereitungen \u2013 auch in der derzeitigen \u00dcbergangsphase nach der EU-Wahl \u2013  nun ohne weiteren Zeitverzug und mit aller Energie durchgef\u00fchrt werden. Wir brauchen vor allem die FAQs und das Guidance Document umgehend. \r\n\r\nZudem erwarten wir mit Blick auf die sehr knapp verbleibende Zeit bis zum geplanten Start der EUDR, dass die EU-Kommission einen praktikablen Plan vorlegt, wie vorzugehen sein wird, wenn am Ende dieses Jahres immer noch wesentliche Voraussetzungen f\u00fcr die Verordnungsanwendung fehlen.\r\n\r\nEine Art \u201cSoftstart\u201d \u2013 wie immer dieser aussehen k\u00f6nnte \u2013 w\u00e4re ohne verbindliche und rechtssichere Vorgaben keine Option. Pragmatismus ist gut. Aber Rechtssicherheit ist unerl\u00e4sslich f\u00fcr die Durchf\u00fchrung eines Regelwerks von dieser Tragweite. Alle Unternehmen und Marktbeteiligte der Agrar- und Ern\u00e4hrungswirtschaft brauchen mit Blick auf den 30. Dezember Klarheit, damit sie rechtssicher handeln, die empfindliche St\u00f6rung von Lieferketten vermeiden und die Versorgung in der Europ\u00e4ischen Union sicherstellen k\u00f6nnen. Dabei ist unbedingt zu ber\u00fccksichtigen, dass nach Kl\u00e4rung der entscheidenden Anwendungsfragen den Marktbeteiligten noch ausreichend Zeit bleiben muss, die betriebsinternen Vorbereitungen zu treffen und die technische Umsetzung zu gew\u00e4hrleisten. Absehbar ist, dass f\u00fcr viele Unternehmen angesichts des gro\u00dfen betrieblich-administrativen Aufwandes schon jetzt die verbleibende Zeit bis zum vorgesehenen Start der Anwendung nicht mehr ausreichen wird, sich angemessen vorzubereiten. \r\n\r\nWir sind bereit, unseren Teil dazu beizutragen, damit ein drohender Fehlstart mit weitreichendem Schaden noch abgewendet werden kann. Aber die EU-Kommission muss nun liefern und Rechtssicherheit durch klare, praktikable Antworten erm\u00f6glichen!\r\n\r\nDie Zeit rennt allen Beteiligten davon. Daher bitten wir dringend um Ihre Unterst\u00fctzung.\r\n\r\nF\u00fcr einen tieferen Austausch stehen wir Ihnen gerne zur Verf\u00fcgung.\r\n\r\nMit freundlichen Gr\u00fc\u00dfen\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

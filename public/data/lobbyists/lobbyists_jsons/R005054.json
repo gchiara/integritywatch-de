@@ -1,0 +1,921 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-08-15T11:50:14.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-08-15T11:50:14.000+02:00",
+        "lastUpdateDate": "2024-08-19T13:43:43.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 43059,
+                "validFromDate": "2024-08-19T13:43:43.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 43055,
+                "validFromDate": "2024-08-19T13:29:16.000+02:00",
+                "validUntilDate": "2024-08-19T13:43:43.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42976,
+                "validFromDate": "2024-08-16T09:57:05.000+02:00",
+                "validUntilDate": "2024-08-19T13:29:16.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42905,
+                "validFromDate": "2024-08-15T11:02:19.000+02:00",
+                "validUntilDate": "2024-08-16T09:57:05.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42894,
+                "validFromDate": "2024-08-15T10:11:34.000+02:00",
+                "validUntilDate": "2024-08-15T11:02:19.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 39128,
+                "validFromDate": "2024-06-27T13:30:15.000+02:00",
+                "validUntilDate": "2024-08-15T10:11:34.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23704,
+                "validFromDate": "2023-07-11T15:38:59.000+02:00",
+                "validUntilDate": "2024-06-27T13:30:15.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21543,
+                "validFromDate": "2023-06-21T15:17:19.000+02:00",
+                "validUntilDate": "2023-07-11T15:38:59.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 8030,
+                "validFromDate": "2022-08-15T11:50:14.000+02:00",
+                "validUntilDate": "2023-06-21T15:17:19.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_LAW_ORGA",
+            "de": "Privatrechtliche Organisation",
+            "en": "Private-law organization"
+        },
+        "activityDescription": "Der Verband Privater Bauherren e. V. (VPB) ist ein Verbraucherschutzverband f\u00fcr alle Themen des Bau- und Immobilienbereichs sowie allen Themen, die sich auf Planung, Errichtung, Betrieb, Instandhaltung, Sanierung, Modernisierung, Erweiterung und Ver\u00e4u\u00dferung von Immobilien privater Bauherren auswirken. Ziel ist es, das Bundesrecht (inkl. Verordnungen) verbraucherfreundlicher zu machen; mindestens aber, seine Verbraucherfreundlichkeit - wo vorhanden - zu erhalten.\r\n\r\nZu diesem Zweck wird der VPB durch Besch\u00e4ftigte und Beauftragte bei den f\u00fcr die Bundesgesetzgebung zust\u00e4ndigen Stellen (MdB, einzeln oder in nicht nur verfassungsrechtlich organisierter Vielzahl sowie einzelne oder mehrere, wie auch immer organisierte Amtswalter der Bundesministerien) t\u00e4tig, indem er Stellungnahmen, Anregungen, Problemdarstellungen/-untersuchungen und L\u00f6sungsempfehlungen aus Sicht von Verbraucherbauherren sowohl in schriftlicher Form wie auch im Rahmen von Gespr\u00e4chen abgibt, vertritt und bewirbt.\r\n\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_CULTURE",
+                "de": "Kultur",
+                "en": "Culture"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_LAW_LEGAL",
+                "de": "Rechtspolitik",
+                "en": "Legal policy"
+            },
+            {
+                "code": "FOI_RP_OTHER",
+                "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                "en": "Other in the field of \"Spatial planning, construction and housing\""
+            },
+            {
+                "code": "FOI_LAW_CIVIL_RIGHT",
+                "de": "Zivilrecht",
+                "en": "Civil rights"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_RP_CITY",
+                "de": "Stadtentwicklung",
+                "en": "Urban development"
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_RP_RESIDE",
+                "de": "Wohnen",
+                "en": "Reside"
+            },
+            {
+                "code": "FOI_ECONOMY_HANDCRAFT",
+                "de": "Handwerk",
+                "en": "Handcraft"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            },
+            {
+                "code": "CONTRACTS_OPERATED_BY_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird in eigenem Interesse durch die Beauftragung Dritter wahrgenommen",
+                "en": "Contracts are awarded to third parties to represent own interests of the company"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/18/0f/345126/SKM_C300i24062512150.pdf",
+        "annualReportPreviousLastFiscalYearExists": true,
+        "relatedFiscalYearEnd": "2022-12-31",
+        "relatedFiscalYearStart": "2022-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.15,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 20001,
+            "to": 30000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Chauseestr",
+            "streetNumber": "8",
+            "type": "NATIONAL",
+            "zipCode": "10115"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@vpb.de"
+                }
+            ],
+            "phoneNumber": "+49302789010",
+            "websites": [
+                {
+                    "website": "www.vpb.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "firstName": "Thomas",
+                "lastName": "Penningh",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "firstName": "Sandra",
+                "lastName": "Quei\u00dfer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "firstName": "Michael",
+                "lastName": "Fritsche",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "firstName": "Corinna",
+                "lastName": "Merzyn",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "entrustedPerson": true,
+                "firstName": "Thomas",
+                "function": "Pr\u00e4sident",
+                "lastName": "Penningh",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "entrustedPerson": true,
+                "firstName": "Sandra",
+                "function": "stellv. Vorsitzende",
+                "lastName": "Quei\u00dfer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "entrustedPerson": true,
+                "firstName": "Michael",
+                "function": "stellv. Vorsitzender",
+                "lastName": "Fritsche",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2023-12-31",
+            "naturalPersons": 13900,
+            "organizations": 10,
+            "totalCount": 13910
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Deutscher Baugerichtstag"
+            },
+            {
+                "membership": "Deutscher Verband f\u00fcr Wohnungswesen, St\u00e4dtebau und Raumordnung"
+            },
+            {
+                "membership": "Deutscher Verband f\u00fcr Wohnungswesen, St\u00e4dtebau und Raumordnung e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "VPB Verband Privater Bauherren e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 1050001,
+            "to": 1060000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R005054/43059",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-27T13:30:15.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/6d/0b/345127/Lobbyregister-Detailansicht-R005054-2024-08-19_13-43-43.pdf",
+        "validFromDate": "2024-08-19T13:43:43.000+02:00",
+        "version": 9
+    },
+    "registerEntryId": 43059,
+    "registerNumber": "R005054",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BGB",
+                        "title": "B\u00fcrgerliches Gesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Beibehaltung der aktuellen Rechtslage im Bauvertragsrecht zu anerkannten Regeln der Technik als Mindeststandard der technisch sicheren Ausf\u00fchrung von Bauma\u00dfnahmen. Einf\u00fchrung einer Pflicht f\u00fcr Unternehmer, Verbraucher-Bauherren gegen\u00fcber verschiedene Ausf\u00fchrungsniveaus einer Bauma\u00dfnahme auch entsprechend verschieden zu bepreisen.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmj.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/RefE_GebaudetypE.pdf?__blob=publicationFile&v=2",
+                            "draftBillProjectUrl": "https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2024_Gebaeudetyp_E.html?nn=110518",
+                            "shortTitle": "BMJ",
+                            "title": "Bundesministerium der Justiz",
+                            "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                        }
+                    ],
+                    "publicationDate": "2024-07-29",
+                    "title": "Gesetz zur zivilrechtlichen Erleichterung des Geb\u00e4udebaus (Geb\u00e4udetyp-E-Gesetz)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_RP_RESIDE",
+                        "de": "Wohnen",
+                        "en": "Reside"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_CIVIL_RIGHT",
+                        "de": "Zivilrecht",
+                        "en": "Civil rights"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007248",
+                "statements": [],
+                "title": "einfaches Bauen"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "UrhG",
+                        "title": "Gesetz \u00fcber Urheberrecht und verwandte Schutzrechte",
+                        "url": "https://www.gesetze-im-internet.de/urhg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Erleichterung der \u00c4nderungsm\u00f6glichkeiten an bestehenden Bauwerken, an denen ein Urheberrecht des Planers besteht. \u00c4nderungszwecke wie energetische Sanierung, Verbesserung hin zu mehr  Klimaneutralit\u00e4t, Schaffung von Wohnraum oder mehr Barrierearmut sollen sich noch besser gegen ein urheberrechtliches \u00c4nderungsverbot in der Abw\u00e4gung durchsetzen k\u00f6nnen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_LEGAL",
+                        "de": "Rechtspolitik",
+                        "en": "Legal policy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_CITY",
+                        "de": "Stadtentwicklung",
+                        "en": "Urban development"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_RP_RESIDE",
+                        "de": "Wohnen",
+                        "en": "Reside"
+                    },
+                    {
+                        "code": "FOI_LAW_PUBLIC",
+                        "de": "\u00d6ffentliches Recht",
+                        "en": "Public law"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OTHER",
+                        "de": "Sonstiges im Bereich \"Energie\"",
+                        "en": "Other in the field of \"Energy\""
+                    },
+                    {
+                        "code": "FOI_CULTURE",
+                        "de": "Kultur",
+                        "en": "Culture"
+                    },
+                    {
+                        "code": "FOI_LAW_OTHER",
+                        "de": "Sonstiges im Bereich \"Recht\"",
+                        "en": "Other in the field of \"Law\""
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_RP_COUNTRYSIDE",
+                        "de": "L\u00e4ndlicher Raum",
+                        "en": "Rural area"
+                    },
+                    {
+                        "code": "FOI_RP_OTHER",
+                        "de": "Sonstiges im Bereich \"Raumordnung, Bau- und Wohnungswesen\"",
+                        "en": "Other in the field of \"Spatial planning, construction and housing\""
+                    },
+                    {
+                        "code": "FOI_LAW_CIVIL_RIGHT",
+                        "de": "Zivilrecht",
+                        "en": "Civil rights"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007249",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b6/10/318579/Stellungnahme-Gutachten-SG2406250092.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                        "de": "Bundesministerium der Justiz (BMJ)",
+                                        "en": "Bundesministerium der Justiz (BMJ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-25"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0007249",
+                        "regulatoryProjectTitle": "Urheberrecht an Bauwerksplanungen und Bauwerken",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "\r\n\r\n\r\n\r\n\r\n\r\nStellungnahme\r\n\r\ndes Verbands Privater Bauherren e. V. (VPB)\r\n\r\nzur \u00d6ffentlichen Konsultation des Bundesministeriums der Justiz\r\nzum Anpassungsbedarf des Urheberrechts\r\nim Hinblick auf Umgestaltungen von Bauwerken\r\n\r\n\r\n\r\nAls \u00e4lteste Verbraucherschutzorganisation im Baubereich vertritt der Verband Privater Bauherren e.V. (VPB) seit 1976 die Interessen privater Bauherren und Immobilienbesitzer. Er informiert und ber\u00e4t private Bauherren und Eigent\u00fcmer insbesondere vor und w\u00e4hrend des Hausbaus, des Eigentumserwerbs oder der Modernisierung einer Bestandsimmobilie und verf\u00fcgt \u00fcber ein bundesweites Netz von Regionalb\u00fcros.\r\n\r\nDer VPB bef\u00fcrwortet eine ma\u00dfvolle Erleichterung der \u00c4nderungsm\u00f6glichkeiten an bestehenden Bauwerken, an denen ein Urheberrecht des Planers besteht. \u00c4nderungszwecke wie energetische Sanierung, Verbesserung hin zu mehr  Klimaneutralit\u00e4t, Schaffung von Wohnraum oder mehr Barrierearmut sollten sich noch besser gegen ein urheberrechtliches \u00c4nderungsverbot in der Abw\u00e4gung durchsetzen k\u00f6nnen.\r\n\r\nDie Ausf\u00fchrungen folgen der durch das BMJ vorgegebenen Struktur. \r\n\r\nI. 1. Welche praktischen Probleme bereitet die aktuelle Rechtslage im Urheberrecht bei der\r\nvertraglichen Gestaltung von Befugnissen f\u00fcr zuk\u00fcnftige \u00c4nderungen von Geb\u00e4uden?\r\nVertragliche Regelungen zwischen Architekten und Verbraucher-Bauherren sind dazu in der Praxis kaum je anzutreffen, schon weil gg\u00fc. Verbraucher-Bauherren in aller Regel die Planer die Vertragstexte stellen.\r\nDabei geht es gar nicht mal um die Frage sp\u00e4terer baulicher \u00c4nderungen, sondern schon die Gew\u00e4hrung des Nutzungsrechts an der Planung durch deren bauliche Realisierung wird in den meisten Architektenvertr\u00e4gen mit privaten Bauherren nicht explizit geregelt. Die Rechtsprechung behilft sich hier im Streitfall letztlich interessengerecht mit konkludenten Erkl\u00e4rungen, was die Nutzung anbelangt. Die vertragliche Einr\u00e4umung von \u00c4nderungsrechten ist bei privaten Bauherren aber wie gesagt kein praxisrelevantes Thema.\r\n\r\nI. 2. Welche praktischen Probleme bereitet die aktuelle Rechtslage im Urheberrecht bei der\r\n\u00c4nderung von Bauwerken, wenn es keine vertragliche Regelung zwischen Architekten\r\nund Eigent\u00fcmern gibt?\r\nAus Sicht des VPB besteht ein zentrales Praxisproblem darin, dass Planer und private Bauherren als Urheberrechtslaien ganz unterschiedliche Auffassungen davon haben, ab wann ein Bauwerk Urheberrechtsschutz genie\u00dft. Auch Gerichte entscheiden hierzu im Instanzenzug nicht immer einheitlich (Mehrzwecksaal des 1969 er\u00f6ffneten Kulturpalastes in Dresden: nein LG Leipzig 05 O 3308/10; ja OLG Dresden 11 U 853/12). Und es geht beileibe nicht immer nur um Kirchen und Museen: \r\n\r\nDas OLG Hamm erkannte der Planung eines Einfamilienhauses Urheberrechtsschutz zu (4 U 72/97) und f\u00fchrt dazu aus (Entscheidungsgr\u00fcnde 1.): \u201eDas Landgericht hat der Planung des Kl\u00e4gers mit Recht urheberrechtlichen Schutz zuerkannt. Wie die Berufungsbegr\u00fcndung selbst einr\u00e4umt, ist auch der Entwurf eines Wohnhauses ein gesch\u00fctztes Werk der Baukunst (\u00a7 2 Abs. 1 Ziffer 4 UrhG), wenn er Ausdruck einer eigenen pers\u00f6nlichen geistigen Sch\u00f6pfung ist, die einen \u00fcber die technische L\u00f6sung der Bauaufgabe hinausgehenden h\u00f6heren \u00e4sthetischen Gehalt aufweist (st\u00e4ndige Rechtsprechung seit BGHZ 24, 55 = NJW 1957, 1108 - Ledigenheim). Diese Voraussetzungen hat das Landgericht hier zutreffend bejaht. Die Glaspyramide auf dem Dach, der hochgezogene Wintergarten, der Dach\u00fcberstand neben dem Hauseingang, der Erker auf der S\u00fcdostseite, die markanten Gaubenformen sowie die auff\u00e4llige Gestaltung der Traufen und Gesimse ergeben hier einen besonderen \u00e4sthetischen Wert, der eine eigensch\u00f6pferische Leistung darstellt. Dem kann nicht mit Erfolg entgegengehalten werden, da\u00df die einzelnen Elemente bekannt sind und teilweise auch an anderen Bauten in T2 Verwendung gefunden haben. In ihrem konkreten Zusammenspiel handelt es sich in dem Entwurf des Kl\u00e4gers um ein Werk von hoher Individualit\u00e4t, f\u00fcr die ein vergleichbares Vorbild nicht ersichtlich ist. Damit liegt eine eigenst\u00e4ndige k\u00fcnstlerische Gestaltung vor.\u201c \r\n\r\nDas OLG M\u00fcnchen (29 W 2639/02) sprach der Planung eines Zweifamilienhauses diesen Schutz zu und begr\u00fcndete dies \u2013 im Rahmen eines einstweiligen Verf\u00fcgungsverfahrens entsprechend knapp - wie folgt (Gr\u00fcnde II. 1.): \u201eAllerdings genie\u00dfen die vom Antragsteller erstellten Entw\u00fcrfe f\u00fcr das Zweifamilienhaus Urheberrechtsschutz. Voraussetzung f\u00fcr urheberrechtlichen Schutz ist bei Entw\u00fcrfen von Bauwerken und den sie vorbereitenden Planungen eine pers\u00f6nliche geistige Sch\u00f6pfung im Sinne des \u00a7 2 Abs. 2 UrhG, die \u00fcber die L\u00f6sung einer fachgebundenen technischen Aufgabe durch Anwendung der einschl\u00e4gigen technischen L\u00f6sungsmittel hinausgeht (vgl. Schricker/Loewenheim, UrhG, 2. Aufl., \u00a7 2, Rdn. 152). Es m\u00fcssen besondere gestalterische Elemente vorliegen, die dem Bauwerk oder den Planungen ein sch\u00f6pferisches Gepr\u00e4ge geben, etwa die sich vom \u00dcblichen abhebende Aussenfl\u00e4chen- und Fassadengestaltung (vgl. BGH GRUR 1973, 663, 664 - Wahlamt), die Art der Aufgliederung mehrerer Bauk\u00f6rper (vgl. BGHZ 24, 55, 67 f - Ledigenheim) oder der Innenraumgestaltung (vgl. BGH GRUR 1982, 107, 109 -Kirchen-Innenraumgestaltung) oder \u00e4hnliche Merkmale (vgl. Werner/Pastor, Der Bauprozess, 10. Aufl., Rdn. 1942). Im Streitfall tritt eine sch\u00f6pferische Pr\u00e4gung jedenfalls durch die schr\u00e4ge Anordnung der Treppenaufg\u00e4nge und durch die Anordnung der beiden Doppelhaush\u00e4lften zu Tage, die sich vom \u00dcblichen abheben.\u201c\r\n\r\nDas OLG Karlsruhe (6 U 72/12) lehnte das hingegen bei einem 12-Familienhaus ab mit der Begr\u00fcndung (Gr\u00fcnde II. 3. a) (2) 2. Abs.): \u201eDer Senat ist sich bewusst, dass es auf die Beurteilung des Werks auf dem Hintergrund des Werkschaffens in den Jahren 2003 und 2004 ankommt. Es kann aber nicht davon ausgegangen werden, dass in diesem Zeitraum in tats\u00e4chlicher Hinsicht deutlich andere Verh\u00e4ltnisse geherrscht haben als heute. Der R\u00fccksprung \u00fcber einem mehrgeschossigen Sockel ist in der Architektur seit je her ein h\u00e4ufig verwendetes Stilmittel, um eine leichtere, nach oben strebende Wirkung zu erzielen. Nichts anderes gilt im modernen Wohnungsbau f\u00fcr die Anordnung von versetzten Pultd\u00e4chern zur Auflockerung der Dachgestaltung und f\u00fcr die Verwendung von - seit Jahrhunderten bekannten - Hochfenstern (\"franz\u00f6sischen Fenstern\"). Deren Verwendung mit dem Ziel, eine weniger gedrungene und lichtere Bauweise von Wohnh\u00e4usern zu erm\u00f6glichen, ist Teil des routinem\u00e4\u00dfigen Schaffens von Architekten. Auch die Anordnung von Fenstern in Gruppen ist nicht Ausdruck einer besonderen Individualit\u00e4t, sondern handwerkliches und routinem\u00e4\u00dfiges Umsetzen des von der Funktionalit\u00e4t im Wohnungsbau gepr\u00e4gten Bauschaffens. Eine aus dem Rahmen fallende Gliederung der Fassade kann darin nicht gesehen werden. Nichts anderes gilt f\u00fcr die von der Kl\u00e4gerin angef\u00fchrte Anbringung von Hohlr\u00e4umen f\u00fcr Balkonnischen sowie f\u00fcr sonstige Details, die f\u00fcr den ma\u00dfgeblichen Gesamteindruck nicht von Bedeutung sind. Auch insoweit fehlt es deshalb an einer sch\u00f6pferischen Leistung. F\u00fcr die vom Senat zu treffende Entscheidung kommt es nicht darauf an, ob die von der Kl\u00e4gerin angef\u00fchrten Gestaltungselemente in der Vergangenheit in gleicher Form und Kombination Verwendung gefunden haben wie bei dem in Rede stehenden Geb\u00e4ude. Eine Kombination bekannter Gestaltungselemente ist nicht schon dann ein urheberrechtlich gesch\u00fctztes Werk, wenn die Kombination als solche nicht zum bekannten Formenschatz geh\u00f6rt. Vielmehr liegt in einem solchen Fall eine pers\u00f6nliche geistige Sch\u00f6pfung im Sinne von \u00a7 2 Abs. 2 UrhG dann nicht vor, wenn die in Rede stehenden Gestaltungselemente f\u00fcr sich genommen seit langem bekannt sind, qualifizierten Gestaltern auf dem betreffenden Gebiet zur Verf\u00fcgung stehen und in der Praxis seit langem in vielfacher Weise miteinander kombiniert werden. Etwas anderes gilt nur, wenn durch die im konkreten Fall gew\u00e4hlte Kombination in \u00fcberraschender Weise ein von \u00fcblichen Gestaltungen deutlich abweichender Gesamteindruck entsteht.\u201c\r\nBeklagt waren dabei auch als BGB-Gesellschaft die Verbraucher, die als Erwerber der im Haus befindlichen Wohnungen das Bauvorhaben an Stelle des insolventen Bautr\u00e4gers fertigstellen wollten.\r\n\r\nPrivaten Bauherren ist oft nicht klar, dass das Urheberrecht auch einen Elementschutz bewirken kann, der die \u00c4nderung von Bauteilen wie einem Treppenhaus, einer Dachanordnung oder einer Fassadengestaltung unm\u00f6glich machen kann. Selbst der Austausch von einigen Mauerpfeilern gegen Stahlst\u00fctzen kann Anspr\u00fcche auf Wiederherstellung ausl\u00f6sen (LG Bielefeld 4 O 393/07, zit. von OLG Hamm 24 U 136/12 Gr\u00fcnde A. 5. Abs.).\r\n\r\nZudem kann das Urheberrecht einen Ensembleschutz bewirken. So urteilte das LG Gera, eine Ansammlung von u. a. Doppelhaush\u00e4lften, die ein Bautr\u00e4ger durch seinen Architekten errichten lie\u00df, sei nicht nur, aber auch wegen der Anordnung auf dem Baugrund urheberrechtsschutzf\u00e4hig. Das Urheberrecht \u00fcberwog nur nicht in der folgenden Interessenabw\u00e4gung, weil die geplanten Objekte wohl unverk\u00e4uflich waren (nach Kurzbesprechung RA Herbert Beigel in: IBR 1996, 158 zu LG Gera 6 O 183/95). \r\n\r\nDie Rechtsprechung stellt allerdings \u2013 und aus Sicht des VPB zu Recht \u2013 hohe Anforderungen an die Zuerkennung eines solchen Schutzes. Das verkennen viele Planer, die auch private Bauherren dann mit Rechtstreitigkeiten konfrontieren, die dementsprechend oft erfolglos sind. Auch die Auseinandersetzungen solcher Planer mit Bautr\u00e4gern wirken sich nachteilig (zeitverz\u00f6gernd, dadurch auch kostentreibend) auf die Erwerber aus. Bei Wohnungseigentum betrifft das mittelbar also immer auch die privaten Bauherren.\r\nGestritten wird etwa um die Schutzf\u00e4higkeit und m\u00f6gliche Anspr\u00fcche aus der Verletzung von Urheberrechten des Planers von Reihenhausanlagen (LG D\u00fcsseldorf 12 O 294/99), Fertighausplanungen (OLG N\u00fcrnberg 3 U 290/97) oder Blockh\u00e4usern (OLG Oldenburg 1 U 50/07).\r\n\r\nAus diesem Grund sieht der VPB die Idee, es reichten Gespr\u00e4che zwischen den Beteiligten als vorrangige L\u00f6sungsvariante, sehr kritisch. Es besteht die Gefahr, dass private Bauherren sich mit Forderungen von Planern auseinandersetzen m\u00fcssten, die rechtlich keine tragf\u00e4hige Grundlage haben. Eigenverantwortliche privatautonome Streitvermeidung und -bereinigung kann hier nur gelingen, wenn beide Seiten entsprechend rechtlich und architektonisch qualifiziert beraten sind. Das kann in puncto Kosten aber schon an diejenigen einer gerichtlichen Kl\u00e4rung heranreichen.\r\n\r\nBesteht dagegen tats\u00e4chlich ein Urheberrecht des Planers an einem Bauwerk, sehen die urheberrechtlichen Regelungen und die dazu ergangene Rechtsprechung aus Sicht des VPB ein grunds\u00e4tzlich angemessenes System des Ausgleichs der gegenl\u00e4ufigen Interessen vor. Mit der Entscheidung des BGH I ZR 98/17, die den Abriss des gesch\u00fctzten Werks planerfreundlich unter das Tatbestandsmerkmal der \u201eanderen Beeintr\u00e4chtigung\u201c i. S. d. \u00a7 14 UrhG subsumierte, sind auch die wesentlichen Abw\u00e4gungsaspekte klargestellt worden (Amtliche Leits\u00e4tze 2 \u2013 4, Gr\u00fcnde B. IV. 3. Rz. 37 ff.), die von der Instanzrechtsprechung soweit ersichtlich auch angewendet werden.\r\n\r\nI. 3. Wie h\u00e4ufig sind diese Probleme und wie oft kommt es zu gerichtlichen Auseinandersetzungen?\r\nDiese F\u00e4lle sind nach Erfahrung des VPB nicht besonders zahlreich, sie treten aber best\u00e4ndig auf, wie die \u00fcber Jahrzehnte reichende Rechtsprechung dazu zeigt. \r\n\r\nII. Wie bewerten Sie die Regelungsvorschl\u00e4ge der Justizministerkonferenz?\r\nDie Regelungsvorschl\u00e4ge der JuMiKo greifen nach Meinung des VPB im wesentlichen die oben schon angesprochene BGH-Rechtsprechung auf. Eine gesetzliche Festlegung w\u00fcrde insoweit vor einer Aufweichung dieser Rechtsprechung sch\u00fctzen und wird daher begr\u00fc\u00dft. \r\n\r\nEine \u00fcberm\u00e4\u00dfige St\u00e4rkung der Position des Geb\u00e4udeeigent\u00fcmers im Vergleich zur aktuellen Rechtsprechung ist darin nach Auffassung des VPB jedenfalls nicht zu erkennen. Denn auch der JuMiKo-Vorschlag sieht weiter eine Abw\u00e4gungsf\u00e4higkeit oder besser gesagt: Abw\u00e4gungsnotwendigkeit der gegenl\u00e4ufigen Interessen im Einzelfall vor.\r\nSo hei\u00dft es dort zur \u00c4nderungsbefugnis des Eigent\u00fcmers in Satz 2:\r\n\u201eBei Geb\u00e4uden und anderen Bauwerken, die zum Gebrauch bestimmt sind, liegt ein \u00fcberwiegendes Eigent\u00fcmerinteresse in der Regel vor bei \u00c4nderungen\r\n1. zur Herstellung oder Erhaltung der Gebrauchseignung,\r\n2. zur Anpassung an aktuelle bauliche, technische oder energetische\r\nStandards oder\r\n3. zur Anpassung an ge\u00e4nderte Bed\u00fcrfnisse des Gebrauchszwecks.\u201c\r\nSatz 2 des amtlichen Leitsatzes 3 im BGH-Urteil I ZR 98/17 lautet:\r\n\u201eBei Werken der Baukunst oder mit Bauwerken unl\u00f6sbar verbundenen Kunstwerken werden die Interessen des Eigent\u00fcmers an einer anderweitigen Nutzung oder Bebauung des Grundst\u00fccks oder Geb\u00e4udes den Interessen des Urhebers am Erhalt des Werks in der Regel vorgehen, sofern sich aus den Umst\u00e4nden des Einzelfalls nichts anderes ergibt.\u201c\r\nDie Streitigkeiten sind damit auch nicht erledigt, denn der Vortrag wird wie schon jetzt immer dahin gehen, dass eben gerade kein Regelfall vorliege.\r\n\r\nInsoweit vermag der VPB auch nicht zu erkennen, inwiefern der Vorschlag der JuMiKo das Urheberrecht der Planer bei Geb\u00e4uden mit Gebrauchszweck abschaffen wolle; eine Bef\u00fcrchtung, die im Sommer 2023 vom Bundesgesch\u00e4ftsf\u00fchrer der BAK ge\u00e4u\u00dfert worden ist unter https://www.dabonline.de/2023/06/29/urheberrecht-gebaeude-architekt-bestand-sanierung-reden-streiten/  \r\n\r\nIII. Welche anderen Ma\u00dfnahmen \u2013 gesetzlicher oder nicht-gesetzlicher Art \u2013 sehen Sie, um auf\r\ndie Probleme zu reagieren?\r\nEine noch rechtssicherere St\u00e4rkung von \u00c4nderungsbefugnissen m\u00fcsste gesetzlich Fallgruppen herausarbeiten und regeln, in denen das Interesse des Urhebers in jedem Falle zur\u00fccktreten muss; ggf. gegen eine Entsch\u00e4digung. Es liegt nahe, dabei etwa an die \u201eHerstellung eines klimaneutralen Geb\u00e4udebetriebs\u201c zu denken. So tr\u00e4te noch ein weiterer verfasungsrechtlich beachtlicher Aspekt zu Gunsten des Grundeigent\u00fcmers neben die beiden aus Art. 14 I GG folgenden und sich grunds\u00e4tzlich gleichwertig gegen\u00fcberstehenden Interessen aus Urheberrecht und Grundeigentumsnutzung. Die Tragf\u00e4higkeit einer so absoluten Priorisierung auch in Gestalt eines Parlamentsgesetzes bleibt aber auf enge Bereiche beschr\u00e4nkt. M\u00fcsste man diese mit einer Entsch\u00e4digungsregelung absichern (in Anlehnung an den ausgleichspflichtigen Eigentumseingriff), entst\u00fcnden zudem doch wieder Streitpunkte, ob eine Entsch\u00e4digung anfalle und wenn ja, wie hoch sie sei.\r\n\r\nLetztlich liegt immer ein echtes Einzelproblem vor, weil es in jedem einzelnen Fall um eine individuelle Sch\u00f6pfung geht, die von einer beachtlichen Gestaltungsh\u00f6he sein muss. Die Abw\u00e4gungssapekte sollten aus Sicht des VPB gesetzlich ausreichend gegen eine Aufweichung gesch\u00fctzt werden; gepr\u00fcft werden sollte auch, ob enge Sonderfallgruppen herauszuarbeiten sind, bei denen schon abstrakt-generell ein Vorrang des \u00c4nderungsinteresses geregelt werden kann. Grunds\u00e4tzlich ist hier aber weiterhin die Judikative diejenige Gewalt, die zur einzelfallgerechten Entscheidung berufen ist. \r\n\r\n      \r\n\r\n"
+                        }
+                    }
+                ],
+                "title": "Urheberrecht an Bauwerksplanungen und Bauwerken"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BGB",
+                        "title": "B\u00fcrgerliches Gesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bgb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Beibehaltung der Schriftform f\u00fcr die K\u00fcndigung von Bauvertr\u00e4gen in \u00a7 650h BGB",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011613",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/2b/ed/344460/Stellungnahme-Gutachten-SG2408160002.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                        "de": "Bundesministerium der Justiz (BMJ)",
+                                        "en": "Bundesministerium der Justiz (BMJ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-08-15"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0011613",
+                        "regulatoryProjectTitle": "Beibehaltung der Schriftform f\u00fcr die K\u00fcndigung von Bauvertr\u00e4gen",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Gr\u00fcnde f\u00fcr die Beibehaltung des Schriftformerfordernisses f\u00fcr K\u00fcndigungen von Bauvertr\u00e4gen gem\u00e4\u00df \u00a7 650h BGB aus Sicht des VPB:\r\n\r\nDas Schriftformerfordernis ist erst durch die Bauvertragsrechtsreform mit Geltung zu Anfang 2019 \u00fcberhaupt in das BGB aufgenommen worden. Die Begr\u00fcndung des Regierungsentwurfes (BT-Drs. 18/8486 S. 61 oben) f\u00fchrte als Schutzzwecke Rechtssicherheit, Beweissicherung und \u00dcbereilungsschutz an. Das entspricht 1:1 der Empfehlung der offenen Bund-L\u00e4nder-Arbeitsgruppe zum Bauvertragsrecht vom 18. Juni 2013 (Abschlussbericht S. 51 zweiter Absatz). Es muss betont werden, dass dies auch f\u00fcr alle Bauvertr\u00e4ge und damit auch f\u00fcr alle Arten von Bestellern, auch professionellen eingef\u00fchrt worden ist. Die nachfolgende Argumentation geht zwar verbandszweckgem\u00e4\u00df in erster Linie auf die Sicht und Lage der Verbraucher-Bauherren ein. Die Ausf\u00fchrungen sind aber dennoch auch auf praktisch so gut wie fast alle anderen Besteller grunds\u00e4tzlich \u00fcbertragbar.\r\n \r\nDas Schriftformerfordernis einer K\u00fcndigung des Bauvertrages ist auch im Hinblick auf andere Vertr\u00e4ge wie das Arbeitsverh\u00e4ltnis (\u00a7 623 BGB) oder den Wohnraummietvertrag (\u00a7 568 BGB) eine sachlich gerechtfertigte Gleichbehandlung.\r\n\r\nDer VPB h\u00e4lt das Schriftformerfordernis der K\u00fcndigung beim Bauvertrag nach wie vor f\u00fcr geboten, um diese Schutzzwecke auch sicher zu erreichen. Das gilt sowohl f\u00fcr die freie K\u00fcndigung nach \u00a7 648 BGB wie auch \u2013 erst recht \u2013 f\u00fcr die au\u00dferordentliche nach \u00a7 648a BGB. Dabei kommt es vor allem auf den \u00dcbereilungsschutz an. Hintergrund ist dabei zun\u00e4chst die Besonderheit der K\u00fcndigungsfolgen. Betrachtet man zun\u00e4chst den \u00a7 648 BGB f\u00e4llt auf, dass im Werkvertragsrecht nur der Besteller ein K\u00fcndigungsrecht des Vertrages zur Seite steht, ohne dass f\u00fcr die Aus\u00fcbung dazu ein besonderer Grund von N\u00f6ten sein m\u00fcsste. Nur er ist jederzeit frei, zu k\u00fcndigen. Das Gesetz kompensiert diese Asymmetrie aber dadurch, dass f\u00fcr den Fall der Aus\u00fcbung des so genannten freien K\u00fcndigungsrechts der Werkunternehmer als Ausgleich im Grundsatz seinen vollen Werklohnanspruch beh\u00e4lt! Genauer gesagt soll dem Werkunternehmer sein durch den Werkvertrag erwirtschafbarer Gewinn ungeschm\u00e4lert erhalten bleiben. Die Aus\u00fcbung des freien K\u00fcndigungsrechts ist daher, je fr\u00fcher desto mehr, mit erheblichen finanziellen Lasten des Bestellers gekoppelt.\r\n\r\nDabei ist festzuhalten, dass das Formerfordernis auch die K\u00fcndigung von Verbraucherbauvertr\u00e4gen erfasst. Diese Vertragsart umfasst vor allem die so genannten \u201eSchl\u00fcsselfertigbauvertr\u00e4ge\u201c, deren Finanzierungsvolumen mittlere sechsstellige Betr\u00e4ge erfasst. Selbst wenn es dem Schl\u00fcsselfertiganbieter nicht ohne weiteres gelingen sollte, seiner prim\u00e4ren und sekund\u00e4ren Darlegungs- und Beweislast, die die Rechtsprechung bzgl. der Rechtsfolgen der freien K\u00fcndigung nach \u00a7 648 BGB entwickelt hat, nachzukommen, wird gem\u00e4\u00df \u00a7 648 S. 3 BGB immer noch 5 % des Werklohns, der auf den \u201eweggek\u00fcndigten\u201c Teil der Werkherstellung entf\u00e4llt, als ihm zustehender Werklohn vermutet. Es gibt allerdings auch AGB, die h\u00f6here Prozentzahlen enthalten. Auf deren Unwirksamkeit erkennt die Rechtsprechung soweit ersichtlich dabei auch nicht streng ab 5 %.\r\n \r\nIn der Praxis geht es daher oft um deutlich h\u00f6here Prozentanteile; das betrifft vor allem auch Planervertr\u00e4ge. Denn \u00a7 650q Abs. 1 BGB erkl\u00e4rt das Schriftformerfordernis f\u00fcr die K\u00fcndigung auch bei Architekten- und Ingenieursvertr\u00e4gen f\u00fcr anwendbar. Zwar liegen die Honorare f\u00fcr die beauftragte Vollarchitektur (damit ist die Beauftragung des Architekten mit allen n\u00f6tigen Leistungen gemeint, die regelm\u00e4\u00dfig f\u00fcr die Ermittlung des Sachverhalts, der Planung und Ausf\u00fchrungs\u00fcberwachung sowie Betreuung w\u00e4hrend der Gew\u00e4hrleistungszeit eines Geb\u00e4udes auszuf\u00fchren sind) eines Einfamilienhauses im f\u00fcnfstelligen Bereich. Der Architekt hat aber weit weniger ersparte Aufwendungen als ein Bauunternehmer anzurechnen. So k\u00f6nnen in solchen F\u00e4llen auch 40 % dieses Betrages und nicht nur 5 % als Anspruch des Planers gegen\u00fcber dem Auftraggeber entstehen!\r\n\r\nVor allem freie K\u00fcndigungen in der Fr\u00fchphase der Ausf\u00fchrung von Architekten- wie auch Bauvertr\u00e4gen vor allem schl\u00fcsselfertiger H\u00e4user unterliegen so einem erheblichen, vorwiegend finanziellen Risiko, das Verbraucher nicht unbedacht realisieren d\u00fcrfen sollen \u2013 ebenso wie bei Wohnraummiete und Arbeitsverh\u00e4ltnis.\r\n\r\nDamit sind die Probleme des Bestellers allerdings nicht ersch\u00f6pfend erfasst. Denn nach K\u00fcndigung (samt \u201eAbnahme\u201c des gek\u00fcndigten Werktorsos, M\u00e4ngelr\u00fcgen und -M\u00e4ngelrechtevorbehalten) muss er einen anderen Werkunternehmer finden, der fertigbaut. Dabei scheuen Folgeunternehmer das Risiko, am Ende f\u00fcr unerkannte M\u00e4ngel des weggek\u00fcndigten Unternehmers haften zu m\u00fcssen. Es ist daher schwer, zum Weiterbau bereite Unternehmer zu finden und diese lassen sich das entsprechend hoch bewertete Risiko durch teils schmerzhafte Werklohnaufschl\u00e4ge bezahlen. Das sind Kosten, die der Bauherr nicht vom frei gek\u00fcndigten Unternehmer ersetzt verlangen kann, genauso wenig wie die Mehrkosten, die durch die Verz\u00f6gerung der Projektdurchf\u00fchrung beim Besteller anfallen.\r\n\r\nAngesichts der insg. doch betr\u00e4chtlichen finanziellen Risiken reicht eine Reduzierung auf die Textform nicht, um hier Verbraucher-Bauherren effektiven Schutz zu bieten. Zun\u00e4chst erfordert die Schriftform, dass man nicht nur wie bei einer Mail einen Text formuliert. Dieser muss ausgedruckt, eigenh\u00e4ndig unterzeichnet und dann in Richtung auf den Vertragspartner abgegeben werden \u2013 was fast immer (mobile Drucker vor Ort abgesehen) Briefkuvert, Briefmarke und den Gang zum Briefkasten voraussetzt. Das alles geschieht bei einer Mail mit einem Klick auf den Sendebutton, also im Handumdrehen. Und als bedingungsfeindliche einseitige Willenserkl\u00e4rung kann eine K\u00fcndigung nun mal nicht widerrufen werden, wenn sie erst einmal zugegangen ist, \u00a7 130 Abs. 1 S. 2 BGB. Das versch\u00e4rft die Problematik also bei der Textform im Vergleich zur Schriftform noch.\r\n\r\nZudem darf die Praxis auf dem Bau nicht au\u00dfer Acht gelassen werden. H\u00e4ufig gibt es Meinungsverschiedenheiten \u00fcber Ausf\u00fchrungsfragen, die sich nicht eben schnell durch einen einfachen Blick in den geschlossenen Vertrag kl\u00e4ren lassen. Beharrt jede Partei auf ihrer Ansicht, k\u00f6nnen selbst Kleinigkeiten schnell zu einer Eskalation \u2013 und sei es nur bez\u00fcglich der Art & Weise der Kommunikation \u2013 f\u00fchren. Am Ende drohen \u00c4u\u00dferungen, die problemlos als konkludente freie K\u00fcndigungserkl\u00e4rungen interpretiert werden k\u00f6nnen (\u201eLassen Sie sich hier nicht mehr sehen\u201c ist noch eine harmlose Variante). Dies alles kann viel zu leicht als Mail oder \u00fcber Messengerdienste schon auf der Baustelle oder an jedem beliebigen Ort, an dem Besteller irgendwelcher \u00c4rger \u00fcber den Werkunternehmer \u00fcberkommt, per Smartphone unwiderruflich versendet werden.\r\n\r\nSchlie\u00dflich ist weiter zu bedenken, dass angesichts der unattraktiven Folgen einer freien K\u00fcndigung nicht selten die k\u00fcndigende Bauherrenschaft diese gar nicht erkl\u00e4ren will, sondern davon ausgeht, zu einer au\u00dferordentlichen K\u00fcndigung berechtigt zu sein. Wird aber in der K\u00fcndigungserkl\u00e4rung nicht ausdr\u00fccklich klargestellt, dass der Besteller ganz allein au\u00dferordentlich k\u00fcndigt, nicht aber frei, dann legt die Rechtsprechung diese Erkl\u00e4rungen in der Regel dahingehend aus, dass im Zweifel der Vertrag beendigt werden sollte \u2013 und liest (zumindest auch hilfsweise) eine freie K\u00fcndigungserkl\u00e4rung in den get\u00e4tigten K\u00fcndigungstext hinein \u2013 mit den oben geschilderten nachteiligen Folgen. Die Erfahrung lehrt, dass in die Formulierungspr\u00e4zision bei E-Mails und anderen elektronischen Kommunikationsformen, die dem Textformgebot nach \u00a7 126b BGB gen\u00fcgen, oft deutlich weniger Aufmerksamkeit investiert wird als bei dem klassischen analogen Schriftst\u00fcck. Auch damit wird der \u00fcbereilig formulierende Bauherr gesch\u00fctzt vor missverst\u00e4ndlichen Wendungen, die ihm zum Nachteil gereichen. "
+                        }
+                    }
+                ],
+                "title": "Beibehaltung der Schriftform f\u00fcr die K\u00fcndigung von Bauvertr\u00e4gen"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "BauGB",
+                        "title": "Baugesetzbuch",
+                        "url": "https://www.gesetze-im-internet.de/bbaug"
+                    },
+                    {
+                        "shortTitle": "BauNVO",
+                        "title": "Verordnung \u00fcber die bauliche Nutzung der Grundst\u00fccke",
+                        "url": "https://www.gesetze-im-internet.de/baunvo"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Abschaffung der Umwandlungssperre des \u00a7 250 BauGB,\r\nErg\u00e4nzung Bebauungsplan-Festsetzungen um Bel\u00fcftung \u00a7 9 BauGB\r\nErg\u00e4nzung klimaanpassender Ma\u00dfnahmen durch Gemeindesatzung \u00a7 34 Abs. 1 BauGB  \r\nBef\u00fcrwortung der \u00c4nderungsvorschl\u00e4ge des BMWSB zur Aufweichung des Einzelfallerfordernisses f\u00fcr eine Befreiung \u00a7 31 BauGB, Erweiterung der Ausnahme vom Einf\u00fcgen nach dem Ma\u00df der baulichen Nutzung im unbeplanten Innenbereich auch auf Neuerrichtung von Wohnraum \u00a7 34 Abs. 3a BauGB, Entfristung der Familienschutzklausel \u00a7 176 Abs. 3 BauGB, Erweiterung der Wohnungsnutzung im Kerngebiet per Bebauungsplan \u00a7 7 Abs. 1 BauNVO, Einf\u00fchrung bundesweit verbindlicher Bemessungsvorgaben zur Bodenversiegelung \u00a7\u00a7 16, 19a BauNVO, Einf\u00fchrung bundesweit verbindlicher Vollgeschossdefinition \u00a7 20 BauNVO",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmwsb.bund.de/SharedDocs/gesetzgebungsverfahren/Webs/BMWSB/DE/Downloads/referentenentwuerfe/novelle-baugb-2024.pdf?__blob=publicationFile&v=3",
+                            "draftBillProjectUrl": "https://www.bmwsb.bund.de/SharedDocs/gesetzgebungsverfahren/Webs/BMWSB/DE/novelle-baugb-2024.html",
+                            "shortTitle": "BMWSB",
+                            "title": "Bundesministerium f\u00fcr Wohnen, Stadtentwicklung und Bauwesen",
+                            "url": "https://www.bmwsb.bund.de/Webs/BMWSB/DE/startseite/startseite-node.html"
+                        }
+                    ],
+                    "publicationDate": "2024-08-01",
+                    "title": "Gesetz zur St\u00e4rkung der integrierten Stadtentwicklung"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_PUBLIC",
+                        "de": "\u00d6ffentliches Recht",
+                        "en": "Public law"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_RESIDE",
+                        "de": "Wohnen",
+                        "en": "Reside"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_RP_COUNTRYSIDE",
+                        "de": "L\u00e4ndlicher Raum",
+                        "en": "Rural area"
+                    },
+                    {
+                        "code": "FOI_RP_CITY",
+                        "de": "Stadtentwicklung",
+                        "en": "Urban development"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011618",
+                "statements": [],
+                "title": "Neuregelungen in BauGB, BauNVO zur Erleichterung von Wohnraumschaffung und -erwerb durch Verbraucher"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "AVBFernw\u00e4rmeV",
+                        "title": "Verordnung \u00fcber Allgemeine Bedingungen f\u00fcr die Versorgung mit Fernw\u00e4rme",
+                        "url": "https://www.gesetze-im-internet.de/avbfernw_rmev"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "1. St\u00e4rkung der Markttransparenz durch weitere Angabepflichten der Anbieter und eine zentrale Erfassung aller Angaben im Internet (\u00a7 1a AVBFernw\u00e4rmeV-E).\r\n2. St\u00e4rkung des Quasiwettbewerbes wenigstens durch erh\u00f6hte Bewertung des Marktelementes \u00fcber 50 % Gewichtung hinaus im Muster einer Preis\u00e4nderungsklausel zum Arbeitspreis (Anlage \u00a7 24 Absatz 2 Satz 4 AVBFernw\u00e4rmeV-E).",
+                "draftBill": {
+                    "customDate": "2024-07-25",
+                    "customTitle": "Verordnung zur \u00c4nderung der Verordnung \u00fcber Allgemeine Bedingun- gen f\u00fcr die Versorgung mit Fernw\u00e4rme und zur Aufhebung der Verord- nung \u00fcber die Verbrauchserfassung und Abrechnung bei der Versor- gung mit Fernw\u00e4rme oder Fernk\u00e4lte",
+                    "leadingMinistries": [
+                        {
+                            "shortTitle": "BMWK",
+                            "title": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                            "url": "https://www.bmwk.de/Navigation/DE/Home/home.html"
+                        }
+                    ]
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_RESIDE",
+                        "de": "Wohnen",
+                        "en": "Reside"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OTHER",
+                        "de": "Sonstiges im Bereich \"Energie\"",
+                        "en": "Other in the field of \"Energy\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0011650",
+                "statements": [],
+                "title": "Neuregelungen in AVBFernw\u00e4rmeV zur Erh\u00f6hung von Transparenz und Preiswettbewerb f\u00fcr Verbraucher in Fernw\u00e4rmenetzen"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b6/10/318579/Stellungnahme-Gutachten-SG2406250092.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                "de": "Bundesministerium der Justiz (BMJ)",
+                                "en": "Bundesministerium der Justiz (BMJ)"
+                            }
+                        ],
+                        "sendingDate": "2024-06-25"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0007249",
+                "regulatoryProjectTitle": "Urheberrecht an Bauwerksplanungen und Bauwerken",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "\r\n\r\n\r\n\r\n\r\n\r\nStellungnahme\r\n\r\ndes Verbands Privater Bauherren e. V. (VPB)\r\n\r\nzur \u00d6ffentlichen Konsultation des Bundesministeriums der Justiz\r\nzum Anpassungsbedarf des Urheberrechts\r\nim Hinblick auf Umgestaltungen von Bauwerken\r\n\r\n\r\n\r\nAls \u00e4lteste Verbraucherschutzorganisation im Baubereich vertritt der Verband Privater Bauherren e.V. (VPB) seit 1976 die Interessen privater Bauherren und Immobilienbesitzer. Er informiert und ber\u00e4t private Bauherren und Eigent\u00fcmer insbesondere vor und w\u00e4hrend des Hausbaus, des Eigentumserwerbs oder der Modernisierung einer Bestandsimmobilie und verf\u00fcgt \u00fcber ein bundesweites Netz von Regionalb\u00fcros.\r\n\r\nDer VPB bef\u00fcrwortet eine ma\u00dfvolle Erleichterung der \u00c4nderungsm\u00f6glichkeiten an bestehenden Bauwerken, an denen ein Urheberrecht des Planers besteht. \u00c4nderungszwecke wie energetische Sanierung, Verbesserung hin zu mehr  Klimaneutralit\u00e4t, Schaffung von Wohnraum oder mehr Barrierearmut sollten sich noch besser gegen ein urheberrechtliches \u00c4nderungsverbot in der Abw\u00e4gung durchsetzen k\u00f6nnen.\r\n\r\nDie Ausf\u00fchrungen folgen der durch das BMJ vorgegebenen Struktur. \r\n\r\nI. 1. Welche praktischen Probleme bereitet die aktuelle Rechtslage im Urheberrecht bei der\r\nvertraglichen Gestaltung von Befugnissen f\u00fcr zuk\u00fcnftige \u00c4nderungen von Geb\u00e4uden?\r\nVertragliche Regelungen zwischen Architekten und Verbraucher-Bauherren sind dazu in der Praxis kaum je anzutreffen, schon weil gg\u00fc. Verbraucher-Bauherren in aller Regel die Planer die Vertragstexte stellen.\r\nDabei geht es gar nicht mal um die Frage sp\u00e4terer baulicher \u00c4nderungen, sondern schon die Gew\u00e4hrung des Nutzungsrechts an der Planung durch deren bauliche Realisierung wird in den meisten Architektenvertr\u00e4gen mit privaten Bauherren nicht explizit geregelt. Die Rechtsprechung behilft sich hier im Streitfall letztlich interessengerecht mit konkludenten Erkl\u00e4rungen, was die Nutzung anbelangt. Die vertragliche Einr\u00e4umung von \u00c4nderungsrechten ist bei privaten Bauherren aber wie gesagt kein praxisrelevantes Thema.\r\n\r\nI. 2. Welche praktischen Probleme bereitet die aktuelle Rechtslage im Urheberrecht bei der\r\n\u00c4nderung von Bauwerken, wenn es keine vertragliche Regelung zwischen Architekten\r\nund Eigent\u00fcmern gibt?\r\nAus Sicht des VPB besteht ein zentrales Praxisproblem darin, dass Planer und private Bauherren als Urheberrechtslaien ganz unterschiedliche Auffassungen davon haben, ab wann ein Bauwerk Urheberrechtsschutz genie\u00dft. Auch Gerichte entscheiden hierzu im Instanzenzug nicht immer einheitlich (Mehrzwecksaal des 1969 er\u00f6ffneten Kulturpalastes in Dresden: nein LG Leipzig 05 O 3308/10; ja OLG Dresden 11 U 853/12). Und es geht beileibe nicht immer nur um Kirchen und Museen: \r\n\r\nDas OLG Hamm erkannte der Planung eines Einfamilienhauses Urheberrechtsschutz zu (4 U 72/97) und f\u00fchrt dazu aus (Entscheidungsgr\u00fcnde 1.): \u201eDas Landgericht hat der Planung des Kl\u00e4gers mit Recht urheberrechtlichen Schutz zuerkannt. Wie die Berufungsbegr\u00fcndung selbst einr\u00e4umt, ist auch der Entwurf eines Wohnhauses ein gesch\u00fctztes Werk der Baukunst (\u00a7 2 Abs. 1 Ziffer 4 UrhG), wenn er Ausdruck einer eigenen pers\u00f6nlichen geistigen Sch\u00f6pfung ist, die einen \u00fcber die technische L\u00f6sung der Bauaufgabe hinausgehenden h\u00f6heren \u00e4sthetischen Gehalt aufweist (st\u00e4ndige Rechtsprechung seit BGHZ 24, 55 = NJW 1957, 1108 - Ledigenheim). Diese Voraussetzungen hat das Landgericht hier zutreffend bejaht. Die Glaspyramide auf dem Dach, der hochgezogene Wintergarten, der Dach\u00fcberstand neben dem Hauseingang, der Erker auf der S\u00fcdostseite, die markanten Gaubenformen sowie die auff\u00e4llige Gestaltung der Traufen und Gesimse ergeben hier einen besonderen \u00e4sthetischen Wert, der eine eigensch\u00f6pferische Leistung darstellt. Dem kann nicht mit Erfolg entgegengehalten werden, da\u00df die einzelnen Elemente bekannt sind und teilweise auch an anderen Bauten in T2 Verwendung gefunden haben. In ihrem konkreten Zusammenspiel handelt es sich in dem Entwurf des Kl\u00e4gers um ein Werk von hoher Individualit\u00e4t, f\u00fcr die ein vergleichbares Vorbild nicht ersichtlich ist. Damit liegt eine eigenst\u00e4ndige k\u00fcnstlerische Gestaltung vor.\u201c \r\n\r\nDas OLG M\u00fcnchen (29 W 2639/02) sprach der Planung eines Zweifamilienhauses diesen Schutz zu und begr\u00fcndete dies \u2013 im Rahmen eines einstweiligen Verf\u00fcgungsverfahrens entsprechend knapp - wie folgt (Gr\u00fcnde II. 1.): \u201eAllerdings genie\u00dfen die vom Antragsteller erstellten Entw\u00fcrfe f\u00fcr das Zweifamilienhaus Urheberrechtsschutz. Voraussetzung f\u00fcr urheberrechtlichen Schutz ist bei Entw\u00fcrfen von Bauwerken und den sie vorbereitenden Planungen eine pers\u00f6nliche geistige Sch\u00f6pfung im Sinne des \u00a7 2 Abs. 2 UrhG, die \u00fcber die L\u00f6sung einer fachgebundenen technischen Aufgabe durch Anwendung der einschl\u00e4gigen technischen L\u00f6sungsmittel hinausgeht (vgl. Schricker/Loewenheim, UrhG, 2. Aufl., \u00a7 2, Rdn. 152). Es m\u00fcssen besondere gestalterische Elemente vorliegen, die dem Bauwerk oder den Planungen ein sch\u00f6pferisches Gepr\u00e4ge geben, etwa die sich vom \u00dcblichen abhebende Aussenfl\u00e4chen- und Fassadengestaltung (vgl. BGH GRUR 1973, 663, 664 - Wahlamt), die Art der Aufgliederung mehrerer Bauk\u00f6rper (vgl. BGHZ 24, 55, 67 f - Ledigenheim) oder der Innenraumgestaltung (vgl. BGH GRUR 1982, 107, 109 -Kirchen-Innenraumgestaltung) oder \u00e4hnliche Merkmale (vgl. Werner/Pastor, Der Bauprozess, 10. Aufl., Rdn. 1942). Im Streitfall tritt eine sch\u00f6pferische Pr\u00e4gung jedenfalls durch die schr\u00e4ge Anordnung der Treppenaufg\u00e4nge und durch die Anordnung der beiden Doppelhaush\u00e4lften zu Tage, die sich vom \u00dcblichen abheben.\u201c\r\n\r\nDas OLG Karlsruhe (6 U 72/12) lehnte das hingegen bei einem 12-Familienhaus ab mit der Begr\u00fcndung (Gr\u00fcnde II. 3. a) (2) 2. Abs.): \u201eDer Senat ist sich bewusst, dass es auf die Beurteilung des Werks auf dem Hintergrund des Werkschaffens in den Jahren 2003 und 2004 ankommt. Es kann aber nicht davon ausgegangen werden, dass in diesem Zeitraum in tats\u00e4chlicher Hinsicht deutlich andere Verh\u00e4ltnisse geherrscht haben als heute. Der R\u00fccksprung \u00fcber einem mehrgeschossigen Sockel ist in der Architektur seit je her ein h\u00e4ufig verwendetes Stilmittel, um eine leichtere, nach oben strebende Wirkung zu erzielen. Nichts anderes gilt im modernen Wohnungsbau f\u00fcr die Anordnung von versetzten Pultd\u00e4chern zur Auflockerung der Dachgestaltung und f\u00fcr die Verwendung von - seit Jahrhunderten bekannten - Hochfenstern (\"franz\u00f6sischen Fenstern\"). Deren Verwendung mit dem Ziel, eine weniger gedrungene und lichtere Bauweise von Wohnh\u00e4usern zu erm\u00f6glichen, ist Teil des routinem\u00e4\u00dfigen Schaffens von Architekten. Auch die Anordnung von Fenstern in Gruppen ist nicht Ausdruck einer besonderen Individualit\u00e4t, sondern handwerkliches und routinem\u00e4\u00dfiges Umsetzen des von der Funktionalit\u00e4t im Wohnungsbau gepr\u00e4gten Bauschaffens. Eine aus dem Rahmen fallende Gliederung der Fassade kann darin nicht gesehen werden. Nichts anderes gilt f\u00fcr die von der Kl\u00e4gerin angef\u00fchrte Anbringung von Hohlr\u00e4umen f\u00fcr Balkonnischen sowie f\u00fcr sonstige Details, die f\u00fcr den ma\u00dfgeblichen Gesamteindruck nicht von Bedeutung sind. Auch insoweit fehlt es deshalb an einer sch\u00f6pferischen Leistung. F\u00fcr die vom Senat zu treffende Entscheidung kommt es nicht darauf an, ob die von der Kl\u00e4gerin angef\u00fchrten Gestaltungselemente in der Vergangenheit in gleicher Form und Kombination Verwendung gefunden haben wie bei dem in Rede stehenden Geb\u00e4ude. Eine Kombination bekannter Gestaltungselemente ist nicht schon dann ein urheberrechtlich gesch\u00fctztes Werk, wenn die Kombination als solche nicht zum bekannten Formenschatz geh\u00f6rt. Vielmehr liegt in einem solchen Fall eine pers\u00f6nliche geistige Sch\u00f6pfung im Sinne von \u00a7 2 Abs. 2 UrhG dann nicht vor, wenn die in Rede stehenden Gestaltungselemente f\u00fcr sich genommen seit langem bekannt sind, qualifizierten Gestaltern auf dem betreffenden Gebiet zur Verf\u00fcgung stehen und in der Praxis seit langem in vielfacher Weise miteinander kombiniert werden. Etwas anderes gilt nur, wenn durch die im konkreten Fall gew\u00e4hlte Kombination in \u00fcberraschender Weise ein von \u00fcblichen Gestaltungen deutlich abweichender Gesamteindruck entsteht.\u201c\r\nBeklagt waren dabei auch als BGB-Gesellschaft die Verbraucher, die als Erwerber der im Haus befindlichen Wohnungen das Bauvorhaben an Stelle des insolventen Bautr\u00e4gers fertigstellen wollten.\r\n\r\nPrivaten Bauherren ist oft nicht klar, dass das Urheberrecht auch einen Elementschutz bewirken kann, der die \u00c4nderung von Bauteilen wie einem Treppenhaus, einer Dachanordnung oder einer Fassadengestaltung unm\u00f6glich machen kann. Selbst der Austausch von einigen Mauerpfeilern gegen Stahlst\u00fctzen kann Anspr\u00fcche auf Wiederherstellung ausl\u00f6sen (LG Bielefeld 4 O 393/07, zit. von OLG Hamm 24 U 136/12 Gr\u00fcnde A. 5. Abs.).\r\n\r\nZudem kann das Urheberrecht einen Ensembleschutz bewirken. So urteilte das LG Gera, eine Ansammlung von u. a. Doppelhaush\u00e4lften, die ein Bautr\u00e4ger durch seinen Architekten errichten lie\u00df, sei nicht nur, aber auch wegen der Anordnung auf dem Baugrund urheberrechtsschutzf\u00e4hig. Das Urheberrecht \u00fcberwog nur nicht in der folgenden Interessenabw\u00e4gung, weil die geplanten Objekte wohl unverk\u00e4uflich waren (nach Kurzbesprechung RA Herbert Beigel in: IBR 1996, 158 zu LG Gera 6 O 183/95). \r\n\r\nDie Rechtsprechung stellt allerdings \u2013 und aus Sicht des VPB zu Recht \u2013 hohe Anforderungen an die Zuerkennung eines solchen Schutzes. Das verkennen viele Planer, die auch private Bauherren dann mit Rechtstreitigkeiten konfrontieren, die dementsprechend oft erfolglos sind. Auch die Auseinandersetzungen solcher Planer mit Bautr\u00e4gern wirken sich nachteilig (zeitverz\u00f6gernd, dadurch auch kostentreibend) auf die Erwerber aus. Bei Wohnungseigentum betrifft das mittelbar also immer auch die privaten Bauherren.\r\nGestritten wird etwa um die Schutzf\u00e4higkeit und m\u00f6gliche Anspr\u00fcche aus der Verletzung von Urheberrechten des Planers von Reihenhausanlagen (LG D\u00fcsseldorf 12 O 294/99), Fertighausplanungen (OLG N\u00fcrnberg 3 U 290/97) oder Blockh\u00e4usern (OLG Oldenburg 1 U 50/07).\r\n\r\nAus diesem Grund sieht der VPB die Idee, es reichten Gespr\u00e4che zwischen den Beteiligten als vorrangige L\u00f6sungsvariante, sehr kritisch. Es besteht die Gefahr, dass private Bauherren sich mit Forderungen von Planern auseinandersetzen m\u00fcssten, die rechtlich keine tragf\u00e4hige Grundlage haben. Eigenverantwortliche privatautonome Streitvermeidung und -bereinigung kann hier nur gelingen, wenn beide Seiten entsprechend rechtlich und architektonisch qualifiziert beraten sind. Das kann in puncto Kosten aber schon an diejenigen einer gerichtlichen Kl\u00e4rung heranreichen.\r\n\r\nBesteht dagegen tats\u00e4chlich ein Urheberrecht des Planers an einem Bauwerk, sehen die urheberrechtlichen Regelungen und die dazu ergangene Rechtsprechung aus Sicht des VPB ein grunds\u00e4tzlich angemessenes System des Ausgleichs der gegenl\u00e4ufigen Interessen vor. Mit der Entscheidung des BGH I ZR 98/17, die den Abriss des gesch\u00fctzten Werks planerfreundlich unter das Tatbestandsmerkmal der \u201eanderen Beeintr\u00e4chtigung\u201c i. S. d. \u00a7 14 UrhG subsumierte, sind auch die wesentlichen Abw\u00e4gungsaspekte klargestellt worden (Amtliche Leits\u00e4tze 2 \u2013 4, Gr\u00fcnde B. IV. 3. Rz. 37 ff.), die von der Instanzrechtsprechung soweit ersichtlich auch angewendet werden.\r\n\r\nI. 3. Wie h\u00e4ufig sind diese Probleme und wie oft kommt es zu gerichtlichen Auseinandersetzungen?\r\nDiese F\u00e4lle sind nach Erfahrung des VPB nicht besonders zahlreich, sie treten aber best\u00e4ndig auf, wie die \u00fcber Jahrzehnte reichende Rechtsprechung dazu zeigt. \r\n\r\nII. Wie bewerten Sie die Regelungsvorschl\u00e4ge der Justizministerkonferenz?\r\nDie Regelungsvorschl\u00e4ge der JuMiKo greifen nach Meinung des VPB im wesentlichen die oben schon angesprochene BGH-Rechtsprechung auf. Eine gesetzliche Festlegung w\u00fcrde insoweit vor einer Aufweichung dieser Rechtsprechung sch\u00fctzen und wird daher begr\u00fc\u00dft. \r\n\r\nEine \u00fcberm\u00e4\u00dfige St\u00e4rkung der Position des Geb\u00e4udeeigent\u00fcmers im Vergleich zur aktuellen Rechtsprechung ist darin nach Auffassung des VPB jedenfalls nicht zu erkennen. Denn auch der JuMiKo-Vorschlag sieht weiter eine Abw\u00e4gungsf\u00e4higkeit oder besser gesagt: Abw\u00e4gungsnotwendigkeit der gegenl\u00e4ufigen Interessen im Einzelfall vor.\r\nSo hei\u00dft es dort zur \u00c4nderungsbefugnis des Eigent\u00fcmers in Satz 2:\r\n\u201eBei Geb\u00e4uden und anderen Bauwerken, die zum Gebrauch bestimmt sind, liegt ein \u00fcberwiegendes Eigent\u00fcmerinteresse in der Regel vor bei \u00c4nderungen\r\n1. zur Herstellung oder Erhaltung der Gebrauchseignung,\r\n2. zur Anpassung an aktuelle bauliche, technische oder energetische\r\nStandards oder\r\n3. zur Anpassung an ge\u00e4nderte Bed\u00fcrfnisse des Gebrauchszwecks.\u201c\r\nSatz 2 des amtlichen Leitsatzes 3 im BGH-Urteil I ZR 98/17 lautet:\r\n\u201eBei Werken der Baukunst oder mit Bauwerken unl\u00f6sbar verbundenen Kunstwerken werden die Interessen des Eigent\u00fcmers an einer anderweitigen Nutzung oder Bebauung des Grundst\u00fccks oder Geb\u00e4udes den Interessen des Urhebers am Erhalt des Werks in der Regel vorgehen, sofern sich aus den Umst\u00e4nden des Einzelfalls nichts anderes ergibt.\u201c\r\nDie Streitigkeiten sind damit auch nicht erledigt, denn der Vortrag wird wie schon jetzt immer dahin gehen, dass eben gerade kein Regelfall vorliege.\r\n\r\nInsoweit vermag der VPB auch nicht zu erkennen, inwiefern der Vorschlag der JuMiKo das Urheberrecht der Planer bei Geb\u00e4uden mit Gebrauchszweck abschaffen wolle; eine Bef\u00fcrchtung, die im Sommer 2023 vom Bundesgesch\u00e4ftsf\u00fchrer der BAK ge\u00e4u\u00dfert worden ist unter https://www.dabonline.de/2023/06/29/urheberrecht-gebaeude-architekt-bestand-sanierung-reden-streiten/  \r\n\r\nIII. Welche anderen Ma\u00dfnahmen \u2013 gesetzlicher oder nicht-gesetzlicher Art \u2013 sehen Sie, um auf\r\ndie Probleme zu reagieren?\r\nEine noch rechtssicherere St\u00e4rkung von \u00c4nderungsbefugnissen m\u00fcsste gesetzlich Fallgruppen herausarbeiten und regeln, in denen das Interesse des Urhebers in jedem Falle zur\u00fccktreten muss; ggf. gegen eine Entsch\u00e4digung. Es liegt nahe, dabei etwa an die \u201eHerstellung eines klimaneutralen Geb\u00e4udebetriebs\u201c zu denken. So tr\u00e4te noch ein weiterer verfasungsrechtlich beachtlicher Aspekt zu Gunsten des Grundeigent\u00fcmers neben die beiden aus Art. 14 I GG folgenden und sich grunds\u00e4tzlich gleichwertig gegen\u00fcberstehenden Interessen aus Urheberrecht und Grundeigentumsnutzung. Die Tragf\u00e4higkeit einer so absoluten Priorisierung auch in Gestalt eines Parlamentsgesetzes bleibt aber auf enge Bereiche beschr\u00e4nkt. M\u00fcsste man diese mit einer Entsch\u00e4digungsregelung absichern (in Anlehnung an den ausgleichspflichtigen Eigentumseingriff), entst\u00fcnden zudem doch wieder Streitpunkte, ob eine Entsch\u00e4digung anfalle und wenn ja, wie hoch sie sei.\r\n\r\nLetztlich liegt immer ein echtes Einzelproblem vor, weil es in jedem einzelnen Fall um eine individuelle Sch\u00f6pfung geht, die von einer beachtlichen Gestaltungsh\u00f6he sein muss. Die Abw\u00e4gungssapekte sollten aus Sicht des VPB gesetzlich ausreichend gegen eine Aufweichung gesch\u00fctzt werden; gepr\u00fcft werden sollte auch, ob enge Sonderfallgruppen herauszuarbeiten sind, bei denen schon abstrakt-generell ein Vorrang des \u00c4nderungsinteresses geregelt werden kann. Grunds\u00e4tzlich ist hier aber weiterhin die Judikative diejenige Gewalt, die zur einzelfallgerechten Entscheidung berufen ist. \r\n\r\n      \r\n\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/2b/ed/344460/Stellungnahme-Gutachten-SG2408160002.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                "de": "Bundesministerium der Justiz (BMJ)",
+                                "en": "Bundesministerium der Justiz (BMJ)"
+                            }
+                        ],
+                        "sendingDate": "2024-08-15"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0011613",
+                "regulatoryProjectTitle": "Beibehaltung der Schriftform f\u00fcr die K\u00fcndigung von Bauvertr\u00e4gen",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Gr\u00fcnde f\u00fcr die Beibehaltung des Schriftformerfordernisses f\u00fcr K\u00fcndigungen von Bauvertr\u00e4gen gem\u00e4\u00df \u00a7 650h BGB aus Sicht des VPB:\r\n\r\nDas Schriftformerfordernis ist erst durch die Bauvertragsrechtsreform mit Geltung zu Anfang 2019 \u00fcberhaupt in das BGB aufgenommen worden. Die Begr\u00fcndung des Regierungsentwurfes (BT-Drs. 18/8486 S. 61 oben) f\u00fchrte als Schutzzwecke Rechtssicherheit, Beweissicherung und \u00dcbereilungsschutz an. Das entspricht 1:1 der Empfehlung der offenen Bund-L\u00e4nder-Arbeitsgruppe zum Bauvertragsrecht vom 18. Juni 2013 (Abschlussbericht S. 51 zweiter Absatz). Es muss betont werden, dass dies auch f\u00fcr alle Bauvertr\u00e4ge und damit auch f\u00fcr alle Arten von Bestellern, auch professionellen eingef\u00fchrt worden ist. Die nachfolgende Argumentation geht zwar verbandszweckgem\u00e4\u00df in erster Linie auf die Sicht und Lage der Verbraucher-Bauherren ein. Die Ausf\u00fchrungen sind aber dennoch auch auf praktisch so gut wie fast alle anderen Besteller grunds\u00e4tzlich \u00fcbertragbar.\r\n \r\nDas Schriftformerfordernis einer K\u00fcndigung des Bauvertrages ist auch im Hinblick auf andere Vertr\u00e4ge wie das Arbeitsverh\u00e4ltnis (\u00a7 623 BGB) oder den Wohnraummietvertrag (\u00a7 568 BGB) eine sachlich gerechtfertigte Gleichbehandlung.\r\n\r\nDer VPB h\u00e4lt das Schriftformerfordernis der K\u00fcndigung beim Bauvertrag nach wie vor f\u00fcr geboten, um diese Schutzzwecke auch sicher zu erreichen. Das gilt sowohl f\u00fcr die freie K\u00fcndigung nach \u00a7 648 BGB wie auch \u2013 erst recht \u2013 f\u00fcr die au\u00dferordentliche nach \u00a7 648a BGB. Dabei kommt es vor allem auf den \u00dcbereilungsschutz an. Hintergrund ist dabei zun\u00e4chst die Besonderheit der K\u00fcndigungsfolgen. Betrachtet man zun\u00e4chst den \u00a7 648 BGB f\u00e4llt auf, dass im Werkvertragsrecht nur der Besteller ein K\u00fcndigungsrecht des Vertrages zur Seite steht, ohne dass f\u00fcr die Aus\u00fcbung dazu ein besonderer Grund von N\u00f6ten sein m\u00fcsste. Nur er ist jederzeit frei, zu k\u00fcndigen. Das Gesetz kompensiert diese Asymmetrie aber dadurch, dass f\u00fcr den Fall der Aus\u00fcbung des so genannten freien K\u00fcndigungsrechts der Werkunternehmer als Ausgleich im Grundsatz seinen vollen Werklohnanspruch beh\u00e4lt! Genauer gesagt soll dem Werkunternehmer sein durch den Werkvertrag erwirtschafbarer Gewinn ungeschm\u00e4lert erhalten bleiben. Die Aus\u00fcbung des freien K\u00fcndigungsrechts ist daher, je fr\u00fcher desto mehr, mit erheblichen finanziellen Lasten des Bestellers gekoppelt.\r\n\r\nDabei ist festzuhalten, dass das Formerfordernis auch die K\u00fcndigung von Verbraucherbauvertr\u00e4gen erfasst. Diese Vertragsart umfasst vor allem die so genannten \u201eSchl\u00fcsselfertigbauvertr\u00e4ge\u201c, deren Finanzierungsvolumen mittlere sechsstellige Betr\u00e4ge erfasst. Selbst wenn es dem Schl\u00fcsselfertiganbieter nicht ohne weiteres gelingen sollte, seiner prim\u00e4ren und sekund\u00e4ren Darlegungs- und Beweislast, die die Rechtsprechung bzgl. der Rechtsfolgen der freien K\u00fcndigung nach \u00a7 648 BGB entwickelt hat, nachzukommen, wird gem\u00e4\u00df \u00a7 648 S. 3 BGB immer noch 5 % des Werklohns, der auf den \u201eweggek\u00fcndigten\u201c Teil der Werkherstellung entf\u00e4llt, als ihm zustehender Werklohn vermutet. Es gibt allerdings auch AGB, die h\u00f6here Prozentzahlen enthalten. Auf deren Unwirksamkeit erkennt die Rechtsprechung soweit ersichtlich dabei auch nicht streng ab 5 %.\r\n \r\nIn der Praxis geht es daher oft um deutlich h\u00f6here Prozentanteile; das betrifft vor allem auch Planervertr\u00e4ge. Denn \u00a7 650q Abs. 1 BGB erkl\u00e4rt das Schriftformerfordernis f\u00fcr die K\u00fcndigung auch bei Architekten- und Ingenieursvertr\u00e4gen f\u00fcr anwendbar. Zwar liegen die Honorare f\u00fcr die beauftragte Vollarchitektur (damit ist die Beauftragung des Architekten mit allen n\u00f6tigen Leistungen gemeint, die regelm\u00e4\u00dfig f\u00fcr die Ermittlung des Sachverhalts, der Planung und Ausf\u00fchrungs\u00fcberwachung sowie Betreuung w\u00e4hrend der Gew\u00e4hrleistungszeit eines Geb\u00e4udes auszuf\u00fchren sind) eines Einfamilienhauses im f\u00fcnfstelligen Bereich. Der Architekt hat aber weit weniger ersparte Aufwendungen als ein Bauunternehmer anzurechnen. So k\u00f6nnen in solchen F\u00e4llen auch 40 % dieses Betrages und nicht nur 5 % als Anspruch des Planers gegen\u00fcber dem Auftraggeber entstehen!\r\n\r\nVor allem freie K\u00fcndigungen in der Fr\u00fchphase der Ausf\u00fchrung von Architekten- wie auch Bauvertr\u00e4gen vor allem schl\u00fcsselfertiger H\u00e4user unterliegen so einem erheblichen, vorwiegend finanziellen Risiko, das Verbraucher nicht unbedacht realisieren d\u00fcrfen sollen \u2013 ebenso wie bei Wohnraummiete und Arbeitsverh\u00e4ltnis.\r\n\r\nDamit sind die Probleme des Bestellers allerdings nicht ersch\u00f6pfend erfasst. Denn nach K\u00fcndigung (samt \u201eAbnahme\u201c des gek\u00fcndigten Werktorsos, M\u00e4ngelr\u00fcgen und -M\u00e4ngelrechtevorbehalten) muss er einen anderen Werkunternehmer finden, der fertigbaut. Dabei scheuen Folgeunternehmer das Risiko, am Ende f\u00fcr unerkannte M\u00e4ngel des weggek\u00fcndigten Unternehmers haften zu m\u00fcssen. Es ist daher schwer, zum Weiterbau bereite Unternehmer zu finden und diese lassen sich das entsprechend hoch bewertete Risiko durch teils schmerzhafte Werklohnaufschl\u00e4ge bezahlen. Das sind Kosten, die der Bauherr nicht vom frei gek\u00fcndigten Unternehmer ersetzt verlangen kann, genauso wenig wie die Mehrkosten, die durch die Verz\u00f6gerung der Projektdurchf\u00fchrung beim Besteller anfallen.\r\n\r\nAngesichts der insg. doch betr\u00e4chtlichen finanziellen Risiken reicht eine Reduzierung auf die Textform nicht, um hier Verbraucher-Bauherren effektiven Schutz zu bieten. Zun\u00e4chst erfordert die Schriftform, dass man nicht nur wie bei einer Mail einen Text formuliert. Dieser muss ausgedruckt, eigenh\u00e4ndig unterzeichnet und dann in Richtung auf den Vertragspartner abgegeben werden \u2013 was fast immer (mobile Drucker vor Ort abgesehen) Briefkuvert, Briefmarke und den Gang zum Briefkasten voraussetzt. Das alles geschieht bei einer Mail mit einem Klick auf den Sendebutton, also im Handumdrehen. Und als bedingungsfeindliche einseitige Willenserkl\u00e4rung kann eine K\u00fcndigung nun mal nicht widerrufen werden, wenn sie erst einmal zugegangen ist, \u00a7 130 Abs. 1 S. 2 BGB. Das versch\u00e4rft die Problematik also bei der Textform im Vergleich zur Schriftform noch.\r\n\r\nZudem darf die Praxis auf dem Bau nicht au\u00dfer Acht gelassen werden. H\u00e4ufig gibt es Meinungsverschiedenheiten \u00fcber Ausf\u00fchrungsfragen, die sich nicht eben schnell durch einen einfachen Blick in den geschlossenen Vertrag kl\u00e4ren lassen. Beharrt jede Partei auf ihrer Ansicht, k\u00f6nnen selbst Kleinigkeiten schnell zu einer Eskalation \u2013 und sei es nur bez\u00fcglich der Art & Weise der Kommunikation \u2013 f\u00fchren. Am Ende drohen \u00c4u\u00dferungen, die problemlos als konkludente freie K\u00fcndigungserkl\u00e4rungen interpretiert werden k\u00f6nnen (\u201eLassen Sie sich hier nicht mehr sehen\u201c ist noch eine harmlose Variante). Dies alles kann viel zu leicht als Mail oder \u00fcber Messengerdienste schon auf der Baustelle oder an jedem beliebigen Ort, an dem Besteller irgendwelcher \u00c4rger \u00fcber den Werkunternehmer \u00fcberkommt, per Smartphone unwiderruflich versendet werden.\r\n\r\nSchlie\u00dflich ist weiter zu bedenken, dass angesichts der unattraktiven Folgen einer freien K\u00fcndigung nicht selten die k\u00fcndigende Bauherrenschaft diese gar nicht erkl\u00e4ren will, sondern davon ausgeht, zu einer au\u00dferordentlichen K\u00fcndigung berechtigt zu sein. Wird aber in der K\u00fcndigungserkl\u00e4rung nicht ausdr\u00fccklich klargestellt, dass der Besteller ganz allein au\u00dferordentlich k\u00fcndigt, nicht aber frei, dann legt die Rechtsprechung diese Erkl\u00e4rungen in der Regel dahingehend aus, dass im Zweifel der Vertrag beendigt werden sollte \u2013 und liest (zumindest auch hilfsweise) eine freie K\u00fcndigungserkl\u00e4rung in den get\u00e4tigten K\u00fcndigungstext hinein \u2013 mit den oben geschilderten nachteiligen Folgen. Die Erfahrung lehrt, dass in die Formulierungspr\u00e4zision bei E-Mails und anderen elektronischen Kommunikationsformen, die dem Textformgebot nach \u00a7 126b BGB gen\u00fcgen, oft deutlich weniger Aufmerksamkeit investiert wird als bei dem klassischen analogen Schriftst\u00fcck. Auch damit wird der \u00fcbereilig formulierende Bauherr gesch\u00fctzt vor missverst\u00e4ndlichen Wendungen, die ihm zum Nachteil gereichen. "
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

@@ -1,0 +1,846 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-01-05T11:11:26.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-10T11:19:43.000+01:00",
+        "lastUpdateDate": "2024-07-24T15:03:27.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 42063,
+                "validFromDate": "2024-07-24T15:03:27.000+02:00",
+                "version": 11,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 39511,
+                "validFromDate": "2024-06-29T13:12:10.000+02:00",
+                "validUntilDate": "2024-07-24T15:03:27.000+02:00",
+                "version": 10,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 31803,
+                "validFromDate": "2024-05-10T15:53:11.000+02:00",
+                "validUntilDate": "2024-06-29T13:12:10.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 29623,
+                "validFromDate": "2024-04-11T13:36:38.000+02:00",
+                "validUntilDate": "2024-05-10T15:53:11.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27043,
+                "validFromDate": "2023-11-27T13:57:32.000+01:00",
+                "validUntilDate": "2024-04-11T13:36:38.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 14634,
+                "validFromDate": "2023-01-05T11:11:26.000+01:00",
+                "validUntilDate": "2023-11-27T13:57:32.000+01:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_LAW_ORGA",
+            "de": "Privatrechtliche Organisation",
+            "en": "Private-law organization"
+        },
+        "activityDescription": "Der Verband Internet Reisevertrieb e. V. (VIR) ist der Interessenverband der deutschen digitalen Reiseindustrie und vertritt diese als Ansprechpartner in der \u00d6ffentlichkeit. Grundlagen der Arbeit des Verbands sind die Vernetzung, der Erfahrungsaustausch und die Kollaboration zwischen den Mitgliedern und externen Akteurinnen und Akteuren aus Wirtschaft, Zivilgesellschaft, Wissenschaft, Medien und Politik. Zum Zwecke der Interessenvertretung werden Gespr\u00e4che mit Vertreterinnen und Vertretern des Bundeskanzleramtes und der Bundesministerien sowie mit Mitgliedern des Deutschen Bundestages zur Erl\u00e4uterung von \u00c4nderungsnotwendigkeiten hinsichtlich einer Vielzahl von Themenfeldern, gef\u00fchrt, die als Rahmenbedingungen f\u00fcr die Verbandst\u00e4tigkeit, auch im Hinblick auf die Situation der Besch\u00e4ftigten des Unternehmens und der Mitglieder, von gro\u00dfer Bedeutung sind. Dabei geht es unter anderem um die Pauschalreiserichtlinie, Lieferketten, Wettbewerb, Meldepflicht f\u00fcr digitale Plattformen und Streitbeilegung. Zweck der Interessenvertretung ist es, die Sicht der Praxis zu vermitteln und Impulse zur Verbesserung der gesamtwirtschaftlichen Lage zu geben.\r\nUm die Rahmenbedingungen f\u00fcr die Digital-Touristik zu verbessern, unterhalten wir einen \u201einterfraktionellen Dialog\u201c. Mithilfe von Positionspapieren informieren wir \u00fcber Herausforderungen und Potenziale der Digital-Touristik und machen Vorschl\u00e4ge f\u00fcr gesetzliche Regelungen zur F\u00f6rderung des digitalen Tourismus. Des Weiteren vernetzt der Verband seine Mitglieder mit Politikerinnen und Politikern, um den direkten Dialog zu f\u00f6rdern. Es werden Fachveranstaltungen und Podien organisiert, aber auch unmittelbar Stellungnahmen und Gutachten ver\u00f6ffentlicht und/oder an Abgeordnete sowie an die Bundesregierung \u00fcbermittelt.\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_MEDIA_INTERNET_POLICY",
+                "de": "Internetpolitik",
+                "en": "Internet policy"
+            },
+            {
+                "code": "FOI_ECONOMY_SERVICES",
+                "de": "Handel und Dienstleistungen",
+                "en": "Trade and services"
+            },
+            {
+                "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                "de": "Verbraucherschutz",
+                "en": "Consumer protection"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_ECONOMY_COMPETITION_LAW",
+                "de": "Wettbewerbsrecht",
+                "en": "Competition law"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_LAS_TOURISM",
+                "de": "Tourismus",
+                "en": "Tourism"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_CULTURE",
+                "de": "Kultur",
+                "en": "Culture"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_LEISURE_AND_SPORT",
+                "de": "Sport, Freizeit und Tourismus",
+                "en": "Sports, leisure and tourism"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AEROSPACE",
+                "de": "Luft- und Raumfahrt",
+                "en": "Aerospace"
+            },
+            {
+                "code": "FOI_ECONOMY_ECOMMERCE",
+                "de": "E-Commerce",
+                "en": "E-commerce"
+            },
+            {
+                "code": "FOI_MEDIA_PRIVACY",
+                "de": "Datenschutz und Informationssicherheit",
+                "en": "Data protection and information security"
+            },
+            {
+                "code": "FOI_EU_POLITICS",
+                "de": "Institutionelle Fragen der EU",
+                "en": "Institutional questions of European politics"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            },
+            {
+                "code": "ON_BEHALF_OF_THIRD_PARTY",
+                "de": "Die Interessenvertretung wird im Auftrag Dritter selbst wahrgenommen",
+                "en": "Representation of interests is carried out on behalf of third parties themselves"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/44/82/337815/VIR-Rechenschaftsbericht-des-Geschaftsjahres-2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 1.5,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 80001,
+            "to": 90000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Unterhaching",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Leonhardsweg",
+            "streetNumber": "2",
+            "type": "NATIONAL",
+            "zipCode": "82008"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@v-i-r.de"
+                }
+            ],
+            "phoneNumber": "+498961066729",
+            "websites": [
+                {
+                    "website": "https://v-i-r.de/"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Michael",
+                "lastName": "Buller",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Jacqueline",
+                "lastName": "Petzinger",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Solveig",
+                "lastName": "Mayer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Laura",
+                "lastName": "Rimb\u00f6ck",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Tamara",
+                "lastName": "Stommel",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Michael",
+                "function": "Vorstand VIR",
+                "lastName": "Buller",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-03-01",
+            "naturalPersons": 0,
+            "organizations": 76,
+            "totalCount": 76
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Aktionsb\u00fcndnis Tourismusvielfalt (ATV)"
+            },
+            {
+                "membership": "Denkfabrik Union der Wirtschaft e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Verband Internet Reisevertrieb e. V. "
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 380001,
+            "to": 390000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000389/42063",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-29T13:12:10.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/38/6b/337816/Lobbyregister-Detailansicht-R000389-2024-07-24_15-03-27.pdf",
+        "validFromDate": "2024-07-24T15:03:27.000+02:00",
+        "version": 11
+    },
+    "registerEntryId": 42063,
+    "registerNumber": "R000389",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Wir beziehen uns auf die Richtlinie des europ\u00e4ischen Parlaments und des Rates zur \u00c4nderung der Richtlinie EU 20152302 zur wirksameren Gestaltung des Schutzes von Reisenden und zur Vereinfachung und Klarstellung bestimmter Aspekte der Richtlinie vom 29.11.2023. Grunds\u00e4tzlich hat sich die Pauschalreiserichtline in ihrer jetzigen Form im allt\u00e4glichen Gesch\u00e4ft bew\u00e4hrt. Dies gilt jedoch explizit nicht f\u00fcr die Corona-Pandemie als ein Ereignis eines weltweiten Marktversagens. F\u00fcr einen solchen au\u00dfergew\u00f6hnlichen Fall war die Pauschalreiserichtlinie nie vorgesehen. Statt also die wichtigste Forderung zu ber\u00fccksichtigen, werden stattdessen weitere H\u00fcrden und Erschwernisse eingef\u00fchrt, die im Resultat das Produkt Pauschalreise nur teurer und damit unattraktiver machen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                        "de": "Personenverkehr",
+                        "en": "Public transportation"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_LEISURE_AND_SPORT",
+                        "de": "Sport, Freizeit und Tourismus",
+                        "en": "Sports, leisure and tourism"
+                    },
+                    {
+                        "code": "FOI_LAS_TOURISM",
+                        "de": "Tourismus",
+                        "en": "Tourism"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_SERVICES",
+                        "de": "Handel und Dienstleistungen",
+                        "en": "Trade and services"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/brd/2024/0024-24.pdf",
+                        "issuer": "BR",
+                        "leadingMinistries": [],
+                        "printingNumber": "24/24",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/vorschlag-f%C3%BCr-eine-richtlinie-des-europ%C3%A4ischen-parlaments-und-des-rates/308103",
+                        "title": "Vorschlag f\u00fcr eine Richtlinie des Europ\u00e4ischen Parlaments und des Rates zur \u00c4nderung der Richtlinie (EU) 2015/2302 zur wirksameren Gestaltung des Schutzes von Reisenden und zur Vereinfachung und Klarstellung bestimmter Aspekte der Richtlinie"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0000295",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/f2/fc/326504/Stellungnahme-Gutachten-SG2406260198.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                        "de": "Gremien",
+                                        "en": "Committees"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-10"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0000295",
+                        "regulatoryProjectTitle": "Beibehaltung und Erweiterung um Marktversagen bei der Revision Pauschalreiserichtlinie",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Stellungnahme des Verband Internet Reisevertrieb (VIR) anl\u00e4sslich der \u00f6ffentlichen Anh\u00f6rung \u201eNovellierung der EU-Pauschalreiserichtlinie\u201c im Ausschuss f\u00fcr Tourismus des Deutschen Bundestags am 15.05.2024\r\n\r\nSehr geehrte Damen und Herren,\r\n\r\nder Verband Internet Reisevertrieb (VIR) ist der Interessenverband der deutschen Online- Touristik. Dem VIR haben sich eine Vielzahl der wichtigsten Marktteilnehmer als Mitglieder angeschlossen. Aufgeteilt sind sie in die Cluster OTA, Supplier & Tour Operator, Service- und Travel Technology Provider sowie Start-ups. Der VIR ist bestrebt, die Zusammenarbeit zwischen den verschiedenen Akteuren der touristischen digitalen Industrie zu f\u00f6rdern.\r\n\r\nDer VIR begr\u00fc\u00dft, dass sich der Tourismusausschuss im Deutschen Bundestag mit der Novellierung der EU-Pauschalreiserichtlinie (PRRL) befasst, die die Online-Touristik-Branche mit gro\u00dfer Sorge betrachtet. Auch wenn der VIR leider nicht als Sachverst\u00e4ndiger zur \u00f6ffentlichen Anh\u00f6rung eingeladen ist, nehmen wir diese zum Anlass, um erneut Stellung zur Novellierung der PRRL zu beziehen.\r\n\r\nDazu finden Sie im Folgenden eine erneuerte Konsolidierung unserer Positionen auf drei Kernpunkte, auf die wir mit erweiterten Argumenten anl\u00e4sslich der \u00f6ffentlichen Anh\u00f6rung noch einmal einen gesonderten Fokus legen. Zudem verweisen wir erneut auf das Positionspapier zur Novellierung der PPRL des Aktionsb\u00fcndnis Tourismusvielfalt (ATV), das der VIR gemeinsam mit 26 weiteren Verb\u00e4nden der Tourismuswirtschaft erstellt hat und das Sie im Anhang finden.\r\n\r\n1) Aufnahme von Einzelleistungen f\u00fchrt zu erheblichen Kosten- und Preissteigerungen sowie Verwirrung bei Verbrauchern und Unternehmen\r\n\r\na) Kosten- und Preissteigerungen verhindern\r\nErg\u00e4nzend zu den Vorschl\u00e4gen der EU-Kommission wird in Deutschland dar\u00fcber diskutiert, ob Einzelreiseleistungen in der PRRL geregelt werden sollten. Wir betonen erneut, dass eine Einbeziehung von Einzelreiseleistungen in den Regelungsrahmen der PRRL nicht zweckdienlich bzw. sogar sch\u00e4dlich ist (im ATV-Positionspapier nachzulesen in Kapitel 4 und Kapitel 7).\r\n\r\nDem VIR als Interessenverband der deutschen Online-Touristik ist es dabei zudem ein zentrales Anliegen erneut klarzustellen, dass die vorgesehene Ausweitung der Pauschalreisehaftung f\u00fcr alle betroffenen Unternehmen einen enormen Aufwand und zus\u00e4tzliche Kosten bedeutet. Online Travel Agents (OTAs) werden dabei gegen\u00fcber klassischen Veranstaltern ausdr\u00fccklich nicht bevorzugt. OTAs bieten nicht nur Einzelleistungen an, sondern k\u00f6nnen auch wie Veranstalter agieren. Klassische Reiseveranstalter, OTA\u2019s, Reiseb\u00fcros sowie weitere touristische Leistungstr\u00e4ger haben im Rahmen der PRRL folglich exakt die gleichen Verpflichtungen und Herausforderungen.\r\n\r\nWir bef\u00fcrchten insbesondere, dass die Aufnahme von Einzelleistungen in die PRRL vor allem kleine und mittelst\u00e4ndische Anbieter von Einzelreiseleistungen dazu zwingen wird, sich aus dem Markt zur\u00fcck zuzuziehen oder aber ihr Angebot so einzuschr\u00e4nken, dass eine \"ungewollte\" Pauschalreise nicht mehr m\u00f6glich ist, weil sie den administrativen Aufwand und das finanzielle Haftungsrisiko eines Pauschalreiseanbieters nicht stemmen k\u00f6nnen. Das f\u00fchrt zu weniger Vielfalt am Markt, dem Verlust von Arbeitspl\u00e4tzen und Infrastruktur insbesondere im l\u00e4ndlichen Raum sowie am Ende des Tages auch zu verminderten Steuereinnahmen.\r\n\r\nZur Illustration der zu erwartenden Kostensteigerungen f\u00fcr Unternehmen reichen wir noch folgende Hochrechnung ein:\r\nLaut der Forschungsgemeinschaft Urlaub + Reisen (FUR) entfallen von 113 Milliarden Euro Gesamtausgaben f\u00fcr Urlaubsreisen im deutschen Markt 55 Milliarden Euro auf Einzelreiseleistungen. Sollten diese nun aufgrund der Einbeziehung in den Regelungsrahmen der PRRL abgesichert werden m\u00fcssen, m\u00fcsste ein Aufschlag von ca. 1% f\u00fcr die Insolvenzsicherung sowie ein Aufschlag von ca. 1% f\u00fcr die Risikoabsicherung f\u00fcr die Betreuung beispielsweise im Falle eines Unfalls des Verbrauchers oder bei au\u00dfergew\u00f6hnlichen Umst\u00e4nden am Ziel-, Abreise und Wohnort zus\u00e4tzlich eingepreist werden. Bei insgesamt 55 Milliarden Euro f\u00fcr Einzelreiseleistungen, w\u00fcrde das einen Kostenanstieg von rund 1,1 Milliarden Euro f\u00fcr Unternehmen verursachen, der letztlich auch die Verbraucher treffen wird.\r\n\r\nb) Klarheit f\u00fcr Verbraucher und Unternehmen schaffen\r\nLaut des Entwurfs der Europ\u00e4ischen Kommission zur Novellierung der PRRL k\u00f6nnen Reiseanbieter zu Pauschalreiseveranstaltern werden, wenn Verbraucher innerhalb von drei Stunden nach Kauf einer ersten Reiseleistung eine zweite Reiseleistung in einer einzigen Vertriebsstelle kaufen (\u201e3-Stunden-Reglung\u201c). Dies f\u00fchrt in der Praxis zu erheblichen Problemen (im ATV-Positionspapier nachzulesen in Kapitel 4). Insbesondere die St\u00f6rung der Abfolge des Buchungsprozesses f\u00fchrt zu Frustration sowohl bei Verbrauchern als auch Veranstaltern und soll daher hier noch einmal exemplarisch hervorgehoben werden:\r\n\r\ni. Der urspr\u00fcngliche vom Verbraucher eingesehene Preis der Einzelleistungen kann nicht mehr gelten, denn der Anbieter muss nun Kalkulationen f\u00fcr Insolvenzabsicherung und auch weitere Kosten f\u00fcr die Dienstleistungen einer Pauschalreise kalkulatorisch hinzuf\u00fcgen.\r\nii. Die AGBs, die bisher reine Vermittlung waren, m\u00fcssen r\u00fcckwirkend auch f\u00fcr den Kauf der ersten Leistung in AGBs eines Veranstalters ge\u00e4ndert werden.\r\niii. Die Anzahlung nach der geplanten \u00dcberarbeitung der PRRL darf nur bei 25% liegen. Sollte nun die erste Leistung zu 100% inkassiert sein, wird es in den meisten F\u00e4llen nun dazu kommen, dass dem Verbraucher Geld zur\u00fcckbezahlt werden m\u00fcsste, weil die erste Zahlung bereits die 25% \u00fcbersteigen wird.\r\niv. Die Stornobedingungen, die f\u00fcr die Einzelleistungen bisher f\u00fcr den Verbraucher galten, m\u00fcssen nun vereinheitlicht werden.\r\nv. Da all diese Punkte eigentlich vor einer Preisdarstellung passieren m\u00fcssten, damit der Verbraucher dann auch den richtigen Preis sieht, m\u00fcssten nun s\u00e4mtliche Abfragen bei Einzelleistungen von Verbrauchern neu gepr\u00fcft werden. Dies w\u00fcrde einen erheblichen Mehraufwand f\u00fcr Verbraucher und Unternehmen bedeuten.\r\n\r\nStatt Definitionen zu vereinfachen, hat die Europ\u00e4ische Kommission diese in ihrem Entwurf zur \u00dcberarbeitung der PRRL zudem an vielen Stellen verkompliziert und damit Unklarheiten im Buchungsprozess geschaffen. Hinsichtlich der neuen Pauschalreisedefinition sollte die Europ\u00e4ische Kommission zudem die \u201e24-Stunden-Regel\u201c streichen, innerhalb dessen verbundene Reiseleistungen gem\u00e4\u00df Artikel 3 (2) als Pauschalreisen gelten. Denn die Ausweitung dieser Definition wirft eine Reihe von Problemen in der Umsetzung auf, wie beispielsweise, dass die Pauschalreiseveranstalter das Such- und Kaufverhalten der Verbraucher bis zu 24 Stunden lang nach-verfolgen m\u00fcssten - ein nicht zuletzt auch aus datenschutzrechtlichen Gesichtspunkten problematischer Vorgang.\r\n\r\nDie aufgezeigten Punkte verdeutlichen, dass die geplante Novellierung der PRRL zu gro\u00dfer Verwirrung bei Verbrauchern und Unternehmen f\u00fchren w\u00fcrde. Zudem w\u00fcrden insbesondere kleinen und mittelst\u00e4ndischen Unternehmen erhebliche bis existenzbedrohende Herausforderungen in der Verwaltung des Buchungsprozesses auferlegt. Denn beispielsweise jeder noch so kleine Campingplatzanbieter m\u00fcsste nach den geplanten \u00c4nderungen der Europ\u00e4ischen Kommission zuk\u00fcnftig pr\u00fcfen, ob er bei einer Buchung unter die novellierte PRRL f\u00e4llt. Erschwerend hinzu kommt, dass weder Studien noch verbraucherseitige Beschwerden zu Problemen mit der bisherigen Regelung zu Einzelreiseleistungen vorliegen. Das bedeutet, dass die Europ\u00e4ische Kommission durch die geplante Novellierung der PRRL erhebliche Probleme f\u00fcr Unternehmen und Verbraucher ohne einen ersichtlichen Regulierungsbedarf schafft.\r\n\r\nKernbotschaft: Die bisherigen Regelungen zu Einzelreiseleistungen haben sich in der Praxis bew\u00e4hrt und sollten daher beibehalten werden.\r\n\r\n2) Einf\u00fchrung obligatorischer Gutscheine im ersten Jahr, um Insolvenzen zu verhindern\r\n\r\nUm im Falle von erneuten Krisen wie der Corona-Pandemie gro\u00dfe Insolvenzwellen zu vermeiden, schl\u00e4gt der Entwurf zur Novellierung der PRRL freiwillige Gutscheine als Alternative zu R\u00fcckzahlungen vor. Der VIR hat bereits w\u00e4hrend der Pandemie kritisiert, dass es f\u00fcr einen solchen freiwilligen Gutschein keiner gesetzlichen Regelung bedarf, denn diese k\u00f6nnen auch jetzt bereits zwischen Veranstalter und Kunden vereinbart werden.\r\n\r\nF\u00fcr die Unternehmen bedeuten freiwillige Gutscheine einen hohen Unsicherheitsfaktor, da diese zur G\u00e4nze auf das Wohlwollen und die Akzeptanz der Reisenden angewiesen sind. Insbesondere im ersten Jahr w\u00fcrden insbesondere kleine und mittelst\u00e4ndische Unternehmen stark gef\u00e4hrdet werden. Hatten wir zun\u00e4chst grunds\u00e4tzlich die Einf\u00fchrung von obligatorischen Gutscheinen gefordert (im ATV-Positionspapier nachzulesen in Kapitel 1), haben wir als VIR jetzt auch nach weiteren Gespr\u00e4chen mit Verbrauchersch\u00fctzern einen Kompromissvorschlag, um Insolvenzen abzuwehren:\r\n\r\nKernbotschaft: Im ersten Jahr sollte dem Reiseveranstalter das Recht einger\u00e4umt werden, obligatorische Gutscheine zur Verf\u00fcgung zu stellen. Diese werden um 2% verzinst, um das Kundengeld in dieser Zeit abzusichern.\r\n\r\n3) Vorauszahlungsbegrenzungen gef\u00e4hrden das Pauschalreiseprodukt\r\nDer VIR versteht, dass Verbraucher vor unangemessen hohen Vorauszahlungen gesch\u00fctzt werden sollen. Allerdings erscheint dies angesichts der ohnedies hohen Absicherung von Kundengeldern und dem hohen Niveau an Verbraucherschutz, das eine Pauschalreise auch schon heute bietet, nicht notwendig. Deutschland hat dar\u00fcber hinaus zu Anzahlungen eine klare Rechtsprechung und deswegen sehen wir keine Notwendigkeit diese in die PRRL mit aufzunehmen (im ATV-Positionspapier nachzulesen in Kapitel 3).\r\n\r\nWir m\u00f6chten an dieser Stelle zudem betonen, dass das gesamte touristische \u00d6kosystem in hohem Ma\u00dfe von der Verf\u00fcgbarkeit von Betriebskapital abh\u00e4ngt, um die Kosten zu decken. Jeder Versuch, Vorauszahlungen in einem Teil des \u00d6kosystems zu begrenzen, wird erhebliche finanzielle Belastungen f\u00fcr Unternehmen nach sich ziehen. Dies w\u00fcrde wiederum am Ende des Tages auch zu erheblichen Preissteigerungen f\u00fcr Verbraucher f\u00fchren. Die dann durch erh\u00f6hte Preise schwindende Attraktivit\u00e4t von Pauschalreisen k\u00f6nnte im Ergebnis Verbraucher dazu veranlassen, ihre Reiseleistungen als Einzelleistungen zu buchen und ganz auf den Schutz von Pauschalreisen zu verzichten.\r\n\r\nDer Fokus der Regulierer sollte sich dagegen auf die Flugkomponente des Reisepakets fokussieren, da diese das gr\u00f6\u00dfte Risiko f\u00fcr die Verbraucher birgt. Weder in der Novellierung der PRRL noch in der von der Europ\u00e4ischen Kommission \u00fcberarbeiteten Verordnung \u00fcber Fluggastrechte sind Schutzma\u00dfnahmen im Falle der Insolvenz von Fluggesellschaften vorgesehen. Im Gegensatz dazu sind nach der PRRL die Pauschalreiseveranstalter f\u00fcr die Erf\u00fcllung des Pauschalreisevertrags verantwortlich, unabh\u00e4ngig davon, ob diese Leistungen vom Bef\u00f6rderungsunternehmen erbracht werden k\u00f6nnen oder nicht. Dies f\u00fchrt nicht nur zu einem ungleichen Schutz f\u00fcr verschiedene Kategorien von Reisenden (Pauschalreisende gegen\u00fcber Reisenden, die ihr Flugticket als Einzelleistung kaufen), sondern stellt auch die Reiseveranstalter vor gro\u00dfe Herausforderungen.\r\n\r\nKernbotschaft: Die Anzahlungsmodalit\u00e4ten sind nicht gesetzlich zu regeln. Daf\u00fcr sollte ein EU- /EWR-weites einheitliches obligatorisches Insolvenzschutzsystem f\u00fcr Fluggesellschaften bei der\r\n\u00dcberarbeitung der Verordnung \u00fcber Fluggastrechte eingef\u00fchrt werden, um die Vorauszahlungen der Verbraucher zu sch\u00fctzen."
+                        }
+                    }
+                ],
+                "title": "Beibehaltung und Erweiterung um Marktversagen bei der Revision Pauschalreiserichtlinie"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Ziel ist es, eine effektive und erfolgreiche Umsetzung der verabschiedeten EU-Verordnung zur Kurzzeitvermietung innerhalb der gesetzlich vorgegebenen \u00dcbergangsfrist in Deutschland, insbesondere im Hinblick auf digitale Registrierungsverfahren, zu begleiten und zu unterst\u00fctzen (bis Fr\u00fchjahr 2026). Angestrebt ist ein bundesweit technisch einheitlichen Rahmen f\u00fcr\r\nRegistrierungsverfahren, um Fragmentierung und b\u00fcrokratische Lasten zu minimieren. Hierzu sollen Potenziale der Digitalisierung genutzt werden, um Markttransparenz f\u00fcr Beh\u00f6rden zu schaffen, Verwaltungsprozesse zu verschlanken und B\u00fcrokratie abzubauen und gleichzeitig das Potential der Kurzzeitvermietung bestm\u00f6glich zu nutzen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_LEISURE_AND_SPORT",
+                        "de": "Sport, Freizeit und Tourismus",
+                        "en": "Sports, leisure and tourism"
+                    },
+                    {
+                        "code": "FOI_LAS_TOURISM",
+                        "de": "Tourismus",
+                        "en": "Tourism"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010375",
+                "statements": [],
+                "title": "Umsetzung der EU-Verordnung zur Kurzzeitvermietung"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Ziel, ist es unsere gro\u00dfen Bedenken bzgl. des Standes der Diskussionen im Rat\r\n\u00fcber das Mehrwertsteuerpaket im digitalen Zeitalter (ViDA) zu \u00e4u\u00dfern, insb. hinsichtlich der\r\nAnwendung des \"deemed supplier regime\" (DSR) f\u00fcr bestimmte Dienstleistungen. Dies wird zu einer Schieflage im Tourismusmarkt f\u00fchren, die Verbraucher, Unterkunftsanbieter und Online-Plattformen gleicherma\u00dfen negativ treffen wird. Das DSR w\u00fcrde in Deutschland eine Mehrwertsteuerpflicht f\u00fcr Dienstleistungen einf\u00fchren, die bislang von der Mehrwertsteuer ausgenommen sind. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_ECOMMERCE",
+                        "de": "E-Commerce",
+                        "en": "E-commerce"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_LEISURE_AND_SPORT",
+                        "de": "Sport, Freizeit und Tourismus",
+                        "en": "Sports, leisure and tourism"
+                    },
+                    {
+                        "code": "FOI_LAS_TOURISM",
+                        "de": "Tourismus",
+                        "en": "Tourism"
+                    },
+                    {
+                        "code": "FOI_PUBLIC_FINANCE",
+                        "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                        "en": "Public finances, taxes and duties"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010376",
+                "statements": [],
+                "title": "EU Mehrwertsteuerpaket im digitalen Zeitalter (VAT in the Digital Age)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Wir beziehen uns auf den Entwurf zum Mobilit\u00e4tsdatengesetz, der in der Verb\u00e4ndeanh\u00f6rung vom 27.05.2024 vorgestellt wurde. Der Entwurf sollte in den Punkten Digitale Daten, Registrierungspflicht der Datennutzer, Zwangsgelder und Nationaler Zugangspunkt angepasst werden. Ziel ist es, eine m\u00f6glichst gro\u00dfe digitale Datenbasis zur Verf\u00fcgung zu stellen, in der die Luftfahrtindustrie ebenfalls integriert ist.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://bmdv.bund.de/SharedDocs/DE/Anlage/Gesetze/Gesetze-20/entwurf-eines-gesetz-bereitstellung-und-nutzung-von-mobilitaetsdaten.pdf?__blob=publicationFile",
+                            "draftBillProjectUrl": "https://bmdv.bund.de/SharedDocs/DE/Gesetze-20/entwurf-eines-gesetz-bereitstellung-und-nutzung-von-mobilitaetsdaten.html?nn=508840",
+                            "shortTitle": "BMDV",
+                            "title": "Bundesministerium f\u00fcr Digitales und Verkehr",
+                            "url": "https://bmdv.bund.de/DE/Home/home.html"
+                        }
+                    ],
+                    "publicationDate": "2024-04-19",
+                    "title": "Entwurf eines Gesetzes zur Bereitstellung und Nutzung von Mobilit\u00e4tsdaten und zur \u00c4nderung des Personenbef\u00f6rderungsgesetzes"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_DIGITALIZATION",
+                        "de": "Digitalisierung",
+                        "en": "Digitalization"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                        "de": "Personenverkehr",
+                        "en": "Public transportation"
+                    },
+                    {
+                        "code": "FOI_LEISURE_AND_SPORT",
+                        "de": "Sport, Freizeit und Tourismus",
+                        "en": "Sports, leisure and tourism"
+                    },
+                    {
+                        "code": "FOI_LAS_TOURISM",
+                        "de": "Tourismus",
+                        "en": "Tourism"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010377",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a1/25/326506/Stellungnahme-Gutachten-SG2406260208.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                        "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                        "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-29"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0010377",
+                        "regulatoryProjectTitle": "Umsetzung des Entwurfes des Mobilit\u00e4tsdatengesetz",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Stellungnahme des Verband Internet Reisevertrieb (VIR) anl\u00e4sslich der Verb\u00e4ndeanh\u00f6rung\r\nzum Entwurf des Mobilit\u00e4tsdatengesetz am 27.05.2024\r\n\r\nSehr geehrte Damen und Herren,\r\n\r\nder Verband Internet Reisevertrieb (VIR) ist der Interessenverband der deutschen Online-\r\nTouristik. Dem VIR haben sich eine Vielzahl der wichtigsten Marktteilnehmer als Mitglieder\r\nangeschlossen. Aufgeteilt sind sie in die Cluster OTA, Supplier & Tour Operator, Service- und\r\nTravel Technology Provider sowie Start-ups. Der VIR ist bestrebt, die Zusammenarbeit zwischen\r\nden verschiedenen Akteuren der touristischen digitalen Industrie zu f\u00f6rdern.\r\n\r\nWir m\u00f6chten uns nochmal herzlich bei Ihnen fu\u0308r die Gelegenheit bedanken, dass wir an der\r\nVerb\u00e4ndeanh\u00f6rung teilnehmen durften und die Chance hatten, den vorliegenden guten Entwurf\r\neingehend zu besprechen.\r\n\r\nIm Rahmen der Anh\u00f6rung haben sich einige Punkte herauskristallisiert, die wir als besonders\r\nwichtig und beru\u0308cksichtigungswu\u0308rdig erachten. Diese m\u00f6chten wir Ihnen gerne im Folgenden\r\ndarlegen:\r\n\r\n1) Digitale Daten\r\nNach einer Ru\u0308ckfrage in der Verb\u00e4ndeanh\u00f6rung mu\u0308ssen nur digitale Daten geliefert werden. Um\r\nu\u0308bergreifende Mobilit\u00e4tskonzepte effektiv zu gestalten, sollten Ausnahmen vermieden werden. Im heutigen Zeitalter kann von Unternehmen erwartet werden, dass sie zumindest\r\ngrundlegende Daten, wie Fahrpl\u00e4ne, digital vorhalten. Dies mu\u0308sste eine Mindestanforderung\r\nbei KMUs (kleine und mittlere Unternehmen) sein. Dynamische Daten sollten dagegen fu\u0308r\r\ngr\u00f6\u00dfere Unternehmen verpflichtend digital geliefert werden mu\u0308ssen.\r\n\r\n2) Registrierungspflicht der Datennutzer\r\nEs ist uns wichtig, dass die Zugangsschwelle zur Nutzung der Daten extrem niedrig bleibt.\r\nTrotzdem braucht es eine Art AGBs fu\u0308r die Nutzungsbedingungen. Daru\u0308ber hinaus sollte der\r\nBetreiber des nationalen Zugangspunkt informiert sein, wer die Daten nutzen m\u00f6chte. Auch im\r\nFalle von Reklamationen durch Datennutzer bei mangelhaften oder falschen Daten muss\r\nnachvollziehbar sein, wer sie eingereicht hat. Ein Login wu\u0308rde all diese Punkte vereinfachen. Der\r\nRegistrierungsprozess kann minimal gehalten werden. Ein Login-Bereich k\u00f6nnte auch genutzt\r\nwerden, um registrierte Unternehmen u\u0308ber Updates, \u00c4nderungen oder Umfragen zu\r\ninformieren.\r\n\r\n3) \u00a711 Abs. 4 Zwangsgelder\r\nWir halten es fu\u0308r angemessen, die Zwangsgelder eher an dem Umsatz des Unternehmens zu\r\norientieren, als mit einem pauschalen Betrag zu beziffern.\r\n\r\n4) Landessystem vs. Nationaler Zugangspunkt\r\nWir empfehlen, keine Wahlm\u00f6glichkeiten einzufu\u0308hren, sondern Daten immer direkt an den\r\nnationalen Zugangspunkt zu senden. So werden Probleme und l\u00e4ngere Kl\u00e4rungszeiten bei\r\nRu\u0308ckfragen vermieden, da die Verantwortlichkeiten klar sind. Die gesetzliche Vorgabe sollte\r\nverhindern, dass drei Parteien versuchen, ein Problem zu l\u00f6sen, obwohl nur zwei beteiligt sein\r\nsollten.\r\n\r\n5) Beru\u0308cksichtigung von Google bzw. Android Daten\r\nGoogle besitzt viele Bewegungsdaten u\u0308ber das Betriebssystem Android und kann dadurch z.B.\r\nStausituationen oder Menschenansammlungen erkennen. Es w\u00e4re sicherlich von Vorteil, wenn\r\ndiese Daten ebenfalls nutzbar gemacht werden wu\u0308rden.\r\n\r\n6) Beru\u0308cksichtigung der Airline Industrie\r\nEin weiterer unabdingbarer Punkt ist die Einbindung des Flugverkehrs. Wir bedauern, dass dieser\r\nbisher keine Beru\u0308cksichtigung findet und empfehlen daher dringend, den Flugverkehr\r\neinzubinden. Im Bereich der Mobilit\u00e4t spielt der Luftverkehr eine enorm wichtige Rolle. Ebenso k\u00f6nnen Flugtaxis in Zukunft von hoher Bedeutung werden. Aktuell bezieht sich der\r\nGesetzesentwurf nur auf eine bodengebundene Bef\u00f6rderung.\r\nWir hoffen, wir konnten mit unseren Ausfu\u0308hrungen einen konstruktiven Beitrag leisten. Gerne\r\nstehen wir fu\u0308r weitere Gespr\u00e4che zur Verfu\u0308gung."
+                        }
+                    }
+                ],
+                "title": "Umsetzung des Entwurfes des Mobilit\u00e4tsdatengesetz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "VSBG",
+                        "title": "Gesetz \u00fcber die alternative Streitbeilegung in Verbrauchersachen",
+                        "url": "https://www.gesetze-im-internet.de/vsbg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Bei der Anpassung der Richtlinie zur au\u00dfergerichtlichen Streitbeilegung (2013/11/EU) und der Empfehlung \u00fcber Qualit\u00e4tsanforderungen an Streitbeilegungsverfahren von Online-Marktpl\u00e4tzen und Wirtschaftsverb\u00e4nden sollen die bestehenden und bew\u00e4hrten Strukturen, die sowohl f\u00fcr Verbraucherinnen und Verbraucher als auch f\u00fcr Unternehmen eine Alternative zum Gerichtsweg bieten, erhalten bleiben. Die Grenzen zwischen internen Beschwerdemechanismen, Schlichtung, Verbraucherberatung und weiterer Rechtsdurchsetzung d\u00fcrfen nicht verwischt werden.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_CONSUMER_PROTECTION",
+                        "de": "Verbraucherschutz",
+                        "en": "Consumer protection"
+                    },
+                    {
+                        "code": "FOI_EUROPEAN_UNION",
+                        "de": "Europapolitik und Europ\u00e4ische Union",
+                        "en": "European politics and the EU"
+                    },
+                    {
+                        "code": "FOI_EU_LAWS",
+                        "de": "EU-Gesetzgebung",
+                        "en": "EU legislation"
+                    },
+                    {
+                        "code": "FOI_LEISURE_AND_SPORT",
+                        "de": "Sport, Freizeit und Tourismus",
+                        "en": "Sports, leisure and tourism"
+                    },
+                    {
+                        "code": "FOI_LAS_TOURISM",
+                        "de": "Tourismus",
+                        "en": "Tourism"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/brd/2023/0581-23.pdf",
+                        "issuer": "BR",
+                        "leadingMinistries": [],
+                        "printingNumber": "581/23",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/vorschlag-f%C3%BCr-eine-richtlinie-des-europ%C3%A4ischen-parlaments-und-des-rates/305726",
+                        "title": "Vorschlag f\u00fcr eine Richtlinie des Europ\u00e4ischen Parlaments und des Rates zur \u00c4nderung der Richtlinie 2013/11/EU \u00fcber die alternative Beilegung verbraucherrechtlicher Streitigkeiten sowie der Richtlinien (EU) 2015/2302, (EU) 2019/2161 und (EU) 2020/1828"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0010378",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/40/da/326508/Stellungnahme-Gutachten-SG2406270105.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                        "de": "Bundesministerium der Justiz (BMJ)",
+                                        "en": "Bundesministerium der Justiz (BMJ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-21"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0010378",
+                        "regulatoryProjectTitle": "Anpassungen der Richtlinie zur Au\u00dfergerichtlichen Streitbeilegung 2013/11/EU",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Gemeinsamer Brief zu geplanten Anpassungen an der Richtlinie zur au\u00dfergerichtlichen Streitbeilegung (2013/11/EU) und der Empfehlung u\u0308ber Qualit\u00e4tsanforderungen an Streitbeilegungsverfahren von Online-Marktpl\u00e4tzen und Wirtschaftsverb\u00e4nden\r\n\r\nDie diesen Brief unterzeichnenden Akteure begru\u0308\u00dfen die Bemu\u0308hungen der Europ\u00e4ischen Gesetzgeber, die Richtlinie zur au\u00dfergerichtlichen Streitbeilegung an die Herausforderungen neuer Gesch\u00e4ftsmodelle mit immer komplexeren Entscheidungssituationen anzupassen. Hierbei sollten aber keinesfalls bew\u00e4hrte Strukturen, die sowohl fu\u0308r Verbraucherinnen und Verbraucher als auch fu\u0308r Unternehmen eine echte Alternative zum Gerichtsweg bieten, aufs Spiel gesetzt werden. Die Unterzeichnenden m\u00f6chten daher Ihre Aufmerksamkeit auf einige Aspekte lenken, die sie aus der Perspektive eines im Grundsatz gut funktionierenden Systems mit gro\u00dfer Sorge sehen, und appellieren, die mu\u0308hsam gefundenen Kompromisse nicht aufzugeben.\r\n\r\nAusgeglichenes Gesamtgefu\u0308ge erhalten\r\n\r\nAus Sicht der unterzeichnenden Akteure werden mit dem Kommissionsvorschlag die Grenzen zwischen internen Beschwerdemechanismen, Schlichtung (Au\u00dfergerichtliche Streitbeilegung (ADR) erfolgt in Deutschland vornehmlich durch Schlichtungsstellen), Verbraucherberatung und weiterer Rechtsdurchsetzung verwischt. Dies zeigt sich zuvorderst an der vorgeschlagenen erheblichen Ausdehnung des Anwendungsbereichs der Richtlinie. Dieser wu\u0308rde beispielsweise konkret dazu fu\u0308hren, dass sich Schlichtungsstellen mit irrefu\u0308hrenden Greenwashing-Praktiken befassen und sich an die H\u00e4ndler wenden k\u00f6nnen, um Abhilfema\u00dfnahmen zu vereinbaren.\r\n\r\nIn nicht-vertraglichen Konstellationen sind daher klare Voraussetzungen, wie sie das Europ\u00e4ische Parlament unter anderem mit einer pers\u00f6nlichen Betroffenheit der Person vorsieht, unabdingbar. Schlichtung kann und muss eine neutrale und unabh\u00e4ngige Pru\u0308fung einer Streitigkeit im Einzelfall leisten, um diese zu befrieden. Aufgabe des kollektiven Rechtsschutzes ist hingegen, die Unterlassung unerlaubter Praktiken durchzusetzen und Sachverhalte fu\u0308r alle Betroffenen kl\u00e4ren zu lassen. Aufgabe der Verbraucherberatung wiederum ist eine umfassende Beratung im Verbraucherinteresse.\r\n\r\nGeboten erscheint auch eine Sch\u00e4rfung im Hinblick auf die Aufgaben der Kontaktstellen: Einerseits sollten diese vorzugsweise bei einer neutralen Einrichtung angesiedelt werden k\u00f6nnen, andererseits sollte weitergehende Beratung fu\u0308r Verbraucher:innen in inl\u00e4ndischen F\u00e4llen Verbraucherzentralen, in grenzu\u0308berscheitenden F\u00e4llen den Europ\u00e4ischen Verbraucherzentren vorbehalten sein. Die vom Europ\u00e4ischen Parlament vorgesehene einseitige Bereitstellung von Informationen u\u0308ber das Verbraucherrecht sollte ausgeschlossen sein, um den Eindruck einer Interessenvertretung zu vermeiden. Die Kontakte, die von Online-Marktpl\u00e4tzen und Unternehmen im Rahmen ihres Beschwerdemanagements angeboten werden, mu\u0308ssen organisatorisch und institutionell strikt von der Schlichtungsarbeit getrennt bleiben und nicht den Eindruck erwecken du\u0308rfen, ADR-Stellen zu sein. Dies muss auch durch eindeutige Bezeichnungen sichergestellt werden, um fu\u0308r Klarheit bei Verbraucher:innen zu sorgen und Verwirrung sowie Konturlosigkeit des ADR-Begriffs zu vermeiden. Wenngleich das Gesamtziel der Kommission, ein breites Spektrum an Streitigkeiten abzudecken, grunds\u00e4tzlich begru\u0308\u00dfenswert ist, sollte die Koh\u00e4renz des Verbraucherschutzsystems und eine Abgrenzung der Arbeit der verschiedenen beteiligten Akteure erhalten bleiben.\r\n\r\nEs sollte verhindert werden, dass Schlichtung eine de facto Marktu\u0308berwachungsrolle zukommt. Aus Sicht der Unterzeichnenden muss das Ziel ein ausgeglichenes Gesamtgefu\u0308ge von Verbraucherberatung, Schlichtung und sonstiger Rechtsdurchsetzung sein. Nur so kann jede Komponente jeweils ihren vollen Beitrag zu einem hohen Verbraucherschutz leisten.\r\n\r\nBekanntheit vergr\u00f6\u00dfern\r\n\r\nAus Sicht der Unterzeichnenden ist es ein wichtiges Signal des Europ\u00e4ischen Parlaments, die vorgesehenen Informationen zur Schlichtungsm\u00f6glichkeit im Zeitpunkt des konkreten Streitfalls zu erhalten. Sie sind ein wirksames Mittel, die Bekanntheit von und das Bewusstsein um Schlichtung zu erh\u00f6hen. Artikel 13 Absatz 3 der derzeit geltenden Richtlinie sollte dahingehend spezifiziert werden, dass feststeht, wann genau der Hinweis zu geben ist. Dies gibt Unternehmen und Verbraucher:innen Klarheit u\u0308ber die konkrete Anwendung."
+                        }
+                    }
+                ],
+                "title": "Anpassungen der Richtlinie zur Au\u00dfergerichtlichen Streitbeilegung 2013/11/EU"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/f2/fc/326504/Stellungnahme-Gutachten-SG2406260198.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_COMMITTEES",
+                                "de": "Gremien",
+                                "en": "Committees"
+                            }
+                        ],
+                        "sendingDate": "2024-05-10"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0000295",
+                "regulatoryProjectTitle": "Beibehaltung und Erweiterung um Marktversagen bei der Revision Pauschalreiserichtlinie",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Stellungnahme des Verband Internet Reisevertrieb (VIR) anl\u00e4sslich der \u00f6ffentlichen Anh\u00f6rung \u201eNovellierung der EU-Pauschalreiserichtlinie\u201c im Ausschuss f\u00fcr Tourismus des Deutschen Bundestags am 15.05.2024\r\n\r\nSehr geehrte Damen und Herren,\r\n\r\nder Verband Internet Reisevertrieb (VIR) ist der Interessenverband der deutschen Online- Touristik. Dem VIR haben sich eine Vielzahl der wichtigsten Marktteilnehmer als Mitglieder angeschlossen. Aufgeteilt sind sie in die Cluster OTA, Supplier & Tour Operator, Service- und Travel Technology Provider sowie Start-ups. Der VIR ist bestrebt, die Zusammenarbeit zwischen den verschiedenen Akteuren der touristischen digitalen Industrie zu f\u00f6rdern.\r\n\r\nDer VIR begr\u00fc\u00dft, dass sich der Tourismusausschuss im Deutschen Bundestag mit der Novellierung der EU-Pauschalreiserichtlinie (PRRL) befasst, die die Online-Touristik-Branche mit gro\u00dfer Sorge betrachtet. Auch wenn der VIR leider nicht als Sachverst\u00e4ndiger zur \u00f6ffentlichen Anh\u00f6rung eingeladen ist, nehmen wir diese zum Anlass, um erneut Stellung zur Novellierung der PRRL zu beziehen.\r\n\r\nDazu finden Sie im Folgenden eine erneuerte Konsolidierung unserer Positionen auf drei Kernpunkte, auf die wir mit erweiterten Argumenten anl\u00e4sslich der \u00f6ffentlichen Anh\u00f6rung noch einmal einen gesonderten Fokus legen. Zudem verweisen wir erneut auf das Positionspapier zur Novellierung der PPRL des Aktionsb\u00fcndnis Tourismusvielfalt (ATV), das der VIR gemeinsam mit 26 weiteren Verb\u00e4nden der Tourismuswirtschaft erstellt hat und das Sie im Anhang finden.\r\n\r\n1) Aufnahme von Einzelleistungen f\u00fchrt zu erheblichen Kosten- und Preissteigerungen sowie Verwirrung bei Verbrauchern und Unternehmen\r\n\r\na) Kosten- und Preissteigerungen verhindern\r\nErg\u00e4nzend zu den Vorschl\u00e4gen der EU-Kommission wird in Deutschland dar\u00fcber diskutiert, ob Einzelreiseleistungen in der PRRL geregelt werden sollten. Wir betonen erneut, dass eine Einbeziehung von Einzelreiseleistungen in den Regelungsrahmen der PRRL nicht zweckdienlich bzw. sogar sch\u00e4dlich ist (im ATV-Positionspapier nachzulesen in Kapitel 4 und Kapitel 7).\r\n\r\nDem VIR als Interessenverband der deutschen Online-Touristik ist es dabei zudem ein zentrales Anliegen erneut klarzustellen, dass die vorgesehene Ausweitung der Pauschalreisehaftung f\u00fcr alle betroffenen Unternehmen einen enormen Aufwand und zus\u00e4tzliche Kosten bedeutet. Online Travel Agents (OTAs) werden dabei gegen\u00fcber klassischen Veranstaltern ausdr\u00fccklich nicht bevorzugt. OTAs bieten nicht nur Einzelleistungen an, sondern k\u00f6nnen auch wie Veranstalter agieren. Klassische Reiseveranstalter, OTA\u2019s, Reiseb\u00fcros sowie weitere touristische Leistungstr\u00e4ger haben im Rahmen der PRRL folglich exakt die gleichen Verpflichtungen und Herausforderungen.\r\n\r\nWir bef\u00fcrchten insbesondere, dass die Aufnahme von Einzelleistungen in die PRRL vor allem kleine und mittelst\u00e4ndische Anbieter von Einzelreiseleistungen dazu zwingen wird, sich aus dem Markt zur\u00fcck zuzuziehen oder aber ihr Angebot so einzuschr\u00e4nken, dass eine \"ungewollte\" Pauschalreise nicht mehr m\u00f6glich ist, weil sie den administrativen Aufwand und das finanzielle Haftungsrisiko eines Pauschalreiseanbieters nicht stemmen k\u00f6nnen. Das f\u00fchrt zu weniger Vielfalt am Markt, dem Verlust von Arbeitspl\u00e4tzen und Infrastruktur insbesondere im l\u00e4ndlichen Raum sowie am Ende des Tages auch zu verminderten Steuereinnahmen.\r\n\r\nZur Illustration der zu erwartenden Kostensteigerungen f\u00fcr Unternehmen reichen wir noch folgende Hochrechnung ein:\r\nLaut der Forschungsgemeinschaft Urlaub + Reisen (FUR) entfallen von 113 Milliarden Euro Gesamtausgaben f\u00fcr Urlaubsreisen im deutschen Markt 55 Milliarden Euro auf Einzelreiseleistungen. Sollten diese nun aufgrund der Einbeziehung in den Regelungsrahmen der PRRL abgesichert werden m\u00fcssen, m\u00fcsste ein Aufschlag von ca. 1% f\u00fcr die Insolvenzsicherung sowie ein Aufschlag von ca. 1% f\u00fcr die Risikoabsicherung f\u00fcr die Betreuung beispielsweise im Falle eines Unfalls des Verbrauchers oder bei au\u00dfergew\u00f6hnlichen Umst\u00e4nden am Ziel-, Abreise und Wohnort zus\u00e4tzlich eingepreist werden. Bei insgesamt 55 Milliarden Euro f\u00fcr Einzelreiseleistungen, w\u00fcrde das einen Kostenanstieg von rund 1,1 Milliarden Euro f\u00fcr Unternehmen verursachen, der letztlich auch die Verbraucher treffen wird.\r\n\r\nb) Klarheit f\u00fcr Verbraucher und Unternehmen schaffen\r\nLaut des Entwurfs der Europ\u00e4ischen Kommission zur Novellierung der PRRL k\u00f6nnen Reiseanbieter zu Pauschalreiseveranstaltern werden, wenn Verbraucher innerhalb von drei Stunden nach Kauf einer ersten Reiseleistung eine zweite Reiseleistung in einer einzigen Vertriebsstelle kaufen (\u201e3-Stunden-Reglung\u201c). Dies f\u00fchrt in der Praxis zu erheblichen Problemen (im ATV-Positionspapier nachzulesen in Kapitel 4). Insbesondere die St\u00f6rung der Abfolge des Buchungsprozesses f\u00fchrt zu Frustration sowohl bei Verbrauchern als auch Veranstaltern und soll daher hier noch einmal exemplarisch hervorgehoben werden:\r\n\r\ni. Der urspr\u00fcngliche vom Verbraucher eingesehene Preis der Einzelleistungen kann nicht mehr gelten, denn der Anbieter muss nun Kalkulationen f\u00fcr Insolvenzabsicherung und auch weitere Kosten f\u00fcr die Dienstleistungen einer Pauschalreise kalkulatorisch hinzuf\u00fcgen.\r\nii. Die AGBs, die bisher reine Vermittlung waren, m\u00fcssen r\u00fcckwirkend auch f\u00fcr den Kauf der ersten Leistung in AGBs eines Veranstalters ge\u00e4ndert werden.\r\niii. Die Anzahlung nach der geplanten \u00dcberarbeitung der PRRL darf nur bei 25% liegen. Sollte nun die erste Leistung zu 100% inkassiert sein, wird es in den meisten F\u00e4llen nun dazu kommen, dass dem Verbraucher Geld zur\u00fcckbezahlt werden m\u00fcsste, weil die erste Zahlung bereits die 25% \u00fcbersteigen wird.\r\niv. Die Stornobedingungen, die f\u00fcr die Einzelleistungen bisher f\u00fcr den Verbraucher galten, m\u00fcssen nun vereinheitlicht werden.\r\nv. Da all diese Punkte eigentlich vor einer Preisdarstellung passieren m\u00fcssten, damit der Verbraucher dann auch den richtigen Preis sieht, m\u00fcssten nun s\u00e4mtliche Abfragen bei Einzelleistungen von Verbrauchern neu gepr\u00fcft werden. Dies w\u00fcrde einen erheblichen Mehraufwand f\u00fcr Verbraucher und Unternehmen bedeuten.\r\n\r\nStatt Definitionen zu vereinfachen, hat die Europ\u00e4ische Kommission diese in ihrem Entwurf zur \u00dcberarbeitung der PRRL zudem an vielen Stellen verkompliziert und damit Unklarheiten im Buchungsprozess geschaffen. Hinsichtlich der neuen Pauschalreisedefinition sollte die Europ\u00e4ische Kommission zudem die \u201e24-Stunden-Regel\u201c streichen, innerhalb dessen verbundene Reiseleistungen gem\u00e4\u00df Artikel 3 (2) als Pauschalreisen gelten. Denn die Ausweitung dieser Definition wirft eine Reihe von Problemen in der Umsetzung auf, wie beispielsweise, dass die Pauschalreiseveranstalter das Such- und Kaufverhalten der Verbraucher bis zu 24 Stunden lang nach-verfolgen m\u00fcssten - ein nicht zuletzt auch aus datenschutzrechtlichen Gesichtspunkten problematischer Vorgang.\r\n\r\nDie aufgezeigten Punkte verdeutlichen, dass die geplante Novellierung der PRRL zu gro\u00dfer Verwirrung bei Verbrauchern und Unternehmen f\u00fchren w\u00fcrde. Zudem w\u00fcrden insbesondere kleinen und mittelst\u00e4ndischen Unternehmen erhebliche bis existenzbedrohende Herausforderungen in der Verwaltung des Buchungsprozesses auferlegt. Denn beispielsweise jeder noch so kleine Campingplatzanbieter m\u00fcsste nach den geplanten \u00c4nderungen der Europ\u00e4ischen Kommission zuk\u00fcnftig pr\u00fcfen, ob er bei einer Buchung unter die novellierte PRRL f\u00e4llt. Erschwerend hinzu kommt, dass weder Studien noch verbraucherseitige Beschwerden zu Problemen mit der bisherigen Regelung zu Einzelreiseleistungen vorliegen. Das bedeutet, dass die Europ\u00e4ische Kommission durch die geplante Novellierung der PRRL erhebliche Probleme f\u00fcr Unternehmen und Verbraucher ohne einen ersichtlichen Regulierungsbedarf schafft.\r\n\r\nKernbotschaft: Die bisherigen Regelungen zu Einzelreiseleistungen haben sich in der Praxis bew\u00e4hrt und sollten daher beibehalten werden.\r\n\r\n2) Einf\u00fchrung obligatorischer Gutscheine im ersten Jahr, um Insolvenzen zu verhindern\r\n\r\nUm im Falle von erneuten Krisen wie der Corona-Pandemie gro\u00dfe Insolvenzwellen zu vermeiden, schl\u00e4gt der Entwurf zur Novellierung der PRRL freiwillige Gutscheine als Alternative zu R\u00fcckzahlungen vor. Der VIR hat bereits w\u00e4hrend der Pandemie kritisiert, dass es f\u00fcr einen solchen freiwilligen Gutschein keiner gesetzlichen Regelung bedarf, denn diese k\u00f6nnen auch jetzt bereits zwischen Veranstalter und Kunden vereinbart werden.\r\n\r\nF\u00fcr die Unternehmen bedeuten freiwillige Gutscheine einen hohen Unsicherheitsfaktor, da diese zur G\u00e4nze auf das Wohlwollen und die Akzeptanz der Reisenden angewiesen sind. Insbesondere im ersten Jahr w\u00fcrden insbesondere kleine und mittelst\u00e4ndische Unternehmen stark gef\u00e4hrdet werden. Hatten wir zun\u00e4chst grunds\u00e4tzlich die Einf\u00fchrung von obligatorischen Gutscheinen gefordert (im ATV-Positionspapier nachzulesen in Kapitel 1), haben wir als VIR jetzt auch nach weiteren Gespr\u00e4chen mit Verbrauchersch\u00fctzern einen Kompromissvorschlag, um Insolvenzen abzuwehren:\r\n\r\nKernbotschaft: Im ersten Jahr sollte dem Reiseveranstalter das Recht einger\u00e4umt werden, obligatorische Gutscheine zur Verf\u00fcgung zu stellen. Diese werden um 2% verzinst, um das Kundengeld in dieser Zeit abzusichern.\r\n\r\n3) Vorauszahlungsbegrenzungen gef\u00e4hrden das Pauschalreiseprodukt\r\nDer VIR versteht, dass Verbraucher vor unangemessen hohen Vorauszahlungen gesch\u00fctzt werden sollen. Allerdings erscheint dies angesichts der ohnedies hohen Absicherung von Kundengeldern und dem hohen Niveau an Verbraucherschutz, das eine Pauschalreise auch schon heute bietet, nicht notwendig. Deutschland hat dar\u00fcber hinaus zu Anzahlungen eine klare Rechtsprechung und deswegen sehen wir keine Notwendigkeit diese in die PRRL mit aufzunehmen (im ATV-Positionspapier nachzulesen in Kapitel 3).\r\n\r\nWir m\u00f6chten an dieser Stelle zudem betonen, dass das gesamte touristische \u00d6kosystem in hohem Ma\u00dfe von der Verf\u00fcgbarkeit von Betriebskapital abh\u00e4ngt, um die Kosten zu decken. Jeder Versuch, Vorauszahlungen in einem Teil des \u00d6kosystems zu begrenzen, wird erhebliche finanzielle Belastungen f\u00fcr Unternehmen nach sich ziehen. Dies w\u00fcrde wiederum am Ende des Tages auch zu erheblichen Preissteigerungen f\u00fcr Verbraucher f\u00fchren. Die dann durch erh\u00f6hte Preise schwindende Attraktivit\u00e4t von Pauschalreisen k\u00f6nnte im Ergebnis Verbraucher dazu veranlassen, ihre Reiseleistungen als Einzelleistungen zu buchen und ganz auf den Schutz von Pauschalreisen zu verzichten.\r\n\r\nDer Fokus der Regulierer sollte sich dagegen auf die Flugkomponente des Reisepakets fokussieren, da diese das gr\u00f6\u00dfte Risiko f\u00fcr die Verbraucher birgt. Weder in der Novellierung der PRRL noch in der von der Europ\u00e4ischen Kommission \u00fcberarbeiteten Verordnung \u00fcber Fluggastrechte sind Schutzma\u00dfnahmen im Falle der Insolvenz von Fluggesellschaften vorgesehen. Im Gegensatz dazu sind nach der PRRL die Pauschalreiseveranstalter f\u00fcr die Erf\u00fcllung des Pauschalreisevertrags verantwortlich, unabh\u00e4ngig davon, ob diese Leistungen vom Bef\u00f6rderungsunternehmen erbracht werden k\u00f6nnen oder nicht. Dies f\u00fchrt nicht nur zu einem ungleichen Schutz f\u00fcr verschiedene Kategorien von Reisenden (Pauschalreisende gegen\u00fcber Reisenden, die ihr Flugticket als Einzelleistung kaufen), sondern stellt auch die Reiseveranstalter vor gro\u00dfe Herausforderungen.\r\n\r\nKernbotschaft: Die Anzahlungsmodalit\u00e4ten sind nicht gesetzlich zu regeln. Daf\u00fcr sollte ein EU- /EWR-weites einheitliches obligatorisches Insolvenzschutzsystem f\u00fcr Fluggesellschaften bei der\r\n\u00dcberarbeitung der Verordnung \u00fcber Fluggastrechte eingef\u00fchrt werden, um die Vorauszahlungen der Verbraucher zu sch\u00fctzen."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/a1/25/326506/Stellungnahme-Gutachten-SG2406260208.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMDV",
+                                "de": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)",
+                                "en": "Bundesministerium f\u00fcr Digitales und Verkehr (BMDV)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-29"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0010377",
+                "regulatoryProjectTitle": "Umsetzung des Entwurfes des Mobilit\u00e4tsdatengesetz",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Stellungnahme des Verband Internet Reisevertrieb (VIR) anl\u00e4sslich der Verb\u00e4ndeanh\u00f6rung\r\nzum Entwurf des Mobilit\u00e4tsdatengesetz am 27.05.2024\r\n\r\nSehr geehrte Damen und Herren,\r\n\r\nder Verband Internet Reisevertrieb (VIR) ist der Interessenverband der deutschen Online-\r\nTouristik. Dem VIR haben sich eine Vielzahl der wichtigsten Marktteilnehmer als Mitglieder\r\nangeschlossen. Aufgeteilt sind sie in die Cluster OTA, Supplier & Tour Operator, Service- und\r\nTravel Technology Provider sowie Start-ups. Der VIR ist bestrebt, die Zusammenarbeit zwischen\r\nden verschiedenen Akteuren der touristischen digitalen Industrie zu f\u00f6rdern.\r\n\r\nWir m\u00f6chten uns nochmal herzlich bei Ihnen fu\u0308r die Gelegenheit bedanken, dass wir an der\r\nVerb\u00e4ndeanh\u00f6rung teilnehmen durften und die Chance hatten, den vorliegenden guten Entwurf\r\neingehend zu besprechen.\r\n\r\nIm Rahmen der Anh\u00f6rung haben sich einige Punkte herauskristallisiert, die wir als besonders\r\nwichtig und beru\u0308cksichtigungswu\u0308rdig erachten. Diese m\u00f6chten wir Ihnen gerne im Folgenden\r\ndarlegen:\r\n\r\n1) Digitale Daten\r\nNach einer Ru\u0308ckfrage in der Verb\u00e4ndeanh\u00f6rung mu\u0308ssen nur digitale Daten geliefert werden. Um\r\nu\u0308bergreifende Mobilit\u00e4tskonzepte effektiv zu gestalten, sollten Ausnahmen vermieden werden. Im heutigen Zeitalter kann von Unternehmen erwartet werden, dass sie zumindest\r\ngrundlegende Daten, wie Fahrpl\u00e4ne, digital vorhalten. Dies mu\u0308sste eine Mindestanforderung\r\nbei KMUs (kleine und mittlere Unternehmen) sein. Dynamische Daten sollten dagegen fu\u0308r\r\ngr\u00f6\u00dfere Unternehmen verpflichtend digital geliefert werden mu\u0308ssen.\r\n\r\n2) Registrierungspflicht der Datennutzer\r\nEs ist uns wichtig, dass die Zugangsschwelle zur Nutzung der Daten extrem niedrig bleibt.\r\nTrotzdem braucht es eine Art AGBs fu\u0308r die Nutzungsbedingungen. Daru\u0308ber hinaus sollte der\r\nBetreiber des nationalen Zugangspunkt informiert sein, wer die Daten nutzen m\u00f6chte. Auch im\r\nFalle von Reklamationen durch Datennutzer bei mangelhaften oder falschen Daten muss\r\nnachvollziehbar sein, wer sie eingereicht hat. Ein Login wu\u0308rde all diese Punkte vereinfachen. Der\r\nRegistrierungsprozess kann minimal gehalten werden. Ein Login-Bereich k\u00f6nnte auch genutzt\r\nwerden, um registrierte Unternehmen u\u0308ber Updates, \u00c4nderungen oder Umfragen zu\r\ninformieren.\r\n\r\n3) \u00a711 Abs. 4 Zwangsgelder\r\nWir halten es fu\u0308r angemessen, die Zwangsgelder eher an dem Umsatz des Unternehmens zu\r\norientieren, als mit einem pauschalen Betrag zu beziffern.\r\n\r\n4) Landessystem vs. Nationaler Zugangspunkt\r\nWir empfehlen, keine Wahlm\u00f6glichkeiten einzufu\u0308hren, sondern Daten immer direkt an den\r\nnationalen Zugangspunkt zu senden. So werden Probleme und l\u00e4ngere Kl\u00e4rungszeiten bei\r\nRu\u0308ckfragen vermieden, da die Verantwortlichkeiten klar sind. Die gesetzliche Vorgabe sollte\r\nverhindern, dass drei Parteien versuchen, ein Problem zu l\u00f6sen, obwohl nur zwei beteiligt sein\r\nsollten.\r\n\r\n5) Beru\u0308cksichtigung von Google bzw. Android Daten\r\nGoogle besitzt viele Bewegungsdaten u\u0308ber das Betriebssystem Android und kann dadurch z.B.\r\nStausituationen oder Menschenansammlungen erkennen. Es w\u00e4re sicherlich von Vorteil, wenn\r\ndiese Daten ebenfalls nutzbar gemacht werden wu\u0308rden.\r\n\r\n6) Beru\u0308cksichtigung der Airline Industrie\r\nEin weiterer unabdingbarer Punkt ist die Einbindung des Flugverkehrs. Wir bedauern, dass dieser\r\nbisher keine Beru\u0308cksichtigung findet und empfehlen daher dringend, den Flugverkehr\r\neinzubinden. Im Bereich der Mobilit\u00e4t spielt der Luftverkehr eine enorm wichtige Rolle. Ebenso k\u00f6nnen Flugtaxis in Zukunft von hoher Bedeutung werden. Aktuell bezieht sich der\r\nGesetzesentwurf nur auf eine bodengebundene Bef\u00f6rderung.\r\nWir hoffen, wir konnten mit unseren Ausfu\u0308hrungen einen konstruktiven Beitrag leisten. Gerne\r\nstehen wir fu\u0308r weitere Gespr\u00e4che zur Verfu\u0308gung."
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/40/da/326508/Stellungnahme-Gutachten-SG2406270105.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMJ",
+                                "de": "Bundesministerium der Justiz (BMJ)",
+                                "en": "Bundesministerium der Justiz (BMJ)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-21"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0010378",
+                "regulatoryProjectTitle": "Anpassungen der Richtlinie zur Au\u00dfergerichtlichen Streitbeilegung 2013/11/EU",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Gemeinsamer Brief zu geplanten Anpassungen an der Richtlinie zur au\u00dfergerichtlichen Streitbeilegung (2013/11/EU) und der Empfehlung u\u0308ber Qualit\u00e4tsanforderungen an Streitbeilegungsverfahren von Online-Marktpl\u00e4tzen und Wirtschaftsverb\u00e4nden\r\n\r\nDie diesen Brief unterzeichnenden Akteure begru\u0308\u00dfen die Bemu\u0308hungen der Europ\u00e4ischen Gesetzgeber, die Richtlinie zur au\u00dfergerichtlichen Streitbeilegung an die Herausforderungen neuer Gesch\u00e4ftsmodelle mit immer komplexeren Entscheidungssituationen anzupassen. Hierbei sollten aber keinesfalls bew\u00e4hrte Strukturen, die sowohl fu\u0308r Verbraucherinnen und Verbraucher als auch fu\u0308r Unternehmen eine echte Alternative zum Gerichtsweg bieten, aufs Spiel gesetzt werden. Die Unterzeichnenden m\u00f6chten daher Ihre Aufmerksamkeit auf einige Aspekte lenken, die sie aus der Perspektive eines im Grundsatz gut funktionierenden Systems mit gro\u00dfer Sorge sehen, und appellieren, die mu\u0308hsam gefundenen Kompromisse nicht aufzugeben.\r\n\r\nAusgeglichenes Gesamtgefu\u0308ge erhalten\r\n\r\nAus Sicht der unterzeichnenden Akteure werden mit dem Kommissionsvorschlag die Grenzen zwischen internen Beschwerdemechanismen, Schlichtung (Au\u00dfergerichtliche Streitbeilegung (ADR) erfolgt in Deutschland vornehmlich durch Schlichtungsstellen), Verbraucherberatung und weiterer Rechtsdurchsetzung verwischt. Dies zeigt sich zuvorderst an der vorgeschlagenen erheblichen Ausdehnung des Anwendungsbereichs der Richtlinie. Dieser wu\u0308rde beispielsweise konkret dazu fu\u0308hren, dass sich Schlichtungsstellen mit irrefu\u0308hrenden Greenwashing-Praktiken befassen und sich an die H\u00e4ndler wenden k\u00f6nnen, um Abhilfema\u00dfnahmen zu vereinbaren.\r\n\r\nIn nicht-vertraglichen Konstellationen sind daher klare Voraussetzungen, wie sie das Europ\u00e4ische Parlament unter anderem mit einer pers\u00f6nlichen Betroffenheit der Person vorsieht, unabdingbar. Schlichtung kann und muss eine neutrale und unabh\u00e4ngige Pru\u0308fung einer Streitigkeit im Einzelfall leisten, um diese zu befrieden. Aufgabe des kollektiven Rechtsschutzes ist hingegen, die Unterlassung unerlaubter Praktiken durchzusetzen und Sachverhalte fu\u0308r alle Betroffenen kl\u00e4ren zu lassen. Aufgabe der Verbraucherberatung wiederum ist eine umfassende Beratung im Verbraucherinteresse.\r\n\r\nGeboten erscheint auch eine Sch\u00e4rfung im Hinblick auf die Aufgaben der Kontaktstellen: Einerseits sollten diese vorzugsweise bei einer neutralen Einrichtung angesiedelt werden k\u00f6nnen, andererseits sollte weitergehende Beratung fu\u0308r Verbraucher:innen in inl\u00e4ndischen F\u00e4llen Verbraucherzentralen, in grenzu\u0308berscheitenden F\u00e4llen den Europ\u00e4ischen Verbraucherzentren vorbehalten sein. Die vom Europ\u00e4ischen Parlament vorgesehene einseitige Bereitstellung von Informationen u\u0308ber das Verbraucherrecht sollte ausgeschlossen sein, um den Eindruck einer Interessenvertretung zu vermeiden. Die Kontakte, die von Online-Marktpl\u00e4tzen und Unternehmen im Rahmen ihres Beschwerdemanagements angeboten werden, mu\u0308ssen organisatorisch und institutionell strikt von der Schlichtungsarbeit getrennt bleiben und nicht den Eindruck erwecken du\u0308rfen, ADR-Stellen zu sein. Dies muss auch durch eindeutige Bezeichnungen sichergestellt werden, um fu\u0308r Klarheit bei Verbraucher:innen zu sorgen und Verwirrung sowie Konturlosigkeit des ADR-Begriffs zu vermeiden. Wenngleich das Gesamtziel der Kommission, ein breites Spektrum an Streitigkeiten abzudecken, grunds\u00e4tzlich begru\u0308\u00dfenswert ist, sollte die Koh\u00e4renz des Verbraucherschutzsystems und eine Abgrenzung der Arbeit der verschiedenen beteiligten Akteure erhalten bleiben.\r\n\r\nEs sollte verhindert werden, dass Schlichtung eine de facto Marktu\u0308berwachungsrolle zukommt. Aus Sicht der Unterzeichnenden muss das Ziel ein ausgeglichenes Gesamtgefu\u0308ge von Verbraucherberatung, Schlichtung und sonstiger Rechtsdurchsetzung sein. Nur so kann jede Komponente jeweils ihren vollen Beitrag zu einem hohen Verbraucherschutz leisten.\r\n\r\nBekanntheit vergr\u00f6\u00dfern\r\n\r\nAus Sicht der Unterzeichnenden ist es ein wichtiges Signal des Europ\u00e4ischen Parlaments, die vorgesehenen Informationen zur Schlichtungsm\u00f6glichkeit im Zeitpunkt des konkreten Streitfalls zu erhalten. Sie sind ein wirksames Mittel, die Bekanntheit von und das Bewusstsein um Schlichtung zu erh\u00f6hen. Artikel 13 Absatz 3 der derzeit geltenden Richtlinie sollte dahingehend spezifiziert werden, dass feststeht, wann genau der Hinweis zu geben ist. Dies gibt Unternehmen und Verbraucher:innen Klarheit u\u0308ber die konkrete Anwendung."
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

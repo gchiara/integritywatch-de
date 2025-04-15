@@ -1,0 +1,944 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-03-02T10:02:18.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-24T16:03:07.000+01:00",
+        "lastUpdateDate": "2024-08-30T09:51:02.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 43376,
+                "validFromDate": "2024-08-30T09:51:02.000+02:00",
+                "version": 12,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 41445,
+                "validFromDate": "2024-07-12T08:52:48.000+02:00",
+                "validUntilDate": "2024-08-30T09:51:02.000+02:00",
+                "version": 11,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 39225,
+                "validFromDate": "2024-06-26T12:40:03.000+02:00",
+                "validUntilDate": "2024-07-12T08:52:48.000+02:00",
+                "version": 10,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27672,
+                "validFromDate": "2024-01-17T13:06:04.000+01:00",
+                "validUntilDate": "2024-06-26T12:40:03.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22989,
+                "validFromDate": "2023-09-27T08:58:37.000+02:00",
+                "validUntilDate": "2024-01-17T13:06:04.000+01:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 19448,
+                "validFromDate": "2023-07-04T11:18:05.000+02:00",
+                "validUntilDate": "2023-09-27T08:58:37.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 15049,
+                "validFromDate": "2023-03-02T10:02:18.000+01:00",
+                "validUntilDate": "2023-07-04T11:18:05.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION_V2",
+            "de": "Sonstiges Unternehmen",
+            "en": "Other company"
+        },
+        "activityDescription": "Die DB InfraGO AG gestaltet die Zukunft der deutschen Eisenbahninfrastruktur. Seit dem 1. Januar 2024 b\u00fcndelt sie die Kr\u00e4fte der DB Netz AG und der DB Station&Service AG in einer gemeinwohlorientierten Infrastrukturgesellschaft. Der Fokus liegt auf der Schaffung eines leistungsf\u00e4higen Schienennetzes und attraktiver Bahnh\u00f6fe aus einer Hand. In dieser Funktion beobachtet die DB InfraGO AG verkehrspolitische Gesetzgebungsverfahren und Initiativen sowie sonstige f\u00fcr ihre Gesch\u00e4ftst\u00e4tigkeit bedeutende Aktivit\u00e4ten von Bundestag und Bundesregierung. Im Zuge dessen werden Dialogveranstaltungen und Gespr\u00e4che mit Regierungsmitgliedern, Abgeordneten sowie Vertreter:innen der Ministerien gef\u00fchrt. Dar\u00fcber hinaus werden in Einzelf\u00e4llen auch Stellungnahmen und Gutachten zu konkreten Regelungsvorhaben erarbeitet und \u00fcbermittelt.\r\n",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_MEDIA_COMMUNICATION",
+                "de": "Kommunikations- und Informationstechnik",
+                "en": "Communication and information technology"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_IS_CYBER",
+                "de": "Cybersicherheit",
+                "en": "Cyber security"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_INTERNAL_SECURITY",
+                "de": "Innere Sicherheit",
+                "en": "Internal security"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_EU_DOMESTIC_MARKET",
+                "de": "EU-Binnenmarkt",
+                "en": "EU internal market"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_LAW_PUBLIC",
+                "de": "\u00d6ffentliches Recht",
+                "en": "Public law"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_MEDIA_DIGITALIZATION",
+                "de": "Digitalisierung",
+                "en": "Digitalization"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/7b/c0/348856/db_ib23_d_web_01.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.5,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 180001,
+            "to": 190000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Frankfurt / Main",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Adam-Riese-Str.",
+            "streetNumber": "11-13",
+            "type": "NATIONAL",
+            "zipCode": "60327"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "dbinfrago@deutschebahn.com"
+                }
+            ],
+            "phoneNumber": "+496926531001",
+            "websites": [
+                {
+                    "website": "www.dbinfrago.com"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Philipp",
+                "lastName": "Nagl",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Christian",
+                "lastName": "Gru\u00df",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Heike",
+                "lastName": "Junge-Latz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Jens",
+                "lastName": "Bergmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr. ",
+                "firstName": "Kristian",
+                "lastName": "Weiland",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Kim Oliver",
+                "lastName": "Engelbach",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Wolfgang",
+                "lastName": "Bohrer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Heinz",
+                "lastName": "Siegmund",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Ingrid",
+                "lastName": "Felipe Saint Hilaire",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Ralf",
+                "lastName": "Thieme",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Friedemann",
+                "lastName": "Ke\u00dfler",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Wolfgang",
+                "lastName": "Weinhold",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "MBA",
+                "firstName": "Henriette",
+                "lastName": "Hahn",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_AG",
+            "de": "Aktiengesellschaft (AG)",
+            "en": "Stock company (AG)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Philipp",
+                "function": "Vorsitzender des Vorstands",
+                "lastName": "Nagl",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Christian",
+                "function": "Vorstand Betrieb, Fahrplan, Vertrieb und Kapazit\u00e4tsmanagement",
+                "lastName": "Gru\u00df",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Heike",
+                "function": "Vorst\u00e4ndin Anlagen- und Instandhaltungsmanagement",
+                "lastName": "Junge-Latz",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Jens",
+                "function": "Vorstand Finanzen und Controlling",
+                "lastName": "Bergmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Heinz",
+                "function": "Vorstand Personal",
+                "lastName": "Siegmund",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Ingrid",
+                "function": "Vorst\u00e4ndin Infrastrukturplanung und -projekte",
+                "lastName": "Felipe Saint Hilaire",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Ralf",
+                "function": "Vorstand Personenbahnh\u00f6fe",
+                "lastName": "Thieme",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "membershipsPresent": false,
+        "name": "DB InfraGO AG"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "LuFV BKZ BschwAG",
+                "location": "Berlin",
+                "name": " Bundesrepublik Deutschland",
+                "publicAllowanceEuro": {
+                    "from": 5179900001,
+                    "to": 5179910000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Sonstige BKZ BSchwAG\r\n",
+                "location": "Berlin",
+                "name": "Bundesrepublik Deutschland",
+                "publicAllowanceEuro": {
+                    "from": 1880950001,
+                    "to": 1880960000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Ma\u00dfnahmen zur L\u00e4rmsanierung\r\nL\u00e4rmsanierung an bestehenden Schienenwegen des Bundes vom 07.03.2005 bzw. seit 01.01.2019 die gleichnamige neue Richtlinie.",
+                "location": "Berlin ",
+                "name": "Bundesrepublik Deutschland",
+                "publicAllowanceEuro": {
+                    "from": 149250001,
+                    "to": 149260000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Gemeindeverkehrsfinanzierungsgesetz (GVFG)\r\n",
+                "location": "Berlin ",
+                "name": "Bundesrepublik Deutschland",
+                "publicAllowanceEuro": {
+                    "from": 430060001,
+                    "to": 430070000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "EG-VO 1192/69 Anl. IV (H\u00f6hengleiche Kreuzungen)\r\n",
+                "location": "Berlin ",
+                "name": "Bundesrepublik Deutschland",
+                "publicAllowanceEuro": {
+                    "from": 101380001,
+                    "to": 101390000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "BEN\r\nBaukostenzusch\u00fcsse f\u00fcr Investitionen in die Schienenwege der Eisenbahnen des Bundes zur Beseitigung von Engp\u00e4ssen im Nahverkehr",
+                "location": "Berlin ",
+                "name": "Bundesrepublik Deutschland",
+                "publicAllowanceEuro": {
+                    "from": 14730001,
+                    "to": 14740000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Aufrechterhaltung v. Strecken u. Verladeanlagen ",
+                "location": "Berlin ",
+                "name": "Bundesrepublik Deutschland ",
+                "publicAllowanceEuro": {
+                    "from": 930001,
+                    "to": 940000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Baukostenzusch\u00fcsse f\u00fcr F\u00f6rderinitiative \"Elektrische G\u00fcterbahn\"",
+                "location": "Berlin",
+                "name": "Bundesrepublik Deutschland",
+                "publicAllowanceEuro": {
+                    "from": 1680001,
+                    "to": 1690000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Baukostenzusch\u00fcsse f\u00fcr die Beseitigung von Starkregen- und Hochwassersch\u00e4den im Jahr 2021",
+                "location": "Berlin",
+                "name": "Bundesrepublik Deutschland",
+                "publicAllowanceEuro": {
+                    "from": 140640001,
+                    "to": 140650000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "ERTMS\r\nBaukostenzusch\u00fcsse zur ERTMS European Rail Traffic Management System  Ausr\u00fcstung deutscher Anteile am transeurop\u00e4ischen Schienennetz.",
+                "location": "Berlin",
+                "name": "Bundesrepublik Deutschland",
+                "publicAllowanceEuro": {
+                    "from": 237810001,
+                    "to": 237820000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "FAAB\r\nF\u00f6rderinitiative zur Attraktivit\u00e4tssteigerung und Barrierefreiheit von Bahnh\u00f6fen (FABB)\r\n",
+                "location": "Berlin",
+                "name": "Bundesrepublik Deutschland",
+                "publicAllowanceEuro": {
+                    "from": 47550001,
+                    "to": 47560000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Baukostenzusch\u00fcsse f\u00fcr Investitionen in die Schienenwege der Eisenbahnen des Bundes f\u00fcr Bedarfsplanma\u00dfnahmen gem\u00e4\u00df Anlage 4 und 5 Investitionsgesetz Kohleregionen - InvKG",
+                "location": "Berlin",
+                "name": "Bundesrepublik Deutschland",
+                "publicAllowanceEuro": {
+                    "from": 9700001,
+                    "to": 9710000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Digitale Testfelder in H\u00e4fen, an Wasserstra\u00dfen und Bahnstrecken\r\nBaukostenzusch\u00fcsse f\u00fcr Digitale Testfelder an Bahnstrecken Grundlagen:\r\nIm Jahr 2020 wurden Baukostenzusch\u00fcsse des Bundes aus Kapitel 1204 Titel 892 01 gew\u00e4hrt.",
+                "location": "Berlin",
+                "name": "Bundesrepublik Deutschland",
+                "publicAllowanceEuro": {
+                    "from": 3280001,
+                    "to": 3290000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "CEF-Mittel\r\nF\u00fcr priorit\u00e4re Ma\u00dfnahmen zum Ausbau des Transeurop\u00e4ischen Netzes wurden EU-F\u00f6rdermittel - Connecting Europe Fazilit\u00e4t (CEF-Mittel) ausbezahlt.",
+                "location": "Br\u00fcssel",
+                "name": "EU",
+                "publicAllowanceEuro": {
+                    "from": 180210001,
+                    "to": 180220000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Gemeindeverkehrsfinanzierungsgesetz \r\nBaden-W\u00fcrttemberg 34.751.403 \r\nBayern 39.531.378 Berlin 0 Brandenburg 216.557 Bremen 43.185 Hamburg 0 Hessen 68.438.975 Mecklenburg-Vorpommern 0 Niedersachsen 950.265 Nordrhein-Westfalen 166.958.682 Rheinland-Pfalz 35.907.006 Saarland 201.344 Sachsen 2.678.820 Sachsen-Anhalt 904.271 Schleswig-Holstein 21.707.246 Th\u00fcringen 0",
+                "location": "Divers",
+                "name": "Bundesl\u00e4nder",
+                "publicAllowanceEuro": {
+                    "from": 372280001,
+                    "to": 372290000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Andere Zusch\u00fcsse Gemeinden, Landkreise, Stra\u00dfenbaulasttr\u00e4ger, Zweckverb\u00e4nde\r\n",
+                "location": "Divers",
+                "name": "Gemeinden, Landkreise, Stra\u00dfenbaulasttr\u00e4ger, Zweckverb\u00e4nde, weitere",
+                "publicAllowanceEuro": {
+                    "from": 489700001,
+                    "to": 489710000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Andere Zusch\u00fcsse L\u00e4nder\r\nBaden-W\u00fcrttemberg 58.205.426,50 \u20ac \r\nBayern 147.241.142,86 \u20ac \r\nBerlin 22.697.510,02 \u20ac \r\nBrandenburg 12.789.472,69 \u20ac \r\nBremen 2.545.502,16 \u20ac \r\nHamburg 0 \u20ac \r\nHessen 1.787.485,69 \u20ac \r\nMecklenburg-Vorpommern 2.475.616,28 \u20ac \r\nNiedersachsen 10.362.899,95 \u20ac \r\nNordrhein-Westfalen 0 \u20ac \r\nRheinland-Pfalz 2.767.681,42 \u20ac \r\nSaarland 5.637.281,28 \u20ac \r\nSachsen 1.500.000,00 \u20ac \r\nSachsen-Anhalt 8.874.867,20 \u20ac \r\nSchleswig-Holstein 794.668,68 \u20ac \r\nTh\u00fcringen 3.532.564,00 \u20ac ",
+                "location": "Divers",
+                "name": "Weitere Zuschussgeber",
+                "publicAllowanceEuro": {
+                    "from": 281210001,
+                    "to": 281220000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Strukturst\u00e4rkungsgesetz (StStG)\r\n",
+                "location": "Berlin",
+                "name": " Bundesrepublik Deutschland",
+                "publicAllowanceEuro": {
+                    "from": 900001,
+                    "to": 910000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Deutschlandtakt \r\n",
+                "location": "Berlin",
+                "name": " Bundesrepublik Deutschland",
+                "publicAllowanceEuro": {
+                    "from": 6620001,
+                    "to": 6630000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "KaZuNovum F\u00f6rdermittel (CEF II-Mittel)\r\nBaukostenzusch\u00fcsse des Europ\u00e4ischen Fonds f\u00fcr die regionale Entwick-lung der Verkehrsinfrastruktur (EU-EFRE-Mittel)\r\n",
+                "location": "Br\u00fcssel",
+                "name": "EU",
+                "publicAllowanceEuro": {
+                    "from": 2070001,
+                    "to": 2080000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Andere Zusch\u00fcsse EU - Digitalisierung Bahnbetrieb\r\nBaukostenzusch\u00fcsse des Europ\u00e4ischen Fonds f\u00fcr die regionale Entwick-lung der Verkehrsinfrastruktur (EU-EFRE-Mittel)\r\n",
+                "location": "Br\u00fcssel",
+                "name": "EU",
+                "publicAllowanceEuro": {
+                    "from": 1130001,
+                    "to": 1140000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Andere Zusch\u00fcsse EU - HORIZON 2020\r\nBaukostenzusch\u00fcsse des Europ\u00e4ischen Fonds f\u00fcr die regionale Entwicklung der Verkehrsinfrastruktur (EU-EFRE-Mittel)",
+                "location": "Br\u00fcssel",
+                "name": "EU",
+                "publicAllowanceEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "EU-Europes Rail \r\n",
+                "location": "Br\u00fcssel",
+                "name": "EU",
+                "publicAllowanceEuro": {
+                    "from": 360001,
+                    "to": 370000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            },
+            {
+                "description": "Shift 2 Rail\r\n",
+                "location": "Br\u00fcssel",
+                "name": "EU",
+                "publicAllowanceEuro": {
+                    "from": 140001,
+                    "to": 150000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R001379/43376",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-26T12:40:03.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/c3/ed/348857/Lobbyregister-Detailansicht-R001379-2024-08-30_09-51-02.pdf",
+        "validFromDate": "2024-08-30T09:51:02.000+02:00",
+        "version": 12
+    },
+    "registerEntryId": 43376,
+    "registerNumber": "R001379",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die DB InfraGO AG unterst\u00fctzt den Vorschlag der Europ\u00e4ischen\r\nKommission zu einer EU-Kapazit\u00e4tsverordnung\r\n(Vorschlag f\u00fcr eine Verordnung des Europ\u00e4ischen\r\nParlaments und des Rates \u00fcber die Nutzung von\r\nFahrwegkapazit\u00e4t der Eisenbahn im einheitlichen\r\neurop\u00e4ischen Eisenbahnraum, zur \u00c4nderung der\r\nRichtlinie 2012/34/EU und zur Aufhebung der\r\nVerordnung (EU) Nr. 913/2010 - (KOM(2023) 443 vom\r\n11.07.2023) grunds\u00e4tzlich. Anpassungsbedarf besteht\r\nbei der Ausnahme von bestimmten\r\nKapazit\u00e4ts\u00e4nderungen von der Kompensationspflicht\r\nund der Anwendung sozio-\u00f6konomischer Kriterien auf\r\ndie Aufteilung knapper Kapazit\u00e4t.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_RAIL",
+                        "de": "Schienenverkehr",
+                        "en": "Rail transportation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006309",
+                "statements": [],
+                "title": "Anpassungen bei der Einf\u00fchrung der EU-Kapazit\u00e4tsverordnung"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "TKG",
+                        "title": "Telekommunikationsgesetz",
+                        "url": "https://www.gesetze-im-internet.de/tkg_2021"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die DB InfraGO AG setzt sich f\u00fcr die Beschr\u00e4nkung der\r\nMitwirkungspflicht f\u00fcr den Betreiber der Schienenwege in\r\n\u00a7 106 auf die Mitnutzung vorhandener Anlagen ein.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://bmdv.bund.de/SharedDocs/DE/Anlage/Gesetze/Gesetze-20/gesetz-beschleunigung-ausbau-telekommunikationsnetze.pdf?__blob=publicationFile",
+                            "draftBillProjectUrl": "https://bmdv.bund.de/SharedDocs/DE/Gesetze-20/gesetz-beschleunigung-ausbau-telekommunikationsnetze.html?nn=508840",
+                            "shortTitle": "BMDV",
+                            "title": "Bundesministerium f\u00fcr Digitales und Verkehr",
+                            "url": "https://bmdv.bund.de/DE/Home/home.html"
+                        }
+                    ],
+                    "publicationDate": "2023-08-28",
+                    "title": "Entwurf eines Gesetzes zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_MEDIA",
+                        "de": "Medien, Kommunikation und Informationstechnik",
+                        "en": "Media, communication and information technology"
+                    },
+                    {
+                        "code": "FOI_MEDIA_COMMUNICATION",
+                        "de": "Kommunikations- und Informationstechnik",
+                        "en": "Communication and information technology"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_RAIL",
+                        "de": "Schienenverkehr",
+                        "en": "Rail transportation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006310",
+                "statements": [],
+                "title": "Praxisgerechte Umsetzung des TK-Netzausbau- Beschleunigungsgesetzes"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "AEG",
+                        "title": "Allgemeines Eisenbahngesetz",
+                        "url": "https://www.gesetze-im-internet.de/aeg"
+                    },
+                    {
+                        "shortTitle": "EBKrG",
+                        "title": "Gesetz \u00fcber Kreuzungen von Eisenbahnen und Stra\u00dfen",
+                        "url": "https://www.gesetze-im-internet.de/ebkrg"
+                    },
+                    {
+                        "shortTitle": "EIGV",
+                        "title": "Verordnung \u00fcber die Erteilung von Inbetriebnahmegenehmigungen f\u00fcr das Eisenbahnsystem",
+                        "url": "https://www.gesetze-im-internet.de/eigv"
+                    },
+                    {
+                        "shortTitle": "ABBV",
+                        "title": "Verordnung zur Berechnung von Abl\u00f6sungsbetr\u00e4gen nach dem Eisenbahnkreuzungsgesetz, dem Bundesfernstra\u00dfengesetz und dem Bundeswasserstra\u00dfengesetz",
+                        "url": "https://www.gesetze-im-internet.de/abbv"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die Empfehlungen der Beschleunigungskommission\r\nSchienen (BKS) sollen in einem Moderne-Schiene-\r\nGesetz (MoSchG) umgesetzt werden. Im MoSchG\r\nk\u00f6nnten auch weitere praxisrelevante Erg\u00e4nzungen und\r\nKorrekturen an bestehenden Regelungen erfolgen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_TRANSPORTATION",
+                        "de": "Verkehr",
+                        "en": "Transportation"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                        "de": "Verkehrsinfrastruktur",
+                        "en": "Infrastructure"
+                    },
+                    {
+                        "code": "FOI_TRANSPORTATION_RAIL",
+                        "de": "Schienenverkehr",
+                        "en": "Rail transportation"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0006311",
+                "statements": [],
+                "title": "Einf\u00fchrung des Moderne-Schiene-Gesetzes"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [],
+        "statementsPresent": false
+    }
+}

@@ -1,0 +1,766 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-21T12:04:04.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-23T11:48:14.000+01:00",
+        "lastUpdateDate": "2024-06-30T11:13:14.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 39157,
+                "validFromDate": "2024-06-30T11:13:14.000+02:00",
+                "version": 11,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 37204,
+                "validFromDate": "2024-06-20T17:03:24.000+02:00",
+                "validUntilDate": "2024-06-30T11:13:14.000+02:00",
+                "version": 10,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22763,
+                "validFromDate": "2023-06-30T12:30:48.000+02:00",
+                "validUntilDate": "2024-06-20T17:03:24.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22200,
+                "validFromDate": "2023-06-25T06:31:24.000+02:00",
+                "validUntilDate": "2023-06-30T12:30:48.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22060,
+                "validFromDate": "2023-06-22T06:45:40.000+02:00",
+                "validUntilDate": "2023-06-25T06:31:24.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16810,
+                "validFromDate": "2023-02-21T12:04:04.000+01:00",
+                "validUntilDate": "2023-06-22T06:45:40.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Die agl f\u00f6rdert die Eine Welt-Arbeit in Deutschland, insbesondere der Basisgruppen und der kleinen Nichtregierungsorganisationen sowie ihrer Netzwerke auf Ebene der Kommunen und der Bundesl\u00e4nder. Dies erfolgt u.a. durch Interessenvertretung auf Bundesebene, durch Koordination, Bildungsarbeit und Service. Die agl b\u00fcndelt hierzu Aktivit\u00e4ten und Impulse aus den Eine Welt-Landesnetzwerken. Die agl setzt sich insbesondere f\u00fcr die St\u00e4rkung der entwicklungspolitischen Bildungsarbeit im Inland und von internationaler Partnerschaftsarbeit ein und f\u00f6rdert diese selbst durch (vorwiegend dezentrale) Aktivit\u00e4ten und Projekte. Die agl setzt sich f\u00fcr die finanzielle F\u00f6rderung vor allem zivilgesellschaftlicher Projekte im Bundeshaushalt ein.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_OTHER",
+                "de": "Sonstiges im Bereich \"Umwelt\"",
+                "en": "Other in the field of \"Environment\""
+            },
+            {
+                "code": "FOI_RPI_MIGRATION",
+                "de": "Migration",
+                "en": "Migration and residence"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_REFUGEE_INTEGRATION_POLICY",
+                "de": "Migration, Fl\u00fcchtlingspolitik und Integration",
+                "en": "Migration, refugee policy and integration"
+            },
+            {
+                "code": "FOI_RPI_REFUGEE",
+                "de": "Asyl und Fl\u00fcchtlingsschutz",
+                "en": "Asylum and refugee protection"
+            },
+            {
+                "code": "FOI_FA_INTERNATIONAL",
+                "de": "Internationale Beziehungen",
+                "en": "International relations"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_FA_BRD",
+                "de": "Au\u00dfenpolitik",
+                "en": "Foreign policy of the federal republic of Germany"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_FA_OTHER",
+                "de": "Sonstiges im Bereich \"Au\u00dfenpolitik und internationale Beziehungen\"",
+                "en": "Other in the field of \"Foreign policy and international relations\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_EP_CHILDHOOD",
+                "de": "Vorschulische Bildung",
+                "en": "Early childhood education"
+            },
+            {
+                "code": "FOI_RPI_OTHER",
+                "de": "Sonstiges im Bereich \"Migration, Fl\u00fcchtlingspolitik und Integration\"",
+                "en": "Other in the field of \"Migration, refugee policy and integration\""
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/c4/92/326810/AGL-Einnahmen-und-Ausgaben_2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.05,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "AGL e.V.",
+            "street": "Am Sudhaus",
+            "streetNumber": "2",
+            "type": "NATIONAL",
+            "zipCode": "12053"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "geschaeftsfuehrung@agl-einewelt.de"
+                }
+            ],
+            "phoneNumber": "+493023462514",
+            "websites": [
+                {
+                    "website": "www.agl-einewelt.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Simon",
+                "lastName": "Ramirez-Voltaire",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Monika",
+                "lastName": "D\u00fclge",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Katrin",
+                "lastName": "Beckedorf",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Ulrike",
+                "lastName": "Dausend",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Alexander",
+                "lastName": "Fonari",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Martin",
+                "lastName": "Weber",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Tobias",
+                "lastName": "Peter",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Christiane",
+                "lastName": "Christoph",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Monika",
+                "function": "Vorstandsvorsitzende",
+                "lastName": "D\u00fclge",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Katrin",
+                "function": "Stellv. Vorstandsvorsitzende",
+                "lastName": "Beckedorf",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Ulrike",
+                "function": "Stellv. Vorstandsvorsitzende",
+                "lastName": "Dausend",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "entrustedPerson": true,
+                "firstName": "Alexander",
+                "function": "Stellv. Vorstandsvorsitzender",
+                "lastName": "Fonari",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Martin",
+                "function": "Vorstandsvorsitzender",
+                "lastName": "Weber",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": true,
+                "firstName": "Christiane",
+                "function": "Stellv. Vorstandsvorsitzende",
+                "lastName": "Christoph",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-17",
+            "naturalPersons": 5,
+            "organizations": 17,
+            "totalCount": 22
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Verband Entwicklungspolitik und Humanit\u00e4re Hilfe e.V. (VENRO)"
+            },
+            {
+                "membership": "Klima-Allianz Deutschland"
+            },
+            {
+                "membership": "Bundesnetzwerk B\u00fcrgerschaftliches Engagement (BBE)"
+            },
+            {
+                "membership": "Allianz \"Rechtssicherheit f\u00fcr politische Willensbildung\" e.V."
+            },
+            {
+                "membership": "Initiative Lieferkettengesetz"
+            },
+            {
+                "membership": "Global Call to Action Against Poverty (GCAP)"
+            },
+            {
+                "membership": "Berlin Global Village"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Arbeitsgemeinschaft der Eine Welt-Landesnetzwerke in Deutschland e.V. (AGL)"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 50001,
+            "to": 60000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Projektf\u00f6rderung \"Eine Welt-Promotor*innen-Programm\"",
+                "location": "Bonn / Berlin",
+                "name": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung / Engagement Global",
+                "publicAllowanceEuro": {
+                    "from": 4830001,
+                    "to": 4840000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projektf\u00f6rderung \"Eine Welt-Promotor*innen-Programm Th\u00fcringen 2023\"",
+                "location": "Erfurt",
+                "name": "Th\u00fcringer Staatskanzlei",
+                "publicAllowanceEuro": {
+                    "from": 110001,
+                    "to": 120000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R000997/39157",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-20T17:03:24.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/d1/65/326813/Lobbyregister-Detailansicht-R000997-2024-06-30_11-13-14.pdf",
+        "validFromDate": "2024-06-30T11:13:14.000+02:00",
+        "version": 11
+    },
+    "registerEntryId": 39157,
+    "registerNumber": "R000997",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Die agl setzt sich f\u00fcr die im Bundeshaushalt zur Verf\u00fcgung stehenden Mittel in den Bereichen Entwicklungspolitik und humanit\u00e4re Hilfe ein. Besonderes Augenmerk liegt bei der F\u00f6rderung zivilgesellschaftlicher Projekte in der entwicklungspolitischen Bildung, der Auslands- und Projektarbeit.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_DEVELOPMENT_POLICY",
+                        "de": "Entwicklungspolitik",
+                        "en": "Development policy"
+                    },
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_BRD",
+                        "de": "Au\u00dfenpolitik",
+                        "en": "Foreign policy of the federal republic of Germany"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0003662",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/8b/bd/301993/Stellungnahme-Gutachten-SG2406170003.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMZ",
+                                        "de": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                                        "en": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-16"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0003662",
+                        "regulatoryProjectTitle": "Bundeshaushalt",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": " #GutF\u00fcrAlle: F\u00fcr eine starke Entwicklungspolitik \r\nDie agl appelliert dringend an Bundesregierung und Bundestag, die Etats des Bundesministeriums f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) und des Ausw\u00e4rtigen Amtes (AA) angemessen auszustatten. Angesichts der instabilen Weltlage f\u00fchrt Sparen im Bereich der Globalen Solidarit\u00e4t in die falsche Richtung. \r\n\r\n\u201eEntwicklungszusammenarbeit unterst\u00fctzt nicht nur andere L\u00e4nder, sondern st\u00e4rkt auch den weltgesellschaftlichen demokratischen Zusammenhalt. Dieser ist angesichts der vielen Krisen und Konflikte auf der Welt instabil geworden, was am Ende auch Deutschland schadet. Auch wir haben Interesse an guten, stabilen internationalen Beziehungen, und sind gut beraten, diese positiv im Sinne von Gerechtigkeit, offenen Gesellschaften und Frieden mitzugestalten, damit unser Planet zukunftsf\u00e4hig wird. Die Weltregionen und ihre Krisen sind eng verflochten \u2013 wenn an vielen Stellen Demokratie geschw\u00e4cht wird, ist sie auch hierzulande bedroht. Die vielzitierte \u201aZeitenwende\u2018 muss als Ganzes gedacht werden \u2013 Nachhaltigkeit, Demokratie, Frieden und Sicherheit sind eng miteinander und global verbunden. Es geht um die ganze Welt, Entwicklungspolitik ist gut f\u00fcr alle\u201c, so Martin Weber vom agl-Vorstand. \r\n\r\nWenn Deutschland an seiner globalen Verantwortung festh\u00e4lt, dann investiert es daher in die Voraussetzungen f\u00fcr die eigene gute Entwicklung, die eigene demokratische Stabilit\u00e4t, die eigene Zukunftsf\u00e4higkeit. Die geplanten K\u00fcrzungen w\u00fcrden dagegen bedeuten, dass sich Deutschland St\u00fcck f\u00fcr St\u00fcck seiner Verantwortung entzieht. Damit w\u00fcrde sich Deutschland in einem Europawahljahr vom Sinn des europ\u00e4ischen Friedensprojektes und einem seiner Kernthemen, der globalen historischen Verantwortung Europas, entfernen und sich am Ende selbst schaden. Auch ist es eine historische und humanit\u00e4re Pflicht als Industrieland, Hunger und Armut in der Welt zu lindern, so die agl. \r\n\r\nDie agl, in der die 16 Eine Welt-Landesnetzwerke mit tausenden Initiativen, Gruppen und Vereinen vernetzt sind, appelliert daher an die Bundesregierung, bei den Etats von BMZ und AA nicht zu k\u00fcrzen. F\u00fcr eine nachhaltige und demokratische globale Entwicklung ist zudem eine aktive und teilhabende Zivilgesellschaft essenziell. \r\n\r\nDeshalb ist die St\u00e4rkung der Zivilgesellschaft, deren Projekte aus diesen Haushaltstiteln gef\u00f6rdert werden, jetzt besonders wichtig. \u201eZivilgesellschaftliche Projekte, meist langj\u00e4hrig aufgebaut und Grundstein guter Vertrauensbeziehungen im In- und Ausland, d\u00fcrfen und k\u00f6nnen nicht einfach heruntergefahren werden, ohne gro\u00dfe Sch\u00e4den anzurichten. Die ohnehin in vielen L\u00e4ndern unter Druck geratene Zivilgesellschaft in diesen Zeiten weiter zu schw\u00e4chen, untergr\u00e4bt die Fundamente demokratischer Gesellschaften und die notwendigen Ver\u00e4nderungen zu nachhaltigen Lebensweisen. Wir m\u00fcssen hierzu eine klare Haltung zeigen\u201c, so Monika D\u00fclge vom agl-Vorstand. \r\nEin Bereich, in dem sich Zivilgesellschaft in Deutschland wirkungsvoll f\u00fcr demokratische globale Entwicklung und klimagerechte Transformation einsetzt, ist die entwicklungspolitische Inlands- und Bildungsarbeit. Viele B\u00fcrger*innen setzen sich \u2013 auch und gerade in Krisenzeiten \u2013 f\u00fcr globale Solidarit\u00e4t und f\u00fcr nachhaltigen Wandel im eigenen Land ein. Diese Arbeit muss jetzt, ebenso wie Projekte im Ausland, entschieden weitergef\u00f6rdert und gest\u00e4rkt werden. \r\n\u201eEs ist falsch, bei der globalen Solidarit\u00e4t zu k\u00fcrzen. Zu glauben oder die Ansicht zu verbreiten, es gehe dabei allein um Philanthropie, die nicht unbedingt n\u00f6tig f\u00fcr das eigene Wohl sei, ist fatal. Die Bedeutung von Entwicklungszusammenarbeit f\u00fcr die notwendigen Transformationen zu global nachhaltiger Entwicklung darf nicht untersch\u00e4tzt werden.\u201c, so die agl.\r\n"
+                        }
+                    }
+                ],
+                "title": "Bundeshaushalt"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Das derzeitige internat. Steuersystem erm\u00f6glicht es gro\u00dfen Unternehmen und sehr reichen Individuen, Steuern zum gro\u00dfen Teil zu vermeiden oder zu hinterziehen. Gelder, die gebraucht w\u00fcrden, um Gemeinschaftsaufg. zu finanzieren. Das ist ein Problem f\u00fcr Deutschland und Europa \u2013 und noch st\u00e4rker f\u00fcr L\u00e4nder des Globalen S\u00fcdens. Die Bilanz f\u00fcr die Umsetzung der Sustainable Development Goals ist sehr unzureichend. In vielen L\u00e4ndern fehlen die finanz. Ressourcen f\u00fcr eine effektive Umsetzung. Dazu tragen in erhebl. Ma\u00df Schuldenkrise und ungerechte internat. Steuerpolitik bei. Eine gerechte internat. Steuerpolitik ist daher eine wichtige Stellschraube, um die SDGs noch erreichen zu k\u00f6nnen. Deutschland soll sich f\u00fcr eine entspr. UN-Steuerkonvention und ein umfassendes, verbindl. Rahmenwerk einsetzen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_INTERNATIONAL",
+                        "de": "Internationale Beziehungen",
+                        "en": "International relations"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_DEVELOPMENT_POLICY",
+                        "de": "Entwicklungspolitik",
+                        "en": "Development policy"
+                    },
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SPECIES",
+                        "de": "Artenschutz/Biodiversit\u00e4t",
+                        "en": "Species protection/biodiversity"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0010472",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/bd/9b/326811/Stellungnahme-Gutachten-SG2406270146.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_AA",
+                                        "de": "Ausw\u00e4rtiges Amt (AA)",
+                                        "en": "Ausw\u00e4rtiges Amt (AA)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                        "de": "Bundeskanzleramt (BKAmt)",
+                                        "en": "Bundeskanzleramt (BKAmt)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                        "de": "Bundesministerium der Finanzen (BMF)",
+                                        "en": "Bundesministerium der Finanzen (BMF)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMZ",
+                                        "de": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                                        "en": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-20"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0010472",
+                        "regulatoryProjectTitle": "UN-Steuerkonvention, internationale Steuerregeln",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Forderungspapier zur UN-Steuerkonvention  \r\n\r\nDeutschland muss sich f\u00fcr faire internationale Steuerregeln \r\nf\u00fcr multinationale Konzerne und gro\u00dfe Verm\u00f6gen einsetzen \r\n\r\nDas derzeitige internationale Steuersystem erm\u00f6glicht es gro\u00dfen Unternehmen \r\nund sehr reichen Individuen, Steuern zum gro\u00dfen Teil zu vermeiden oder zu \r\nhinterziehen. Gelder, die eigentlich gebraucht w\u00fcrden, um \r\nGemeinschaftsaufgaben zu finanzieren. Das ist ein Problem f\u00fcr Deutschland und \r\nEuropa \u2013 und noch st\u00e4rker f\u00fcr L\u00e4nder des Globalen S\u00fcdens. \r\n\r\nUnsere Forderungen im Kurz\u00fcberblick: \r\n\r\n\u2022 Deutschland soll sich an den Verhandlungen zu einer UN-Steuerkonvention \r\naktiv und konstruktiv beteiligen und sich f\u00fcr ein umfassendes, verbindliches \r\nRahmenwerk und einen offenen Prozess einsetzen. \r\n \r\n\r\n\u2022 Gro\u00dfe multinationale Unternehmen, inklusive der gro\u00dfen Digitalkonzerne, \r\nsollten mindestens genauso viele Steuern zahlen wie ihre kleineren, nationalen \r\nKonkurrenten, und zwar dort wo sie aktiv sind. \r\n \r\n\r\n\u2022 \u00dcberschussgewinne sollten mit einem progressiven Steuersatz abgesch\u00f6pft \r\nwerden. \r\n \r\n\r\n\u2022 Es braucht ein globales Abkommen, das daf\u00fcr sorgt, dass Milliard\u00e4r:innen \r\nmindestens 2% Steuern auf ihre Verm\u00f6gen zahlen und das Steuerflucht effektiv \r\nbek\u00e4mpft. \r\n \r\n\r\n\u2022 Um effektiv gegen komplexe Geldw\u00e4sche vorzugehen, braucht es eine \r\nErmittlungseinheit f\u00fcr Finanzkriminalit\u00e4t in Deutschland sowie ein \r\numfassendes europ\u00e4isch vernetztes Transparenzregister. \r\n \r\n\r\nDie Bilanz f\u00fcr die Umsetzung der Agenda 2030 ist katastrophal: Nur 18% der 17 Ziele f\u00fcr \r\nnachhaltige Entwicklung (Sustainable Development Goals, SDGs) k\u00f6nnen nach \r\nderzeitigem Stand bis 2030 erreicht werden.1 Neben unzureichendem politischen Willen \r\nvieler Regierungen fehlen in vielen L\u00e4ndern die finanziellen Ressourcen f\u00fcr eine effektive Umsetzung. \r\nDazu tragen in erheblichem Ma\u00df die Schuldenkrise und eine ungerechte \r\ninternationale Steuerpolitik bei.  \r\n\r\nF\u00fcr Staaten sind Steuervermeidung und Gewinnverschiebung von Unternehmen \r\ngenauso wie Steuerhinterziehung und grenz\u00fcberschreitende illegale Finanzstr\u00f6me \r\neinkommensmindernd. Dadurch fehlen wichtige Mittel f\u00fcr \u00f6ffentliche Investitionen. \r\nMangelnde finanzielle Transparenz und Rechenschaftspflicht sowie die Gew\u00e4hrung \r\ngro\u00dfz\u00fcgiger Steuererleichterungen sind ein wichtiger Teil des Problems. Insbesondere in \r\nL\u00e4ndern des Globalen S\u00fcdens gehen dadurch betr\u00e4chtliche Mittel verloren, die zur \r\nErreichung der SDGs eingesetzt werden k\u00f6nnten. Sch\u00e4tzungen zufolge verlieren Staaten \r\nin Afrika j\u00e4hrlich allein durch Kapitalflucht fast 90 Milliarden US-Dollar. Das ist fast die \r\nH\u00e4lfte der Mittel, die f\u00fcr die Erreichung der SDGs ben\u00f6tigt werden. \r\n\r\n \r\n\r\nEine gerechte internationale Steuerpolitik ist daher eine wichtige Stellschraube, um \r\ndie SDGs noch erreichen zu k\u00f6nnen \u2013 in Deutschland und weltweit. \r\n\r\nIn der Agenda 2030 wird Steuergerechtigkeit an mehreren Stellen explizit als Ziel \r\ngenannt: Alle L\u00e4nder sollen in die Lage versetzt werden, \u00fcber Steuern eigene Einnahmen \r\nzu generieren und damit die grundlegenden \u00f6ffentlichen Aufgaben zu finanzieren (17.1). \r\nAuch sollen Ungleichheiten innerhalb und zwischen Staaten verringert und daf\u00fcr der \r\nAusgleich \u00fcber die Fiskalpolitik, also Steuereinnahmen und Staatsausgaben, gest\u00e4rkt \r\nwerden (10.4). Die effektive Bek\u00e4mpfung illegaler Finanzstr\u00f6me wird ebenfalls in der \r\nAgenda gefordert (16.4). Trotz dieser 2015 gesetzten Ziele ist bislang nicht genug \r\npassiert.  \r\n\r\n \r\n\r\nWarum ist das Thema Steuergerechtigkeit in und f\u00fcr Deutschland wichtig? \r\n\r\nDeutschland ist ein attraktives Ziel f\u00fcr schmutziges Geld aus der ganzen Welt und liegt \r\nauf Platz 7 im globalen Schattenfinanzindex (Financial Secrecy Index).3 Geldw\u00e4sche \r\nschw\u00e4cht unsere Wirtschaft und Politik und hat gleichzeitig gro\u00dfe Auswirkungen auf \r\nL\u00e4nder des Globalen S\u00fcdens. Illegale Finanzstr\u00f6me untergraben staatliche \r\nBem\u00fchungen Mittel f\u00fcr Investitionen in Sozialsysteme, Gesundheit, Bildung und andere \r\n\u00f6ffentliche Infrastruktur zu mobilisieren, f\u00f6rdern Korruption und organisierte Kriminalit\u00e4t \r\nund gef\u00e4hrden dadurch Stabilit\u00e4t und Legitimit\u00e4t. Deutschland muss seine \r\nFinanzkriminalit\u00e4tsbek\u00e4mpfung deutlich verbessern, um illegale Finanzstr\u00f6me zu \r\nunterbinden und damit zu verhindern, dass in anderen L\u00e4ndern illegal erwirtschaftete \r\nGelder in Deutschland gewaschen und angelegt werden. \r\n\r\nUnter dem Druck der Globalisierung und der Drohung von Steuerflucht hat sich der \r\nSteuersatz der Superreichen in Deutschland in den letzten 30 Jahren etwa halbiert. Ein \r\ntypischer Multimillion\u00e4r zahlt hierzulande mit 24 % (inkl. Sozialabgaben und \r\nUnternehmenssteuern) nur die H\u00e4lfte des Reichensteuersatzes von 47,5\u2006% (inkl. Soli).4 \r\nDenn Superreiche leben vor allem von Kapitaleink\u00fcnften, f\u00fcr die zahlreiche Privilegien \r\ngeschaffen wurden. Das ist nicht nur ungerecht angesichts der h\u00f6heren Abgaben von \r\nNormalverdienenden, sondern diese Steuerprivilegien f\u00fchren auch dazu, dass dem \r\nStaat einer Sch\u00e4tzung zufolge j\u00e4hrlich 75 Milliarden Euro fehlen, die f\u00fcr die \r\nsozial\u00f6kologische Transformation gebraucht w\u00fcrden.5  \r\n\r\nDeutschland profitiert deswegen ebenso wie L\u00e4nder des Globalen S\u00fcdens von \r\nglobalen Abkommen, die illegitime Finanzfl\u00fcsse bek\u00e4mpfen und eine gerechtere \r\nBesteuerung gro\u00dfer Konzerne und Verm\u00f6gen erm\u00f6glichen. Eine UN-\r\nSteuerkonvention ist der lange \u00fcberf\u00e4llige n\u00e4chste Schritt in diese Richtung. Wenn \r\nDeutschland eine Vorreiterrolle im Bereich der Nachhaltigkeitspolitik einnehmen \r\nm\u00f6chte, so muss es diese aktiv vorantreiben. \r\n\r\n \r\n\r\nWAS WIR VON DER BUNDESREGIERUNG FORDERN: \r\n\r\nAktiver Einsatz f\u00fcr eine umfassende UN-Steuerkonvention \r\n\r\nIm November 2023 wurde in der UN-Generalversammlung \u00fcber die Erarbeitung einer \r\nKonvention zur internationalen Steuerkooperation abgestimmt. 128 L\u00e4nder stimmten \r\ndaf\u00fcr und 48 dagegen (darunter Deutschland sowie zahlreiche EU/OECD-Staaten). Die \r\nablehnenden Staaten machen jedoch nur 15% der Weltbev\u00f6lkerung aus.  \r\n\r\n\u2022 Um eine demokratische, transparente und faire internationale \r\nSteuergovernance mit den Vereinten Nationen als zentralem Gremium zu \r\nschaffen, muss Deutschland die Verhandlungen zu einer UN-Steuerkonvention \r\naktiv und konstruktiv vorantreiben und die Teilnahme insbesondere von \r\nNiedrigeinkommensl\u00e4ndern (ggf. finanziell) unterst\u00fctzen \r\n\r\n\u2022 Deutschland soll sich f\u00fcr die UN-Steuerkonvention als umfassendes und \r\nverbindliches Rahmenwerk f\u00fcr die internationale Besteuerung einsetzen, das \r\nauch bestehende Bem\u00fchungen beim Kampf gegen illegitime Finanzfl\u00fcsse, beim \r\nInformationsaustausch und bei der Besteuerung multinationaler Konzerne \r\nkonsolidiert und weiterentwickelt. \r\n\r\n\u2022 In den Verhandlungen soll sich Deutschland f\u00fcr offene und transparente \r\nProzesse einsetzen, in denen Zivilgesellschaft M\u00f6glichkeiten der \r\nMitverhandlung bekommt. \r\n\r\n \r\n \r\nGlobale Unternehmensbesteuerung \r\n\r\nInternationale Konzerne umgehen j\u00e4hrlich Steuerzahlungen in H\u00f6he von ca. 311 \r\nMilliarden US-Dollar, indem sie Gewinne in Niedrigsteuerl\u00e4nder verlagern und L\u00fccken \r\nsowie Unstimmigkeiten zwischen Steuersystemen ausnutzen.6 Das betrifft L\u00e4nder im \r\nGlobalen S\u00fcden unverh\u00e4ltnism\u00e4\u00dfig st\u00e4rker, da sie abh\u00e4ngiger von \r\nUnternehmensbesteuerung sind. \r\n\r\nDas bisherige System erlaubt es gerade den gr\u00f6\u00dften und profitabelsten multinationalen \r\nKonzernen einen gro\u00dfen Teil ihrer Gewinne in Steueroasen zu verschieben und dort \r\nSteuern zu vermeiden, wo sich ihre Kund:innen, ihre Mitarbeiter:innen und ihre \r\nProduktion befinden. \r\n\r\n\u2022 Besteuerungsrechte m\u00fcssen fairer verteilt und in Richtung einer \r\nGesamtkonzernsteuer weiterentwickelt werden. Die aktuellen \r\nReformbem\u00fchungen der OECD7 beinhalten bereits eine Umverteilung der \r\nBesteuerungsrechte in diesem Sinne (sogenannte S\u00e4ule 1). Die bisherigen \r\nVorschl\u00e4ge der OECD gehen aber nicht weit genug und sorgen f\u00fcr unn\u00f6tige \r\nKomplexit\u00e4t.   \r\n\r\n\u2022 Der Steuersatz f\u00fcr die globale Mindeststeuer der OECD (sogenannte S\u00e4ule 2) \r\nsollte auf 25% erh\u00f6ht werden, um Gewinnverschiebung effektiv zu bek\u00e4mpfen \r\nund f\u00fcr einen fairen Wettbewerb zur sorgen. \r\n\r\n\u2022 \u00dcberschussgewinne, also Renditen die z.B. wegen Marktmacht langfristig \u00fcber \r\nden normalen Renditen der Wettbewerber liegen, sollten zus\u00e4tzlich zur normalen \r\nUnternehmensbesteuerung mit einem progressiven Steuersatz abgesch\u00f6pft \r\nwerden.  \r\n \r\n\r\nAngemessene und faire globale Verm\u00f6gensbesteuerung \r\n\r\nMilliard\u00e4r:innen weltweit haben laut Berechnung des EU Tax Observatory effektive \r\nSteuers\u00e4tze in H\u00f6he von 0 bis 0,5% ihres Verm\u00f6gens. Grund daf\u00fcr sind vielf\u00e4ltige \r\nSteuerprivilegien und Steuertricks, mit denen sie die Einkommenssteuer umgehen.8  \r\n\r\nEs braucht ein globales Abkommen, das daf\u00fcr sorgt, dass Milliard\u00e4r:innen mindestens \r\n2% Steuern auf ihre Verm\u00f6gen zahlen und Steuerflucht effektiv bek\u00e4mpft. Deutschland \r\nsollte sich dazu der Initiative von Brasilien, Frankreich und Spanien anschlie\u00dfen. \r\n\r\n \r\nEffektivere Finanzkriminalit\u00e4tsbek\u00e4mpfung in Deutschland \r\n\r\nDem globalen Schattenfinanzsystem muss durch bessere Regulierung entgegengewirkt \r\nwerden. Deutschland sollte bessere Strukturen in der Finanzkriminalit\u00e4tsbek\u00e4mpfung \r\nschaffen, um zu verhindern, dass illegale Geldfl\u00fcsse hier gewaschen oder angelegt \r\nwerden. Im Sinne internationaler Solidarit\u00e4t soll die Bundesregierung andere L\u00e4nder \r\nunterst\u00fctzen, illegale Geldfl\u00fcsse aufzusp\u00fcren und dorthin zur\u00fcck \u00fcberweisen, wo das \r\nGeld erwirtschaftet wurde. \r\n\r\n\u2022 Der aktuelle Gesetzentwurf zur Bek\u00e4mpfung von Finanzkriminalit\u00e4t und \r\nVerm\u00f6gensverschleierung, insbesondere mit den zus\u00e4tzlichen \r\nErmittlungskapazit\u00e4ten f\u00fcr komplexe Geldw\u00e4schef\u00e4lle, ist ein wichtiger \r\nSchritt in diese Richtung. Dar\u00fcber hinaus sollte die Einziehung von illegalen \r\nVerm\u00f6gen noch weiter vereinfacht werden und die aktive Kontrolle von \r\nverd\u00e4chtigen Geldstr\u00f6men gest\u00e4rkt werden.  \r\n\r\n\u2022 Die Bundesregierung sollte die faktischen und rechtlichen L\u00fccken im deutschen \r\nTransparenzregister beseitigen und gemeinsam mit den europ\u00e4ischen Partnern \r\ngro\u00dfe Verm\u00f6genswerte in einem umfassenden, europ\u00e4isch vernetzten \r\nRegister erfassen. \r\n\r\n\r\n1 Sustainable Development Report 2023 (sdgindex.org)\r\n2 https://unctad.org/news/africa-could-gain-89-billion-annually-curbing-illicit-financial-flows \r\n3 https://fsi.taxjustice.net/ \r\n4 https://www.netzwerk-steuergerechtigkeit.de/infothek/jahrbuch-steuergerechtigkeit-2024/ \r\n5 ebd. \r\n6 https://taxjustice.net/reports/the-state-of-tax-justice-2023/ \r\n7https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales\r\n_Steuerrecht/BEPS/schaedlichen-steuerwettbewerb-bekaempfen.html \r\n8 https://www.taxobservatory.eu/publication/global-tax-evasion-report-2024/ "
+                        }
+                    }
+                ],
+                "title": "UN-Steuerkonvention, internationale Steuerregeln"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/8b/bd/301993/Stellungnahme-Gutachten-SG2406170003.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMZ",
+                                "de": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                                "en": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-16"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0003662",
+                "regulatoryProjectTitle": "Bundeshaushalt",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": " #GutF\u00fcrAlle: F\u00fcr eine starke Entwicklungspolitik \r\nDie agl appelliert dringend an Bundesregierung und Bundestag, die Etats des Bundesministeriums f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) und des Ausw\u00e4rtigen Amtes (AA) angemessen auszustatten. Angesichts der instabilen Weltlage f\u00fchrt Sparen im Bereich der Globalen Solidarit\u00e4t in die falsche Richtung. \r\n\r\n\u201eEntwicklungszusammenarbeit unterst\u00fctzt nicht nur andere L\u00e4nder, sondern st\u00e4rkt auch den weltgesellschaftlichen demokratischen Zusammenhalt. Dieser ist angesichts der vielen Krisen und Konflikte auf der Welt instabil geworden, was am Ende auch Deutschland schadet. Auch wir haben Interesse an guten, stabilen internationalen Beziehungen, und sind gut beraten, diese positiv im Sinne von Gerechtigkeit, offenen Gesellschaften und Frieden mitzugestalten, damit unser Planet zukunftsf\u00e4hig wird. Die Weltregionen und ihre Krisen sind eng verflochten \u2013 wenn an vielen Stellen Demokratie geschw\u00e4cht wird, ist sie auch hierzulande bedroht. Die vielzitierte \u201aZeitenwende\u2018 muss als Ganzes gedacht werden \u2013 Nachhaltigkeit, Demokratie, Frieden und Sicherheit sind eng miteinander und global verbunden. Es geht um die ganze Welt, Entwicklungspolitik ist gut f\u00fcr alle\u201c, so Martin Weber vom agl-Vorstand. \r\n\r\nWenn Deutschland an seiner globalen Verantwortung festh\u00e4lt, dann investiert es daher in die Voraussetzungen f\u00fcr die eigene gute Entwicklung, die eigene demokratische Stabilit\u00e4t, die eigene Zukunftsf\u00e4higkeit. Die geplanten K\u00fcrzungen w\u00fcrden dagegen bedeuten, dass sich Deutschland St\u00fcck f\u00fcr St\u00fcck seiner Verantwortung entzieht. Damit w\u00fcrde sich Deutschland in einem Europawahljahr vom Sinn des europ\u00e4ischen Friedensprojektes und einem seiner Kernthemen, der globalen historischen Verantwortung Europas, entfernen und sich am Ende selbst schaden. Auch ist es eine historische und humanit\u00e4re Pflicht als Industrieland, Hunger und Armut in der Welt zu lindern, so die agl. \r\n\r\nDie agl, in der die 16 Eine Welt-Landesnetzwerke mit tausenden Initiativen, Gruppen und Vereinen vernetzt sind, appelliert daher an die Bundesregierung, bei den Etats von BMZ und AA nicht zu k\u00fcrzen. F\u00fcr eine nachhaltige und demokratische globale Entwicklung ist zudem eine aktive und teilhabende Zivilgesellschaft essenziell. \r\n\r\nDeshalb ist die St\u00e4rkung der Zivilgesellschaft, deren Projekte aus diesen Haushaltstiteln gef\u00f6rdert werden, jetzt besonders wichtig. \u201eZivilgesellschaftliche Projekte, meist langj\u00e4hrig aufgebaut und Grundstein guter Vertrauensbeziehungen im In- und Ausland, d\u00fcrfen und k\u00f6nnen nicht einfach heruntergefahren werden, ohne gro\u00dfe Sch\u00e4den anzurichten. Die ohnehin in vielen L\u00e4ndern unter Druck geratene Zivilgesellschaft in diesen Zeiten weiter zu schw\u00e4chen, untergr\u00e4bt die Fundamente demokratischer Gesellschaften und die notwendigen Ver\u00e4nderungen zu nachhaltigen Lebensweisen. Wir m\u00fcssen hierzu eine klare Haltung zeigen\u201c, so Monika D\u00fclge vom agl-Vorstand. \r\nEin Bereich, in dem sich Zivilgesellschaft in Deutschland wirkungsvoll f\u00fcr demokratische globale Entwicklung und klimagerechte Transformation einsetzt, ist die entwicklungspolitische Inlands- und Bildungsarbeit. Viele B\u00fcrger*innen setzen sich \u2013 auch und gerade in Krisenzeiten \u2013 f\u00fcr globale Solidarit\u00e4t und f\u00fcr nachhaltigen Wandel im eigenen Land ein. Diese Arbeit muss jetzt, ebenso wie Projekte im Ausland, entschieden weitergef\u00f6rdert und gest\u00e4rkt werden. \r\n\u201eEs ist falsch, bei der globalen Solidarit\u00e4t zu k\u00fcrzen. Zu glauben oder die Ansicht zu verbreiten, es gehe dabei allein um Philanthropie, die nicht unbedingt n\u00f6tig f\u00fcr das eigene Wohl sei, ist fatal. Die Bedeutung von Entwicklungszusammenarbeit f\u00fcr die notwendigen Transformationen zu global nachhaltiger Entwicklung darf nicht untersch\u00e4tzt werden.\u201c, so die agl.\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/bd/9b/326811/Stellungnahme-Gutachten-SG2406270146.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_AA",
+                                "de": "Ausw\u00e4rtiges Amt (AA)",
+                                "en": "Ausw\u00e4rtiges Amt (AA)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                "de": "Bundeskanzleramt (BKAmt)",
+                                "en": "Bundeskanzleramt (BKAmt)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMF",
+                                "de": "Bundesministerium der Finanzen (BMF)",
+                                "en": "Bundesministerium der Finanzen (BMF)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMZ",
+                                "de": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                                "en": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+                            }
+                        ],
+                        "sendingDate": "2024-06-20"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0010472",
+                "regulatoryProjectTitle": "UN-Steuerkonvention, internationale Steuerregeln",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Forderungspapier zur UN-Steuerkonvention  \r\n\r\nDeutschland muss sich f\u00fcr faire internationale Steuerregeln \r\nf\u00fcr multinationale Konzerne und gro\u00dfe Verm\u00f6gen einsetzen \r\n\r\nDas derzeitige internationale Steuersystem erm\u00f6glicht es gro\u00dfen Unternehmen \r\nund sehr reichen Individuen, Steuern zum gro\u00dfen Teil zu vermeiden oder zu \r\nhinterziehen. Gelder, die eigentlich gebraucht w\u00fcrden, um \r\nGemeinschaftsaufgaben zu finanzieren. Das ist ein Problem f\u00fcr Deutschland und \r\nEuropa \u2013 und noch st\u00e4rker f\u00fcr L\u00e4nder des Globalen S\u00fcdens. \r\n\r\nUnsere Forderungen im Kurz\u00fcberblick: \r\n\r\n\u2022 Deutschland soll sich an den Verhandlungen zu einer UN-Steuerkonvention \r\naktiv und konstruktiv beteiligen und sich f\u00fcr ein umfassendes, verbindliches \r\nRahmenwerk und einen offenen Prozess einsetzen. \r\n \r\n\r\n\u2022 Gro\u00dfe multinationale Unternehmen, inklusive der gro\u00dfen Digitalkonzerne, \r\nsollten mindestens genauso viele Steuern zahlen wie ihre kleineren, nationalen \r\nKonkurrenten, und zwar dort wo sie aktiv sind. \r\n \r\n\r\n\u2022 \u00dcberschussgewinne sollten mit einem progressiven Steuersatz abgesch\u00f6pft \r\nwerden. \r\n \r\n\r\n\u2022 Es braucht ein globales Abkommen, das daf\u00fcr sorgt, dass Milliard\u00e4r:innen \r\nmindestens 2% Steuern auf ihre Verm\u00f6gen zahlen und das Steuerflucht effektiv \r\nbek\u00e4mpft. \r\n \r\n\r\n\u2022 Um effektiv gegen komplexe Geldw\u00e4sche vorzugehen, braucht es eine \r\nErmittlungseinheit f\u00fcr Finanzkriminalit\u00e4t in Deutschland sowie ein \r\numfassendes europ\u00e4isch vernetztes Transparenzregister. \r\n \r\n\r\nDie Bilanz f\u00fcr die Umsetzung der Agenda 2030 ist katastrophal: Nur 18% der 17 Ziele f\u00fcr \r\nnachhaltige Entwicklung (Sustainable Development Goals, SDGs) k\u00f6nnen nach \r\nderzeitigem Stand bis 2030 erreicht werden.1 Neben unzureichendem politischen Willen \r\nvieler Regierungen fehlen in vielen L\u00e4ndern die finanziellen Ressourcen f\u00fcr eine effektive Umsetzung. \r\nDazu tragen in erheblichem Ma\u00df die Schuldenkrise und eine ungerechte \r\ninternationale Steuerpolitik bei.  \r\n\r\nF\u00fcr Staaten sind Steuervermeidung und Gewinnverschiebung von Unternehmen \r\ngenauso wie Steuerhinterziehung und grenz\u00fcberschreitende illegale Finanzstr\u00f6me \r\neinkommensmindernd. Dadurch fehlen wichtige Mittel f\u00fcr \u00f6ffentliche Investitionen. \r\nMangelnde finanzielle Transparenz und Rechenschaftspflicht sowie die Gew\u00e4hrung \r\ngro\u00dfz\u00fcgiger Steuererleichterungen sind ein wichtiger Teil des Problems. Insbesondere in \r\nL\u00e4ndern des Globalen S\u00fcdens gehen dadurch betr\u00e4chtliche Mittel verloren, die zur \r\nErreichung der SDGs eingesetzt werden k\u00f6nnten. Sch\u00e4tzungen zufolge verlieren Staaten \r\nin Afrika j\u00e4hrlich allein durch Kapitalflucht fast 90 Milliarden US-Dollar. Das ist fast die \r\nH\u00e4lfte der Mittel, die f\u00fcr die Erreichung der SDGs ben\u00f6tigt werden. \r\n\r\n \r\n\r\nEine gerechte internationale Steuerpolitik ist daher eine wichtige Stellschraube, um \r\ndie SDGs noch erreichen zu k\u00f6nnen \u2013 in Deutschland und weltweit. \r\n\r\nIn der Agenda 2030 wird Steuergerechtigkeit an mehreren Stellen explizit als Ziel \r\ngenannt: Alle L\u00e4nder sollen in die Lage versetzt werden, \u00fcber Steuern eigene Einnahmen \r\nzu generieren und damit die grundlegenden \u00f6ffentlichen Aufgaben zu finanzieren (17.1). \r\nAuch sollen Ungleichheiten innerhalb und zwischen Staaten verringert und daf\u00fcr der \r\nAusgleich \u00fcber die Fiskalpolitik, also Steuereinnahmen und Staatsausgaben, gest\u00e4rkt \r\nwerden (10.4). Die effektive Bek\u00e4mpfung illegaler Finanzstr\u00f6me wird ebenfalls in der \r\nAgenda gefordert (16.4). Trotz dieser 2015 gesetzten Ziele ist bislang nicht genug \r\npassiert.  \r\n\r\n \r\n\r\nWarum ist das Thema Steuergerechtigkeit in und f\u00fcr Deutschland wichtig? \r\n\r\nDeutschland ist ein attraktives Ziel f\u00fcr schmutziges Geld aus der ganzen Welt und liegt \r\nauf Platz 7 im globalen Schattenfinanzindex (Financial Secrecy Index).3 Geldw\u00e4sche \r\nschw\u00e4cht unsere Wirtschaft und Politik und hat gleichzeitig gro\u00dfe Auswirkungen auf \r\nL\u00e4nder des Globalen S\u00fcdens. Illegale Finanzstr\u00f6me untergraben staatliche \r\nBem\u00fchungen Mittel f\u00fcr Investitionen in Sozialsysteme, Gesundheit, Bildung und andere \r\n\u00f6ffentliche Infrastruktur zu mobilisieren, f\u00f6rdern Korruption und organisierte Kriminalit\u00e4t \r\nund gef\u00e4hrden dadurch Stabilit\u00e4t und Legitimit\u00e4t. Deutschland muss seine \r\nFinanzkriminalit\u00e4tsbek\u00e4mpfung deutlich verbessern, um illegale Finanzstr\u00f6me zu \r\nunterbinden und damit zu verhindern, dass in anderen L\u00e4ndern illegal erwirtschaftete \r\nGelder in Deutschland gewaschen und angelegt werden. \r\n\r\nUnter dem Druck der Globalisierung und der Drohung von Steuerflucht hat sich der \r\nSteuersatz der Superreichen in Deutschland in den letzten 30 Jahren etwa halbiert. Ein \r\ntypischer Multimillion\u00e4r zahlt hierzulande mit 24 % (inkl. Sozialabgaben und \r\nUnternehmenssteuern) nur die H\u00e4lfte des Reichensteuersatzes von 47,5\u2006% (inkl. Soli).4 \r\nDenn Superreiche leben vor allem von Kapitaleink\u00fcnften, f\u00fcr die zahlreiche Privilegien \r\ngeschaffen wurden. Das ist nicht nur ungerecht angesichts der h\u00f6heren Abgaben von \r\nNormalverdienenden, sondern diese Steuerprivilegien f\u00fchren auch dazu, dass dem \r\nStaat einer Sch\u00e4tzung zufolge j\u00e4hrlich 75 Milliarden Euro fehlen, die f\u00fcr die \r\nsozial\u00f6kologische Transformation gebraucht w\u00fcrden.5  \r\n\r\nDeutschland profitiert deswegen ebenso wie L\u00e4nder des Globalen S\u00fcdens von \r\nglobalen Abkommen, die illegitime Finanzfl\u00fcsse bek\u00e4mpfen und eine gerechtere \r\nBesteuerung gro\u00dfer Konzerne und Verm\u00f6gen erm\u00f6glichen. Eine UN-\r\nSteuerkonvention ist der lange \u00fcberf\u00e4llige n\u00e4chste Schritt in diese Richtung. Wenn \r\nDeutschland eine Vorreiterrolle im Bereich der Nachhaltigkeitspolitik einnehmen \r\nm\u00f6chte, so muss es diese aktiv vorantreiben. \r\n\r\n \r\n\r\nWAS WIR VON DER BUNDESREGIERUNG FORDERN: \r\n\r\nAktiver Einsatz f\u00fcr eine umfassende UN-Steuerkonvention \r\n\r\nIm November 2023 wurde in der UN-Generalversammlung \u00fcber die Erarbeitung einer \r\nKonvention zur internationalen Steuerkooperation abgestimmt. 128 L\u00e4nder stimmten \r\ndaf\u00fcr und 48 dagegen (darunter Deutschland sowie zahlreiche EU/OECD-Staaten). Die \r\nablehnenden Staaten machen jedoch nur 15% der Weltbev\u00f6lkerung aus.  \r\n\r\n\u2022 Um eine demokratische, transparente und faire internationale \r\nSteuergovernance mit den Vereinten Nationen als zentralem Gremium zu \r\nschaffen, muss Deutschland die Verhandlungen zu einer UN-Steuerkonvention \r\naktiv und konstruktiv vorantreiben und die Teilnahme insbesondere von \r\nNiedrigeinkommensl\u00e4ndern (ggf. finanziell) unterst\u00fctzen \r\n\r\n\u2022 Deutschland soll sich f\u00fcr die UN-Steuerkonvention als umfassendes und \r\nverbindliches Rahmenwerk f\u00fcr die internationale Besteuerung einsetzen, das \r\nauch bestehende Bem\u00fchungen beim Kampf gegen illegitime Finanzfl\u00fcsse, beim \r\nInformationsaustausch und bei der Besteuerung multinationaler Konzerne \r\nkonsolidiert und weiterentwickelt. \r\n\r\n\u2022 In den Verhandlungen soll sich Deutschland f\u00fcr offene und transparente \r\nProzesse einsetzen, in denen Zivilgesellschaft M\u00f6glichkeiten der \r\nMitverhandlung bekommt. \r\n\r\n \r\n \r\nGlobale Unternehmensbesteuerung \r\n\r\nInternationale Konzerne umgehen j\u00e4hrlich Steuerzahlungen in H\u00f6he von ca. 311 \r\nMilliarden US-Dollar, indem sie Gewinne in Niedrigsteuerl\u00e4nder verlagern und L\u00fccken \r\nsowie Unstimmigkeiten zwischen Steuersystemen ausnutzen.6 Das betrifft L\u00e4nder im \r\nGlobalen S\u00fcden unverh\u00e4ltnism\u00e4\u00dfig st\u00e4rker, da sie abh\u00e4ngiger von \r\nUnternehmensbesteuerung sind. \r\n\r\nDas bisherige System erlaubt es gerade den gr\u00f6\u00dften und profitabelsten multinationalen \r\nKonzernen einen gro\u00dfen Teil ihrer Gewinne in Steueroasen zu verschieben und dort \r\nSteuern zu vermeiden, wo sich ihre Kund:innen, ihre Mitarbeiter:innen und ihre \r\nProduktion befinden. \r\n\r\n\u2022 Besteuerungsrechte m\u00fcssen fairer verteilt und in Richtung einer \r\nGesamtkonzernsteuer weiterentwickelt werden. Die aktuellen \r\nReformbem\u00fchungen der OECD7 beinhalten bereits eine Umverteilung der \r\nBesteuerungsrechte in diesem Sinne (sogenannte S\u00e4ule 1). Die bisherigen \r\nVorschl\u00e4ge der OECD gehen aber nicht weit genug und sorgen f\u00fcr unn\u00f6tige \r\nKomplexit\u00e4t.   \r\n\r\n\u2022 Der Steuersatz f\u00fcr die globale Mindeststeuer der OECD (sogenannte S\u00e4ule 2) \r\nsollte auf 25% erh\u00f6ht werden, um Gewinnverschiebung effektiv zu bek\u00e4mpfen \r\nund f\u00fcr einen fairen Wettbewerb zur sorgen. \r\n\r\n\u2022 \u00dcberschussgewinne, also Renditen die z.B. wegen Marktmacht langfristig \u00fcber \r\nden normalen Renditen der Wettbewerber liegen, sollten zus\u00e4tzlich zur normalen \r\nUnternehmensbesteuerung mit einem progressiven Steuersatz abgesch\u00f6pft \r\nwerden.  \r\n \r\n\r\nAngemessene und faire globale Verm\u00f6gensbesteuerung \r\n\r\nMilliard\u00e4r:innen weltweit haben laut Berechnung des EU Tax Observatory effektive \r\nSteuers\u00e4tze in H\u00f6he von 0 bis 0,5% ihres Verm\u00f6gens. Grund daf\u00fcr sind vielf\u00e4ltige \r\nSteuerprivilegien und Steuertricks, mit denen sie die Einkommenssteuer umgehen.8  \r\n\r\nEs braucht ein globales Abkommen, das daf\u00fcr sorgt, dass Milliard\u00e4r:innen mindestens \r\n2% Steuern auf ihre Verm\u00f6gen zahlen und Steuerflucht effektiv bek\u00e4mpft. Deutschland \r\nsollte sich dazu der Initiative von Brasilien, Frankreich und Spanien anschlie\u00dfen. \r\n\r\n \r\nEffektivere Finanzkriminalit\u00e4tsbek\u00e4mpfung in Deutschland \r\n\r\nDem globalen Schattenfinanzsystem muss durch bessere Regulierung entgegengewirkt \r\nwerden. Deutschland sollte bessere Strukturen in der Finanzkriminalit\u00e4tsbek\u00e4mpfung \r\nschaffen, um zu verhindern, dass illegale Geldfl\u00fcsse hier gewaschen oder angelegt \r\nwerden. Im Sinne internationaler Solidarit\u00e4t soll die Bundesregierung andere L\u00e4nder \r\nunterst\u00fctzen, illegale Geldfl\u00fcsse aufzusp\u00fcren und dorthin zur\u00fcck \u00fcberweisen, wo das \r\nGeld erwirtschaftet wurde. \r\n\r\n\u2022 Der aktuelle Gesetzentwurf zur Bek\u00e4mpfung von Finanzkriminalit\u00e4t und \r\nVerm\u00f6gensverschleierung, insbesondere mit den zus\u00e4tzlichen \r\nErmittlungskapazit\u00e4ten f\u00fcr komplexe Geldw\u00e4schef\u00e4lle, ist ein wichtiger \r\nSchritt in diese Richtung. Dar\u00fcber hinaus sollte die Einziehung von illegalen \r\nVerm\u00f6gen noch weiter vereinfacht werden und die aktive Kontrolle von \r\nverd\u00e4chtigen Geldstr\u00f6men gest\u00e4rkt werden.  \r\n\r\n\u2022 Die Bundesregierung sollte die faktischen und rechtlichen L\u00fccken im deutschen \r\nTransparenzregister beseitigen und gemeinsam mit den europ\u00e4ischen Partnern \r\ngro\u00dfe Verm\u00f6genswerte in einem umfassenden, europ\u00e4isch vernetzten \r\nRegister erfassen. \r\n\r\n\r\n1 Sustainable Development Report 2023 (sdgindex.org)\r\n2 https://unctad.org/news/africa-could-gain-89-billion-annually-curbing-illicit-financial-flows \r\n3 https://fsi.taxjustice.net/ \r\n4 https://www.netzwerk-steuergerechtigkeit.de/infothek/jahrbuch-steuergerechtigkeit-2024/ \r\n5 ebd. \r\n6 https://taxjustice.net/reports/the-state-of-tax-justice-2023/ \r\n7https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales\r\n_Steuerrecht/BEPS/schaedlichen-steuerwettbewerb-bekaempfen.html \r\n8 https://www.taxobservatory.eu/publication/global-tax-evasion-report-2024/ "
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

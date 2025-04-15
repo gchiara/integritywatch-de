@@ -1,0 +1,210 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-09-05T18:38:22.000+02:00",
+                "untilDate": "2024-07-02T00:04:48.000+02:00"
+            }
+        ],
+        "firstPublicationDate": "2022-09-05T18:38:22.000+02:00",
+        "inactiveDateRanges": [
+            {
+                "fromDate": "2024-07-02T00:04:48.000+02:00"
+            }
+        ],
+        "lastUpdateDate": "2023-09-06T16:53:49.000+02:00",
+        "registerEntryVersions": [
+            {
+                "activeUntilDate": "2024-07-02T00:04:48.000+02:00",
+                "legislation": "GL2022",
+                "registerEntryId": 24893,
+                "validFromDate": "2023-09-06T16:53:49.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": false
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 23882,
+                "validFromDate": "2023-08-01T08:37:33.000+02:00",
+                "validUntilDate": "2023-09-06T16:53:49.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 8240,
+                "validFromDate": "2022-09-05T18:38:22.000+02:00",
+                "validUntilDate": "2023-08-01T08:37:33.000+02:00",
+                "version": 1,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": false,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA",
+            "de": "Privatrechtliche Organisation mit Gemeinwohlaufgaben (z. B. eingetragene Vereine, Stiftungen) (GL2022)",
+            "en": "Organization under private law with public welfare tasks (e.g. registered associations, foundations) (GL2022)"
+        },
+        "activityDescription": "Verbesserung der Versorgung von Patientinnen und Patienten",
+        "activityOperationType": "BOTH",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            },
+            {
+                "code": "FOI_HEALTH_SUPPLY",
+                "de": "Gesundheitsversorgung",
+                "en": "Health supply"
+            },
+            {
+                "code": "FOI_HEALTH_PROMOTION",
+                "de": "Gesundheitsf\u00f6rderung",
+                "en": "Health promotion"
+            }
+        ],
+        "legislativeProjects": [
+            {
+                "name": "Gesundheitsversorgung und Digitalisierung"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/6a/6d/230491/Jahresabschluss_2022.pdf",
+        "disclosureRequirementsExist": true,
+        "reportWasPublishedElsewhere": false
+    },
+    "clientIdentity": {
+        "clientsPresent": false
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseDonatorsInformation": false
+    },
+    "employeesInvolvedInLobbying": {
+        "employeesCount": {
+            "from": 11,
+            "to": 20
+        }
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 20001,
+            "to": 30000
+        },
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "refuseFinancialExpensesInformation": false
+    },
+    "legislation": "GL2022",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Hagen",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "nationalAdditional1": "Virtuelles Krankenhaus NRW Gmb",
+            "street": "Haus Harkorten",
+            "streetNumber": "8",
+            "type": "NATIONAL",
+            "zipCode": "58135"
+        },
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "andreas.kotewitz@virtuelles-krankenhaus.nrw"
+                }
+            ],
+            "phoneNumber": "+49023319106212",
+            "websites": [
+                {
+                    "website": "https://virtuelles-krankenhaus.nrw"
+                }
+            ]
+        },
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "commonFirstName": "Nadja",
+                "emails": [
+                    {
+                        "email": "nadja.pecquet@virtuelles-krankenhaus.nrw"
+                    }
+                ],
+                "function": "Gesch\u00e4ftsf\u00fchrerin",
+                "lastName": "Pecquet",
+                "phoneNumber": "+4923319106210"
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Deutsche Gesellschaft f\u00fcr Telemedizin e. V."
+            },
+            {
+                "membership": "MedEcon Ruhr GmbH"
+            },
+            {
+                "membership": "Verein Elektronische Fallakte e. V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Virtuelles Krankenhaus NRW gGmbH",
+        "namedEmployeesPresent": false
+    },
+    "publicAllowances": {
+        "fiscalYearCompleted": true,
+        "fiscalYearEnd": "2022-12",
+        "fiscalYearStart": "2022-01",
+        "publicAllowances": [
+            {
+                "description": "Zuwendung f\u00fcr den Aufbau und Betrieb der Virtuelles Krankenhaus NRW gGmbH",
+                "location": "D\u00fcsseldorf, NRW",
+                "name": "Ministerium f\u00fcr Arbeit, Gesundheit und Soziales des Landes NRW",
+                "publicAllowanceEuro": {
+                    "from": 2630001,
+                    "to": 2640000
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "refusePublicAllowancesInformation": false
+    },
+    "registerEntryDetails": {
+        "annualUpdate": {
+            "lastAnnualUpdate": "2023-09-06T16:53:49.000+02:00",
+            "updateMissing": false
+        },
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R005132/24893",
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/b0/18/230492/Lobbyregister-Detailansicht-R005132-2023-09-06_16-53-49.pdf",
+        "refusedAnything": false,
+        "validFromDate": "2023-09-06T16:53:49.000+02:00",
+        "version": 3
+    },
+    "registerEntryId": 24893,
+    "registerNumber": "R005132"
+}

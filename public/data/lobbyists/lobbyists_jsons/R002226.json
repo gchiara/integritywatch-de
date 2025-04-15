@@ -1,0 +1,913 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-27T18:00:15.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-02-28T16:04:04.000+01:00",
+        "lastUpdateDate": "2024-06-28T14:36:58.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 36590,
+                "validFromDate": "2024-06-28T14:36:58.000+02:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27430,
+                "validFromDate": "2024-02-29T17:39:25.000+01:00",
+                "validUntilDate": "2024-06-28T14:36:58.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 27032,
+                "validFromDate": "2023-12-06T16:59:35.000+01:00",
+                "validUntilDate": "2024-02-29T17:39:25.000+01:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22767,
+                "validFromDate": "2023-09-12T13:24:11.000+02:00",
+                "validUntilDate": "2023-12-06T16:59:35.000+01:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 21985,
+                "validFromDate": "2023-06-30T12:33:07.000+02:00",
+                "validUntilDate": "2023-09-12T13:24:11.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17320,
+                "validFromDate": "2023-02-27T18:00:15.000+01:00",
+                "validUntilDate": "2023-06-30T12:33:07.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_NONPROFIT_ORGA_V2",
+            "de": "Nichtregierungsorganisation (NGO)",
+            "en": "Non-governmental organization (NGO)"
+        },
+        "activityDescription": "Zweck des Vereins ist die Erforschung und Verminderung der Umweltbelastung durch F\u00f6rderung von Wissenschaft und Forschung sowie durch die F\u00f6rderung des Umwelt- und Klimaschutzes.\r\nDas Umweltinstitut M\u00fcnchen setzt sich f\u00fcr eine Landwirtschaft ohne synthetische Pestizide, Massentierhaltung und Gentechnik und f\u00fcr eine Energiewende hin zu einer Versorgung mit 100 % erneuerbaren Energien ein. Wir messen und forschen nach und organisieren Kampagnen und Projekte, um Politik, Unternehmen und Verbraucher:innen zu mehr Umweltschutz zu bewegen. \r\n\r\nIm Schwerpunkt wird die Interessenvertretung ausge\u00fcbt, um auf relevante Umwelt- und Klimathemen aufmerksam zu machen und Umwelt- und Klimaschutzma\u00dfnahmen und -gesetze zu f\u00f6rdern. Hierzu werden Rechtsgutachten und Messergebnisse kommuniziert, Unterschriften\u00fcbergaben an Vertreter:innen der Regierung organisiert, offene Briefe geschrieben oder auch Pressekonferenzen organisiert. ",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_AF_FOOD_SAFETY",
+                "de": "Lebensmittelsicherheit",
+                "en": "Food safety"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_MEDIA",
+                "de": "Medien, Kommunikation und Informationstechnik",
+                "en": "Media, communication and information technology"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_AF_OTHER",
+                "de": "Sonstiges im Bereich \"Landwirtschaft und Ern\u00e4hrung\"",
+                "en": "Other in the field of \"Agriculture and food\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_HEALTH_OTHER",
+                "de": "Sonstiges im Bereich \"Gesundheit\"",
+                "en": "Other in the field of \"Health\""
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_ENERGY_NUCLEAR",
+                "de": "Atomenergie",
+                "en": "Nuclear power"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_OTHER",
+                "de": "Sonstiges im Bereich \"Verkehr\"",
+                "en": "Other in the field of \"Transportation\""
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_MEDIA_FREEDOM_OF_SPEECH",
+                "de": "Meinungs- und Pressefreiheit",
+                "en": "Freedom of speech and freedom of the press"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_HEALTH",
+                "de": "Gesundheit",
+                "en": "Health"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/d2/21/324520/Umweltinstitut-Muenchen-e-V-_2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donatorsInformationPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 2380001,
+            "to": 2390000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 2.18,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 40001,
+            "to": 50000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "M\u00fcnchen",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Goethestra\u00dfe",
+            "streetNumber": "20",
+            "type": "NATIONAL",
+            "zipCode": "80336"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@umweltinstitut.org"
+                }
+            ],
+            "phoneNumber": "+49893077490",
+            "websites": [
+                {
+                    "website": "www.umweltinstitut.org"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "academicDegreeAfter": "M.Sc.",
+                "firstName": "Vera",
+                "lastName": "Baumert",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr. rer. nat.",
+                "firstName": "Hauke",
+                "lastName": "Doerk",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Ludwig",
+                "lastName": "Essig",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "B.Sc.",
+                "firstName": "Christine",
+                "lastName": "Vogt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.",
+                "firstName": "Leonard",
+                "lastName": "Burtscher",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "M.A.",
+                "firstName": "Fabian",
+                "lastName": "Holzheid",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Dipl.-Wirt. Ing.",
+                "entrustedPerson": false,
+                "firstName": "Elisabeth",
+                "function": "Sekretariat, Mitgliederverwaltung, Vorstandsmitglied",
+                "lastName": "Albrecht",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Reg.wiss.",
+                "entrustedPerson": false,
+                "firstName": "Franziska",
+                "function": "Kampagnenarbeit, Vorstandsmitglied",
+                "lastName": "Buch",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "M.A.",
+                "entrustedPerson": false,
+                "firstName": "Joy",
+                "function": "\u00d6ffentlichkeitsarbeit, Vorstandsmitglied",
+                "lastName": "Mann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "M.A.",
+                "entrustedPerson": false,
+                "firstName": "Jurek",
+                "function": "Kampagnenplanung, Vorstandsmitglied",
+                "lastName": "Vengels",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeAfter": "Dipl. Geogr.",
+                "entrustedPerson": false,
+                "firstName": "Verena",
+                "function": "Referentin, Vorstandsmitglied",
+                "lastName": "Schmitt",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-11",
+            "naturalPersons": 26,
+            "organizations": 0,
+            "totalCount": 26
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Deutscher Naturschutzring e. V. (DNR), Dachverband der deutschen Natur-, Tier- und Umweltschutzorganisationen"
+            },
+            {
+                "membership": "KlimaAllianz Deutschland"
+            },
+            {
+                "membership": "European Environmental Bureau (EEB)"
+            },
+            {
+                "membership": "Allianz Rechtssicherheit f\u00fcr politische Willensbildung"
+            },
+            {
+                "membership": "Green Legal Impact Germany e.V."
+            },
+            {
+                "membership": "Arbeitsgemeinschaft Schacht KONRAD e.V"
+            },
+            {
+                "membership": "Archiv Deutsches Atomerbe e. V."
+            },
+            {
+                "membership": "Netzwerk Klimaherbst e.V."
+            },
+            {
+                "membership": "Atomm\u00fcllreport"
+            },
+            {
+                "membership": "Keine Patente auf Saatgut e.V. "
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Umweltinstitut M\u00fcnchen e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "\u00d6kolandbau erleben und verstehen: Bauernhofausfl\u00fcge und Aktionstage zu \u00d6kolandbau und gesunder Ern\u00e4hrung f\u00fcr M\u00fcnchner Bildungseinrichtungen\r\n",
+                "location": "M\u00fcnchen",
+                "name": "Stadt M\u00fcnchen, Referat f\u00fcr Gesundheit und Umwelt",
+                "publicAllowanceEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_MUNICIPALITY",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Kommune",
+                    "en": "German Public Sector \u2013 Municipality"
+                }
+            },
+            {
+                "description": "F\u00f6rderung von Projekten in der Umweltberatung und im Umweltschutz. Projekt: Sicherstellung und Vernetzung der Umweltberatung in M\u00fcnchen. ",
+                "location": "M\u00fcnchen",
+                "name": "Stadt M\u00fcnchen, Referat f\u00fcr Gesundheit und Umwelt",
+                "publicAllowanceEuro": {
+                    "from": 80001,
+                    "to": 90000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_MUNICIPALITY",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Kommune",
+                    "en": "German Public Sector \u2013 Municipality"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002226/36590",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-28T14:36:58.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/c2/e6/324529/Lobbyregister-Detailansicht-R002226-2024-06-28_14-36-58.pdf",
+        "validFromDate": "2024-06-28T14:36:58.000+02:00",
+        "version": 8
+    },
+    "registerEntryId": 36590,
+    "registerNumber": "R002226",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "PflSchG",
+                        "title": "Gesetz zum Schutz der Kulturpflanzen",
+                        "url": "https://www.gesetze-im-internet.de/pflschg_2012"
+                    },
+                    {
+                        "shortTitle": "AgrStatG",
+                        "title": "Gesetz \u00fcber Agrarstatistiken",
+                        "url": "https://www.gesetze-im-internet.de/agrstatg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Wir fordern, dass die gem\u00e4\u00df \u00a7 11 Abs. 1 PflSchG ohnehin von den Landwirt:innen zu erfassenden Daten in einem bundesweiten, zentralen, elektronischen Register mit einem \u00f6ffentlich zug\u00e4nglichen Teil (anonym, jedoch parzellengenau) ver\u00f6ffentlicht werden.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SPECIES",
+                        "de": "Artenschutz/Biodiversit\u00e4t",
+                        "en": "Species protection/biodiversity"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009496",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/38/80/324521/Stellungnahme-Gutachten-SG2406240280.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                        "de": "Mitglieder des Bundestages",
+                                        "en": "Members of parliament"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-22"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009496",
+                        "regulatoryProjectTitle": "Schaffung eines digitalen Herkunfts- und Identifikationssystems N\u00e4hrstoff- und Pflanzenschutz",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "text folgt"
+                        }
+                    }
+                ],
+                "title": "Schaffung eines digitalen Herkunfts- und Identifikationssystems N\u00e4hrstoff- und Pflanzenschutz"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "PflSchAnwV 1992",
+                        "title": "Verordnung \u00fcber Anwendungsverbote f\u00fcr Pflanzenschutzmittel",
+                        "url": "https://www.gesetze-im-internet.de/pflschanwv_1992"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "In der Pflanzenschutzanwendungsverordnung soll ein umfassendes Verbot f\u00fcr den Pestizideinsatz, inklusive des Glyphosateinsatzes, in Schutzgebieten festgeschrieben werden",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SPECIES",
+                        "de": "Artenschutz/Biodiversit\u00e4t",
+                        "en": "Species protection/biodiversity"
+                    }
+                ],
+                "printedMatters": [
+                    {
+                        "documentUrl": "https://dserver.bundestag.de/brd/2024/0190-24.pdf",
+                        "issuer": "BR",
+                        "leadingMinistries": [],
+                        "printingNumber": "190/24",
+                        "projectUrl": "https://dip.bundestag.de/vorgang/verordnung-zur-%C3%A4nderung-der-pflanzenschutz-anwendungsverordnung-und-zur-%C3%A4nderung-der/311401",
+                        "title": "Verordnung zur \u00c4nderung der Pflanzenschutz-Anwendungsverordnung und zur \u00c4nderung der F\u00fcnften und Sechsten Verordnung zur \u00c4nderung der Pflanzenschutz-Anwendungsverordnung"
+                    }
+                ],
+                "printedMattersPresent": true,
+                "regulatoryProjectNumber": "RV0009497",
+                "statements": [],
+                "title": "\u00c4nderung der Pflanzenschutz-Anwendungsverordnung"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Es sollen Anwendungsbeschr\u00e4nkungen f\u00fcr das Pestizidmittel Profume erlassen werden, die sicherstellen, dass der extrem klimasch\u00e4dliche Wirkstoff Sulfurylfluorid nicht in die Atmosph\u00e4re entweichen kann. Alternativ soll die Mittelzulassung f\u00fcr ProFume ruhen, bis die Risikiobewertung im europ\u00e4ischen Zulassungsverfahren von Sulfurylfluorid abgeschlossen ist.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_AGRICULTURE_FOOD",
+                        "de": "Landwirtschaft und Ern\u00e4hrung",
+                        "en": "Agriculture and food"
+                    },
+                    {
+                        "code": "FOI_AF_FORESTRY",
+                        "de": "Land- und Forstwirtschaft",
+                        "en": "Agriculture and forestry"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009498",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/60/fa/324523/Stellungnahme-Gutachten-SG2406270230.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                        "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                        "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-14"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009498",
+                        "regulatoryProjectTitle": "BVL-Zulassung f\u00fcr das Pestizidmittel Profume zum Zweck des Klimaschutzes",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Offener Verb\u00e4ndebrief | Sulfurylfluorid-Emissionen stoppen\r\n\r\nBundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft, \r\n11055 Berlin\r\n\r\nBundesminister Cem \u00d6zdemir\r\n\r\nSehr geehrter Herr Bundesminister \u00d6zdemir, \r\n\r\nbereits am 25. M\u00e4rz wandten wir uns mit einem Anschreiben an Ihr Haus, um unsere Sorge \u00fcber eine Wiederzulassung des Pestizidprodukts ProFume zum Ausdruck zu bringen, dessen Zulassung zum 31. Oktober 2024 ausl\u00e4uft. Wir forderten Sie auf, weitreichende Anwendungsbeschr\u00e4nkungen zu erlassen, um die Emissionen des extrem klimasch\u00e4dlichen Mittels in die Atmosph\u00e4re zu verhindern. Eine Antwort blieb bislang aus. \r\nProFume wird in Deutschland vor allem zur Begasung von Rundholz vor dem Export verwendet. Der Hauptwirkstoff von ProFume ist Sulfurylfluorid \u2013 ein Gas, das nicht nur giftig f\u00fcr Menschen und Tiere, sondern auch extrem klimasch\u00e4dlich ist. Sulfurylfluorid hat dem sechsten Sachstandsberichts des Weltklimarats IPCC zufolge ein Treibhauspotenzial, das \u00fcber den Zeitraum von 100 Jahren 4.630-mal h\u00f6her ist als das von CO2. Auf 20 Jahre betrachtet ist Sulfurylfluorid sogar 7.510-mal klimawirksamer als CO2. Dies ist besonders besorgniserregend, da der Einsatz des Gases in den letzten Jahren massiv angestiegen ist: Die Emissionen, die von 2019 bis 2022 allein im Hamburger Hafen durch Sulfurylfluorid verursacht wurden, k\u00f6nnen mit rund drei Millionen Tonnen CO2-\u00c4quivalenten veranschlagt werden. Das \u00fcbersteigt den j\u00e4hrlichen Aussto\u00df des innerdeutschen Flugverkehrs. Der Grund f\u00fcr den Anstieg ist, dass mehr Schadholz geschlagen wurde. Das liegt wiederum auch daran, dass fr\u00fcher viele Nadelb\u00e4ume in Monokulturen gepflanzt wurden, die nicht an den Standort angepasst waren. Deren Anf\u00e4lligkeit f\u00fcr Sch\u00e4dlinge wurde durch vermehrt auftretende St\u00fcrme, Hitze und Trockenheit in Folge des Klimawandels noch gesteigert. Wie sehr Sulfurylfluorid als hochwirksames Treibhausgas an Bedeutung gewinnt, unterstreicht die Aufnahme von Sulfurylfluorid in die F-Gase Verordnung der Europ\u00e4ischen Union.\r\nIm Sommer 2023 haben sich rund 15.000 Menschen im Rahmen der Aktion \u201eStoppen Sie das Klimagift\u201c  an Sie gewandt und Sie gebeten, sich gegen die Verl\u00e4ngerung der Genehmigung f\u00fcr Sulfurylfluorid auf EU-Ebene einzusetzen. Der St\u00e4ndige Ausschuss f\u00fcr Pflanzen, Tiere, Lebens- und Futtermittel (PAFF-Ausschuss) der EU-Kommission hat dennoch eine technische Verl\u00e4ngerung um drei Jahre beschlossen. Der Grund: Der berichterstattende Mitgliedsstaat \u00d6sterreich hat es schlichtweg verpasst, den notwendigen Bericht zur Risikobewertung einzureichen. \r\nAuf einen Verb\u00e4ndebrief vom 29. Juni 2023 antwortete im Oktober Umwelt-Staatssekret\u00e4rin Christiane Rohleder, das Umweltministerium werde \"kritisch darauf achten\", dass der Aspekt der Klimawirksamkeit bei der Entscheidungsfindung hinsichtlich der Wiedergenehmigung von Sulfurylfluorid ber\u00fccksichtigt wird. Diese Antwort war zwischen dem Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) und dem Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL) abgestimmt.\r\nNach der technischen Verl\u00e4ngerung auf EU-Ebene halten wir es f\u00fcr dringend notwendig, die Mittelzulassung von ProFume in Deutschland anzupassen: ProFume sollte \u2013 wenn \u00fcberhaupt \u2013  in Deutschland nur mit weitreichenden Anwendungsbeschr\u00e4nkungen zugelassen werden, welche erfolgreich verhindern, dass Sulfurylfluorid weiterhin in die Atmosph\u00e4re gelangen kann. Nur so kann sichergestellt werden, dass von dem weiteren Einsatz von ProFume keine \u201eunannehmbaren Auswirkungen auf die Umwelt\u201c unter besonderer Ber\u00fccksichtigung der \u201eAuswirkung auf die biologische Vielfalt und das \u00d6kosystem\u201c ausgehen, so wie es die entsprechende EU-Verordnung vorsieht.  Denn in der Dekade, in der wir dringend Treibhausgase drastisch reduzieren m\u00fcssen, sind weitere Emissionen von  Sulfurylfluorid unannehmbar. Besonders gilt dies, da bereits nachhaltigere Alternativen zum Einsatz von Sulfurylfluorid existieren. \r\nSollte es nicht zu weitreichenden Anwendungsbeschr\u00e4nkungen f\u00fcr ProFume kommen, muss die Mittelzulassung ruhen. Dies w\u00e4re mindestens so lange notwendig, bis die Risikobewertung im europ\u00e4ischen Zulassungsverfahren von Sulfurylfluorid abgeschlossen ist.\r\nBitte sorgen Sie daf\u00fcr, dass der Einsatz von ProFume in Deutschland nicht weiter zur Befeuerung der Klimakrise beitragen kann.\r\n\r\nMit freundlichen Gr\u00fc\u00dfen\r\n"
+                        }
+                    },
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/5b/55/324525/Stellungnahme-Gutachten-SG2406270232.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-14"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009498",
+                        "regulatoryProjectTitle": "BVL-Zulassung f\u00fcr das Pestizidmittel Profume zum Zweck des Klimaschutzes",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Offener Brief | Sulfurylfluorid-Emissionen stoppen\r\nUmweltinstitut M\u00fcnchen e.V., 14.05.2024 | www.umweltinstitut.org\r\n\r\n\r\nBundesministerium f\u00fcr Umwelt, Naturschutz,\r\nnukleare Sicherheit und Verbraucherschutz,\r\nFrau Bundesministerin Steffi Lemke\r\n11055 Berlin\r\n\r\n\r\nSehr geehrte Frau Bundesministerin Lemke,\r\nbereits am 25. M\u00e4rz wandten wir uns mit einem Anschreiben an Ihr Haus, um unsere Sorge \u00fcber eine\r\nWiederzulassung des Pestizidprodukts ProFume zum Ausdruck zu bringen, dessen Zulassung zum 31.Oktober 2024 ausl\u00e4uft. Wir forderten Sie auf, weitreichende Anwendungsbeschr\u00e4nkungen zu erlassen, um die Emissionen des extrem klimasch\u00e4dlichen Mittels in die Atmosph\u00e4re zu verhindern. Eine Antwort blieb bislang aus.\r\nProFume wird in Deutschland vor allem zur Begasung von Rundholz vor dem Export verwendet. Der\r\nHauptwirkstoff von ProFume ist Sulfurylfluorid \u2013 ein Gas, das nicht nur giftig f\u00fcr Menschen und Tiere,\r\nsondern auch extrem klimasch\u00e4dlich ist. Sulfurylfluorid hat dem sechsten Sachstandsberichts des Weltklimarats IPCC zufolge ein Treibhauspotenzial, das \u00fcber den Zeitraum von 100 Jahren 4.630-mal h\u00f6her ist als das von CO2. Auf 20 Jahre betrachtet ist Sulfurylfluorid sogar 7.510-mal klimawirksamer als CO2. Dies ist besonders besorgniserregend, da der Einsatz des Gases in den letzten Jahren massiv angestiegen ist: Die Emissionen, die von 2019 bis 2022 allein im Hamburger Hafen durch Sulfurylfluorid verursacht wurden, k\u00f6nnen mit rund drei Millionen Tonnen CO2-\u00c4quivalenten veranschlagt werden. Das \u00fcbersteigt den j\u00e4hrlichen Aussto\u00df des innerdeutschen Flugverkehrs. Der Grund f\u00fcr den Anstieg ist, dass mehr Schadholz geschlagen wurde. Das liegt wiederum auch daran, dass fr\u00fcher viele Nadelb\u00e4ume in Monokulturen gepflanzt wurden, die nicht an den Standort angepasst waren. Deren Anf\u00e4lligkeit f\u00fcr Sch\u00e4dlinge wurde durch vermehrt auftretende St\u00fcrme, Hitze und Trockenheit in Folge des Klimawandels noch gesteigert. Wie sehr Sulfurylfluorid als hochwirksames Treibhausgas an Bedeutung gewinnt, unterstreicht die Aufnahme\r\nvon Sulfurylfluorid in die F-Gase Verordnung der Europ\u00e4ischen Union. Im Sommer 2023 haben sich rund 15.000 Menschen im Rahmen der Aktion \u201eStoppen Sie das Klimagift\" 1 an Sie gewandt und Sie gebeten, sich gegen die Verl\u00e4ngerung der Genehmigung f\u00fcr Sulfurylfluorid auf EU-Ebene einzusetzen. Der St\u00e4ndige Ausschuss f\u00fcr Pflanzen, Tiere, Lebens- und Futtermittel (PAFFAusschuss)\r\nder EU-Kommission hat dennoch eine technische Verl\u00e4ngerung um drei Jahre beschlossen.\r\n\r\nDer Grund: Der berichterstattende Mitgliedsstaat \u00d6sterreich hat es schlichtweg verpasst, den notwendigen Bericht zur Risikobewertung einzureichen.\r\nAuf einen Verb\u00e4ndebrief vom 29. Juni 2023 antwortete im Oktober Umwelt-Staatssekret\u00e4rin Christiane Rohleder, das Umweltministerium werde \u201ekritisch darauf achten\u201c, dass der Aspekt der Klimawirksamkeit bei der Entscheidungsfindung hinsichtlich der Wiedergenehmigung von Sulfurylfluorid ber\u00fccksichtigt wird. Diese Antwort war zwischen dem Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) und dem Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL) abgestimmt. Nach der technischen Verl\u00e4ngerung auf EU-Ebene halten wir es f\u00fcr dringend notwendig, die Mittelzulassung von ProFume in Deutschland anzupassen: ProFume sollte \u2013 wenn \u00fcberhaupt \u2013 in Deutschland nur mit weitreichenden\r\nAnwendungsbeschr\u00e4nkungen zugelassen werden, welche erfolgreich verhindern, dass Sulfurylfluorid\r\nweiterhin in die Atmosph\u00e4re gelangen kann. Nur so kann sichergestellt werden, dass von dem weiteren Einsatz von ProFume keine \u201eunannehmbaren Auswirkungen auf die Umwelt\u201c unter besonderer Ber\u00fccksichtigung der \u201eAuswirkung auf die biologische Vielfalt und das \u00d6kosystem\u201c ausgehen, so wie es die entsprechende EU-Verordnung vorsieht. Denn in der Dekade, in der wir dringend Treibhausgase drastisch reduzieren m\u00fcssen, sind weitere Emissionen von Sulfurylfluorid unannehmbar. Besonders gilt dies, da bereits nachhaltigere Alternativen zum Einsatz von Sulfurylfluorid existieren. Sollte es nicht zu weitreichenden Anwendungsbeschr\u00e4nkungen f\u00fcr ProFume kommen, muss die Mittelzulassung ruhen. Dies w\u00e4re mindestens so lange notwendig, bis die Risikobewertung im europ\u00e4ischen Zulassungsverfahren\r\nvon Sulfurylfluorid abgeschlossen ist. Bitte sorgen Sie daf\u00fcr, dass der Einsatz von ProFume in Deutschland nicht weiter zur Befeuerung der Klimakrise\r\nbeitragen kann.\r\n\r\nMit freundlichen Gr\u00fc\u00dfen"
+                        }
+                    }
+                ],
+                "title": "BVL-Zulassung f\u00fcr das Pestizidmittel Profume zum Zweck des Klimaschutzes"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EnWG",
+                        "title": "Gesetz \u00fcber die Elektrizit\u00e4ts- und Gasversorgung",
+                        "url": "https://www.gesetze-im-internet.de/enwg_2005"
+                    },
+                    {
+                        "shortTitle": "WasserstoffNEV",
+                        "title": "Verordnung \u00fcber die Kosten und Entgelte f\u00fcr den Zugang zu Wasserstoffnetzen",
+                        "url": "https://www.gesetze-im-internet.de/wasserstoffnev"
+                    },
+                    {
+                        "shortTitle": "WPG",
+                        "title": "Gesetz f\u00fcr die W\u00e4rmeplanung und zur Dekarbonisierung der W\u00e4rmenetze",
+                        "url": "https://www.gesetze-im-internet.de/wpg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Der geplante Einsatz von blauem Wasserstoff im W\u00e4rmebereich auch \u00fcber 2045 hinaus steht im Widerspruch zum Ziel, bis zu diesem Jahr aus fossilen Brennstoffen auszusteigen. Analog zur Kraftwerksstrategie muss die Nutzung von Erdgas im W\u00e4rmebereich deutlich vor 2040 komplett beendet sein. W\u00e4hrend die Abkehr von fossilen Energietr\u00e4gern im Green Paper beteuert wird, stellt die weitere Nutzung von blauem Wasserstoff diese Ambition klar infrage.\r\nDie Transformation von Erdgasnetzen sollte die Ausnahme bleiben und die Stilllegung der Erdgasnetze sollte die Regel sein, insbesondere um \u00fcberh\u00f6hte Entgeltkosten f\u00fcr Verbraucher*innen zu vermeiden.\r\n\r\nhttps://www.bmwk.de/Redaktion/DE/Downloads/G/green-paper-transformation-gas-wasserstoff-verteilernetze.pdf?__blob=publicationFile&v=4",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_NET",
+                        "de": "Energienetze",
+                        "en": "Energy networks"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    },
+                    {
+                        "code": "FOI_ENERGY_FOSSILE",
+                        "de": "Fossile Energien",
+                        "en": "Fossil fuels"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0009499",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/bb/f6/324527/Stellungnahme-Gutachten-SG2406270223.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-04-12"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0009499",
+                        "regulatoryProjectTitle": "Green Paper Transformation Gas-/Wasserstoff- Verteilernetze",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Allgemeine Punkte \r\nDas Green Paper des Bundesministeriums f\u00fcr Wirtschaft und Klimaschutz (BMWK) zur Transfor-mation der Gas- und Wasserstoffverteilnetze geht gemeinsam mit dem Eckpunktepapier der Bun-desnetzagentur (BNetzA) zu den Abschreibungsmodalit\u00e4ten der Gasinfrastruktur und den Was-serstofffahrpl\u00e4nen der Bundesnetzagentur zentrale Fragen an, welche sich im Zuge des Ausstiegs aus fossilem Gas stellen. Aufgrund der unterschiedlichen Zust\u00e4ndigkeiten von BNetzA und BMWK ist es dabei essentiell, dass der entsprechende Prozess von einer engen Abstimmung zwischen beiden Institutionen gepr\u00e4gt ist. \r\nPositiv zu bewerten ist beim Green Paper insbesondere, dass der Erdgasausstieg bis sp\u00e4testens 2045 konkret benannt wird und Planungen hierf\u00fcr eingeleitet werden sollen. Die zeichnenden Verb\u00e4nde teilen die Ansicht des BMWK, dass f\u00fcr diesen Ausstieg umfassende Stilllegungen von Erdgasnetzen n\u00f6tig sein werden und dass insbesondere in der Geb\u00e4udew\u00e4rme Wasserstoff keine gro\u00dfe Bedeutung haben wird. Genauso wird die Notwendigkeit gesehen, einen Rahmen und ge-setzliche Regelung zur verpflichtenden Aufstellung von Stilllegungspl\u00e4nen der Gasverteilnetze zu erstellen. Dies sollte im Rahmen der W\u00e4rmeplanung stattfinden. \r\nJedoch beinhaltet das Green Paper auch mehrere kritisch zu bewertende Punkte: Der geplante Einsatz von blauem Wasserstoff im W\u00e4rmebereich auch \u00fcber 2045 hinaus steht im Widerspruch zum Ziel, bis zu diesem Jahr aus fossilen Brennstoffen auszusteigen. Analog zur Kraftwerksstrate-gie muss die Nutzung von Erdgas im W\u00e4rmebereich deutlich vor 2040 komplett beendet sein. W\u00e4hrend die Abkehr von fossilen Energietr\u00e4gern im ersten Satz des Green Papers beteuert wird, stellt die weitere Nutzung von blauem Wasserstoff die diesbez\u00fcgliche Ambition des BMWK klar infrage. Seite 2 von 6 \r\n\r\nObwohl der Titel des Green Papers die Transformation von Erdgasnetzen in den Fokus setzt, sollte diese allenfalls die Ausnahme bleiben und die Stilllegung die Regel sein, insbesondere um \u00fcber-h\u00f6hte Entgeltkosten f\u00fcr Verbraucher*innen zu vermeiden. Hierbei ist es richtig, dass die entspre-chenden Leitungen in einem ersten Schritt erstmal im Untergrund verbleiben. Sofern Sanierungs-arbeiten an der Stra\u00dfe anstehen, sollte jedoch eine Entfernung oder Nachnutzung der Netze er-folgen. Der Gesetzgeber muss hierbei L\u00f6sungen finden, wer die Kosten eines entsprechenden R\u00fcckbaus tr\u00e4gt. Die Gasnetzbetreiber sollten hieran auch in Zukunft beteiligt werden. \r\nWichtig ist, dass die Stilllegung des Erdgasnetzes nicht nur im Kontext der Kommunalen W\u00e4rme-planung, sondern auch des Ausbaus der Strom-Verteilnetze geplant wird. Beide Prozesse m\u00fcssen eng miteinander abgestimmt sein, um Verbraucher*innen einen einfachen Umstieg zu erm\u00f6gli-chen. \r\nZu den Fragen: \r\nAllgemeines zur Zukunft der Erdgasverteilnetze im Zeitalter der Dekarbonisierung \r\n2. Welche Regelungen eines neuen Ordnungsrahmens f\u00fcr die Transformation von \r\nGasverteilnetzen werden von betroffenen Stakeholdern als n\u00f6tig erachtet und gibt \r\nes \u00fcber die oben skizzierten Optionen weitere Themen, die bei der Anpassung des \r\nOrdnungsrahmens ber\u00fccksichtigt werden m\u00fcssen? Hinsichtlich welcher der vorge- \r\nschlagenen Regelungen bestehen Bedenken? \r\nW\u00e4hrend durch das Green Paper der gesetzliche Rahmen f\u00fcr die Stilllegung sowie der Umgang mit individuellen Hausanschl\u00fcssen diskutiert werden, wird der Mechanismus, um eine Gasnetz-stilllegung anzuregen, zu wenig beleuchtet. Hier bedarf es einer gesetzlichen Verpflichtung zum Aufstellen von Gasnetz-Stilllegungspl\u00e4nen. Dies sollte gekoppelt an die Erstellung der kommuna-len W\u00e4rmeplanung passieren: Sobald Gebiete definiert sind, in welchen kein Fortbestand der Gas-netze gesichert festgestellt wurde, sollten f\u00fcr diese z\u00fcgig Stilllegungsfahrpl\u00e4ne erstellt und umge-setzt werden m\u00fcssen. \r\nVerbraucher*innen sollten dabei fr\u00fchzeitig \u00fcber Stilllegungspl\u00e4ne sowie alternative Heizm\u00f6glich-keiten informiert werden und ausreichend Zeit f\u00fcr den Umstieg ihrer Heizversorgung haben. Durch \u00fcbergeordnete Kontrollinstanzen sollte zudem sichergestellt werden, dass die Planungen f\u00fcr die Umr\u00fcstung von Teilen des Gasnetzes sich an den absehbar verf\u00fcgbaren Mengen an gr\u00fc-nem Wasserstoff orientieren. \r\nZudem sollte auf Grundlage der W\u00e4rmepl\u00e4ne ein bundesweites und zeitnahes Monitoring zur ge-planten Wasserstoff- und Biomethannutzung eingef\u00fchrt werden, in Anlehnung an bzw. Erg\u00e4nzung des \u00a7 28 (5) WPG. Die vorgesehene \u00dcberpr\u00fcfung im Hinblick auf die Verf\u00fcgbarkeit von gr\u00fcnem Wasserstoff nach \u00a7 35 (3) WPG erfolgt zu sp\u00e4t. Die vorliegenden W\u00e4rmepl\u00e4ne sollten durch die zust\u00e4ndigen Landesbeh\u00f6rden an eine festzulegende Bundesbeh\u00f6rde \u00fcberreicht werden, um die angek\u00fcndigten Wasserstoffbedarfe bundesweit zu sammeln. Auf Grundlage der W\u00e4rmepl\u00e4ne sollte \u00fcberpr\u00fcft werden, ob die erwarteten Bedarfe realistisch gedeckt werden k\u00f6nnen, und an-dernfalls eine Pr\u00fcfung von Alternativen eingeleitet werden. Seite 3 von 6 \r\n\r\n3. Wie wird die Zukunft der Gasverteilnetze eingesch\u00e4tzt? \u00dcberwiegen die Chancen \r\noder wird es k\u00fcnftig vorrangig um Stilllegung und R\u00fcckbau gehen? \r\nDie gro\u00dffl\u00e4chige Stilllegung der Gasverteilnetze wird die Regel sein. Bei einer Umnutzung sollte es einen Vorrang der direkten Wasserstoffnutzung vor der Nutzung synthetischen Methans geben, aufgrund der Effizienz- und Kostenvorteile in der Herstellung. Infrastrukturentscheidungen m\u00fcs-sen die Demethanisierung der Gasnetze erm\u00f6glichen. Entsprechend wird es am H2-Kernnetz zwar vereinzelt noch angeschlossene Gasverteilnetze geben, Hausanschl\u00fcsse werden aber allenfalls in einem sehr kleinen Umfang die Ausnahme sein. \r\nWasserstoff wird nur begrenzt verf\u00fcgbar sein und muss deshalb insbesondere f\u00fcr die Industrie priorisiert werden. Da Wasserstoff in der W\u00e4rmeversorgung aus Effizienzgr\u00fcnden nachweislich keine sinnvolle Option ist, sollte die Verpflichtung, Wasserstoff in der W\u00e4rmeplanung zu ber\u00fcck-sichtigen umgehend abgeschafft und durch eine reine \u201ckann\u201d-Option ersetzt werden. Dies w\u00fcrde den urspr\u00fcnglichen Gedanken von Ausschlussgebieten wiederherstellen, Planungssicherheit f\u00fcr Unternehmen schaffen und durch die Verl\u00e4sslichkeit auch einen gewissen Beitrag zum Verbrau-cher*innenschutz leisten. \r\nZwar wird der R\u00fcckbau zun\u00e4chst die Ausnahme sein, jedoch sollte dieser im Anwendungsfall so-wohl \u00fcber die direkte Beteiligung der Netzbetreiber als auch \u00fcber eine Besteuerung ihrer Gewinne mitfinanziert werden, damit die Kosten daf\u00fcr nicht bei den Steuerzahler*innen verbleiben. \r\n4. Welche Rolle k\u00f6nnen Gasverteilnetze beim Wasserstoffnetzaufbau spielen? Wel- \r\nche Rahmenbedingungen sollten gelten, damit Chancen der Wasserstoff-Wirtschaft \r\ndurch Gasverteilnetzbetreiber genutzt werden k\u00f6nnen? \r\nGasverteilnetze und deren Betreiber werden generell eine untergeordnete Rolle f\u00fcr den Aufbau von Wasserstoffnetzen spielen. Das Wasserstoffnetz wird vornehmlich auf Fernleitungsebene (H2-Kernnetz und dessen Erweiterung) entstehen, um Erzeugungszentren, Importpunkte und in-dustrielle Verbraucher und Kraftwerke zu verbinden. Auf Verteilnetzebene wird es nur in wenigen Einzelf\u00e4llen sinnvoll sein, Wasserstoffnetze aufzubauen (dort wo \u00fcber Verteilnetze Industriean-wendungen, die nicht elektrifizierbar sind, oder Kraftwerke angeschlossen werden). \r\nDie angedachten Stilllegungspl\u00e4ne f\u00fcr Gasverteilnetze sind als Umsetzung der EU-rechtlichen Ver-pflichtungen zu begr\u00fc\u00dfen. Eine zentrale Herausforderung bei der Transformation und Stilllegung der Gasnetze wird die Kostenfrage sein: Vorhandene Struktur umzur\u00fcsten lohnt sich in besonde-rem Ma\u00dfe dort, wo es absehbar eine gesicherte industrielle Nachfrage nach Wasserstoff geben wird. Die Kosten der Transformation der Netze d\u00fcrfen dabei aber nicht auf die Haushalte in der n\u00e4heren Umgebung umgelegt werden. \r\nEbenso sollten Gasnetzbetreiber selber die finanziellen Risiken einer Umstellung von Verteilnet-zen auf Wasserstoff tragen, um sicherzustellen, dass Anwohner*innen und Steuerzahler*innen nicht f\u00fcr betriebswirtschaftliche Fehlkalkulationen oder \u2013planungen aufkommen m\u00fcssen. \r\nDie durch das BMWK prognostizierte Weiternutzung von blauem Wasserstoff \u00fcber 2045 hinaus (S.11 des Green Papers) ist nicht nachvollziehbar und widerspricht dem im GEG gesetzten Ziel des Ausstiegs aus fossilen Brennstoffen, da im Fall der Nutzung von blauem Wasserstoff die Emissio-nen des genutzten fossilen Erdgas immer nur partiell vermieden werden k\u00f6nnen. Die Nutzung von Seite 4 von 6 \r\n\r\nErdgas im W\u00e4rmebereich muss deutlich vor 2040 komplett beendet sein. Es muss sichergestellt werden, dass alle gesetzlichen Vorgaben das Ziel haben, dass sp\u00e4testens 2045 ausschlie\u00dflich gr\u00fc-ner Wasserstoff genutzt wird. \r\nEbenso sind die zu erwartenden Mengen nachhaltigen Biomethans zu kl\u00e4ren und entsprechende Einsatzorte priorisiert festzulegen. Nur mit Transparenz \u00fcber die zuk\u00fcnftige regionale Verf\u00fcgbar-keit von Biomethan k\u00f6nnen Sicherheit geschaffen und Fehlinvestitionen vermieden werden. \r\nW\u00e4rmeplanung, Geb\u00e4udeenergiegesetz und Umsetzung der EU-Gas-/Wasserstoff- \r\nBinnenmarktpakets, Akteure und Verantwortlichkeiten, Zeitplan \r\n8. Von welchen verf\u00fcgbaren Mengen und welchem Preisniveau ist bei der Umstellung \r\nvon Gasnetzen auf Biomethan bzw. synthetisches Methan im Zeitverlauf auszuge- \r\nhen und in welchem Umfang kann damit Erdgas in den Verteilernetzen substituiert \r\nwerden? \r\nSynthetisches Methan ist insgesamt kritisch zu bewerten, da dieses (wie es die Studie von Agora Energiewende aus 2023 darstellt) diverse Risiken birgt und zu einem Verschleppen der Transfor-mation beitragen kann (indem beispielsweise Gasnetze nicht rechtzeitig umgenutzt werden). Auf-grund des niedrigen Technologiereifegrads von SNG und langen Investitionszyklen (von 10 Jahren) wird davon abgeraten, gro\u00dfe Investitionen in SNG zu t\u00e4tigen.1 \r\n1 Agora Energiewende (2023): https://www.agora-energiewende.de/fileadmin/Projekte/2022/A-EW_306_SNG_Imports_WEB.pdf \r\n9. Wie sollten Artikel 56 und Artikel 57 der EU-Gasbinnenmarktrichtlinie umgesetzt \r\nwerden, sodass die dort angelegten Pl\u00e4ne zur Entwicklung der Wasserstoffverteiler- \r\nnetze und zur Stilllegung von Erdgasverteilernetzen sinnvoll mit W\u00e4rmepl\u00e4nen und \r\nverbindlichen Fahrpl\u00e4nen nach \u00a7 71k GEG verzahnt sind? \r\nWasserstoffverteilnetze sollten unabh\u00e4ngig von der Geb\u00e4udebeheizung in kommunalen W\u00e4rme-pl\u00e4nen geplant werden und sich stattdessen an den Bedarfen von Industrie und ggf. Gewerbe ausrichten. Volkswirtschaftlich ist es richtig, die Stilllegung von Gasverteilnetzen dementspre-chend \u00fcberall dort im Gasnetz mit ausreichend Vorlauf erfolgen zu lassen, wo keine Industrie an-geschlossen ist. \r\nDie Kopplung der Stilllegung an die kommunale W\u00e4rmeplanung ist dabei sinnvoll: Mit dem Ab-schluss der W\u00e4rmeplanung (sobald alternative Heizm\u00f6glichkeiten definiert sind) sollte entspre-chend verpflichtend ein Fahrplan zur Stilllegung des Gasverteilnetzes erstellt werden m\u00fcssen. Da-mit kann auch der Gefahr entgegengewirkt werden, dass lokal Gewerbe und Industrie Druck auf lokale Entscheidungstr\u00e4ger machen, nicht ben\u00f6tigte Teile des Gasverteilnetzes aufrecht zu erhal-ten, um die Kosten f\u00fcr die Netze auf mehr Beitragszahler zu verteilen - wodurch auch Privathaus-halte am Gasnetz angeschlossen bleiben und durch h\u00f6here Netzentgelte unn\u00f6tig belastet wer-den. \r\nWir ermutigen kommunale Unternehmen nachdr\u00fccklich zur Erstellung von Dekarbonisierungspl\u00e4-nen f\u00fcr ihre Gesch\u00e4ftsaktivit\u00e4ten sowie zur damit verbundenen Beantwortung der Fragen zur Um- Seite 5 von 6 \r\n\r\ngestaltung ihrer Gasnetze. Nur wo strenge Kriterien hinsichtlich Klimaschutz und Verbraucher*in-nenschutz erf\u00fcllt sind und wo es konkrete Bedarfe seitens industrieller und gewerblicher Unter-nehmen vor Ort gibt, die nicht sinnvoller durch Elektrifizierung bedient werden k\u00f6nnen, sollte eine Umstellung auf Wasserstoff vorgesehen sein. \r\nZudem sollte der Gesetzgeber auch proaktiv eine L\u00f6sung f\u00fcr den - tendenziell zunehmenden - In-teressenkonflikt zwischen der Versorgung von Industrie und Gewerbe im Verteilnetz und den Kos-ten f\u00fcr Haushalte finden: Industrie und Gewerbe zahlen schon heute nur einen Bruchteil der Netz-entgelte verglichen mit Haushalten. Hier gibt es somit bereits eine systemische Ungleichheit, die in Zukunft mit Blick auf die Frage der Lastenteilung der Transformation fair beantwortet werden muss. \r\nAnschlussverpflichtungen/Stilllegungspl\u00e4ne \r\n11. Ab welchem Jahr (2030, 2035, 2040, \u2026?) ist damit zu rechnen, dass es vermehrt zu \r\nAnschlussverweigerungen und Anschlussk\u00fcndigungen in Gasverteilernetzen kom- \r\nmen k\u00f6nnte? \r\nDie konkreten Stilllegungsdaten der lokalen Verteilnetze lassen sich nur sehr lokal genau absch\u00e4t-zen. Deshalb wird ein gutes, zentrales Monitoring der Gas-Planungsvorhaben und der Transfor-mationspl\u00e4ne in der W\u00e4rmeplanung von essentieller Bedeutung sein. \r\n13. Was ist ein realistischer Zeitraum f\u00fcr einen Stilllegungspfad im Rahmen eines Still- \r\nlegungsplans? Von welchen Faktoren h\u00e4ngt die L\u00e4nge eines Stilllegungspfades ab? \r\nMit dem Abschluss der kommunalen W\u00e4rmeplanung sowie der Nicht-Ausweisung von Wasser-stoffvorranggebieten sollte der Stilllegungspfad der Gasverteilnetze starten. Sofern in den Gebie-ten die Schaffung eines W\u00e4rmenetzes vorgesehen ist, sollte die Stilllegung sich am Ausbaufort-schritt des entsprechenden Netzes orientieren und nach der Verf\u00fcgbarkeit des W\u00e4rmenetzes eine \u00dcbergangszeit zum Heizungswechsel vorsehen. Seite 6 von 6 \r\n\r\nIn Gebieten ohne geplante W\u00e4rmenetze sollte eine \u00dcbergangsfrist f\u00fcr die Stilllegung der Gasnetze gelten, innerhalb welcher die Haushalte ihren Heizungswechsel planen k\u00f6nnen. Die Haushalte sollten zum Zeitpunkt der Festlegung der W\u00e4rmeplanung dar\u00fcber informiert werden, dass ihr Gas-anschluss perspektivisch stillgelegt wird. \r\n17. Wie sollten Stilllegungen von Netzanschl\u00fcssen zuk\u00fcnftig finanziert werden? \r\nDie Stilllegung von Netzanschl\u00fcssen sollte \u00fcber angesparte Reserven seitens der Netzbetreiber, sowie deren wahrgenommene R\u00fcckbauverpflichtungen finanziert werden. \r\nKonzessionsvertr\u00e4ge \r\n32. Wie soll mit F\u00e4llen umgegangen wird, in denen ein Geb\u00e4udeeigent\u00fcmer sich f\u00fcr \r\neine Heizungsanlage, die mit Wasserstoff, Biomethan oder (partiell) mit fossilem Gas \r\nbetrieben wird, entscheidet in der Annahme, dass das Gasnetz weiterbetrieben oder \r\ntransformiert wird und im Nachhinein die Stilllegung des Gasnetzes beschlossen \r\nwird? \r\nUm solche H\u00e4rtef\u00e4lle zu vermeiden, sollte zum einen eine m\u00f6glichst fr\u00fchzeitige Information \u00fcber die geplante Art der W\u00e4rmeversorgung in der kommunalen W\u00e4rmeplanung stattfinden - insbe-sondere sofern eine Transformation des Gasnetzes im entsprechenden Gebiet nicht vorgesehen ist. Sofern eine Ausweisung des Gebiets zu einem Wasserstoffvorranggebiet in der W\u00e4rmepla-nung vorgesehen sein sollte, ist es Aufgabe des Gesetzgebers sicherzustellen, dass die Betroffenen m\u00f6glichst fr\u00fchzeitig \u00fcber die vorhandenen Risiken von Wasserstoff- oder Biomethan-Heizungen sowie das Risiko von Fehlinvestitionen in nicht-emissionsfreie Heizungsanlagen hingewiesen wer-den \r\nDes Weiteren braucht es die Einrichtung eines H\u00e4rtefallfonds, um die W\u00e4rmewende sozial zu flan-kieren und allen Haushalten die Umstellung auf erneuerbare Alternativen zu erm\u00f6glichen. \r\nSonstiges \r\n33. In welchem Ma\u00dfe beabsichtigen die Kommunen, in Gebieten mit bestehenden Erd- \r\ngasverteilnetzen diese als Wasserstoffvorranggebiete auszuweisen? \r\nDie Erfahrungen aus Baden-W\u00fcrttemberg zeigen, dass im Schnitt Kommunen 13% ihres W\u00e4rme-bedarfs mit Wasserstoff decken wollen. Dies ist deutlich \u00fcberdimensioniert und geht weit \u00fcber die aktuell verf\u00fcgbaren Mengen hinaus. Entsprechend ist der Gesetzgeber in der Pflicht, Leitplan-ken zu setzen, um \u00fcberdimensionierte transformierte Gasnetze zu verhindern, welche schluss-endlich finanzielle Mehrbelastungen der Haushalte bedeuten und die Versorgung mit gr\u00fcnem Wasserstoff in Bereichen gef\u00e4hrden, in denen nach heutigem Stand keine sinnvollen Alternativen f\u00fcr die Dekarbonisierung existieren. Zudem gibt es aktuell nur wenig konkrete Daten und Aussa-gen zur Umwidmung von Erdgas- zu Wasserstoff-Netzen, was den hohen Unsicherheiten geschul-det ist (diese sind den Kommunen meist jedoch durchaus bewusst).2 \r\n2 BUND Baden-W\u00fcrttemberg: https://solar.bund-bawue.de/heating/ (Stand 12.04.2024)  \r\n"
+                        }
+                    }
+                ],
+                "title": "Green Paper Transformation Gas-/Wasserstoff- Verteilernetze"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/38/80/324521/Stellungnahme-Gutachten-SG2406240280.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_MEMBERS_OF_PARLIAMENT",
+                                "de": "Mitglieder des Bundestages",
+                                "en": "Members of parliament"
+                            }
+                        ],
+                        "sendingDate": "2024-04-22"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009496",
+                "regulatoryProjectTitle": "Schaffung eines digitalen Herkunfts- und Identifikationssystems N\u00e4hrstoff- und Pflanzenschutz",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "text folgt"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/60/fa/324523/Stellungnahme-Gutachten-SG2406270230.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMEL",
+                                "de": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)",
+                                "en": "Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-14"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009498",
+                "regulatoryProjectTitle": "BVL-Zulassung f\u00fcr das Pestizidmittel Profume zum Zweck des Klimaschutzes",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Offener Verb\u00e4ndebrief | Sulfurylfluorid-Emissionen stoppen\r\n\r\nBundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft, \r\n11055 Berlin\r\n\r\nBundesminister Cem \u00d6zdemir\r\n\r\nSehr geehrter Herr Bundesminister \u00d6zdemir, \r\n\r\nbereits am 25. M\u00e4rz wandten wir uns mit einem Anschreiben an Ihr Haus, um unsere Sorge \u00fcber eine Wiederzulassung des Pestizidprodukts ProFume zum Ausdruck zu bringen, dessen Zulassung zum 31. Oktober 2024 ausl\u00e4uft. Wir forderten Sie auf, weitreichende Anwendungsbeschr\u00e4nkungen zu erlassen, um die Emissionen des extrem klimasch\u00e4dlichen Mittels in die Atmosph\u00e4re zu verhindern. Eine Antwort blieb bislang aus. \r\nProFume wird in Deutschland vor allem zur Begasung von Rundholz vor dem Export verwendet. Der Hauptwirkstoff von ProFume ist Sulfurylfluorid \u2013 ein Gas, das nicht nur giftig f\u00fcr Menschen und Tiere, sondern auch extrem klimasch\u00e4dlich ist. Sulfurylfluorid hat dem sechsten Sachstandsberichts des Weltklimarats IPCC zufolge ein Treibhauspotenzial, das \u00fcber den Zeitraum von 100 Jahren 4.630-mal h\u00f6her ist als das von CO2. Auf 20 Jahre betrachtet ist Sulfurylfluorid sogar 7.510-mal klimawirksamer als CO2. Dies ist besonders besorgniserregend, da der Einsatz des Gases in den letzten Jahren massiv angestiegen ist: Die Emissionen, die von 2019 bis 2022 allein im Hamburger Hafen durch Sulfurylfluorid verursacht wurden, k\u00f6nnen mit rund drei Millionen Tonnen CO2-\u00c4quivalenten veranschlagt werden. Das \u00fcbersteigt den j\u00e4hrlichen Aussto\u00df des innerdeutschen Flugverkehrs. Der Grund f\u00fcr den Anstieg ist, dass mehr Schadholz geschlagen wurde. Das liegt wiederum auch daran, dass fr\u00fcher viele Nadelb\u00e4ume in Monokulturen gepflanzt wurden, die nicht an den Standort angepasst waren. Deren Anf\u00e4lligkeit f\u00fcr Sch\u00e4dlinge wurde durch vermehrt auftretende St\u00fcrme, Hitze und Trockenheit in Folge des Klimawandels noch gesteigert. Wie sehr Sulfurylfluorid als hochwirksames Treibhausgas an Bedeutung gewinnt, unterstreicht die Aufnahme von Sulfurylfluorid in die F-Gase Verordnung der Europ\u00e4ischen Union.\r\nIm Sommer 2023 haben sich rund 15.000 Menschen im Rahmen der Aktion \u201eStoppen Sie das Klimagift\u201c  an Sie gewandt und Sie gebeten, sich gegen die Verl\u00e4ngerung der Genehmigung f\u00fcr Sulfurylfluorid auf EU-Ebene einzusetzen. Der St\u00e4ndige Ausschuss f\u00fcr Pflanzen, Tiere, Lebens- und Futtermittel (PAFF-Ausschuss) der EU-Kommission hat dennoch eine technische Verl\u00e4ngerung um drei Jahre beschlossen. Der Grund: Der berichterstattende Mitgliedsstaat \u00d6sterreich hat es schlichtweg verpasst, den notwendigen Bericht zur Risikobewertung einzureichen. \r\nAuf einen Verb\u00e4ndebrief vom 29. Juni 2023 antwortete im Oktober Umwelt-Staatssekret\u00e4rin Christiane Rohleder, das Umweltministerium werde \"kritisch darauf achten\", dass der Aspekt der Klimawirksamkeit bei der Entscheidungsfindung hinsichtlich der Wiedergenehmigung von Sulfurylfluorid ber\u00fccksichtigt wird. Diese Antwort war zwischen dem Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) und dem Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL) abgestimmt.\r\nNach der technischen Verl\u00e4ngerung auf EU-Ebene halten wir es f\u00fcr dringend notwendig, die Mittelzulassung von ProFume in Deutschland anzupassen: ProFume sollte \u2013 wenn \u00fcberhaupt \u2013  in Deutschland nur mit weitreichenden Anwendungsbeschr\u00e4nkungen zugelassen werden, welche erfolgreich verhindern, dass Sulfurylfluorid weiterhin in die Atmosph\u00e4re gelangen kann. Nur so kann sichergestellt werden, dass von dem weiteren Einsatz von ProFume keine \u201eunannehmbaren Auswirkungen auf die Umwelt\u201c unter besonderer Ber\u00fccksichtigung der \u201eAuswirkung auf die biologische Vielfalt und das \u00d6kosystem\u201c ausgehen, so wie es die entsprechende EU-Verordnung vorsieht.  Denn in der Dekade, in der wir dringend Treibhausgase drastisch reduzieren m\u00fcssen, sind weitere Emissionen von  Sulfurylfluorid unannehmbar. Besonders gilt dies, da bereits nachhaltigere Alternativen zum Einsatz von Sulfurylfluorid existieren. \r\nSollte es nicht zu weitreichenden Anwendungsbeschr\u00e4nkungen f\u00fcr ProFume kommen, muss die Mittelzulassung ruhen. Dies w\u00e4re mindestens so lange notwendig, bis die Risikobewertung im europ\u00e4ischen Zulassungsverfahren von Sulfurylfluorid abgeschlossen ist.\r\nBitte sorgen Sie daf\u00fcr, dass der Einsatz von ProFume in Deutschland nicht weiter zur Befeuerung der Klimakrise beitragen kann.\r\n\r\nMit freundlichen Gr\u00fc\u00dfen\r\n"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/5b/55/324525/Stellungnahme-Gutachten-SG2406270232.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-14"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009498",
+                "regulatoryProjectTitle": "BVL-Zulassung f\u00fcr das Pestizidmittel Profume zum Zweck des Klimaschutzes",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Offener Brief | Sulfurylfluorid-Emissionen stoppen\r\nUmweltinstitut M\u00fcnchen e.V., 14.05.2024 | www.umweltinstitut.org\r\n\r\n\r\nBundesministerium f\u00fcr Umwelt, Naturschutz,\r\nnukleare Sicherheit und Verbraucherschutz,\r\nFrau Bundesministerin Steffi Lemke\r\n11055 Berlin\r\n\r\n\r\nSehr geehrte Frau Bundesministerin Lemke,\r\nbereits am 25. M\u00e4rz wandten wir uns mit einem Anschreiben an Ihr Haus, um unsere Sorge \u00fcber eine\r\nWiederzulassung des Pestizidprodukts ProFume zum Ausdruck zu bringen, dessen Zulassung zum 31.Oktober 2024 ausl\u00e4uft. Wir forderten Sie auf, weitreichende Anwendungsbeschr\u00e4nkungen zu erlassen, um die Emissionen des extrem klimasch\u00e4dlichen Mittels in die Atmosph\u00e4re zu verhindern. Eine Antwort blieb bislang aus.\r\nProFume wird in Deutschland vor allem zur Begasung von Rundholz vor dem Export verwendet. Der\r\nHauptwirkstoff von ProFume ist Sulfurylfluorid \u2013 ein Gas, das nicht nur giftig f\u00fcr Menschen und Tiere,\r\nsondern auch extrem klimasch\u00e4dlich ist. Sulfurylfluorid hat dem sechsten Sachstandsberichts des Weltklimarats IPCC zufolge ein Treibhauspotenzial, das \u00fcber den Zeitraum von 100 Jahren 4.630-mal h\u00f6her ist als das von CO2. Auf 20 Jahre betrachtet ist Sulfurylfluorid sogar 7.510-mal klimawirksamer als CO2. Dies ist besonders besorgniserregend, da der Einsatz des Gases in den letzten Jahren massiv angestiegen ist: Die Emissionen, die von 2019 bis 2022 allein im Hamburger Hafen durch Sulfurylfluorid verursacht wurden, k\u00f6nnen mit rund drei Millionen Tonnen CO2-\u00c4quivalenten veranschlagt werden. Das \u00fcbersteigt den j\u00e4hrlichen Aussto\u00df des innerdeutschen Flugverkehrs. Der Grund f\u00fcr den Anstieg ist, dass mehr Schadholz geschlagen wurde. Das liegt wiederum auch daran, dass fr\u00fcher viele Nadelb\u00e4ume in Monokulturen gepflanzt wurden, die nicht an den Standort angepasst waren. Deren Anf\u00e4lligkeit f\u00fcr Sch\u00e4dlinge wurde durch vermehrt auftretende St\u00fcrme, Hitze und Trockenheit in Folge des Klimawandels noch gesteigert. Wie sehr Sulfurylfluorid als hochwirksames Treibhausgas an Bedeutung gewinnt, unterstreicht die Aufnahme\r\nvon Sulfurylfluorid in die F-Gase Verordnung der Europ\u00e4ischen Union. Im Sommer 2023 haben sich rund 15.000 Menschen im Rahmen der Aktion \u201eStoppen Sie das Klimagift\" 1 an Sie gewandt und Sie gebeten, sich gegen die Verl\u00e4ngerung der Genehmigung f\u00fcr Sulfurylfluorid auf EU-Ebene einzusetzen. Der St\u00e4ndige Ausschuss f\u00fcr Pflanzen, Tiere, Lebens- und Futtermittel (PAFFAusschuss)\r\nder EU-Kommission hat dennoch eine technische Verl\u00e4ngerung um drei Jahre beschlossen.\r\n\r\nDer Grund: Der berichterstattende Mitgliedsstaat \u00d6sterreich hat es schlichtweg verpasst, den notwendigen Bericht zur Risikobewertung einzureichen.\r\nAuf einen Verb\u00e4ndebrief vom 29. Juni 2023 antwortete im Oktober Umwelt-Staatssekret\u00e4rin Christiane Rohleder, das Umweltministerium werde \u201ekritisch darauf achten\u201c, dass der Aspekt der Klimawirksamkeit bei der Entscheidungsfindung hinsichtlich der Wiedergenehmigung von Sulfurylfluorid ber\u00fccksichtigt wird. Diese Antwort war zwischen dem Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) und dem Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (BMEL) abgestimmt. Nach der technischen Verl\u00e4ngerung auf EU-Ebene halten wir es f\u00fcr dringend notwendig, die Mittelzulassung von ProFume in Deutschland anzupassen: ProFume sollte \u2013 wenn \u00fcberhaupt \u2013 in Deutschland nur mit weitreichenden\r\nAnwendungsbeschr\u00e4nkungen zugelassen werden, welche erfolgreich verhindern, dass Sulfurylfluorid\r\nweiterhin in die Atmosph\u00e4re gelangen kann. Nur so kann sichergestellt werden, dass von dem weiteren Einsatz von ProFume keine \u201eunannehmbaren Auswirkungen auf die Umwelt\u201c unter besonderer Ber\u00fccksichtigung der \u201eAuswirkung auf die biologische Vielfalt und das \u00d6kosystem\u201c ausgehen, so wie es die entsprechende EU-Verordnung vorsieht. Denn in der Dekade, in der wir dringend Treibhausgase drastisch reduzieren m\u00fcssen, sind weitere Emissionen von Sulfurylfluorid unannehmbar. Besonders gilt dies, da bereits nachhaltigere Alternativen zum Einsatz von Sulfurylfluorid existieren. Sollte es nicht zu weitreichenden Anwendungsbeschr\u00e4nkungen f\u00fcr ProFume kommen, muss die Mittelzulassung ruhen. Dies w\u00e4re mindestens so lange notwendig, bis die Risikobewertung im europ\u00e4ischen Zulassungsverfahren\r\nvon Sulfurylfluorid abgeschlossen ist. Bitte sorgen Sie daf\u00fcr, dass der Einsatz von ProFume in Deutschland nicht weiter zur Befeuerung der Klimakrise\r\nbeitragen kann.\r\n\r\nMit freundlichen Gr\u00fc\u00dfen"
+                }
+            },
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/bb/f6/324527/Stellungnahme-Gutachten-SG2406270223.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-04-12"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0009499",
+                "regulatoryProjectTitle": "Green Paper Transformation Gas-/Wasserstoff- Verteilernetze",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Allgemeine Punkte \r\nDas Green Paper des Bundesministeriums f\u00fcr Wirtschaft und Klimaschutz (BMWK) zur Transfor-mation der Gas- und Wasserstoffverteilnetze geht gemeinsam mit dem Eckpunktepapier der Bun-desnetzagentur (BNetzA) zu den Abschreibungsmodalit\u00e4ten der Gasinfrastruktur und den Was-serstofffahrpl\u00e4nen der Bundesnetzagentur zentrale Fragen an, welche sich im Zuge des Ausstiegs aus fossilem Gas stellen. Aufgrund der unterschiedlichen Zust\u00e4ndigkeiten von BNetzA und BMWK ist es dabei essentiell, dass der entsprechende Prozess von einer engen Abstimmung zwischen beiden Institutionen gepr\u00e4gt ist. \r\nPositiv zu bewerten ist beim Green Paper insbesondere, dass der Erdgasausstieg bis sp\u00e4testens 2045 konkret benannt wird und Planungen hierf\u00fcr eingeleitet werden sollen. Die zeichnenden Verb\u00e4nde teilen die Ansicht des BMWK, dass f\u00fcr diesen Ausstieg umfassende Stilllegungen von Erdgasnetzen n\u00f6tig sein werden und dass insbesondere in der Geb\u00e4udew\u00e4rme Wasserstoff keine gro\u00dfe Bedeutung haben wird. Genauso wird die Notwendigkeit gesehen, einen Rahmen und ge-setzliche Regelung zur verpflichtenden Aufstellung von Stilllegungspl\u00e4nen der Gasverteilnetze zu erstellen. Dies sollte im Rahmen der W\u00e4rmeplanung stattfinden. \r\nJedoch beinhaltet das Green Paper auch mehrere kritisch zu bewertende Punkte: Der geplante Einsatz von blauem Wasserstoff im W\u00e4rmebereich auch \u00fcber 2045 hinaus steht im Widerspruch zum Ziel, bis zu diesem Jahr aus fossilen Brennstoffen auszusteigen. Analog zur Kraftwerksstrate-gie muss die Nutzung von Erdgas im W\u00e4rmebereich deutlich vor 2040 komplett beendet sein. W\u00e4hrend die Abkehr von fossilen Energietr\u00e4gern im ersten Satz des Green Papers beteuert wird, stellt die weitere Nutzung von blauem Wasserstoff die diesbez\u00fcgliche Ambition des BMWK klar infrage. Seite 2 von 6 \r\n\r\nObwohl der Titel des Green Papers die Transformation von Erdgasnetzen in den Fokus setzt, sollte diese allenfalls die Ausnahme bleiben und die Stilllegung die Regel sein, insbesondere um \u00fcber-h\u00f6hte Entgeltkosten f\u00fcr Verbraucher*innen zu vermeiden. Hierbei ist es richtig, dass die entspre-chenden Leitungen in einem ersten Schritt erstmal im Untergrund verbleiben. Sofern Sanierungs-arbeiten an der Stra\u00dfe anstehen, sollte jedoch eine Entfernung oder Nachnutzung der Netze er-folgen. Der Gesetzgeber muss hierbei L\u00f6sungen finden, wer die Kosten eines entsprechenden R\u00fcckbaus tr\u00e4gt. Die Gasnetzbetreiber sollten hieran auch in Zukunft beteiligt werden. \r\nWichtig ist, dass die Stilllegung des Erdgasnetzes nicht nur im Kontext der Kommunalen W\u00e4rme-planung, sondern auch des Ausbaus der Strom-Verteilnetze geplant wird. Beide Prozesse m\u00fcssen eng miteinander abgestimmt sein, um Verbraucher*innen einen einfachen Umstieg zu erm\u00f6gli-chen. \r\nZu den Fragen: \r\nAllgemeines zur Zukunft der Erdgasverteilnetze im Zeitalter der Dekarbonisierung \r\n2. Welche Regelungen eines neuen Ordnungsrahmens f\u00fcr die Transformation von \r\nGasverteilnetzen werden von betroffenen Stakeholdern als n\u00f6tig erachtet und gibt \r\nes \u00fcber die oben skizzierten Optionen weitere Themen, die bei der Anpassung des \r\nOrdnungsrahmens ber\u00fccksichtigt werden m\u00fcssen? Hinsichtlich welcher der vorge- \r\nschlagenen Regelungen bestehen Bedenken? \r\nW\u00e4hrend durch das Green Paper der gesetzliche Rahmen f\u00fcr die Stilllegung sowie der Umgang mit individuellen Hausanschl\u00fcssen diskutiert werden, wird der Mechanismus, um eine Gasnetz-stilllegung anzuregen, zu wenig beleuchtet. Hier bedarf es einer gesetzlichen Verpflichtung zum Aufstellen von Gasnetz-Stilllegungspl\u00e4nen. Dies sollte gekoppelt an die Erstellung der kommuna-len W\u00e4rmeplanung passieren: Sobald Gebiete definiert sind, in welchen kein Fortbestand der Gas-netze gesichert festgestellt wurde, sollten f\u00fcr diese z\u00fcgig Stilllegungsfahrpl\u00e4ne erstellt und umge-setzt werden m\u00fcssen. \r\nVerbraucher*innen sollten dabei fr\u00fchzeitig \u00fcber Stilllegungspl\u00e4ne sowie alternative Heizm\u00f6glich-keiten informiert werden und ausreichend Zeit f\u00fcr den Umstieg ihrer Heizversorgung haben. Durch \u00fcbergeordnete Kontrollinstanzen sollte zudem sichergestellt werden, dass die Planungen f\u00fcr die Umr\u00fcstung von Teilen des Gasnetzes sich an den absehbar verf\u00fcgbaren Mengen an gr\u00fc-nem Wasserstoff orientieren. \r\nZudem sollte auf Grundlage der W\u00e4rmepl\u00e4ne ein bundesweites und zeitnahes Monitoring zur ge-planten Wasserstoff- und Biomethannutzung eingef\u00fchrt werden, in Anlehnung an bzw. Erg\u00e4nzung des \u00a7 28 (5) WPG. Die vorgesehene \u00dcberpr\u00fcfung im Hinblick auf die Verf\u00fcgbarkeit von gr\u00fcnem Wasserstoff nach \u00a7 35 (3) WPG erfolgt zu sp\u00e4t. Die vorliegenden W\u00e4rmepl\u00e4ne sollten durch die zust\u00e4ndigen Landesbeh\u00f6rden an eine festzulegende Bundesbeh\u00f6rde \u00fcberreicht werden, um die angek\u00fcndigten Wasserstoffbedarfe bundesweit zu sammeln. Auf Grundlage der W\u00e4rmepl\u00e4ne sollte \u00fcberpr\u00fcft werden, ob die erwarteten Bedarfe realistisch gedeckt werden k\u00f6nnen, und an-dernfalls eine Pr\u00fcfung von Alternativen eingeleitet werden. Seite 3 von 6 \r\n\r\n3. Wie wird die Zukunft der Gasverteilnetze eingesch\u00e4tzt? \u00dcberwiegen die Chancen \r\noder wird es k\u00fcnftig vorrangig um Stilllegung und R\u00fcckbau gehen? \r\nDie gro\u00dffl\u00e4chige Stilllegung der Gasverteilnetze wird die Regel sein. Bei einer Umnutzung sollte es einen Vorrang der direkten Wasserstoffnutzung vor der Nutzung synthetischen Methans geben, aufgrund der Effizienz- und Kostenvorteile in der Herstellung. Infrastrukturentscheidungen m\u00fcs-sen die Demethanisierung der Gasnetze erm\u00f6glichen. Entsprechend wird es am H2-Kernnetz zwar vereinzelt noch angeschlossene Gasverteilnetze geben, Hausanschl\u00fcsse werden aber allenfalls in einem sehr kleinen Umfang die Ausnahme sein. \r\nWasserstoff wird nur begrenzt verf\u00fcgbar sein und muss deshalb insbesondere f\u00fcr die Industrie priorisiert werden. Da Wasserstoff in der W\u00e4rmeversorgung aus Effizienzgr\u00fcnden nachweislich keine sinnvolle Option ist, sollte die Verpflichtung, Wasserstoff in der W\u00e4rmeplanung zu ber\u00fcck-sichtigen umgehend abgeschafft und durch eine reine \u201ckann\u201d-Option ersetzt werden. Dies w\u00fcrde den urspr\u00fcnglichen Gedanken von Ausschlussgebieten wiederherstellen, Planungssicherheit f\u00fcr Unternehmen schaffen und durch die Verl\u00e4sslichkeit auch einen gewissen Beitrag zum Verbrau-cher*innenschutz leisten. \r\nZwar wird der R\u00fcckbau zun\u00e4chst die Ausnahme sein, jedoch sollte dieser im Anwendungsfall so-wohl \u00fcber die direkte Beteiligung der Netzbetreiber als auch \u00fcber eine Besteuerung ihrer Gewinne mitfinanziert werden, damit die Kosten daf\u00fcr nicht bei den Steuerzahler*innen verbleiben. \r\n4. Welche Rolle k\u00f6nnen Gasverteilnetze beim Wasserstoffnetzaufbau spielen? Wel- \r\nche Rahmenbedingungen sollten gelten, damit Chancen der Wasserstoff-Wirtschaft \r\ndurch Gasverteilnetzbetreiber genutzt werden k\u00f6nnen? \r\nGasverteilnetze und deren Betreiber werden generell eine untergeordnete Rolle f\u00fcr den Aufbau von Wasserstoffnetzen spielen. Das Wasserstoffnetz wird vornehmlich auf Fernleitungsebene (H2-Kernnetz und dessen Erweiterung) entstehen, um Erzeugungszentren, Importpunkte und in-dustrielle Verbraucher und Kraftwerke zu verbinden. Auf Verteilnetzebene wird es nur in wenigen Einzelf\u00e4llen sinnvoll sein, Wasserstoffnetze aufzubauen (dort wo \u00fcber Verteilnetze Industriean-wendungen, die nicht elektrifizierbar sind, oder Kraftwerke angeschlossen werden). \r\nDie angedachten Stilllegungspl\u00e4ne f\u00fcr Gasverteilnetze sind als Umsetzung der EU-rechtlichen Ver-pflichtungen zu begr\u00fc\u00dfen. Eine zentrale Herausforderung bei der Transformation und Stilllegung der Gasnetze wird die Kostenfrage sein: Vorhandene Struktur umzur\u00fcsten lohnt sich in besonde-rem Ma\u00dfe dort, wo es absehbar eine gesicherte industrielle Nachfrage nach Wasserstoff geben wird. Die Kosten der Transformation der Netze d\u00fcrfen dabei aber nicht auf die Haushalte in der n\u00e4heren Umgebung umgelegt werden. \r\nEbenso sollten Gasnetzbetreiber selber die finanziellen Risiken einer Umstellung von Verteilnet-zen auf Wasserstoff tragen, um sicherzustellen, dass Anwohner*innen und Steuerzahler*innen nicht f\u00fcr betriebswirtschaftliche Fehlkalkulationen oder \u2013planungen aufkommen m\u00fcssen. \r\nDie durch das BMWK prognostizierte Weiternutzung von blauem Wasserstoff \u00fcber 2045 hinaus (S.11 des Green Papers) ist nicht nachvollziehbar und widerspricht dem im GEG gesetzten Ziel des Ausstiegs aus fossilen Brennstoffen, da im Fall der Nutzung von blauem Wasserstoff die Emissio-nen des genutzten fossilen Erdgas immer nur partiell vermieden werden k\u00f6nnen. Die Nutzung von Seite 4 von 6 \r\n\r\nErdgas im W\u00e4rmebereich muss deutlich vor 2040 komplett beendet sein. Es muss sichergestellt werden, dass alle gesetzlichen Vorgaben das Ziel haben, dass sp\u00e4testens 2045 ausschlie\u00dflich gr\u00fc-ner Wasserstoff genutzt wird. \r\nEbenso sind die zu erwartenden Mengen nachhaltigen Biomethans zu kl\u00e4ren und entsprechende Einsatzorte priorisiert festzulegen. Nur mit Transparenz \u00fcber die zuk\u00fcnftige regionale Verf\u00fcgbar-keit von Biomethan k\u00f6nnen Sicherheit geschaffen und Fehlinvestitionen vermieden werden. \r\nW\u00e4rmeplanung, Geb\u00e4udeenergiegesetz und Umsetzung der EU-Gas-/Wasserstoff- \r\nBinnenmarktpakets, Akteure und Verantwortlichkeiten, Zeitplan \r\n8. Von welchen verf\u00fcgbaren Mengen und welchem Preisniveau ist bei der Umstellung \r\nvon Gasnetzen auf Biomethan bzw. synthetisches Methan im Zeitverlauf auszuge- \r\nhen und in welchem Umfang kann damit Erdgas in den Verteilernetzen substituiert \r\nwerden? \r\nSynthetisches Methan ist insgesamt kritisch zu bewerten, da dieses (wie es die Studie von Agora Energiewende aus 2023 darstellt) diverse Risiken birgt und zu einem Verschleppen der Transfor-mation beitragen kann (indem beispielsweise Gasnetze nicht rechtzeitig umgenutzt werden). Auf-grund des niedrigen Technologiereifegrads von SNG und langen Investitionszyklen (von 10 Jahren) wird davon abgeraten, gro\u00dfe Investitionen in SNG zu t\u00e4tigen.1 \r\n1 Agora Energiewende (2023): https://www.agora-energiewende.de/fileadmin/Projekte/2022/A-EW_306_SNG_Imports_WEB.pdf \r\n9. Wie sollten Artikel 56 und Artikel 57 der EU-Gasbinnenmarktrichtlinie umgesetzt \r\nwerden, sodass die dort angelegten Pl\u00e4ne zur Entwicklung der Wasserstoffverteiler- \r\nnetze und zur Stilllegung von Erdgasverteilernetzen sinnvoll mit W\u00e4rmepl\u00e4nen und \r\nverbindlichen Fahrpl\u00e4nen nach \u00a7 71k GEG verzahnt sind? \r\nWasserstoffverteilnetze sollten unabh\u00e4ngig von der Geb\u00e4udebeheizung in kommunalen W\u00e4rme-pl\u00e4nen geplant werden und sich stattdessen an den Bedarfen von Industrie und ggf. Gewerbe ausrichten. Volkswirtschaftlich ist es richtig, die Stilllegung von Gasverteilnetzen dementspre-chend \u00fcberall dort im Gasnetz mit ausreichend Vorlauf erfolgen zu lassen, wo keine Industrie an-geschlossen ist. \r\nDie Kopplung der Stilllegung an die kommunale W\u00e4rmeplanung ist dabei sinnvoll: Mit dem Ab-schluss der W\u00e4rmeplanung (sobald alternative Heizm\u00f6glichkeiten definiert sind) sollte entspre-chend verpflichtend ein Fahrplan zur Stilllegung des Gasverteilnetzes erstellt werden m\u00fcssen. Da-mit kann auch der Gefahr entgegengewirkt werden, dass lokal Gewerbe und Industrie Druck auf lokale Entscheidungstr\u00e4ger machen, nicht ben\u00f6tigte Teile des Gasverteilnetzes aufrecht zu erhal-ten, um die Kosten f\u00fcr die Netze auf mehr Beitragszahler zu verteilen - wodurch auch Privathaus-halte am Gasnetz angeschlossen bleiben und durch h\u00f6here Netzentgelte unn\u00f6tig belastet wer-den. \r\nWir ermutigen kommunale Unternehmen nachdr\u00fccklich zur Erstellung von Dekarbonisierungspl\u00e4-nen f\u00fcr ihre Gesch\u00e4ftsaktivit\u00e4ten sowie zur damit verbundenen Beantwortung der Fragen zur Um- Seite 5 von 6 \r\n\r\ngestaltung ihrer Gasnetze. Nur wo strenge Kriterien hinsichtlich Klimaschutz und Verbraucher*in-nenschutz erf\u00fcllt sind und wo es konkrete Bedarfe seitens industrieller und gewerblicher Unter-nehmen vor Ort gibt, die nicht sinnvoller durch Elektrifizierung bedient werden k\u00f6nnen, sollte eine Umstellung auf Wasserstoff vorgesehen sein. \r\nZudem sollte der Gesetzgeber auch proaktiv eine L\u00f6sung f\u00fcr den - tendenziell zunehmenden - In-teressenkonflikt zwischen der Versorgung von Industrie und Gewerbe im Verteilnetz und den Kos-ten f\u00fcr Haushalte finden: Industrie und Gewerbe zahlen schon heute nur einen Bruchteil der Netz-entgelte verglichen mit Haushalten. Hier gibt es somit bereits eine systemische Ungleichheit, die in Zukunft mit Blick auf die Frage der Lastenteilung der Transformation fair beantwortet werden muss. \r\nAnschlussverpflichtungen/Stilllegungspl\u00e4ne \r\n11. Ab welchem Jahr (2030, 2035, 2040, \u2026?) ist damit zu rechnen, dass es vermehrt zu \r\nAnschlussverweigerungen und Anschlussk\u00fcndigungen in Gasverteilernetzen kom- \r\nmen k\u00f6nnte? \r\nDie konkreten Stilllegungsdaten der lokalen Verteilnetze lassen sich nur sehr lokal genau absch\u00e4t-zen. Deshalb wird ein gutes, zentrales Monitoring der Gas-Planungsvorhaben und der Transfor-mationspl\u00e4ne in der W\u00e4rmeplanung von essentieller Bedeutung sein. \r\n13. Was ist ein realistischer Zeitraum f\u00fcr einen Stilllegungspfad im Rahmen eines Still- \r\nlegungsplans? Von welchen Faktoren h\u00e4ngt die L\u00e4nge eines Stilllegungspfades ab? \r\nMit dem Abschluss der kommunalen W\u00e4rmeplanung sowie der Nicht-Ausweisung von Wasser-stoffvorranggebieten sollte der Stilllegungspfad der Gasverteilnetze starten. Sofern in den Gebie-ten die Schaffung eines W\u00e4rmenetzes vorgesehen ist, sollte die Stilllegung sich am Ausbaufort-schritt des entsprechenden Netzes orientieren und nach der Verf\u00fcgbarkeit des W\u00e4rmenetzes eine \u00dcbergangszeit zum Heizungswechsel vorsehen. Seite 6 von 6 \r\n\r\nIn Gebieten ohne geplante W\u00e4rmenetze sollte eine \u00dcbergangsfrist f\u00fcr die Stilllegung der Gasnetze gelten, innerhalb welcher die Haushalte ihren Heizungswechsel planen k\u00f6nnen. Die Haushalte sollten zum Zeitpunkt der Festlegung der W\u00e4rmeplanung dar\u00fcber informiert werden, dass ihr Gas-anschluss perspektivisch stillgelegt wird. \r\n17. Wie sollten Stilllegungen von Netzanschl\u00fcssen zuk\u00fcnftig finanziert werden? \r\nDie Stilllegung von Netzanschl\u00fcssen sollte \u00fcber angesparte Reserven seitens der Netzbetreiber, sowie deren wahrgenommene R\u00fcckbauverpflichtungen finanziert werden. \r\nKonzessionsvertr\u00e4ge \r\n32. Wie soll mit F\u00e4llen umgegangen wird, in denen ein Geb\u00e4udeeigent\u00fcmer sich f\u00fcr \r\neine Heizungsanlage, die mit Wasserstoff, Biomethan oder (partiell) mit fossilem Gas \r\nbetrieben wird, entscheidet in der Annahme, dass das Gasnetz weiterbetrieben oder \r\ntransformiert wird und im Nachhinein die Stilllegung des Gasnetzes beschlossen \r\nwird? \r\nUm solche H\u00e4rtef\u00e4lle zu vermeiden, sollte zum einen eine m\u00f6glichst fr\u00fchzeitige Information \u00fcber die geplante Art der W\u00e4rmeversorgung in der kommunalen W\u00e4rmeplanung stattfinden - insbe-sondere sofern eine Transformation des Gasnetzes im entsprechenden Gebiet nicht vorgesehen ist. Sofern eine Ausweisung des Gebiets zu einem Wasserstoffvorranggebiet in der W\u00e4rmepla-nung vorgesehen sein sollte, ist es Aufgabe des Gesetzgebers sicherzustellen, dass die Betroffenen m\u00f6glichst fr\u00fchzeitig \u00fcber die vorhandenen Risiken von Wasserstoff- oder Biomethan-Heizungen sowie das Risiko von Fehlinvestitionen in nicht-emissionsfreie Heizungsanlagen hingewiesen wer-den \r\nDes Weiteren braucht es die Einrichtung eines H\u00e4rtefallfonds, um die W\u00e4rmewende sozial zu flan-kieren und allen Haushalten die Umstellung auf erneuerbare Alternativen zu erm\u00f6glichen. \r\nSonstiges \r\n33. In welchem Ma\u00dfe beabsichtigen die Kommunen, in Gebieten mit bestehenden Erd- \r\ngasverteilnetzen diese als Wasserstoffvorranggebiete auszuweisen? \r\nDie Erfahrungen aus Baden-W\u00fcrttemberg zeigen, dass im Schnitt Kommunen 13% ihres W\u00e4rme-bedarfs mit Wasserstoff decken wollen. Dies ist deutlich \u00fcberdimensioniert und geht weit \u00fcber die aktuell verf\u00fcgbaren Mengen hinaus. Entsprechend ist der Gesetzgeber in der Pflicht, Leitplan-ken zu setzen, um \u00fcberdimensionierte transformierte Gasnetze zu verhindern, welche schluss-endlich finanzielle Mehrbelastungen der Haushalte bedeuten und die Versorgung mit gr\u00fcnem Wasserstoff in Bereichen gef\u00e4hrden, in denen nach heutigem Stand keine sinnvollen Alternativen f\u00fcr die Dekarbonisierung existieren. Zudem gibt es aktuell nur wenig konkrete Daten und Aussa-gen zur Umwidmung von Erdgas- zu Wasserstoff-Netzen, was den hohen Unsicherheiten geschul-det ist (diese sind den Kommunen meist jedoch durchaus bewusst).2 \r\n2 BUND Baden-W\u00fcrttemberg: https://solar.bund-bawue.de/heating/ (Stand 12.04.2024)  \r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

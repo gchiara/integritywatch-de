@@ -1,0 +1,802 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-23T17:10:47.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-01T09:16:36.000+01:00",
+        "lastUpdateDate": "2024-07-10T17:01:40.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 41363,
+                "validFromDate": "2024-07-10T17:01:40.000+02:00",
+                "version": 11,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 30199,
+                "validFromDate": "2024-06-26T12:24:53.000+02:00",
+                "validUntilDate": "2024-07-10T17:01:40.000+02:00",
+                "version": 10,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 28679,
+                "validFromDate": "2024-02-22T12:01:08.000+01:00",
+                "validUntilDate": "2024-06-26T12:24:53.000+02:00",
+                "version": 9,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 28678,
+                "validFromDate": "2024-01-31T17:03:26.000+01:00",
+                "validUntilDate": "2024-02-22T12:01:08.000+01:00",
+                "version": 8,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 28105,
+                "validFromDate": "2024-01-10T12:13:27.000+01:00",
+                "validUntilDate": "2024-01-31T17:03:26.000+01:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22628,
+                "validFromDate": "2023-06-30T13:09:18.000+02:00",
+                "validUntilDate": "2024-01-10T12:13:27.000+01:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 19654,
+                "validFromDate": "2023-05-02T16:15:22.000+02:00",
+                "validUntilDate": "2023-06-30T13:09:18.000+02:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16844,
+                "validFromDate": "2023-02-23T17:10:47.000+01:00",
+                "validUntilDate": "2023-05-02T16:15:22.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_PRIVATE_ORGA_V2",
+            "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinn\u00fctzigkeit nach Abgabenordnung",
+            "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+        },
+        "activityDescription": "Mit rund 130.000 Mitgliedern verf\u00fcgt der VDI e.V. als eine der gr\u00f6\u00dften technisch-wissenschaftlichen Vereinigungen Deutschlands \u00fcber eine einzigartige Breite an Expertise. Durch die wachsende Bedeutung von Technik und Innovation kommt dem VDI e.V. als unabh\u00e4ngiger Organisation eine zentrale Aufgabe zu: F\u00fcr nachhaltige politische Entscheidungen ben\u00f6tigen Politik und Gesellschaft kompetente Beratung und mehr Diskurs \u00fcber unterschiedliche L\u00f6sungswege. Der VDI f\u00f6rdert deshalb den faktenbasierten Dialog zwischen Politik, Wissenschaft und Gesellschaft, u.a. in den Bereichen Bildung und Forschung, Energie und Klimaschutz, Ingenieuraus- und -weiterbildung, Mobilit\u00e4t, Ressourceneffizienz und Umweltschutz.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_RP_RESIDE",
+                "de": "Wohnen",
+                "en": "Reside"
+            },
+            {
+                "code": "FOI_ENERGY_NET",
+                "de": "Energienetze",
+                "en": "Energy networks"
+            },
+            {
+                "code": "FOI_EP_WORK",
+                "de": "Berufliche Bildung",
+                "en": "Job education"
+            },
+            {
+                "code": "FOI_EP_CHILDHOOD",
+                "de": "Vorschulische Bildung",
+                "en": "Early childhood education"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_AF_FOOD_INDUSTRY",
+                "de": "Lebens- und Genussmittelindustrie",
+                "en": "Food and luxury food industry"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_RP_CITY",
+                "de": "Stadtentwicklung",
+                "en": "Urban development"
+            },
+            {
+                "code": "FOI_AGRICULTURE_FOOD",
+                "de": "Landwirtschaft und Ern\u00e4hrung",
+                "en": "Agriculture and food"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AEROSPACE",
+                "de": "Luft- und Raumfahrt",
+                "en": "Aerospace"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SPECIES",
+                "de": "Artenschutz/Biodiversit\u00e4t",
+                "en": "Species protection/biodiversity"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_ENERGY_NUCLEAR",
+                "de": "Atomenergie",
+                "en": "Nuclear power"
+            },
+            {
+                "code": "FOI_SCIENCE_RESEARCH_TECHNOLOGY",
+                "de": "Wissenschaft, Forschung und Technologie",
+                "en": "Science, research and technology"
+            },
+            {
+                "code": "FOI_WORK_POLICY",
+                "de": "Arbeitsmarkt",
+                "en": "Job market"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_EP_SCHOOL",
+                "de": "Schulische Bildung",
+                "en": "School education"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_RAIL",
+                "de": "Schienenverkehr",
+                "en": "Rail transportation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_INDRASTRUCTURE",
+                "de": "Verkehrsinfrastruktur",
+                "en": "Infrastructure"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_EDUCATION_PARENTING",
+                "de": "Bildung und Erziehung",
+                "en": "Education and parenting"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_FREIGHT_TRANSPORT",
+                "de": "G\u00fcterverkehr",
+                "en": "Freight transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_POLLUTION",
+                "de": "Immissionsschutz",
+                "en": "Immission control"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_AF_FORESTRY",
+                "de": "Land- und Forstwirtschaft",
+                "en": "Agriculture and forestry"
+            },
+            {
+                "code": "FOI_EP_ACADEMIC",
+                "de": "Hochschulbildung",
+                "en": "Academic education"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_EP_OTHER",
+                "de": "Sonstiges im Bereich \"Bildung und Erziehung\"",
+                "en": "Other in the field of \"Education and parenting\""
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/83/c3/333161/JA2023_Bilanz_GuV_eV.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "Die Reinhard Frank-Stiftung f\u00f6rdert die Sommerrunde des internationalen Stipendienprogramms ENGINEERING4CHANGE von VDI und ASME. Die ausgew\u00e4hlten Fellows beleuchten in themenspezifischen Projektteams gemeinsam technisch-ingenieurwissenschaftliche Fragestellungen.  ",
+                "donationEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "name": "Reinhard Frank-Stiftung, 20095 Hamburg"
+            },
+            {
+                "description": "Die Reinhard Frank-Stiftung f\u00f6rdert die Sommerrunde des internationalen Stipendienprogramms ENGINEERING4CHANGE von VDI und ASME. Die ausgew\u00e4hlten Fellows beleuchten in themenspezifischen Projektteams gemeinsam technisch-ingenieurwissenschaftliche Fragestellungen.  ",
+                "donationEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "name": "Reinhard Frank-Stiftung, 20095 Hamburg"
+            },
+            {
+                "description": "Der VDI und die Joachim Herz Stiftung kooperieren, um Sch\u00fclerinnen und Sch\u00fcler in der Nachwuchsf\u00f6rderung f\u00fcr Technikwissen zu begeistern. Die Joachim Herz-Stiftung unterst\u00fctzt den VDI-Joachim-Herz-Technikfonds und f\u00f6rdert dadurch bundesweit Schulen, Bildungsinitiativen und au\u00dferschulische Lernorte finanziell bei ihren Projekten.",
+                "donationEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "name": "Joachim Herz-Stiftung, 22419 Hamburg"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 220001,
+            "to": 230000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 3.4,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 460001,
+            "to": 470000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "D\u00fcsseldorf",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "VDI-Platz ",
+            "streetNumber": "1",
+            "type": "NATIONAL",
+            "zipCode": "40468"
+        },
+        "capitalCityRepresentation": {
+            "city": "Berlin",
+            "email": "krause_c@vdi.de",
+            "nationalAdditional1": "VDI B\u00fcro Berlin",
+            "phoneNumber": "+493027595713",
+            "street": "B\u00fclowstr. ",
+            "streetNumber": "78",
+            "type": "NATIONAL",
+            "zipCode": "10783"
+        },
+        "capitalCityRepresentationPresent": true,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "krause_c@vdi.de"
+                }
+            ],
+            "phoneNumber": "+4921162140",
+            "websites": [
+                {
+                    "website": "www.vdi.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Christian",
+                "lastName": "Krause",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Karola",
+                "lastName": "Kohl",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr.-Ing.  ",
+                "firstName": "Lutz",
+                "lastName": "Eckstein",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Maximilian",
+                "lastName": "Stindt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "firstName": "Adrian",
+                "lastName": "Willig",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "firstName": "Christoph",
+                "lastName": "Hu\u00df",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Nadine",
+                "lastName": "Freimuth",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr.",
+                "firstName": "Frank",
+                "lastName": "Behrendt",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr. rer.-pol.",
+                "firstName": "Uwe",
+                "lastName": "Groth",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Klemens",
+                "lastName": "Gutmann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "firstName": "Torsten",
+                "lastName": "Habicht",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr.-Ing.",
+                "firstName": "Friedhelm",
+                "lastName": "Schl\u00f6\u00dfer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "firstName": "Helmut",
+                "lastName": "S\u00fc\u00dfer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr.-Ing.",
+                "firstName": "Christian-Andreas",
+                "lastName": "Schumann",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Prof. Dr.",
+                "firstName": "Gunter",
+                "lastName": "Notni",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Univ.-Prof. Dr.-Ing.",
+                "firstName": "Oliver",
+                "lastName": "Riedel",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr. Dipl.-Chem.",
+                "firstName": "Iris",
+                "lastName": "Spie\u00df",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Ing.(FH)",
+                "firstName": "Sven",
+                "lastName": "Warnck",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.-Ing.",
+                "firstName": "Volker",
+                "lastName": "Wittmer",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dr.-Ing.",
+                "firstName": "Wolfgang",
+                "lastName": "Zientz",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_EV",
+            "de": "Eingetragener Verein (e. V.)",
+            "en": "Registered association"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "academicDegreeBefore": "Prof. Dr.-Ing.  ",
+                "entrustedPerson": true,
+                "firstName": "Lutz",
+                "function": "Pr\u00e4sident",
+                "lastName": "Eckstein",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "entrustedPerson": true,
+                "firstName": "Adrian",
+                "function": "Direktor und gesch\u00e4ftsf\u00fchrendes Pr\u00e4sidiumsmitglied",
+                "lastName": "Willig",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "academicDegreeBefore": "Dipl.-Ing.",
+                "entrustedPerson": true,
+                "firstName": "Christoph",
+                "function": "Mitglied des Pr\u00e4sidiums und Vorsitzender des Finanzbeirats",
+                "lastName": "Hu\u00df",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-15",
+            "naturalPersons": 130000,
+            "organizations": 650,
+            "totalCount": 130650
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "DVT Deutscher Verband technisch-wissenschaftlicher Vereine e.V."
+            },
+            {
+                "membership": "Forum f\u00fcr Zukunftsenergien e.V."
+            },
+            {
+                "membership": "Nationales MINT-Forum e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "VDI Verein Deutscher Ingenieure e.V."
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            },
+            {
+                "code": "MFS_OTHERS",
+                "de": "Sonstiges",
+                "en": "Others"
+            },
+            {
+                "code": "MFS_PUBLIC_GRANTS",
+                "de": "\u00d6ffentliche Zuwendungen",
+                "en": "Public grants"
+            },
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 13490001,
+            "to": 13500000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowances": [
+            {
+                "description": "Die VDI/DIN-Kommission Reinhaltung der Luft (KRdL) Normenausschuss ist eine gemeinsame Einrichtung von VDI e.V. und DIN. Die Kommission \u00fcbernimmt staatsentlastende Aufgaben bei der Luftreinhaltung. Es handelt sich um eine institutionelle F\u00f6rderung zur Fehlbedarfsfinanzierung durch das BMUV. Die ehren- und hauptamtlich Mitarbeitenden der KRdL gestalten und setzen Standards f\u00fcr saubere Luft und Umweltschutz.Die Kommission arbeitet schwerpunktm\u00e4\u00dfig in vier Bereichen: der Umweltschutztechnik, der Umweltmeteorologie, der Umweltqualit\u00e4t sowie der Umweltmesstechnik. Die KRdL ver\u00f6ffentlicht mit dem VDI/DIN-Handbuch \"Reinhaltung der Luft\" ein zentrales Regelwerk mit mehr als 500 VDI-Richtlinien und 140 DIN-Normen, das laufend aktualisiert wird.",
+                "location": "Bonn, Berlin",
+                "name": "BMUV Bundesministerium f\u00fcr Umwelt, Naturschutz, Reaktorsicherheit und Verbraucherschutz",
+                "publicAllowanceEuro": {
+                    "from": 1580001,
+                    "to": 1590000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Das Verbundprojekt BienABest \"Standardisierte Erfassung von Wildbienen zur Evaluierung des Best\u00e4ubungspotenzials in der Agrarlandschaft\" hat zum Ziel, die \u00d6kosystemleistung \"Best\u00e4ubung durch Wildbienen\" zu sichern und zu steigern. Das Projekt soll neue Lebensr\u00e4ume f\u00fcr Wildbienen schaffen, Wildbienen beobachten und lebend bestimmen sowie die Zukunft sichern und Nachwuchs ausbilden. Der VDI e.V. koordiniert das Gesamtprojekt. Verbundpartner ist die Universit\u00e4t Ulm. ",
+                "location": "Bonn",
+                "name": "Bundesamt f\u00fcr Naturschutz (BfN) mit Mitteln des Bundesministeriums f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                "publicAllowanceEuro": {
+                    "from": 70001,
+                    "to": 80000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Klems: Abweichend von reinen Verglasungen weisen geometrische strahlungstransmittierende Bauteile oder Verschattungselemente eine starke Abh\u00e4ngigkeit des Transmissionsgrades von der Sonneneinfallsrichtung auf. Vorhandene Normen zur Transmission von Bauteilen bilden den Bedarf zur Messung der winkelabh\u00e4ngigen Energietransmission nicht ab. Vor dem Hintergrund gesetzlicher Vorgaben zur Energieeffizienz von Geb\u00e4uden besteht eine hohe praktische Relevanz, die winkelabh\u00e4ngige Energietransmission von gro\u00dffl\u00e4chigen, komplexen Bauteilen korrekt zu bestimmen. Im Fokus des Projektes KLems steht die Standardisierung eines Messverfahrens f\u00fcr den Lichttransmissionsgrad von gro\u00dffl\u00e4chigen Bauteilen (Fl\u00e4che 1-2 m\u00b2) auf der Basis eines D65-Normspektrums unter Ber\u00fccksichtigung der winkelabh\u00e4ngigen gerichteten und diffusen Strahlungsanteile. Dies soll im Rahmen der Erarbeitung einer VDI-Expertenempfehlung umgesetzt werden.\r\n",
+                "location": "Berlin/Bonn",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Das Forschungsprojekt VKTES wird im Konsortium von den Partnern GEFGA Energiesysteme GmbH, Bayerisches Zentrum f\u00fcr Angewandte Energieforschung, e.V., Hochschule Zittau/G\u00f6rlitz, Universit\u00e4t Stuttgart, FH M\u00fcnster University of Applied Sciences, Ingenieurb\u00fcro Harald Fonfara, Technische Universit\u00e4t Dresden BeKa Heiz- und K\u00fchlmatten GmbH,  Fraunhofer-Gesellschaft und Verein Deutscher Ingenieure e.V. (VDI) durchgef\u00fchrt und findet im Rahmen des F\u00f6rderprogramms WIPANO des Bundesministeriums f\u00fcr Wirtschaft und Klimaschutz (BMWK) statt. Ziel des Projekts ist die Erarbeitung von Vergleichskennzahlen f\u00fcr thermische Energiespeicher als Grundlage f\u00fcr die im Rahmen der VDI 4657 Blatt 2- Planung und Integration von Energiespeichern in Geb\u00e4udesysteme-Thermische Energiespeicher (TES) zu erarbeitenden und im Markt einzuf\u00fchrenden Planungshilfen. Der VDI e.V. ist in einem Teilvorhaben zust\u00e4ndig f\u00fcr die Standardisierung der Projektergebnisse. ",
+                "location": "Berlin/Bonn",
+                "name": "BMWK Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Das Forschungsprojekt E-KRAFT wird im Konsortium von den Partnern ITG Institut f\u00fcr Technische Geb\u00e4udeausr\u00fcstung Dresden Forschung und Anwendung GmbH, Hochschule f\u00fcr Technik und Wirtschaft Berlin, Hochschule f\u00fcr Technik und Wirtschaft Dresden (FH) und Verein Deutscher Ingenieure e.V. (VDI) durchgef\u00fchrt und findet im Rahmen des F\u00f6rderprogramms WIPANO des Bundesministeriums f\u00fcr Wirtschaft und Klimaschutz (BMWK) statt. Ziel des Projekts ist die Ermittlung energetischer Kennwerte und Regelstrategien von Abluft- und Fortluft-W\u00e4rmepumpen im realen Betrieb. Der VDI e.V. ist in einem Teilvorhaben zust\u00e4ndig f\u00fcr die Standardisierung der Projektergebnisse. ",
+                "location": "Berlin/Bonn",
+                "name": "BMWK Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Das Forschungsprojekt LEGIORAPID wird im Konsortium von den Partnern Technische Universit\u00e4t M\u00fcnchen, Technische Universit\u00e4t Dresden, GWK Pr\u00e4zisionstechnik GmbH, Bayerisches Landesamt f\u00fcr Gesundheit und Lebensmittelsicherheit sowie Verein Deutscher Ingenieure e.V. (VDI) durchgef\u00fchrt und findet im Rahmen des F\u00f6rderprogramms WIPANO des Bundesministeriums f\u00fcr Wirtschaft und Klimaschutz (BMWK) statt. Ziel des Projekts ist die Standardisierung der Gef\u00e4hrdungsanalyse im Hinblick auf Legionellen in Verdunstungsr\u00fcckk\u00fchlanlagen, Nassabscheidern und anderen Anlagen mit Prozesswasser unter besonderer Ber\u00fccksichtigung nichtkulturbasierter Nachweisverfahren. Der VDI e.V. ist in einem Teilvorhaben zust\u00e4ndig f\u00fcr die Standardisierung der Projektergebnisse. ",
+                "location": "Berlin/Bonn",
+                "name": "BMWK Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 1,
+                    "to": 10000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Das Forschungsprojekt RIWWER wird im Konsortium von den Partnern Fraunhofer-Gesellschaft, HST Systemtechnik GmbH & Co. KG, Okeanos Smart Data Solutions GmbH, Berliner Hochschule f\u00fcr Technik (BHT), Krohne Innovation GmbH, Universit\u00e4t Duisburg-Essen, Rheinisch-Westf\u00e4lische Technische Hochschule Aachen und Verein Deutscher Ingenieure e.V. (VDI) durchgef\u00fchrt und findet im Rahmen des F\u00f6rderprogramms EDGE Datenwirtschaft des Bundesministeriums f\u00fcr Wirtschaft und Klimaschutz (BMWK) statt. Ziel des Verbund-Projekts RIWWER - Reduction of the Impact of untreated WasteWater on the Environment in case of torrential Rain ist die Entwicklung einer VDI-Expertenempfehlung zu einer KI-basierten Entscheidungsunterst\u00fctzung f\u00fcr Abwassernetzsteuerungssysteme. Der VDI e.V. ist in einem Teilvorhaben zust\u00e4ndig f\u00fcr die Standardisierung der Projektergebnisse. ",
+                "location": "Berlin/Bonn",
+                "name": "BMWK Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 60001,
+                    "to": 70000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "WIPANO-Projekt (Wissenstransfer durch Patentierung und Normung): Normgerechte Feuchtemessung in CO2 unter Ber\u00fccksichtigung der Abl\u00f6sung umweltsch\u00e4dlicher Gase in der Industrie (NOREFUEGA)",
+                "location": "Bonn/Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 30001,
+                    "to": 40000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Verbundvorhaben: NRM_h2 - Normungsroadmap Wasserstofftechnologien. Teilprojekt Poxer-to-X und Elektrolyse",
+                "location": "Bonn/Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 40001,
+                    "to": 50000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projekt RIOWAR: Optimierte R\u00fchrwerke f\u00fcr Biogasfermenter und Anlagen zur biologischen Abwasser- und Reststoffbehandlung.",
+                "location": "Bonn/Berlin",
+                "name": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz",
+                "publicAllowanceEuro": {
+                    "from": 20001,
+                    "to": 30000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Projekt MULAG: \"Insektenfreundliche Pflege des Stra\u00dfenbegleitgr\u00fcns\". Geber MULAG Fahrzeugwerke Oppenau, im Rahmen des F\u00f6rderprogramms Invest BW",
+                "location": "Stuttgart",
+                "name": "Land Baden-W\u00fcrttemberg",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_LAND",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Land",
+                    "en": "German Public Sector \u2013 Land"
+                }
+            },
+            {
+                "description": "Durchf\u00fchrung des Teilvorhabens \u201eBr\u00fcckenma\u00dfnahmen und Qualifizierungsbegleitung f\u00fcr Ingenieur*innen\u201c im Rahmen des F\u00f6rderprogramms IQ \u2013 Integration durch Qualifizierung. Der VDI e.V. \u00f6ffnet Wege zur Integration qualifizierter zugewanderter Ingenieur*innen in Arbeitswelt und Gesellschaft durch und mit seinen Regionalorganisationen.",
+                "location": "Bonn/Berlin",
+                "name": "Bundesministerium f\u00fcr Arbeit und Soziales",
+                "publicAllowanceEuro": {
+                    "from": 50001,
+                    "to": 60000
+                },
+                "type": {
+                    "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+                    "de": "Deutsche \u00d6ffentliche Hand \u2013 Bund",
+                    "en": "German Public Sector \u2013 Federal"
+                }
+            },
+            {
+                "description": "Kofinanzierung der Durchf\u00fchrung des Teilvorhabens \u201eBr\u00fcckenma\u00dfnahmen und Qualifizierungsbegleitung f\u00fcr Ingenieur*innen\u201c im Rahmen des F\u00f6rderprogramms IQ \u2013 Integration durch Qualifizierung. Der VDI e.V. \u00f6ffnet Wege zur Integration qualifizierter zugewanderter Ingenieur*innen in Arbeitswelt und Gesellschaft durch und mit seinen Regionalorganisationen.",
+                "location": "Br\u00fcssel",
+                "name": "Europ\u00e4ische Kommission, Generaldirektion Besch\u00e4ftigung, Soziales und Integration",
+                "publicAllowanceEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "type": {
+                    "code": "EUROPEAN_UNION",
+                    "de": "Europ\u00e4ische Union",
+                    "en": "European Union"
+                }
+            }
+        ],
+        "publicAllowancesPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002392/41363",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-26T12:24:53.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/5a/0c/333162/Lobbyregister-Detailansicht-R002392-2024-07-10_17-01-40.pdf",
+        "validFromDate": "2024-07-10T17:01:40.000+02:00",
+        "version": 11
+    },
+    "registerEntryId": 41363,
+    "registerNumber": "R002392",
+    "regulatoryProjects": {
+        "regulatoryProjects": [],
+        "regulatoryProjectsPresent": false
+    },
+    "statements": {}
+}

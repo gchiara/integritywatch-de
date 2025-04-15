@@ -1,0 +1,789 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2023-02-22T16:21:13.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-03-03T10:55:01.000+01:00",
+        "lastUpdateDate": "2024-06-27T17:03:38.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 31016,
+                "validFromDate": "2024-06-27T17:03:38.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22300,
+                "validFromDate": "2023-06-26T18:34:16.000+02:00",
+                "validUntilDate": "2024-06-27T17:03:38.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 16421,
+                "validFromDate": "2023-02-22T16:21:13.000+01:00",
+                "validUntilDate": "2023-06-26T18:34:16.000+02:00",
+                "version": 2,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_NETWORK_WITHOUT_LEGAL_FORM",
+            "de": "Plattform, Netzwerk, Interessengemeinschaft, Denkfabrik, Initiative, Aktionsb\u00fcndnis o.\u00a0\u00e4.",
+            "en": "Platform, network, community of interest, think tank, initiative, action alliance"
+        },
+        "activityDescription": "Das CorA-Netzwerk f\u00fcr Unternehmensverantwortung ist ein Zusammenschluss von Organisationen und Verb\u00e4nden aus den Bereichen Menschenrechte, Umwelt, Entwicklung, Verbraucherschutz und Gewerkschaften sowie kirchlichen und anderen zivilgesellschaftlichen Gruppen, die sich f\u00fcr verbindliche Unternehmensverantwortung einsetzen. Dazu geh\u00f6ren die gesetzliche Regulierung von menschenrechtlichen, umwelt- und klimabezogenen Sorgfaltspflichten von Unternehmen f\u00fcr ihre Wertsch\u00f6pfungsketten auf nationaler, europ\u00e4ischer und internationaler Ebene; menschenrechtliche, umwelt- und klimabezogene Kriterien bei der \u00f6ffentlichen Vergabe, Au\u00dfenwirtschaftsf\u00f6rderung, Handelspolitik und weiteren Bereichen staatlichen wirtschaftlichen Handelns; sowie faire Steuerpraktiken, nachhaltige Finanzierung, die Demokratisierung der Wirtschaft u. \u00e4. Zu diesem Zweck gibt das CorA-Netzwerk Publikationen heraus, organisiert Fachveranstaltungen, Diskussionsrunden und \u00e4hnliche dem Austausch dienende Formate und geht aktiv auf Entscheidungstr\u00e4ger*innen zu. Sein Ziel ist es, Menschenrechte und Umweltschutz in den Mittelpunkt von Gesetzgebung und anderen politischen Entscheidungen zu stellen, die sich auf die Nachhaltigkeit von Unternehmenshandeln und den Rechtsschutz von Betroffenen auswirken.\r\nOrganisatorisch mit dem CorA-Netzwerk verbunden sind die Treaty Alliance Deutschland und die Initiative Lieferkettengesetz, f\u00fcr die separate Eintr\u00e4ge bestehen.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_FOREIGN_AFFAIRS",
+                "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                "en": "Foreign policy and international relations"
+            },
+            {
+                "code": "FOI_ECONOMY_OTHER",
+                "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                "en": "Other in the field of \"Economy\""
+            },
+            {
+                "code": "FOI_LAW",
+                "de": "Recht",
+                "en": "Law"
+            },
+            {
+                "code": "FOI_FOREIGN_TRADE",
+                "de": "Au\u00dfenwirtschaft",
+                "en": "Foreign trade"
+            },
+            {
+                "code": "FOI_DEVELOPMENT_POLICY",
+                "de": "Entwicklungspolitik",
+                "en": "Development policy"
+            },
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_FA_HUMAN_RIGHTS",
+                "de": "Menschenrechte",
+                "en": "Human rights"
+            },
+            {
+                "code": "FOI_SOCIAL_POLICY",
+                "de": "Gesellschaftspolitik und soziale Gruppen",
+                "en": "Social politics and social groups"
+            },
+            {
+                "code": "FOI_ENVIRONMENT",
+                "de": "Umwelt",
+                "en": "Environment"
+            },
+            {
+                "code": "FOI_WORK_RIGHT",
+                "de": "Arbeitsrecht/Arbeitsbedingungen",
+                "en": "Work right"
+            },
+            {
+                "code": "FOI_WORK_OTHER",
+                "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                "en": "Other in the field of \"Work and employment\""
+            },
+            {
+                "code": "FOI_LAW_OTHER",
+                "de": "Sonstiges im Bereich \"Recht\"",
+                "en": "Other in the field of \"Law\""
+            },
+            {
+                "code": "FOI_STATE_ADMIN",
+                "de": "Staat und Verwaltung",
+                "en": "Government and administration"
+            },
+            {
+                "code": "FOI_PUBLIC_FINANCE",
+                "de": "\u00d6ffentliche Finanzen, Steuern und Abgaben",
+                "en": "Public finances, taxes and duties"
+            },
+            {
+                "code": "FOI_SA_PUBLIC_SERVICE",
+                "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                "en": "Public service"
+            },
+            {
+                "code": "FOI_OTHER",
+                "de": "Sonstige Interessenbereiche",
+                "en": "Other areas",
+                "fieldOfInterestText": "Unternehmensverantwortung, Bessere Rechtsetzung / B\u00fcrokratieabbau"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                "de": "Nachhaltigkeit und Ressourcenschutz",
+                "en": "Sustainability and resource protection"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_ENVIRONMENT_CLIMATE",
+                "de": "Klimaschutz",
+                "en": "Climate protection"
+            },
+            {
+                "code": "FOI_SP_GENDER",
+                "de": "Geschlechterpolitik",
+                "en": "Gender politics"
+            },
+            {
+                "code": "FOI_WORK",
+                "de": "Arbeit und Besch\u00e4ftigung",
+                "en": "Work and employment"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_FA_OTHER",
+                "de": "Sonstiges im Bereich \"Au\u00dfenpolitik und internationale Beziehungen\"",
+                "en": "Other in the field of \"Foreign policy and international relations\""
+            },
+            {
+                "code": "FOI_SA_OTHER",
+                "de": "Sonstiges im Bereich \"Staat und Verwaltung\"",
+                "en": "Other in the field of \"Government and administration\""
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "donators": [
+            {
+                "description": "Projektfinanzierung f\u00fcr Vernetzung, gemeinsame Positionsentwicklung sowie Wahrnehmung dieser Positionen durch Entscheidungstr\u00e4ger*innen",
+                "donationEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "name": "Brot f\u00fcr die Welt"
+            },
+            {
+                "description": "Projektfinanzierung f\u00fcr Vernetzung, gemeinsame Positionsentwicklung sowie Wahrnehmung dieser Positionen durch Entscheidungstr\u00e4ger*innen",
+                "donationEuro": {
+                    "from": 10001,
+                    "to": 20000
+                },
+                "name": "Misereor"
+            }
+        ],
+        "donatorsInformationPresent": true,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 30001,
+            "to": 40000
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.0,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 1,
+            "to": 10000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Berlin",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Stresemannstr.",
+            "streetNumber": "72",
+            "type": "NATIONAL",
+            "zipCode": "10963"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@cora-netz.de"
+                }
+            ],
+            "phoneNumber": "+4930577132989",
+            "websites": [
+                {
+                    "website": "www.cora-netz.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Heike",
+                "lastName": "Drillisch",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "entrustedPersonsPresent": false,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_OTHER_UNDEFINED",
+            "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+            "en": "Networks, platforms or other forms of collective activity",
+            "legalFormText": "Netzwerk von Organisationen aus den Bereichen Menschenrechte, Umweltschutz, Entwicklung, Verbraucherschutz, Gewerkschaften"
+        },
+        "legalFormType": {
+            "code": "NETWORK_PLATFORM_OR_OTHER",
+            "de": "Netzwerk, Plattform oder andere Form kollektiver T\u00e4tigkeit",
+            "en": "Network, platform or other form of collective activity"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Heike",
+                "function": "Koordinatorin",
+                "lastName": "Drillisch",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersCount": {
+            "dateCount": "2024-06-20",
+            "naturalPersons": 0,
+            "organizations": 54,
+            "totalCount": 54
+        },
+        "membersPresent": true,
+        "memberships": [
+            {
+                "membership": "Initiative Lieferkettengesetz, Treaty Alliance Deutschland, Netzwerk Agenda 2030, European Coalition for Corporate Justice"
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "CorA-Netzwerk f\u00fcr Unternehmensverantwortung"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_GIFTS_AND_DONATIONS",
+                "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+                "en": "Gifts and other lifetime donations"
+            },
+            {
+                "code": "MFS_MEMBERSHIP_FEES",
+                "de": "Mitgliedsbeitr\u00e4ge",
+                "en": "Membership fees"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 10001,
+            "to": 20000
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R002745/31016",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-27T17:03:38.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/5b/25/320534/Lobbyregister-Detailansicht-R002745-2024-06-27_17-03-38.pdf",
+        "validFromDate": "2024-06-27T17:03:38.000+02:00",
+        "version": 4
+    },
+    "registerEntryId": 31016,
+    "registerNumber": "R002745",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "LkSG",
+                        "title": "Gesetz \u00fcber die unternehmerischen Sorgfaltspflichten zur Vermeidung von Menschenrechtsverletzungen in Lieferketten",
+                        "url": "https://www.gesetze-im-internet.de/lksg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die CSDDD regelt menschenrechtliche, umwelt- und klimabezogene Sorgfaltspflichten von Unternehmen. Ziel der Interessenvertretung ist es, dass bei der Umsetzung in nationales Recht die Aspekte, die aus menschenrechtlicher und \u00f6kologischer Sicht einen Fortschritt gegen\u00fcber dem in Deutschland bereits geltenden Lieferkettensorgfaltspflichtengesetz (LkSG) darstellen, ambitioniert umgesetzt werden, ohne dass es bei anderen Bestimmungen zur Abschw\u00e4chung des LkSG kommt.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_WORK",
+                        "de": "Arbeit und Besch\u00e4ftigung",
+                        "en": "Work and employment"
+                    },
+                    {
+                        "code": "FOI_WORK_OTHER",
+                        "de": "Sonstiges im Bereich \"Arbeit und Besch\u00e4ftigung\"",
+                        "en": "Other in the field of \"Work and employment\""
+                    },
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_OTHER",
+                        "de": "Sonstige Interessenbereiche",
+                        "en": "Other areas",
+                        "fieldOfInterestText": "Unternehmensverantwortung, Bessere Rechtsetzung / B\u00fcrokratieabbau"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_OTHER",
+                        "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                        "en": "Other in the field of \"Economy\""
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007974",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/5b/5f/320532/Stellungnahme-Gutachten-SG2406270120.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-05-08"
+                            },
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                        "de": "Bundeskanzleramt (BKAmt)",
+                                        "en": "Bundeskanzleramt (BKAmt)"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-04"
+                            },
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMAS",
+                                        "de": "Bundesministerium f\u00fcr Arbeit und Soziales (BMAS)",
+                                        "en": "Bundesministerium f\u00fcr Arbeit und Soziales (BMAS)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                        "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                        "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMZ",
+                                        "de": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                                        "en": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-05"
+                            },
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_BUNDESTAG",
+                                        "de": "Bundestag",
+                                        "en": "Federal parliament"
+                                    },
+                                    {
+                                        "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                        "de": "Fraktionen/Gruppen",
+                                        "en": "Parliamentary parties/groups"
+                                    }
+                                ],
+                                "sendingDate": "2024-06-07"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0007974",
+                        "regulatoryProjectTitle": "Ambitionierte Umsetzung der EU-Richtlinie \u00fcber die Sorgfaltspflichten von Unternehmen im Hinblick auf Nachhaltigkeit (CSDDD)",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Deutsches Lieferkettengesetz darf nicht ausgesetzt werden \r\nStellungnahme des CorA-Netzwerks f\u00fcr Unternehmensverantwortung und der Initiative Lieferkettengesetz zu Vorst\u00f6\u00dfen zur Aussetzung des LkSG\r\n6. Mai 2024\r\nNach der Zustimmung des Ausschusses der St\u00e4ndigen Vertreter der Mitgliedstaaten am 15.3.24 und des Europ\u00e4ischen Parlaments am 24.4.24 steht der formalen Verabschiedung des EU-Lieferkettengesetzes (Corporate Sustainability Due Diligence Directive CSDDD) Ende Mai nichts mehr im Wege. Als Tr\u00e4ger der Initiative Lieferkettengesetz sind wir zwar entt\u00e4uscht \u00fcber die gravierende Abschw\u00e4chung gegen\u00fcber dem Richtlinientext gem\u00e4\u00df Trilogeinigung vom Dezember 2023 und die Enthaltung der Bundesregierung. Dennoch begr\u00fc\u00dfen wir die EU-Richtlinie als gro\u00dfen Fortschritt f\u00fcr den Schutz von Menschenrechten und der Umwelt in den Wertsch\u00f6pfungsketten gro\u00dfer europ\u00e4ischer Unternehmen. Von der Bundesregierung und dem Bundestag erwarten wir daher eine zeitnahe und ambitionierte \u00dcberf\u00fchrung der CSDDD in das deutsche Lieferkettensorgfaltspflichtengesetz (LkSG), die die verbesserten Regelungen der CSDDD f\u00fcr den Schutz von Menschenrechten, Umwelt und Klima \u00fcbernimmt, ohne andere Bestimmungen des LkSG abzuschw\u00e4chen. \r\nBeunruhigt sind wir \u00fcber Forderungen der FDP, das LkSG auszusetzen, bis die CSDDD in nationales Recht umgesetzt wird, sowie \u00fcber \u00c4u\u00dferungen von Wirtschaftsminister Habeck, das LkSG solle freundlicher und pragmatischer ausgestaltet werden und damit schlanker in der Umsetzung. \r\nDas deutsche Lieferkettengesetz zeigt im globalen S\u00fcden schon erste Wirkungen, da sich Unternehmen viel ernsthafter bem\u00fchen, Arbeitsrechtsverletzungen zu untersuchen und wirksame Ma\u00dfnahmen zu ergreifen. Beispielsweise berichten Gewerkschaften aus Pakistan, dass sie von den lokalen Zulieferunternehmen inzwischen sehr viel st\u00e4rker einbezogen werden. K\u00fcrzlich hat sogar ein Zulieferer des Textildiscounters KiK einen Vertrag mit dem nationalen Gewerkschaftsverband Pakistans unterschrieben.\r\nEine aktuelle repr\u00e4sentative Untersuchung von Handelsblatt und Creditreform zeigt: Nur sieben Prozent der deutschen Unternehmen lehnen gesetzliche Sorgfaltspflichten ab. 81 Prozent geben an, diese bereits vollst\u00e4ndig oder teilweise umzusetzen. Viele erkennen auch betriebswirtschaftliche Chancen, etwa hinsichtlich der Reputation, Produktqualit\u00e4t und der Resilienz von Lieferketten. Ausdr\u00fccklich kommt die Studie zu dem Ergebnis, dass \u201eder Ruf der Verb\u00e4nde nach einer Verhinderung der Richtlinie [\u2026] nicht der \u00fcberwiegenden Einstellung der Unternehmen entspricht.\u201c \r\nEin Aufweichen oder gar Aussetzen des LkSG durch die Regierung w\u00fcrde nicht nur die Gesetzgebungskompetenz des Bundestags untergraben, ein \u201eAussetzen\u201c eines vom Bundestag verabschiedeten Gesetzes ist im Grundgesetz nicht vorgesehen. Es w\u00e4re auch kontraproduktiv f\u00fcr die betroffenen Unternehmen. Wir teilen zwar die Absicht vieler Stakeholder, den B\u00fcrokratieabbau in Deutschland als Treiber einer beschleunigten Transformation anzugehen. Wir teilen aber nicht die Argumentation, dass neue menschenrechtliche und umweltbezogene Sorgfaltspflichten \u201eB\u00fcrokratie\u201c darstellen. \r\nDie Bundesregierung hat bereits umfangreiche Schritte zu Effizienzsteigerungen bei den Berichtspflichten f\u00fcr deutsche Unternehmen angek\u00fcndigt. Mit dem erneuten Verschieben der Berichtspflichten aus dem LkSG ist die Bundesregierung den Anliegen einiger Unternehmen und ihrer Verb\u00e4nde bereits klar entgegengekommen. Eine weitere Verschlankung des LkSG sehen wir nicht als erforderlich an. Zuk\u00fcnftige Anpassungen des LkSG sollten vielmehr im Rahmen der nationalen Umsetzung der CSDDD erfolgen. F\u00fcr diesen Umsetzungsprozess in nationales Recht sehen wir die deutschen Unternehmen durch das LkSG in einer Vorreiterposition, die sich nach Inkrafttreten der CSDDD als wichtiger Wettbewerbsvorteil erweisen wird.\r\nBei der nationalen Umsetzung der CSDDD ist grunds\u00e4tzlich zu beachten, dass die EU-Richtlinie Mindestanforderungen formuliert. Hinsichtlich der menschenrechtlichen und umweltbezogenen Schutzg\u00fcter, Klimapl\u00e4ne, Definition der Aktivit\u00e4tskette, Ausgestaltung der Sorgfaltspflichten, Beteiligung von Interessensgruppen, Bu\u00dfgeldh\u00f6he, zivilrechtlichen Haftung und des Zugangs zu Recht m\u00fcssen die Vorgaben der CSDDD daher mindestens vollumf\u00e4nglich in das LkSG \u00fcberf\u00fchrt werden. Ebenso wichtig ist, dass die CSDDD gem\u00e4\u00df Artikel 1 Absatz 2 nicht daf\u00fcr herangezogen werden darf, einen bereits national bestehenden Schutz der Menschenrechte und Umwelt abzuschw\u00e4chen. Insbesondere darf der geltende pers\u00f6nliche Anwendungsbereich des deutschen LkSG daher nicht eingeschr\u00e4nkt werden. Denn eine zus\u00e4tzliche Umsatzschwelle w\u00fcrde die Anzahl der in Deutschland erfassten Unternehmen je nach Sch\u00e4tzung um die H\u00e4lfte bis zwei Drittel reduzieren. Der Schutz von Umwelt und Menschenrechten in den Lieferketten der aus der Verantwortung entlassenen Unternehmen w\u00fcrde damit entgegen den Vorgaben der Richtlinie abgeschafft. Entsprechend verbietet sich in Deutschland auch eine stufenweise Anwendung, die im ersten Jahr mit Unternehmen ab 5.000 beginnen w\u00fcrde.\r\n"
+                        }
+                    }
+                ],
+                "title": "Ambitionierte Umsetzung der EU-Richtlinie \u00fcber die Sorgfaltspflichten von Unternehmen im Hinblick auf Nachhaltigkeit (CSDDD)"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "LkSG",
+                        "title": "Gesetz \u00fcber die unternehmerischen Sorgfaltspflichten zur Vermeidung von Menschenrechtsverletzungen in Lieferketten",
+                        "url": "https://www.gesetze-im-internet.de/lksg"
+                    },
+                    {
+                        "shortTitle": "WPO",
+                        "title": "Gesetz \u00fcber eine Berufsordnung der Wirtschaftspr\u00fcfer",
+                        "url": "https://www.gesetze-im-internet.de/wipro"
+                    },
+                    {
+                        "shortTitle": "WiPrPr\u00fcfV",
+                        "title": "Pr\u00fcfungsverordnung f\u00fcr Wirtschaftspr\u00fcfer nach \u00a7\u00a7 14 und 131l der Wirtschaftspr\u00fcferordnung",
+                        "url": "https://www.gesetze-im-internet.de/wiprpr_fv"
+                    },
+                    {
+                        "shortTitle": "WPAnrV",
+                        "title": "Verordnung \u00fcber die Voraussetzungen der Anerkennung von Studieng\u00e4ngen nach \u00a7 8a der Wirtschaftspr\u00fcferordnung und \u00fcber die Anrechnung von Pr\u00fcfungsleistungen aus Studieng\u00e4ngen nach \u00a7 13b der Wirtschaftspr\u00fcferordnung",
+                        "url": "https://www.gesetze-im-internet.de/wpanrv"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Die EU-Richtlinie \u00fcber Nachhaltigkeitsberichterstattung (CSRD) muss in deutsches Recht umgesetzt werden. Ziele der Interessenvertretung sind: 1) Lieferkettensorgfaltspflichtengesetz: Regeln d\u00fcrfen nicht aufgeweicht werden; 2) Unabh\u00e4ngige Best\u00e4tigungsdienstleister: zus\u00e4tzliche Kapazit\u00e4ten und Expertise einbeziehen; 3) F\u00f6rderbanken m\u00fcssen vollumf\u00e4nglich erfasst werden; 4) Nationaler Standardsetzer: Unabh\u00e4ngigkeit und zivilgesellschaftliche Beteiligung erm\u00f6glichen.",
+                "draftBill": {
+                    "leadingMinistries": [
+                        {
+                            "draftBillDocumentUrl": "https://www.bmj.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/RefE_CSRD_UmsG.pdf?__blob=publicationFile&v=2",
+                            "draftBillProjectUrl": "https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2024_CSRD_UmsG.html?nn=110518",
+                            "shortTitle": "BMJ",
+                            "title": "Bundesministerium der Justiz",
+                            "url": "https://www.bmj.de/DE/Startseite/Startseite_node.html"
+                        }
+                    ],
+                    "publicationDate": "2024-03-22",
+                    "title": "Entwurf eines Gesetzes zur Umsetzung der Richtlinie (EU) 2022/2464 des Europ\u00e4ischen Parlaments und des Rates vom 14. Dezember 2022 zur \u00c4nderung der Verordnung (EU) Nr. 537/2014 und der Richtlinien 2004/109/EG, 2006/43/EG und 2013/34/EU hinsichtlich der Nachhaltigkeitsberichterstattung von Unternehmen"
+                },
+                "draftBillPresent": true,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_LAW",
+                        "de": "Recht",
+                        "en": "Law"
+                    },
+                    {
+                        "code": "FOI_LAW_OTHER",
+                        "de": "Sonstiges im Bereich \"Recht\"",
+                        "en": "Other in the field of \"Law\""
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_OTHER",
+                        "de": "Sonstige Interessenbereiche",
+                        "en": "Other areas",
+                        "fieldOfInterestText": "Unternehmensverantwortung, Bessere Rechtsetzung / B\u00fcrokratieabbau"
+                    },
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007975",
+                "statements": [],
+                "title": "Ambitionierte Umsetzung der EU-Richtlinie hinsichtlich der Nachhaltigkeitsberichterstattung von Unternehmen (CSRD)"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "VgV",
+                        "title": "Verordnung \u00fcber die Vergabe \u00f6ffentlicher Auftr\u00e4ge",
+                        "url": "https://www.gesetze-im-internet.de/vgv_2016"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Bei der aktuellen Reform des Vergaberechts soll die Achtung der Menschenrechte sichergestellt werden. Daf\u00fcr sind u. a. n\u00f6tig: eine umfassende Definition von Nachhaltigkeit; verpflichtende Vorgaben per Gesetz; konkrete Ziele, Stufenpl\u00e4ne und Monitoring f\u00fcr sensible Produktgruppen; Unterst\u00fctzungsangebote und Standardisierung. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_CLIMATE",
+                        "de": "Klimaschutz",
+                        "en": "Climate protection"
+                    },
+                    {
+                        "code": "FOI_STATE_ADMIN",
+                        "de": "Staat und Verwaltung",
+                        "en": "Government and administration"
+                    },
+                    {
+                        "code": "FOI_SA_PUBLIC_SERVICE",
+                        "de": "\u00d6ffentlicher Dienst und \u00f6ffentliche Verwaltung",
+                        "en": "Public service"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_OTHER",
+                        "de": "Sonstige Interessenbereiche",
+                        "en": "Other areas",
+                        "fieldOfInterestText": "Unternehmensverantwortung, Bessere Rechtsetzung / B\u00fcrokratieabbau"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007976",
+                "statements": [],
+                "title": "Menschenrechts-, umwelt- und klimabezogene Reform des Vergaberechts"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GWB",
+                        "title": "Gesetz gegen Wettbewerbsbeschr\u00e4nkungen",
+                        "url": "https://www.gesetze-im-internet.de/gwb"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Bei der Reform des Kartellrechts soll \u00fcbergro\u00dfe Marktmacht effektiv begrenzt werden und\r\nNachhaltigkeit zum inh\u00e4renten Teil des Kartellrechts werden, indem u. a. externalisierte soziale und \u00f6kologische Kosten einbezogen werden. ",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENVIRONMENT",
+                        "de": "Umwelt",
+                        "en": "Environment"
+                    },
+                    {
+                        "code": "FOI_ENVIRONMENT_SUSTAINABILITY",
+                        "de": "Nachhaltigkeit und Ressourcenschutz",
+                        "en": "Sustainability and resource protection"
+                    },
+                    {
+                        "code": "FOI_FOREIGN_AFFAIRS",
+                        "de": "Au\u00dfenpolitik und internationale Beziehungen",
+                        "en": "Foreign policy and international relations"
+                    },
+                    {
+                        "code": "FOI_FA_HUMAN_RIGHTS",
+                        "de": "Menschenrechte",
+                        "en": "Human rights"
+                    },
+                    {
+                        "code": "FOI_ECONOMY",
+                        "de": "Wirtschaft",
+                        "en": "Economy"
+                    },
+                    {
+                        "code": "FOI_ECONOMY_OTHER",
+                        "de": "Sonstiges im Bereich \"Wirtschaft\"",
+                        "en": "Other in the field of \"Economy\""
+                    },
+                    {
+                        "code": "FOI_OTHER",
+                        "de": "Sonstige Interessenbereiche",
+                        "en": "Other areas",
+                        "fieldOfInterestText": "Unternehmensverantwortung, Bessere Rechtsetzung / B\u00fcrokratieabbau"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0007977",
+                "statements": [],
+                "title": "Kartellrechtsreform f\u00fcr Nachhaltigkeit und zur Begrenzung von Marktmacht "
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/5b/5f/320532/Stellungnahme-Gutachten-SG2406270120.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-05-08"
+                    },
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BKAmt",
+                                "de": "Bundeskanzleramt (BKAmt)",
+                                "en": "Bundeskanzleramt (BKAmt)"
+                            }
+                        ],
+                        "sendingDate": "2024-06-04"
+                    },
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMAS",
+                                "de": "Bundesministerium f\u00fcr Arbeit und Soziales (BMAS)",
+                                "en": "Bundesministerium f\u00fcr Arbeit und Soziales (BMAS)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMUV",
+                                "de": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+                                "en": "Bundesministerium f\u00fcr Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMZ",
+                                "de": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+                                "en": "Bundesministerium f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+                            }
+                        ],
+                        "sendingDate": "2024-06-05"
+                    },
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_BUNDESTAG",
+                                "de": "Bundestag",
+                                "en": "Federal parliament"
+                            },
+                            {
+                                "code": "RG_BUNDESTAG|RG_BT_FRACTIONS_GROUPS",
+                                "de": "Fraktionen/Gruppen",
+                                "en": "Parliamentary parties/groups"
+                            }
+                        ],
+                        "sendingDate": "2024-06-07"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0007974",
+                "regulatoryProjectTitle": "Ambitionierte Umsetzung der EU-Richtlinie \u00fcber die Sorgfaltspflichten von Unternehmen im Hinblick auf Nachhaltigkeit (CSDDD)",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Deutsches Lieferkettengesetz darf nicht ausgesetzt werden \r\nStellungnahme des CorA-Netzwerks f\u00fcr Unternehmensverantwortung und der Initiative Lieferkettengesetz zu Vorst\u00f6\u00dfen zur Aussetzung des LkSG\r\n6. Mai 2024\r\nNach der Zustimmung des Ausschusses der St\u00e4ndigen Vertreter der Mitgliedstaaten am 15.3.24 und des Europ\u00e4ischen Parlaments am 24.4.24 steht der formalen Verabschiedung des EU-Lieferkettengesetzes (Corporate Sustainability Due Diligence Directive CSDDD) Ende Mai nichts mehr im Wege. Als Tr\u00e4ger der Initiative Lieferkettengesetz sind wir zwar entt\u00e4uscht \u00fcber die gravierende Abschw\u00e4chung gegen\u00fcber dem Richtlinientext gem\u00e4\u00df Trilogeinigung vom Dezember 2023 und die Enthaltung der Bundesregierung. Dennoch begr\u00fc\u00dfen wir die EU-Richtlinie als gro\u00dfen Fortschritt f\u00fcr den Schutz von Menschenrechten und der Umwelt in den Wertsch\u00f6pfungsketten gro\u00dfer europ\u00e4ischer Unternehmen. Von der Bundesregierung und dem Bundestag erwarten wir daher eine zeitnahe und ambitionierte \u00dcberf\u00fchrung der CSDDD in das deutsche Lieferkettensorgfaltspflichtengesetz (LkSG), die die verbesserten Regelungen der CSDDD f\u00fcr den Schutz von Menschenrechten, Umwelt und Klima \u00fcbernimmt, ohne andere Bestimmungen des LkSG abzuschw\u00e4chen. \r\nBeunruhigt sind wir \u00fcber Forderungen der FDP, das LkSG auszusetzen, bis die CSDDD in nationales Recht umgesetzt wird, sowie \u00fcber \u00c4u\u00dferungen von Wirtschaftsminister Habeck, das LkSG solle freundlicher und pragmatischer ausgestaltet werden und damit schlanker in der Umsetzung. \r\nDas deutsche Lieferkettengesetz zeigt im globalen S\u00fcden schon erste Wirkungen, da sich Unternehmen viel ernsthafter bem\u00fchen, Arbeitsrechtsverletzungen zu untersuchen und wirksame Ma\u00dfnahmen zu ergreifen. Beispielsweise berichten Gewerkschaften aus Pakistan, dass sie von den lokalen Zulieferunternehmen inzwischen sehr viel st\u00e4rker einbezogen werden. K\u00fcrzlich hat sogar ein Zulieferer des Textildiscounters KiK einen Vertrag mit dem nationalen Gewerkschaftsverband Pakistans unterschrieben.\r\nEine aktuelle repr\u00e4sentative Untersuchung von Handelsblatt und Creditreform zeigt: Nur sieben Prozent der deutschen Unternehmen lehnen gesetzliche Sorgfaltspflichten ab. 81 Prozent geben an, diese bereits vollst\u00e4ndig oder teilweise umzusetzen. Viele erkennen auch betriebswirtschaftliche Chancen, etwa hinsichtlich der Reputation, Produktqualit\u00e4t und der Resilienz von Lieferketten. Ausdr\u00fccklich kommt die Studie zu dem Ergebnis, dass \u201eder Ruf der Verb\u00e4nde nach einer Verhinderung der Richtlinie [\u2026] nicht der \u00fcberwiegenden Einstellung der Unternehmen entspricht.\u201c \r\nEin Aufweichen oder gar Aussetzen des LkSG durch die Regierung w\u00fcrde nicht nur die Gesetzgebungskompetenz des Bundestags untergraben, ein \u201eAussetzen\u201c eines vom Bundestag verabschiedeten Gesetzes ist im Grundgesetz nicht vorgesehen. Es w\u00e4re auch kontraproduktiv f\u00fcr die betroffenen Unternehmen. Wir teilen zwar die Absicht vieler Stakeholder, den B\u00fcrokratieabbau in Deutschland als Treiber einer beschleunigten Transformation anzugehen. Wir teilen aber nicht die Argumentation, dass neue menschenrechtliche und umweltbezogene Sorgfaltspflichten \u201eB\u00fcrokratie\u201c darstellen. \r\nDie Bundesregierung hat bereits umfangreiche Schritte zu Effizienzsteigerungen bei den Berichtspflichten f\u00fcr deutsche Unternehmen angek\u00fcndigt. Mit dem erneuten Verschieben der Berichtspflichten aus dem LkSG ist die Bundesregierung den Anliegen einiger Unternehmen und ihrer Verb\u00e4nde bereits klar entgegengekommen. Eine weitere Verschlankung des LkSG sehen wir nicht als erforderlich an. Zuk\u00fcnftige Anpassungen des LkSG sollten vielmehr im Rahmen der nationalen Umsetzung der CSDDD erfolgen. F\u00fcr diesen Umsetzungsprozess in nationales Recht sehen wir die deutschen Unternehmen durch das LkSG in einer Vorreiterposition, die sich nach Inkrafttreten der CSDDD als wichtiger Wettbewerbsvorteil erweisen wird.\r\nBei der nationalen Umsetzung der CSDDD ist grunds\u00e4tzlich zu beachten, dass die EU-Richtlinie Mindestanforderungen formuliert. Hinsichtlich der menschenrechtlichen und umweltbezogenen Schutzg\u00fcter, Klimapl\u00e4ne, Definition der Aktivit\u00e4tskette, Ausgestaltung der Sorgfaltspflichten, Beteiligung von Interessensgruppen, Bu\u00dfgeldh\u00f6he, zivilrechtlichen Haftung und des Zugangs zu Recht m\u00fcssen die Vorgaben der CSDDD daher mindestens vollumf\u00e4nglich in das LkSG \u00fcberf\u00fchrt werden. Ebenso wichtig ist, dass die CSDDD gem\u00e4\u00df Artikel 1 Absatz 2 nicht daf\u00fcr herangezogen werden darf, einen bereits national bestehenden Schutz der Menschenrechte und Umwelt abzuschw\u00e4chen. Insbesondere darf der geltende pers\u00f6nliche Anwendungsbereich des deutschen LkSG daher nicht eingeschr\u00e4nkt werden. Denn eine zus\u00e4tzliche Umsatzschwelle w\u00fcrde die Anzahl der in Deutschland erfassten Unternehmen je nach Sch\u00e4tzung um die H\u00e4lfte bis zwei Drittel reduzieren. Der Schutz von Umwelt und Menschenrechten in den Lieferketten der aus der Verantwortung entlassenen Unternehmen w\u00fcrde damit entgegen den Vorgaben der Richtlinie abgeschafft. Entsprechend verbietet sich in Deutschland auch eine stufenweise Anwendung, die im ersten Jahr mit Unternehmen ab 5.000 beginnen w\u00fcrde.\r\n"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}

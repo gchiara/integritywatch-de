@@ -1,0 +1,532 @@
+{
+    "accountDetails": {
+        "accountHasCodexViolations": false,
+        "activeDateRanges": [
+            {
+                "fromDate": "2022-12-21T22:23:08.000+01:00"
+            }
+        ],
+        "firstPublicationDate": "2022-04-28T11:54:50.000+02:00",
+        "lastUpdateDate": "2024-06-24T13:31:05.000+02:00",
+        "registerEntryVersions": [
+            {
+                "legislation": "GL2024",
+                "registerEntryId": 30897,
+                "validFromDate": "2024-06-24T13:31:05.000+02:00",
+                "version": 7,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 26967,
+                "validFromDate": "2023-11-29T16:04:26.000+01:00",
+                "validUntilDate": "2024-06-24T13:31:05.000+02:00",
+                "version": 6,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 22281,
+                "validFromDate": "2023-06-29T08:34:53.000+02:00",
+                "validUntilDate": "2023-11-29T16:04:26.000+01:00",
+                "version": 5,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 17720,
+                "validFromDate": "2023-04-11T08:34:26.000+02:00",
+                "validUntilDate": "2023-06-29T08:34:53.000+02:00",
+                "version": 4,
+                "versionActiveLobbyist": true
+            },
+            {
+                "legislation": "GL2022",
+                "registerEntryId": 13465,
+                "validFromDate": "2022-12-21T22:23:08.000+01:00",
+                "validUntilDate": "2023-04-11T08:34:26.000+02:00",
+                "version": 3,
+                "versionActiveLobbyist": true
+            }
+        ]
+    },
+    "activeLobbyist": true,
+    "activitiesAndInterests": {
+        "activity": {
+            "code": "ACT_ORGANIZATION_V2",
+            "de": "Sonstiges Unternehmen",
+            "en": "Other company"
+        },
+        "activityDescription": "Primagas ist einer der f\u00fchrenden Fl\u00fcssiggasversorger in Deutschland und als Joint Venture der Gr\u00fcnderfamilie und der SHV Energy als deutsche BU Teil eines weltweit f\u00fchrenden Fl\u00fcssiggasversorgers. Wir versorgen in Deutschland mehr als 82.000 Kunden mit netzunabh\u00e4ngigen, sauberen und zuverl\u00e4ssigen Energietr\u00e4gern. Diese umfassen LPG, LNG, BioLPG und rDME und erm\u00f6glichen es den Kunden, ihre CO2- und Luftschadstoffemissionen in den Sektoren Geb\u00e4ude, Industrie und Verkehr deutlich zu reduzieren. Primagas versteht sich dar\u00fcber hinaus als aktiver Treiber der Energiewende im l\u00e4ndlichen Raum und somit auch als Vertreter der dort angesiedelten Kunden. \r\n\r\nUm die Anliegen der Verbraucher in den verschiedenen Sektoren in die politische Debatte einbringen zu k\u00f6nnen suchen wir den Austausch mit Vertretern aus Bundestag, Bundesregierung und Ministerien \u00fcber Stellungnahmen/Positionspapiere, Studien, die Kontaktaufnahme per Brief und E-Mail und \u00fcber Gespr\u00e4chstermine. Dabei geht es vor allem um Gesetze und Verordnungen die im Zusammenhang mit den oben genannten Energietr\u00e4gern stehen. Durch den Austausch soll erreicht werden, dass Regelungen und Verordnungen den tats\u00e4chlichen Gegebenheiten entsprechen und die Interessen unserer Kunden gewahrt werden k\u00f6nnen.",
+        "fieldsOfInterest": [
+            {
+                "code": "FOI_EUROPEAN_UNION",
+                "de": "Europapolitik und Europ\u00e4ische Union",
+                "en": "European politics and the EU"
+            },
+            {
+                "code": "FOI_EU_LAWS",
+                "de": "EU-Gesetzgebung",
+                "en": "EU legislation"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_SHIPPING",
+                "de": "Schifffahrt",
+                "en": "Shipping"
+            },
+            {
+                "code": "FOI_RP_DEVELOPMENT",
+                "de": "Bauwesen und Bauwirtschaft",
+                "en": "Construction and construction industry"
+            },
+            {
+                "code": "FOI_ENERGY",
+                "de": "Energie",
+                "en": "Energy"
+            },
+            {
+                "code": "FOI_ECONOMY_SAM_BUSINESS",
+                "de": "Kleine und mittlere Unternehmen",
+                "en": "Small and medium business"
+            },
+            {
+                "code": "FOI_ENERGY_OVERALL",
+                "de": "Allgemeine Energiepolitik",
+                "en": "Energy policy in general"
+            },
+            {
+                "code": "FOI_ENERGY_OTHER",
+                "de": "Sonstiges im Bereich \"Energie\"",
+                "en": "Other in the field of \"Energy\""
+            },
+            {
+                "code": "FOI_TRANSPORTATION_OTHER",
+                "de": "Sonstiges im Bereich \"Verkehr\"",
+                "en": "Other in the field of \"Transportation\""
+            },
+            {
+                "code": "FOI_REGINAL_PLANNING",
+                "de": "Raumordnung, Bau- und Wohnungswesen",
+                "en": "Spatial planning, construction and housing"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_PUBLIC_TRANSPORT",
+                "de": "Personenverkehr",
+                "en": "Public transportation"
+            },
+            {
+                "code": "FOI_ENERGY_RENEWABLE",
+                "de": "Erneuerbare Energien",
+                "en": "Renewable energy"
+            },
+            {
+                "code": "FOI_RP_COUNTRYSIDE",
+                "de": "L\u00e4ndlicher Raum",
+                "en": "Rural area"
+            },
+            {
+                "code": "FOI_ENERGY_FOSSILE",
+                "de": "Fossile Energien",
+                "en": "Fossil fuels"
+            },
+            {
+                "code": "FOI_TRANSPORTATION",
+                "de": "Verkehr",
+                "en": "Transportation"
+            },
+            {
+                "code": "FOI_ECONOMY",
+                "de": "Wirtschaft",
+                "en": "Economy"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_POLICY",
+                "de": "Verkehrspolitik",
+                "en": "Transport policy"
+            },
+            {
+                "code": "FOI_RP_RESIDE",
+                "de": "Wohnen",
+                "en": "Reside"
+            },
+            {
+                "code": "FOI_RP_CITY",
+                "de": "Stadtentwicklung",
+                "en": "Urban development"
+            },
+            {
+                "code": "FOI_TRANSPORTATION_AUTOMOBILE",
+                "de": "Stra\u00dfenverkehr",
+                "en": "Road traffic"
+            }
+        ],
+        "typesOfExercisingLobbyWork": [
+            {
+                "code": "SELF_OPERATED_OWN_INTEREST",
+                "de": "Die Interessenvertretung wird in eigenem Interesse selbst wahrgenommen",
+                "en": "Interest representation is self-performed in its own interest"
+            }
+        ]
+    },
+    "annualReports": {
+        "annualReportLastFiscalYearExists": true,
+        "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/4c/f8/307039/Jahresabschluss-Primagas-Energie-GmbH-2023.pdf",
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "codeOfConduct": {
+        "ownCodeOfConduct": false
+    },
+    "contracts": {
+        "contracts": [],
+        "contractsPresent": false
+    },
+    "donators": {
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalDonationsEuro": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "employeesInvolvedInLobbying": {
+        "employeeFTE": 0.3,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "financialExpenses": {
+        "financialExpensesEuro": {
+            "from": 80001,
+            "to": 90000
+        },
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "legislation": "GL2024",
+    "lobbyistIdentity": {
+        "address": {
+            "city": "Krefeld",
+            "country": {
+                "code": "DE",
+                "de": "Deutschland",
+                "en": "Germany"
+            },
+            "street": "Luisenstr.",
+            "streetNumber": "113",
+            "type": "NATIONAL",
+            "zipCode": "47799"
+        },
+        "capitalCityRepresentationPresent": false,
+        "contactDetails": {
+            "emails": [
+                {
+                    "email": "info@primagas.de"
+                }
+            ],
+            "phoneNumber": "+4921518520",
+            "websites": [
+                {
+                    "website": "https://www.primagas.de"
+                }
+            ]
+        },
+        "entrustedPersons": [
+            {
+                "firstName": "Stephan",
+                "lastName": "Klosterkamp",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "firstName": "Stefan",
+                "lastName": "Schmidt",
+                "recentGovernmentFunction": {
+                    "endDate": "2019-08",
+                    "ended": true,
+                    "houseOfRepresentatives": {
+                        "function": {
+                            "code": "FUNCTION_FOR_MEMBER",
+                            "de": "Funktion f\u00fcr ein Mitglied des Deutschen Bundestages",
+                            "en": "Function for a member of the German Bundestag"
+                        },
+                        "functionPosition": "B\u00fcroleiter"
+                    },
+                    "type": {
+                        "code": "HOUSE_OF_REPRESENTATIVES",
+                        "de": "Bundestag",
+                        "en": "House of representatives"
+                    }
+                },
+                "recentGovernmentFunctionPresent": true
+            }
+        ],
+        "entrustedPersonsPresent": true,
+        "identity": "ORGANIZATION",
+        "legalForm": {
+            "code": "LF_GMBH",
+            "de": "Gesellschaft mit beschr\u00e4nkter Haftung (GmbH)",
+            "en": "Limited liability company (GmbH)"
+        },
+        "legalFormType": {
+            "code": "JURISTIC_PERSON",
+            "de": "Juristische Person",
+            "en": "Legal person"
+        },
+        "legalRepresentatives": [
+            {
+                "entrustedPerson": true,
+                "firstName": "Stephan",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Klosterkamp",
+                "recentGovernmentFunctionPresent": false
+            },
+            {
+                "entrustedPerson": false,
+                "firstName": "Christof",
+                "function": "Gesch\u00e4ftsf\u00fchrer",
+                "lastName": "Rosenberger",
+                "recentGovernmentFunctionPresent": false
+            }
+        ],
+        "membersPresent": false,
+        "memberships": [
+            {
+                "membership": "Deutscher Verband Fl\u00fcssiggas e.V. (DVFG)"
+            },
+            {
+                "membership": "Deutscher Verband Gas und Wasser e.V. (DVGW)"
+            },
+            {
+                "membership": "Bundesverband der Energie- und Wasserwirtschaft e.V. (BDEW)"
+            },
+            {
+                "membership": "Deutsche Energie-Agentur GmbH"
+            },
+            {
+                "membership": "Bundesverband Kraft-W\u00e4rme-Kopplung e.V. (B.KWK)"
+            },
+            {
+                "membership": "Der Mittelstand. BVMW e.V."
+            },
+            {
+                "membership": "Gesamtverband der versicherungsnehmenden Wirtschaft e.V. (GVNW)"
+            },
+            {
+                "membership": "Zentralverband Karosserie- und Fahrzeugtechnik e.V. (ZKF)"
+            },
+            {
+                "membership": "Bund der Campingwirtschaft Deutschland e.V. (BVCD)"
+            },
+            {
+                "membership": "Bundesverband Geb\u00e4udeenergieberater Ingenieure Handwerker (GIH) e.V."
+            },
+            {
+                "membership": "Fachverband Biogas e.V."
+            },
+            {
+                "membership": "Landesinnungsverband f\u00fcr das bayerische Fleischerhandwerk"
+            },
+            {
+                "membership": "vbw Verband baden-w\u00fcrttembergischer Wohnungs- und Immobilienunternehmen e.V."
+            }
+        ],
+        "membershipsPresent": true,
+        "name": "Primagas Energie GmbH"
+    },
+    "mainFundingSources": {
+        "mainFundingSources": [
+            {
+                "code": "MFS_ECONOMIC_ACTIVITY",
+                "de": "Wirtschaftliche T\u00e4tigkeit",
+                "en": "Economic activity"
+            }
+        ],
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "membershipFees": {
+        "individualContributors": [],
+        "individualContributorsPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01",
+        "totalMembershipFees": {
+            "from": 0,
+            "to": 0
+        }
+    },
+    "publicAllowances": {
+        "publicAllowancesPresent": false,
+        "relatedFiscalYearEnd": "2023-12-31",
+        "relatedFiscalYearFinished": true,
+        "relatedFiscalYearStart": "2023-01-01"
+    },
+    "registerEntryDetails": {
+        "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R004364/30897",
+        "fiscalYearUpdate": {
+            "lastFiscalYearUpdate": "2024-06-24T13:31:05.000+02:00"
+        },
+        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/dd/b9/307042/Lobbyregister-Detailansicht-R004364-2024-06-24_13-31-05.pdf",
+        "validFromDate": "2024-06-24T13:31:05.000+02:00",
+        "version": 7
+    },
+    "registerEntryId": 30897,
+    "registerNumber": "R004364",
+    "regulatoryProjects": {
+        "regulatoryProjects": [
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "EBeV 2030",
+                        "title": "Verordnung \u00fcber die Emissionsberichterstattung nach dem Brennstoffemissionshandelsgesetz f\u00fcr die Jahre 2023 bis 2030",
+                        "url": "https://www.gesetze-im-internet.de/ebev_2030"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Anpassung der fehlerhaft berechneten Emissionsfaktoren f\u00fcr Fl\u00fcssiggas (LPG) zu Heizzwecken und der Dichte von Biopropan in der EBeV 2030 an die tats\u00e4chlichen physikalischen Werte zur Einhaltung der Vorgaben gem. CO2KostAufG.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_RENEWABLE",
+                        "de": "Erneuerbare Energien",
+                        "en": "Renewable energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_FOSSILE",
+                        "de": "Fossile Energien",
+                        "en": "Fossil fuels"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004640",
+                "statements": [
+                    {
+                        "pdfUrl": "https://www.lobbyregister.bundestag.de/media/19/a7/307040/Stellungnahme-Gutachten-SG2403200003.pdf",
+                        "recipientGroups": [
+                            {
+                                "recipients": [
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT",
+                                        "de": "Bundesregierung",
+                                        "en": "Federal government"
+                                    },
+                                    {
+                                        "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                        "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                        "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                                    }
+                                ],
+                                "sendingDate": "2024-03-19"
+                            }
+                        ],
+                        "regulatoryProjectNumber": "RV0004640",
+                        "regulatoryProjectTitle": "Korrektur fehlerhafter Werte f\u00fcr Fl\u00fcssiggas in der EBeV 2030",
+                        "text": {
+                            "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                            "text": "Dringender Korrekturbedarf bei fehlerhaften Werten f\u00fcr Fl\u00fcssiggas zu Heizzwecken in der EBeV\r\n2030 zur Einhaltung der Vorgaben gern. C02KostAufG\r\nSehr geehrter Herr Ministerialdirektor Goeke,\r\nleider m\u00fcssen wir uns heute in einer Angelegenheit an Sie wenden, die zahlreiche Unternehmen der deutschen\r\nFl\u00fcssiggasbranche in ernsthafte Bedr\u00e4ngnis bringt - verursacht durch fehlerhaft berechnete Emissionsfaktoren\r\nf\u00fcr Fl\u00fcssiggas (LPG), die nicht den tats\u00e4chlichen physikalischen Eigenschaften der Handelsware\r\nentsprechen. Durch die fehlerhaften Regelungen kann die Abrechnung eines Teils der Kunden nicht\r\nkorrekt vorgenommen werden. Leider haben bis dato alle Hinweise auf die Probleme durch unseren Branchenverband\r\nDVFG (Deutscher Verband Fl\u00fcssiggas) nicht zu Korrekturen durch Ihr Haus gef\u00fchrt. Der\r\nDVFG weist bereits seit Oktober 2022 (!) auf die Missstande hin, jedoch ohne Erfolg. Dass mehrere Angebote\r\nzum inhaltlichen Austausch zur Problematik nicht angenommen wurden, l\u00e4sst uns als mittelst\u00e4ndisches\r\nUnternehmen offen gesprochen ratlos zur\u00fcck, geht es doch vor allem um die betroffenen Kunden,\r\ndie wir wegen der fehlerhaften Regularien nicht korrekt abrechnen k\u00f6nnen. An dieser Stelle m\u00f6chten wir\r\ndie Problematik gerne nochmals im Detail verbringen. Nat\u00fcrlich verbunden mit der Hoffnung, dass eine\r\nzeitnahe L\u00f6sung erfolgen kann.\r\nMit der EBeV 2030 wurde f\u00fcr Fl\u00fcssiggas f\u00fcr Heizzwecke (Anlage 2, Nr. 5b) ein Emissionsfaktor festgelegt,\r\nder nach Aussagen aus Ihrem Haus auf einem angenommenen Mischungsverh\u00e4ltnis von 50% Propan und\r\n50% Butan beruht (siehe Anfrage DVFG bei Ihrem Haus vom 16. Dezember 2022 und Ihre Antwort vom\r\n09. Februar 2023 per Mail). F\u00fcr genanntes Fl\u00fcssiggas zu Heizzwecken ergibt sich somit ein Emissionsfaktor\r\nvon 0,0655 t C02/GJ. Eine solche Zusammensetzung von Fl\u00fcssiggas zu Heizzwecken ist allerdings\r\nphysikalisch unm\u00f6glich, da Butan bei Temperaturen unter 0\u00b0C nicht mehr verdampft.\r\nFl\u00fcssiggas zu Heizzwecken wird ganzj\u00e4hrig in Tanks gelagert, die im Freien stehen. Das Produkt k\u00f6nnte\r\nalso unter der zugrunde gelegten Pr\u00e4misse einer 50/50 Mischung von Propan und Butan nicht f\u00fcr die\r\nW\u00e4rmeerzeugung genutzt werden, vor allem in der Heizperiode selbst, in der die Temperaturen regelm\u00e4\u00dfig\r\nunter 0\u00b0C fallen. De facto handelt es sich bei Fl\u00fcssiggas zu Heizzwecken um ein Gasgemisch, dass zu\r\n\u00fcber 90% aus Propan besteht.\r\nF\u00fcr das weitere Verst\u00e4ndnis ist wichtig zu wissen, dass Fl\u00fcssiggas beim Endkunden in zwei unterschiedlichen\r\nVarianten abgerechnet werden kann. Die Entscheidung hier\u00fcber liegt beim Kunden selbst.\r\nVariante 1: Die Abrechnung erfolgt bei der Bef\u00fcllung des Tanks beim Kunden vor Ort. Die Ware wird ab\r\nRaffinerie oder Terminal entsprechend der tats\u00e4chlichen Zusammensetzung als Propan klassifiziert und als\r\nsolches an den Kunden vor Ort geliefert. Abrechnung, Energiebesteuerung und die Berechnung der C02-\r\nZertifikate erfolgt entsprechend auf der realistischen Produktklassifizierung.\r\nVariante 2: Der Kunde wird - wie bei Erdgas - \u00fcber einen Z\u00e4hler abgerechnet. Dies erfolgt entweder \u00fcber\r\neinen eigenen Versorgungstank oder aber \u00fcber die netzbasierte Versorgung mehrerer Kunden mittels eines\r\nzentralen Tanks.\r\nBei Variante 2 kann im Gegensatz zu Variante 1 dem Kunden kein spezifisches Produkt zugewiesen werden,\r\ndie Abrechnung erfolgt brennwertbezogen. Und die Basis f\u00fcr die brennwertbezogene Abrechnung erfolgt\r\nanhand des fehlerhaften 50/50 Mischungsverh\u00e4ltnisses. Das bedeutet, dass die Kunden der Variante 1\r\ntrotz der fehlerhaften Einstufung in Anlage 2 EBeV 2030 korrekt abgerechnet werden k\u00f6nnen, die Kunden\r\nder Variante 2 jedoch nicht. Es ergeben sich g\u00e4nzlich unterschiedliche Preisbestandteile, obwohl es sich um\r\nein und das gleiche Gas f\u00fcr ein und die gleiche Anwendung handelt. Und dies nur aufgrund der falschen\r\nEmissionsfaktoren, deren dringende Korrektur seit nunmehr eineinhalb Jahren angemahnt wird.\r\nDaher an dieser Stelle die dringende Bitte, den Emissionsfaktor von Fl\u00fcssiggas zu Heizzwecken an die tats\u00e4chlichen\r\nWerte anzupassen, die sich an denen f\u00fcr reines Propan orientieren. Der DVFG hat Ihrem Haus\r\nhierzu bereits mehrfach einen Austausch auf fachlicher Ebene vorgeschlagen. Dieser Vorschlag hat nach\r\nR\u00fccksprache mit dem DVFG nat\u00fcrlich nach wie vor Bestand und wir w\u00fcrden uns sehr freuen, wenn Sie dieses\r\nannehmen und die Problematik im Sinne der Endverbraucher auf diesem Weg aus der Welt schaffen\r\nk\u00f6nnten.\r\nDes Weiteren wird in der EBeV 2030 f\u00fcr Biopropan (Anlage 2, Nr. 10.1) eine Dichte von 0.64t/1000l angegeben.\r\nAuch dieser Wert entspricht nicht dem tats\u00e4chlichen Wert und ist mehr als 20% zu hoch angesetzt. F\u00fcr\r\nuns ist nicht nachvollziehbar, wie dieser Wert zustande kam, steht er doch unter anderem im Widerspruch zu\r\nAnhang III der Erneuerbaren Energien Richtlinie 2018/2001 (EU). Dort wird die Dichte mit 0,522t/1000l angegeben.\r\nNoch unverst\u00e4ndlicher wird die Einstufung, wenn man bedenkt, dass konventionelles Fl\u00fcssiggas\r\nund biogenes Fl\u00fcssiggas chemisch absolut identisch sind, hier jedoch g\u00e4nzlich unterschiedliche Werte angesetzt\r\nwerden.\r\nDaher wenden wir uns mit der dringen Bitte an Sie, auch diesen Wert f\u00fcr Biopropan in der EBeV 2030 an\r\nden tats\u00e4chlichen, physikalischen Wert und damit gleicherma\u00dfen auch an die europ\u00e4ische Gesetzgebung\r\nanzupassen, um auch hier Rechtssicherheit zu schaffen.\r\nSehr geehrter Herr Ministerialdirektor Goeke,\r\nunsere Kunden erwarten von uns vollkommen zu Recht eine nachvollziehbare und korrekte Abrechnung.\r\nHierf\u00fcr ben\u00f6tigen wir jedoch die entsprechenden rechtlichen Voraussetzungen, die nur Sie und Ihr Haus\r\nschaffen k\u00f6nnen. Wie Sie dem Schreiben sicherlich entnehmen k\u00f6nnen, erwarten wir uns keinen wirtschaftlichen\r\nVorteil, wir w\u00fcnschen uns lediglich rechtlich verl\u00e4ssliche Rahmenbedingungen f\u00fcr unsere Kunden.\r\nDaher bitten wir Sie dringend, die angesprochenen Anpassungen schnellstm\u00f6glich zu veranlassen. Sowohl\r\nunser Verband DVFG als auch wir stehen Ihnen sehr gerne f\u00fcr Fragen zur Verf\u00fcgung.\r\nMit freundlichen Gr\u00fc\u00dfen\r\nPRIMAGAS Energie GmbH"
+                        }
+                    }
+                ],
+                "title": "Korrektur fehlerhafter Werte f\u00fcr Fl\u00fcssiggas in der EBeV 2030"
+            },
+            {
+                "affectedLaws": [
+                    {
+                        "shortTitle": "GEG",
+                        "title": "Gesetz zur Einsparung von Energie und zur Nutzung erneuerbarer Energien zur W\u00e4rme- und K\u00e4lteerzeugung in Geb\u00e4uden",
+                        "url": "https://www.gesetze-im-internet.de/geg"
+                    }
+                ],
+                "affectedLawsPresent": true,
+                "description": "Erg\u00e4nzung der Erf\u00fcllungsoptionen in \u00a771 um sogenannte Recycled Carbon Fuels wie recycled carbon DME aus Siedlungsabf\u00e4llen.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_ENERGY",
+                        "de": "Energie",
+                        "en": "Energy"
+                    },
+                    {
+                        "code": "FOI_ENERGY_OVERALL",
+                        "de": "Allgemeine Energiepolitik",
+                        "en": "Energy policy in general"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004641",
+                "statements": [],
+                "title": "Anerkennung von Recycled Carbon Fuels im Geb\u00e4udeenergiegesetz (GEG)"
+            },
+            {
+                "affectedLaws": [],
+                "affectedLawsPresent": false,
+                "description": "Unter Punkt 3 EE Klasse in Anhang 1 (TMA) zu BEG WG wird als Mindestanforderung u.a. die Nutzung einer Brennstoffzelle mit gr\u00fcnem Wasserstoff und Biomethan aufgef\u00fchrt. Eine Ungleichbehandlung von Biomethan und biogenem Fl\u00fcssiggas ist nicht sachgem\u00e4\u00df (wie bereits im GEG anerkannt) und somit schnellstm\u00f6glich durch die Aufnahme von biogenem Fl\u00fcssiggas zur Nutzung in einer Brennstoffzelle als Erf\u00fcllungsoption zu korrigieren.",
+                "draftBillPresent": false,
+                "fieldsOfInterest": [
+                    {
+                        "code": "FOI_REGINAL_PLANNING",
+                        "de": "Raumordnung, Bau- und Wohnungswesen",
+                        "en": "Spatial planning, construction and housing"
+                    },
+                    {
+                        "code": "FOI_RP_DEVELOPMENT",
+                        "de": "Bauwesen und Bauwirtschaft",
+                        "en": "Construction and construction industry"
+                    }
+                ],
+                "printedMatters": [],
+                "printedMattersPresent": false,
+                "regulatoryProjectNumber": "RV0004642",
+                "statements": [],
+                "title": "Beseitigung unsachgem\u00e4\u00dfer Ungleichbehandlung von Biomethan und biogenem Fl\u00fcssiggas in BEG WG"
+            }
+        ],
+        "regulatoryProjectsPresent": true
+    },
+    "statements": {
+        "statements": [
+            {
+                "pdfUrl": "https://www.lobbyregister.bundestag.de/media/19/a7/307040/Stellungnahme-Gutachten-SG2403200003.pdf",
+                "recipientGroups": [
+                    {
+                        "recipients": [
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT",
+                                "de": "Bundesregierung",
+                                "en": "Federal government"
+                            },
+                            {
+                                "code": "RG_FEDERAL_GOVERNMENT|RG_FG_BMWK",
+                                "de": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)",
+                                "en": "Bundesministerium f\u00fcr Wirtschaft und Klimaschutz (BMWK)"
+                            }
+                        ],
+                        "sendingDate": "2024-03-19"
+                    }
+                ],
+                "regulatoryProjectNumber": "RV0004640",
+                "regulatoryProjectTitle": "Korrektur fehlerhafter Werte f\u00fcr Fl\u00fcssiggas in der EBeV 2030",
+                "text": {
+                    "copyrightAcknowledgement": "Die grundlegenden Stellungnahmen und Gutachten k\u00f6nnen urheberrechtlich gesch\u00fctzte Werke enthalten. Eine Nutzung ist nur im urheberrechtlich zul\u00e4ssigen Rahmen erlaubt.",
+                    "text": "Dringender Korrekturbedarf bei fehlerhaften Werten f\u00fcr Fl\u00fcssiggas zu Heizzwecken in der EBeV\r\n2030 zur Einhaltung der Vorgaben gern. C02KostAufG\r\nSehr geehrter Herr Ministerialdirektor Goeke,\r\nleider m\u00fcssen wir uns heute in einer Angelegenheit an Sie wenden, die zahlreiche Unternehmen der deutschen\r\nFl\u00fcssiggasbranche in ernsthafte Bedr\u00e4ngnis bringt - verursacht durch fehlerhaft berechnete Emissionsfaktoren\r\nf\u00fcr Fl\u00fcssiggas (LPG), die nicht den tats\u00e4chlichen physikalischen Eigenschaften der Handelsware\r\nentsprechen. Durch die fehlerhaften Regelungen kann die Abrechnung eines Teils der Kunden nicht\r\nkorrekt vorgenommen werden. Leider haben bis dato alle Hinweise auf die Probleme durch unseren Branchenverband\r\nDVFG (Deutscher Verband Fl\u00fcssiggas) nicht zu Korrekturen durch Ihr Haus gef\u00fchrt. Der\r\nDVFG weist bereits seit Oktober 2022 (!) auf die Missstande hin, jedoch ohne Erfolg. Dass mehrere Angebote\r\nzum inhaltlichen Austausch zur Problematik nicht angenommen wurden, l\u00e4sst uns als mittelst\u00e4ndisches\r\nUnternehmen offen gesprochen ratlos zur\u00fcck, geht es doch vor allem um die betroffenen Kunden,\r\ndie wir wegen der fehlerhaften Regularien nicht korrekt abrechnen k\u00f6nnen. An dieser Stelle m\u00f6chten wir\r\ndie Problematik gerne nochmals im Detail verbringen. Nat\u00fcrlich verbunden mit der Hoffnung, dass eine\r\nzeitnahe L\u00f6sung erfolgen kann.\r\nMit der EBeV 2030 wurde f\u00fcr Fl\u00fcssiggas f\u00fcr Heizzwecke (Anlage 2, Nr. 5b) ein Emissionsfaktor festgelegt,\r\nder nach Aussagen aus Ihrem Haus auf einem angenommenen Mischungsverh\u00e4ltnis von 50% Propan und\r\n50% Butan beruht (siehe Anfrage DVFG bei Ihrem Haus vom 16. Dezember 2022 und Ihre Antwort vom\r\n09. Februar 2023 per Mail). F\u00fcr genanntes Fl\u00fcssiggas zu Heizzwecken ergibt sich somit ein Emissionsfaktor\r\nvon 0,0655 t C02/GJ. Eine solche Zusammensetzung von Fl\u00fcssiggas zu Heizzwecken ist allerdings\r\nphysikalisch unm\u00f6glich, da Butan bei Temperaturen unter 0\u00b0C nicht mehr verdampft.\r\nFl\u00fcssiggas zu Heizzwecken wird ganzj\u00e4hrig in Tanks gelagert, die im Freien stehen. Das Produkt k\u00f6nnte\r\nalso unter der zugrunde gelegten Pr\u00e4misse einer 50/50 Mischung von Propan und Butan nicht f\u00fcr die\r\nW\u00e4rmeerzeugung genutzt werden, vor allem in der Heizperiode selbst, in der die Temperaturen regelm\u00e4\u00dfig\r\nunter 0\u00b0C fallen. De facto handelt es sich bei Fl\u00fcssiggas zu Heizzwecken um ein Gasgemisch, dass zu\r\n\u00fcber 90% aus Propan besteht.\r\nF\u00fcr das weitere Verst\u00e4ndnis ist wichtig zu wissen, dass Fl\u00fcssiggas beim Endkunden in zwei unterschiedlichen\r\nVarianten abgerechnet werden kann. Die Entscheidung hier\u00fcber liegt beim Kunden selbst.\r\nVariante 1: Die Abrechnung erfolgt bei der Bef\u00fcllung des Tanks beim Kunden vor Ort. Die Ware wird ab\r\nRaffinerie oder Terminal entsprechend der tats\u00e4chlichen Zusammensetzung als Propan klassifiziert und als\r\nsolches an den Kunden vor Ort geliefert. Abrechnung, Energiebesteuerung und die Berechnung der C02-\r\nZertifikate erfolgt entsprechend auf der realistischen Produktklassifizierung.\r\nVariante 2: Der Kunde wird - wie bei Erdgas - \u00fcber einen Z\u00e4hler abgerechnet. Dies erfolgt entweder \u00fcber\r\neinen eigenen Versorgungstank oder aber \u00fcber die netzbasierte Versorgung mehrerer Kunden mittels eines\r\nzentralen Tanks.\r\nBei Variante 2 kann im Gegensatz zu Variante 1 dem Kunden kein spezifisches Produkt zugewiesen werden,\r\ndie Abrechnung erfolgt brennwertbezogen. Und die Basis f\u00fcr die brennwertbezogene Abrechnung erfolgt\r\nanhand des fehlerhaften 50/50 Mischungsverh\u00e4ltnisses. Das bedeutet, dass die Kunden der Variante 1\r\ntrotz der fehlerhaften Einstufung in Anlage 2 EBeV 2030 korrekt abgerechnet werden k\u00f6nnen, die Kunden\r\nder Variante 2 jedoch nicht. Es ergeben sich g\u00e4nzlich unterschiedliche Preisbestandteile, obwohl es sich um\r\nein und das gleiche Gas f\u00fcr ein und die gleiche Anwendung handelt. Und dies nur aufgrund der falschen\r\nEmissionsfaktoren, deren dringende Korrektur seit nunmehr eineinhalb Jahren angemahnt wird.\r\nDaher an dieser Stelle die dringende Bitte, den Emissionsfaktor von Fl\u00fcssiggas zu Heizzwecken an die tats\u00e4chlichen\r\nWerte anzupassen, die sich an denen f\u00fcr reines Propan orientieren. Der DVFG hat Ihrem Haus\r\nhierzu bereits mehrfach einen Austausch auf fachlicher Ebene vorgeschlagen. Dieser Vorschlag hat nach\r\nR\u00fccksprache mit dem DVFG nat\u00fcrlich nach wie vor Bestand und wir w\u00fcrden uns sehr freuen, wenn Sie dieses\r\nannehmen und die Problematik im Sinne der Endverbraucher auf diesem Weg aus der Welt schaffen\r\nk\u00f6nnten.\r\nDes Weiteren wird in der EBeV 2030 f\u00fcr Biopropan (Anlage 2, Nr. 10.1) eine Dichte von 0.64t/1000l angegeben.\r\nAuch dieser Wert entspricht nicht dem tats\u00e4chlichen Wert und ist mehr als 20% zu hoch angesetzt. F\u00fcr\r\nuns ist nicht nachvollziehbar, wie dieser Wert zustande kam, steht er doch unter anderem im Widerspruch zu\r\nAnhang III der Erneuerbaren Energien Richtlinie 2018/2001 (EU). Dort wird die Dichte mit 0,522t/1000l angegeben.\r\nNoch unverst\u00e4ndlicher wird die Einstufung, wenn man bedenkt, dass konventionelles Fl\u00fcssiggas\r\nund biogenes Fl\u00fcssiggas chemisch absolut identisch sind, hier jedoch g\u00e4nzlich unterschiedliche Werte angesetzt\r\nwerden.\r\nDaher wenden wir uns mit der dringen Bitte an Sie, auch diesen Wert f\u00fcr Biopropan in der EBeV 2030 an\r\nden tats\u00e4chlichen, physikalischen Wert und damit gleicherma\u00dfen auch an die europ\u00e4ische Gesetzgebung\r\nanzupassen, um auch hier Rechtssicherheit zu schaffen.\r\nSehr geehrter Herr Ministerialdirektor Goeke,\r\nunsere Kunden erwarten von uns vollkommen zu Recht eine nachvollziehbare und korrekte Abrechnung.\r\nHierf\u00fcr ben\u00f6tigen wir jedoch die entsprechenden rechtlichen Voraussetzungen, die nur Sie und Ihr Haus\r\nschaffen k\u00f6nnen. Wie Sie dem Schreiben sicherlich entnehmen k\u00f6nnen, erwarten wir uns keinen wirtschaftlichen\r\nVorteil, wir w\u00fcnschen uns lediglich rechtlich verl\u00e4ssliche Rahmenbedingungen f\u00fcr unsere Kunden.\r\nDaher bitten wir Sie dringend, die angesprochenen Anpassungen schnellstm\u00f6glich zu veranlassen. Sowohl\r\nunser Verband DVFG als auch wir stehen Ihnen sehr gerne f\u00fcr Fragen zur Verf\u00fcgung.\r\nMit freundlichen Gr\u00fc\u00dfen\r\nPRIMAGAS Energie GmbH"
+                }
+            }
+        ],
+        "statementsPresent": true
+    }
+}
